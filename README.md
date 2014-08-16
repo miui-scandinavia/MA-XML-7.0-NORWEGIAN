@@ -1,4 +1,4 @@
-License of this work is covered below, for more information contact datagutt@lekanger.no
+License of this work is covered below, for more information contact datagutt <at> lekanger.no
 
 #MIUIv6 - Norwegian translations#
 

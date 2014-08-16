@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Øyeblikkelig</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Øyeblikkelig</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">En time siden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">En halv time siden</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">En time siden</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">En halv time siden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Om en time</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Om en halv time</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Om en time</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Om en halv time</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min siden</item>
+        <item quantity="one">et min siden</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">et minutt siden</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om et minutt</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%d elementer valgt</item>
+        <item quantity="one">%d element valgt</item>
+    </plurals>
+</resources>

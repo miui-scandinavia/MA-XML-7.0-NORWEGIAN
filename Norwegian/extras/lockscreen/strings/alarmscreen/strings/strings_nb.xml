@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">skyv opp for å lukke</string>
+    <string name="snooze_message">Slumre i %d min</string>
+</resources>
