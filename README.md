@@ -1,6 +1,6 @@
 License of this work is covered below, for more information contact datagutt@lekanger.no
 
-#MIUI v6 - Norwegian translations#
+#MIUIv6 - Norwegian translations#
 
 ---------------------------------------------------------------------------------------------
 
