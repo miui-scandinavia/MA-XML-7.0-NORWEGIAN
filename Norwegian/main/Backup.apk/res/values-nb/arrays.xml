@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi data</item>
+        <item>Alle apper</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Nettleser</item>
+        <item>Tillatelser</item>
+        <item>Kamera</item>
+        <item>Databruk</item>
+        <item>Værdata</item>
+        <item>Vær</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakter</item>
+        <item>Anropslogg</item>
+        <item>Meldinger</item>
+        <item>Multimedia meldinger</item>
+        <item>System-innstillinger</item>
+        <item>Wi-Fi-innstillinger</item>
+        <item>Hjemskjerm-layout</item>
+        <item>Alarm-innstillinger</item>
+        <item>Notater</item>
+        <item>DND</item>
+        <item>Konto</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Apper</item>
+        <item>Apper og data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontakter</item>
+        <item>Anropslogg</item>
+        <item>Meldinger</item>
+        <item>Wi-Fi-innstillinger</item>
+        <item>Notat</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontakter</item>
+        <item>Wi-Fi-innstillinger</item>
+        <item>Notater</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Anropslogg</item>
+        <item>Meldinger</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Opprett kontakt</string>
+  <string name="call_log_provider_label">Anropslister</string>
+  <string name="create_contact">Ny kontakt</string>
+  <string name="debug_dump_database_message">Du er i ferd med 1) lage en kopi av databasen som inneholder all kontakt-relatert informarsjon og anropslogg-relatert informasjon til den interne lagringen, og 2) sende den på epost. Husk å slette kopien så snart du har kopiert det av enheten eller e-posten er mottatt.</string>
+  <string name="debug_dump_delete_button">Slett nå</string>
+  <string name="debug_dump_email_body">Vedlagt er min kontakt-database med all min kontaktinformasjon. Håndter den med varsomhet.</string>
+  <string name="debug_dump_email_sender_picker">Velg ett program for å sende filen</string>
+  <string name="debug_dump_email_subject">Kontakt-DB vedlagt</string>
+  <string name="debug_dump_start_button">Start</string>
+  <string name="debug_dump_title">Kopier kontakt-database</string>
+  <string name="default_directory">Kontakter</string>
+  <string name="edit_contact">Rediger kontakt</string>
+  <string name="local_invisible_directory">Andre</string>
+  <string name="pound_search_tip">Tast inn nummer etter # for å søke i kontakter</string>
+  <string name="provider_label">Kontakter</string>
+  <string name="read_write_all_voicemail_description">Tillater applikasjonen å lagre og motta alle talebeskjeder telefonen har adgang til.</string>
+  <string name="read_write_all_voicemail_label">Adgang til talebeskjeder</string>
+  <string name="send_sms">Send beskjed</string>
+  <string name="sharedUserLabel">Android kjerneprogrammer</string>
+  <string name="third_party_delete_contact_info">\"%s\" sletter dine Xiaomi-kontakter, vennligst bruk dine systemkontakter istedet for forbedret sikkerhet av dine kontakter.</string>
+  <string name="upgrade_msg">Oppgraderer kontaktdatabase</string>
+  <string name="upgrade_out_of_memory_notification_text">Velg for å ferdigstille oppgraderingen.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Kontaktoppgradering har bruk for mer minne</string>
+  <string name="upgrade_out_of_memory_notification_title">Oppgraderer kontaktminne</string>
+  <string name="voicemail_from_column">"Talebeskjed fra "</string>
+</resources>

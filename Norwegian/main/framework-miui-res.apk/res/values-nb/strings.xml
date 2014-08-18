@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="alwaysUsePrompt">Husk dette valget</string>
+  <string name="alwaysUsePrompt">Husk dette valget</string>
   <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
   <string name="anti_aggression_day">Anti-sinnedag</string>
   <string name="app_no_notification">Tom</string>
@@ -38,13 +38,12 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
   <string name="global_actions_reboot">Omstart</string>
   <string name="global_actions_shutdown">Skru av</string>
   <string name="global_actions_silent_mode">Stillemodus</string>
-  <string name="good_friday"/>
+  <string name="good_friday">Langfredag</string>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
   <string name="grain_rain"/>
   <string name="great_cold"/>
   <string name="great_heat"/>
-  <string name="good_friday">Langfredag</string>
   <string name="group_name_contacts">Kontakter</string>
   <string name="group_name_coworkers">Kollegaer</string>
   <string name="group_name_family">Familie</string>
@@ -93,9 +92,9 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
   <string name="national_father_day"/>
   <string name="new_years_day"/>
   <string name="no_notification_tips">Ingen varslinger</string>
-  <string name="partys_day" />
+  <string name="partys_day"/>
   <string name="paste">Kopier</string>
-  <string name="peace_day" />
+  <string name="peace_day"/>
   <string name="perm_send_push_dspt">Tillat Xiaomi push-meldinger</string>
   <string name="perm_send_push_lab">Send push-melding</string>
   <string name="presentation_payphone">Telefonkiosk</string>
@@ -104,7 +103,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
   <string name="reboot_confirm_title">Telefonen din vil starte på nytt.</string>
   <string name="reboot_progress">Starter på nytt…</string>
   <string name="replace">Ersattt</string>
-  <string name="retrocession_day" />
+  <string name="retrocession_day"/>
   <string name="screen_button_notification_text">For å slå dem på, trykk Hjem og PÅ-knappene samtidig.</string>
   <string name="screen_button_notification_title">Navigeringsknapper er slått av</string>
   <string name="screen_on_proximity_sensor_hint">For å slå av denne funksjonen, trkk Tilbake og Volum Opp-knappene samtidig.</string>

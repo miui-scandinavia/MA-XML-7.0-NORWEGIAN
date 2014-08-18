@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">Høyde %.1fm</string>
+  <string name="altitude_title">Høyde</string>
+  <string name="altitude_unit">m</string>
+  <string name="app_label">Kompass</string>
+  <string name="calibrate_altitude">Calibrating altitude</string>
+  <string name="calibrate_failed_no_location">Kalibrering mislyktes: Kunne ikke motta nåværende bredde- og lengdegrader</string>
+  <string name="calibrate_failed_timeout">Kalibrering mislyktes: Serverforbindese timeout</string>
+  <string name="calibrate_success">Kalibrering fullført</string>
+  <string name="cannot_get_location">Kunne ikke finne din plassering</string>
+  <string name="dialog_calibrat_altitude">Kalibrerer høyde gjennom internett.</string>
+  <string name="dialog_title_no_network">Vennligst aktiver WiFi eller mobildataforbindelse.</string>
+  <string name="direction_east">Ø</string>
+  <string name="direction_north">N</string>
+  <string name="direction_north_east">NE</string>
+  <string name="direction_north_west">NW</string>
+  <string name="direction_south">S</string>
+  <string name="direction_south_east">SE</string>
+  <string name="direction_south_west">SW</string>
+  <string name="direction_west">V</string>
+  <string name="do_not_show_next_time">"Don't show again"</string>
+  <string name="getting_location">Finner plassering...</string>
+  <string name="guide_toast">"Det kan være magnetfelt interferens, vennligst kalibrer kompasset ved bruk av følgende bevegelse."</string>
+  <string name="latitude">BREDDE</string>
+  <string name="location_east">%s Ø</string>
+  <string name="location_north">%s N</string>
+  <string name="location_south">%s S</string>
+  <string name="location_west">%s V</string>
+  <string name="longitude">LENGDE</string>
+  <string name="menu_calibrate">Kalibrer</string>
+  <string name="mobiledata_alert_dialog_message">Connect to the internet to calibrate altitude?</string>
+  <string name="mobiledata_alert_dialog_title">Data usage warning</string>
+  <string name="pressure">Trykk %.1fhPa</string>
+  <string name="pressure_title">Trykk</string>
+  <string name="pressure_unit">hPa</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Jeg stoler på denne applikasjonen.</string>
+  <string name="configure">Konfigurer</string>
+  <string name="data_received">Mottatt:</string>
+  <string name="data_transmitted">Sendt:</string>
+  <string name="data_value_format">%1$s bytes / %2$s pakker</string>
+  <string name="disconnect">Avbryt forbindelsen</string>
+  <string name="duration">Varighet:</string>
+  <string name="legacy_title">VPN er tilkoblet</string>
+  <string name="prompt">%s forsøker å oprette en VPN-forbindelse.</string>
+  <string name="session">Session:</string>
+  <string name="warning">Ved å fortsette, gir du applikasjonen tillatelse til å fange opp all nettverkstrafikk. </string>
+</resources>

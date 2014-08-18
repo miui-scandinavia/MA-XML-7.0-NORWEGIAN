@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusikkFX</string>
+  <string name="bass_boost_strength">Bass boost</string>
+  <string name="ci_extreme">FX Booster</string>
+  <string name="eq_dialog_title">Equaliser</string>
+  <string name="headset_plug">Vennligst sett i hodetelefoner for disse effektene</string>
+  <string name="main_toggle_effects_title">Lydeffekter</string>
+  <string name="no_effects">Effekter er ikke tilgjengelig</string>
+  <string name="picker_title">Kontrollpanel for musikkeffekter</string>
+  <string name="pr_dialog_title">Forhåndsprogrammert klang</string>
+  <string name="pr_summary">Tilleggseffekt romklang</string>
+  <string name="pr_title">Klang:</string>
+  <string name="setup">Oppsett</string>
+  <string name="user">Bruker</string>
+  <string name="virtualizer_strength">3D-effekt</string>
+</resources>

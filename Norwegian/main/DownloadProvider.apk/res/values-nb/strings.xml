@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Nedlastingshåndtering</string>
+  <string name="auto_restart_under_wifi">Gjenoppta nedlasting med WiFi når tilgjengelig</string>
+  <string name="button_cancel_download">Avbryt</string>
+  <string name="button_queue_for_wifi">Sett i kø</string>
+  <string name="button_start_now">Start nå</string>
+  <string name="dialog_insufficient_space_on_cache">Ikke nok plass på intern lagring</string>
+  <string name="dialog_insufficient_space_on_external">Ikke nok plass på ekstern lagring</string>
+  <string name="download_error">Unsuccessful</string>
+  <string name="download_no_application_title">"Can't open file"</string>
+  <string name="download_percent">%d%%</string>
+  <string name="download_queued">Queued</string>
+  <string name="download_remaining">%s left</string>
+  <string name="download_running">In progress</string>
+  <string name="download_running_percent">In progress, %d%%</string>
+  <string name="download_unknown_title">Untitled</string>
+  <string name="notification_download_complete">Nedlasting fullført.</string>
+  <string name="notification_download_failed">Nedlasting feilet.</string>
+  <string name="notification_need_wifi_for_size">Nedlastningsstørrelse krever WLAN.</string>
+  <string name="notification_paused_in_background">Pauset i bakgrunnen.</string>
+  <string name="permdesc_accessAllDownloads">Gir appen tilgang til å se og endre alle nedlastinger startet av en hvilken som helst app i systemet.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Gir appen tilgang til å laste ned filer til nedlastningscachen, som ikke kan bli slettet automatisk når nedlastingshåndtereren trenger mer plass."</string>
+  <string name="permdesc_downloadCompletedIntent">Gir appen tilgang til å sende varsler om mottatte nedlastinger. Ondsinnede apper kan bruke dette til å forvirre andre apper som laster ned filer.</string>
+  <string name="permdesc_downloadManager">Gir appen tilgang til nedlastingshåndtering for å bruke den til å laste ned filer. Ondsinnede apper kan bruke dette til å forstyrre nedlastinger og få tilgang til privat informasjon.</string>
+  <string name="permdesc_downloadManagerAdvanced">"Gir appen tilgang til nedlastningshåndtereren sine avanserte funksjoner. Ondsinnede apper kan bruke denne til å avbryte nedlastninger og få tilgang til privat informasjon."</string>
+  <string name="permdesc_downloadWithoutNotification">Gir appen tilgang til å laste ned filer gjennom nedlastningshåndtereren uten at noen varsler blir vist til brukeren.</string>
+  <string name="permdesc_seeAllExternal">Tillater applikasjonen å se alle nedlastinger til SD-kortet, uansett hvilken applikasjon som har lastet de ned.</string>
+  <string name="permlab_accessAllDownloads">Få tilgang til alle systemnedlastinger</string>
+  <string name="permlab_downloadCacheNonPurgeable">Reserver plass i nedlastings-cache</string>
+  <string name="permlab_downloadCompletedIntent">Send nedlasting varsler.</string>
+  <string name="permlab_downloadManager">Åpen nedlastingshåndtering.</string>
+  <string name="permlab_downloadManagerAdvanced">Avanserte funksjoner.</string>
+  <string name="permlab_downloadWithoutNotification">Last ned filer uten varsling</string>
+  <string name="permlab_seeAllExternal">Se alle nedlastinger til SD-kort</string>
+  <string name="root_downloads">Downloads</string>
+  <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
+
+ %s（%s）
+
+ Nedlasting av denne filen kan resultere i høyere trafikkkostnader."</string>
+  <string name="wifi_recommended_title">Fil for stor</string>
+  <string name="wifi_required_body" formatted="false">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
+  <string name="wifi_required_title">Nedlastingen er for stor for telefonnettet</string>
+</resources>

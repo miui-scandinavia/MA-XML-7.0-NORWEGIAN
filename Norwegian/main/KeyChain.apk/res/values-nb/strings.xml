@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="allow_button">Tillat</string>
+  <string name="app_name">Nøkkellenke</string>
+  <string name="deny_button">Avvis</string>
+  <string name="install_new_cert_button_label">Installer</string>
+  <string name="install_new_cert_message">Du kan installere sertifikater fra en PKCS#12 fil med endelsen %1$s eller %2$s, plasert på ekstern lagring.</string>
+  <string name="requesting_application">Applikasjonen %s har spurt om et sertifikat. Valg av et sertifikat vil gi applikasjonen mulighet for å bruke denne identiteten med servere nå og i fremtiden.</string>
+  <string name="requesting_server">Applikasjonen har identifisert den spurte server som %s, men du bør kun gi applikasjonen adgang til sertifikatet, hvis du har tillit til den.</string>
+  <string name="title_no_certs">Ingen sertifikater funnet</string>
+  <string name="title_select_cert">Velg sertifikat</string>
+</resources>

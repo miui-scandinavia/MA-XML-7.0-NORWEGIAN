@@ -151,7 +151,7 @@ Aktiver flytende vinduer?"</string>
   <string name="app_memory_use">Minnebruk</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">Finner ikke appen i listen over installerte apper.</string>
-  <string name="app_not_found_dlg_title" />
+  <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Denne appen støttes ikke i begrensede profiler</string>
   <string name="app_notifications_switch_label">Vis varsler</string>
   <string name="app_ops_never_used">(aldri brukt)</string>
@@ -209,7 +209,7 @@ Aktiver flytende vinduer?"</string>
   <string name="backup_data_summary">Sikkerhetskopier appdata, Wi-Fi-passord og andre innstillinger til Googles tjenere</string>
   <string name="backup_data_title">Sikkerhetskopier data</string>
   <string name="backup_erase_dialog_message">Vil du stoppe sikkerhetskopiering av Wi-Fi-passord, bokmerker, andre innstillinger og appdata, samt slette alle kopier på Googles tjenere?</string>
-  <string name="backup_erase_dialog_title" />
+  <string name="backup_erase_dialog_title"/>
   <string name="backup_lock_settings_picker_title">Velg reservelås</string>
   <string name="backup_pw_cancel_button_text">Avbryt</string>
   <string name="backup_pw_set_button_text">Angi passord for sikkerhetskopiering</string>
@@ -366,7 +366,7 @@ Aktiver flytende vinduer?"</string>
   <string name="bluetooth_enter_passkey_other_device">Det er mulig at du må oppgi dette passordet også på den andre enheten.</string>
   <string name="bluetooth_enter_pin_msg">Sånn kobler du til: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Skriv inn enhetens personlige kode:</string>
   <string name="bluetooth_enter_pin_other_device">Det er mulig at du må skrive inn denne PIN-koden også på den andre enheten.</string>
-  <string name="bluetooth_error_title" />
+  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Koblet til telefonlyd</string>
   <string name="bluetooth_headset_profile_summary_use_for">Bruk for telefonlyd</string>
   <string name="bluetooth_hid_profile_summary_connected">Koblet til inndataenhet</string>
@@ -442,7 +442,7 @@ Aktiver flytende vinduer?"</string>
   <string name="bluetooth_tethering_overflow_error">Kan ikke knytte til mer enn %1$d enheter.</string>
   <string name="bluetooth_turning_off">Slår av Bluetooth …</string>
   <string name="bluetooth_turning_on">Slår på Bluetooth …</string>
-  <string name="bluetooth_unknown" />
+  <string name="bluetooth_unknown"/>
   <string name="bluetooth_untether_blank">%1$s kobles fra.</string>
   <string name="bluetooth_visibility_timeout">Tidsavbrudd for synlighet</string>
   <string name="breathing_light_color_menu_title">Lysfarge</string>
@@ -452,7 +452,7 @@ Aktiver flytende vinduer?"</string>
   <string name="brightness">Lysstyrke</string>
   <string name="brightness_auto_adjust_off">Lysstyrken vil forbli lik i alle omgivelser</string>
   <string name="brightness_auto_adjust_on">Lysstyrken vil variere i relasjon med lyset i dine omgivelser</string>
-  <string name="brightness_summary">Juster lysstyrken til skjermen/string>
+  <string name="brightness_summary">Juster lysstyrken til skjermen</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Aktiver Bluetooth HCI snoop-logg</string>
   <string name="bt_hci_snoop_log_summary">Samle alle Bluetooth HCI-pakker i en fil</string>
@@ -889,9 +889,9 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="erase_application_description">Slett nedlastede apper</string>
   <string name="erase_data">Slett</string>
   <string name="erase_external_storage">Slett USB-lagring</string>
-   <string name="erase_external_storage_description">Slett alle data på intern USB-lagring, som for eksempel musikk eller bilder</string>
+  <string name="erase_external_storage_description">Slett alle data på intern USB-lagring, som for eksempel musikk eller bilder</string>
   <string name="erase_internal_storage">Slett lagret innhold</string>
-  <string name="erase_internal_storage_description">Slett musikk, bilder, videoer og annen brukerdata/string>
+  <string name="erase_internal_storage_description">Slett musikk, bilder, videoer og annen brukerdata</string>
   <string name="erase_optional">Innhold</string>
   <string name="erase_personal_data">Personlig data</string>
   <string name="erase_personal_data_description">Slett din Mi-konto info, app data og andre systeminnstillinger</string>
@@ -914,7 +914,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="filter_apps_third_party">Tredjeparts</string>
   <string name="filter_dlg_title">Velg filteralternativer</string>
   <string name="finish_application">Avslutt</string>
- <string name="finish_button_label">Fullfør</string>
+  <string name="finish_button_label">Fullfør</string>
   <string name="firmware_version">Android-versjon</string>
   <string name="floating_window_switch_label">Aktiver flytende vinduer</string>
   <string name="floating_window_switch_label_disable">Deaktiver flytende vinduer</string>
@@ -956,7 +956,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="free_wifi_summary">Trykk for å koble til %1$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Fjern</string>
-  <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>>
+  <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">auto</string>
   <string name="gadget_brightness_state_full">full</string>
@@ -1022,23 +1022,23 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="headset_settings">Hodetelefoner</string>
   <string name="heavy_weight_stop_description">Denne appen kan ikke stoppes på en trygg måte. Hvis du stopper den, kan du miste noe av arbeidet du holder på med.</string>
   <string name="help_label">Hjelp</string>
-  <string name="help_url_accounts" />
-  <string name="help_url_backup_reset" />
-  <string name="help_url_battery" />
-  <string name="help_url_bluetooth" />
-  <string name="help_url_choose_lockscreen" />
-  <string name="help_url_data_usage" />
-  <string name="help_url_dreams" />
-  <string name="help_url_location_access" />
-  <string name="help_url_more_networks" />
-  <string name="help_url_nfc_payment" />
-  <string name="help_url_remote_display" />
-  <string name="help_url_security" />
-  <string name="help_url_sound" />
-  <string name="help_url_tether" />
-  <string name="help_url_users" />
-  <string name="help_url_vpn" />
-  <string name="help_url_wifi" />
+  <string name="help_url_accounts"/>
+  <string name="help_url_backup_reset"/>
+  <string name="help_url_battery"/>
+  <string name="help_url_bluetooth"/>
+  <string name="help_url_choose_lockscreen"/>
+  <string name="help_url_data_usage"/>
+  <string name="help_url_dreams"/>
+  <string name="help_url_location_access"/>
+  <string name="help_url_more_networks"/>
+  <string name="help_url_nfc_payment"/>
+  <string name="help_url_remote_display"/>
+  <string name="help_url_security"/>
+  <string name="help_url_sound"/>
+  <string name="help_url_tether"/>
+  <string name="help_url_users"/>
+  <string name="help_url_vpn"/>
+  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Skjult SSID:</string>
   <string name="high_performance_notif_summary">Ytelsemodus er på.</string>
   <string name="high_performance_notif_title">Advarsel om batteribruk</string>
@@ -1355,7 +1355,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
   <string name="miui_screensaver_state_off">Av</string>
   <string name="miui_screensaver_state_on">På</string>
   <string name="miui_screensaver_title">Skjermsparer</string>
- <string name="miui_screensaver_usage">Bilder i skjermspareralbumet vil bli vist 5 sekunder etter at skjermen er skrudd av.</string>
+  <string name="miui_screensaver_usage">Bilder i skjermspareralbumet vil bli vist 5 sekunder etter at skjermen er skrudd av.</string>
   <string name="mms_breathing_light_color_title">Lysfarge for meldinger</string>
   <string name="mms_breathing_light_freq_title">LED-blinkevarighet for meldinger</string>
   <string name="mobile_connect_to_internet">Koble deg til Internett</string>
@@ -1365,7 +1365,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
   <string name="model_number">Modellnummer</string>
   <string name="move_app">Flytt</string>
   <string name="move_app_failed_dlg_text">Kan ikke flytte appen. %1$s</string>
-  <string name="move_app_failed_dlg_title" />
+  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Flytt til enget</string>
   <string name="move_app_to_sdcard">Flytt til USB-lagring</string>
   <string name="moving">Flytter</string>
@@ -1445,7 +1445,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
   <string name="notification_sound_dialog_title">Standard varsellyd</string>
   <string name="notification_sound_title">Standard varsellyd</string>
   <string name="notification_volume_title">Varsel</string>
-<string name="nsd_quick_toggle_summary">Tillat at andre enheter oppdager apper på denne enheten</string>
+  <string name="nsd_quick_toggle_summary">Tillat at andre enheter oppdager apper på denne enheten</string>
   <string name="nsd_quick_toggle_title">Oppdaging av nettverkstjenester</string>
   <string name="oem_radio_info_label">Produsentspesfikk informasjon og innstillinger</string>
   <string name="oldman_mode_confirm_title">Restart for å gå inn i forenklet modus?</string>
@@ -1465,7 +1465,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
   <string name="other_relative">Andre tillatelser</string>
   <string name="overlay_display_devices_title">Simulering av sekundærskjermer</string>
   <string name="owner_info_settings_edit_text_hint">Skriv inn teksten som skal vises på låseskjermen</string>
-  <string name="owner_info_settings_summary" />
+  <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Eierinformasjon</string>
   <string name="packages_subtitle">Pakker</string>
   <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
@@ -1483,7 +1483,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
   <string name="phone_call_noise_suppression">Demp støy under anrop</string>
   <string name="phone_info_label">Informasjon om enheten</string>
   <string name="phone_language">Språk</string>
-  <string name="phone_language_summary" />
+  <string name="phone_language_summary"/>
   <string name="pico_installed">Installert</string>
   <string name="pico_languages_and_voices">Språk og stemmer</string>
   <string name="pico_not_installed">Ikke installert</string>
@@ -1692,7 +1692,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
   <string name="recognizer_settings_title">Talesøk</string>
   <string name="recognizer_title">Talegjenkjenning</string>
   <string name="recompute_size">Beregner størrelse på nytt…</string>
-  <string name="regulatory_info_text" />
+  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informasjon om forskrifter</string>
   <string name="remove_account_failed">Denne kontoen er nødvendig for noen apper. Du kan bare fjerne den ved å tilbakestille nettbrettet til fabrikkinnstillingene (noe som sletter alle dine personlige data) i Sikkerhetskopiering og tilbakestilling under Innstillinger.</string>
   <string name="remove_account_label">Fjern konto</string>
@@ -1711,7 +1711,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
  Du kommer ikke til &amp;#229; miste noe appdata."</string>
   <string name="reset_app_preferences_title">Vil du tilbakestille app-innstillingene?</string>
   <string name="reset_legacy_password_settings_preface_text">Du må tilbakestille låseskjerm-passordet ditt.</string>
-  <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string> 
+  <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
   <string name="restore_default_apn">Gjenoppretter standard APN-innstillinger.</string>
   <string name="restore_default_apn_completed">Tilbakestilling av standard APN-innstillinger er fullført.</string>
   <string name="restrict_background_data_dialog_summary">Apper kjørende i bakgrunnen kan ikke motta meldinger</string>
@@ -1794,7 +1794,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
   <string name="sd_insert_summary">Sett inn USB-lagring</string>
   <string name="sd_memory">USB-lagring</string>
   <string name="sd_mount">Koble til USB-lagring</string>
-  <string name="sd_mount_summary" />
+  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Endringene trer i kraft når USB-kabelen kobles til på nytt.</string>
   <string name="sdcard_format">Slett USB-lagring</string>
   <string name="sdcard_setting">USB-lagring</string>
@@ -1949,7 +1949,7 @@ Muligens feil personlig kode."</string>
   <string name="slot_status_title">IMEI-informasjon</string>
   <string name="small_font">Liten</string>
   <string name="sms_application_title">Standard SMS-app</string>
-  <string formatted="false" name="sms_change_default_dialog_text">Vil du bruke %s i stedet for %s for SMS?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
   <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
   <string name="sms_change_default_no_previous_dialog_text">Vil du bruke %s som SMS-app?</string>
   <string name="sms_delivered_sound_dialog_title">Choose text delivered sound</string>
@@ -2084,7 +2084,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
   <string name="system_backup_section_title">Sikkerhetskpoi</string>
   <string name="system_package">Systemoppdateringer kan ikke installeres på eksterne medier.</string>
   <string name="system_storage">Intern lagring</string>
-  <string name="system_update_settings_list_item_summary" />
+  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Systemoppdateringer</string>
   <string name="terms_title">Betingelser</string>
   <string name="testing">Testing</string>
@@ -2102,7 +2102,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
   <string name="time_picker_title">Tid</string>
   <string name="time_zone_auto_stub">Velg tidssone</string>
   <string name="timezone_settings">Tidssone</string>
-   <string name="title_color_calibration">Forhåndsvalg for fargeforbedring</string>
+  <string name="title_color_calibration">Forhåndsvalg for fargeforbedring</string>
   <string name="title_dolby_control">Dobly digital plus</string>
   <string name="title_font_size">Skriftstørrelse</string>
   <string name="title_hdmi_color_calibration">Forhåndsvalg for fargeforbedring</string>
@@ -2207,7 +2207,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
   <string name="unlock_set_unlock_mode_pin">PIN-kode</string>
   <string name="unlock_set_unlock_none_summary">Ingen sikkerhet</string>
   <string name="unlock_set_unlock_none_title">Dra sidelengs</string>
-  <string name="unlock_set_unlock_off_summary" />
+  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Ingen</string>
   <string name="unlock_set_unlock_password_summary">Høy sikkerhet</string>
   <string name="unlock_set_unlock_password_title">Passord</string>
@@ -2289,7 +2289,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="user_delete_button">Slett</string>
   <string name="user_delete_user_description">Slett bruker</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
-   <string name="user_dict_settings_add_dialog_less_options">Færre valg.</string>
+  <string name="user_dict_settings_add_dialog_less_options">Færre valg.</string>
   <string name="user_dict_settings_add_dialog_more_options">Flere valg.</string>
   <string name="user_dict_settings_add_dialog_title">Legg til ordliste</string>
   <string name="user_dict_settings_add_locale_option_name">Språk:</string>
@@ -2305,7 +2305,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="user_dict_settings_edit_dialog_title">Rediger ord</string>
   <string name="user_dict_settings_empty_text">Det finnes ingen ord i brukerordlisten. Du kan legge til et ord ved å trykke på Legg til-knappen (+).</string>
   <string name="user_dict_settings_more_languages">Flere språk</string>
-  <string name="user_dict_settings_summary" />
+  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Personlig ordliste</string>
   <string name="user_image_choose_photo">Velg bilde fra galleriet</string>
   <string name="user_image_take_photo">Ta et bilde</string>
@@ -2346,7 +2346,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="vibrate_input_devices_summary">Viderefør vibrering til spillkontrolleren hvis den er koblet til.</string>
   <string name="vibrate_when_ringing_title">Vibrering når det ringer</string>
   <string name="virus_scan">Virusskann</string>
-<string name="virus_scan_app_continue">Fortsett skann</string>
+  <string name="virus_scan_app_continue">Fortsett skann</string>
   <string name="virus_scan_app_find_risk">% d risikoer funnet</string>
   <string name="virus_scan_app_finish">Skann ferdig</string>
   <string name="virus_scan_app_force_stop">Skann pauset</string>
@@ -2436,7 +2436,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="vpn_show_options">Vis avanserte alternativer</string>
   <string name="vpn_title">VPN</string>
   <string name="vpn_type">Type</string>
- <string name="vpn_username">Brukernavn</string>
+  <string name="vpn_username">Brukernavn</string>
   <string name="wait_for_debugger">Vent på feilsøkingsappen</string>
   <string name="wait_for_debugger_summary">Feilsøkt app venter til feilsøkingsapp er lagt til før den kjører</string>
   <string name="wallpaper_desktop">Hjemskjerm</string>
@@ -2486,7 +2486,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="wifi_display_certification">Trådløs skjermsertifisering</string>
   <string name="wifi_display_certification_heading">Sertifisering</string>
   <string name="wifi_display_certification_summary">Vis alternativer for trådløs skjerm-sertifisering</string>
- <string name="wifi_display_details">Skjerminnstillinger</string>
+  <string name="wifi_display_details">Skjerminnstillinger</string>
   <string name="wifi_display_enable_menu_item">Aktiver trådløs skjermdeling</string>
   <string name="wifi_display_listen_channel">Lyttekanal</string>
   <string name="wifi_display_listen_mode">Aktiver lyttemodus</string>
@@ -2573,7 +2573,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="wifi_password">Passord</string>
   <string name="wifi_poor_network_detection">Unngå dårlige tilkoblinger</string>
   <string name="wifi_poor_network_detection_summary">Ikke bruk et Wi-Fi-nettverk med mindre det har en brukbar Internett-tilkobling</string>
-  <string formatted="false" name="wifi_priority_changed">Gammel prioritetsverdi = %s, ny verdi = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Gammel prioritetsverdi = %s, ny verdi = %s</string>
   <string name="wifi_priority_label">Prioritet</string>
   <string name="wifi_priority_settings_label">Innstillinger for prioritet</string>
   <string name="wifi_priority_settings_summary">Trykk for å sette prioriteten til hvert aksesspunkt</string>
@@ -2589,7 +2589,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
   <string name="wifi_scan_always_available_summary">Tillat at Googles posisjonstjeneste og andre apper skanner etter nettverk, selv når Wi-Fi er slått av</string>
   <string name="wifi_scan_always_confirm_allow">Tillat</string>
   <string name="wifi_scan_always_confirm_deny">Avvis</string>
-  <string name="wifi_scan_always_turnon_message">"%1$s ønsker å bruke nettverksskanning, også når Wi-Fi er slått av, for bedre posisjonsnøyaktighet og andre formål. 
+  <string name="wifi_scan_always_turnon_message">"%1$s ønsker å bruke nettverksskanning, også når Wi-Fi er slått av, for bedre posisjonsnøyaktighet og andre formål.
 
 Vil du tillate dette for alle apper som prøver å skanne?"</string>
   <string name="wifi_scan_notify_remember_choice">Ikke vis igjen</string>
@@ -2686,7 +2686,7 @@ kan du også bruke andre brukeres nettverk"</string>
 Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
   <string name="wifi_speed">Linkhastighet</string>
   <string name="wifi_ssid">SSID</string>
-  <string name="wifi_ssid_hint">Skriv SSID<en/string>
+  <string name="wifi_ssid_hint">Skriv SSIDen</string>
   <string name="wifi_starting">Slår på Wi-Fi…</string>
   <string name="wifi_state_disabled">Deaktivert</string>
   <string name="wifi_state_disabling">Deaktivert</string>
@@ -2711,7 +2711,7 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
   <string name="wifi_type_approval_title">Godkjenningstype</string>
   <string name="wifi_unchanged">(uendret)</string>
   <string name="wifi_unspecified">(ikke spesifisert)</string>
-  <string name="wifi_update">Oppdater statistikk</string> 
+  <string name="wifi_update">Oppdater statistikk</string>
   <string name="wifi_wapi_as_cert">AS-sertfifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
   <string name="wifi_wapi_cert_create_subdir">Lag en mappe</string>
