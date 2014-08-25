@@ -45,9 +45,6 @@
   <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret</string>
   <string name="always_use_device">Bruk som standard for denne USB-enheten</string>
   <string name="app_label">Statuslinje</string>
-  <string name="audio_effect_custom">Konfigurer lyd</string>
-  <string name="audio_effect_info">Optimaliser lyd</string>
-  <string name="audio_effect_settings">Velg hodetelefontype</string>
   <string name="battery_low_percent_format">%d%% eller mindre igjen</string>
   <string name="battery_low_subtitle">Batterinivået er lavt</string>
   <string name="battery_low_title">Koble til lader</string>
@@ -100,8 +97,8 @@
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Plasseringlåst til GPS</string>
   <string name="gps_notification_searching_text">Søker etter GPS</string>
-  <string name="headset_custom">Personliggjør</string>
-  <string name="headset_info">Personliggjør knappefunksjoner</string>
+  <string name="headset_custom">Oppsett</string>
+  <string name="headset_info">Trykk for å konfigurerer hodetelefon-type og personliggjør knappefunksjoner</string>
   <string name="headset_settings">Headset tilkoblet</string>
   <string name="invalid_charger">"USB-lading støttes ikke. Bruk bare den medfølgende laderen."</string>
   <string name="label_view">Vis</string>

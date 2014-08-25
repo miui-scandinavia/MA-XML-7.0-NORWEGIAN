@@ -134,7 +134,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day"/>
-  <string name="unknown_caller">Onbekend nummer</string>
+  <string name="unknown_caller">Ukjent nummer</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
   <string name="white_dews"/>
@@ -145,4 +145,6 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
   <string name="yellow_page_sms_send_failed">"Kunne ikke sende SMS"</string>
   <string name="yellow_page_sms_sending">Sender</string>
   <string name="yellow_page_unable_send_sms">"Kunne ikke sende SMS"</string>
+  <string name="softap_notifif_summary">%d tilkoblet</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" tilkoblet</string>
 </resources>
