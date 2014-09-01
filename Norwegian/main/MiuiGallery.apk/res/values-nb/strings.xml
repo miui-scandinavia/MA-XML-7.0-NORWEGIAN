@@ -18,8 +18,10 @@
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">MiCloud album er fullt.</string>
   <string name="add_to_cloud_successfully_message">Lagt til i MiCloud-album.</string>
-  <string name="add_to_cloud_type_not_support_message">Fil-type ikke støttet.</string>
-  <string name="add_to_cloud_unknow_reasons">En ukjent feil skjedde</string>
+  <string name="add_to_cloud_type_not_support_message">"Denne filtypen er ikke støttet".</string>
+  <string name="add_to_cloud_unknow_reasons">Ukjent feil</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s elementer kan ikke bli lagt til hemmelig: %1$s."</string>
+  <string name="add_to_secret_successfully_message">Lagt til i hemmelig album</string>
   <string name="adding_recipients">Legger til mottakere...</string>
   <string name="album_member">Album-medlem %s</string>
   <string name="album_name">Album-navn</string>
@@ -33,7 +35,7 @@
   <string name="album_share_subtitle_normal">Delt av %1$s</string>
   <string name="album_share_subtitle_not_ready">Album-info ikke klar. Trykk for å laste ned.</string>
   <string name="album_share_subtitle_quitting">Lukker invitasjon fra %1$s...</string>
-  <string name="album_share_subtitle_requesting">Downloading album info...</string>
+  <string name="album_share_subtitle_requesting">Laster ned albuminfo...</string>
   <string name="album_share_title_new_album">Nytt delt album</string>
   <string name="albums">Album</string>
   <string name="albumset_page_title_separator"> | </string>
@@ -53,7 +55,6 @@
   <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
   <string name="auto_create_recent_album_over_ten_times">Auto opret favorit album(s) når åbnet mere end ti gange</string>
   <string name="autofix">Auto-fiks</string>
-  <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu-mobil</string>
   <string name="baidu_flyflow_downloads">Baidu-nettleser</string>
@@ -70,8 +71,7 @@
   <string name="camera_connected">Kamera tilkoblet.</string>
   <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
   <string name="camera_folder_display_name">Kamerabilder</string>
-  <string name="camera_path">/storage/extSdCard/DCIM/Camera</string>
-  <string name="camera_setas_wallpaper">Tapet</string>
+  <string name="camera_setas_wallpaper">Bakgrunn</string>
   <string name="camera_view_none_message">Bilder vil bli vist her.</string>
   <string name="cancel">Avbryt</string>
   <string name="cancel_hint">Operasjon avbrutt</string>
@@ -485,7 +485,7 @@ venner."</string>
   <string name="cloudfolder_cannot_start_with">"Mappenavn kan ikke starte med '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Mappenavn kan ikke inneholde '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">Failed to load data for unknown reason, please retry</string>
-  <string name="cloudfolder_loading_data">(Loading data...)</string>
+  <string name="cloudfolder_loading_data">(Laster data...)</string>
   <string name="cloudfolder_name_cannot_empty">Vennligst skriv ett mappenavn.</string>
   <string name="cloudfolder_name_reserved">Mappenavn er reservert.</string>
   <string name="comfirm_delete_current_album">Slett dette albumet?</string>
@@ -767,8 +767,6 @@ venner."</string>
   <string name="picker_no_album_selected">Ingen album valgt</string>
   <string name="picker_no_items_selected">Ingen elementer valgt</string>
   <string name="picker_select_album_title_empty">Velg et album</string>
-  <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-  <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Bilde</string>
   <string name="posterize">Posteriser</string>
   <string name="ppmm_gallery">PPMM</string>
@@ -786,10 +784,11 @@ venner."</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Gjenkjenner bilde…</string>
   <string name="redeye">Rødt øye</string>
-  <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>
   <string name="refocus_data_downloading">Laster ned refocus data…</string>
   <string name="remove_hidden_album">Avbryt skjulte</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s elementer kan ikke bli fjernet fra hemmelig: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Fjernet fra hemmelig album</string>
   <string name="remove_recent_album">Fjern fra favoritt-album</string>
   <string name="rename_failed">Endring av navn mislykkes</string>
   <string name="rename_failed_duplicated_name">Kunne ikke gi nytt navn, navn eksisterer allerede.</string>

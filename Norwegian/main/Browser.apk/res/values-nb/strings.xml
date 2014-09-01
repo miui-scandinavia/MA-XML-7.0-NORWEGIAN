@@ -196,7 +196,9 @@
   <string name="download_failed">Nedlastning feilet</string>
   <string name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for å laste ned %s.</string>
   <string name="download_no_sdcard_dlg_title">USB utilgjengelig</string>
-  <string name="download_pending">Start nedlastning ...</string>
+  <string name="download_pending">Start nedlastning…</string>
+  <string name="download_phone_tip">Telefon</string>
+  <string name="download_router_tip">Miruter (Last ned til Mi-ruter)</string>
   <string name="download_sdcard_busy_dlg_msg">USB-lagring er aktivert. Hvis du vil tillate nedlastninger, slå USB-lagring av i varselet.</string>
   <string name="download_sdcard_busy_dlg_title">USB utilgjengelig</string>
   <string name="downloaded">Nedlastet!</string>
@@ -517,7 +519,7 @@
   <string name="pref_video_preload_dialogtitle">Video forhåndslaster...</string>
   <string name="pref_video_preload_summary">: La nettleseren forhhåndsinnlaste videoer når serveren tillater det</string>
   <string name="pref_video_preload_title">Forhåndslast videoer</string>
-  <string name="pref_volume_key_action">Volum-knapper: Forrige/Nests side</string>
+  <string name="pref_volume_key_action">Volum-knapper: Forrige/Neste side</string>
   <string name="pref_volume_key_enabled">Lydstyrke knapper</string>
   <string name="pref_volume_key_operation">Handling for lydstyrke knapper</string>
   <string name="pref_webapp_settings_fontsize">Skriftstørrelse</string>
@@ -567,6 +569,9 @@
   <string name="return_to_homepage">Tilbake til startside</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Ingen</string>
+  <string name="router_download_exist">Denne nedlastingsfilen finnes allerede</string>
+  <string name="router_download_failed">Nedlastning feilet, vennligst prøv igjen</string>
+  <string name="router_download_success">Laster ned，vennligst sjekk fremgangen i Mi-ruter-appen</string>
   <string name="same_bookmarks_warning">Dette bokmerket eksisterer allerede</string>
   <string name="same_folder_name_warning">Denne mappen eksisterer allerede</string>
   <string name="save">OK</string>
@@ -602,6 +607,7 @@
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Sikkerhetsadvarsel</string>
   <string name="select_dot">Velg tekst</string>
+  <string name="select_download_device">Velg enhet</string>
   <string name="send_bookmark_to_home_screen">Send til hjemskjerm</string>
   <string name="send_to_popular">populær</string>
   <string name="set_as_homepage">Sett som startside</string>
