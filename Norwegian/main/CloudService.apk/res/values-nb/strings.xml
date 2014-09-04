@@ -1,65 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_denied">Access denied</string>
-  <string name="account">Account</string>
-  <string name="activate">Activate</string>
-  <string name="activating">Activating…</string>
-  <string name="alert_notif_title_dspt">Not syncing</string>
-  <string name="app_name">Xiaomi synk</string>
-  <string name="bad_authentication">Invalid username or password</string>
-  <string name="btn_return">Back</string>
-  <string name="button_cancel">Cancel</string>
-  <string name="cloud_find_device">Find Device</string>
-  <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
-  <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
-  <string name="enableAll">Sync all</string>
-  <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-  <string name="enable_micloud">Sign up or create an account</string>
-  <string name="enable_sync">Turn on</string>
-  <string name="enable_sync_dspt">Sync is off</string>
-  <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
-  <string name="error_network">"Can't connect to network"</string>
-  <string name="error_not_acceptable">Sync has been disabled.</string>
-  <string name="error_server">Server error</string>
-  <string name="error_title">"Couldn't sync"</string>
-  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
-  <string name="error_unknown">"Can't sign in"</string>
+  <string name="access_denied">Adgang nektet</string>
+  <string name="account">Konto</string>
+  <string name="activate">Aktiver</string>
+  <string name="activating">Aktiverer…</string>
+  <string name="alert_notif_title_dspt">Synker ikke</string>
+  <string name="app_name">Mi Cloud</string>
+  <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
+  <string name="btn_return">Tilbake</string>
+  <string name="button_cancel">Avbryt</string>
+  <string name="cloud_find_device">Finn enhet</string>
+  <string name="cmcc_micloud_dspt">Bruk Mi Cloud for å synkronisere data, finne din enhet,</string>
+  <string name="disable_find_device_error">"Kan ikke skru av Finn enhet. %1$s"</string>
+  <string name="enableAll">Synk alle</string>
+  <string name="enable_find_device_error">"Kan ikke skru på Finn enhet. %1$s"</string>
+  <string name="enable_micloud">Logg inn eller opprett en konto</string>
+  <string name="enable_sync">Skru på</string>
+  <string name="enable_sync_dspt">Synk er av</string>
+  <string name="error_data_in_transfer">Dine data blir overført. Vennligst vent %s timer.</string>
+  <string name="error_data_in_transfer_title">Skytjeneste er ikke tilgjengelig foreløpig.</string>
+  <string name="error_forbidden">Synk har blitt deaktivert på grunn av problemer med din Mi-konto.</string>
+  <string name="error_network">"Kan ikke koble til nettverk"</string>
+  <string name="error_not_acceptable">Synk har blitt deaktivert.</string>
+  <string name="error_server">Serverfeil</string>
+  <string name="error_title">"Kunne ikke synke"</string>
+  <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
+  <string name="error_unknown">"Kan ikke logge inn"</string>
   <string name="find_device">Finn enhet</string>
-  <string name="find_device_disabled_notice">You can toggle the Find device feature in Settings &gt; Accounts &amp; sync &gt; Mi Cloud</string>
-  <string name="find_device_disabled_title">Disabled</string>
-  <string name="find_device_disabling">Turning off…</string>
-  <string name="find_device_dspt">Lock or wipe this device remotely.</string>
-  <string name="find_device_enabling">Turning on…</string>
-  <string name="find_device_error_network">Check your data connection and try again.</string>
-  <string name="find_device_error_server">Something went wrong with our servers.</string>
+  <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen i Innstillinger &gt; Kontoer &amp; synk &gt; Mi Cloud</string>
+  <string name="find_device_disabled_title">Deaktivert</string>
+  <string name="find_device_disabling">Skrur av…</string>
+  <string name="find_device_dspt">Lås eller slett innhold på dene enhetenLock or wipe this device eksternt.</string>
+  <string name="find_device_enabling">Skrur på…</string>
+  <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
+  <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>
   <string name="find_device_noise_title">Finn enhetslyd</string>
-  <string name="find_device_notice_p1">Go to</string>
+  <string name="find_device_notice_p1">Gå til</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"to find, lock, or restore your phone.
-If you switch SIM cards, a new activation SMS must be sent ."</string>
+  <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
+Hvis du bytter SIM-kort, a new activation SMS must be sent ."</string>
   <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
-  <string name="find_device_success_title">Find device</string>
-  <string name="header_data_and_synchronization">Data &amp; sync</string>
+  <string name="find_device_success_title">Finn enhet</string>
+  <string name="header_data_and_synchronization">Data &amp; synk</string>
   <string name="i_know">OK</string>
-  <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
-  <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
-  <string name="master_alert_notif_title">Last synced %s days ago</string>
-  <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
-  <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will be backed up in the cloud.
+  <string name="master_alert_notif_dspt_add">"%s har ikke blitt synket."</string>
+  <string name="master_alert_notif_dspt_no">"Alt er oppdatert."</string>
+  <string name="master_alert_notif_title">Sist synket %s dager siden</string>
+  <string name="micloud_dspt">Bruk Mi Cloud for å synke innhold, finne din enhet,</string>
+  <string name="micloud_dspt_provision">Bruk Mi Cloud for å synke innhold, finne din enhet, og dele ting med venner.</string>
+  <string name="micloud_full_influence_dspt">"Alle dine bilder, videoer, notater og apper vil bli sikkerhetskopiert i skyen.
 
-This way, if you lose or damage your device, your data will still be safe.
+På denne måten, hvis du mister eller skader din telefon, vil dine data fortsatt dataene dine være trygge.
 
-When your cloud is full, your old data won't go anywhere. However, any new content you add (e.g. photos, video, notes, and apps) won't be backed up.
+Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt nytt innhold du legger til (f.eks bilder, video, notater og apper) ikke bli sikkerhetskopiert.
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
-  <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-  <string name="micloud_intro_01_part_01">Conserve data usage</string>
-  <string name="micloud_intro_01_part_02">Cloud Messaging lets you send messages back and forth with other MIUI users using WLAN.</string>
-  <string name="micloud_intro_02_part_01">Migrate effortlessly</string>
-  <string name="micloud_intro_02_part_02">Sync contacts, messages, photos, and more across devices.</string>
-  <string name="micloud_intro_03_part_01">"Secure your phone's contents from anywhere."</string>
-  <string name="micloud_intro_03_part_02">"Remotely locate, lock, or erase your device's contents at i.mi.com"</string>
+  <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
+  <string name="micloud_intro_01_part_01">Spar databruk<string>
+  <string name="micloud_intro_01_part_02">MIUI tillater deg å sende gratis skymeldinger via nettverket</string>
+  <string name="micloud_intro_02_part_01">Du trenger ikke å gjøre noe</string>
+  <string name="micloud_intro_02_part_02">Skytjenester lar deg synke kontakter, meldinger, bilder og annen data mellom enheter</string>
+  <string name="micloud_intro_03_part_01">"Sikre telefonen din fra hvorsomhelst."</string>
+  <string name="micloud_intro_03_part_02">"Finn enheten, lås, eller tøm enhetens innhold på i.mi.com"</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
