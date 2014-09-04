@@ -614,6 +614,7 @@
   <string name="share_link">Del link</string>
   <string name="share_page">del side</string>
   <string name="share_page_text">"Jeg nyter 【%1$s】, og vil dele det med deg! | %2$s"</string>
+<string name="sign_in_to" formatted="false">Logg inn til %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
   <string name="snapshot_go_live">Gå Live</string>
   <string name="snapshot_successed">Lagring for offline lesning fulllført</string>

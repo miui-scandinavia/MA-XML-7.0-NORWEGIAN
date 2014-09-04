@@ -77,6 +77,7 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
   <string name="adb_warning_message">USB-feilsøking er bare ment for utviklingsformål. Bruk det til å kopiere data mellom datamaskinen og enheten, installere apper på enheten uten varsel og lese loggdata.</string>
   <string name="adb_warning_title">Aktiver USB-debugging?</string>
   <string name="add_account_label">Legg til konto</string>
+  <string name="add_auto_startup_application">Legg til auto-start apper</string>
   <string name="add_device_admin">Aktiver</string>
   <string name="add_device_admin_msg">Aktiver enhetsadministrator?</string>
   <string name="additional_system_update_settings_list_item_title">Ytterligere systemoppdateringer</string>
@@ -106,6 +107,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
   <string name="android_beam_tips">Vør sikker på at de to enhetene rører hverandre, trykk så på innholdet du vil stråle.</string>
   <string name="android_beam_witch_label">Aktiver Android Beam</string>
   <string name="animator_duration_scale_title">Varighetsskala, animatør</string>
+  <string name="anti_spam">Blokkeringsliste</string>
   <string name="apn_apn">APN-navn</string>
   <string name="apn_auth_type">Autentiseringstype</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -134,6 +136,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
   <string name="apn_settings">APN</string>
   <string name="apn_type">APN-type</string>
   <string name="apn_user">Brukernavn</string>
+  <string name="app_backup">Backup</string>
   <string name="app_disable_dlg_text">Hvis du deaktiverer en innebygd app, kan andre apper oppføre seg på en uventet måte.</string>
   <string name="app_disable_dlg_title">Deaktivere innebygd app?</string>
   <string name="app_disable_notifications_dlg_text">Hvis du deaktiverer varsler for denne appen, kan du gå glipp av viktige beskjeder og oppdateringer.</string>
@@ -141,6 +144,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
   <string name="app_factory_reset">Avinstaller oppdateringer</string>
   <string name="app_factory_reset_dlg_text">Alle oppdateringer i denne Android-systemappen vil bli avinstallert.</string>
   <string name="app_factory_reset_dlg_title">Vil du avinstallere oppdateringer?</string>
+  <string name="app_feedback">Rapporter feil</string>
   <string name="app_floating_window_dlg_disable">"Deaktivering av %1$s sine flytende vindu-innstillinger vil stoppe denne appen.
 Deaktiver flytende vinduer?"</string>
   <string name="app_floating_window_dlg_enable">"Aktivering av %1$s sine flytende vindu-innstilinger krever at appen restartes. Du kan også stoppe kjøring av appen manuelt.
@@ -162,6 +166,7 @@ Aktiver flytende vinduer?"</string>
   <string name="app_sees_restricted_accounts">Denne appen har tilgang til kontoene dine</string>
   <string name="app_special_disable_dlg_text">Hvis du deaktiverer en innebygd app kan det føre til at andre apper ikke fungerer som de skal. Dataene dine blir også slettet.</string>
   <string name="app_special_disable_dlg_title">Vil du slette dataene og deaktivere appen?</string>
+  <string name="app_switch_key">Seneste</string>
   <string name="application_forbid_auto_startup">Forby %s fra å starte bakg</string>
   <string name="application_info_label">Info om app</string>
   <string name="application_item_already_permission">Tillatt</string>
@@ -179,6 +184,7 @@ Aktiver flytende vinduer?"</string>
   <string name="assisted_gps">Aktiver GPS med hjelp</string>
   <string name="assisted_gps_disabled">Bruk tjeneren til å hjelpe GPS (velg for å forbedre GPS-ytelsen)</string>
   <string name="assisted_gps_enabled">Bruk tjener til å hjelpe GPS (opphev for å redusere nettverksbruken)</string>
+<string name="audio_list_loading">Laster…</string>
   <string name="audio_profile_settings_title">Lydprofiler</string>
   <string name="audio_record_proc_title">Støyreduksjon</string>
   <string name="auto_caps">Automatisk stor forbokstav</string>
@@ -304,6 +310,7 @@ Aktiver flytende vinduer?"</string>
   <string name="biometric_weak_improve_matching_title">Forbedre ansiktssamsvar</string>
   <string name="biometric_weak_liveliness_summary">Krev blunking for å låse opp</string>
   <string name="biometric_weak_liveliness_title">Bevegelseskontroll</string>
+  <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Koblet til medielyd</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Bruk for medielyd</string>
   <string name="bluetooth_advanced_titlebar">Avansert Bluetooth</string>
@@ -326,6 +333,7 @@ Aktiver flytende vinduer?"</string>
   <string name="bluetooth_connection_notif_message">Trykk for å koble til «%1$s».</string>
   <string name="bluetooth_connection_permission_request">Bluetooth-tilkoblingsforespørsel</string>
   <string name="bluetooth_device">Bluetooth-enhet uten navn</string>
+  <string name="bluetooth_device_address">Addresse:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Tillat innkommende filoverføringer</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Koble til Bluetooth-enhet</string>
   <string name="bluetooth_device_advanced_online_mode_title">Koble til</string>
@@ -443,6 +451,20 @@ Aktiver flytende vinduer?"</string>
   <string name="bluetooth_turning_off">Slår av Bluetooth …</string>
   <string name="bluetooth_turning_on">Slår på Bluetooth …</string>
   <string name="bluetooth_unknown"/>
+  <string name="bluetooth_unlock_add_device">Legg til enhet</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Gammel enhet vil bli byttet ut med gjeldende enhet.</string>
+  <string name="bluetooth_unlock_change_matched_device">Velg annen enhet</string>
+  <string name="bluetooth_unlock_confirm_device_text">Trykk enhetene sammen for å låse opp.</string>
+  <string name="bluetooth_unlock_delete_device">Slett denne enheten</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Slett denne enheten?</string>
+  <string name="bluetooth_unlock_device_matched_text">Bruk denne enheten for å låse opp.</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Ingen enheter oppdaget</string>
+  <string name="bluetooth_unlock_settings_devices_title">Enhet</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Bruk på</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Lås opp enhet</string>
+  <string name="bluetooth_unlock_title">Lås opp med Bluetooth-enhet</string>
+  <string name="bluetooth_unlock_turned_off">Skrudd av</string>
+  <string name="bluetooth_unlock_turned_on">Skrudd på</string>
   <string name="bluetooth_untether_blank">%1$s kobles fra.</string>
   <string name="bluetooth_visibility_timeout">Tidsavbrudd for synlighet</string>
   <string name="breathing_light_color_menu_title">Lysfarge</string>
@@ -460,6 +482,7 @@ Aktiver flytende vinduer?"</string>
   <string name="bt_trace_log_summary">Aktiver Bluetooth trace log</string>
   <string name="bugreport_in_power">Feilrapporter i på/av-menyen</string>
   <string name="bugreport_in_power_summary">Inkluder alternativet for å utføre feilrapport i batterimenyen</string>
+     <string name="bugreport_tool_log">Lag feilrapport</string>
   <string name="bugreport_tool_log_toast">Logg lagret til %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Lager feilrapport (tar rundt et minutt)</string>
   <string name="build_number">Byggnummer</string>
@@ -467,6 +490,7 @@ Aktiver flytende vinduer?"</string>
   <string name="builtin_keyboard_settings_title">Fysisk tastatur</string>
   <string name="button_disconnect_network">Koble fra nettverk</string>
   <string name="button_light_timeout">Innstillinger for knappelys</string>
+    <string name="button_text_login">Logg inn</string>
   <string name="button_text_reboot_now">Omstart</string>
   <string name="cache_header_label">Hurtiglager</string>
   <string name="cache_size_label">Hurtiglager</string>
@@ -749,10 +773,12 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefonnummer, signalstyrke, osv.</string>
+  <string name="dialog_content_login">Oppdatering krever Mi-konto, vil du logge inn?</string>
   <string name="dialog_no">Nei</string>
   <string name="dialog_title_color_calibration">Fargehåndteringsforvalg</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
   <string name="dialog_title_hdmi_color_calibration">Fargehåndteringsforvalg</string>
+  <string name="dialog_title_login">Log inn på Mi-konto</string>
   <string name="dialog_yes">Ja</string>
   <string name="dirac_control">Optimaliser lydkvalitet</string>
   <string name="dirac_mode_earbuds">Mi-hodetelefoner</string>
@@ -870,6 +896,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
   <string name="enable_adb_summary">Debug-modus når USB er koblet til</string>
   <string name="enable_compatibility">Skalér app</string>
   <string name="enable_drive_mode">Bilmodus</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Aktiver mobildatatilkobling også?</string>
   <string name="enable_opengl_traces_title">Aktiver OpenGL-spor</string>
   <string name="enable_service_title">Vil du bruke %1$s?</string>
   <string name="enable_snapshot_screenlock">Langt trykk på Tilbake for å ta bilde</string>
@@ -903,6 +930,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="error_title"/>
   <string name="external_code_size_label">USB-lagringsvolum for app</string>
   <string name="external_data_size_label">USB-lagringsvolum for data</string>
+  <string name="factory_reset_summary">"Fjern alle data fra telefonen din sin sitt interne lager"</string>
   <string name="failed_to_open_app_settings_toast">Kunne ikke åpne innstillingene for %1$s</string>
   <string name="fcc_equipment_id">Utstyrs-ID</string>
   <string name="filter">Filter</string>
@@ -1242,6 +1270,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
   <string name="lte_ram_dump_on">Aktiver RAM-dump for LTE</string>
   <string name="macaddr_label">MAC-addr:</string>
   <string name="main_running_process_description">Hovedprosessen i bruk.</string>
+ <string name="make_sure_cancel_update">avbryt oppdatering？</string>
   <string name="man_add_application">Legg til auto-start apper</string>
   <string name="manage_device_admin">Enhetsadministratorer</string>
   <string name="manage_device_admin_summary">Se eller deaktiver enhetsadministratorer</string>
@@ -1511,6 +1540,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
   <string name="pointer_location_summary">Skjermoverlegg viser aktuelle berøringsdata</string>
   <string name="pointer_settings_category">Mus/styreflate</string>
   <string name="pointer_speed">Pekerhastighet</string>
+  <string name="power_autorun_apps_empty">Ingen auto-oppstart apper</string>
+  <string name="power_autorun_empty">Ingen apper</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Celle-standby</string>
   <string name="power_idle">Enheten ikke i bruk</string>
