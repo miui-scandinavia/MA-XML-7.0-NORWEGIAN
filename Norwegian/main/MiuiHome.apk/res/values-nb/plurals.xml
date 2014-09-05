@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="zero">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+        <item quantity="two">%1$d valgt</item>
+        <item quantity="few">%1$d valgte</item>
+        <item quantity="many">%1$d valgte</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Avinstaller %1$s og %2$d andre apper?</item>
+        <item quantity="one">Avinstaller %s</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$d apper avinstallert</item>
+        <item quantity="zero">%1$d apper avinstallert</item>
+        <item quantity="one">App avinstallert</item>
+        <item quantity="two">%1$d apper avinstallert</item>
+        <item quantity="many">%1$d apper avinstallert</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Kan ikke avinstallere %1$s og %2$d andre apper"</item>
+        <item quantity="one">"Kan ikke avinstallere %s"</item>
+        <item quantity="two">"Kan ikke avinstallere %s og 1 annen app"</item>
+    </plurals>
+</resources>

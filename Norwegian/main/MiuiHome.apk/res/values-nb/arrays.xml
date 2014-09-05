@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Overskli</item>
+        <item>Skli</item>
+        <item>Kryssfade</item>
+        <item>Rundkast</item>
+        <item>Side</item>
+        <item>Strøm</item>
+        <item>Roter</item>
+        <item>Kube</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Som tema</item>
+        <item>Midt</item>
+        <item>Venstre</item>
+        <item>Høyre</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Standard</item>
+        <item>Klassisk</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Klart</item>
+        <item>Skyet</item>
+        <item>Diset</item>
+        <item>Tåkete</item>
+        <item>Kraftig regnstorm</item>
+        <item>Regnstorm</item>
+        <item>Voldsomt regn</item>
+        <item>Tordenstorm</item>
+        <item>Byger</item>
+        <item>Kraftig regn</item>
+        <item>Regn</item>
+        <item>Lett regn</item>
+        <item>Sludd</item>
+        <item>Snøstorm</item>
+        <item>Snøbyger</item>
+        <item>Kraftige snøbyger</item>
+        <item>Snø</item>
+        <item>Lette snøbyger</item>
+        <item>Kraftig sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Lett sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Hagl</item>
+        <item>Støvete</item>
+        <item>Dis</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Flytt programmer</item>
+        <item>Widgeter</item>
+        <item>Bakgrunnsbilde</item>
+        <item>Effekter</item>
+    </string-array>
+</resources>
