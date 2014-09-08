@@ -181,7 +181,7 @@ Aktiver flytende vinduer?"</string>
      <string name="applications_settings_header">Innstillinger for app</string>
      <string name="applications_settings_summary">Administrer apper, angi snarveier for hurtigstart</string>
      <string name="apply_now_button_text">Oppdater</string>
-     <string name="apply_update_fail">System update failed.</string>
+     <string name="apply_update_fail">Systemoppdatering feilet.</string>
      <string name="apps_with_restrictions_header">Apper med begrensninger</string>
      <string name="apps_with_restrictions_settings_button">Utvidelsesinnstillinger for appen</string>
      <string name="ask_compatibility">Spør ved oppstart</string>
@@ -883,7 +883,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dolby_roomsize_summary">Surround-lydinnstillinge er bare tilgjengelig for hodetelefoner</string>
      <string name="dolby_roomsize_title">Surround:</string>
      <string name="done_button">Ferdig</string>
-     <string name="download_current_rom">Get latest version of MIUI</string>
+     <string name="download_current_rom">Hent nyeste versjoen av MIUI</string>
      <string name="downloading_description">Laster…</string>
      <string name="drive_mode">Bilmodus</string>
      <string name="drive_mode_auto_reply">Raskt svar</string>
@@ -1100,7 +1100,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="install_applications">Ukjente kilder</string>
      <string name="install_text">Installer</string>
      <string name="install_unknown_applications">Tillat installasjon av apper fra andre kilder enn Play-butikken</string>
-     <string name="install_whole_rom">Download ROM (standard)</string>
+     <string name="install_whole_rom">Last ned ROM (standard)</string>
      <string name="insufficient_storage">Ikke nok lagringsplass.</string>
      <string name="intent_sender_account_label">Konto:</string>
      <string name="intent_sender_action_label">Handling:</string>
@@ -1141,7 +1141,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="language_settings_category">Språkinnstillinger</string>
      <string name="large_font">Stor</string>
      <string name="last_synced">Sist synkronisert %1$s</string>
-     <string name="later">Reboot later</string>
+     <string name="later">Start på nytt senere</string>
      <string name="launch_count_label">Antall</string>
      <string name="launcher_settings_title">Launcher</string>
      <string name="launching_cit">Launching cit, please wait.</string>
@@ -1357,7 +1357,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="menu_stats_total">Total bruk</string>
      <string name="menu_stats_unplugged">%1$s siden strømmen ble frakoblet</string>
      <string name="menu_use_uss">Bruk Uss</string>
-     <string name="mione_update_success_title">Update complete</string>
+     <string name="mione_update_success_title">Oppdatering fullført</string>
      <string name="miracast_PC2THOR_streaming_on">Miracast er utilgjengelig fordi en PC strømmer til denne enheten</string>
      <string name="miracast_cancelconnect_dialog">Avbryt tilkobling</string>
      <string name="miracast_connection_failed_generic">Tilkoblingen mislyktes</string>
@@ -1518,7 +1518,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="notification_sound_dialog_title">Standard varsellyd</string>
      <string name="notification_sound_title">Standard varsellyd</string>
      <string name="notification_volume_title">Varsel</string>
-     <string name="now">Reboot now</string>
+     <string name="now">Start på nytt nå</string>
      <string name="nsd_quick_toggle_summary">Tillat at andre enheter oppdager apper på denne enheten</string>
      <string name="nsd_quick_toggle_title">Oppdaging av nettverkstjenester</string>
      <string name="oem_radio_info_label">Produsentspesfikk informasjon og innstillinger</string>
@@ -2425,14 +2425,10 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="vibrate_input_devices">Bruk vibrering</string>
      <string name="vibrate_input_devices_summary">Viderefør vibrering til spillkontrolleren hvis den er koblet til.</string>
      <string name="vibrate_when_ringing_title">Vibrering når det ringer</string>
-     <string name="view_install_log">View error log</string>
+     <string name="view_install_log">Vis feil-logg</string>
      <string name="virus_scan">Virusskann</string>
      <string name="virus_scan_app_continue">Fortsett skann</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: %d risks found -->
-     <string name="virus_scan_app_find_risk">% d risikoer funnet</string>
+     <string name="virus_scan_app_find_risk">%d risikoer funnet</string>
      <string name="virus_scan_app_finish">Skann ferdig</string>
      <string name="virus_scan_app_force_stop">Skann pauset</string>
      <string name="virus_scan_app_is_stop_scan">Stopp skan?</string>
