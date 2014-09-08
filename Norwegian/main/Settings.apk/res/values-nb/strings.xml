@@ -2440,11 +2440,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="virus_scan_app_scan_finish">Skann fullført</string>
      <string name="virus_scan_app_scanning">Skanner…</string>
      <string name="virus_scan_app_stop_scan">Stopp skann</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: Remove %d -->
-     <string name="virus_scan_app_uninstall">Fjern (% d)</string>
+     <string name="virus_scan_app_uninstall">Fjern %d</string>
      <string name="virus_scan_app_waiting">Venter…</string>
      <string name="virus_scanner_auto_update">Oppdater automatisk</string>
      <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
