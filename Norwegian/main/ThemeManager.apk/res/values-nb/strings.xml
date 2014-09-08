@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="account_info">Min konto</string>
-     <string name="account_unactivated">Konto ikke akativert.</string>
+     <string name="account_unactivated">Konto ikke aktivert.</string>
      <string name="all_resources">Alle</string>
      <string name="all_ringtone_resource">Alle</string>
      <string name="app_name">Temaer</string>
@@ -12,11 +12,7 @@
      <string name="apply_font_tip">"Restart for å bruke dette temaet sin skrifttype."</string>
      <string name="apply_theme_with_ringtones">Bruk theme med ringetoner</string>
      <string name="backup_preference_title">Lagre egendefinert tema</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Back up your current theme? -->
-     <string name="backup_theme_dialog_message">"Lagre nuverende tema til %1$s"</string>
+     <string name="backup_theme_dialog_message">Vil du ta backup av gjeldende tema?</string>
      <string name="backup_theme_dialog_ok">Lagre</string>
      <string name="backup_theme_name">Min Backup</string>
      <string name="backup_theme_progress_message">Lagrer tema...</string>
@@ -109,13 +105,9 @@
      <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
-     <string name="resource_delta_update_failed">Patch-oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Update successful -->
-     <string name="resource_delta_update_successful">Patch-oppdatering velykket，lagrer %1$s.</string>
-     <string name="resource_delta_update_total">%1$d patchoppdateringer. Totalt %2$s spart</string>
+     <string name="resource_delta_update_failed">Oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
+     <string name="resource_delta_update_successful">Oppdatering vellykket.</string>
+     <string name="resource_delta_update_total">%1$d oppdateringer. Totalt %2$s spart</string>
      <string name="resource_detail">Detaljer</string>
      <string name="resource_detail_comment_title">Kommentarer</string>
      <string name="resource_detail_jump_to_online_title">Online</string>
@@ -218,16 +210,8 @@
      <string name="short_ringtone_resource">Kort</string>
      <string name="theme_batch_has_update_text">Oppdateringer tilgjengelig for %1$d temaer.</string>
      <string name="theme_batch_update_all">Oppdater alle</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: Update %1$s and %2$d other themes now? -->
-     <string name="theme_batch_update_dlg_content">Vil du oppdatere nå?</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Update %1$s now? -->
-     <string name="theme_batch_update_dlg_content_single">Oppdater nå?</string>
+     <string name="theme_batch_update_dlg_content">Oppdater %1$s og %2$d andre temaer nå?</string>
+     <string name="theme_batch_update_dlg_content_single">Oppdater %1$s nå?</string>
      <string name="theme_batch_update_dlg_title">Oppdater</string>
      <string name="theme_batch_updating_text">%1$d temaer blir oppdatert ...</string>
      <string name="theme_changed_failed_message">Setting mislykkets.</string>
