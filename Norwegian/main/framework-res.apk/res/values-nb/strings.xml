@@ -495,13 +495,13 @@ Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
      <string name="kg_sim_unlock_progress_dialog_message">Låser opp SIM-kortet ...</string>
      <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_attempts_countdown">Prøv på nytt om %1$d sekunder.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har tastet inn passordet ditt feil %d ganger. 
+     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har tastet inn passordet ditt feil %d ganger.
 
 Prøv på nytt om %d sekunder."</string>
-     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet opplåsningsmønsteret ditt feil %d ganger. 
+     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet opplåsningsmønsteret ditt feil %d ganger.
 
 Prøv på nytt om %d sekunder."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har oppgitt feil PIN-kode %d ganger. 
+     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har oppgitt feil PIN-kode %d ganger.
 
 Prøv på nytt om %d sekunder."</string>
      <string name="kg_wrong_password">Feil passord</string>
@@ -1507,11 +1507,11 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="volume_alarm">Alarmvolum</string>
      <string name="volume_bluetooth_call">Bluetooth-samtalevolum</string>
      <string name="volume_call">Samtalevolum</string>
-     <string name="volume_icon_description_bluetooth">Bluetooth-volum</string>
-     <string name="volume_icon_description_incall">Samtalevolum</string>
-     <string name="volume_icon_description_media">Medievolum</string>
-     <string name="volume_icon_description_notification">Varslingsvolum</string>
-     <string name="volume_icon_description_ringer">Ringetonevolum</string>
+     <string name="volume_icon_description_bluetooth">Bluetooth</string>
+     <string name="volume_icon_description_incall">Samtale</string>
+     <string name="volume_icon_description_media">Medie</string>
+     <string name="volume_icon_description_notification">Varsel</string>
+     <string name="volume_icon_description_ringer">Ringetone</string>
      <string name="volume_music">Medievolum</string>
      <string name="volume_music_hint_playing_through_bluetooth">Spiller over Bluetooth</string>
      <string name="volume_music_hint_silent_ringtone_selected">Stille ringetone angitt</string>
