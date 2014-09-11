@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="access_denied">Adgang nektet</string>
      <string name="account">Konto</string>
@@ -56,12 +57,6 @@ Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
-     <string name="micloud_intro_01_part_01">"Spar databruk"</string>
-     <string name="micloud_intro_01_part_02">Mi-melding lar deg sende meldinger fram og tilbake via Wi-Fi.</string>
-     <string name="micloud_intro_02_part_01">Du trenger ikke å gjøre noe</string>
-     <string name="micloud_intro_02_part_02">Skytjenester lar deg synke kontakter, meldinger, bilder og annen data mellom enheter</string>
-     <string name="micloud_intro_03_part_01">"Sikre telefonen din fra hvorsomhelst."</string>
-     <string name="micloud_intro_03_part_02">"Finn enheten, lås, eller tøm enhetens innhold på i.mi.com"</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>

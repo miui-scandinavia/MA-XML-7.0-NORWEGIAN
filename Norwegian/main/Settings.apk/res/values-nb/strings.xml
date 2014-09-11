@@ -1808,8 +1808,10 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="retry">Prøv igjen</string>
      <string name="ring_volume_title">Ringevolum</string>
      <string name="ringtone_mute">Ingen</string>
+     <string name="ringtone_slot_setting_title">Single card settings</string>
      <string name="ringtone_summary" />
      <string name="ringtone_title">Ringetone</string>
+     <string name="ringtone_uniform_setting_title">Dual card settings</string>
      <string name="roaming">Dataroaming</string>
      <string name="roaming_disable">Koble til datatjenester ved roaming</string>
      <string name="roaming_enable">Koble til datatjenester ved roaming</string>
@@ -2089,6 +2091,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
      <string name="status_bar_settings_show_statusBar_notification">Vis i statuslinje</string>
+     <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
      <string name="status_bar_settings_show_wifi_name">Vis Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Statuslinje</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Kollaps etter trykk</string>

@@ -92,6 +92,7 @@
      <string name="express_detailed_address">Addresse</string>
      <string name="express_field_empty">Tom</string>
      <string name="express_go_back">Tilbake</string>
+     <string name="express_info_divider">" / "</string>
      <string name="express_inqiury_select_logistics">Velg kurer</string>
      <string name="express_inquiry">Sporer</string>
      <string name="express_inquiry_button_text">Spor</string>
@@ -105,9 +106,13 @@
      <string name="express_inquiry_history_remark_hint">Berkmerkning</string>
      <string name="express_inquiry_internal_failure">"En feil oppsto.
 Vennligst sjekk ditt sproingsnummer"</string>
+     <string name="express_inquiry_logistics_empty">Please select logistics.</string>
      <string name="express_inquiry_logistics_indication">Kurernavn</string>
      <string name="express_inquiry_no_history">Ingen historikk</string>
      <string name="express_inquiry_no_result">Ingen resultater.</string>
+     <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
+     <string name="express_inquiry_number_invalid">"Your input is invalid.
+Please check your tracking number."</string>
      <string name="express_inquiry_provider_info">Drevet av</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
@@ -175,6 +180,7 @@ Vennligst sjekk ditt sproingsnummer"</string>
      <string name="group_name_shop_info">Informasjon</string>
      <string name="group_name_shop_recommendation">I nærheten</string>
      <string name="group_name_title" />
+     <string name="hms_notification">Messages</string>
      <string name="locating_fail">Kunne ikke finne plassering, vennligst sjekk plasseringstjeneste eller prøv igjen</string>
      <string name="login_before_use">Vennligst logg inn før bruk.</string>
      <string name="login_ok">Logg inn</string>
