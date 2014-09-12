@@ -31,7 +31,7 @@
      <string name="comment_publish">Publiser</string>
      <string name="comment_sending">Sender…</string>
      <string name="comment_upload_failed">Kunne ikke sende kommentar</string>
-     <string name="comment_upload_hint">Takk for din feedbeck!</string>
+     <string name="comment_upload_hint">Takk for dine tilbakemeldinger!</string>
      <string name="comment_upload_not_logined">Du må logge inn på din Xiaomi-konto først</string>
      <string name="comment_upload_success">Sendt</string>
      <string name="confirm_download_cancelation_dialog_message">Er du sikker på at du vil avbryte nedlastingen?</string>
@@ -120,11 +120,7 @@
      <string name="share_qq">Post på Tencent weibo</string>
      <string name="share_sina">Post på Sina weibo</string>
      <string name="share_update">Del systemoppdateringsinfo</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 3
-	%s: 1 Original: 3
-	%d: 0 Original: 0 -->
-     <!-- Original string: "I've updated MIUI to %1$s! I was the %2$s person to update. For the detailed changelog, go to %3$s" -->
-     <string name="share_update_content_sign">"Jeg har oppdatert MIUI til %1$s! For detaljert endringslogg, gå til http://miuiandroid.com/"</string>
+     <string name="share_update_content_sign">"Jeg har oppdatert MIUI til %1$s! Jeg var nr. %2$ som oppdaterte. For detaljert endringslogg, gå til %3$s"</string>
      <string name="share_update_content_unsign">"Jeg har oppdatert MIUI til %1$s! For en detaljert endringslogg, gå til %2$s"</string>
      <string name="sign_in_add_account">Vennligst aktiver din Xiaomi-konto</string>
      <string name="sign_in_add_account_helper">Motta Mi-poeng når du oppretter en Xiaomi-konto</string>
@@ -159,11 +155,11 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
      <string name="update_comment_title">Dine kommentarer</string>
      <string name="update_feedback">Oppdateringsfeedback</string>
      <string name="update_feedback_expired">"Det var dårlig at du glemte å gi oppdateringsfeedback! Vennligst prøv å sende inn igjen neste tirsdag"</string>
-     <string name="update_feel">1. Hvordan har du det?</string>
-     <string name="update_general">Ikke dårlig</string>
-     <string name="update_happy">Glad</string>
+     <string name="update_feel">1. Hva synes du?</string>
+     <string name="update_general">Sånn passe</string>
+     <string name="update_happy">Bra</string>
      <string name="update_monthly_build_only">oppdater kun til månedlig Build</string>
-     <string name="update_sad">Trist</string>
+     <string name="update_sad">Ufornøyd</string>
      <string name="update_success">oppdatering fullført</string>
      <string name="update_success_body">System oppdatert til %s</string>
      <string name="update_success_title">oppdatering fullført!</string>
