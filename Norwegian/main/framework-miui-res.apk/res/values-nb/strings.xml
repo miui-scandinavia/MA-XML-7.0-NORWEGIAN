@@ -345,7 +345,7 @@
      <string name="deprecated_9" />
      <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Redmi</string>
-     <string name="device_xiaomi">Mi Phone</string>
+     <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Tanabata</string>
      <string name="easter">Påske</string>
      <string name="err_resource_leak">Dessverre, %1$s har stoppet</string>
