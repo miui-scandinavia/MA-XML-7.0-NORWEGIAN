@@ -2022,6 +2022,7 @@ Muligens feil personlig kode."</string>
      <string name="sim_pin_change">Endre SIM-PIN-kode</string>
      <string name="sim_pin_toggle">Lås SIM-kortet</string>
      <string name="sim_pins_dont_match">De personlige kodene samsvarer ikke</string>
+     <string name="sim_radio_off">Not activated</string>
      <string name="sim_reenter_new">Skriv inn ny PIN-kode en gang til</string>
      <string name="sim_status_title">SIM status</string>
      <string name="skip_label">Hopp over</string>

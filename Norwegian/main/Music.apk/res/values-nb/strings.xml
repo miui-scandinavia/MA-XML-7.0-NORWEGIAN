@@ -10,6 +10,7 @@
      <string name="action_item_download">Last ned</string>
      <string name="action_item_remove">Fjern</string>
      <string name="action_item_send">Send</string>
+     <string name="add_music">Add songs</string>
      <string name="album_search_title">Album</string>
      <string name="all_tracks">Alle sanger</string>
      <string name="all_tracks_short">Alle</string>
@@ -45,7 +46,6 @@
      <string name="dialog_title_name_playlist">Navn på spilleliste</string>
      <string name="dialog_title_remove_tracks">Fjern</string>
      <string name="dialog_title_track_picker">Valg sanger</string>
-     <string name="dislike">Mislik</string>
      <string name="done">Ferdig</string>
      <string name="download">Hent</string>
      <string name="download_auto_after_favorite_summary">"Automatisk last ned sangene du har som favoritt"</string>
@@ -106,7 +106,6 @@
      <string name="favourite_music_left_half">For å legge til sanger i denne spillelisten, trykk på</string>
      <string name="favourite_music_right_half">"Favorittikonet er til høyre for sangens tittel"</string>
      <string name="file_not_found">Fil eksisterer ikke</string>
-     <string name="find_ktv">Oppdag KTV</string>
      <string name="find_music">Oppdag sanger</string>
      <string name="format_unsupported">"Formatet er ikke støttet."</string>
      <string name="fragment_more">Mer</string>
@@ -116,7 +115,6 @@
      <string name="fragment_title_channel">FM</string>
      <string name="fragment_title_recommend">Anbefalte</string>
      <string name="function_error">"Dette er flaut! Denne funksjonen er ennå ikke lansert (vi jobber med det)."</string>
-     <string name="go_to_add_music">Legg til sanger~</string>
      <string name="high_quality">Høy kvalitet</string>
      <string name="higher_quality_music">Høykvalitetsmusikk</string>
      <string name="higher_quality_music_summary">Lytt til og last ned musikk med høyere kvalitet</string>
@@ -140,7 +138,6 @@
      <string name="lrc_searching">Søker etter sangtekster...</string>
      <string name="lyric_open_other_connect">Hent sangtekster via mobilt nettverk</string>
      <string name="max_sleep_time">90</string>
-     <string name="mediaplaybacklabel">Musikk</string>
      <string name="metered_alert">Databruksadvarsel</string>
      <string name="metered_alert_msg">"Bruk av datatilkoblingen din for å strømme musikk vil øke ditt dataforbruk. Vær forsiktig slik at du ikke overskrider abonnementet ditt sin datagrense, siden dette kan føre til høye datakostnader."</string>
      <string name="metered_allow">Strøm</string>
@@ -149,7 +146,6 @@
      <string name="mi_effect">MI-effekter</string>
      <string name="min_sleep_time">1</string>
      <string name="music_browser_label">Musikk</string>
-     <string name="music_picker_title">Velg musikknummer</string>
      <string name="music_quality">Musikk-kvalitet</string>
      <string name="music_settings">Innstillinger</string>
      <string name="my_account">Min konto</string>
@@ -178,10 +174,12 @@
      <string name="playback_failed_no_title_by_bad_file">Sang kan ikke spilles av, formatet er ikke støttet, eller filen eksisterer ikke.</string>
      <string name="playlist_deleted_message">Spilleliste slettet.</string>
      <string name="playlist_renamed_message">Spilleliste gitt nytt navn.</string>
+     <string name="please_download_first">Please download first.</string>
      <string name="presonal_center">Kontoinnstillinger</string>
      <string name="project_device">Mi-telefon</string>
      <string name="quit_warining">Avspiller vil stoppe avspillning etter %d minutt(er)</string>
      <string name="retry">Prøv igjen</string>
+     <string name="ringtone_not_support">"The song's format is not supported."</string>
      <string name="search_hint">Søk i Musikk</string>
      <string name="search_title">Søk</string>
      <string name="search_title_album">Album</string>
@@ -190,7 +188,11 @@
      <string name="select_device">Velg enhet</string>
      <string name="send_to">Send til</string>
      <string name="send_to_title">Send to (%1$s)</string>
+     <string name="set_as_ring">Set To Ring</string>
+     <string name="set_ringtones_failed">Failed to set ringtones.</string>
+     <string name="set_ringtones_successful">Successfully set %s as ringtones.</string>
      <string name="sleep_mode">Sovetimer</string>
+     <string name="sleep_mode_canceled">Sleep mode canceled</string>
      <string name="sleep_mode_summary">Bruk skyveknappen under for å sette en tid</string>
      <string name="sleep_mode_title">Stopp spiller etter passert tid</string>
      <string name="song_not_find">"Kunne ikke finne sang. Sjekk nettverkstilkoblingen og prøv igjen"</string>
@@ -207,7 +209,6 @@
      <string name="track_list_control_edit_delete_playlist">Slett</string>
      <string name="track_list_control_edit_rename_playlist">Gi nytt navn</string>
      <string name="track_list_control_play">Spill</string>
-     <string name="track_list_descript_cover">Cover</string>
      <string name="track_main_fragment_tab_album">Album</string>
      <string name="track_main_fragment_tab_track">Song</string>
      <string name="track_search_title">Spor</string>

@@ -80,6 +80,7 @@
      <string name="confirm_restore_positive">Gjenopprett</string>
      <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
      <string name="confirm_send_mms">En av dine mottakere innholder en epost-adresse. Denne meldingen vil bli sendt som en MMS, som kan resultere i ekstra kostnader fra din operatør.</string>
+     <string name="context_menu_add_calendar">Show in Calendar</string>
      <string name="context_menu_add_contact">Legg til kontakter</string>
      <string name="context_menu_add_to_browser_favorite">Legg til i nettleserfavoritter</string>
      <string name="context_menu_browse_web">Web</string>

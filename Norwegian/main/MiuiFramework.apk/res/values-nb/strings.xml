@@ -24,7 +24,7 @@
      <string name="cold_dews">Kalde dugg</string>
      <string name="copy">Kopier</string>
      <string name="cut">Kutt</string>
-     <string name="day_following_good_friday">Dagen etter Good Friday</string>
+     <string name="day_following_good_friday">Dagen etter Langfredag</string>
      <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
      <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -37,7 +37,7 @@
      <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="device_hongmi">Redmi</string>
-     <string name="device_xiaomi">Mi Phone</string>
+     <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Tanabata</string>
      <string name="easter">Påske</string>
      <string name="first_back_long_press_message">"Langt-trykk på Tilbake-knappen vil drepe den gjeldende prosessen og dens bakgrunnstjenester.

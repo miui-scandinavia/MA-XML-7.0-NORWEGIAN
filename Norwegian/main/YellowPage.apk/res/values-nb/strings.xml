@@ -77,7 +77,6 @@
      <string name="express_addressee_name">Navn på mottaker</string>
      <string name="express_addressee_region">Mottaker&gt;region</string>
      <string name="express_cancel_order">Avbryt</string>
-     <string name="express_company_empty">Ingen selskaper</string>
      <string name="express_company_list_empty">Ingen selskaper</string>
      <string name="express_company_phone_prefix">Contact:</string>
      <string name="express_company_pricing_details">Prisdetaljer</string>
@@ -190,6 +189,10 @@ Please check your tracking number."</string>
      <string name="menu_about_yellow_page">Om denne siden</string>
      <string name="menu_add_black_list">Legg til i svarteliste</string>
      <string name="menu_add_to_favorite">Legg til i favoritter</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Dial IP call -->
      <string name="menu_call_ip_number">Ring IP-samtale (ring %s)</string>
      <string name="menu_copy_text">Kopier til utklippstavle</string>
      <string name="menu_correct_yellow_page">Korreksjon</string>
@@ -207,6 +210,7 @@ Please check your tracking number."</string>
      <string name="navigation_search_no_city_list">Ingen bydata funnet!</string>
      <string name="navigation_search_positioning">Finner...</string>
      <string name="navigation_search_positioning_failed">Kunne ikke finne by</string>
+     <string name="nearby_average_price">Average %d RMB</string>
      <string name="nearby_no_yellow_page">Ingen resultater i nærheten</string>
      <string name="nearby_yellow_page_title">I nærheten</string>
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -281,7 +285,6 @@ Please check your tracking number."</string>
      <string name="remind_user_suspect_number_message">"Kriminelle kan stjele andres identiteter for svindel, hvis du er i tvil, kan du ringe tilbake for å kontrollere den som ringer. Banker, e-handelselskaper og budtjenesteselskaper vil ikke be om passordet ditt eller bankkortinformasjon.</string>
      <string name="remind_user_suspect_number_title">Pass opp for uredelige samtaler</string>
      <string name="scan">Skann</string>
-     <string name="select">Velg</string>
      <string name="select_package_before_buy">Vennligst velg pakken du vil kjøpe</string>
      <string name="selected_category_format">%1$s(%2$d folk har merket, klikk hvis du er enig)</string>
      <string name="send_shortcut_failed">"Couldn't send"</string>

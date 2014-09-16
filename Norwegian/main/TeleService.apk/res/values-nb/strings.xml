@@ -163,7 +163,7 @@
      <string name="cfb_title">Viderekoble når opptatt</string>
      <string name="cfnrc_title">Viderekoble når utilgjengelig</string>
      <string name="cfnry_title">Viderekoble ved ikke noe svar</string>
-     <string name="cfu_title_miui">Viderekoble alltid</string>     <string name="cfu_title">Always forward</string>
+     <string name="cfu_title">Always forward</string>
      <string name="change_num">Oppdater</string>
      <string name="change_password">Change barring password</string>
      <string name="change_pin">Endre PIN-kode for SIM-kort</string>
@@ -187,7 +187,7 @@
      <string name="connect_later">Kan ikke koble til dette nettverket akkurat nå. Prøv på nytt senere.</string>
      <string name="contactAddFailed">Kunne ikke legge til kontakt på SIM-kort!</string>
      <string name="contactAddSuccess">Kontakt ble lagt til på SIM-kort!</string>
-     <string name="ContactScreen">Legg til/endre SIM-kontakt</string>
+     <string name="contactScreen">Add/Edit SIM Contact</string>
      <string name="contactUpdateFailed">Kunne ikke oppdatert kontakt på SIM-kort!</string>
      <string name="contactUpdateSuccess">Kontakt på SIM-kort ble oppdatert</string>
      <string name="contactdeleteFailed">Kunne ikke slette kontakt fra SIM-kort!</string>
@@ -230,7 +230,7 @@
      <string name="dialer_default_package">com.android.contacts</string>
      <string name="dialog_network_priority_title">Priority</string>
      <string name="disable">Deaktiver</string>
-     <string name="disable_all_cf_miui">Deaktiver all viderekobling</string>
+     <string name="disable_all_cf">Disable all call-forwarding features</string>
      <string name="disable_cfb_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er opptatt.</string>
      <string name="disable_cfnrc_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er utenfor dekning.</string>
      <string name="disable_cfnry_forbidden">Operatøren støtter ikke deaktivering av viderekobling når anropet ikke besvares.</string>
@@ -343,7 +343,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="importSimEntry">Importer</string>
      <string name="importToFDNfromContacts">Importer fra kontakter</string>
      <string name="importingSimContacts">Importerer kontakter fra SIM-kortet</string>
-     <string name="ims_accounts_title">IMS-konto/string>
+     <string name="ims_accounts_title">"IMS-konto/string>
+     <string name="ims_call_type_control">ImsCallTypeCapabilityControl"</string>
      <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
      <string name="ims_edit_title">IMS-kontodetaljer</string>
      <string name="ims_menu_discard">Forkast</string>
@@ -430,8 +431,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="mhh_disable">Helse og sykehus deaktivert</string>
      <string name="mhh_enable">Helse og sykehus aktivert</string>
      <string name="mismatch_password">Passordene du skrev stemmer ikke overens</string>
-     <string name="mismatch_pin2">Inntastet PIN2 stemmer ikke overens. Prøv igjen.</string>
      <string name="mismatch_pin">Inntastet PIN stemmer ikke overens. Prøv igjen.</string>
+     <string name="mismatch_pin2">Inntastet PIN2 stemmer ikke overens. Prøv igjen.</string>
      <string name="missed_call_notify_five_times">5 ganger</string>
      <string name="missed_call_notify_none">Aldri</string>
      <string name="missed_call_notify_once">En gang</string>
@@ -572,7 +573,8 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="pin2_changed">Personlig kode (PIN2) er endret</string>
      <string name="pin2_invalid">FDN er ikke oppdatert fordi du skrev inn feil PIN-kode.</string>
      <string name="pin2_invalid_or_name_is_too_long">Fast anropsnummer er ikke oppdatert: Du har tastet inn en feil PIN2-kode eller navnet er for langt.</string>
-     <string name="pin2_lock_warning_">"Bemærk vennligst at PIN2 relaterede funksjoner vil bli låst hvis forsøket mislykkes igjen!"</string>
+     <string name="pin2_lock_warning">"
+PIN2 related functions will be locked after another failed attempt"</string>
      <string name="pin_attempts">"
 Du har %d forsøk igjen."</string>
      <string name="pin_changed">Personlig kode for SIM-kort er endret.</string>
@@ -604,7 +606,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="preferred_network_mode_dialogtitle">Foretrukket nettverkstype</string>
      <string name="preferred_network_mode_summary">Bytt nettverksmodus</string>
      <string name="preferred_network_mode_title">Foretrukket nettverkstype</string>
-     <string name="preferred_network_type_3g_only_warning_miui">"Du valgte kun 3G som foretrukket nettverk, så det vil ikke være noe signal hvis SIM kortet ikke støtter dette. Trykk OK for å fortsette."</string>
+     <string name="preferred_network_type_3g_only_warning">"You won't be able to connect to a network if your SIM card doesn't have 3G functionality."</string>
      <string name="preferred_network_type_cdma">CDMA</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Foretrekk 3G-nettverk</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Foretrekk 4G-nettverk</string>
@@ -715,7 +717,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="set_primary_title">Angi som hovedkonto</string>
      <string name="set_smsc_address_error">Feil med innstilling av SMS senter nummer, prøv igjen senere.</string>
      <string name="set_smsc_address_timeout">Time-out ved innstilling av SMS senter nummer, prøv igjen senere.</string>
-     <string name="set_smsc_address_title_">Still inn SMS senter nummer</string>
+     <string name="set_smsc_address_title">Set SMS center number</string>
      <string name="set_subscription">Velg abonnement</string>
      <string name="settings_label">Nettverksinnstillinger</string>
      <string name="simContacts_airplaneMode">Du må slå av flymodus før du kan importere kontakter fra SIM-kortet.</string>
@@ -805,8 +807,9 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="telocation_countrycode_alert_title">Advarsel</string>
      <string name="telocation_custom_empty">Legg til et nummer ved å trykke Legg til (+) knappen</string>
      <string name="telocation_custom_location_summary">Administerer mine lagrede områdekoder og gruppenummer</string>
-     <string name="telocation_custom_location_title">Mine plassering<er/string>
-     <string name="telocation_custom_name_hint">Navn</string>
+     <string name="telocation_custom_location_title">"Mine plassering<er/string>
+     <string name="telocation_custom_name_hint">Navn"</string>
+     <string name="telocation_custom_name_hint">Name</string>
      <string name="telocation_custom_number_hint">Områdekode eller gruppenummer</string>
      <string name="telocation_edit_custom_location_title">Konfigurer plassering</string>
      <string name="telocation_enable_title">Vis plassering</string>
@@ -831,8 +834,8 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="tty_mode_entries_vco">TTY VCO</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>
-     <string name="turnover_mute_summary_miui">Snu for lydløs mens telefonen er plassert vannrett</string>
-     <string name="turnover_mute_title_miui">Snu for lydløs</string>
+     <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ring</string>
+     <string name="turnover_mute_title">Flip to silence ring</string>
      <string name="undefined">Ikke definert</string>
      <string name="unknown">Ukjent</string>
      <string name="unlock_failed">Fikk ikke fjerne operatørlås.</string>
