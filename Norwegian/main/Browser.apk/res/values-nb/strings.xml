@@ -37,8 +37,8 @@
      <string name="add_quicklink_to_popular">Legg på startside</string>
      <string name="add_quicklinks">Legg til</string>
      <string name="add_to_bookmark">Legg i bokmerker</string>
-     <string name="add_to_desk">Add to Home screen</string>
-     <string name="add_to_desk_success">Added to Home screen</string>
+     <string name="add_to_desk">Legg på hjemskjerm</string>
+     <string name="add_to_desk_success">Lagt på hjemskjerm</string>
      <string name="add_to_quicklink">Legg på startside</string>
      <string name="added_to_bookmarks">Lagt til i bokmerke.</string>
      <string name="adjust_text_zoom_toast">Endring av tekstzoom kan føre til at noen nettsteder vises feil</string>
@@ -70,8 +70,8 @@
      <string name="autofill_setup_dialog_negative_toast">Du kan alltid opprette din auto-fyll tekst fra Nettleser&gt;Innstillinger&gt;Generelt skjrmen.</string>
      <string name="autologin_bar_error">"Kunne ikke logge inn"</string>
      <string name="autologin_bar_hide_text">Skjul</string>
-     <string name="autologin_bar_login_text">Log inn</string>
-     <string name="autologin_bar_text">Log inn som</string>
+     <string name="autologin_bar_login_text">Logg inn</string>
+     <string name="autologin_bar_text">Log ginn som</string>
      <string name="back">Tilbake</string>
      <string name="block">Blokker</string>
      <string name="bookmark_URL_already_exisit">"You've already bookmarked this URL"</string>
