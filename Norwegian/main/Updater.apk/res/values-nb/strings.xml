@@ -120,6 +120,10 @@
      <string name="share_qq">Post på Tencent weibo</string>
      <string name="share_sina">Post på Sina weibo</string>
      <string name="share_update">Del systemoppdateringsinfo</string>
+     <!-- MNPS mismatch found! Translated: 3 Original: 3
+	%s: 2 Original: 3
+	%d: 0 Original: 0 -->
+     <!-- Original string: "I've updated MIUI to %1$s! I was the %2$s person to update. For the detailed changelog, go to %3$s" -->
      <string name="share_update_content_sign">"Jeg har oppdatert MIUI til %1$s! Jeg var nr. %2$ som oppdaterte. For detaljert endringslogg, gå til %3$s"</string>
      <string name="share_update_content_unsign">"Jeg har oppdatert MIUI til %1$s! For en detaljert endringslogg, gå til %2$s"</string>
      <string name="sign_in_add_account">Vennligst aktiver din Xiaomi-konto</string>
@@ -131,6 +135,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
      <string name="sign_in_info_total_more">"Din oppdateringsrang er %1$s
 +Over %2$s brukere har oppdatert til MIUI %3$s"</string>
      <string name="sina_share_fail">Sending feilet!</string>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Sender...</string>
      <string name="sina_share_success">Sending velykket!</string>
      <string name="sina_token_expired_warning">Weibo kontoen er utløpt, vennligst koble til på nytt</string>

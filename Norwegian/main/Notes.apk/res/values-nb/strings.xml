@@ -76,6 +76,7 @@
      <string name="search_setting_description">Tekst i dine notater</string>
      <string name="select_account_prompt">Aktiver notatsynkronisering</string>
      <string name="sina_share_fail">Failed to send</string>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Sending…</string>
      <string name="sina_share_success">Sent</string>
      <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>

@@ -52,6 +52,7 @@
      <string name="callFailed_dsac_restricted_emergency">Nødanrop er begrenset av adgangskontroll.</string>
      <string name="callFailed_dsac_restricted_normal">Normale anrop er begrenset av adgangskontroll.</string>
      <string name="callFailed_fdn_only">Utgående anrop er begrenset av faste anropsnummer.</string>
+     <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
      <string name="callFailed_invalid_credentials">Feil brukernavn eller adgangskode</string>
      <string name="callFailed_limitExceeded">ACM-grensen er overskredet</string>
      <string name="callFailed_noSignal">Det er intet signal</string>

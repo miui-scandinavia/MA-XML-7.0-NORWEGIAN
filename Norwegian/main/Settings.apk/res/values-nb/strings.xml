@@ -1143,7 +1143,6 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="last_synced">Sist synkronisert %1$s</string>
      <string name="later">Start på nytt senere</string>
      <string name="launch_count_label">Antall</string>
-     <string name="launcher_settings_title">Launcher</string>
      <string name="launching_cit">Launching cit, please wait.</string>
      <string name="launching_pho">Launching phone info, please wait.</string>
      <string name="launching_rep">Reporting…</string>
@@ -1604,7 +1603,6 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="preferred_application_warning_replace">Bytt</string>
      <string name="preferred_application_warning_title">Bytt standard %s</string>
      <string name="preferred_application_warning_use_system">Bytt %s</string>
-     <string name="preferred_launcher_title">Foretrukket launcher</string>
      <string name="preferred_media_app_summary">Velg musikkspiller</string>
      <string name="preferred_sms_settings">Dette programmet vil bli satt som standard for mottak og sending av meldinger.</string>
      <string name="preferred_sms_title">Standard meldingsapp</string>
@@ -1905,7 +1903,6 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="search_key">key</string>
      <string name="search_label">Innstillinget</string>
      <string name="search_language">språk</string>
-     <string name="search_launcher">launcher</string>
      <string name="search_led">led</string>
      <string name="search_network">nettverk</string>
      <string name="search_power_mode">strømmodus</string>

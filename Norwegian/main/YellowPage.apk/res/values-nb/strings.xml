@@ -295,6 +295,7 @@ Please check your tracking number."</string>
      <string name="sim1">Sim 1</string>
      <string name="sim2">Sim 2</string>
      <string name="sina_share_fail">Kunne ikke sende</string>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Sender…</string>
      <string name="sina_share_success">Sendt</string>
      <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
