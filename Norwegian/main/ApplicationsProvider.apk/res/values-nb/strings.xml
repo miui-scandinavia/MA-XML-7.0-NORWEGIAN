@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Søk etter programvaretilbyder</string>
+  <string name="application_desc">Programvare</string>
+  <string name="search_label">Program</string>
+  <string name="settings_description">Navn på installert programvare</string>
+</resources>

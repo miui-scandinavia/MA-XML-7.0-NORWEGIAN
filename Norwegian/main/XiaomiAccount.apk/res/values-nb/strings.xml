@@ -5,7 +5,7 @@
   <string name="access_token_invalid_warning">Weibo-kontoen er ugyldig</string>
   <string name="account">Konto</string>
   <string name="account_bind_devices">Innloggede enheter</string>
-  <string name="account_bind_settings">Bind konto</string>
+  <string name="account_bind_settings">Tilknytt konto</string>
   <string name="account_dspt">En konto for alt "Xiaomi"</string>
   <string name="account_dspt_provision">en konto for alt "Mi".</string>
   <string name="account_hint_text">Epost eller telefonnr</string>
@@ -21,14 +21,14 @@
   <string name="app_name">Mi-konto</string>
   <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
   <string name="barcode_add_account_prompt">For å legge til en konto, scan QR-koden igjen etter du har logget inn.</string>
-  <string name="bind_settings">Bind</string>
-  <string name="bind_sina_weibo">Bind med Sina Weibo</string>
+  <string name="bind_settings">Tilknytt</string>
+  <string name="bind_sina_weibo">Tilknytt Sina Weibo</string>
   <string name="bind_weibo_description">Finn og synkroniser venner fra Sina Weibo.</string>
-  <string name="binded">Bind fullført</string>
+  <string name="binded">Tilknytning fullført</string>
   <string name="btn_activate">Aktiver</string>
   <string name="btn_return">Tilbake</string>
   <string name="button_cancel">Avbryt</string>
-  <string name="button_unbind">&lt;u&gt;Unbind&lt;/u&gt;</string>
+  <string name="button_unbind">&lt;u&gt;Frigi&lt;/u&gt;</string>
   <string name="captcha">Skriv inn kode</string>
   <string name="change_account">&lt;u&gt;Bytt konto&lt;/u&gt;</string>
   <string name="check_phone_error_title">"Kunne ikke slå på synkronisering"</string>
@@ -104,7 +104,7 @@
   <string name="micloud_active_alert_title">Send SMS</string>
   <string name="micloud_active_email_sent_1">"En aktiveringslink er sendt til "</string>
   <string name="micloud_active_email_sent_2"/>
-  <string name="micloud_active_email_visit">Sjek innboksen på %s</string>
+  <string name="micloud_active_email_visit">Sjekk innboksen på %s</string>
   <string name="micloud_activing_account">Aktiverer…</string>
   <string name="micloud_activing_account_delayed">Nesten ferdig…</string>
   <string name="micloud_activing_account_failed">"Kan ikke aktivere Mi-kontoen."</string>
@@ -134,7 +134,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
   <string name="micloud_password_req_notice">Passord må være minst 8-16 tegn og inneholde både tall og bokstaver (skill mellom store og små bokstaver).</string>
   <string name="micloud_reg_new">Opprett konto</string>
   <string name="micloud_resend_active_email">Send aktiverings-epost på nytt</string>
-  <string name="micloud_space_info">%s gjennstår</string>
+  <string name="micloud_space_info">%s gjenstår</string>
   <string name="micloud_sync_info">"%d elementer er ikke synkronisert"</string>
   <string name="micloud_sync_info_synced">"Alt er oppdatert"</string>
   <string name="micloud_user_base_info">Brukerinformasjon</string>
@@ -207,7 +207,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
   <string name="title_reg">Opprett konto</string>
   <string name="trust_device">Stol på denne enheten</string>
   <string name="unactivated_user">Nesten ferdig…</string>
-  <string name="unbind">Unbind</string>
+  <string name="unbind">Frigi</string>
   <string name="update_contacts">Oppdater adressebok</string>
   <string name="update_contacts_description">"Sina Weibo bruker din Mi-konto for å synkronisere kontaktinfo på tvers av enheter."</string>
   <string name="updated_contacts">Oppdaterte %s kontakter</string>
