@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="action_firewall_setting">Blocklist</string>
+     <string name="action_firewall_setting">Blokkeringliste</string>
      <string name="activity_not_found">Kunne ikke finne program for å åpne vedlegget</string>
      <string name="activity_not_found_uri">Kunne ikke finne program for åpning av objekt</string>
      <string name="addBlackList">Legg i svarteliste</string>
@@ -101,11 +101,7 @@
      <string name="copy_message_text_success">Meldingen ble kopiert!</string>
      <string name="copy_to_sdcard">Kopiér det vedlagte til SD-kort</string>
      <string name="copy_to_sdcard_fail">Kopiering til SD-kort mislyktes</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Attachment saved as %s -->
-     <string name="copy_to_sdcard_success">Vedlegg kopiert til SD-kort</string>
+     <string name="copy_to_sdcard_success">Vedlegg kopiert som %s</string>
      <string name="database_corruption">Database ødelagt, gjenoppretter database</string>
      <string name="delete">Slett</string>
      <string name="delete_bookmark">Slett bokmerke</string>
@@ -136,13 +132,13 @@
      <string name="edit_slideshow_activity">Rediger lysbildeshow</string>
      <string name="enable_password_protect">Aktiver passordsbeskyttelse</string>
      <string name="enable_visible_pattern_title">Gjør mønster synlig</string>
-     <string name="english_subject_limit">40 character limit</string>
+     <string name="english_subject_limit">Maks 40 tegn</string>
      <string name="enter_edit_mode">Slett</string>
      <string name="error_code_label">"Feil kode: "</string>
      <string name="error_state">Inkonsistent tilstand</string>
      <string name="error_state_text">Tilstanden av tråd og mottakere er inkonsistent. Vennligst lag en feilrapport og send den til android-sms-bugs@google.com</string>
      <string name="error_timed_msg">Kan ikke planlegge sending til et tidspunkt før nå</string>
-     <string name="ex_type_mx">Cloud-melding</string>
+     <string name="ex_type_mx">Skymelding</string>
      <string name="ex_type_sms">SMS</string>
      <string name="exceed_message_size_limitation">Max meldingstørrelse nådd.</string>
      <string name="expire_on">Utløper: %s</string>
@@ -154,8 +150,8 @@
      <string name="feedback_submit">Send</string>
      <string name="festival">Diverse</string>
      <string name="festival_continue">OK</string>
-     <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
-     <string name="festival_never_remind">"Don't show again."</string>
+     <string name="festival_networking_desc">Denne funksjonen krever tilkobling til internett for å fungere skikkelig.</string>
+     <string name="festival_never_remind">"Ikke vis igjen."</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Laster inn...</string>
      <string name="fetion_prefix">[Åpne]</string>
@@ -229,50 +225,46 @@
      <string name="move_down">Flytt ned</string>
      <string name="move_up">Flytt opp</string>
      <string name="msg_type_hint_mms">MMS</string>
-     <string name="msg_type_hint_mx">Cloud-melding</string>
+     <string name="msg_type_hint_mx">Skymelding</string>
      <string name="msg_type_hint_sms">SMS</string>
-     <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
-     <string name="msglist_more_refreshing">Refreshing…</string>
-     <string name="msglist_no_more_to_refresh">Already up to date</string>
-     <string name="msglist_release_to_more">Release to view more</string>
+     <string name="msglist_continue_to_pull_for_more">Dra ned for å vise mer</string>
+     <string name="msglist_more_refreshing">Laster på nytt…</string>
+     <string name="msglist_no_more_to_refresh">Allerede oppdatert</string>
+     <string name="msglist_release_to_more">Slipp for å vise mer</string>
      <string name="multimedia_message">Multimediamelding</string>
      <string name="multimedia_notification">Beskjed om MMS</string>
-     <string name="mx_activate_error_malformed_info">Din personlige info er avbrutt, reaktivering av cloud-meldinger kreves</string>
+     <string name="mx_activate_error_malformed_info">Din personlige info er avbrutt, reaktivering av Skymeldinger kreves</string>
      <string name="mx_activate_error_server">Server nektet aktivering</string>
-     <string name="mx_activate_error_sim_change">SIM-kort endret, reaktivering av cloud-meldinger kreves</string>
+     <string name="mx_activate_error_sim_change">SIM-kort endret, reaktivering av Skymeldinger kreves</string>
      <string name="mx_activate_error_title">Aktivering mislyktes</string>
-     <string name="mx_activate_hint_malformed_info">Operasjon avbrutt. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
-     <string name="mx_activate_hint_server">Server nektet aktivering av cloud-meldinger. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
-     <string name="mx_activate_hint_sim_change">SIM-kort endret. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
-     <string name="mx_activate_int_hint_malformed_info">Feil ved behandling av forespørselen. En internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
-     <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for cloud-meldinger, en internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
-     <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere cloud-meldinger. Vil du aktivere det nå?</string>
+     <string name="mx_activate_hint_malformed_info">Operasjon avbrutt. En SMS kreves for å reaktivere Skymeldinger. Aktiver nå?</string>
+     <string name="mx_activate_hint_server">Server nektet aktivering av Skymeldinger. En SMS kreves for å reaktivere Skymeldinger. Aktiver nå?</string>
+     <string name="mx_activate_hint_sim_change">SIM-kort endret. En SMS kreves for å reaktivere Skymeldinger. Aktiver nå?</string>
+     <string name="mx_activate_int_hint_malformed_info">Feil ved behandling av forespørselen. En internasjonal SMS kreves for å reaktivere Skymeldinger. Vil du aktivere det nå?</string>
+     <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for Skymeldinger, en internasjonal SMS kreves for å reaktivere Skymeldinger. Vil du aktivere det nå?</string>
+     <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere Skymeldinger. Vil du aktivere det nå?</string>
      <string name="mx_activate_int_popup_msg">MiMessaging tillater MIUI-brukere å sende meldinger med hverandre uten å bruke mobildata.</string>
      <string name="mx_activate_popup_msg">MiMessaging tillater MIUI-brukere å sende meldinger til hverandre uten å bruke mobildata.</string>
-     <string name="mx_activation_done">Cloud-meldinger er nå aktivert</string>
+     <string name="mx_activation_done">Skymeldinger er nå aktivert</string>
      <string name="mx_auto_resend_mms">Auto resend MMS</string>
-     <string name="mx_auto_resend_mms_summary">Send som MMS når Cloud-meldinger er utilgjengelig. Kostnad på meldinger fra operatør er gjeldende</string>
+     <string name="mx_auto_resend_mms_summary">Send som MMS når Skymeldinger er utilgjengelig. Kostnad på meldinger fra operatør er gjeldende</string>
      <string name="mx_auto_resend_sms">Send som SMS</string>
-     <string name="mx_auto_resend_sms_summary">Send som SMS når Cloud-melding er utilgjengelig</string>
+     <string name="mx_auto_resend_sms_summary">Send som SMS når Skymelding er utilgjengelig</string>
      <string name="mx_btn_enable">Aktiver</string>
      <string name="mx_btn_enable_now">Aktiver MiMessaging</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 1 Original: 0
-	%d: 1 Original: 2 -->
-     <!-- Original string: "You've sent %1$d SMS and %2$d MMS" -->
-     <string name="mx_count_dspt">Siden aktivering, har MIUI sendt %1$d Cloud-melding(r) for deg (%2$s)</string>
+     <string name="mx_count_dspt">"Du har sendt %1$d og %2$d MMS"</string>
      <string name="mx_current_status">Aktuell status: Online</string>
      <string name="mx_dspt">Send meldinger via internett mellom MIUI, aktiver for å sende via operatør når mislykket</string>
-     <string name="mx_enable">Cloud-meldinger</string>
-     <string name="mx_enable_int_popup_msg">Cloud-meldinger gjør det mulig å sende meldinger mellom MIUI-brukere. For å aktivere, vil en internasjonal SMS bli sent. Operatøren sine meldingspriser kan gjelde.</string>
-     <string name="mx_enable_popup_msg">Cloud-meldinger tillater deg å sende meldinger via MIUI. En normal SMS kreves for å aktivere tjenesten. Vil du aktivere nå?</string>
-     <string name="mx_int_warning_notice">En internasjonal SMS vil bli sendt for å aktivere Cloud-meldinger, normale telepriser kan gjelde</string>
-     <string name="mx_msg">Cloud-melding</string>
+     <string name="mx_enable">Skymeldinger</string>
+     <string name="mx_enable_int_popup_msg">Skymeldinger gjør det mulig å sende meldinger mellom MIUI-brukere. For å aktivere, vil en internasjonal SMS bli sent. Operatøren sine meldingspriser kan gjelde.</string>
+     <string name="mx_enable_popup_msg">Skymeldinger tillater deg å sende meldinger via MIUI. En normal SMS kreves for å aktivere tjenesten. Vil du aktivere nå?</string>
+     <string name="mx_int_warning_notice">En internasjonal SMS vil bli sendt for å aktivere Skymeldinger, normale telepriser kan gjelde</string>
+     <string name="mx_msg">Skymelding</string>
      <string name="mx_offline">Offline</string>
      <string name="mx_online">Online</string>
-     <string name="mx_reactivate">Reaktiver cloud-meldinger</string>
-     <string name="mx_recommend_msg">Slå på Cloud-meldinger for å sende gratis meldinger</string>
-     <string name="mx_warning_notice">En SMS vil bli sendt for å aktivere cloud-meldinger. Operatørkostnad vil muligens påløpe</string>
+     <string name="mx_reactivate">Reaktiver Skymeldinger</string>
+     <string name="mx_recommend_msg">Slå på Skymeldinger for å sende gratis meldinger</string>
+     <string name="mx_warning_notice">En SMS vil bli sendt for å aktivere Skymeldinger. Operatørkostnad vil muligens påløpe</string>
      <string name="need_download">Venter på synk...</string>
      <string name="new_message">Ny melding</string>
      <string name="new_message_arrived">Du har en ny melding</string>
@@ -295,11 +287,7 @@
      <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
      <string name="phrase_empty">Ingen setninger</string>
      <string name="phrase_from">Fra %1s</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: Quick responses -->
-     <string name="phrase_list_title">Setninger (%1$d)</string>
+     <string name="phrase_list_title">Raske svar)</string>
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="play">Spill av</string>
      <string name="prefDefault_ringtone_repeat">1</string>
@@ -324,8 +312,8 @@
      <string name="pref_summary_mms_auto_retrieval">Hent automatisk MMS-meldinger</string>
      <string name="pref_summary_mms_read_reports">Spør om lestrapport for hver melding du sender</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Hent automatisk MMS-meldinger under roaming</string>
-     <string name="pref_summary_mx_feedback">""Hjelp til med å forbedre MIUI!
-Rapporter feil og send tilbakemelding direkte til Xiaomi.”"</string>
+     <string name="pref_summary_mx_feedback">"Hjelp til med å forbedre MIUI!
+Rapporter feil og send tilbakemelding direkte til Xiaomi."</string>
      <string name="pref_summary_notification_body_enabled">Forhåndsvis meldinger på låseskjermen, og statuslinjen</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
      <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
@@ -515,10 +503,10 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”"</string>
      <string name="unstick_conversation">Fjern markering fra nåværende samtale</string>
      <string name="unsticked_conversation">Markering allerede fjernet</string>
      <string name="unsupported_media_format">Ikke støttet %1$s format</string>
-     <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-     <string name="user_agreement2">" User agreement"</string>
-     <string name="user_agreement3">" and "</string>
-     <string name="user_agreement4">Privacy policy</string>
+     <string name="user_agreement1">Les de gjeldende vilkårene nøye før du installerer ekstra programvare eller bruker dette produktet.</string>
+     <string name="user_agreement2">" Brukervilkår"</string>
+     <string name="user_agreement3">" og "</string>
+     <string name="user_agreement4">Erklæring om personvern</string>
      <string name="user_agreement5">By touching OK, you agree to the terms outlined in these documents.</string>
      <string name="view">Vis</string>
      <string name="view_bookmark">Vis original melding</string>
