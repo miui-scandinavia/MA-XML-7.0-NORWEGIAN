@@ -23,7 +23,6 @@
      <string name="category_document">Dokumenter</string>
      <string name="category_favorite">Favoritter</string>
      <string name="category_log">Logg</string>
-     <string name="category_mirouter">MiRouter</string>
      <string name="category_music">Musikk</string>
      <string name="category_other">Andre</string>
      <string name="category_picture">Bilder</string>
@@ -40,7 +39,6 @@
      <string name="clean_trash_box">Tøm papirkurv</string>
      <string name="cleaning">Rydder...</string>
      <string name="close">Lukk</string>
-     <string name="colon">": "</string>
      <string name="compress_fail">Komprimering feilet, destinasjonen finnes allerede</string>
      <string name="compress_message">Komprimer til:</string>
      <string name="compress_title">Komprimer</string>
@@ -120,8 +118,6 @@
      <string name="gbk_summary">Hvis du bruker GBK-tegnsett, e.g. Windows Explorer, velg denne type tegnset for å unngå forvrengt kinesisk tekst.</string>
      <string name="gbk_title">GBK</string>
      <string name="gigabyteShort">GB</string>
-     <string name="image_download">Download</string>
-     <string name="image_share">Share</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
      <string name="kilobyteShort">KB</string>
@@ -132,7 +128,6 @@
      <string name="kuaipan_tech_support">Teknisk support tilbudt av Kingsoft Kuaipan</string>
      <string name="load_err">Innlasting mislyktes</string>
      <string name="loading">Laster inn</string>
-     <string name="local_cache_size">Lokal cache-størrelse: %s</string>
      <string name="login_reg_content">MiDrive hjelper med å oppbevare filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">MiDrive er din lagring i skyen</string>
      <string name="megabyteShort">MB</string>
@@ -241,7 +236,6 @@
      <string name="petabyteShort">PB</string>
      <string name="phone">Phone</string>
      <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
-     <string name="query_bind_state">Forespørrer status på tilkobling, vennligst vent...</string>
      <string name="release_to_signin">Slipp for å logge inn</string>
      <string name="rename_description">Gir nytt navn, vennligst vent…</string>
      <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
@@ -280,15 +274,11 @@
      <string name="tab_category">Kategori</string>
      <string name="tab_expand">Expand</string>
      <string name="tab_local">Local</string>
-     <string name="tab_networkdisk">MiDrive</string>
      <string name="tab_path">Path</string>
-     <string name="tab_phone">Telefon</string>
-     <string name="tab_sys_size">Total Storage</string>
      <string name="terabyteShort">TB</string>
      <string name="toast_file_not_can_read">Filen kan ikke leses.</string>
      <string name="tools">Tools</string>
      <string name="trans_task">Nettverksoverføring</string>
-     <string name="trans_task_delete_confirm_message">Er du sikker på at du vil slette de valgte %1$d oppgaver?</string>
      <string name="transing">Overfører...</string>
      <string name="trash_box_capacity">Papirkurv %1$s</string>
      <string name="trash_box_link">For å tømme papirkurven, besøk &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
