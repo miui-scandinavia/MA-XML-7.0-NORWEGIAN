@@ -3,6 +3,6 @@
   <string name="agree">Godta</string>
   <string name="app_label">Nettverksposisjon</string>
   <string name="disagree">Avslå</string>
-  <string name="location_warning_message">"La AutoNavi innhente anonyme posisjonsdata. Noe data kan bli lagret på enheten og innhenting av data kan skje selv om ingen programmer kjører. Påløpende datakostnad kan forekomme som følger av innhentingen."</string>
+  <string name="location_warning_message">"La AutoNavi innhente anonyme posisjonsdata. Noe data kan bli lagret på enheten og innhenting av data kan skje selv om ingen apper kjører. Påløpende datakostnad kan forekomme som følger av innhentingen."</string>
   <string name="location_warning_title">Plasseringssamtykke</string>
 </resources>
