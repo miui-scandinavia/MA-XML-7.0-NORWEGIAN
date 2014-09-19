@@ -40,7 +40,7 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="Generic_Disable">Deaktiver</string>
   <string name="Generic_Enable">Aktiver</string>
   <string name="Generic_Good">Bra</string>
-  <string name="Generic_HideSystemApp">Gjem systemapper</string>
+  <string name="Generic_HideSystemApp">Gjem system-apper</string>
   <string name="Generic_InvalidInput">Ugyldig inndata</string>
   <string name="Generic_Loading">Laster…</string>
   <string name="Generic_MonitoredApp">Overvåkede apper (%1$d)</string>
@@ -49,13 +49,13 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="Generic_Service_Disabled">Av</string>
   <string name="Generic_Service_Enabled">På</string>
   <string name="Generic_Shortcut">Hurtigmeny</string>
-  <string name="Generic_ShowSystemApp">Vis systemapper</string>
+  <string name="Generic_ShowSystemApp">Vis system-apper</string>
   <string name="Generic_Summary_Disabled">Av</string>
   <string name="Generic_Summary_Enabled">På</string>
-  <string name="Generic_SystemApp">Systemapper (%d)</string>
-  <string name="Generic_SystemApp_Label">[Systemapp]</string>
+  <string name="Generic_SystemApp">System-apper (%d)</string>
+  <string name="Generic_SystemApp_Label">[System-app]</string>
   <string name="Generic_TrustedApp">Betrodde apper (%1$d)</string>
-  <string name="Generic_Update">appvare-oppgradering</string>
+  <string name="Generic_Update">Programvare-oppgradering</string>
   <string name="Generic_UserApp">Nedlastede apper (%d)</string>
   <string name="Generic_Version">Versjon: %1$s</string>
   <string name="HIPS_Action_Accept">Tillat</string>
