@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">ANT HAL Tjeneste</string>
+  <string name="permdesc_ant">Lar programmet kommunisere med ANT-enheter gjennom proxy-tjenesten. Skadelig programvare kan få tak i eller sende informasjon til ANT-enheter uten at du vet det.</string>
+  <string name="permdesc_antAdmin">Lar programmet konfigurere ANT-radioen gjennom proxy-tjenesten. Skadelig programvare kan hindre andre ANT-programmer fra å koble til ANT-enheter.</string>
+  <string name="permdesc_antradio">Lar programmet konfigurere ANT-radioen direkte. Skadelig programvare kan hindre ANT-radiotjenesten fra å tilby ANT-funksjonalitet til andre enheter.</string>
+  <string name="permlab_ant">bruk ANT-radiogrensesnitt</string>
+  <string name="permlab_antAdmin">Kontroller ANT-radiokonfigurasjon</string>
+  <string name="permlab_antradio">bruk ANT-maskinvare</string>
+</resources>
