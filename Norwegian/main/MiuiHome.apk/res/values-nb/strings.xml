@@ -2,6 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="activity_not_found">Programmet er ikke installert på din telefon.</string>
+     <string name="app_being_backup_message">Apper blir sikkerhetskopiert.</string>
      <string name="application_name">MiuiHome</string>
      <string name="apply_as_lock_wallpaper">Bruk</string>
      <string name="apply_as_lock_wallpaper_message">Bruk denne bakgrunnen på låseskjermen også?</string>
@@ -20,7 +21,7 @@
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
      <string name="chooser_wallpaper">Velg bakgrunn fra</string>
      <string name="confirm_btn_label">OK</string>
-     <string name="current_wallpaper">Current</string>
+     <string name="current_wallpaper">Gjeldende</string>
      <string name="custom_wallpaper_picker">Utforsk</string>
      <string name="default_folder_title_game">Spill</string>
      <string name="default_folder_title_recommend">Anbefalt</string>
@@ -38,7 +39,7 @@
      <string name="editing_tips">Endre hjemskjerm</string>
      <string name="emptyplaylist">Trykk for å legge til sanger</string>
      <string name="encryption">Kryptering</string>
-     <string name="failed_to_delete_temporary">Feil ved sletning, prøv igjen.</string>
+     <string name="failed_to_delete_temporary">Feil ved sletting, prøv igjen.</string>
      <string name="failed_to_drop">Flyttning mislyktes</string>
      <string name="failed_to_drop_widget_invalid">Ugyldig Widget</string>
      <string name="failed_to_drop_widget_nospace">Ikke nok plass</string>
@@ -50,7 +51,7 @@
      <string name="free_style_edit_bar_empty">Tom</string>
      <string name="free_style_edit_bar_select_app">Velg program</string>
      <string name="free_style_edit_bottom_empty_tip">Trykk på firkanten for å endre</string>
-     <string name="free_style_edit_drawer">Startlinie</string>
+     <string name="free_style_edit_drawer">Startlinje</string>
      <string name="free_style_edit_move_tip">Trykk &amp; hold for å flytte ting</string>
      <string name="free_style_edit_tab_free_component">Free komponenter</string>
      <string name="free_style_edit_tab_shortcut">Snarvei</string>
@@ -227,7 +228,7 @@
      <string name="uninstall">Avinstaller</string>
      <string name="uninstall_dialog_message">Avinstallering vil slette alle data</string>
      <string name="uninstall_dialog_title_format">Avinstaller %s</string>
-     <string name="unknown_artist_name">Ukjendt kunstner</string>
+     <string name="unknown_artist_name">Ukjent kunstner</string>
      <string name="unnamed_folder_name">Navnløs</string>
      <string name="wallpaper_scrolling">Alle</string>
      <string name="widget_favorite_contacts_edit">administrer grupper</string>
