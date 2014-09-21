@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Innholdsadaptiv skjermlys-innstillinger</string>
+  <string name="cabl_enable_summary_off">Skjermlysstyrken vil ikke justere seg basert på skjerminnholdet</string>
+  <string name="cabl_enable_summary_on">Skjermlysstyrken vil justere seg basert på skjerminnholdet</string>
+  <string name="cabl_enable_title">Aktiver innholdsadaptivt skjermlys</string>
+  <string name="cabl_info_default">Ukjent</string>
+  <string name="cabl_level_default">Auto</string>
+  <string name="cabl_levels_summary">Et lavere kvalitetsnivå indikerer at CABL vil prøve å spare så mye strøm som mulig uten at innholdet på skjermen blir påvirket i stor grad. Et autovisuelt kvalitetsnivå betyr at CABL vil prøve å spare så mye strøm som mulig ved å oppdage automatisk hva som vises på skjermen.</string>
+  <string name="cabl_levels_title">Visuelt kvalitetsnivå</string>
+  <string name="cabl_settings_title">Innholdsadaptivt skjermlys-innstillinger</string>
+  <string name="cabl_version_title">CABL Versjon</string>
+</resources>
