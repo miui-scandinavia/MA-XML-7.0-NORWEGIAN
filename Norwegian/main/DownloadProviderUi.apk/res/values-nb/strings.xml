@@ -2,9 +2,9 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="Only_the_wifi">Effektivt bare gjennom Wi-Fi</string>
-     <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
-     <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
-     <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
+     <string name="add_flow_fail_haveget_msg">Beklager, du må kjøpe ubegrenset høyhastighet trafikk</string>
+     <string name="add_flow_fail_vip_msg">Ljære Thunder vip, du må aktivere høyhastighet trafikk</string>
+     <string name="add_flow_success_msg">Du har nå aktivert %s høyhastighet trafikk</string>
      <string name="all_downloads">Alle nedlastninger</string>
      <string name="all_fileter">All</string>
      <string name="all_the_internet">Alle nettverk</string>
@@ -37,7 +37,7 @@
      <string name="dialog_title_not_available">Nedlasting mislyktes</string>
      <string name="dialog_title_queued_body">Fil ikke tilgjengelig i øyeblikket</string>
      <string name="disable">Deaktiver</string>
-     <string name="display_expire_netiv1">Month Owner</string>
+     <string name="display_expire_netiv1">Månedseier</string>
      <string name="doc_filter">DOCUMENT</string>
      <string name="download_complete">Fullførte</string>
      <string name="download_error">Mislykkede</string>
@@ -67,15 +67,15 @@
      <string name="download_title">nedlastinger</string>
      <string name="download_title_sorted_by_date">nedlastinger - Sortert via tid</string>
      <string name="download_title_sorted_by_size">nedlastinger - Sortert via størrelse</string>
-     <string name="download_wait_connect">Download waiting to connect</string>
+     <string name="download_wait_connect">Venter på tilkobling for å laste ned</string>
      <string name="download_when_network_connected">Last ned når netverksforbindelse er tilgjengelig</string>
      <string name="downloads_operating">Arbeider</string>
      <string name="dredge_xunlei_account">Opprettelse av Xunlei-konto</string>
      <string name="editmode_menu_delete">Slett</string>
      <string name="editmode_menu_share">Del</string>
      <string name="experience_xunlei_account_speed">Xunlei-medlemmer får akselerert tjenesteopplevelse</string>
-     <string name="free_high_speed_channel">Free Highspeed channel</string>
-     <string name="free_speedup_exp">Free Xunlei Highspeed service</string>
+     <string name="free_high_speed_channel">Gratis høyhastighetskanal</string>
+     <string name="free_speedup_exp">Gratis Xunlei høyhastighetstjeneste</string>
      <string name="get_account_dialog_msg">Henter kontoinfo</string>
      <string name="get_order_dialog_msg">Henter ordreinformasjon</string>
      <string name="get_order_fail_msg">Feil ved henting av ordre</string>
@@ -127,8 +127,8 @@
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
      <string name="turn_off_xunlei_title">Skru av Xunlei-nedlastningsmotor</string>
-     <string name="unbind_xunlei_2_success">Change Xunlei Account Success</string>
-     <string name="unbind_xunlei_success">Unbind Xunlei Account Success</string>
+     <string name="unbind_xunlei_2_success">Xunlei-konto ble endret</string>
+     <string name="unbind_xunlei_success">Du ble logget ut av Xunlei-kontoen</string>
      <string name="valid_in_this_month">only valid in this month</string>
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>
