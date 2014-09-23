@@ -584,6 +584,7 @@ CC: %4$s
      <string name="no">No</string>
      <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">No app can open this attachment for viewing.</string>
+     <string name="no_contacts">Empty</string>
      <string name="no_conversations">No messages</string>
      <string name="no_mails">Empty</string>
      <string name="no_matched_attachment">Nothing matched your search</string>

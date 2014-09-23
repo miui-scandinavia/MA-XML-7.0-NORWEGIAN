@@ -127,6 +127,8 @@
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
      <string name="turn_off_xunlei_title">Skru av Xunlei-nedlastningsmotor</string>
+     <string name="unbind_xunlei_2_success">Change Xunlei Account Success</string>
+     <string name="unbind_xunlei_success">Unbind Xunlei Account Success</string>
      <string name="valid_in_this_month">only valid in this month</string>
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>

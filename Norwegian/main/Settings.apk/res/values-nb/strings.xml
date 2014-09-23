@@ -977,6 +977,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="force_stop_dlg_title">Vil du tvinge avslutning?</string>
      <string name="forget_wifi_message">Din enhet vil slutte å koble til dette nettverket automatisk.</string>
      <string name="found_new_version">Fant ny versjon</string>
+     <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Koble til</string>
      <string name="free_wifi_connect_dialog_summary">%1$s tilbudt av %2$s.</string>
@@ -993,6 +994,9 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="free_wifi_manage_summary">Trykk for å vise %1$s.</string>
      <string name="free_wifi_speed_title">Treg forbindelse?</string>
      <string name="free_wifi_summary">Trykk for å koble til %1$s.</string>
+     <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
+     <string name="free_wifi_user_agreement_allow">Agree</string>
+     <string name="free_wifi_user_agreement_title">Terms of Use</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
      <string name="frequently_fragment_delete">Fjern</string>
      <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>
@@ -2204,6 +2208,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="trackball_settings">Trackball</string>
      <string name="trackball_wake_title">Trackball-våkning</string>
      <string name="transition_animation_scale_title">Overgangsanimasjonsskala</string>
+     <string name="translation_contributors_summary" />
      <string name="translation_contributors_title">Bidragsytere</string>
      <string name="trusted_credentials">Pålitelig legitimasjon</string>
      <string name="trusted_credentials_disable_confirmation">Vil du deaktivere systemets CA-sertifikat?</string>

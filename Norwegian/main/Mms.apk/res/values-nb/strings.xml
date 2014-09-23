@@ -198,11 +198,13 @@
      <string name="menu_edit">Rediger</string>
      <string name="menu_forward">Videresend</string>
      <string name="menu_lock">Lås melding</string>
+     <string name="menu_more">More</string>
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
      <string name="menu_unlock">Lås opp melding</string>
      <string name="menu_view_contact">Åpen kontakt</string>
+     <string name="menu_yellowpage">View %s</string>
      <string name="message_class_label">"Meldingstype: "</string>
      <string name="message_details_title">Meldingsdetaljer</string>
      <string name="message_download_failed_title">Melding ikke hentet!</string>

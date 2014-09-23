@@ -100,13 +100,14 @@
      <string name="express_inquiry_delete_warning_multiple">Slett %d valgte historikkinnlegg?</string>
      <string name="express_inquiry_delete_warning_single">Slett valgte innlegg?</string>
      <string name="express_inquiry_delivered">Levert</string>
+     <string name="express_inquiry_edit_logistics">Courier</string>
      <string name="express_inquiry_history">Historikk</string>
      <string name="express_inquiry_history_remark">Bemerkning</string>
      <string name="express_inquiry_history_remark_hint">Berkmerkning</string>
      <string name="express_inquiry_internal_failure">"En feil oppsto.
 Vennligst sjekk ditt sproingsnummer"</string>
-     <string name="express_inquiry_logistics_empty">Vennligst velg logistikk.</string>
-     <string name="express_inquiry_logistics_indication">Kurernavn</string>
+     <string name="express_inquiry_logistics">Select a courier service</string>
+     <string name="express_inquiry_logistics_select_others_indication">Other</string>
      <string name="express_inquiry_no_history">Ingen historikk</string>
      <string name="express_inquiry_no_result">Ingen resultater.</string>
      <string name="express_inquiry_number_empty">Vennligst velg ditt trackingnummer.</string>
@@ -156,6 +157,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_sender_region">Avsender region</string>
      <string name="express_submit_order">Send</string>
      <string name="express_tracking_number">Tracking number</string>
+     <string name="express_urge_order">Urge</string>
      <string name="express_view_order">Vis ordre</string>
      <string name="express_view_status">Følg</string>
      <string name="expresss_inquiry_all_logistics">Alle</string>
