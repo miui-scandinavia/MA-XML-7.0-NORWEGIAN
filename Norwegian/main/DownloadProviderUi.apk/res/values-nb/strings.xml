@@ -129,11 +129,11 @@
      <string name="turn_off_xunlei_title">Skru av Xunlei-nedlastningsmotor</string>
      <string name="unbind_xunlei_2_success">Xunlei-konto ble endret</string>
      <string name="unbind_xunlei_success">Du ble logget ut av Xunlei-kontoen</string>
-     <string name="valid_in_this_month">only valid in this month</string>
+     <string name="valid_in_this_month">bare gyldig i denne måneden</string>
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-     <string name="xunlei_gaosu">Xunlei Highspeed service</string>
+     <string name="xunlei_gaosu">Xunlei høyhastighetstjeneste</string>
      <string name="xunlei_member_annual_fee">Xunlei medlem i et år(platinum)</string>
      <string name="xunlei_member_one_month">Xunlei medlem i en måned(platinum)</string>
      <string name="xunlei_speed_service">Xunlei tjeneste for hastighetsøkning</string>
