@@ -455,7 +455,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="msim_not_set_summary">Ikke satt</string>
      <string name="msim_pref_title_data">Internett</string>
      <string name="msim_pref_title_voice">Ring</string>
-     <string name="msim_set_icc_card_error">ICC card error</string>
+     <string name="msim_set_icc_card_error">ICC-kortfeil</string>
      <string name="msim_set_sub_not_supported_phone_in_call">Under en samtale, kan du ikke sette</string>
      <string name="msim_set_sub_not_supported_slot_id_error">Feil med SIM-kort, vennligst prøv igjen senere</string>
      <string name="msim_setting_categery_title">SIM-kort-informasjon</string>
@@ -833,8 +833,8 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="tty_mode_entries_vco">TTY VCO</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>
-     <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ring</string>
-     <string name="turnover_mute_title">Flip to silence ring</string>
+     <string name="turnover_mute_summary">Når telefonen er rotert horisontalt, vend den over for å bringe ringetone til taushet</string>
+     <string name="turnover_mute_title">Vend for å bringe</string>
      <string name="undefined">Ikke definert</string>
      <string name="unknown">Ukjent</string>
      <string name="unlock_failed">Fikk ikke fjerne operatørlås.</string>

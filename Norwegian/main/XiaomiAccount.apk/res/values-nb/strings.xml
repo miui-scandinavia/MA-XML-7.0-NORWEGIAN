@@ -6,13 +6,13 @@
      <string name="access_token_invalid_warning">Weibo-kontoen er ugyldig</string>
      <string name="account">Konto</string>
      <string name="account_bind_devices">Aktive enheter</string>
-     <string name="account_bind_settings">E-post &amp; telefon</string>
+     <string name="account_bind_settings">E-Kontoer</string>
      <string name="account_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
      <string name="account_dspt_provision" />
      <string name="account_hint_text">Epostadresse eller telefnnummer</string>
      <string name="account_name">Konto: %1$s</string>
      <string name="account_not_activated">"Kontoen er ikke aktivert"</string>
-     <string name="account_sec_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
+<!--     <string name="account_sec_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>-->
      <string name="account_sec_dspt2" />
      <string name="account_settings">Kontoinstillinger</string>
      <string name="account_xiaomi_service">Tjenester</string>
@@ -22,7 +22,7 @@
      <string name="app_name">Mi-konto</string>
      <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
      <string name="barcode_add_account_prompt">For å legge til en konto, scan QR-koden igjen etter du har logget inn.</string>
-     <string name="bind_settings">E-post &amp; telefon</string>
+     <string name="bind_settings">Kontoer</string>
      <string name="bind_sina_weibo">Legg til Sina Weibo konto</string>
      <string name="bind_weibo_description">Finn og synkroniser venner fra Sina Weibo.</string>
      <string name="binded">Konto lagt til</string>
@@ -47,7 +47,7 @@
      <string name="dirty_mms_count">%d meldinger</string>
      <string name="dirty_note_count">%d notater</string>
      <string name="email_already_be_used">Denne epostadressen er allerede tilknyttet en annen konto.</string>
-     <string name="email_reg_success_summary">%1$s har blitt tilknyttet din konto. Du kan bruke det for å logge inn eller tilbakestille passordet.</string>
+     <string name="email_reg_success_summary">%1$s har blitt lagt til din konto. Du kan bruke det for å logge inn eller tilbakestille passordet.</string>
      <string name="enable_sync">Slå på</string>
      <string name="enable_sync_dspt">Synkronisering er av</string>
      <string name="error_device_id">"Klarer ikke finne IMEI"</string>
@@ -60,7 +60,7 @@
      <string name="error_phone_error">Ugyldig telefonnummer</string>
      <string name="error_server">Serverfeil</string>
      <string name="error_sim_not_ready">"Kan ikke finne SIMkort"</string>
-     <string name="error_ssl_hand_shake">Feil på servertilkoblingen. Prøv å stille dato/tid til nåverende tidspunkt</string>
+     <string name="error_ssl_hand_shake">Enheten din har problemer med å kontakte våre servere. Prøv å stille dato/tid til nåverende tidspunkt</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
@@ -103,7 +103,7 @@
      <string name="micloud_activate_retry_btn">Prøv igjen</string>
      <string name="micloud_activating_account_notify_info">Aktiverer Mi-kontoen</string>
      <string name="micloud_activating_account_notify_title">Aktiverer konto…</string>
-     <string name="micloud_active_alert_title">Send SMS</string>
+     <string name="micloud_active_alert_title">Advarsel om databruk</string>
      <string name="micloud_active_email_sent_1">"En aktiveringslink er sendt til "</string>
      <string name="micloud_active_email_sent_2" />
      <string name="micloud_active_email_visit">Sjekk innboksen på %s</string>
@@ -173,7 +173,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="reg_failed">"Kan ikke sette opp konto"</string>
      <string name="reg_sms_send_prompt">Send verifikasjonskode til %s</string>
      <string name="reg_success">Konto opprettet</string>
-     <string name="reg_success_summary">%1$s er tilknyttet din konto. Du kan bruke det til å logge inn eller tilbakestille passordet.</string>
+     <string name="reg_success_summary">%1$s er lagt til din konto. Du kan bruke det til å logge inn eller tilbakestille passordet.</string>
      <string name="reg_type_email">Opprett konto ved hjelp av epostadresse</string>
      <string name="reg_type_other_ways">&lt;u&gt;Opprett konto ved hjelp av e-post-adresse&lt;/u&gt;</string>
      <string name="reg_type_other_ways_title">Opprett konto ved hjelp av e-post-adresse</string>
