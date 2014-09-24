@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Populære</item>
+        <item>Nivå</item>
+        <item>Nyeste</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Utvalgte</item>
+        <item>Nivå</item>
+        <item>Nyeste</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokal</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episode</item>
+        <item>Sammendrag</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Alle tilegg</item>
+        <item>Mine tilegg</item>
+    </string-array>
+</resources>

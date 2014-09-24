@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>M</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"I går "</item>
+        <item>"I dag "</item>
+        <item>"Denne måneden "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"I går: "</item>
+        <item>"I dag: "</item>
+        <item>"Denne måneden: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>I går (Data)</item>
+        <item>I dag (Data)</item>
+        <item>Denne måneden (Data)</item>
+        <item>I går Wi-Fi</item>
+        <item>I dag Wi-Fi</item>
+        <item>Denne måneden Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>I går (Data)</item>
+        <item>I dag (Data)</item>
+        <item>Denne måneden (Data)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sek</item>
+        <item>4 sek</item>
+        <item>5 sek</item>
+        <item>6 sek</item>
+        <item>7 sek</item>
+        <item>8 sek</item>
+        <item>9 sek</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobilbruk "</item>
+        <item>"Wi-Fi-bruk "</item>
+        <item>"Data spart "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilbruk "</item>
+        <item>"Wi-Fi-bruk "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobildatabruk "</item>
+        <item>"Wi-Fi-bruk "</item>
+        <item>"Data spart "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Hent meldingsmal automatisk</item>
+        <item>Sett meldingsmal manuelt</item>
+    </string-array>
+</resources>

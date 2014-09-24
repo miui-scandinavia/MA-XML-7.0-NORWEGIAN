@@ -27,7 +27,7 @@
      <string name="enable_sync">Skru på</string>
      <string name="enable_sync_dspt">Synk er av</string>
      <string name="error_data_in_transfer">Dine data blir overført. Vennligst vent %s timer.</string>
-     <string name="error_data_in_transfer_title">Skytjeneste er ikke tilgjengelig foreløpig.</string>
+     <string name="error_data_in_transfer_title">Mi Cloud er utilgjengelig.</string>
      <string name="error_forbidden">Synk har blitt deaktivert på grunn av problemer med din Mi-konto.</string>
      <string name="error_network">"Kan ikke koble til nettverk"</string>
      <string name="error_not_acceptable">Synk har blitt deaktivert.</string>
@@ -35,9 +35,9 @@
      <string name="error_title">"Kunne ikke synke"</string>
      <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
-     <string name="find_device">Finn enhet</string>
-     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen i Innstillinger &gt; Kontoer &amp; synk &gt; Mi Cloud</string>
-     <string name="find_device_disabled_title">Deaktivert</string>
+     <string name="find_device">Finn enhet er på</string>
+     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen innstillingene til Mi Clou</string>
+     <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Lås eller slett innhold på dene enhetenLock or wipe this device eksternt.</string>
      <string name="find_device_enabling">Skrur på…</string>
@@ -47,19 +47,20 @@
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
-Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt."</string>
+Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere tjenesten."</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
      <string name="find_device_success_title">Finn enhet</string>
-     <string name="finish">Fullfør</string>
+     <string name="finish">OK</string>
      <string name="flight_mode">Flymodus</string>
      <string name="full_space">Ikke nok plass</string>
      <string name="header_data_and_synchronization">Data &amp; synk</string>
+     <string name="header_other_settings">Andre</string>
      <string name="i_know">OK</string>
      <string name="internet">Internett</string>
      <string name="internet_disconnected">Ingen datatilkobling</string>
      <string name="less_flow_mode">Datasparing</string>
-     <string name="master_alert_notif_dspt_add">"%s har ikke blitt synket."</string>
-     <string name="master_alert_notif_dspt_no">"Alt er oppdatert."</string>
+     <string name="master_alert_notif_dspt_add">%s elementer å synkronisere</string>
+     <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
      <string name="micloud_dspt">Bruk Mi Cloud for å synke innhold, finne din enhet,</string>
@@ -74,11 +75,11 @@ Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt
 
 For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
-     <string name="micloud_main_data_unsynced">%d ikke synket</string>
+     <string name="micloud_main_data_unsynced">%d elementer å synkronisere</string>
      <string name="micloud_main_last_sync_time">Siste synk</string>
-     <string name="micloud_main_network_error">"Kan ikke koble til nettverk. Sjekk nettverksinnstillingene og prøv igjen."</string>
+     <string name="micloud_main_network_error">"Kan ikke koble til nettverket."</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
-     <string name="micloud_main_suggest_sync">Noen elementer trenger å bli synket med din Mi Cloud.</string>
+     <string name="micloud_main_suggest_sync">Noen elementer har ikke blytt synkronisert med din Mi Cloud</string>
      <string name="micloud_main_sync_now">Synk nå</string>
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_stop">Stopp synk</string>
@@ -106,7 +107,7 @@ brukt %s | gjenværende %s"</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
      <string name="normal">Normal</string>
-     <string name="only_in_wlan">Bare bruk Wi-Fi for å synke</string>
+     <string name="only_in_wlan">Bare bruk Wi-Fi</string>
      <string name="other_settings">Andre innstillinger</string>
      <string name="password">Skriv ditt passord</string>
      <string name="photo">Bilder</string>
@@ -114,15 +115,15 @@ brukt %s | gjenværende %s"</string>
      <string name="pref_title_sync_contacts_title">Synk kontakt</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
      <string name="pref_title_sync_my_profile_title">Synk min profil</string>
-     <string name="remind_later">Påminn meg senere</string>
+     <string name="remind_later">Senere</string>
      <string name="restoreSync">Synk nå</string>
      <string name="setting">Innstillinger</string>
      <string name="sms">SMS</string>
      <string name="space">Lagring</string>
      <string name="start_micloud">Start</string>
      <string name="storage">Lagring</string>
-     <string name="sub_alert_notif_dspt_add">"%s har ikke blitt synket."</string>
-     <string name="sub_alert_notif_dspt_no">"Alt er oppdatert."</string>
+     <string name="sub_alert_notif_dspt_add">%s elementer å synke</string>
+     <string name="sub_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="sub_alert_notif_title">Synker ikke</string>
      <string name="sub_sync_item_sms_summary">Reduserer databruk</string>
      <string name="sub_sync_item_sms_title_wifi_only">Synk av MMS: Bare Wi-Fi</string>

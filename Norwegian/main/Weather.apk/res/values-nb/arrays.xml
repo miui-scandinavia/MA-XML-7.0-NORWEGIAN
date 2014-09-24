@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="weather_type">
+     <string-array name="moon_desc">
+        <item>New moon</item>
+        <item>Waxing crescent</item>
+        <item>First quarter</item>
+        <item>Waxing gibbous</item>
+        <item>Full moon</item>
+        <item>Waning gibbous</item>
+        <item>Last quarter</item>
+        <item>Waning crescent</item>
+        <item>Dark moon</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Svakest</item>
+        <item>Svak</item>
+        <item>Midten</item>
+        <item>Sterk</item>
+        <item>Sterkest</item>
+     </string-array>
+     <string-array name="weather_type">
         <item>Sol</item>
         <item>Skyfullt</item>
         <item>Overskyet</item>
@@ -28,15 +47,8 @@
         <item>Disig</item>
         <item>Frysende regn</item>
         <item>Ingen data</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Svakest</item>
-        <item>Svak</item>
-        <item>Midten</item>
-        <item>Sterk</item>
-        <item>Sterkest</item>
-    </string-array>
-    <string-array name="wind_direction">
+     </string-array>
+     <string-array name="wind_direction">
         <item>Vind N</item>
         <item>Vind NE</item>
         <item>Vind E</item>
@@ -45,5 +57,5 @@
         <item>Vind SW</item>
         <item>Vind W</item>
         <item>Vind NW</item>
-    </string-array>
+     </string-array>
 </resources>
