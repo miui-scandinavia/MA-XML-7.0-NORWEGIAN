@@ -343,8 +343,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="importSimEntry">Importer</string>
      <string name="importToFDNfromContacts">Importer fra kontakter</string>
      <string name="importingSimContacts">Importerer kontakter fra SIM-kortet</string>
-     <string name="ims_accounts_title">"IMS-konto/string>
-     <string name="ims_call_type_control">ImsCallTypeCapabilityControl"</string>
+     <string name="ims_accounts_title">"IMS-konto"</string>
      <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
      <string name="ims_edit_title">IMS-kontodetaljer</string>
      <string name="ims_menu_discard">Forkast</string>
@@ -808,9 +807,8 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="telocation_countrycode_alert_title">Advarsel</string>
      <string name="telocation_custom_empty">Legg til et nummer ved å trykke Legg til (+) knappen</string>
      <string name="telocation_custom_location_summary">Administerer mine lagrede områdekoder og gruppenummer</string>
-     <string name="telocation_custom_location_title">"Mine plassering<er/string>
-     <string name="telocation_custom_name_hint">Navn"</string>
-     <string name="telocation_custom_name_hint">Name</string>
+     <string name="telocation_custom_location_title">"Mine plasseringer"</string>
+     <string name="telocation_custom_name_hint">Navn</string>
      <string name="telocation_custom_number_hint">Områdekode eller gruppenummer</string>
      <string name="telocation_edit_custom_location_title">Konfigurer plassering</string>
      <string name="telocation_enable_title">Vis plassering</string>
