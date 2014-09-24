@@ -775,7 +775,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="device_name">Enhetsnavn</string>
      <string name="device_name_input_error">"Kunne ikke lagre enhetsnavn."</string>
      <string name="device_name_input_hint">Skriv navn</string>
-     <string name="device_name_usage_point">Dette navnet vil bli synlig for andre Bluetooth-enheter i ditt område</string>
+     <string name="device_name_usage_point">Dette navnet vil bli synlig for andre Bluetooth-enheter i nørheten</string>
      <string name="device_picker">Bluetooth-enhetsvelger</string>
      <string name="device_sd_memory">SD-kort</string>
      <string name="device_status">Status</string>
@@ -952,7 +952,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="filter_apps_running">Kjører</string>
      <string name="filter_apps_third_party">Tredjeparts</string>
      <string name="filter_dlg_title">Velg filteralternativer</string>
-     <string name="finish_application">Avslutt</string>
+     <string name="finish_application">PL</string>
      <string name="finish_button_label">Fullfør</string>
      <string name="firmware_version">Android-versjon</string>
      <string name="floating_window_switch_label">Aktiver flytende vinduer</string>
@@ -977,7 +977,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="force_stop_dlg_title">Vil du tvinge avslutning?</string>
      <string name="forget_wifi_message">Din enhet vil slutte å koble til dette nettverket automatisk.</string>
      <string name="found_new_version">Fant ny versjon</string>
-     <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
+     <string name="free_wifi_agreement_remind_never">"Ikke vis igjen"</string>
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Koble til</string>
      <string name="free_wifi_connect_dialog_summary">%1$s tilbudt av %2$s.</string>
@@ -994,9 +994,9 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="free_wifi_manage_summary">Trykk for å vise %1$s.</string>
      <string name="free_wifi_speed_title">Treg forbindelse?</string>
      <string name="free_wifi_summary">Trykk for å koble til %1$s.</string>
-     <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
-     <string name="free_wifi_user_agreement_allow">Agree</string>
-     <string name="free_wifi_user_agreement_title">Terms of Use</string>
+     <string name="free_wifi_user_agreement">Når du bruker WiWide for å koble til et nettverk, vil telefonnummeret ditt bli brukt til å verifiserer din identitet.</string>
+     <string name="free_wifi_user_agreement_allow">Godta</string>
+     <string name="free_wifi_user_agreement_title">Vilkår for bruk</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
      <string name="frequently_fragment_delete">Fjern</string>
      <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>
@@ -1077,7 +1077,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="home_app_uninstall_button">Avinstaller denne appen</string>
      <string name="home_key">Home</string>
      <string name="home_settings">Startside</string>
-     <string name="ime_security_warning">Denne inndatametoden har tilgang til all tekst du skriver, blant annet personlige opplysninger som for eksempel passord og kredittkortnumre. Den kommer fra appen %1$s. Vil du bruke denne inndatametoden?</string>
+     <string name="ime_security_warning">%1$sDette tastaturet har tilgang til all tekst du skriver, blant annet personlige opplysninger som for eksempel passord og kredittkortnumre.</string>
      <string name="immediately_destroy_activities">Ikke behold aktiviteter</string>
      <string name="immediately_destroy_activities_summary">Fjern hver aktivitet så fort brukeren forlater den</string>
      <string name="ims_reg_required_off">Deaktivering av IMS-registrering er påkrevd</string>
@@ -1539,7 +1539,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="onscreen_keyboard_settings_summary">Innstillinger for skjermtastatur</string>
      <string name="open_wifi_connect_summary">Trykk for å håndtere</string>
      <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
-     <string name="other_relative">Andre tillatelser</string>
+     <string name="other_relative">Andre</string>
      <string name="overlay_display_devices_title">Simulering av sekundærskjermer</string>
      <string name="owner_info_settings_edit_text_hint">Skriv inn teksten som skal vises på låseskjermen</string>
      <string name="owner_info_settings_summary" />
@@ -1548,11 +1548,11 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
      <string name="password_guard">Passord</string>
      <string name="percentage">%d%%</string>
-     <string name="permission_detail_info">Tillatelsesdetaljer</string>
+     <string name="permission_detail_info">Detaljer</string>
      <string name="permission_detail_info_summary">Tillatelser: Sikkerhet %1$d，Personvern %2$d，Andre %3$d</string>
      <string name="permission_manage">Håndter tillatelser</string>
-     <string name="permission_manage_summary">Auto start, personvern, sikker tillatelseshåndtering</string>
-     <string name="permission_manage_title">%s tillatelsesdetaljer</string>
+     <string name="permission_manage_summary">Addministrer auto start, personvern og andre apptillatelser</string>
+     <string name="permission_manage_title">%s tillatelser</string>
      <string name="permission_manager">Rettigheter</string>
      <string name="permission_mgr">Rettigheter</string>
      <string name="permissions_label">Rettigheter</string>
@@ -1575,8 +1575,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="pointer_location_summary">Skjermoverlegg viser aktuelle berøringsdata</string>
      <string name="pointer_settings_category">Mus/styreflate</string>
      <string name="pointer_speed">Pekerhastighet</string>
-     <string name="power_autorun_apps_empty">Ingen auto-oppstart apper</string>
-     <string name="power_autorun_empty">Ingen apper</string>
+     <string name="power_autorun_apps_empty">Tom</string>
+     <string name="power_autorun_empty">Tom</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Celle-standby</string>
      <string name="power_idle">Enheten ikke i bruk</string>
@@ -1641,14 +1641,14 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="print_settings_title">Utskriftstjenester</string>
      <string name="priority_storage_app_settings">Brukerdata vil bli lagret til %1$s</string>
      <string name="priority_storage_settings_summary">"Hvis ett SD-kort ikke blir oppdaget, vil brukerdata bli lagret til enhetens interne lager automatisk"</string>
-     <string name="priority_storage_summary">Velg standardplassering for lagring av brukerdata</string>
+     <string name="priority_storage_summary">Velg hvor du vil lagre dine data</string>
      <string name="priority_storage_title">Lagringsinnstillinger</string>
      <string name="privacy_mode_dialog_message">Anrop, notater, bilder, meldinger, og launcher-innstillinger vil bli skjult fra brukeren</string>
      <string name="privacy_mode_dialog_title">Gjestemodus</string>
      <string name="privacy_mode_enable_sum">Skjul meldinger, notater, bilder, og innkommende anrop fra bruker</string>
      <string name="privacy_mode_enable_title">Gjestemodus</string>
      <string name="privacy_protect_title">Personvernsbeskyttelse</string>
-     <string name="privacy_relative">Personvernsrelatert</string>
+     <string name="privacy_relative">Personvern</string>
      <string name="privacy_settings">Sikkerhetskopier/tilbakestilling</string>
      <string name="privacy_settings_title">Sikkerhetskopier/tilbakestilling</string>
      <string name="private_gallery_need_to_unlock">Passord kreves:</string>
@@ -1810,10 +1810,10 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="retry">Prøv igjen</string>
      <string name="ring_volume_title">Ringevolum</string>
      <string name="ringtone_mute">Ingen</string>
-     <string name="ringtone_slot_setting_title">Single card settings</string>
+     <string name="ringtone_slot_setting_title">Innstillinger for dobbel-SIM</string>
      <string name="ringtone_summary" />
      <string name="ringtone_title">Ringetone</string>
-     <string name="ringtone_uniform_setting_title">Dual card settings</string>
+     <string name="ringtone_uniform_setting_title">Innstillinger for dobbel-SIM</string>
      <string name="roaming">Dataroaming</string>
      <string name="roaming_disable">Koble til datatjenester ved roaming</string>
      <string name="roaming_enable">Koble til datatjenester ved roaming</string>
@@ -1840,8 +1840,8 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="runningservices_settings_title">Kjørende tjenester</string>
      <string name="scan_list_label">Skannresultater:</string>
      <string name="screen">Screen</string>
-     <string name="screen_color_temperature">Fargetemperatur</string>
-     <string name="screen_color_temperature_and_saturation">Fargetemperatur &amp; metning</string>
+     <string name="screen_color_temperature">Farger</string>
+     <string name="screen_color_temperature_and_saturation">Farger &amp; metning</string>
      <string name="screen_compatibility_label">Skjermkompatibilitet</string>
      <string name="screen_compatibility_text">Denne appen er kanskje ikke utformet for skjermen din. Du kan kontrollere hvordan den justerer seg til skjermen her.</string>
      <string name="screen_key_long_press">Langt trykk på navigeringsknapper</string>
@@ -1850,7 +1850,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="screen_never_timeout_title">Aldri sov</string>
      <string name="screen_on_proximity_sensor_summary">Enheten vil automatisk låses når plassert i lommen</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
-     <string name="screen_saturation">Fargemetning</string>
+     <string name="screen_saturation">Metning</string>
      <string name="screen_timeout">Hvilemodus</string>
      <string name="screen_timeout_summary">Etter %1$s med inaktivivitet</string>
      <string name="screen_timeout_title">Sovemodus</string>
@@ -1930,7 +1930,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="security_password_category_name">Passord</string>
      <string name="security_passwords_title">Passord</string>
      <string name="security_privacy_settings_title">Sikkerhet</string>
-     <string name="security_relative">Sikkerhetsrelatert</string>
+     <string name="security_relative">Sikkerhet</string>
      <string name="security_settings_billing_desc">Den appen kan belaste deg for penger:</string>
      <string name="security_settings_desc">Denne appen har tilgang til følgende på enheten din:</string>
      <string name="security_settings_desc_multi">Denne appen får tilgang til følgende på enheten din. Enkelte av disse tillatelsene er tilgjengelig for %1$s for å forbedre ytelsen og redusere minnebruken, ettersom denne appen kjører i samme prosess som %2$s:</string>
@@ -2028,7 +2028,7 @@ Muligens feil personlig kode."</string>
      <string name="sim_status_title">SIM status</string>
      <string name="skip_label">Hopp over</string>
      <string name="skip_step">Hopp over</string>
-     <string name="slot_status_title">IMEI-informasjon</string>
+     <string name="slot_status_title">IMEI-info</string>
      <string name="small_font">Liten</string>
      <string name="sms_application_title">Standard SMS-app</string>
      <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
@@ -2767,9 +2767,9 @@ kan du også bruke andre brukeres nettverk"</string>
   ."</string>
      <string name="wifi_share_notification_summary">MIUI har koblet deg til et offentlig Wi-Fi nettverk.</string>
      <string name="wifi_share_other_network">Andre nettverk</string>
-     <string name="wifi_share_qrcode_finish">Fullført</string>
-     <string name="wifi_share_qrcode_summary">Bruk Kamera for å skanne QR-kode</string>
-     <string name="wifi_share_qrcode_title">Del Wi-Fi</string>
+     <string name="wifi_share_qrcode_finish">OK</string>
+     <string name="wifi_share_qrcode_summary">For å dele, skann QR-koden over.</string>
+     <string name="wifi_share_qrcode_title">Del Wi-Fi-nettevrk</string>
      <string name="wifi_share_show_network">Vis nettverk</string>
      <string name="wifi_share_summary1">MIUI-brukere kan dele offentlige Wi-Fi nettverk (kafeer, restauranter, hoteller osv.) med hverandre.</string>
      <string name="wifi_share_summary2">" Når en annen MIUI-bruker deler et nettverk, kan du koble til direkte uten å bruke passord."</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="account_info">Min konto</string>
+     <string name="account_info">Mi-konto</string>
      <string name="account_unactivated">Konto ikke aktivert.</string>
      <string name="all_resources">Alle</string>
      <string name="all_ringtone_resource">Alle</string>
      <string name="app_name">Temaer</string>
-     <string name="apply_default_font_tip">"Keep using system's current font?"</string>
+     <string name="apply_default_font_tip">"Bruk systemet sin gjeldende skrifttype?"</string>
      <string name="apply_font_btn_exclude">Bruk uten skrifttype</string>
      <string name="apply_font_btn_reboot">Bruk og restart</string>
      <string name="apply_font_tip">"Restart for å bruke dette temaet sin skrifttype."</string>
@@ -16,7 +16,7 @@
      <string name="backup_theme_dialog_ok">Lagre</string>
      <string name="backup_theme_name">Min Backup</string>
      <string name="backup_theme_progress_message">Lagrer tema...</string>
-     <string name="backup_theme_success_message">Fullført.</string>
+     <string name="backup_theme_success_message">Gjeldende temainnstillinger har blitt sikkerhetskopiert</string>
      <string name="basic_info">Enkel info</string>
      <string name="change_wallpaper">Skift bakgrunnsbilde</string>
      <string name="close">Lukk</string>
@@ -26,7 +26,7 @@
      <string name="deleting">Sletter...</string>
      <string name="description_author">Forfatter:</string>
      <string name="description_designer">Designer:</string>
-     <string name="description_download">Downloads:</string>
+     <string name="description_download">Nedlastinger:</string>
      <string name="description_size">Størrelse:</string>
      <string name="description_summary">Beskrivelse:</string>
      <string name="description_uploadtime">Oppdatering:</string>
@@ -196,7 +196,7 @@
      <string name="resource_trial_fail_cancel">OK</string>
      <string name="resource_trial_fail_go_settings">Settings</string>
      <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
-     <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
+     <string name="resource_trial_fail_title">"Kunne ikke sette opp prøveperiode"</string>
      <string name="resource_trial_time">（prøveperiode vart i %1$d minutter）</string>
      <string name="resource_unable_to_access">"For øyeblikket ikke tilgjengelig i din region/land.”</string>
      <string name="resource_unknow_error">Ukjent feil oppsto.</string>
@@ -216,13 +216,13 @@
      <string name="theme_batch_updating_text">%1$d temaer blir oppdatert ...</string>
      <string name="theme_changed_failed_message">Setting mislykkets.</string>
      <string name="theme_changed_message">Tema satt!</string>
-     <string name="theme_changing_dialog_title">Setter tema...</string>
+     <string name="theme_changing_dialog_title">"Setter "</string>
      <string name="theme_component_title_alarm">Alarm</string>
      <string name="theme_component_title_alarmstyle">Alarmutseende</string>
      <string name="theme_component_title_all">Temaer</string>
      <string name="theme_component_title_audio_effect">Lydeffekt</string>
-     <string name="theme_component_title_boot_animation">Boot Animasjon</string>
-     <string name="theme_component_title_boot_audio">Boot Lyd</string>
+     <string name="theme_component_title_boot_animation">Oppstartsanimasjon</string>
+     <string name="theme_component_title_boot_audio">Oppstartslyd</string>
      <string name="theme_component_title_clock">Klokke</string>
      <string name="theme_component_title_contact">Kontakttema</string>
      <string name="theme_component_title_font">Skrifttype</string>
@@ -242,7 +242,7 @@
      <string name="theme_current_using_has_update">"Det er en oppdatering for temaet du bruker"</string>
      <string name="theme_description_title_customized">Tilpasset</string>
      <string name="theme_description_title_default">Standard</string>
-     <string name="theme_fresh_man_notifaction">New themes available</string>
+     <string name="theme_fresh_man_notifaction">Nye temaer tilgjengelig</string>
      <string name="theme_immediately_apply_tip">Dette temaet er oppdatert, bruk nå</string>
      <string name="theme_import_from_sdcard">Importer fra SD kort</string>
      <string name="theme_name">%1$s</string>
@@ -260,9 +260,9 @@
      <string name="theme_user_agreement_title">Vilkår for bruk</string>
      <string name="theme_yes">Yes</string>
      <string name="third_party_pickers_activity_title">Sett %1$s</string>
-     <string name="title_component">Miks</string>
-     <string name="title_system_resource">System elementer</string>
-     <string name="to_activate_the_account">Vennligst aktiver din Xiaomi-konto</string>
+     <string name="title_component">Personliggjør tema</string>
+     <string name="title_system_resource">Lokal</string>
+     <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="wallpaper_crop">Beskjær</string>
      <string name="wallpaper_decoded_error">Kunne ikke avkode</string>
      <string name="wallpaper_loading_text">Laster ...</string>

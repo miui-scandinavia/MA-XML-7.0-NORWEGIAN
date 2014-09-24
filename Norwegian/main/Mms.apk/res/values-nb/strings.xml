@@ -198,13 +198,13 @@
      <string name="menu_edit">Rediger</string>
      <string name="menu_forward">Videresend</string>
      <string name="menu_lock">Lås melding</string>
-     <string name="menu_more">More</string>
+     <string name="menu_more">Mer</string>
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
      <string name="menu_unlock">Lås opp melding</string>
      <string name="menu_view_contact">Åpen kontakt</string>
-     <string name="menu_yellowpage">View %s</string>
+     <string name="menu_yellowpage">Vis %s</string>
      <string name="message_class_label">"Meldingstype: "</string>
      <string name="message_details_title">Meldingsdetaljer</string>
      <string name="message_download_failed_title">Melding ikke hentet!</string>
@@ -509,7 +509,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi."</string>
      <string name="user_agreement2">" Brukervilkår"</string>
      <string name="user_agreement3">" og "</string>
      <string name="user_agreement4">Erklæring om personvern</string>
-     <string name="user_agreement5">By touching OK, you agree to the terms outlined in these documents.</string>
+     <string name="user_agreement5">Ved å trykke OK, godkjenner du vilkårene skrevet i disse dokumentene.</string>
      <string name="view">Vis</string>
      <string name="view_bookmark">Vis original melding</string>
      <string name="view_hms_details">Detaljer</string>

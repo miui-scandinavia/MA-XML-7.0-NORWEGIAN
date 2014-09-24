@@ -41,8 +41,8 @@
      <string name="cancel_favorite_success">Ustjernemerkede</string>
      <string name="channel_choice_empty_hint">Tom</string>
      <string name="channel_empty_hint">Tom</string>
-     <string name="check_network">"Can't connect to the network. Check your data connection and try again."</string>
-     <string name="choice">Populær</string>
+     <string name="check_network">"Kan ikke koble til nettverket. Sjekk datatilkoblingen og prøv igejn."</string>
+     <string name="choice">Redaktørens valg</string>
      <string name="clarity_high">Høy</string>
      <string name="clarity_standard">Standard</string>
      <string name="clarity_supper">Super</string>
@@ -50,19 +50,11 @@
      <string name="clear_cache">Tøm bildecache</string>
      <string name="clear_cache_success">Cache tømt</string>
      <string name="clear_cache_summary">Tøm cachede bilder fra Videoutforsker</string>
-     <string name="click_star_rate">Click on the star rating</string>
-     <string name="click_to_login">Trykk på bilde for logge inn</string>
+     <string name="click_star_rate">rykk på stjernene for å stemme</string>
+     <string name="click_to_login">Trykk for logge inn</string>
      <string name="cnlive">cnlive</string>
      <string name="comment">Kommentarer</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: Comment must be at least d% characters -->
      <string name="comment_count_less_tip">Kommentaren må være på minst %d tegn</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "Comment can't exceed d% characters" -->
      <string name="comment_count_much_tip">"Kommentaren kan ikke overskride %d tegn"</string>
      <string name="comment_edit_blog_hint">Post på Weibo</string>
      <string name="comment_edit_et_hint">Skriv en kommentar</string>
@@ -82,7 +74,7 @@
      <string name="count_ji_quan">Alle %d episoder</string>
      <string name="day">Dag</string>
      <string name="declaration">Vilkår for bruk</string>
-     <string name="declaration_content">Aksepterer du vilkårene for bruk fastsatt av Sohu Video, iQiyi, og andre leverandører av videoinnhold?</string>
+     <string name="declaration_content">Ved å bruke denne tjenesten, aksepterer du &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt; fastsatt av Sohu Video, iQiyi, og andre leverandører av videoinnhold.</string>
      <string name="defaults">Default</string>
      <string name="delete">Slett</string>
      <string name="delete_addon">Slett</string>
@@ -104,19 +96,15 @@
      <string name="download_error">Offline-feil</string>
      <string name="download_file_fail">Lokal filtilgang feilet, det kan være lite plass på SD-kortet</string>
      <string name="download_geturl_fail">Henting av URL feilet, vennligst sjekk nettverket og prøv igjen..</string>
-     <string name="download_is_in_tasklist">Har vært i cacheliste</string>
+     <string name="download_is_in_tasklist">Nedlastingskø</string>
      <string name="download_is_success">Har blitt cachet</string>
-     <string name="download_percent_hint">Downloading %d%%</string>
-     <string name="download_select_more">Download more</string>
+     <string name="download_percent_hint">Laster ned %d%%</string>
+     <string name="download_select_more">Last ned mer</string>
      <string name="edit">Endre</string>
      <string name="edit_comment">Legg til kommentar</string>
      <string name="elipsis">…</string>
      <string name="episode">Episode</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: "Ep. %d " -->
-     <string name="episode_suffix">Sett</string>
+     <string name="episode_suffix">Ep. %d</string>
      <string name="favorite">Merk med stjerne</string>
      <string name="feature">Utvalgt</string>
      <string name="feature_list_empty_hint">Tom</string>
@@ -126,17 +114,17 @@
      <string name="filter">Filter</string>
      <string name="filter_media">Filter</string>
      <string name="filter_program">Filtrer program</string>
-     <string name="forecast">Langtidsvarsel</string>
-     <string name="forecast_empty_hint">Ingen programmer</string>
-     <string name="forecasts">Langtidsvarsel</string>
-     <string name="fullscreen">Fullscreen</string>
+     <string name="forecast">Vær</string>
+     <string name="forecast_empty_hint">Tom</string>
+     <string name="forecasts">Vør</string>
+     <string name="fullscreen">Fullskjerm</string>
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">%d DLNA</string>
      <string name="gong_count_ge">%d total</string>
      <string name="gong_count_ji">%d Ep. total</string>
      <string name="gong_count_xiang">%d videoer</string>
      <string name="good">OK</string>
-     <string name="guess_you_like">Anbefalt for deg</string>
+     <string name="guess_you_like">Anbefalt</string>
      <string name="hot_recommend">Trender</string>
      <string name="icntv">iCNTV</string>
      <string name="imports">Importer</string>
@@ -153,8 +141,8 @@
      <string name="loading_video_netplay_label_v5">Laster stream, vennligst vent...</string>
      <string name="local_detail_more">%d mer videoer</string>
      <string name="local_favorite_empty_hint">Tom</string>
-     <string name="local_media">Lokale videoer</string>
-     <string name="local_media_empty_hint">Ingen lokale videoer</string>
+     <string name="local_media">Lokal</string>
+     <string name="local_media_empty_hint">Tom</string>
      <string name="local_video">Lokal</string>
      <string name="login_tip_content">Logg inn med din Xiaomi-konto for å synkronisere og oppdatere serier du følger.</string>
      <string name="login_tip_title">Logg inn</string>
@@ -163,7 +151,7 @@
      <string name="media_name_comment">%s kommentar</string>
      <string name="menu_item_disable_audio_enhance">Skru av lydforbedring</string>
      <string name="menu_item_enable_audio_enhance">Skru på lydforbedring</string>
-     <string name="mipush_setting">Xiaomi push</string>
+     <string name="mipush_setting">Varsler</string>
      <string name="month">Måned</string>
      <string name="more">Mer</string>
      <string name="my_favorite">Stjernemerket</string>
@@ -175,20 +163,20 @@
      <string name="negative_comment">Negative</string>
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Logg inn med din Xiaomi-konto for å sende kommentar.</string>
-     <string name="no_longer_tips">"Don't show again"</string>
-     <string name="not_login">Ikke logget inn</string>
+     <string name="no_longer_tips">"Ikke vis igjen"</string>
+     <string name="not_login">Logg inn</string>
      <string name="nowifi_alert_dialog_continue">Fortsett</string>
      <string name="nowifi_alert_dialog_exit">Avslutt</string>
      <string name="nowifi_alert_dialog_message">Spiller av video på mobilnettverk, fortsett?</string>
      <string name="nowifi_alert_dialog_title">Varsel</string>
      <string name="offline">Offline</string>
-     <string name="offline_alert_title">Cacher varsler</string>
-     <string name="offline_alert_wifi">Du bruker et cellulært nettverk, for å spare databruk, vil all caching bli pauset og vil fortsette etter at du har byttet til et WiFi-nettverk.</string>
+     <string name="offline_alert_title">Optimaliser databruk</string>
+     <string name="offline_alert_wifi">"For å redusere ditt dataforbruk, har nedlastningene blitt pauset og vil fortsette når du er tilkoblet Wi-Fi".</string>
      <string name="offline_max_promote">Venter på cache, det kan kjøres bare 2 cacheoppgaver samtidig.</string>
      <string name="offline_media_empty_hint">Tom</string>
      <string name="offline_no_source">Det er ingen tilgjengelig cache-kilder</string>
      <string name="offline_no_wifi">Du bruker ikke WiFi, vennligst velg cellulær-valget i innstillinger hvis du vil cache nå.</string>
-     <string name="offline_setting">Offline media</string>
+     <string name="offline_setting">Offline innhold</string>
      <string name="ok">OK</string>
      <string name="online_video">Online</string>
      <string name="other_setting">Andre</string>
@@ -202,21 +190,21 @@
      <string name="positive_comment">Positiv</string>
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
-     <string name="prefix_countdown">advertisement left:</string>
+     <string name="prefix_countdown">tid igjen av reklame:</string>
      <string name="qiyi">iQiyi</string>
-     <string name="rank">Stemmer</string>
-     <string name="receive_mipush">Receive xiaomi push</string>
-     <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
-     <string name="recent_play">Seneste avspilt:e Ep.%d</string>
+     <string name="rank">Topp videoer</string>
+     <string name="receive_mipush">Push-varsler</string>
+     <string name="receive_mipush_summary">Motta varsler når nytt innhold er tilgjengelig å se på nett</string>
+     <string name="recent_play">Seneste avspilte: Ep.%d</string>
      <string name="recentplay">Seneste avspilte</string>
      <string name="recommend">Anbefalte</string>
-     <string name="reloading_tip">"Kunne ikke koble til nettverk"</string>
+     <string name="reloading_tip">"Kan ikke koble til nettverk"</string>
      <string name="retry">Prøv igjen</string>
      <string name="sdcard_storage">Internminne</string>
      <string name="search">"Søk"</string>
-     <string name="search_online_video">Søk i nettvideoer</string>
-     <string name="search_recommend_empty">"Didn't find anything"</string>
-     <string name="search_recommend_media_hint">Anbefalt for dag</string>
+     <string name="search_online_video">Søk</string>
+     <string name="search_recommend_empty">"Fant ingenting"</string>
+     <string name="search_recommend_media_hint">Anbefalt</string>
      <string name="search_recommend_word_hint">Trender</string>
      <string name="search_result_empty_text">"Kan ikke finne noenting"</string>
      <string name="search_result_hint">%s  resultater</string>
@@ -228,8 +216,8 @@
      <string name="select_none">Avvelg alle</string>
      <string name="select_offline_media">Vis nedlastinger</string>
      <string name="select_tv">Velg kanal</string>
-     <string name="select_tv_empty_hint">Velg kanal</string>
-     <string name="select_tvs">Velg tv</string>
+     <string name="select_tv_empty_hint">Tom</string>
+     <string name="select_tvs">Velg enhet</string>
      <string name="send">Send</string>
      <string name="setting">Innstillinger</string>
      <string name="share_device">Delt enhet</string>
@@ -257,8 +245,8 @@
      <string name="top_status_online_media">Online medier</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">No channels</string>
-     <string name="type_colon">Genre:</string>
-     <string name="unfavorite">Unstar</string>
+     <string name="type_colon">Sjanger: </string>
+     <string name="unfavorite">Fjern stjernemerke</string>
      <string name="unknown_source">Ukjent kilde</string>
      <string name="update">Oppdater</string>
      <string name="update_to_count_ji">Oppdatert til Ep. %d</string>
@@ -266,9 +254,9 @@
      <string name="upgrade">Oppgrader</string>
      <string name="use_cellular_network">bruk cellulært nettverk</string>
      <string name="use_cellular_network_summary">bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
-     <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
-     <string name="userdata_alert_ok">Continue</string>
-     <string name="userdata_alert_title">Data usage</string>
+     <string name="userdata_alert_content">Bruk av mobildatatilkobling får å vise videoer vil øke ditt dataforbruj. Hvis du går over abonnementets databrukgrense, kan operatøren din belaste deg avgifter.</string>
+     <string name="userdata_alert_ok">Spill av</string>
+     <string name="userdata_alert_title">Dataabrukvarsel</string>
      <string name="video">Video</string>
      <string name="video_info_audio_bitrate_label">"Lyd bitrate   :"</string>
      <string name="video_info_audio_coding_label">Lyd kodningsformat:</string>
@@ -317,7 +305,7 @@
      <string name="write_comment">Legg til kommenter</string>
      <string name="xiaomi_account_type_unsupported">"Systemet støtter ikke Xiaomi-kontoer."</string>
      <string name="xiaomi_user">Xiaomi-bruker</string>
-     <string name="yesterday">Yesterday</string>
+     <string name="yesterday">I går</string>
      <string name="yinyuetai">YinYueTai</string>
      <string name="youku">Youku</string>
 </resources>
