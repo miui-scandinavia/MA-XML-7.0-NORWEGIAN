@@ -838,7 +838,7 @@ CC: %4$s
      <string name="veiled_summary_unknown_person" />
      <string name="via_domain">via %1$s</string>
      <string name="view_more_conversations">View more conversations</string>
-     <string name="wait_for_manual_sync_body">""This account isn't set up to sync automatically.
+     <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically."</string>
      <string name="wait_for_sync_body">Your email will appear shortly.</string>
      <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1–30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
