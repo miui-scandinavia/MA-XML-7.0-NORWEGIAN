@@ -2,15 +2,15 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="moon_desc">
-        <item>New moon</item>
-        <item>Waxing crescent</item>
-        <item>First quarter</item>
-        <item>Waxing gibbous</item>
-        <item>Full moon</item>
-        <item>Waning gibbous</item>
-        <item>Last quarter</item>
-        <item>Waning crescent</item>
-        <item>Dark moon</item>
+        <item>Nymåne</item>
+        <item>Voksende halvmåne</item>
+        <item>Første kvartal</item>
+        <item>Vokser mot halvmåne</item>
+        <item>Fullmåne</item>
+        <item>Avtagende</item>
+        <item>Avtagende siste kvartal</item>
+        <item>Avtagende halvmåne</item>
+        <item>Mørk måne</item>
      </string-array>
      <string-array name="weather_indexes_uv_level">
         <item>Svakest</item>
@@ -24,7 +24,7 @@
         <item>Skyfullt</item>
         <item>Overskyet</item>
         <item>Tåkete</item>
-        <item>Ster regnstorm</item>
+        <item>Sterk regnstorm</item>
         <item>Downpour</item>
         <item>Regnskyll</item>
         <item>Tordenvær</item>
