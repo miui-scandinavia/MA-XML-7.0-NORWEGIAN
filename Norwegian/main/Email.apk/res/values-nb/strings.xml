@@ -107,6 +107,8 @@
 (%s)"</string>
      <string name="account_setup_failed_dlg_edit_details_action">Rediger detaljer</string>
      <string name="account_setup_failed_dlg_server_message">Kan ikke koble til server.</string>
+     <string name="account_setup_failed_dlg_server_message_fmt">"Kan ikke koble til serveren.
+(%s)"</string>
      <string name="account_setup_failed_dlg_title">Oppsettningen kunne ikke avslutte</string>
      <string name="account_setup_failed_ioerror">Ikke i stand til at åpne kobling til server.</string>
      <string name="account_setup_failed_protocol_unsupported">"Du tastet en ugyldig serveradresse eller serveren krever en protokolversion som Epost ikke støtter."</string>
@@ -558,10 +560,9 @@ CC: %4$s
      <string name="message_decode_error">Det oppstod en feil ved avkodingen av meldingn.</string>
      <string name="message_details_title">Message details</string>
      <string name="message_discarded">Message discarded.</string>
-     <string name="message_invite_accept">Yes</string>
-     <string name="message_invite_calendar_view">View in Calendar</string>
-     <string name="message_invite_decline">No</string>
-     <string name="message_invite_label_attending">Going?</string>
+     <string name="message_invite_accept">Ja</string>
+     <string name="message_invite_calendar_view">Vis i kalender</string>
+     <string name="message_invite_decline">Nei</string>
      <string name="message_invite_tentative">Maybe</string>
      <string name="message_invite_title">Calendar invite</string>
      <string name="message_saved">Message saved as draft.</string>

@@ -32,12 +32,7 @@
      <string name="album_share_subtitle_denying">Ignorerer invitasjon fra %1$s...</string>
      <string name="album_share_subtitle_invited">Delt av %1$s, aksepter eller ignorer?</string>
      <string name="album_share_subtitle_normal">Delt av %1$s</string>
-     <string name="album_share_subtitle_not_ready">Album-info ikke klar. Trykk for å laste ned.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Exiting… -->
-     <string name="album_share_subtitle_quitting">Lukker invitasjon fra %1$s...</string>
+     <string name="album_share_subtitle_not_ready">Album-info ikke klar. Trykk for å laste ned.</string>ing">Lukker….</string>
      <string name="album_share_subtitle_requesting">Laster ned albuminfo...</string>
      <string name="album_share_title_new_album">Nytt delt album</string>
      <string name="albums">Album</string>
@@ -56,7 +51,7 @@
      <string name="auto">Auto</string>
      <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
      <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
-     <string name="auto_create_recent_album_over_ten_times">Auto opret favorit album(s) når åbnet mere end ti gange</string>
+     <string name="auto_create_recent_album_over_ten_times">Auto-opprett favorittalbum når åpnet mer en ti ganger</string>
      <string name="autofix">Auto-fiks</string>
      <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
@@ -649,6 +644,11 @@ venner."</string>
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Importering fullført</string>
      <string name="import_fail">Importering mislykkes</string>
+     <string name="impunity_declaration">Galleri kan koble til nettverk (f.eks. Internett) for å tilby tjenester. Vil du fortsette?</string>
+     <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
+     <string name="impunity_declaration_settings">Vis nettverksvarsel</string>
+     <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
+     <string name="impunity_declaration_title">Nettverksvarsel</string>
      <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
      <string name="initial_cloud_text">Til hver en tid og sted, organiser og se dine bilder</string>
      <string name="initializing_cloud">Initialiserer Cloud-album...</string>
@@ -719,8 +719,8 @@ venner."</string>
      <string name="new_device_tips">Ny enhet funnet. Klikk for å vise</string>
      <string name="no">Nei</string>
      <string name="no_albums_alert">Ingen album tilgjengelige.</string>
-     <string name="no_connectivity">"Noen lokasjoner kunne ikke identifiseres på grunn av nettverksproblemer."</string>
-     <string name="no_location">Ingen lokasjon</string>
+     <string name="no_connectivity">"Noen plasseringer kunne ikke identifiseres på grunn av nettverksproblemer."</string>
+     <string name="no_location">Ingen plassering</string>
      <string name="no_map_app">Ingen Kart-program</string>
      <string name="no_network_connected">Ingen nettverksforbindelse</string>
      <string name="no_picture_or_video">Ingen bilder eller videoer</string>
@@ -728,23 +728,23 @@ venner."</string>
      <string name="no_such_item">"Kunne ikke finne element."</string>
      <string name="no_thumbnail">Ingen miniaturer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
-     <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album(er)</string>
+     <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
-     <string name="only_show_camera_in_first_page">Only show the photos of the camera album in the first page</string>
-     <string name="only_show_camera_in_first_page_summary">When turned off, the photos of all the cloud albums will be shown in the first page.</string>
+     <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
+     <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
      <string name="open">Åpne synk</string>
      <string name="open_public_message">Generer en URL og send den til venner</string>
-     <string name="open_public_title">Share publicly</string>
+     <string name="open_public_title">Del offen tlig</string>
      <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
      <string name="open_sync_title">Synk påkrevd</string>
      <string name="operation_add_picture">Legg til bilder</string>
-     <string name="operation_add_secret">Add secret</string>
-     <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slette på samme tid.
+     <string name="operation_add_secret">Legg til hemmelighet</string>
+     <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slettet på samme tid.
 "</string>
      <string name="operation_failed">Operasjon feilet!</string>
      <string name="operation_in_process">Behandler...</string>
      <string name="operation_refresh">Oppdater</string>
-     <string name="operation_remove_secret">Remove secret</string>
+     <string name="operation_remove_secret">Fjern hemmelighet</string>
      <string name="operation_rename">Gi nytt navn</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
      <string name="operation_share">Del</string>

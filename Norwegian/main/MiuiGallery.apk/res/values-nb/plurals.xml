@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Delete %s photos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s photo in &amp;lt;b>cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Delete %s photos?</item>
+        <item quantity="one">Delete %s photo?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Delete %s videos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s videos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Delete %s videos?</item>
+        <item quantity="one">Delete %s video?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Slett %s bilder både &amp;lt;b>lokalt og i skyen&amp;lt;/b>?</item>
+        <item quantity="one">Slett %s bilde både &amp;lt;b>lokalt og i skyen&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Slett %s videoer både &amp;lt;b>lokalt og i skyen&amp;lt;/b>?</item>
+        <item quantity="one">Slett %s video både &amp;lt;b>lokalt og i skyen&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d valgte</item>
+        <item quantity="zero">%1$d valgte</item>
+        <item quantity="one">%1$d valgt</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d bilder</item>
+        <item quantity="zero">%1$d bilder</item>
+        <item quantity="one">%1$d bilder</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elementer</item>
+        <item quantity="zero">%1$d elementer</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+</resources>

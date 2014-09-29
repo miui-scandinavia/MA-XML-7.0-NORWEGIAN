@@ -162,6 +162,7 @@
      <string name="cell_broadcast_sms">Kringkastings-SMS</string>
      <string name="cfb_title">Viderekoble når opptatt</string>
      <string name="cfnrc_title">Viderekoble når utilgjengelig</string>
+     <string name="cfnrc_title_cta">Videresånde når ikke nåbar</string>
      <string name="cfnry_title">Viderekoble ved ikke noe svar</string>
      <string name="cfu_title">Always forward</string>
      <string name="change_num">Oppdater</string>
@@ -181,13 +182,13 @@
      <string name="confirm_pin_label">Bekreft ny PIN</string>
      <string name="connect_disconnect_vibrate_none">Ingen vibrering</string>
      <string name="connect_disconnect_vibrate_normal">Vibrer</string>
-     <string name="connect_disconnect_vibrate_summary">"Vibrate when the person you're calling answers your call"</string>
+     <string name="connect_disconnect_vibrate_summary">"Vibrer når personen du ringer svarer"</string>
      <string name="connect_disconnect_vibrate_title">Vibrer når mottager svarer/legger på</string>
      <string name="connect_disconnect_vibrate_weak">Svakt</string>
      <string name="connect_later">Kan ikke koble til dette nettverket akkurat nå. Prøv på nytt senere.</string>
      <string name="contactAddFailed">Kunne ikke legge til kontakt på SIM-kort!</string>
      <string name="contactAddSuccess">Kontakt ble lagt til på SIM-kort!</string>
-     <string name="contactScreen">Add/Edit SIM Contact</string>
+     <string name="contactScreen">Legg til/endre SIM-kontakt</string>
      <string name="contactUpdateFailed">Kunne ikke oppdatert kontakt på SIM-kort!</string>
      <string name="contactUpdateSuccess">Kontakt på SIM-kort ble oppdatert</string>
      <string name="contactdeleteFailed">Kunne ikke slette kontakt fra SIM-kort!</string>
@@ -228,9 +229,9 @@
      <string name="dial_related_setting_catory">Ring</string>
      <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
      <string name="dialer_default_package">com.android.contacts</string>
-     <string name="dialog_network_priority_title">Priority</string>
+     <string name="dialog_network_priority_title">Prioritet</string>
      <string name="disable">Deaktiver</string>
-     <string name="disable_all_cf">Disable all call-forwarding features</string>
+     <string name="disable_all_cf">Deaktiver alle anrop-videresendinger funksjoner</string>
      <string name="disable_cfb_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er opptatt.</string>
      <string name="disable_cfnrc_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er utenfor dekning.</string>
      <string name="disable_cfnry_forbidden">Operatøren støtter ikke deaktivering av viderekobling når anropet ikke besvares.</string>

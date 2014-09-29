@@ -6,8 +6,8 @@
      <string name="accessibility_battery_level">Batteri %d prosent.</string>
      <string name="accessibility_bluetooth_connected">Bluetooth tilkoblet.</string>
      <string name="accessibility_bluetooth_disconnected">Bluetooth forbindelse avbrutt.</string>
-     <string name="accessibility_bluetooth_tether">Bluetooth internetdeling.</string>
-     <string name="accessibility_camera_button">Camera</string>
+     <string name="accessibility_bluetooth_tether">Bluetooth internettdeling.</string>
+     <string name="accessibility_camera_button">Kamera</string>
      <string name="accessibility_clear_all">Rydd alle varsler.</string>
      <string name="accessibility_data_connection_3.5g">3.5G</string>
      <string name="accessibility_data_connection_3g">3G</string>

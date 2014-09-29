@@ -26,6 +26,14 @@
      <string name="add_city">Legg til lokasjon</string>
      <string name="app_label">Værtilbyder</string>
      <string name="app_name">Vær</string>
+     <string name="aqi_quality_index_break">AQI %1$s</string>
+     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+     <string name="aqi_quality_index_good">AQI %1$s</string>
+     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+     <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+     <string name="aqi_quality_index_moderate">AQI %1$s</string>
+     <string name="aqi_quality_index_pure">AQI %1$s</string>
+     <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="button_abandon">Forkast endringer</string>
      <string name="button_allow">Tillatt</string>
      <string name="button_not_allow">Nekt</string>

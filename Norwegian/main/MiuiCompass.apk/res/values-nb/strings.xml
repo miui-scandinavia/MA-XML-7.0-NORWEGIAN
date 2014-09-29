@@ -19,7 +19,7 @@
   <string name="direction_south_east">SE</string>
   <string name="direction_south_west">SW</string>
   <string name="direction_west">V</string>
-  <string name="do_not_show_next_time">"Don't show again"</string>
+  <string name="do_not_show_next_time">"Ikke vis igjen"</string>
   <string name="getting_location">Finner plassering...</string>
   <string name="guide_toast">"Det kan være magnetfelt interferens, vennligst kalibrer kompasset ved bruk av følgende bevegelse."</string>
   <string name="latitude">BREDDE</string>
@@ -29,8 +29,8 @@
   <string name="location_west">%s V</string>
   <string name="longitude">LENGDE</string>
   <string name="menu_calibrate">Kalibrer</string>
-  <string name="mobiledata_alert_dialog_message">Connect to the internet to calibrate altitude?</string>
-  <string name="mobiledata_alert_dialog_title">Data usage warning</string>
+  <string name="mobiledata_alert_dialog_message">Koble til internett for å kalibrere høyde?</string>
+  <string name="mobiledata_alert_dialog_title">Advarsel om databruk</string>
   <string name="pressure">Trykk %.1fhPa</string>
   <string name="pressure_title">Trykk</string>
   <string name="pressure_unit">hPa</string>

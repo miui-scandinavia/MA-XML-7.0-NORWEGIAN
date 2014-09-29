@@ -328,7 +328,7 @@ Regnskapet til operatøren din viser at du har brukt %1$s av ditt dataforbruket 
      <string name="traffic_setting_fragment_brand">Merke</string>
      <string name="traffic_setting_fragment_button1_text">Cancel</string>
      <string name="traffic_setting_fragment_button2_text">Lagre</string>
-     <string name="traffic_setting_fragment_get_template_falure">Henting av oppdatering feilet. Vennnligst sjekk din dataforbindelse og prøv igjen.</string>
+     <string name="traffic_setting_fragment_get_template_falure">"Kan ikke koble til nettverket. Sjekk dataforbindelsen og prøv igjen."</string>
      <string name="traffic_setting_fragment_loading_text">Henter nettverksinfo…</string>
      <string name="traffic_setting_fragment_no_network">"Kan ikke koble til nettverket"</string>
      <string name="traffic_setting_fragment_null">Tom</string>

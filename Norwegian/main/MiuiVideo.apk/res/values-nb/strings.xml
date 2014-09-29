@@ -6,6 +6,7 @@
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Versjon:</string>
      <string name="actor_colon">Actor:</string>
+     <string name="ad_countdown">Reklame gjenstående: %s sek</string>
      <string name="ad_moredetail">more detail</string>
      <string name="add_favorite_success">Stjernemerket</string>
      <string name="add_more_addons">Legg til flere</string>

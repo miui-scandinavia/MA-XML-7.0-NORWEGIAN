@@ -6,26 +6,31 @@
      <string name="access_token_invalid_warning">Weibo-kontoen er ugyldig</string>
      <string name="account">Konto</string>
      <string name="account_bind_devices">Aktive enheter</string>
-     <string name="account_bind_settings">E-Kontoer</string>
+     <string name="account_bind_settings">Koble til konto</string>
      <string name="account_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
      <string name="account_dspt_provision" />
      <string name="account_hint_text">Epostadresse eller telefnnummer</string>
      <string name="account_name">Konto: %1$s</string>
      <string name="account_not_activated">"Kontoen er ikke aktivert"</string>
-<!--     <string name="account_sec_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>-->
+     <string name="account_sec_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
      <string name="account_sec_dspt2" />
      <string name="account_settings">Kontoinstillinger</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
-     <string name="add_weibo_account">Legg til konto</string>
+     <string name="add_account">Legg til konto</string>
      <string name="alert_title_remove_account">"Fjern konto?"</string>
      <string name="app_name">Mi-konto</string>
      <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
      <string name="barcode_add_account_prompt">For å legge til en konto, scan QR-koden igjen etter du har logget inn.</string>
+     <string name="bind_facebook">Legg til din FAcebook-konto</string>
+     <string name="bind_qq">Legg til din QQ-konto</string>
      <string name="bind_settings">Kontoer</string>
      <string name="bind_sina_weibo">Legg til Sina Weibo konto</string>
+     <string name="bind_sns_description">Fullført profilen din ved å bruke personlig informasjonen på tvers av %s.</string>
      <string name="bind_weibo_description">Finn og synkroniser venner fra Sina Weibo.</string>
      <string name="binded">Konto lagt til</string>
+     <string name="binded_description" formatted="false">"Har tilknyttet %s vellykket
+ Fullført profilen din ved å bruke personlig informasjonen på tvers av %s."</string>
      <string name="btn_activate">Aktiver</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
@@ -40,6 +45,7 @@
      <string name="cloud_service">Mi-Sky</string>
      <string name="completed">Fullfør</string>
      <string name="confirm">OK</string>
+     <string name="confirm_unbind">Bekreft frigiving?</string>
      <string name="data_keep_in_device">Behold på denne enheten</string>
      <string name="data_wipe_from_device">Slett fra denne enheten</string>
      <string name="dirty_contacts_count">%d kontakter</string>
@@ -64,6 +70,7 @@
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
+     <string name="facebook">facebook</string>
      <string name="failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="find_device_dspt">Lås eller fjern innhold fra denne enheten eksternt</string>
      <string name="find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
@@ -163,6 +170,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="prev">Tilbake</string>
      <string name="privacy_policy">Personvern</string>
      <string name="process_result">Synkroniseringsdetaljer</string>
+     <string name="qq">QQ</string>
      <string name="quick_login_dialog_step2_title">2-stegs-verifikasjon</string>
      <string name="quick_login_dialog_title">Bekreft passord</string>
      <string name="quick_login_step2_title">2-stegs-verifikasjon</string>
@@ -210,6 +218,8 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="trust_device">Stol på denne enheten</string>
      <string name="unactivated_user">Nesten ferdig…</string>
      <string name="unbind">Logg ut</string>
+     <string name="unbind_sns_description">Etter at du frigir, vil du ikke kunne logge inn på din Mi-konto ved hjelp av %s</string>
+     <string name="unbind_weibo_description">Etter at du frigier, vil du ikke kunne synkronisere din kontakter, og ikke logge inn på din Mi-konto ved hjelp av Sina Weibo</string>
      <string name="update_contacts">Oppdater adressebok</string>
      <string name="update_contacts_description">"Lar Sina Weibo bruke din Mi-konto for å synkronisere kontakter på tvers av enheter."</string>
      <string name="updated_contacts">Oppdaterte %s kontakter</string>

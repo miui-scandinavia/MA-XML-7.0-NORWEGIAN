@@ -36,10 +36,10 @@
      <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="find_device">Finn enhet er på</string>
-     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen innstillingene til Mi Clou</string>
+     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen innstillingene til Mi Cloud</string>
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
-     <string name="find_device_dspt">Lås eller slett innhold på dene enhetenLock or wipe this device eksternt.</string>
+     <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
      <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>
@@ -143,7 +143,7 @@ brukt %s | gjenværende %s"</string>
      <string name="sync_sub_2_intl_sms">En internasjonal SMS vil bli sendt for å binde dine SIM-kort med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
      <string name="sync_sub_2_sms">En SMS vil bli sendt for å binde dine SIM-kort med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
      <string name="sync_sub_dspt">Aktiveringstekstmelding er underlagt vanlige datakostnader.</string>
-     <string name="sync_sub_dspt_provision">Vis og adminstrer dine data fra hvorsomhelst</string>
+     <string name="sync_sub_dspt_provision">Synk bilder, kontakter, musikk, apper, og mer på tvers av dine enheter</string>
      <string name="sync_sub_int_dspt">Vanlige internasjonale datakostnader gjelder ved sending av aktiveringstekstmelding</string>
      <string name="system_sync_off">Systemsynk av</string>
      <string name="title_reg">Opprett en konto</string>

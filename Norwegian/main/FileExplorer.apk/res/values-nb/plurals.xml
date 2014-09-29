@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Slett %1$d filer</item>
+        <item quantity="zero">Slett %1$d filer</item>
+        <item quantity="one">Slett %1$d fil</item>
+        <item quantity="two">Slett %1$d filer</item>
+        <item quantity="few">%1$Slett %1$d filer</item>
+        <item quantity="many">Slett %1$d filer</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" and %1$d folders?"</item>
+        <item quantity="zero">" and %1$d folders?"</item>
+        <item quantity="one">" and %1$d folder?"</item>
+        <item quantity="two">" and %1$d folders?"</item>
+        <item quantity="few">" and %1$d folders?"</item>
+        <item quantity="many">" and %1$d folders?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elementer</item>
+        <item quantity="zero">%d elementer</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementer</item>
+        <item quantity="few">%d elementer</item>
+        <item quantity="many">%d elementer</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d filer igjen å laste ned</item>
+        <item quantity="zero">%1$d filer igjen å laste ned</item>
+        <item quantity="one">%1$d fil igjen å laste ned</item>
+        <item quantity="two">%1$d filer igjen å laste ned</item>
+        <item quantity="few">%1$d filer igjen å laste ned</item>
+        <item quantity="many">%1$d filer igjen å laste ned</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d filer igjen å laste opp</item>
+        <item quantity="zero">%1$d filer igjen å laste opp </item>
+        <item quantity="one">%1$d fil igjen å laste opp</item>
+        <item quantity="two">%1$d filer igjen å laste </item>
+        <item quantity="few">%1$d filer igjen å laste opp</item>
+        <item quantity="many">%1$d filer igjen å laste opp</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="zero">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+        <item quantity="two">%1$d valgte</item>
+        <item quantity="few">%1$d valgte</item>
+        <item quantity="many">%1$d valgte</item>
+    </plurals>
+</resources>
