@@ -17,6 +17,11 @@
      <string name="camera_problem3">Kamera lukker seg</string>
      <string name="camera_problem4">"Kan ikke bytte mellom front og bak-kamera"</string>
      <string name="camera_problem5">Kamera slutter å fungere</string>
+     <string name="cta_cancel">avbryt</string>
+     <string name="cta_confirm">bekreft</string>
+     <string name="cta_dialog_content">FeilRapport kan måtte koble til nettverket (f.eks Internett) for å tilby tjenesten. Bekreft for å fortsette?</string>
+     <string name="cta_dialog_title">Nettverksvarsel</string>
+     <string name="cta_not_show_again">"Ikke vis igjen"</string>
      <string name="description">Beskrivelse (påkrevd)</string>
      <string name="discard_draft_dialog_button_cancel">Annuller</string>
      <string name="discard_draft_dialog_button_discard">OK</string>
@@ -67,6 +72,7 @@
      <string name="systemui">Varselsskygge</string>
      <string name="title_hot_problem">Vanlige feil</string>
      <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
+     <string name="toast_feedback_network_unavailable">"Kan ikke koble til nettverket"</string>
      <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
      <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
      <string name="toast_feedbackservice_in_submit">Sender forrige tilbakemelding…</string>

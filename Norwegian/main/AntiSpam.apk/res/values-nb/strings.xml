@@ -75,6 +75,10 @@
      <string name="dlg_add_keyword">Legg til nøkkelord</string>
      <string name="dlg_add_manual_hint">Tast inn telefonnummer</string>
      <string name="dlg_add_manual_ok">Legg til</string>
+     <string name="dlg_antispam_mode_delete_message">"Du kan ikke gjenopprette egendefinerte regler for blokkeringsliste etter at de har blitt slettet."</string>
+     <string name="dlg_antispam_mode_delete_title">Slett egendefinerte regler</string>
+     <string name="dlg_antispam_using_mode_delete_message">"Vil du slette blokkeringsliste-profilen du bruker nå og bytte til standard-profilen? Du kan ikke reversere denne handlingen!"</string>
+     <string name="dlg_antispam_using_mode_international_delete_message">"Vil du slette blokkeringsliste-profilen du bruker nå og bytte til standard-profilen? Du kan ikke reversere denne handlingen!"</string>
      <string name="dlg_bl_add_manual">Legg telefonnummer manuellt i blokkeringslisten</string>
      <string name="dlg_black_address_antispam_message">Legg til plasseringen i blokkeringsliste?</string>
      <string name="dlg_black_antispam_hint">Blokkeringsliste</string>
@@ -110,6 +114,7 @@
      <string name="fw_blocked_count">"Mottatt: "</string>
      <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Egendefinert modus</string>
+     <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Blokker anrop</string>
      <string name="info_antispam_phone_sms">Blokker meldinger og anrop</string>
      <string name="info_antispam_sms">Blokker meldinger</string>

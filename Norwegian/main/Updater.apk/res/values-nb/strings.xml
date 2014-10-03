@@ -20,6 +20,7 @@
      <string name="button_text_check">Sjekk</string>
      <string name="button_text_later_reboot">Start på nytt senetre</string>
      <string name="button_text_reboot">Start på nytt nå</string>
+     <string name="button_text_reboot_hm">Etter omstart</string>
      <string name="button_text_update">Oppdater</string>
      <string name="cancel_download">Stopp nedlastingen av denne oppdateringen?</string>
      <string name="cancel_download_buton_text">Avbryt</string>
@@ -148,7 +149,9 @@
      <string name="unstable_build">Ustabil build</string>
      <string name="update_comment_hint" />
      <string name="update_comment_title">Kommenter</string>
-     <string name="update_feedback">Update feedback</string>
+     <string name="update_downfull_no_info_sum">Kunne ikke laste ned, vennligst sjekk Oppdater-knappen.</string>
+     <string name="update_downfull_no_info_title">Kunne ikke laste ned</string>
+     <string name="update_feedback">Tilbakemelding på oppdatering</string>
      <string name="update_feedback_end">"Du gikk glipp av denne ukens fire-ruter"</string>
      <string name="update_feedback_end_sum">Du kan delta hver tirsdag.</string>
      <string name="update_feedback_expired">"Du gikk glipp av denne ukens fire-ruters tilbakemeldingsrunde.

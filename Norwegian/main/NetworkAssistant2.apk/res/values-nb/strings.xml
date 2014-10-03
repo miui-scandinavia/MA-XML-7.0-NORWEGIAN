@@ -12,7 +12,7 @@
      <string name="app_mobile">Mobildata</string>
      <string name="app_name">Databruk</string>
      <string name="app_version">Versjon</string>
-     <string name="app_wifi">WiFi</string>
+     <string name="app_wifi">Wi-Fi</string>
      <string name="background_traffic">Bakgrunn %s</string>
      <string name="begin_date">Dato for nullstilling av brukssyklus</string>
      <string name="cancel_button">Avbryt</string>
@@ -94,6 +94,7 @@ For more info check the message you received from your service provider"</string
      <string name="input_aviable_traffic">Sett databruksgrense</string>
      <string name="input_traffic_pkg">Skriv databruk</string>
      <string name="input_used_hint">Skriv databruk</string>
+     <string name="input_used_max_hint">Skriv databruk(mindre enn %s)</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
      <string name="lock_screen_traffic_warn_title">Advarsel for databruk</string>

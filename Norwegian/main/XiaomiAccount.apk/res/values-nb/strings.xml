@@ -71,6 +71,7 @@
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
      <string name="facebook">facebook</string>
+     <string name="failed_get_mibi_info">Kunne ikke hente Mi-credit</string>
      <string name="failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="find_device_dspt">Lås eller fjern innhold fra denne enheten eksternt</string>
      <string name="find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
@@ -80,6 +81,7 @@
      <string name="get_verify_code">Motta kode</string>
      <string name="getting_verify_code">Mottar</string>
      <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
+     <string name="hide_mibi_info">Informasjkon om Mi-credit har blitt skjult</string>
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Skriv inn koden</string>
      <string name="input_password_hint">Skriv inn passord</string>
@@ -99,6 +101,7 @@
      <string name="login_notice">Logger inn…</string>
      <string name="login_step2_title">2-trinns-verifikasjon</string>
      <string name="login_title">Logg inn på din Mi-konto</string>
+     <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi-konto</string>
      <string name="micloud_account_details">Kontodetaljer</string>
      <string name="micloud_account_label">Konto: %1$s</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="accept">OK</string>
      <string name="activate">Aktiver</string>
      <string name="activate_feature_call_log_sync">Synk av anropslogg</string>
      <string name="activate_feature_find_device">Finn enhet</string>
@@ -74,6 +75,8 @@
      <string name="activate_status_title_activating">Aktiverer SIM-kortet ditt</string>
      <string name="activate_status_title_activating_msim">Aktiverer SIM-kortet ditt %s</string>
      <string name="app_name">Xiaomi-tjenesterammeverk</string>
+     <string name="error_device_id_message">Noen konto og sky-funksjoner vil være utilgjengelige</string>
+     <string name="error_device_id_title">"Kan ikke hente IMEI-nummer"</string>
      <string name="sim_unactivated_title">SIM-kortet ditt er uaktivert</string>
      <string name="xmsf_activate_info">XMSF-aktiveringsinfo</string>
 </resources>

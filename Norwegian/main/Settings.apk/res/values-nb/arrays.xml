@@ -863,6 +863,14 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>1500</item>
         <item>2000</item>
      </string-array>
+     <string-array name="screen_key_press_action">
+        <item>Vis nylige apper</item>
+        <item>Vis meny</item>
+     </string-array>
+     <string-array name="screen_key_press_action_value">
+        <item>recent_panel</item>
+        <item>show_menu</item>
+     </string-array>
      <string-array name="screen_saturation_title">
         <item>Brilliant</item>
         <item>Standard</item>

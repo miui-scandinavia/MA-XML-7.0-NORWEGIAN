@@ -34,6 +34,7 @@
      <string name="callrecordview_item_op_time_short_incoming">"Innkommende: "</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Utgående: "</string>
      <string name="check_network">Vis nettverksinnstillinger</string>
+     <string name="choose_upload">Velg for til opplastning</string>
      <string name="colon">:</string>
      <string name="confirm_delete_all_call_log_title">Vil du slette alle anropslogger?</string>
      <string name="confirm_delete_call_log_title">Fjern anropslogg?</string>
@@ -116,6 +117,11 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_provider_info">Drevet av</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
+     <string name="express_inquiry_trace">Spor</string>
+     <string name="express_inquiry_trace_success">Sporet</string>
+     <string name="express_inquiry_trace_user_notice_content">"Vi vil gi deg beskjed når ordrestatusen din endrer seg."</string>
+     <string name="express_inquiry_untrace">Ikke sporet</string>
+     <string name="express_inquiry_untrace_success">Usporet</string>
      <string name="express_no_address">Tom</string>
      <string name="express_no_order_info">Ingen ordreinfo</string>
      <string name="express_no_tracking_number">Ingen relatert trackingnummer</string>
@@ -175,12 +181,15 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
      <string name="group_name_data_source">Kilde</string>
+     <string name="group_name_enroll" />
      <string name="group_name_gallery">Galleri</string>
+     <string name="group_name_management">Håndter</string>
      <string name="group_name_more">Osv</string>
      <string name="group_name_service">Tjeneste</string>
      <string name="group_name_shop_info">Informasjon</string>
      <string name="group_name_shop_recommendation">I nærheten</string>
      <string name="group_name_title" />
+     <string name="hms_no_subject_view">(Ingen emne)</string>
      <string name="hms_notification">Messages</string>
      <string name="locating_fail">Kunne ikke finne plassering, vennligst sjekk plasseringstjeneste eller prøv igjen</string>
      <string name="login_before_use">Vennligst logg inn før bruk.</string>
@@ -196,6 +205,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="menu_correct_yellow_page">Korreksjon</string>
      <string name="menu_delete_call_log">Fjern anropslogger</string>
      <string name="menu_delete_one">Fjern element fra anropslogg</string>
+     <string name="menu_enroll_in_yellow_page">Logg inn på Mi-gulesider</string>
      <string name="menu_remove_black_list">Fjern fra svarteliste</string>
      <string name="menu_remove_from_favorite">Fjern fra favoritter</string>
      <string name="minimum_price">Fra %d RMB</string>
@@ -309,6 +319,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="turn_on_yellowpage_service_title">Bruk katalogtjeneste</string>
      <string name="upload_and_verify_fraud_num_off">Denne funksjonen er deaktivert</string>
      <string name="upload_and_verify_fraud_num_on">Del informasjon om blokkerte telefonselgere</string>
+     <string name="uploads_disabled">Filopplastninger er deaktivert</string>
      <string name="user_agreement2">" Brukerbetingelser"</string>
      <string name="user_agreement4">Erklæring om personvenr</string>
      <string name="user_notice_identify_summary_format">Identifisering av ukjente nummer er en online tjeneste，vennligst les %1$s og %2$s før du bruker den.</string>

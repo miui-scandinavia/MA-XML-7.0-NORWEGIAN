@@ -103,6 +103,7 @@
      <string name="headset_custom">Oppsett</string>
      <string name="headset_info">Trykk for å konfigurerer hodetelefon-type og personliggjør knappefunksjoner</string>
      <string name="headset_settings">Headset tilkoblet</string>
+     <string name="hint_for_long_press_app_switch_key">Langt-trykk for å vise menu</string>
      <string name="invalid_charger">"USB-lading støttes ikke. Bruk bare den medfølgende laderen."</string>
      <string name="label_view">Vis</string>
      <string name="lockscreen_carrier_default">Ingen tjeneste</string>
@@ -153,7 +154,8 @@
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Ingen nylige programmer</string>
      <string name="status_bar_notification_inspect_item_title">Programinfo</string>
-     <string name="status_bar_recent_guide_all">Trekk opp for å lukke, trekk ned for å låse</string>
+     <string name="status_bar_recent_guide_all">"Trekk opp for å lukk
+ Trekk ned for å låse"</string>
      <string name="status_bar_recent_guide_bottom">Trekk ned for å låse</string>
      <string name="status_bar_recent_guide_top">Trekk opp for å lukke</string>
      <string name="status_bar_recent_inspect_item_title">Programinfo</string>

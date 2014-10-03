@@ -1839,7 +1839,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="runningservices_settings_summary">Vis og kontroller tjenester som kjører for øyeblikket</string>
      <string name="runningservices_settings_title">Kjørende tjenester</string>
      <string name="scan_list_label">Skannresultater:</string>
-     <string name="screen">Screen</string>
+     <string name="screen">Skjerm</string>
      <string name="screen_color_temperature">Farger</string>
      <string name="screen_color_temperature_and_saturation">Farger &amp; metning</string>
      <string name="screen_compatibility_label">Skjermkompatibilitet</string>
@@ -1847,6 +1847,8 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="screen_key_long_press">Langt trykk på navigeringsknapper</string>
      <string name="screen_key_long_press_action">Utløs funksjon</string>
      <string name="screen_key_long_press_timeout">Sett langt-trykk tide</string>
+     <string name="screen_key_press">Trykk navigeringsknapper</string>
+     <string name="screen_key_press_action">Utløs funksjon</string>
      <string name="screen_never_timeout_title">Aldri sov</string>
      <string name="screen_on_proximity_sensor_summary">Enheten vil automatisk låses når plassert i lommen</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
@@ -2120,6 +2122,10 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_serialno">serie no.</string>
      <string name="status_service_state">Servicestatus</string>
      <string name="status_signal_strength">Signalstyrke</string>
+     <string name="status_sim">SIM-status</string>
+     <string name="status_sim_1">SIM1</string>
+     <string name="status_sim_2">SIM2</string>
+     <string name="status_summary">Trykk for å vise detlajer</string>
      <string name="status_unavailable">Ikke tilgjengelig</string>
      <string name="status_up_time">Oppetid</string>
      <string name="status_wifi_mac_address">MAC-adresse for Wi-Fi</string>
@@ -2800,6 +2806,7 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wifi_status">Status</string>
      <string name="wifi_status_test">WLAN-status</string>
      <string name="wifi_stopping">Slår av Wi-Fi…</string>
+     <string name="wifi_subnet_mask">Subnett-maske</string>
      <string name="wifi_suspend_optimizations">Optimalisering av Wi-Fi</string>
      <string name="wifi_suspend_optimizations_summary">Minimer batteribruk når Wi-Fi er på</string>
      <string name="wifi_tether_checkbox_text">Flyttbar Wi-Fi-sone</string>

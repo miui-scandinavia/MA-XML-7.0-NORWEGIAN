@@ -30,11 +30,7 @@
      <string name="error_note_not_exist">Notatet eksisterer ikke</string>
      <string name="error_unsupport_content">Dette notatet har innehold som ikke støttes, klikk for å oppgradere system</string>
      <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: A folder with the same name already exists -->
-     <string name="folder_exist">Mappen %1$s eksisterer, vennligst velg et annet navn</string>
+     <string name="folder_exist">En mappe med det samme navnet eksisterer allerede</string>
      <string name="format_move_notes_to_folder">Har flyttet valgte %1$d notater til mappen %2$s</string>
      <string name="hint_foler_name">Skriv inn navn</string>
      <string name="info_note_enter_desktop">Notat lagt til skrivebord</string>
@@ -75,34 +71,35 @@
      <string name="search_label">Søker i notater</string>
      <string name="search_setting_description">Tekst i dine notater</string>
      <string name="select_account_prompt">Aktiver notatsynkronisering</string>
-     <string name="sina_share_fail">Failed to send</string>
-     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-     <string name="sina_share_pendding">Sending…</string>
-     <string name="sina_share_success">Sent</string>
-     <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-     <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+     <string name="sina_share_fail">Kunne ikke sende</string>
+     <string name="sina_share_fail_content_repeat">"Kunne ikke dele, innhold eksisterer allerede…"</string>
+     <string name="sina_share_pendding">Sender…</string>
+     <string name="sina_share_success">Sendt</string>
+     <string name="sina_token_expired_warning">Weibo-konto har utløpt: Vennligst koble til på nytt</string>
+     <string name="sina_token_invalid_warning">Weibo-konto er ugyldig: Vennligst koble til på nytt</string>
      <string name="snippet_image_stub">[Image]</string>
      <string name="snippet_image_template">[%1$s]</string>
      <string name="sns_action_send">Send</string>
-     <string name="sns_content_default">Share picture</string>
-     <string name="sns_desc_preview_wechat">WeChat message preview</string>
-     <string name="sns_desc_preview_weibo">Weibo message preview</string>
-     <string name="sns_footer_text">Created with MIUI V6</string>
-     <string name="sns_hint_content">"What's on your mind?"</string>
-     <string name="sns_hint_title">Subject (Optional)</string>
-     <string name="sns_message_building">Creating post…</string>
-     <string name="sns_message_sending">Posting…</string>
-     <string name="sns_title_edit">Edit title</string>
-     <string name="sns_title_send">Send message</string>
-     <string name="sns_toast_empty">"Can't send empty post"</string>
-     <string name="sns_toast_over_limit">Send as picture for over text limit</string>
+     <string name="sns_content_default">Del bilde</string>
+     <string name="sns_desc_preview_wechat">WeChat meldingsforhåndsvisning</string>
+     <string name="sns_desc_preview_weibo">Weibo meldingsforhåndvisning</string>
+     <string name="sns_footer_text">Opprettet med MIUI V6</string>
+     <string name="sns_hint_content">"Hva tenker du på?"</string>
+     <string name="sns_hint_title">Emne (valgfritt)</string>
+     <string name="sns_message_building">Oppretter innlegg…</string>
+     <string name="sns_message_sending">Sender…</string>
+     <string name="sns_title_edit">Endre emne</string>
+     <string name="sns_title_send">Send melding</string>
+     <string name="sns_toast_empty">"Kan ikke sende tomt innlegg"</string>
+     <string name="sns_toast_over_limit">Send som bilde fordi tekstgrense overskredet</string>
      <string name="toast_folder_privacy_mode">"Kan ikke endre mappe i vaktmodus"</string>
      <string name="toast_message_add_image_fail">Kunne ikke sette inn bilde!</string>
+     <string name="toast_note_privacy_mode">"Kan ikke opprette notat i Gjestemodus"</string>
      <string name="toast_reach_text_limit_attachment">Innholdet i notatet er for langt til å legge til nye vedlegg.</string>
      <string name="toast_reach_text_limit_truncate">"Innholdet av notatet har blitt klippet fordi det er for langt."</string>
      <string name="undo">Angre</string>
-     <string name="unknown_source">Unknown source</string>
-     <string name="widget_content_loading">Loading…</string>
+     <string name="unknown_source">Ukjent kilde</string>
+     <string name="widget_content_loading">Laster…</string>
      <string name="widget_havenot_content">Ingen assosiert notat funnet, klikk for å opprette.</string>
-     <string name="widget_under_visit_mode">Privat tilstand, kan ikke se innhold i notat</string>
+     <string name="widget_under_visit_mode">Privat modus, kan ikke se innhold i notat</string>
 </resources>

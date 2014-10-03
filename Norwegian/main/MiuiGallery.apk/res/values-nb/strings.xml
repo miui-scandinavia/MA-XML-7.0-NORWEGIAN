@@ -33,6 +33,7 @@
      <string name="album_share_subtitle_invited">Delt av %1$s, aksepter eller ignorer?</string>
      <string name="album_share_subtitle_normal">Delt av %1$s</string>
      <string name="album_share_subtitle_not_ready">Album-info ikke klar. Trykk for å laste ned. Lukker….</string>
+     <string name="album_share_subtitle_quitting">Exiting…</string>
      <string name="album_share_subtitle_requesting">Laster ned albuminfo...</string>
      <string name="album_share_title_new_album">Nytt delt album</string>
      <string name="albums">Album</string>

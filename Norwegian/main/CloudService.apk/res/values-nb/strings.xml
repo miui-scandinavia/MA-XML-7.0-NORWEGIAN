@@ -40,6 +40,11 @@
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
+     <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til "</string>
+     <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="find_device_dspt_provision_3">" for å finne, låse, eller tilbakestille den.
+
+Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
      <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>
@@ -48,6 +53,7 @@
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
 Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere tjenesten."</string>
+     <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne tjenesten.</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
      <string name="find_device_success_title">Finn enhet</string>
      <string name="finish">OK</string>
@@ -59,6 +65,8 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="internet">Internett</string>
      <string name="internet_disconnected">Ingen datatilkobling</string>
      <string name="less_flow_mode">Datasparing</string>
+     <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
+     <string name="loading">Laster…</string>
      <string name="master_alert_notif_dspt_add">%s elementer å synkronisere</string>
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
@@ -103,6 +111,11 @@ brukt %s | gjenværende %s"</string>
      <string name="micloud_warn_low_title">Nesten tom for plass…</string>
      <string name="micloud_web_discription_01">Logg in på https://i.mi.com</string>
      <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer fra overalt</string>
+     <string name="mx_dspt">Mi-melding</string>
+     <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
+
+Du skru funksjonen av og på når som helst i Innstilinger."</string>
+     <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
@@ -115,6 +128,7 @@ brukt %s | gjenværende %s"</string>
      <string name="pref_title_sync_contacts_title">Synk kontakt</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
      <string name="pref_title_sync_my_profile_title">Synk min profil</string>
+     <string name="privacy_policy">Personvernspolitikk</string>
      <string name="remind_later">Senere</string>
      <string name="restoreSync">Synk nå</string>
      <string name="setting">Innstillinger</string>
@@ -129,6 +143,12 @@ brukt %s | gjenværende %s"</string>
      <string name="sub_sync_item_sms_title_wifi_only">Synk av MMS: Bare Wi-Fi</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Aktiver synkronisering</string>
+     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilde, SMSer, notater og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
+     <string name="sync_dspt_provision2">i.mi.com</string>
+     <string name="sync_dspt_provision3">".
+
+Du kan skru funksjonen av og på når som helst i Innstillinger.
+"</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
      <string name="sync_item_calllog_title">Synk anropslogger</string>
      <string name="sync_item_sms_summary">Synkroniser tekstmeldinger mellom enheter</string>
@@ -148,6 +168,10 @@ brukt %s | gjenværende %s"</string>
      <string name="system_sync_off">Systemsynk av</string>
      <string name="title_reg">Opprett en konto</string>
      <string name="unactivated_user">Deaktivert</string>
+     <string name="user_agreement">Brukerbetingelser</string>
+     <string name="user_agreement_p6">"Bruken av denne funksjonen er underlagt "</string>
+     <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>
+     <string name="user_agreement_p8">.</string>
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
      <string name="wifi">Wi-Fi</string>
