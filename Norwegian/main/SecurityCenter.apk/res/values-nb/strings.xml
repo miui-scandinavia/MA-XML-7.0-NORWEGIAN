@@ -540,7 +540,7 @@
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="process_mediaserver_label">Mediaserver</string>
+  <string name="process_mediaserver_label">Medieserver</string>
   <string name="protection_category_dangerous_title">Riskoer (%d)</string>
   <string name="protection_category_recommend_title">Anbefalte endringer (%d)</string>
   <string name="protection_category_security_title">Tøm (%d)</string>
@@ -594,7 +594,7 @@
   <string name="toast_garbage_cleanup_success">Opprydding vellykket</string>
   <string name="toast_garbage_list_empty">Alt ser bra ut, det er ikke nødvendig å rydde!</string>
   <string name="toast_network_eror">Nettverksfeil</string>
-  <string name="toast_removed_from_white_list">" removed from exceptions"</string>
+  <string name="toast_removed_from_white_list">" fjernet fra unntak"</string>
   <string name="toast_root_apply_accept">Rottilgang gitt til %s</string>
   <string name="toast_root_apply_reject">Nektet rottilgang til %s</string>
   <string name="toast_shortcut_install">Snarvei opprettet</string>
