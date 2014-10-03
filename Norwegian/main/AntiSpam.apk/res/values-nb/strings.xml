@@ -269,11 +269,7 @@
      <string name="tab_sms">Meldingslogg</string>
      <string name="tab_title">Vakt</string>
      <string name="toast_keyword_blank">Nøkkelord er blankt</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Keyword added to filter -->
-     <string name="toast_keyword_exist">Nøkkelordet %s eksisterer allerede</string>
+     <string name="toast_keyword_exist">Nøkkelord lagt til i filter</string>
      <string name="toast_keyword_invalid">Nøkkelordet du oppga er ugyldig</string>
      <string name="two_address_choose_hint">%1$s, %2$s2 plasseringer</string>
      <string name="user_define_title">Egendefinert</string>

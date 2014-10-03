@@ -633,11 +633,7 @@ CC: %4$s
      <string name="phone">phone</string>
      <string name="photo_load_failed">"Couldn't load image"</string>
      <string name="photo_view_count" formatted="false">%d of %d</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Fill in your %s mailbox-related information: -->
-     <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
+     <string name="please_fill_in_your_mailbox_information">Fill in your %s mailbox-related information:</string>
      <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
      <string name="please_wait">Please wait…</string>
      <string name="policy_app_blacklist">Disallow specified apps</string>

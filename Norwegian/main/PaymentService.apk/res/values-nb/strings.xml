@@ -5,7 +5,7 @@
 %1$s"</string>
      <string name="app_name">Betalingstjeneste</string>
      <string name="balance_payment">%1$s MiCredits</string>
-     <string name="balance_title">Balance</string>
+     <string name="balance_title">Balanse</string>
      <string name="bankcall_bank_account">Bankkort:</string>
      <string name="bankcall_call_hint">Du vil motta en samtale fra UnionPay (020-96585) innen kort tid.</string>
      <string name="bankcall_card">Bankkort</string>
@@ -143,12 +143,9 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="hfb_retry_receive">Prøv igjen</string>
      <string name="hfb_return">Tilbake</string>
      <string name="hfb_succ_label">Betaling fullført</string>
-     <!-- MNPS mismatch found! Translated: 3 Original: 0
-	%s: 3 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: 感谢您使用通信账户支付服务。 -->
+     <!-- Update translation: 感谢您使用通信账户支付服务。 -->
      <string name="hfb_succ_result">"Takk for at du brukte vår betalingstjeneste.
-  Du har kjøpt [%1$s] til en verdi av [%2$s yuan]. Kundeservicetelefon: %3$s"</string>
+</string>
      <string name="illegal_intent">Illegal intent request</string>
      <string name="label_balance">Balanse:</string>
      <string name="label_giftcard">Gavekort:</string>
@@ -178,11 +175,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Glemt mønsterpassord&lt;/u&gt;</string>
      <string name="login">Logg inn</string>
      <string name="memu_refresh">Last på nytt</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: "You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need an internet connection to use Mi Credit." -->
-     <string name="mibi_license_message">"Du er i ferd med å bruke Mi Credit, som er en tjeneste tilbudt av Xiaomi Inc. Før du bruker denne tjenesten, må du godkjenne vilkår for bruk oppgitt i %1$s.</string>
+     <string name="mibi_license_message">"Du er i ferd med å bruke Mi Credit, som er en tjeneste tilbudt av Xiaomi Inc. Før du bruker denne tjenesten, må du godkjenne vilkår for bruk oppgitt i %1$s. Trykk OK hvis du samtykker til vilkårene for bruk beskrivet i %1$s. Du trenger en Internett-tilkobling for å bruke Mi Credit."</string>
      <string name="mibi_license_message_span">MiCredit-betingelser</string>
      <string name="mibi_license_title">Betingelser og vilkår</string>
      <string name="mili_center">MiCredit</string>

@@ -12,7 +12,7 @@
      <string name="add_to_cloud_exceeded_the_size_message">Filstørrelsen er for stor for MiCloud.</string>
      <string name="add_to_cloud_fail_too_many_items">Kunne ikke fullføre handlingen. Muligens for mange valgte elementer.</string>
      <string name="add_to_cloud_failed_message_with_count">%2$s element(er) kan ikke bli lagt til i skyalbum: %1$s.</string>
-     <string name="add_to_cloud_file_exist_message">Bilde eksisterer allerede i valgt slbum.</string>
+     <string name="add_to_cloud_file_exist_message">Bilde eksisterer allerede i valgt album.</string>
      <string name="add_to_cloud_folder">Legg til Cloud-mappe</string>
      <string name="add_to_cloud_image_limit_exceeded_message">Bildegrense overskredet.</string>
      <string name="add_to_cloud_local_space_full_message">Lagringsminne er fullt eller ikke klar ennå.</string>
@@ -33,7 +33,7 @@
      <string name="album_share_subtitle_invited">Delt av %1$s, aksepter eller ignorer?</string>
      <string name="album_share_subtitle_normal">Delt av %1$s</string>
      <string name="album_share_subtitle_not_ready">Album-info ikke klar. Trykk for å laste ned. Lukker….</string>
-     <string name="album_share_subtitle_quitting">Exiting…</string>
+     <string name="album_share_subtitle_quitting">Avslutter…</string>
      <string name="album_share_subtitle_requesting">Laster ned albuminfo...</string>
      <string name="album_share_title_new_album">Nytt delt album</string>
      <string name="albums">Album</string>
