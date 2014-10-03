@@ -145,7 +145,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="hfb_succ_label">Betaling fullført</string>
      <!-- Update translation: 感谢您使用通信账户支付服务。 -->
      <string name="hfb_succ_result">"Takk for at du brukte vår betalingstjeneste.
-</string>
+"</string>
      <string name="illegal_intent">Illegal intent request</string>
      <string name="label_balance">Balanse:</string>
      <string name="label_giftcard">Gavekort:</string>
