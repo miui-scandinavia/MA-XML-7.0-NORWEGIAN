@@ -34,7 +34,7 @@
      <string name="btn_activate">Aktiver</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
-     <string name="button_unbind">&lt;u&gt;Logg ut&lt;/u&gt;</string>
+     <string name="button_unbind">Logg ut</string>
      <string name="captcha">Skriv inn kode</string>
      <string name="change_account">&lt;u&gt;Bytt konto&lt;/u&gt;</string>
      <string name="check_phone_error_title">"Kunne ikke slå på synkronisering"</string>
