@@ -41,6 +41,7 @@
      <string name="check_phone_io_error">Nettverksfeil</string>
      <string name="checking_account">Sjekker passord…</string>
      <string name="checking_input">Sjekker…</string>
+     <string name="choose_which_one_sim">Choose a phone number</string>
      <string name="cloud_messaging">Mi-Melding</string>
      <string name="cloud_service">Mi-Sky</string>
      <string name="completed">Fullfør</string>
@@ -209,6 +210,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="service_error">Tjenestefeil</string>
      <string name="show_password">Vis passord</string>
      <string name="sim_changed_notification_content">"SIM-kort har ikke blitt aktivert"</string>
+     <string name="sim_index_info">SIM card %1$d - %2$s</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="skip_login">Hopp over innlogging</string>
      <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>

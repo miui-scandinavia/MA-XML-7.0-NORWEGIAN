@@ -42,6 +42,7 @@
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
      <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til "</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" for å finne, låse, eller tilbakestille den.
 
 Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
@@ -145,6 +146,7 @@ Du skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="sync_dspt">Aktiver synkronisering</string>
      <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilde, SMSer, notater og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
+     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
      <string name="sync_dspt_provision3">".
 
 Du kan skru funksjonen av og på når som helst i Innstillinger.
