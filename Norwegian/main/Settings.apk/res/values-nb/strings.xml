@@ -2884,5 +2884,5 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="zone_auto_summaryOn">Bruk nettverkets egen tidssone</string>
      <string name="zone_list_menu_sort_alphabetically">Sorter alfabetisk</string>
      <string name="zone_list_menu_sort_by_timezone">Sorter etter tidssone</string>
-     <string name="status_bar_toggle_arrangement">Administrer snarveier</string>
+     <string name="status_bar_toggle_arrangement">Administrer brytere</string>
 </resources>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_license">Bruk på din egen risiko!</string>
+  <string name="about_name">MIUIv6 Bryterplassering 1.1</string>
+  <string name="about_text1">Forfatter:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Konsept:</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Ikon:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUIv6 Bryterplassering</string>
+  <string name="data_access">Tilgang</string>
+  <string name="data_airplane">Flymodus</string>
+  <string name="data_autolight">Automatisk lysstyrke</string>
+  <string name="data_block">Lås</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Deaktiver taster</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Gjest</string>
+  <string name="data_light">Lommelykt</string>
+  <string name="data_mobile">Mobildata</string>
+  <string name="data_rotate">Roter</string>
+  <string name="data_screenshot">Skjermbilde</string>
+  <string name="data_silent">Ikke forstyrr</string>
+  <string name="data_sound">Stille</string>
+  <string name="data_speed">Ytelse</string>
+  <string name="data_sync">Synk</string>
+  <string name="data_vibration">Vibrer</string>
+  <string name="data_wifi">Wi-Fi</string>
+  <string name="data_wifispot">Wi-Fi AP</string>
+  <string name="err_get_data">Feil under lesing av database</string>
+  <string name="err_init_settings">Feil ved henting av gjeldende innstilling</string>
+  <string name="err_reset">Feil under tilbakestilling av innstillinger</string>
+  <string name="err_saving">Feil under lagring av innstillinger</string>
+  <string name="howtouse_text">"1. Bruk Dra-og-slipp for å plassere brytere i din foretrukne plassering.
+2. Trykk på \"Lagre\"-knappen.
+3. Ferdig!"</string>
+  <string name="howtouse_text1">\"Tilbakestill\"-knappen vil tilbakestille bryterne til sin standardplassering.</string>
+  <string name="main_header">"Dra-og-slipp brytere som du ønsker"</string>
+  <string name="main_menu_about">Om</string>
+  <string name="main_menu_howtouse">Rask opplæring</string>
+  <string name="main_reset_button">Tilbakestill</string>
+  <string name="main_save_button">Lagre</string>
+  <string name="main_settings_question">Er du sikker på at du vil tilbakestille innstillingene dine?</string>
+  <string name="main_settings_question_no">Nei</string>
+  <string name="main_settings_question_yes">Ja</string>
+  <string name="main_settings_saved">Innstillingene har blitt lagret</string>
+</resources>
