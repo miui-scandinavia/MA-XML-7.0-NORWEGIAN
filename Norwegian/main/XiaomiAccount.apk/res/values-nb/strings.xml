@@ -7,11 +7,11 @@
      <string name="account">Konto</string>
      <string name="account_bind_devices">Aktive enheter</string>
      <string name="account_bind_settings">Koble til konto</string>
-     <string name="account_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
+     <string name="account_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI-temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
      <string name="account_dspt_provision" />
-     <string name="account_dspt_provision2">Learn More</string>
+     <string name="account_dspt_provision2">Lær mer</string>
      <string name="account_hint_text">Epostadresse eller telefnnummer</string>
-     <string name="account_learn_more_title">Create a Mi Account</string>
+     <string name="account_learn_more_title">Opprett en Mi-konto</string>
      <string name="account_name">Konto: %1$s</string>
      <string name="account_not_activated">"Kontoen er ikke aktivert"</string>
      <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , Mi Talk</string>
@@ -46,7 +46,7 @@
      <string name="choose_which_one_sim">Velg et telefonnummer</string>
      <string name="cloud_messaging">Mi-Melding</string>
      <string name="cloud_service">Mi-Sky</string>
-     <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
+     <string name="cloud_service_dspt">Synk dine bilder, kontakter, notater, apper og mer på tvers av enheter.</string>
      <string name="completed">Fullfør</string>
      <string name="confirm">OK</string>
      <string name="confirm_unbind">Bekreft frigiving?</string>
@@ -105,7 +105,7 @@
      <string name="login_notice">Logger inn…</string>
      <string name="login_step2_title">2-trinns-verifikasjon</string>
      <string name="login_title">Logg inn på din Mi-konto</string>
-     <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
+     <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester med én konto.</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi-konto</string>
      <string name="micloud_account_details">Kontodetaljer</string>
@@ -223,8 +223,8 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="skip_setup_account_title">Hopp over oppsettingen</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
-     <string name="theme_store">MIUI Themes Store</string>
-     <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
+     <string name="theme_store">MIUI-temabutikk</string>
+     <string name="theme_store_dspt">Velg din stil. Hundrevis av gratis tilpassbare temaer for å gjøre telefonen din unik.</string>
      <string name="title_reg">Opprett konto</string>
      <string name="trust_device">Stol på denne enheten</string>
      <string name="unactivated_user">Nesten ferdig…</string>

@@ -17,10 +17,10 @@
      <string name="camera_problem3">Kamera lukker seg</string>
      <string name="camera_problem4">"Kan ikke bytte mellom front og bak-kamera"</string>
      <string name="camera_problem5">Kamera slutter å fungere</string>
-     <string name="cta_cancel">avbryt</string>
-     <string name="cta_confirm">bekreft</string>
-     <string name="cta_dialog_content">FeilRapport kan måtte koble til nettverket (f.eks Internett) for å tilby tjenesten. Bekreft for å fortsette?</string>
-     <string name="cta_dialog_title">Nettverksvarsel</string>
+     <string name="cta_cancel">Avbryt</string>
+     <string name="cta_confirm">OK</string>
+     <string name="cta_dialog_content">Denne appen krever en internettforbindelse for å fungere normalt.</string>
+     <string name="cta_dialog_title">Internettforbindelse</string>
      <string name="cta_not_show_again">"Ikke vis igjen"</string>
      <string name="description">Beskrivelse (påkrevd)</string>
      <string name="discard_draft_dialog_button_cancel">Annuller</string>

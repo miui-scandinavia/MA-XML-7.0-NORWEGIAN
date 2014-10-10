@@ -357,7 +357,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
      <string name="export_sim_contacts_dialog_message">Ditt SIM-kort kan lagre %d kontakter, er du sikker på du vil fortsette?</string>
      <string name="export_to_sdcard">Eksporter til SD-kort</string>
      <string name="export_to_sim">Eksporter til SIM-kort</string>
-     <string name="export_to_sim1">Export to SIM card 1</string>
+     <string name="export_to_sim1">Eksporter til SIM-kort 1</string>
      <string name="export_to_sim2">Eksporter til SIM-kort 2</string>
      <string name="export_to_sim_title">Eksporterer til SIM-kort…</string>
      <string name="export_vcard_description">Eksporter vCard til SD-kort</string>
@@ -431,7 +431,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
      <string name="import_from_other_phone">Importer fra annen telefon</string>
      <string name="import_from_sdcard">Importer fra lager</string>
      <string name="import_from_sim">Importer fra SIM-kort</string>
-     <string name="import_from_sim1">Import from SIM card 1</string>
+     <string name="import_from_sim1">Importer fra SIM-kort 1</string>
      <string name="import_from_sim2">Importer fra SIM-kort 2</string>
      <string name="import_multiple_vcard_string">Importer flere vCard filer</string>
      <string name="import_name">Navn</string>
@@ -685,9 +685,9 @@ for å legge til kontakt til favoritter:
      <string name="pref_key_rebuild_t9_index_message">Gjenoppbygg indeks for å løse søkefeil</string>
      <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
      <string name="pref_key_sim_manage">Håndter SIM-kort</string>
-     <string name="pref_key_sim_manage1">Configure SIM card 1</string>
+     <string name="pref_key_sim_manage1">Håndter SIM-kort 1</string>
      <string name="pref_key_sim_manage2">Håndter SIM-kort 2</string>
-     <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Mi-konto</string>
+     <string name="pref_summary_import_from_account">Overfør kontakter fra Google og Exchange-kontoer til min Mi-konto</string>
      <string name="pref_title_account_import">Importer fra konto</string>
      <string name="pref_title_import_from_account">Importer fra Mi-konto</string>
      <string name="preference_auto_ip_summary_disable">Ikke aktivert</string>

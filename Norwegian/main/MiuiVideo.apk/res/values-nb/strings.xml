@@ -9,7 +9,7 @@
      <string name="ad_countdown">%ss gjenstående</string>
      <string name="ad_moredetail">Detaljer</string>
      <string name="add_favorite_success">Stjernemerket</string>
-     <string name="add_more_addons">Legg til tilegg</string>
+     <string name="add_more_addons">Legg til flere tilegg</string>
      <string name="addon" />
      <string name="addon_all">Alle</string>
      <string name="addon_category">Populære kategorier</string>
@@ -76,7 +76,7 @@
      <string name="day">Dag</string>
      <string name="declaration">Vilkår for bruk</string>
      <string name="declaration_content">Ved å bruke denne tjenesten, aksepterer du &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt; fastsatt av Sohu Video, iQiyi, og andre leverandører av videoinnhold.</string>
-     <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
+     <string name="declaration_content_td_custom">Tillater du at vi kobler til internettet når du bruker video?</string>
      <string name="defaults">Default</string>
      <string name="delete">Slett</string>
      <string name="delete_addon">Slett</string>

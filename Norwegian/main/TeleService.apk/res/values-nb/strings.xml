@@ -467,7 +467,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="msim_setting_sim_info_editor_title">Endre kortinformasjon</string>
      <string name="msim_sim_lock">Låst</string>
      <string name="msim_sim_radio_off">Deaktivert</string>
-     <string name="msim_switch_data_conn_toast">Ensure the normal access to the Internet, network type has been changed to prefer 4G networks (prefer 3G networks), you can modify in the SIM info.</string>
+     <string name="msim_switch_data_conn_toast">For å sørge for normal tilgang til Internett, har nettverkstypen blitt endret til å foretrekke 4G-nettverk (fra 3G-nettverk), du kan endre dette i SIM-info.</string>
      <string name="multi_category_disable">Multikategori deaktivert</string>
      <string name="multi_category_enable">Multikategori aktivert</string>
      <string name="name">Navn</string>
