@@ -191,7 +191,7 @@
      <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
      <string name="status_bar_toggle_network_type">Nettverk</string>
      <string name="status_bar_toggle_network_type_action">com.android.phone/.PreferredNetworkTypeListPreference</string>
-     <string name="status_bar_toggle_power_mode">Strøm</string>
+     <string name="status_bar_toggle_power_mode">Ytelse</string>
      <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
      <string name="status_bar_toggle_privacy_mode">Gjest</string>
      <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
@@ -200,7 +200,7 @@
      <string name="status_bar_toggle_reboot">Restart</string>
      <string name="status_bar_toggle_rotate">Rotasjon</string>
      <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-     <string name="status_bar_toggle_screen_button">Skjermknapper</string>
+     <string name="status_bar_toggle_screen_button">Bunnknapper</string>
      <string name="status_bar_toggle_screenshot">Skjermbilde</string>
      <string name="status_bar_toggle_shutdown">Skru av</string>
      <string name="status_bar_toggle_sync">Synk</string>

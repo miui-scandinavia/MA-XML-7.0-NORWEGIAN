@@ -498,7 +498,7 @@
   <string name="pref_category_title_securitycenter_settings">Innstillinger for Sikkerhetssenters</string>
   <string name="pref_category_title_virus_lib_auto_update">Innstillinger for virusdefinisjoner</string>
   <string name="pref_summary_auto_update_cleanup_db">Oppdatert den: %s</string>
-  <string name="pref_summary_cleanup_white_list">Søppel i Trash i godkjenningslisten vil bli ignorert</string>
+  <string name="pref_summary_cleanup_white_list">Søppel i godkjenningslisten vil bli ignorert</string>
   <string name="pref_summary_expand_cache_group">Grupper i mellomlagringslisten vil utvides som standard</string>
   <string name="pref_summary_garbage_cleanup_check_size">Varsle meg når Søppelbøtta når en viss størrelse</string>
   <string name="pref_summary_garbage_cleanup_check_time">Varsle meg når tiden når et visst intervall</string>
@@ -562,7 +562,7 @@
   <string name="summary_usb">Unngå virus som sprer seg fra andre enheter</string>
   <string name="summary_virus">Fant %2$d virus</string>
   <string name="summary_virus_update">Oppdater virusdefinisjoner automatisk når tilkoblet WLAN</string>
-  <string name="system_check_content">%1$d mistenkelig elementer</string>
+  <string name="system_check_content">%1$d mistenkelige elementer</string>
   <string name="system_header_title">Frigjør %1$d prosesser for å frigjøre %2$s av minnet</string>
   <string name="title_app_update_no">%d apper har oppdateringer ventende</string>
   <string name="title_app_update_yes">Alle apper er oppdaterte!</string>
@@ -600,7 +600,7 @@
   <string name="toast_shortcut_install">Snarvei opprettet</string>
   <string name="toast_shortcut_uninstall">Snarvei fjernet</string>
   <string name="toast_uninstall_success">Avinstallering fullrørt</string>
-  <string name="toast_virus_in_cloud_scanning">"Kan ikke slutte å skanne syken"</string>
+  <string name="toast_virus_in_cloud_scanning">"Kan ikke slutte å skanne skyen"</string>
   <string name="uninstall_confirm_title">Avinstaller denne appen</string>
   <string name="usage_type_audio">Lyd</string>
   <string name="usage_type_cpu">CPU total</string>

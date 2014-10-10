@@ -653,7 +653,7 @@ venner."</string>
      <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
      <string name="impunity_declaration_title">Nettverksvarsel</string>
      <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
-     <string name="initial_cloud_text">Til hver en tid og sted, organiser og se dine bilder</string>
+     <string name="initial_cloud_text">Organiser og se dine bilder, til enhver tid og sted</string>
      <string name="initializing_cloud">Initialiserer Cloud-album...</string>
      <string name="input_cloudfolder_name">Cloud mappe navn</string>
      <string name="internal_camera_folder_display_name">Kamera Bilder (Internt)</string>
@@ -899,8 +899,8 @@ venner."</string>
      <string name="sync_history_power_on">Synk kun bilder lastes opp</string>
      <string name="sync_in_progress_message">Synkronisering pågår...</string>
      <string name="sync_only_in_wifi">Kun WiFi</string>
-     <string name="sync_only_in_wifi_alert">Slå av bare laste opp i WiFi kan konsumere mer nettverkstrafikk, er du sikker på at du vil slå den av?</string>
-     <string name="sync_only_in_wifi_summary">Anbefalt å aktivere, da det bruker datatrafikk.</string>
+     <string name="sync_only_in_wifi_alert">Slår du av denne funksjonen kan mobildataforbruket øke, er du sikker på at du vil slå den av?</string>
+     <string name="sync_only_in_wifi_summary">Forhindre galleri-appen å laste opp bilder via mobil datatilknytning.</string>
      <string name="system_album">System-album</string>
      <string name="tab_all_text">Satt på alle</string>
      <string name="tab_lockscreen_text">Låseskjerm</string>

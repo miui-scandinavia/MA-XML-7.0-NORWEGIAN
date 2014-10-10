@@ -681,7 +681,7 @@ for å legge til kontakt til favoritter:
      <string name="postal_street">Gate</string>
      <string name="pref_key_photo">Bilde</string>
      <string name="pref_key_photo_word_summary">Automatisk velg et bilde til kontaktene som ikke har et</string>
-     <string name="pref_key_photo_word_title">Bilder til alle</string>
+     <string name="pref_key_photo_word_title">Tildel kontaktbilder</string>
      <string name="pref_key_rebuild_t9_index_message">Gjenoppbygg indeks for å løse søkefeil</string>
      <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
      <string name="pref_key_sim_manage">Håndter SIM-kort</string>
@@ -711,7 +711,7 @@ for å legge til kontakt til favoritter:
      <string name="preference_others">Andet</string>
      <string name="preference_phone">Telefon</string>
      <string name="preference_phone_more_title">Flere innstillinger</string>
-     <string name="preference_remove_duplicate">Flet dupliserte kontakter</string>
+     <string name="preference_remove_duplicate">Flett dupliserte kontakter</string>
      <string name="preference_simple_mode_description">Gjem bilder og annen kontaktdata i listevisning</string>
      <string name="preference_simple_mode_title">Enkelmodus</string>
      <string name="preference_smart_group_company_summary">Grupper kontakter via firmakontakter etter firmainfo</string>

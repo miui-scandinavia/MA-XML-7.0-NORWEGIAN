@@ -25,7 +25,7 @@
      <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
      <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
      <string name="shut_down">Skru av</string>
-     <string name="sim_card_detecting">Sjekker etter SIM-kort…</string>
+     <string name="sim_card_detecting">Ser etter SIM-kort…</string>
      <string name="sim_card_detection">SIM-kort ikke funnet</string>
      <string name="sim_card_detection_info">Kunne ikke sette opp Xiaomi-konto uten et SIM-kort. Du må bruke et SIM-kort for å bruke kontosynkronisering, telefonlokalisering og lign."</string>
      <string name="sim_dectection_next">Fortsett</string>
@@ -33,7 +33,7 @@
      <string name="summary_not_set">Ikke satt</string>
      <string name="summary_sim_card">Kort%1$d%2$s</string>
      <string name="terms_of_use">Vilkår for bruk</string>
-     <string name="terms_of_use_label">You must agree to User Agreement and Privacy Policy before you can use MIUI.</string>
+     <string name="terms_of_use_label">Du må akseptere brukeravtalen og personvernet før du kan bruke MIUI.</string>
      <string name="user_agreement">Brukerbetingelser</string>
      <string name="welcome">Velkomen til</string>
 </resources>
