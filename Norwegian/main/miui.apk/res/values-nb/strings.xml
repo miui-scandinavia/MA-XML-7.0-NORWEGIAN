@@ -412,7 +412,7 @@
      <string name="heavenly_stems_xin">辛</string>
      <string name="heavenly_stems_yi">乙</string>
      <string name="im">IM</string>
-     <stfring name="label">MIUI SDK</string>
+     <string name="label">MIUI SDK</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverk. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Loading…</string>
      <string name="mibi_license">Mi Credit brukerbetingelser</string>
