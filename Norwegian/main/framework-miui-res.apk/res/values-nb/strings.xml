@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="activate">Activate</string>
-     <string name="activate_fail_notification_title">Reactivate sync</string>
-     <string name="activating">Activating…</string>
+     <string name="activate">Aktiver</string>
+     <string name="activate_fail_notification_title">Aktiver synk på nytt</string>
+     <string name="activating">Aktiverer…</string>
      <string name="alwaysUsePrompt">Husk dette valget</string>
-     <string name="android_lockscreen_glogin_instructions">To unlock, sign in to your Mi Account</string>
+     <string name="android_lockscreen_glogin_instructions">For å låse opp, logg inn på din Mi-konto</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
      <string name="anti_aggression_day">Anti-sinnedag</string>
      <string name="app_no_notification">Tom</string>
@@ -19,8 +19,8 @@
      <string name="call_record_or">" eller "</string>
      <string name="call_record_sample_prefix_miui">Ring</string>
      <string name="caller_info_name_delimiter">" eller "</string>
-     <string name="check_phone_error_title">"Sync hasn't been activated"</string>
-     <string name="check_phone_io_error">Network error</string>
+     <string name="check_phone_error_title">Synk er av</string>
+     <string name="check_phone_io_error">>"Kan ikke koble til nettverket"</string>
      <string name="childrens_day">Barnas dag</string>
      <string name="chinese_youth_day">Ungdommens dag</string>
      <string name="christmas_day">Juledag</string>
@@ -378,7 +378,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="force_exit_message">Tvunget avslutting av %1$s</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">Anrop, notater, bilder, meldinger og launcher-innstillinger vil bli skjult fra brukeren.</string>
-     <string name="global_action_toggle_privacy_mode">Guest mode</string>
+     <string name="global_action_toggle_privacy_mode">Gjestemodus</string>
      <string name="good_friday">Langfredag</string>
      <string name="grain_buds" />
      <string name="grain_in_ear" />
