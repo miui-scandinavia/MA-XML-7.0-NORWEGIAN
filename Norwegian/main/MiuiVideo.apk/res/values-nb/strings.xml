@@ -174,7 +174,7 @@
      <string name="offline">Offline</string>
      <string name="offline_alert_title">Optimaliser databruk</string>
      <string name="offline_alert_wifi">"For å redusere ditt dataforbruk, har nedlastningene blitt pauset og vil fortsette når du er tilkoblet Wi-Fi".</string>
-     <string name="offline_max_promote">Venter på at de andre oppgavene blir ferdig…<</string>
+     <string name="offline_max_promote">Venter på at de andre oppgavene blir ferdig…</string>
      <string name="offline_media_empty_hint">Tom</string>
      <string name="offline_no_source">Det er ingen tilgjengelig cache-kilder</string>
      <string name="offline_no_wifi">Du bruker ikke WiFi, vennligst velg cellulær-valget i innstillinger hvis du vil cache nå.</string>

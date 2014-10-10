@@ -269,10 +269,10 @@
      <string name="tab_sms">SMS</string>
      <string name="tab_title">Vakt</string>
      <string name="toast_keyword_blank">Nøkkelord er blankt</string>
-     <string name="toast_keyword_exist">Nøkkelord lagt til/string>
+     <string name="toast_keyword_exist">Nøkkelord lagt til</string>
      <string name="toast_keyword_invalid">Nøkkelordet du oppga er ugyldig</string>
      <string name="two_address_choose_hint">%1$s, %2$s</string>
      <string name="user_define_title">Egendefinert</string>
      <string name="whitelist_prefix_add_hint">Legg til alle numre med prefiks til unntak</string>
-     <string name="wl_no_whitelist">No exceptions</string>
+     <string name="wl_no_whitelist">Ingen unntak</string>
 </resources>
