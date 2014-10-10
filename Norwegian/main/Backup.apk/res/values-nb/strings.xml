@@ -102,8 +102,8 @@
      <string name="local_select_sysdata">System</string>
      <string name="local_select_userapp">Programmer</string>
      <string name="menu_patch_delete">Slett backuper</string>
-     <string name="miliao_account_guide">"Opprett en Mi-konto for å benytte deg av alle Xiaomi sine online tjeneste"</string>
-     <string name="miliao_account_login">Logg inn på MiTalk</string>
+     <string name="miliao_account_guide">"Bryk din Mi-konto for å nyte alle av Xiaomi sine onlinetjenester"</string>
+     <string name="miliao_account_login">Logg inn med Mi Talk</string>
      <string name="mms_title">MMS-meldinger</string>
      <string name="multi_select_title">%1$s elementer valgt</string>
      <string name="no_encrypt_password">Ingen passord</string>

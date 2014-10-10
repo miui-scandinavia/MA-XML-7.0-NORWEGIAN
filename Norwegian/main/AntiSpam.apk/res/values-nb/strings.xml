@@ -45,7 +45,7 @@
      <string name="ad_update_time">Sist oppdatert: %s</string>
      <string name="ad_update_time_unKnown">Sist oppdatert: ukjent</string>
      <string name="ad_update_title">Auto-oppdatering</string>
-     <string name="address_choose_hint">%1$s、%2$s and %3$d plasseringer</string>
+     <string name="address_choose_hint">%1$s, %2$s og %3$d plasseringer</string>
      <string name="addwhitelist">Legg til i unntak</string>
      <string name="all_address_choose_hint">Alle plasseringer</string>
      <string name="app_name">Blokkeringsliste</string>
@@ -152,7 +152,7 @@
      <string name="note_list_none">Tom</string>
      <string name="note_preference_delete">"Kan ikke slette denne modusen mens den er i bruk"</string>
      <string name="note_sms_none">Tom</string>
-     <string name="one_address_choose_hint">%s1 plasseringer</string>
+     <string name="one_address_choose_hint">%s1</string>
      <string name="open_callwait">På</string>
      <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Slett alle blokkerte SMS som sendes fra valgte nummeret??</string>
@@ -271,7 +271,7 @@
      <string name="toast_keyword_blank">Nøkkelord er blankt</string>
      <string name="toast_keyword_exist">Nøkkelord lagt til/string>
      <string name="toast_keyword_invalid">Nøkkelordet du oppga er ugyldig</string>
-     <string name="two_address_choose_hint">%1$s, %2$s2 plasseringer</string>
+     <string name="two_address_choose_hint">%1$s, %2$s</string>
      <string name="user_define_title">Egendefinert</string>
      <string name="whitelist_prefix_add_hint">Legg til alle numre med prefiks til unntak</string>
      <string name="wl_no_whitelist">No exceptions</string>

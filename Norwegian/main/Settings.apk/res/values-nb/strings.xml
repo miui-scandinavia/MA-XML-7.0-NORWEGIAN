@@ -1150,9 +1150,9 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="last_synced">Sist synkronisert %1$s</string>
      <string name="later">Start på nytt senere</string>
      <string name="launch_count_label">Antall</string>
-     <string name="launching_cit">Launching cit, please wait.</string>
-     <string name="launching_pho">Launching phone info, please wait.</string>
-     <string name="launching_rep">Reporting…</string>
+     <string name="launching_cit">Åpner CIT</string>
+     <string name="launching_pho">Åpner telefoninformasjon, vennligst vent.</string>
+     <string name="launching_rep">Rapporterer…</string>
      <string name="led_colors_summary">Varslinger</string>
      <string name="led_frequence_summary">Sett mellomrom mellom LED-blinking</string>
      <string name="led_pulse_summary">Pulser varsellykt når et nytt varsel er mottatt</string>

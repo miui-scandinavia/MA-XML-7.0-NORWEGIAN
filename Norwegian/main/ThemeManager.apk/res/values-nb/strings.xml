@@ -112,7 +112,7 @@
      <string name="resource_detail_comment_title">Kommentarer</string>
      <string name="resource_detail_jump_to_online_title">Online</string>
      <string name="resource_detail_jump_to_same_author_title">Samme forfatter</string>
-     <string name="resource_detail_recommend_desiner_other_themes">Andre temaer designet av %1$s</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Temaer designet av %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">%1$s temaer</string>
      <string name="resource_detail_recommend_other_themes">Brukere liker også</string>
      <string name="resource_detail_update_log_title">Oppdateringer</string>

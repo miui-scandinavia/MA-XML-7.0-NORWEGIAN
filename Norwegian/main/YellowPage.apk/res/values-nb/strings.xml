@@ -172,7 +172,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="gallery">Galleri</string>
      <string name="general_cancel_favorite_ok">Favoritt fjernet</string>
      <string name="general_delete_recent_ok">Nyeste fjernet</string>
-     <string name="general_favorite_ok">Favorite added</string>
+     <string name="general_favorite_ok">Favoritt lagt til</string>
      <string name="general_favorite_title">Favoritter</string>
      <string name="general_menu_delete_recent">Slett nyeste</string>
      <string name="general_menu_unfavorite">Fjern fra favoritter</string>
@@ -209,7 +209,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="menu_enroll_in_yellow_page">Logg inn på Mi-gulesider</string>
      <string name="menu_remove_black_list">Fjern fra svarteliste</string>
      <string name="menu_remove_from_favorite">Fjern fra favoritter</string>
-     <string name="menu_save_contact">Save number to contact</string>
+     <string name="menu_save_contact">Lagre nummer til kontakt</string>
      <string name="minimum_price">Fra %d RMB</string>
      <string name="mishop_web_payment_title">MiStore-utsjekking</string>
      <string name="more_coupons">Alle kuponger</string>

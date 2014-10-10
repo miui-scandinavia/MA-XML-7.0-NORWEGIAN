@@ -315,7 +315,7 @@
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">Høyere</string>
      <string name="vp_support_by">Brukerstøtte av %1$s</string>
-     <string name="vp_toast_downloadapk">Download apk in the background for you …</string>
+     <string name="vp_toast_downloadapk">Laster ned app i bakgrunnen…</string>
      <string name="vp_unknown_source">Ukjent kilde</string>
      <string name="vp_using_16_9">Tving 16:9</string>
      <string name="vp_using_4_3">Tving 4:3</string>

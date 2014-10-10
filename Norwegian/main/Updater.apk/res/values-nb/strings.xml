@@ -139,9 +139,9 @@
      <string name="space_not_enough_title">Ikke nok plass</string>
      <string name="stable_build">Stabil Build</string>
      <string name="submit">Send</string>
-     <string name="submit_fail">Feil ved sending</string>
-     <string name="submit_progress">Sender</string>
-     <string name="submit_success">Sending fullført</string>
+     <string name="submit_fail">"Kunne ikke sende"</string>
+     <string name="submit_progress">Sender…</string>
+     <string name="submit_success">Sendt</string>
      <string name="test">Test</string>
      <string name="timer_title">Enheten vil starte på nytt om %d sekunder.</string>
      <string name="top_secret_build">Hemmelig build</string>
