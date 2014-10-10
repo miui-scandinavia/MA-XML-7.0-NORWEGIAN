@@ -557,6 +557,9 @@ Aktiver flytende vinduer?"</string>
      <string name="clear_failed_dlg_text">Kan ikke slette data for app.</string>
      <string name="clear_failed_dlg_title">Tilbakestill data</string>
      <string name="clear_user_data_text">Fjern data</string>
+     <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
+     <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
+     <string name="cmcc_dm_settings_title">Device Management Permission</string>
      <string name="color_black">Svart</string>
      <string name="color_blue">Blå</string>
      <string name="color_calibration_none">Native</string>

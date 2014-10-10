@@ -52,7 +52,7 @@
   <string name="battery_desc_bluetooth">Batteri brukt av Bluetooth</string>
   <string name="battery_desc_display">Batteri brukt av skjerm og bakgrunnslys</string>
   <string name="battery_desc_other_apps">Strøm brukt av andre apper</string>
-  <string name="battery_desc_radio">Batteri brukt av mobilradio</string>
+  <string name="battery_desc_radio">Batteri brukt av radio</string>
   <string name="battery_desc_standby">Batteri brukt når telefonen er inaktiv</string>
   <string name="battery_desc_voice">Batteri brukt på samtaler</string>
   <string name="battery_desc_wifi">Batteri brukt av WIFI</string>
@@ -220,7 +220,7 @@
   <string name="hints_need_quick_scan">Hurtigskann anbefalt</string>
   <string name="hints_no_info">Ingen info</string>
   <string name="hints_permission_apps_count">%d apper</string>
-  <string name="hints_power_percent_title">Batteri</string>
+  <string name="hints_power_percent_title">batteri</string>
   <string name="hints_quick_cleanning">Rydder…</string>
   <string name="hints_quick_cleanuping">Optimaliserer…</string>
   <string name="hints_quick_scanning">Skanner…</string>
@@ -255,7 +255,7 @@
   <string name="item_garbage_time_3d">Hver 3. dag</string>
   <string name="item_garbage_time_7d">Hver 7. dag</string>
   <string name="item_garbage_time_daily">Daglig</string>
-  <string name="item_garbage_time_never">Aldri</string>
+  <string name="item_garbage_time_never">1 gang</string>
   <string name="item_install_monitor">Innstalleringsovervåker</string>
   <string name="item_mms">Filtrer uønskede meldinger</string>
   <string name="item_title_garbage_size">Alarm ved størrelse</string>
@@ -338,7 +338,7 @@
   <string name="power_center_auto_shutdown">Planlegg av-/påslåing</string>
   <string name="power_center_auto_shutdown_summary">Slå telefonen på eller av på et planlagt tidspunkt</string>
   <string name="power_center_battery_full">Batteriet er fulladet</string>
-  <string name="power_center_charge_time">Lading vil fullføres om %1$s</string>
+  <string name="power_center_charge_time">%1$stil ferdig</string>
   <string name="power_center_consume_rank">Batteribruk</string>
   <string name="power_center_consume_time">%1$sgjennstår</string>
   <string name="power_center_custom_summary_default">Forbedre batteritiden med tilpassede profiler</string>
@@ -357,8 +357,8 @@
   <string name="power_center_time_to_boot">Slå på kl.</string>
   <string name="power_center_time_to_shutdown">Slå på kl.</string>
   <string name="power_center_title">Strøm</string>
-  <string name="power_chooser_check_box_summary">Bruk en profil for å forbedre batteritiden</string>
-  <string name="power_chooser_check_box_title">Bruk profil</string>
+  <string name="power_chooser_check_box_summary">Velg en profil for å forbedre batteritiden</string>
+  <string name="power_chooser_check_box_title">Velg profil</string>
   <string name="power_chooser_mine_summary">Legg til profil</string>
   <string name="power_chooser_mine_title">Tilpasset</string>
   <string name="power_chooser_sleep_summary">Slå av alle nettverkfunksjoner (anrop, SMS, WLAN og datatjenester) unntatt alarmklokken</string>
@@ -386,14 +386,14 @@
   <string name="power_customizer_smart_mode">Standard</string>
   <string name="power_customizer_standby_mode">Maraton</string>
   <string name="power_customizer_user_define_mode">Navn</string>
-  <string name="power_customizer_user_define_name">Min batteriprofil</string>
+  <string name="power_customizer_user_define_name">Min profil</string>
   <string name="power_customizer_user_define_summary">Brukerdefinerte instillinger</string>
   <string name="power_dialog_auto_clean_memory_summary">Når enheten er låst, fjern mellomlagrede prosesser som bruker strøm</string>
   <string name="power_dialog_auto_clean_memory_title">Tøm mellomlager når låst</string>
   <string name="power_dialog_cancel">Avbryt</string>
   <string name="power_dialog_cpu_state_balance">Balansert</string>
   <string name="power_dialog_cpu_state_balance_desc">Bare øk CPU-ytelse når behov</string>
-  <string name="power_dialog_cpu_state_performance">Høy ytelse</string>
+  <string name="power_dialog_cpu_state_performance">Ytelse</string>
   <string name="power_dialog_cpu_state_performance_desc">Foretrekk CPU-ytelse fremfor batteritid</string>
   <string name="power_dialog_cpu_state_save">Batterisparing</string>
   <string name="power_dialog_cpu_state_save_desc">Foretrekk batteritid fremfor CPU-ytelse</string>
@@ -539,7 +539,7 @@
   <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="process_kernel_label">Android OS</string>
+  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medieserver</string>
   <string name="protection_category_dangerous_title">Riskoer (%d)</string>
   <string name="protection_category_recommend_title">Anbefalte endringer (%d)</string>
@@ -552,7 +552,7 @@
   <string name="root_apply_step_5">Gi %s rottilgang?</string>
   <string name="root_apply_title">Viktig advarsel</string>
   <string name="score_pts">%</string>
-  <string name="st_title_mode_choose_group">Velg modus</string>
+  <string name="st_title_mode_choose_group">Velg profil</string>
   <string name="suffix_virus_count_bottom">Total</string>
   <string name="suffix_virus_count_top">Risikoer</string>
   <string name="summary_dev">Hindre apper i å få tilgang til brukerdata</string>

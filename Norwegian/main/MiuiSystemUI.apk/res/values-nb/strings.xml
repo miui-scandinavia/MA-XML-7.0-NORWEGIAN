@@ -86,7 +86,7 @@
      <string name="ext_media_badremoval_notification_title">USB-lagring fjernet uventet</string>
      <string name="ext_media_checking_notification_message">Kontrollerer for feil.</string>
      <string name="ext_media_checking_notification_title">Forbereder USB-lagring</string>
-     <string name="ext_media_mountable_notification_message">Åpne ekstern media med Filer</string>
+     <string name="ext_media_mountable_notification_message">Trykk for å åpne i Utforsker</string>
      <string name="ext_media_mountable_notification_title">USB-lagring tilkoblet</string>
      <string name="ext_media_nofs_notification_message">USB-lagring tomt eller har et filsystem som ikke støttes.</string>
      <string name="ext_media_nofs_notification_title">Tom USB-lagring</string>
@@ -103,7 +103,7 @@
      <string name="headset_custom">Oppsett</string>
      <string name="headset_info">Trykk for å konfigurerer hodetelefon-type og personliggjør knappefunksjoner</string>
      <string name="headset_settings">Headset tilkoblet</string>
-     <string name="hint_for_long_press_app_switch_key">Langt-trykk for å vise menu</string>
+     <string name="hint_for_long_press_app_switch_key">Langt-trykk for å vise meny</string>
      <string name="invalid_charger">"USB-lading støttes ikke. Bruk bare den medfølgende laderen."</string>
      <string name="label_view">Vis</string>
      <string name="lockscreen_carrier_default">Ingen tjeneste</string>

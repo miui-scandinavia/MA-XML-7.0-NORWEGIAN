@@ -176,6 +176,7 @@ Du kan skru funksjonen av og på når som helst i Innstillinger.
      <string name="user_agreement_p8">.</string>
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
+     <string name="view_storage_title">View cloud space</string>
      <string name="wifi">Wi-Fi</string>
      <string name="wifi_disconnected">Ingen Wi-Fi</string>
      <string name="wifi_sync">Venter på Wi-Fi</string>

@@ -357,6 +357,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
      <string name="export_sim_contacts_dialog_message">Ditt SIM-kort kan lagre %d kontakter, er du sikker på du vil fortsette?</string>
      <string name="export_to_sdcard">Eksporter til SD-kort</string>
      <string name="export_to_sim">Eksporter til SIM-kort</string>
+     <string name="export_to_sim1">Export to SIM card 1</string>
      <string name="export_to_sim2">Eksporter til SIM-kort 2</string>
      <string name="export_to_sim_title">Eksporterer til SIM-kort…</string>
      <string name="export_vcard_description">Eksporter vCard til SD-kort</string>
@@ -430,6 +431,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
      <string name="import_from_other_phone">Importer fra annen telefon</string>
      <string name="import_from_sdcard">Importer fra lager</string>
      <string name="import_from_sim">Importer fra SIM-kort</string>
+     <string name="import_from_sim1">Import from SIM card 1</string>
      <string name="import_from_sim2">Importer fra SIM-kort 2</string>
      <string name="import_multiple_vcard_string">Importer flere vCard filer</string>
      <string name="import_name">Navn</string>
@@ -660,7 +662,7 @@ for å legge til kontakt til favoritter:
      <string name="pickerNewContactText">Opprett ny kontakt</string>
      <string name="picker_all_list_empty">Ingen kontakter</string>
      <string name="picker_contact_title">Velg en kontakt</string>
-     <string name="picker_email_title">Velg en email</string>
+     <string name="picker_email_title">Velg en e-post-adresse</string>
      <string name="picker_favorites_list_empty">Ingen favoritter</string>
      <string name="picker_groups_list_empty">Ingen grupper</string>
      <string name="picker_join_title">Velg kontakt å flette med %s</string>
@@ -683,6 +685,7 @@ for å legge til kontakt til favoritter:
      <string name="pref_key_rebuild_t9_index_message">Gjenoppbygg indeks for å løse søkefeil</string>
      <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
      <string name="pref_key_sim_manage">Håndter SIM-kort</string>
+     <string name="pref_key_sim_manage1">Configure SIM card 1</string>
      <string name="pref_key_sim_manage2">Håndter SIM-kort 2</string>
      <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Mi-konto</string>
      <string name="pref_title_account_import">Importer fra konto</string>
@@ -961,7 +964,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="share_visible_contacts">Del synlige kontakter</string>
      <string name="shortcutActivityTitle">Kontaktsnarvei</string>
      <string name="shortcutContact">Kontakt</string>
-     <string name="shortcutDialContact">Direkte anrop</string>
+     <string name="shortcutDialContact">"Ring direkte "</string>
      <string name="shortcutMessageContact">Direkte beskjed</string>
      <string name="showAllContactsJoinItem">Vis alle</string>
      <string name="simContacts_airplaneMode">For å importere kontakter fra SIM-kortet, må du slå av flymodus.</string>
@@ -1035,6 +1038,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="splitConfirmation_title">Del kontakten</string>
      <string name="starredList">Stjernemarkeret</string>
      <string name="starred_contacts">Favoritter</string>
+     <string name="starred_yellowpage">Favorite directories</string>
      <string name="status_available">Tilgjengelig</string>
      <string name="status_away">Ute</string>
      <string name="status_busy">Opptatt</string>

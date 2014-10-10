@@ -474,7 +474,9 @@
      <string name="cloud_gallery_recyclebin_full">Papirkurv er fyllt, vennligst tøm den på i.mi.com.</string>
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
      <string name="cloud_media_set_set">Cloud-album</string>
-     <string name="cloud_owner_album_share_guide">Du kan dele dette albumet med venner</string>
+     <string name="cloud_owner_album_share_guide">"Del
+     	dette albumet
+     	med venner"</string>
      <string name="cloud_screenshots_display_name">Skjermbilder</string>
      <string name="cloud_share_guide_message">"Du kan dele ditt MiCloud-album med
 venner."</string>
@@ -717,7 +719,7 @@ venner."</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
-     <string name="new_device_tips">Ny enhet funnet. Klikk for å vise</string>
+     <string name="new_device_tips">"Tyrkk for å vise enhet"</string>
      <string name="no">Nei</string>
      <string name="no_albums_alert">Ingen album tilgjengelige.</string>
      <string name="no_connectivity">"Noen plasseringer kunne ikke identifiseres på grunn av nettverksproblemer."</string>

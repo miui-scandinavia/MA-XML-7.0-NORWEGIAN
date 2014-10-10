@@ -1045,11 +1045,11 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>400</item>
      </string-array>
      <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Veldig sakte</item>
+        <item>Sakte</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
+        <item>Rask</item>
+        <item>Raskere</item>
      </string-array>
      <string-array name="tts_rate_xunfei_values">
         <item>60</item>
