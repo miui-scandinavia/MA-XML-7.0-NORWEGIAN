@@ -219,7 +219,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="skip_login">Hopp over innlogging</string>
      <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>
      <string name="skip_register">Hopp over registrering</string>
-     <string name="skip_setup_account_msg">Du kan legge til en Mi-konto i instillingene senere.</string>
+     <string name="skip_setup_account_msg">Du kan legge til en Mi-konto i innstillingene senere.</string>
      <string name="skip_setup_account_title">Hopp over oppsettingen</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>

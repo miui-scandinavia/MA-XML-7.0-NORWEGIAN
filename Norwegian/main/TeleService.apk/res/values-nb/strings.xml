@@ -116,9 +116,9 @@
      <string name="call_waiting_tone_stop_summary" />
      <string name="call_waiting_tone_title">Varsel for anropsventing</string>
      <string name="call_waiting_tone_twice_and_vibrate">Spill varslingslyd og vibrer to ganger</string>
-     <string name="call_waiting_tone_twice_only">Spill varslingslyd to gangerå</string>
+     <string name="call_waiting_tone_twice_only">Spill varslingslyd to ganger</string>
      <string name="caller_id_summary">Skjul mitt nummer for utgående anrop (bekreft at operatøren din støtter denne funksjonen)</string>
-     <string name="caller_id_title">Innringer-ID</string>
+     <string name="caller_id_title">Anrop-ID</string>
      <string name="callind_multi_sim">Abonnement-innstillinger</string>
      <string name="callwait_open_hint">\"Samtale venter\" er en funksjon tilbudt av din mobiltjenestetilbyder. Hvis du mottar et feilvarsel, kontakt tjenestetbilyderen din og forsikre deg om at denne funksjonen er aktivert for ditt nummer.</string>
      <string name="cancel">Avbrutt</string>
@@ -598,9 +598,9 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="port_title">Portnummer</string>
      <string name="preference_auto_ip_summary_disable">Deaktivert</string>
      <string name="preference_category_ringtone">Ringetone og vibrering</string>
-     <string name="preference_dial_pad_touch_tone_default">Default</string>
+     <string name="preference_dial_pad_touch_tone_default">Standard</string>
      <string name="preference_dial_pad_touch_tone_piano">Pianotangenter</string>
-     <string name="preference_dial_pad_touch_tone_title">Ringetastaturtoner</string>
+     <string name="preference_dial_pad_touch_tone_title">Tastetoner</string>
      <string name="preference_telocation_summary_countrycode_off">Legg ikke til landekode automatisk</string>
      <string name="preference_telocation_summary_countrycode_on">Legg til landekode automatisk</string>
      <string name="preference_telocation_summary_teloc_off">Skjul kontaktplassering</string>
@@ -653,9 +653,9 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="registration_status_registering">Registrerer …</string>
      <string name="registration_status_server_unreachable">Kontoregistrering mislyktes: Kontroller tjenernavnet.</string>
      <string name="registration_status_still_trying">Prøver fortsatt …</string>
-     <string name="reject_via_sms">Raske svar</string>
+     <string name="reject_via_sms">Hurtigsvar</string>
      <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-svar</string>
-     <string name="reject_via_sms_title">Raske svar</string>
+     <string name="reject_via_sms_title">Hurtigsvar</string>
      <string name="remember_my_choice">Standardvalg for Internett-anrop</string>
      <string name="remove">Slett</string>
      <string name="remove_ims_account">Fjern konto</string>
@@ -837,7 +837,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>
      <string name="turnover_mute_summary">Når telefonen er rotert horisontalt, vend den over for å bringe ringetone til taushet</string>
-     <string name="turnover_mute_title">Vend for å bringe</string>
+     <string name="turnover_mute_title">Vend for å stilne</string>
      <string name="undefined">Ikke definert</string>
      <string name="unknown">Ukjent</string>
      <string name="unlock_failed">Fikk ikke fjerne operatørlås.</string>

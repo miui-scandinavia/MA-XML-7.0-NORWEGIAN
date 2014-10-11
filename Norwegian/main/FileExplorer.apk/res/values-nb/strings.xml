@@ -31,7 +31,7 @@
      <string name="category_type_meida">Media</string>
      <string name="category_type_other">Andre</string>
      <string name="category_video">Video</string>
-     <string name="category_zip">Arkiver</string>
+     <string name="category_zip">Arkiv</string>
      <string name="choose_send_type">Velg forsendelsetype</string>
      <string name="choose_upload_location">Velg opplastingsplassering</string>
      <string name="clean_message">%1$s plass frigjort</string>

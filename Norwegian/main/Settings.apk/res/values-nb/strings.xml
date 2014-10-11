@@ -169,8 +169,8 @@ Aktiver flytende vinduer?"</string>
      <string name="app_sees_restricted_accounts">Denne appen har tilgang til kontoene dine</string>
      <string name="app_special_disable_dlg_text">Hvis du deaktiverer en innebygd app kan det føre til at andre apper ikke fungerer som de skal. Dataene dine blir også slettet.</string>
      <string name="app_special_disable_dlg_title">Vil du slette dataene og deaktivere appen?</string>
-     <string name="app_switch_key">Seneste</string>
-     <string name="application_forbid_auto_startup">Forby %s fra å starte bakg</string>
+     <string name="app_switch_key">Nylige</string>
+     <string name="application_forbid_auto_startup">Forby %s fra å starte i bakgrunnen</string>
      <string name="application_info_label">Info om app</string>
      <string name="application_item_already_permission">Tillatt</string>
      <string name="application_item_disable">Nekt</string>
@@ -985,7 +985,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="free_wifi_connect">Koble til</string>
      <string name="free_wifi_connect_dialog_summary">%1$s tilbudt av %2$s.</string>
      <string name="free_wifi_connect_dialog_title">WLAN tilgjengelig</string>
-     <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk. Vennligst sjekk din dataforbinelde og prøv igjen"</string>
+     <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk. Vennligst sjekk din dataforbindelse og prøv igjen"</string>
      <string name="free_wifi_connect_fail2">"Kunne ikke logge inn. Vent et minutt eller to og prøv igjen."</string>
      <string name="free_wifi_connect_summary">Trykk for å koble til %1$s.</string>
      <string name="free_wifi_connect_title">WLAN tilgjengelig</string>
@@ -1155,8 +1155,8 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="launching_rep">Rapporterer…</string>
      <string name="led_colors_summary">Varslinger</string>
      <string name="led_frequence_summary">Sett mellomrom mellom LED-blinking</string>
-     <string name="led_pulse_summary">Pulser varsellykt når et nytt varsel er mottatt</string>
-     <string name="led_settings">Varsellykt</string>
+     <string name="led_pulse_summary">Pulser varsellampe når et nytt varsel er mottatt</string>
+     <string name="led_settings">Varsellampe</string>
      <string name="legal_information">Juridisk informasjon</string>
      <string name="license_title">Lisens</string>
      <string name="line_breaking_summary">Optimaliser paragraf-linjeskift</string>
@@ -1311,7 +1311,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="master_clear_personal_data">"Slett all personlig informasjon? Du kan ikke reversere denne handlingen"</string>
      <string name="master_clear_personal_data_application">"Slette din personlige informasjon og nedlastede apper? Du kan ikke reversere denne handlingen!"</string>
      <string name="master_clear_personal_data_sdcard">"Slette din personlige informasjon og innhold? Du kan ikke reversere denne handlingen!"</string>
-     <string name="master_clear_summary">Sletter alle data på nettbrettet</string>
+     <string name="master_clear_summary">Sletter alle data på enheten</string>
      <string name="master_clear_title">Fabrikkinnstillinger</string>
      <string name="media_button">Medieknapp</string>
      <string name="media_feedback_enable_title">Vibrer med rytmen</string>
@@ -1340,7 +1340,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="memory_media_usage">Medier</string>
      <string name="memory_music_usage">Lyd (musikk, ringetoner, podcaster osv.)</string>
      <string name="memory_size">Total plass</string>
-     <string name="memory_title">Available: %1$su0009u0009Total: %2$s</string>
+     <string name="memory_title">Tilgjengelig: %1$s\u0009\u0009Totalt: %2$s</string>
      <string name="menu_cancel">Forkast</string>
      <string name="menu_delete">Slett APN</string>
      <string name="menu_duration_12h">12 timer</string>
@@ -1451,8 +1451,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_earbuds">Mi-ørepropper</string>
      <string name="music_dirac_mode_general">Generelle</string>
      <string name="music_dirac_mode_general_earbuds">Generelle øretelefoner</string>
-     <string name="music_dirac_mode_general_inear">Gennerelle i-øre</string>
-     <string name="music_dirac_mode_in_ear">Mi i-øre øretelefoner</string>
+     <string name="music_dirac_mode_general_inear">Generelle i-øre</string>
+     <string name="music_dirac_mode_in_ear">Mi i-øre</string>
      <string name="music_dirac_mode_piston_100">Mi piston-1</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
@@ -1509,8 +1509,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="no_notification_listeners">Ingen varselslyttere er installert.</string>
      <string name="no_running_services">Ingenting kjører.</string>
      <string name="no_services">Ikke aktiv</string>
-     <string name="no_update_found">Allerede den seneste versjonen</string>
-     <string name="no_updates_found">"Du kjører allerede den seneste versjonen av MIUI."</string>
+     <string name="no_update_found">Allerede den nyeste versjonen</string>
+     <string name="no_updates_found">"Du kjører allerede den nyeste versjonen av MIUI."</string>
      <string name="no_updates_warning">Ingen oppdateringer funnet for din enhet.</string>
      <string name="no_updates_warning2">"Slapp av, vi vil varsle deg om det er en oppdatering."</string>
      <string name="noise_suppression">Omgivelsesstøy-hindring</string>
@@ -1599,7 +1599,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="pref_button_light_summary">Meny, Hjem og Tilbake-knapp indikator</string>
      <string name="pref_operational_key">Operativknapp</string>
      <string name="pref_volume_wake_summary">Trykk på Volum-knappene vekker enheten</string>
-     <string name="pref_volume_wake_title">Vekk med volum-knapper</string>
+     <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>
      <string name="preference_change_password_title">Endre passord</string>
      <string name="preferred_app_settings">Standard app-innstillinger</string>
      <string name="preferred_app_settings_default">Standard</string>
@@ -1849,7 +1849,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="screen_compatibility_text">Denne appen er kanskje ikke utformet for skjermen din. Du kan kontrollere hvordan den justerer seg til skjermen her.</string>
      <string name="screen_key_long_press">Langt trykk på navigeringsknapper</string>
      <string name="screen_key_long_press_action">Utløs funksjon</string>
-     <string name="screen_key_long_press_timeout">Sett langt-trykk tide</string>
+     <string name="screen_key_long_press_timeout">Definer tid for langt trykk</string>
      <string name="screen_key_press">Trykk navigeringsknapper</string>
      <string name="screen_key_press_action">Utløs funksjon</string>
      <string name="screen_never_timeout_title">Aldri sov</string>
@@ -2037,6 +2037,7 @@ Muligens feil personlig kode."</string>
      <string name="small_font">Liten</string>
      <string name="sms_application_title">Standard SMS-app</string>
      <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
+
      <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
      <string name="sms_change_default_no_previous_dialog_text">Vil du bruke %s som SMS-app?</string>
      <string name="sms_delivered_sound_dialog_title">Choose text delivered sound</string>
@@ -2080,7 +2081,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_screen_key_back">Tilbake-knapp</string>
      <string name="status_bar_screen_key_home">Hjem-knapp</string>
      <string name="status_bar_screen_key_menu">Meny-knapp</string>
-     <string name="status_bar_screen_key_recent_apps">Seneste apper-knapp</string>
+     <string name="status_bar_screen_key_recent_apps">Nylige apper-knapp</string>
      <string name="status_bar_settings">Varsler</string>
      <string name="status_bar_settings_advanced">Flere innstillinger</string>
      <string name="status_bar_settings_all_app_display_loading">Laster…</string>
@@ -2174,8 +2175,8 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="sync_wifi_label">Wi-Fi</string>
      <string name="sync_wifi_only">Bare Wi-Fi</string>
      <string name="system">System</string>
-     <string name="system_app_settings">System apper</string>
-     <string name="system_backup_section_title">Sikkerhetskpoi</string>
+     <string name="system_app_settings">Systemapper</string>
+     <string name="system_backup_section_title">Sikkerhetskopi</string>
      <string name="system_package">Systemoppdateringer kan ikke installeres på eksterne medier.</string>
      <string name="system_storage">Intern lagring</string>
      <string name="system_update_settings_list_item_summary" />

@@ -549,7 +549,7 @@
         <item>Grønn</item>
         <item>Cyan</item>
         <item>Hvit</item>
-        <item>Violett</item>
+        <item>Fiolett</item>
      </string-array>
      <string-array name="led_color_values">
         <item>blue</item>
@@ -627,7 +627,7 @@
         <item>Rød</item>
         <item>Grønn</item>
         <item>Rosa</item>
-        <item>Violett</item>
+        <item>Fiolett</item>
         <item>Lilla</item>
      </string-array>
      <string-array name="mi1_led_color_values">
@@ -837,7 +837,7 @@ OBS: Bare for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="screen_key_long_press_action">
         <item>Ingen</item>
-        <item>Vis seneste apper brett</item>
+        <item>Vis oversikt over nylige apper</item>
         <item>Start Assistent</item>
         <item>Start Google Nå</item>
         <item>Lukk gjeldende app</item>

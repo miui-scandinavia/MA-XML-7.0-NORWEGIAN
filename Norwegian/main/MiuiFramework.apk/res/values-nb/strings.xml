@@ -119,7 +119,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="retrocession_day" />
      <string name="screen_button_notification_text">For å slå dem på, trykk Hjem og PÅ-knappene samtidig.</string>
      <string name="screen_button_notification_title">Navigeringsknapper er slått av</string>
-     <string name="screen_on_proximity_sensor_hint">For å slå av denne funksjonen, trkk Tilbake og Volum Opp-knappene samtidig.</string>
+     <string name="screen_on_proximity_sensor_hint">For å slå av denne funksjonen, trykk Tilbake og Volum Opp-knappene samtidig.</string>
      <string name="screen_on_proximity_sensor_summary">"Ikke dekk til det oransje området på skjermen"</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
      <string name="select">Velg</string>
