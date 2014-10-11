@@ -23,7 +23,7 @@
      <string name="clear_and_bright">Klart og lyst</string>
      <string name="cold_dews">Kalde dugg</string>
      <string name="copy">Kopier</string>
-     <string name="cut">Kutt</string>
+     <string name="cut">Klipp ut</string>
      <string name="day_following_good_friday">Dagen etter Langfredag</string>
      <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
      <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
@@ -106,7 +106,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="new_years_day" />
      <string name="no_notification_tips">Ingen varslinger</string>
      <string name="partys_day" />
-     <string name="paste">Kopier</string>
+     <string name="paste">Lim inn</string>
      <string name="peace_day" />
      <string name="perm_send_push_dspt">Tillat Xiaomi push-meldinger</string>
      <string name="perm_send_push_lab">Send push-melding</string>

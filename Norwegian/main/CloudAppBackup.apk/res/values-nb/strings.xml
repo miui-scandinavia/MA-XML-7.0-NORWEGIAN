@@ -26,7 +26,7 @@
   <string name="cloud_app_backup_progress">Tar sikkerhetskopi…</string>
   <string name="cloud_app_backup_size">Størrelse:</string>
   <string name="cloud_app_backup_success">App-sikkerhetskopi fullført</string>
-  <string name="cloud_app_backup_summary">Automatisk sikkerhetskopiere apper og brukerdata NAR telefonen lades og er tilkoblet Wi-Fi</string>
+  <string name="cloud_app_backup_summary">Automatisk sikkerhetskopiere apper og brukerdata når telefonen lades og er tilkoblet Wi-Fi</string>
   <string name="cloud_app_backup_title">Ta sikkerhetskopi til Mi Cloud</string>
   <string name="cloud_app_check_data">Henter data fra Mi Cloud…</string>
   <string name="cloud_app_check_data_fail">"Kunne ikke hente data fra Mi Cloud"</string>

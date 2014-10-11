@@ -314,7 +314,7 @@
      <string name="miui_bookmark_menu_edit_txt">Edit</string>
      <string name="miui_bookmark_menu_moveout_group_txt">Move out</string>
      <string name="miui_content_copy">Kopier</string>
-     <string name="miui_content_cut">Kutt</string>
+     <string name="miui_content_cut">Klipp ut</string>
      <string name="miui_content_paste">Lim inn</string>
      <string name="miui_content_select">Velg</string>
      <string name="miui_content_select_all">Velg alle</string>
@@ -649,8 +649,8 @@
      <string name="storage_internal">Intern lagring</string>
      <string name="storage_sd_card">SD-kort</string>
      <string name="storage_usb">USB-lagring</string>
-     <string name="sub_sync_item_browser_title_bookmark">Sync bookmark</string>
-     <string name="sub_sync_item_browser_title_bookmark_summary">Sync bookmark of browser</string>
+     <string name="sub_sync_item_browser_title_bookmark">Synk bokmerker</string>
+     <string name="sub_sync_item_browser_title_bookmark_summary">Synk nettleserens bokmerker</string>
      <string name="sub_sync_item_browser_title_cloud_tab">Synk faner</string>
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Synk åpne faner i nettleseren på flere enheter</string>
      <string name="sub_sync_item_browser_title_history">Synk historikk</string>
