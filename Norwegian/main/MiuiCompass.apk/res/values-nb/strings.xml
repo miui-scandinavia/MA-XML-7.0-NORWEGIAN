@@ -28,8 +28,11 @@
      <string name="location_enable">Aktiver</string>
      <string name="location_enable_later">Ikke nå</string>
      <string name="location_enabled">Tjenesten er aktivert, du kan deaktivere det i plasseringsinnstillinger</string>
+     <string name="location_north">NL</string>
      <string name="location_not_enabled_summary">Katalog trenger å finne din plassering for å fungere riktig.</string>
      <string name="location_not_enabled_title">Aktiver plasseringstjenester</string>
+     <string name="location_south">SL</string>
+     <string name="location_west">WL</string>
      <string name="longitude">LENGDE</string>
      <string name="menu_calibrate">Kalibrer</string>
      <string name="mobiledata_alert_dialog_message">Koble til internett for å kalibrere høyde?</string>
