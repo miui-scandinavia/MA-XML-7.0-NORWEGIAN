@@ -2087,7 +2087,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_custom_carrier">Endre navn på tjenestetilbyder</string>
      <string name="status_bar_settings_custom_notification">Administrer varsler</string>
      <string name="status_bar_settings_custom_wifi_name">Endre Wi-Fi-navn</string>
-     <string name="status_bar_settings_expandable_under_keyguard">Aktiver på låseskjerm</string>
+     <string name="status_bar_settings_expandable_under_keyguard">Vis på låseskjerm</string>
      <string name="status_bar_settings_no_carrier">Ingen</string>
      <string name="status_bar_settings_notification_bar">Varselskygge</string>
      <string name="status_bar_settings_show_carrier">Vis tjenestetilbyer</string>
@@ -2096,8 +2096,8 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
-     <string name="status_bar_settings_show_statusBar_notification">Vis i statuslinje</string>
-     <string name="status_bar_settings_show_statusBar_notification_summary">Varsel vil vises på toppen av skjermen og forsvinne automatisk</string>
+     <string name="status_bar_settings_show_statusBar_notification">Vis på låseskjermen og statuslinje</string>
+     <string name="status_bar_settings_show_statusBar_notification_summary">Vis varsler på låseskjerm og i statuslinjeforhåndsvisning</string>
      <string name="status_bar_settings_show_wifi_name">Vis Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Statuslinje</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Kollaps etter trykk</string>

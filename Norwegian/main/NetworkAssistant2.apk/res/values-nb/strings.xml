@@ -25,7 +25,7 @@
      <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.
 
 Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for overbruk."</string>
-     <string name="data_usage_disabled_dialog_enable">Aktiver data</string>
+     <string name="data_usage_disabled_dialog_enable">Databruksvarsel</string>
      <string name="data_usage_leisure_warning_body">Trykk for å vise detaljer for databruk</string>
      <string name="data_usage_leisure_warning_title">Minimum databruksgrense</string>
      <string name="data_usage_limit_body">Trykk for å aktivere mobildata</string>
@@ -34,7 +34,7 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="data_usage_mobile_limit_title">Mobildata har blitt deaktivert</string>
      <string name="data_usage_no_total_package_body">Vil du sette en grense for databruk?</string>
      <string name="data_usage_no_total_package_body_dual">Vil du sette en databruksgrense for %s?</string>
-     <string name="data_usage_no_total_package_title">Databruk</string>
+     <string name="data_usage_no_total_package_title">Ingen databruksgrense</string>
      <string name="data_usage_restricted_body">Trykk for å aktivere bakgrunnsdata</string>
      <string name="data_usage_restricted_title">Bakgrunnsdata begrenset</string>
      <string name="data_usage_warning_body">Trykk for å vise databruksdetaljer</string>
@@ -142,7 +142,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Rammeverkdetaljer</string>
      <string name="network_assistant_upgraded_body">Berør for å begrense databruk</string>
-     <string name="network_assistant_upgraded_title">Oppdatering fullført</string>
+     <string name="network_assistant_upgraded_title">Oppdatert</string>
      <string name="network_control">Vis innstillinger for app</string>
      <string name="none_mi_service_app_detail">Tom</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
@@ -191,8 +191,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_free_traffic_settings">Innstillinger for minimum databruk</string>
      <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
      <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-     <string name="pref_leisure_no_overlay">Aktivert</string>
-     <string name="pref_leisure_not_opened">Deaktivert</string>
+     <string name="pref_leisure_no_overlay">På</string>
+     <string name="pref_leisure_not_opened">Av</string>
      <string name="pref_manual_adjust">Sett databrukstatistikk manuellt</string>
      <string name="pref_month_begin_date">Dato for nullstilling av brukssyklus</string>
      <string name="pref_month_first_day">Første dagen i måneden</string>
@@ -226,7 +226,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_traffic_saving_whitelist_hint">"Disse appene sitt databruk vil ikke bli begrenset"</string>
      <string name="pref_version">Versjon %s</string>
      <string name="pref_warning_values">Grense for databruk</string>
-     <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
+     <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine &lt;a href=http://max.oupeng.com/eula.html&gt; Vilkår for bruk&lt;/a&gt;."</string>
      <string name="privacy_declare_dialog_title">Terms and Conditions</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
@@ -312,14 +312,14 @@ Regnskapet til operatøren din viser at du har brukt %1$s av ditt dataforbruket 
      <string name="traffic_saving_msg_month">Spart denne måneden:</string>
      <string name="traffic_saving_msg_not_started">Datasparing er av</string>
      <string name="traffic_saving_msg_today">Data spart i dag:</string>
-     <string name="traffic_saving_notify_start_content">%s spart denne måneden</string>
+     <string name="traffic_saving_notify_start_content">%s spart denne måneden.</string>
      <string name="traffic_saving_notify_start_title">Reduser din databruk</string>
-     <string name="traffic_saving_tecsupport">Drevet av Opera Max</string>
+     <string name="traffic_saving_tecsupport">Drevet av Opera</string>
      <string name="traffic_saving_title">Datasparing</string>
      <string name="traffic_saving_toast_start_mobile">Datasparing er på</string>
-     <string name="traffic_saving_toast_start_none_mobile">Datasparing vil brukes hver gang du bruker mobildata</string>
+     <string name="traffic_saving_toast_start_none_mobile">Datasparing vil starte hver gang du bruker mobildata</string>
      <string name="traffic_saving_toast_start_unreachable">"Kan ikke starte datasparing"</string>
-     <string name="traffic_saving_toast_stop">Datasparing er av </string>
+     <string name="traffic_saving_toast_stop">Datasparing er av</string>
      <string name="traffic_saving_whitelist_btn_add">Legg til</string>
      <string name="traffic_saving_whitelist_btn_add_app">Legg til</string>
      <string name="traffic_saving_whitelist_btn_added">Lagt til</string>
@@ -341,7 +341,7 @@ Regnskapet til operatøren din viser at du har brukt %1$s av ditt dataforbruket 
      <string name="traffic_setting_fragment_sms_content">Meldingsinnhold</string>
      <string name="traffic_setting_fragment_sms_content_tips">Skriv meldingen din her</string>
      <string name="traffic_setting_fragment_template">Meldingsmal</string>
-     <string name="traffic_setting_fragment_title">Innstillinger for spørring om databruk</string>
+     <string name="traffic_setting_fragment_title">Forespørsel om databruk</string>
      <string name="usage_sorted_activity_lable">Databruk</string>
      <string name="usage_sorted_empty_text">Tom</string>
      <string name="usage_sorted_loading_text">Laster…</string>
