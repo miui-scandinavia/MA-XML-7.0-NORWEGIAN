@@ -21,8 +21,8 @@
      <string name="Call_ADRESS">Anrop fra regionen</string>
      <string name="Call_BLACKLIST">Call blocklist</string>
      <string name="Call_DEFAULT">Smart blokkeringsliste</string>
-     <string name="Call_MODENAME">Default blocklist</string>
-     <string name="Call_PREFIX">Prefix blocklist</string>
+     <string name="Call_MODENAME">Standard blokkeringsliste</string>
+     <string name="Call_PREFIX">Prefiks-blokkeringsliste</string>
      <string name="Call_PRIVATE_CALL">Private anrop</string>
      <string name="NACaddnumcontent">Telefonnummer</string>
      <string name="NACaddnumtitle">Legg telefonnummer til unntakene</string>
@@ -35,6 +35,7 @@
      <string name="SMS_MODENAME">Standard blokkeringsliste</string>
      <string name="SMS_PREFIX">Blokkerte prefikser</string>
      <string name="SMSpass">Tilatt meldinger</string>
+     <string name="STRANGER_BLOCK">Blokkeringsliste for fremmede</string>
      <string name="ad_block_hint">%d blokkert</string>
      <string name="ad_install_monitor">Installasjonsovervåking</string>
      <string name="ad_install_monitor_hint">Sjekk etter adware under installering av apper</string>
@@ -58,16 +59,10 @@
      <string name="blacklist_prefix_add_hint">Blokker alle nummer som begynner med dette prefikset</string>
      <string name="block_message_number">SMS: %d</string>
      <string name="block_phone_number">Anrop: %d</string>
+     <string name="button_to_setting">Innstillinger</string>
      <string name="call_delete_hint">Slett alle blokkerte anrop fra valgte nummeret??</string>
      <string name="cancle">Avbryt</string>
      <string name="close_callwait">Av</string>
-     <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
-     <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
-     <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
-     <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
-     <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-     <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
-     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
      <string name="customizer_mode_user_define_name">Egendefinert</string>
      <string name="dlg_add_blacklist">Legg til nummeret i blokkeringsliste?</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s og %2$s andre kontakter er allerede på din unntaksliste.</string>
@@ -96,6 +91,7 @@
      <string name="dlg_import_blacklist">Importerer til blokkeringliste</string>
      <string name="dlg_import_whitelist">Legger til unntak…</string>
      <string name="dlg_keyword_ok">Lagre</string>
+     <string name="dlg_message_not_open_stranger_identify">Du trenger å aktivere Identifiser ukjente numre i Telefon &gt; Innstillinger, før du kan merke et nummmer.</string>
      <string name="dlg_no_block">"Ikke blokkere dette nummeret?"</string>
      <string name="dlg_no_block_ok">"Ikke blokker"</string>
      <string name="dlg_remove_address_blacklist">Fjern denne plasseringen fra blokkeringsliste og gjenopprett relaterte meldinger til innboks?</string>
@@ -107,6 +103,7 @@
      <string name="dlg_remove_whitelist_ing">Fjerner fra unntak…</string>
      <string name="dlg_retore">Gjenopprett til meldingsapp?</string>
      <string name="dlg_retore_ok">Gjenopprett</string>
+     <string name="dlg_title_not_open_stranger_identify">Aktiver Identifiser ukjente numre</string>
      <string name="dlg_white_address_antispam_message">Legg til plasseringen som unntak?</string>
      <string name="dlg_white_antispam_hint">Unntak</string>
      <string name="dlg_white_antispam_message">Legg til denne meldingen som unntak?</string>
@@ -123,6 +120,18 @@
      <string name="info_unantispam_sms">Tillat meldinger</string>
      <string name="label_callwait">Anrop venter</string>
      <string name="log_count">(%d)</string>
+     <string name="mark_agent">Salgsagent</string>
+     <string name="mark_agent_block">Markert som salgsagent</string>
+     <string name="mark_express">Bud</string>
+     <string name="mark_express_block">Merket som bud</string>
+     <string name="mark_fraud">Svindel</string>
+     <string name="mark_fraud_block">Merket som svindel</string>
+     <string name="mark_meal">Matleveranse</string>
+     <string name="mark_meal_block">Merket som matleveranse</string>
+     <string name="mark_number_info">"
+Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leilighet). Bare blokkér numre du ikke vil motta samtaler fram."</string>
+     <string name="mark_sell">Telefonsselger</string>
+     <string name="mark_sell_block">Merket som telefonnselger</string>
      <string name="marked_by_others">"%d andre brukere markerte den som "</string>
      <string name="marked_by_user">"Du markerte den som "</string>
      <string name="menu_add">Legg til</string>
@@ -254,6 +263,7 @@
      <string name="st_title_man_editwhitelist">Velg en plasseringskode til å legge til unntak</string>
      <string name="st_title_man_head_addblacklist">Legg til nummerprefiks i blokkeringsliste</string>
      <string name="st_title_man_head_addwhitelist">Legg nummerprefiks som unntak</string>
+     <string name="st_title_markednumber_group">Blokkeringsliste for merkede nummer</string>
      <string name="st_title_mode_choose_group">Velg modus</string>
      <string name="st_title_not_sim">Empty</string>
      <string name="st_title_open_antispam">Blokkeringsliste</string>

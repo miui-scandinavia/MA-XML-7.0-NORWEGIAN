@@ -709,6 +709,7 @@ venner."</string>
      <string name="mimetype">MIME-type</string>
      <string name="mishop_saved_folder_display_name">MiShop Lagret</string>
      <string name="miui_capture_screen_folder_display_name">Skjermbilder</string>
+     <string name="miui_wallpaper">Bakgrunnsbilde</string>
      <string name="modified_time">Tid endret</string>
      <string name="more">Mer</string>
      <string name="move">Flytt</string>
@@ -940,6 +941,7 @@ venner."</string>
      <string name="vignette">Vignette</string>
      <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
      <string name="wallpaper">Skrivebordsbakgrunn</string>
+     <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Hvor er QR-koden?</string>

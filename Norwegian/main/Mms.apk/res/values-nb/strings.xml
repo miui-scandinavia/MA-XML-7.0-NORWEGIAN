@@ -176,6 +176,7 @@
      <string name="has_invalid_recipient">Ugyldig mottaker(e): %1$s</string>
      <string name="hidden_sender_address">Skjult avsender</string>
      <string name="hint_search_sms">%d SMS</string>
+     <string name="hms_add_image_progress_message">Behandler…</string>
      <string name="hms_first_use_tips">For å motta servicemeldinger må du være tilkoblet et WiFi-nettverk</string>
      <string name="importing_progress_private_message">Importerer meldinger til privat samtale</string>
      <string name="in_sms">Melding</string>
@@ -191,6 +192,8 @@
      <string name="loading_mms">Laster inn MMS…</string>
      <string name="manage_permission_app_label">Enhethåndtering tillatelse</string>
      <string name="me">Meg</string>
+     <string name="menu_add_black">Blokker dette nummeret</string>
+     <string name="menu_add_contact">Legg til eksisterende kontakt</string>
      <string name="menu_call">Call</string>
      <string name="menu_compose_new">Ny</string>
      <string name="menu_contact">Contact</string>
@@ -198,7 +201,9 @@
      <string name="menu_edit">Rediger</string>
      <string name="menu_forward">Videresend</string>
      <string name="menu_lock">Lås melding</string>
+     <string name="menu_mark">Marker</string>
      <string name="menu_more">Mer</string>
+     <string name="menu_new_contact">Ny kontakt</string>
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
@@ -508,6 +513,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi."</string>
      <string name="user_agreement5">Ved å trykke OK, godkjenner du vilkårene skrevet i disse dokumentene.</string>
      <string name="view">Vis</string>
      <string name="view_bookmark">Vis original melding</string>
+     <string name="view_hms_attachment_fail">"Kan ikke laste ned bilde"</string>
      <string name="view_hms_details">Detaljer</string>
      <string name="view_message_details">Vis detaljer</string>
      <string name="wap_push_title">"[WAP Push] "</string>

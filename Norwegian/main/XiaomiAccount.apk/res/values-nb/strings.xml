@@ -97,6 +97,7 @@
      <string name="internet_comm">Meldingstjenester</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. Du kan vise denne siden på %s."</string>
      <string name="loading">Laster…</string>
+     <string name="loading_micloud_sync_data">Laster…</string>
      <string name="loading_mili_center">Laster…</string>
      <string name="login">Logg inn</string>
      <string name="login_failed">"Kan ikke logge inn"</string>

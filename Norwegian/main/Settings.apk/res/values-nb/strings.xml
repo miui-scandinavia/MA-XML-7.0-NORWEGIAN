@@ -942,6 +942,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="error_mnc_not23">MNC-feltet må være på to eller tre siffer.</string>
      <string name="error_name_empty">Navnefeltet kan ikke være tomt.</string>
      <string name="error_title" />
+     <string name="experimental_build">(Eksperimentell)</string>
      <string name="external_code_size_label">USB-lagringsvolum for app</string>
      <string name="external_data_size_label">USB-lagringsvolum for data</string>
      <string name="factory_reset_summary">"Fjern alle data fra telefonen din sin sitt interne lager"</string>
@@ -2037,7 +2038,6 @@ Muligens feil personlig kode."</string>
      <string name="small_font">Liten</string>
      <string name="sms_application_title">Standard SMS-app</string>
      <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
-
      <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
      <string name="sms_change_default_no_previous_dialog_text">Vil du bruke %s som SMS-app?</string>
      <string name="sms_delivered_sound_dialog_title">Choose text delivered sound</string>
@@ -2108,6 +2108,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_toggle_layout_style_compact">Linje</string>
      <string name="status_bar_settings_toggle_layout_style_single_page">Side</string>
      <string name="status_bar_style_settings">Varsler</string>
+     <string name="status_bar_toggle_arrangement">Administrer brytere</string>
      <string name="status_bt_address">Bluetooth-adresse</string>
      <string name="status_data_state">Datatilgang</string>
      <string name="status_icc_id">ICCID</string>
@@ -2543,16 +2544,16 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wallpaper_settings_title">Bakgrunnsbilde</string>
      <string name="welcome">Velkommen</string>
      <string name="wfd_available_devices">Tilgjengelige enheter</string>
-     <string name="wfd_disconnect_diag_msg">Hvis du stopper Wi-Fi-skjermsesjonen, vil din tilkobling til %1$s bli avsluttet.</string>
-     <string name="wfd_disconnect_diag_title">Koble fra sesjon?</string>
-     <string name="wfd_disconnect_multiple_diag_message">Hvis du stopper Wi-Fi-skjermsesjonen, vil tilkoblingen din til  %1$s og %2$s andre enheter bli avsluttet.</string>
-     <string name="wfd_enable_wifi_diag_title">Du kan bare bruke Wi-Fi-skjerm når Wi-Fi er aktivert. Aktiver den nå?</string>
-     <string name="wfd_enabler_title">Aktiver Wi-Fi-skjerm</string>
+     <string name="wfd_disconnect_diag_msg">Din tilkobling til %1$s vil bli avsluttet.</string>
+     <string name="wfd_disconnect_diag_title">Koble fra skjerm?</string>
+     <string name="wfd_disconnect_multiple_diag_message">Tilkoblingen din til %1$s og %2$s andre enheter vil bli avsluttet.</string>
+     <string name="wfd_enable_wifi_diag_title">Skru på Wi-Fi?</string>
+     <string name="wfd_enabler_title">Aktiver trådløs skjerm</string>
      <string name="wfd_menu_search">Søk etter enheter</string>
      <string name="wfd_menu_searching">Søker…</string>
      <string name="wfd_menu_teardown">Stopp</string>
-     <string name="wfd_settings_description">Koble til skjerm via Wi-Fi</string>
-     <string name="wfd_settings_title">Wi-Fi-skjerm</string>
+     <string name="wfd_settings_description">Koble til en skjerm via Wi-Fi</string>
+     <string name="wfd_settings_title">Trådløs skjerm</string>
      <string name="wfd_wps_keypad">Dytteknapp foretrukket</string>
      <string name="wfd_wps_pbc">PIN foretrukket</string>
      <string name="widget_picker_title">Velg skrivebordselement</string>
@@ -2645,7 +2646,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_menu_more_options">Flere alternativer</string>
      <string name="wifi_menu_p2p">Wi-Fi Direct</string>
      <string name="wifi_menu_scan">Skann</string>
-     <string name="wifi_menu_wfd">Wi-Fi-skjerm</string>
+     <string name="wifi_menu_wfd">Trådløs skjerm</string>
      <string name="wifi_menu_wps_pbc">Knapp for auto. WPS-lev.</string>
      <string name="wifi_menu_wps_pin">Skriv inn WPS-kode</string>
      <string name="wifi_more">Se mer</string>
@@ -2885,5 +2886,4 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="zone_auto_summaryOn">Bruk nettverkets egen tidssone</string>
      <string name="zone_list_menu_sort_alphabetically">Sorter alfabetisk</string>
      <string name="zone_list_menu_sort_by_timezone">Sorter etter tidssone</string>
-     <string name="status_bar_toggle_arrangement">Administrer brytere</string>
 </resources>

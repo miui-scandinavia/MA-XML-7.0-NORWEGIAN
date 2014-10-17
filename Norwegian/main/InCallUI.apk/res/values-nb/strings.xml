@@ -294,6 +294,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="list_language_dtitle">Språk</string>
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
+     <string name="livetalk_provider_info">Tilbudt av %s</string>
      <string name="load_networks_progress">Søker…</string>
      <string name="local_disable">Lokalnyheter deaktivert</string>
      <string name="local_enable">Lokalnyheter aktivert</string>

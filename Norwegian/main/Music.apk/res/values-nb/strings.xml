@@ -115,6 +115,7 @@
      <string name="fragment_title_channel">FM</string>
      <string name="fragment_title_recommend">Redaktørens valg</string>
      <string name="function_error">"Dette er flaut! Denne funksjonen er ennå ikke lansert (vi jobber med det)."</string>
+     <string name="headset_settings">Headset-innstillinger</string>
      <string name="high_quality">Høy kvalitet</string>
      <string name="higher_quality_music">Høykvalitetslyd</string>
      <string name="higher_quality_music_summary">Strøm og last ned filer med høyere bitrate</string>

@@ -8,10 +8,23 @@
      <string name="alert_notif_title_dspt">Synker ikke</string>
      <string name="app_name">Mi Cloud</string>
      <string name="app_sync_off">App synk av</string>
+     <string name="apple_10gb">20GB</string>
+     <string name="apple_cloud">Apple skytjeneste</string>
+     <string name="apple_cloud_eng">iCloud</string>
+     <string name="apple_cloud_price">Rundt RMB 72 i året</string>
      <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
+     <string name="buy_space_sulotion_auto_renew">Forny automatisk</string>
+     <string name="buy_space_sulotion_message">Du vil kjøpe %sGB plass</string>
+     <string name="buy_space_sulotion_not_auto_renew">Ikke forny automatisk</string>
+     <string name="buy_space_sulotion_renew_message">Gyldig i %s</string>
+     <string name="buy_space_sulotion_renew_title">Velg metode for fornyingy</string>
+     <string name="buy_space_sulotion_title">Skylagringsløsning</string>
      <string name="cloud_find_device">Finn enhet</string>
+     <string name="cloud_space_upgrade_message">Klikk for å få %s GB gratis plass denne måneden</string>
+     <string name="cloud_space_upgrade_no_quota_info">Ugyldig data, prøv igjen senere</string>
+     <string name="cloud_space_upgrade_title">Hent gratis skylagringsplass!</string>
      <string name="cloud_sync_setting_summary_standard">Bruk din mobildatatilkobling for å synke SMS, kontaktinfo, og anropslogger. Bruk Wi-Fi for å synke bilder, videoer, MMS, app innhold, profilbildene til kontakter, og mer.</string>
      <string name="cloud_sync_setting_summary_wlan">Bare synk når tilkoblet Wi-Fi</string>
      <string name="cmcc_micloud_dspt">Bruk Mi Cloud for å synkronisere data, finne din enhet,</string>
@@ -35,7 +48,7 @@
      <string name="error_title">"Kunne ikke synke"</string>
      <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
-     <string name="find_device">Finn enhet er på</string>
+     <string name="find_device">Finn enhet</string>
      <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen innstillingene til Mi Cloud</string>
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
@@ -59,7 +72,15 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="find_device_success_title">Finn enhet</string>
      <string name="finish">OK</string>
      <string name="flight_mode">Flymodus</string>
+     <string name="free_space_has_received">Gratis lagringsplass har allerede blitt mottatt denne måneden</string>
+     <string name="free_space_receive_fail">"Kan ikke oppgradere eller har allerede oppgradert"</string>
      <string name="full_space">Ikke nok plass</string>
+     <string name="get_first_month_gb">Hent %s gratis lagringsplass for første gang</string>
+     <string name="get_this_month_gb">Hent %s gratis lagringsplass denne måneden</string>
+     <string name="google_100gb">100GB</string>
+     <string name="google_cloud">Google Drive</string>
+     <string name="google_cloud_eng">Google Drive</string>
+     <string name="google_cloud_price">Rundt RMB 143 i året</string>
      <string name="header_data_and_synchronization">Data &amp; synk</string>
      <string name="header_other_settings">Andre</string>
      <string name="i_know">OK</string>
@@ -93,6 +114,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_stop">Stopp synk</string>
      <string name="micloud_more">Lær mer</string>
+     <string name="micloud_other_product_price">Pris på andre lignende produkter:</string>
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
@@ -103,7 +125,7 @@ brukt %s | gjenværende %s"</string>
      <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense!"</string>
      <string name="micloud_unlogin_for_time_summary" />
      <string name="micloud_unlogin_for_time_title">Aktiver Mi Cloud</string>
-     <string name="micloud_upgrade_space">Få mer lagringsplass</string>
+     <string name="micloud_upgrade_space">Kjøp mer lagringsplass</string>
      <string name="micloud_user_space_title">Lagringsplass</string>
      <string name="micloud_user_space_usage">Plass brukt</string>
      <string name="micloud_warn_full_sum">"Nye elementer vil ikke bli synket med din MiCloud-konto."</string>
@@ -112,6 +134,10 @@ brukt %s | gjenværende %s"</string>
      <string name="micloud_warn_low_title">Nesten tom for plass…</string>
      <string name="micloud_web_discription_01">Logg inn på https://i.mi.com</string>
      <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer overalt</string>
+     <string name="microsoft_cloud">Microsoft Cloud Service</string>
+     <string name="microsoft_cloud_eng">One Drive</string>
+     <string name="microsoft_cloud_price">Rundt RMB 80 i året</string>
+     <string name="more_activity_in_upgrade_space">Lær mer hos &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
      <string name="mx_dspt">Mi-melding</string>
      <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
 
@@ -142,8 +168,9 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="sub_alert_notif_title">Synker ikke</string>
      <string name="sub_sync_item_sms_summary">Reduserer databruk</string>
      <string name="sub_sync_item_sms_title_wifi_only">Synk av MMS: Bare Wi-Fi</string>
+     <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
-     <string name="sync_dspt">Aktiver synkronisering</string>
+     <string name="sync_dspt">Synk</string>
      <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilde, SMSer, notater og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">mi.com/micloud</string>
@@ -169,7 +196,14 @@ Du kan skru funksjonen av og på når som helst i Innstillinger.
      <string name="sync_sub_int_dspt">Vanlige internasjonale datakostnader gjelder ved sending av aktiveringstekstmelding</string>
      <string name="system_sync_off">Systemsynk av</string>
      <string name="title_reg">Opprett en konto</string>
+     <string name="total_space_upgraded_to">Total plass:%s</string>
      <string name="unactivated_user">Deaktivert</string>
+     <string name="upgrade_space">Legg til plass</string>
+     <string name="upgrade_space_gb">GB</string>
+     <string name="upgrade_space_mibipreyear">%s Mi Kreditt per år</string>
+     <string name="upgrade_space_successful">oppgradering vellykket %sGB</string>
+     <string name="upgrade_space_successful_total">Total lagringsplass oppgradert til %sGB</string>
+     <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Brukerbetingelser</string>
      <string name="user_agreement_p6">"Bruken av denne funksjonen er underlagt "</string>
      <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>

@@ -23,6 +23,7 @@
      <string name="activity_main_update_time_right_now">Akkurat nå</string>
      <string name="activity_weather_main_null_data">- -</string>
      <string name="activity_weathermain_locationg">Finner plassering…</string>
+     <string name="activity_weathermain_locationg_error">Kunne ikke plassere</string>
      <string name="add_city">Legg til lokasjon</string>
      <string name="app_label">Værtilbyder</string>
      <string name="app_name">Vær</string>
@@ -35,7 +36,7 @@
      <string name="aqi_quality_index_pure">AQI %1$s</string>
      <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="button_abandon">Forkast endringer</string>
-     <string name="button_allow">Tillatt</string>
+     <string name="button_allow">Tillat</string>
      <string name="button_not_allow">Nekt</string>
      <string name="edit_city">Endre</string>
      <string name="gps_hint">Gjeldende plassering</string>

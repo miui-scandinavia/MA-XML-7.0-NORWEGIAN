@@ -84,6 +84,7 @@
      <string name="enable_encrypt_summery2">"Dine backups vil bli kryptert automatisk. Du må logge inne på din Mi-konto for å få tilgang til krypterte backups."</string>
      <string name="enable_encrypt_title">Aktiver Kryptering</string>
      <string name="enable_encrypt_xiaomi_account">Denne backupen er laget av %1$s. For å gjenopprette, slett den gjeldende kontoen og logg inn som %2$s.</string>
+     <string name="every_day">Hver dag</string>
      <string name="exchange_account">Bytt konto</string>
      <string name="fail">Backup mislyktes</string>
      <string name="findlost_contact">Gjenopprett slettede kontakter</string>
@@ -106,6 +107,7 @@
      <string name="miliao_account_login">Logg inn med Mi Talk</string>
      <string name="mms_title">MMS-meldinger</string>
      <string name="multi_select_title">%1$s elementer valgt</string>
+     <string name="never">Aldri</string>
      <string name="no_encrypt_password">Ingen passord</string>
      <string name="no_network">Ingen nettverksforbindelse. Kontroller innstillinger og prøv igjen</string>
      <string name="note_title">Notater</string>
