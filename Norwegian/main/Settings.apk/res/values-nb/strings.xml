@@ -148,10 +148,8 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="app_factory_reset_dlg_text">Alle oppdateringer i denne Android-systemappen vil bli avinstallert.</string>
      <string name="app_factory_reset_dlg_title">Vil du avinstallere oppdateringer?</string>
      <string name="app_feedback">Rapporter feil</string>
-     <string name="app_floating_window_dlg_disable">"Deaktivering av %1$s sine flytende vindu-innstillinger vil stoppe denne appen.
-Deaktiver flytende vinduer?"</string>
-     <string name="app_floating_window_dlg_enable">"Aktivering av %1$s sine flytende vindu-innstilinger krever at appen restartes. Du kan også stoppe kjøring av appen manuelt.
-Aktiver flytende vinduer?"</string>
+     <string name="app_floating_window_dlg_disable">"Å skru av %1$s sine flytende vindu-innstillinger krever at appen startes på nytt."</string>
+     <string name="app_floating_window_dlg_enable">"Å skru av %1$s sine flytende vindu-innstillinger krever at appen startes på nytt."</string>
      <string name="app_forward_locked">Appen er kopibeskyttet.</string>
      <string name="app_install_location_summary">Endre foretrukket plassering for installasjon av nye apper</string>
      <string name="app_install_location_title">Foretrukket installeringssted</string>
@@ -873,7 +871,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dolby_bassboost_normal">Normal</string>
      <string name="dolby_bassboost_title">Bass:</string>
      <string name="dolby_effects">Dolby-effekter</string>
-     <string name="dolby_eq_enter_alert_msg">Du kan bare bruke EQen i Dolby-musikkmodus. Skru på nå?</string>
+     <string name="dolby_eq_enter_alert_msg">Skru på Dolby-musikkmodus for å bruke EQ?</string>
      <string name="dolby_eq_enter_alert_title">Skru på Dolby-musikk</string>
      <string name="dolby_mode_movie">Video</string>
      <string name="dolby_mode_music">Musikk</string>
@@ -910,7 +908,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="enable_adb_summary">Debug-modus når USB er koblet til</string>
      <string name="enable_compatibility">Skalér app</string>
      <string name="enable_drive_mode">Bilmodus</string>
-     <string name="enable_mobile_data_when_opening_hotspot">Aktiver mobildatatilkobling også?</string>
+     <string name="enable_mobile_data_when_opening_hotspot">Skru på mobildatatilkobling også?</string>
      <string name="enable_opengl_traces_title">Aktiver OpenGL-spor</string>
      <string name="enable_service_title">Vil du bruke %1$s?</string>
      <string name="enable_snapshot_screenlock">Langt trykk på Tilbake for å ta bilde</string>
@@ -959,8 +957,8 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="finish_application">PL</string>
      <string name="finish_button_label">Fullfør</string>
      <string name="firmware_version">Android-versjon</string>
-     <string name="floating_window_switch_label">Aktiver flytende vinduer</string>
-     <string name="floating_window_switch_label_disable">Deaktiver flytende vinduer</string>
+     <string name="floating_window_switch_label">Skru på flytende vinduer</string>
+     <string name="floating_window_switch_label_disable">Skru av flytende vinduer</string>
      <string name="font_size_huge">Veldig stor</string>
      <string name="font_size_large">Stor</string>
      <string name="font_size_medium">Medium</string>
@@ -1000,7 +998,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="free_wifi_summary">Trykk for å koble til %1$s.</string>
      <string name="free_wifi_user_agreement">Når du bruker WiWide for å koble til et nettverk, vil telefonnummeret ditt bli brukt til å verifiserer din identitet.</string>
      <string name="free_wifi_user_agreement_allow">Godta</string>
-     <string name="free_wifi_user_agreement_title">Vilkår for bruk</string>
+     <string name="free_wifi_user_agreement_title">Advarsel om personvern</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
      <string name="frequently_fragment_delete">Fjern</string>
      <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>
@@ -1447,18 +1445,18 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="msg_wlan_signal_found">Koble til %s?</string>
      <string name="mtp_ptp_mode_summary">MTP eller PTP-funksjonen er aktiv</string>
      <string name="multi_touch_points_category_title">Multi-touch punkter</string>
-     <string name="multi_touch_points_preference">Start på nytt for å aktivere</string>
-     <string name="music_audio_effect_settings">Innstillinger for lydeffekter</string>
+     <string name="multi_touch_points_preference">Denne innstillingen vil trå  i kraft når du har startet enheten på nytt</string>
+     <string name="music_audio_effect_settings">Lydeffekt-innstillinger</string>
      <string name="music_dirac_mode_earbuds">Mi-ørepropper</string>
      <string name="music_dirac_mode_general">Generelle</string>
-     <string name="music_dirac_mode_general_earbuds">Generelle øretelefoner</string>
+     <string name="music_dirac_mode_general_earbuds">Generelle</string>
      <string name="music_dirac_mode_general_inear">Generelle i-øre</string>
      <string name="music_dirac_mode_in_ear">Mi i-øre</string>
      <string name="music_dirac_mode_piston_100">Mi piston-1</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-     <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+     <string name="music_dirac_mode_piston_youth">Mi ungdom</string>
      <string name="music_equalizer">Equalizer</string>
-     <string name="music_headphone_settings">Innstillinger for øretelefon-type</string>
+     <string name="music_headphone_settings">Velg øretelefon-type</string>
      <string name="music_headset_button_settings">Tildel knapper</string>
      <string name="music_headset_calibrate">Tildel knapper</string>
      <string name="music_headset_calibrate_apply">Bruk</string>
@@ -1602,10 +1600,10 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="pref_volume_wake_summary">Trykk på Volum-knappene vekker enheten</string>
      <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>
      <string name="preference_change_password_title">Endre passord</string>
-     <string name="preferred_app_settings">Standard app-innstillinger</string>
+     <string name="preferred_app_settings">Standarer</string>
      <string name="preferred_app_settings_default">Standard</string>
      <string name="preferred_app_settings_reset">Gjenopprett standarder</string>
-     <string name="preferred_app_settings_reset_message">Gjenopprett standard app innstillinger?</string>
+     <string name="preferred_app_settings_reset_message">Standard app-innstillinger vil bli gjenopprettet til MIUI sine fabrikkinnstillinger</string>
      <string name="preferred_application_title">Foretrukket %s</string>
      <string name="preferred_application_warning_message">Å bytte ut din standard %1$s kan øke strømforbruketn, redusere ytelse, og sette enheten din sitt innhold i fare. Bruk %2$s istedet.</string>
      <string name="preferred_application_warning_replace">Bytt</string>
@@ -2158,7 +2156,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="sync_calendar">Kalender</string>
      <string name="sync_contacts">Kontakter</string>
      <string name="sync_disabled">Synkronisering er av</string>
-     <string name="sync_enable">Enable auto sync</string>
+     <string name="sync_enable">Synk</string>
      <string name="sync_enabled">Synkronisering er på</string>
      <string name="sync_error">Synkroniseringsfeil</string>
      <string name="sync_failed">Synkroniseringen mislyktes</string>
@@ -2677,7 +2675,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_password">Passord</string>
      <string name="wifi_poor_network_detection">Unngå dårlige tilkoblinger</string>
      <string name="wifi_poor_network_detection_summary">Ikke bruk et Wi-Fi-nettverk med mindre det har en brukbar Internett-tilkobling</string>
-     <string name="wifi_priority_changed" formatted="false">Gammel prioritetsverdi = %s, ny verdi = %s</string>
+     <string name="wifi_priority_changed" formatted="false">Gammel verdi = %s | Ny verdi = %s</string>
      <string name="wifi_priority_label">Prioritet</string>
      <string name="wifi_priority_settings_label">Innstillinger for prioritet</string>
      <string name="wifi_priority_settings_summary">Trykk for å sette prioriteten til hvert aksesspunkt</string>
