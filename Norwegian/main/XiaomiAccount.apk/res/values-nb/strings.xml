@@ -16,7 +16,7 @@
      <string name="account_not_activated">"Kontoen er ikke aktivert"</string>
      <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , Mi Talk</string>
      <string name="account_sec_dspt2" />
-     <string name="account_settings">Kontoinstillinger</string>
+     <string name="account_settings">Konto</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
      <string name="add_account">Legg til konto</string>
@@ -57,7 +57,7 @@
      <string name="dirty_mms_count">%d meldinger</string>
      <string name="dirty_note_count">%d notater</string>
      <string name="email_already_be_used">Denne epostadressen er allerede tilknyttet en annen konto.</string>
-     <string name="email_or_id_hint_text">Email or Mi Account ID</string>
+     <string name="email_or_id_hint_text">E-post eller Mikonto-ID</string>
      <string name="email_reg_success_summary">%1$s har blitt lagt til din konto. Du kan bruke det for å logge inn eller tilbakestille passordet.</string>
      <string name="enable_sync">Slå på</string>
      <string name="enable_sync_dspt">Synkronisering er av</string>
@@ -71,7 +71,7 @@
      <string name="error_phone_error">Ugyldig telefonnummer</string>
      <string name="error_server">Serverfeil</string>
      <string name="error_sim_not_ready">"Kan ikke finne SIMkort"</string>
-     <string name="error_ssl_hand_shake">Enheten din har problemer med å kontakte våre servere. Prøv å stille dato/tid til nåverende tidspunkt</string>
+     <string name="error_ssl_hand_shake">Enheten din har problemer med å kontakte våre servere. Prøv å stille date og tid så det stememr med din gjeldende plassering</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
@@ -105,7 +105,7 @@
      <string name="login_notice">Logger inn…</string>
      <string name="login_step2_title">2-trinns-verifikasjon</string>
      <string name="login_title">Logg inn på din Mi-konto</string>
-     <string name="login_with_email_or_id">&lt;u&gt;Sign in with another account&lt;/u&gt;</string>
+     <string name="login_with_email_or_id">&lt;u&gt;Logg inn med annen konto&lt;/u&gt;</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester med én konto.</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi-konto</string>
@@ -152,7 +152,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="micloud_password_req_notice">Passordet må være minst 8-16 tegn og inneholde både tall og bokstaver (skill mellom store og små bokstaver).</string>
      <string name="micloud_reg_new">Opprett Mi-konto</string>
      <string name="micloud_resend_active_email">Send aktiverings-epost på nytt</string>
-     <string name="micloud_space_info">%s gjenstår</string>
+     <string name="micloud_space_info">%s tilgjengelig</string>
      <string name="micloud_sync_info">"%d elementer er ikke synkronisert"</string>
      <string name="micloud_sync_info_synced">Synkronisert</string>
      <string name="micloud_user_base_info">Brukerinformasjon</string>
