@@ -953,7 +953,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="filter_apps_running">Kjører</string>
      <string name="filter_apps_third_party">Tredjeparts</string>
      <string name="filter_dlg_title">Velg filteralternativer</string>
-     <string name="finish_application">PL</string>
+     <string name="finish_application">Tving avslutning</string>
      <string name="finish_button_label">Fullfør</string>
      <string name="firmware_version">Android-versjon</string>
      <string name="floating_window_switch_label">Skru på flytende vinduer</string>
