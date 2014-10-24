@@ -280,16 +280,6 @@
      <integer-array name="maps_starting_zoom">
         <item>3</item>
      </integer-array>
-     <string-array name="mobile_operator_display_names">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-        <item>China Telecom</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-     </string-array>
      <string-array name="networkAttributes">
         <item>wifi,1,1,1,-1,true</item>
         <item>mobile,0,0,0,-1,true</item>

@@ -147,7 +147,6 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="app_factory_reset">Avinstaller oppdateringer</string>
      <string name="app_factory_reset_dlg_text">Alle oppdateringer i denne Android-systemappen vil bli avinstallert.</string>
      <string name="app_factory_reset_dlg_title">Vil du avinstallere oppdateringer?</string>
-     <string name="app_feedback">Rapporter feil</string>
      <string name="app_floating_window_dlg_disable">"Å skru av %1$s sine flytende vindu-innstillinger krever at appen startes på nytt."</string>
      <string name="app_floating_window_dlg_enable">"Å skru av %1$s sine flytende vindu-innstillinger krever at appen startes på nytt."</string>
      <string name="app_forward_locked">Appen er kopibeskyttet.</string>
@@ -175,7 +174,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="application_item_permission">Tillat</string>
      <string name="application_restrictions">Tillat apper og innhold</string>
      <string name="application_size_label">App</string>
-     <string name="applications_settings">Apper</string>
+     <string name="applications_settings">Flere innstillinger</string>
      <string name="applications_settings_header">Innstillinger for app</string>
      <string name="applications_settings_summary">Administrer apper, angi snarveier for hurtigstart</string>
      <string name="apply_now_button_text">Oppdater</string>
@@ -1050,7 +1049,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="header_category_device">ENHET</string>
      <string name="header_category_personal">PRIVAT</string>
      <string name="header_category_system">SYSTEM</string>
-     <string name="header_category_wireless_networks">TRÅDLØST OG NETTVERK</string>
+     <string name="header_category_wireless_networks">Nettverk</string>
      <string name="header_data_and_synchronization">Data og synkronisering</string>
      <string name="heavy_weight_stop_description">Denne appen kan ikke stoppes på en trygg måte. Hvis du stopper den, kan du miste noe av arbeidet du holder på med.</string>
      <string name="help_label">Hjelp</string>
@@ -1147,7 +1146,6 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="language_settings_category">Språkinnstillinger</string>
      <string name="large_font">Stor</string>
      <string name="last_synced">Sist synkronisert %1$s</string>
-     <string name="later">Start på nytt senere</string>
      <string name="launch_count_label">Antall</string>
      <string name="launching_cit">Åpner CIT</string>
      <string name="launching_pho">Åpner telefoninformasjon, vennligst vent.</string>
@@ -1200,6 +1198,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="lock_intro_message">Lock_intro_message</string>
      <string name="lock_screen_unlock_show">Deaktiver sveipeskjerm</string>
      <string name="lock_screen_unlock_show_summary">Gå direkte til startskjermen eller passordinnskrivning når enheten våkner</string>
+     <string name="lock_settings">Låseskjerm</string>
      <string name="lock_settings_common_title">Låsinnstillinger</string>
      <string name="lock_settings_picker_settings">Sett skjermlås</string>
      <string name="lock_settings_picker_title">Velg skjermlås</string>
@@ -1362,7 +1361,6 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="menu_stats_total">Total bruk</string>
      <string name="menu_stats_unplugged">%1$s siden strømmen ble frakoblet</string>
      <string name="menu_use_uss">Bruk Uss</string>
-     <string name="mione_update_success_title">Oppdatering fullført</string>
      <string name="miracast_PC2THOR_streaming_on">Miracast er utilgjengelig fordi en PC strømmer til denne enheten</string>
      <string name="miracast_cancelconnect_dialog">Avbryt tilkobling</string>
      <string name="miracast_connection_failed_generic">Tilkoblingen mislyktes</string>
@@ -1541,6 +1539,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="onscreen_keyboard_settings_summary">Innstillinger for skjermtastatur</string>
      <string name="open_wifi_connect_summary">Trykk for å håndtere</string>
      <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
+     <string name="other_advanced_settings">Flere innstillinger</string>
+     <string name="other_personal_settings">Flere innstillinger</string>
      <string name="other_relative">Andre</string>
      <string name="overlay_display_devices_title">Simulering av sekundærskjermer</string>
      <string name="owner_info_settings_edit_text_hint">Skriv inn teksten som skal vises på låseskjermen</string>
@@ -1733,7 +1733,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="radioInfo_service_out">Ute av serviceperiode</string>
      <string name="radioInfo_unknown">ukjent</string>
      <string name="radio_controls_summary">Administrer Wi-Fi, Bluetooth, flymodus, mobilnettverk og VPN</string>
-     <string name="radio_controls_title">Mer</string>
+     <string name="radio_controls_title">Flere innstillinger</string>
      <string name="radio_info_band_mode_label">Velg radiobånd</string>
      <string name="radio_info_call_redirect_label">Samtaleomdirigering:</string>
      <string name="radio_info_call_status_label">Samtalestatus:</string>
@@ -2047,7 +2047,6 @@ Muligens feil personlig kode."</string>
      <string name="sort_order_alpha">Sorter etter navn</string>
      <string name="sort_order_size">Sorter etter størrelse</string>
      <string name="sound_category_call_ringtone_vibrate_title">Anropsringetone og vibrering</string>
-     <string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
      <string name="sound_category_notification_title">Varsler</string>
      <string name="sound_category_sound_title">Generelt</string>
      <string name="sound_category_system_title">System</string>
@@ -2095,6 +2094,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_flow_info">Vis strømdetaljer</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
+     <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
      <string name="status_bar_settings_show_statusBar_notification">Vis på låseskjermen og statuslinje</string>
      <string name="status_bar_settings_show_statusBar_notification_summary">Vis varsler på låseskjerm og i statuslinjeforhåndsvisning</string>
@@ -2106,7 +2106,6 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_toggle_layout_style_compact">Linje</string>
      <string name="status_bar_settings_toggle_layout_style_single_page">Side</string>
      <string name="status_bar_style_settings">Varsler</string>
-     <string name="status_bar_toggle_arrangement">Administrer brytere</string>
      <string name="status_bt_address">Bluetooth-adresse</string>
      <string name="status_data_state">Datatilgang</string>
      <string name="status_icc_id">ICCID</string>
@@ -2293,7 +2292,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="unlock_set_unlock_launch_picker_change_summary">Endre eller deaktiver mønster, personlig kode eller passordsikkerhet</string>
      <string name="unlock_set_unlock_launch_picker_change_title">Endre skjermlås</string>
      <string name="unlock_set_unlock_launch_picker_enable_summary">Velg en metode for å låse skjermen</string>
-     <string name="unlock_set_unlock_launch_picker_title">Skjermlås</string>
+     <string name="unlock_set_unlock_launch_picker_title">Låseskjerm</string>
      <string name="unlock_set_unlock_mode_biometric_weak">Ansiktslås</string>
      <string name="unlock_set_unlock_mode_none">Dra sidelengs</string>
      <string name="unlock_set_unlock_mode_off">Ingen</string>
@@ -2440,7 +2439,6 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="vibrate_input_devices">Bruk vibrering</string>
      <string name="vibrate_input_devices_summary">Viderefør vibrering til spillkontrolleren hvis den er koblet til.</string>
      <string name="vibrate_when_ringing_title">Vibrer når det ringer</string>
-     <string name="view_install_log">Vis feil-logg</string>
      <string name="virus_scan">Virusskann</string>
      <string name="virus_scan_app_continue">Fortsett skann</string>
      <string name="virus_scan_app_find_risk">%d risikoer funnet</string>
@@ -2864,6 +2862,8 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wimax_settings">4G</string>
      <string name="window_animation_scale_title">Animasjonsskala for vindu</string>
      <string name="wireless_networks_settings_title">Trådløst og nettverk</string>
+     <string name="wireless_off">Av</string>
+     <string name="wireless_on">På</string>
      <string name="wizard_back">Tilbake</string>
      <string name="wizard_finish">Fullfør</string>
      <string name="wizard_next">Neste</string>

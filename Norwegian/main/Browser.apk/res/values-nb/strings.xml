@@ -78,7 +78,6 @@
      <string name="block_ads_choice_continue">Fortsett</string>
      <string name="block_ads_message">Vil du blokkere meldinger fra dette nettstedet?</string>
      <string name="block_ads_title">Innhold kan inneholde reklame</string>
-     <string name="bookmark_URL_already_exisit">"Du har allerede bokmerket denne URlen"</string>
      <string name="bookmark_add_group_text_header">Legg til valgte %1$d i gruppe</string>
      <string name="bookmark_add_to">Legg til</string>
      <string name="bookmark_cannot_save_url">"Denne URLen kan ikke bokmerkes."</string>
@@ -88,7 +87,6 @@
      <string name="bookmark_needs_title">Bokmerke trenger et navn.</string>
      <string name="bookmark_needs_url">Bokmerke trenger en URL.</string>
      <string name="bookmark_not_saved">"Kunne ikke lagre bokmerket."</string>
-     <string name="bookmark_page">Bokmerk siste viste side</string>
      <string name="bookmark_rename_group">Rename group</string>
      <string name="bookmark_saved">Lagret til bokmerker.</string>
      <string name="bookmark_this_page_to_readmodelist">Legg til side i leselisten</string>
@@ -97,6 +95,7 @@
      <string name="bookmark_to_readmodelist_not_saved">"Kunne ikke lagre til leseliste."</string>
      <string name="bookmark_to_readmodelist_saved">Lagret til leseliste.</string>
      <string name="bookmark_url">URL</string>
+     <string name="bookmark_url_already_exisit">"Du har allerede bokmerket denne URLen"</string>
      <string name="bookmark_url_lable">URL</string>
      <string name="bookmark_url_not_valid">"Ugyldig URL."</string>
      <string name="bookmarks">Bokmerker</string>
@@ -423,7 +422,6 @@
      <string name="pref_development_normal_rendering">Normal gjengivelse</string>
      <string name="pref_development_reset_prelogin">Nullstill prelogin</string>
      <string name="pref_development_single_column_rendering">Enkelt kolonne gjengivelse</string>
-     <string name="pref_development_title">Debug</string>
      <string name="pref_development_trace">Aktiver sporing</string>
      <string name="pref_development_viewport">Bruk bred viewport</string>
      <string name="pref_development_visual_indicator">Aktivér visuel indikator</string>
@@ -463,7 +461,6 @@
      <string name="pref_inverted">Omvendt skjermvisning</string>
      <string name="pref_inverted_category">Omvend skjermvisning</string>
      <string name="pref_inverted_contrast">Kontrast</string>
-     <string name="pref_inverted_summary">sort blir hvit og omvendt</string>
      <string name="pref_key_gesture_title">Knapper og berøringer</string>
      <string name="pref_key_title">Knapp-innstillinger</string>
      <string name="pref_link_prefetch_dialogtitle">Forhåndslast nettsteder</string>
@@ -473,7 +470,6 @@
      <string name="pref_link_prefetch_value_never">NEVER</string>
      <string name="pref_link_prefetch_value_never_summary">Aldri tillat nettleseren å forhåndslaste linkede nettsteder i bakgrunnen</string>
      <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-     <string name="pref_min_font_size">Mindste skriftstørrelse</string>
      <string name="pref_min_font_size_value">%d pkt</string>
      <string name="pref_other_title">Other</string>
      <string name="pref_privacy_clear_cache">Tøm cache</string>
@@ -516,7 +512,6 @@
      <string name="pref_security_show_security_warning_summary">"Vis advarsel, hvis det er et problem med sikkerhetssertifikatet til et nettsted"</string>
      <string name="pref_set_homepage_to">satt til</string>
      <string name="pref_setting_title">Sideinnstillinger</string>
-     <string name="pref_text_zoom">Tekstskalering</string>
      <string name="pref_ua_mione_entry">MiOne</string>
      <string name="pref_ua_mione_value">4</string>
      <string name="pref_ua_string">Brukeragent-string</string>
@@ -547,8 +542,9 @@
      <string name="profiler_stopped_toast">Profiler ferdig. Resultater er i %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Setter bakgrunn...</string>
      <string name="qr_code_title">QR Code</string>
-     <string name="quicklink_not_saved">"Couldn't add to start page"</string>
-     <string name="quicklink_saved">Added to start page</string>
+     <string name="quicklink_bookmark_save">Lagre til</string>
+     <string name="quicklink_not_saved">"Kunne ikke legge på startside"</string>
+     <string name="quicklink_saved">Lagt på startside</string>
      <string name="quicklink_saved_before">Side lagt til i startside</string>
      <string name="quicklink_user_define_webpage_title">Navn</string>
      <string name="quicklink_user_define_webpage_url">URL</string>

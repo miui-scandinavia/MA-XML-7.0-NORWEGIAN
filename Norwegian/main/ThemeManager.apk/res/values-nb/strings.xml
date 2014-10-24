@@ -22,7 +22,6 @@
      <string name="close">Lukk</string>
      <string name="component_category_finest_title">Utvalgte</string>
      <string name="component_category_more_title">Mer</string>
-     <string name="default_name">Standard</string>
      <string name="deleting">Sletter...</string>
      <string name="description_author">Forfatter:</string>
      <string name="description_designer">Designer:</string>
@@ -44,7 +43,6 @@
      <string name="lockscreen_wallpaper">Låseskjerm</string>
      <string name="lockstyle_personal_settings">Tilpasning</string>
      <string name="long_ringtone_resource">Lang (&gt;5sek)</string>
-     <string name="maml_component_customization_title">Komponent-innstillinger</string>
      <string name="mi_wallpaper">Bakgrunn</string>
      <string name="online_no_network">Kunne ikke koble til nettverk</string>
      <string name="online_search_hint">Søk etter online elementer</string>

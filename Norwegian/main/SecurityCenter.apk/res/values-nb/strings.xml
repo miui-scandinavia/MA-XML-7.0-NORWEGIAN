@@ -64,8 +64,8 @@
      <string name="battery_history_minutes">%1$dm %2$ds</string>
      <string name="battery_history_minutes_no_seconds">%1$dm</string>
      <string name="battery_history_seconds">%1$ds</string>
-     <string name="brightness_auto_adjust_off">Bakgrunnslys vil forbli konstant i alle lysforhold</string>
-     <string name="brightness_auto_adjust_on">Bakgrunnslys vil endres i forhold til lysforhold</string>
+     <string name="brightness_auto_adjust_off">Lysstyrke vil forbli konstant i alle lysforhold</string>
+     <string name="brightness_auto_adjust_on">Optimaliser lysstyrke for alle tilgjengelige lys</string>
      <string name="btn_text_cleanup_all">Rydd opp</string>
      <string name="btn_text_done">Ferdig</string>
      <string name="btn_text_quick_cleanup">Rydd opp</string>
@@ -74,6 +74,8 @@
      <string name="btn_text_start_check">Sjekk</string>
      <string name="btn_text_stop">Stopp</string>
      <string name="btn_text_virus_scan">Skann</string>
+     <string name="button_antivirus">OK</string>
+     <string name="button_optimizer">OK</string>
      <string name="button_text_accept">Godkjenn</string>
      <string name="button_text_accept_timer">Godkjenn (%d)</string>
      <string name="button_text_add_to_white_list">Legg til som unntak</string>
@@ -173,6 +175,8 @@
      <string name="handle_text_cache">Mellomlager</string>
      <string name="handle_text_memory">Minne</string>
      <string name="handle_text_system">System</string>
+     <string name="header_antivirus">"Ved å bruke denne funksjonen, godtar du Tencent sine "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Tjenestevilkår&lt;/a&gt;.</string>
+     <string name="header_optimizer">"Ved å bruke denne funksjonen, godtar du Clean Master sine "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Tjenestevilkår&lt;/a&gt;.</string>
      <string name="hints_ad_header_left">Reklamefiler: %d</string>
      <string name="hints_apk_header_left">Installerte pakker: %d</string>
      <string name="hints_apk_version">Versjon: %s</string>
@@ -237,7 +241,7 @@
      <string name="hints_scan_result_virus">Virus oppdaget</string>
      <string name="hints_scanning_virus_by_cloud">sky-skanning pågår…</string>
      <string name="hints_storage_free">Ledig</string>
-     <string name="hints_title_garbage">Søppel</string>
+     <string name="hints_title_garbage">søppel</string>
      <string name="hints_unknown_virus_name">Ukjent</string>
      <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
      <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -273,6 +277,9 @@
      <string name="last_checked_date2">Skannet for %d dager siden</string>
      <string name="last_checked_default">Skannet %s dager siden</string>
      <string name="legal_workday">Helligdag</string>
+     <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
+     <string name="legal_workday_invalidate_message">(Data expired,click to update interconnection)</string>
+     <string name="legal_workday_message">(Skip holidays smartly)</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
      <string name="menu_item_about_content">Versjon: %s</string>
      <string name="menu_item_about_summary">Versjon: %s</string>
@@ -509,12 +516,14 @@
      <string name="pref_summary_expand_cache_group">Utvid elementer i mellomlagringslisten automatisk</string>
      <string name="pref_summary_garbage_cleanup_check_size">Gi meg et varsel når Søppelbøtta når en viss størrelse</string>
      <string name="pref_summary_garbage_cleanup_check_time">Planlegg en rutinemessing varsel for søppelstørrelse</string>
+     <string name="pref_summary_open_optimizer_cloud_scan">Last opp og sammenlign ukjente filnavn med nettdefinisjoner</string>
      <string name="pref_title_auto_update_cleanup_db">Oppdater automatisk</string>
      <string name="pref_title_cleanup_white_list">Unntak</string>
      <string name="pref_title_expand_cache_group">Vis mellomlagrede elementer</string>
      <string name="pref_title_garbage_cleanup_check_size">Søppelalarm-størrelse</string>
      <string name="pref_title_garbage_cleanup_check_time">Søppelalarm</string>
      <string name="pref_title_manual_check_cleanup_db_update">Oppdater nå</string>
+     <string name="pref_title_open_optimizer_cloud_scan">Bruk nettbasert ryddemotor</string>
      <string name="preference_key_about_version">key_about_version</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
@@ -536,6 +545,7 @@
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_module_power_center">module_power_center</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
+     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
      <string name="preference_key_permission_manager">key_permission_manager</string>
@@ -564,17 +574,22 @@
      <string name="score_pts">%</string>
      <string name="settings_title_permission">Tillatelsesinnstilinger</string>
      <string name="st_title_mode_choose_group">Velg profil</string>
-     <string name="suffix_virus_count_bottom">Total</string>
-     <string name="suffix_virus_count_top">Risikoer</string>
+     <string name="suffix_virus_count_bottom">total</string>
+     <string name="suffix_virus_count_top">risikoer</string>
+     <string name="summary_antivirus">Last opp og skann app-navn og detaljer ved bruk av virusdefinisjoner fra nettet</string>
      <string name="summary_dev">Hindre apper i å få tilgang til brukerdata</string>
      <string name="summary_install_virus">Sjekker apper for virus før installasjon</string>
      <string name="summary_mms">Filtrer uønskede meldinger (salg, reklame, osv.)</string>
+     <string name="summary_optimizer">Last opp og sammenlign ukjente mappenavn ved hjelp av definisjoner fra nettet</string>
      <string name="summary_permission">Beskytt mitt personvern fra potiensielt skadelige tredjeparts apper</string>
      <string name="summary_usb">Unngå virus som sprer seg fra andre enheter</string>
      <string name="summary_virus">Fant %2$d virus</string>
      <string name="summary_virus_update">Oppdater virusdefinisjoner automatisk når tilkoblet WLAN</string>
      <string name="system_check_content">%1$d mistenkelige elementer</string>
      <string name="system_header_title">Frigjør %1$d prosesser for å frigjøre %2$s av minnet</string>
+     <string name="text_antivirus">Bruk virusdefinisjoner fra nettet</string>
+     <string name="text_optimizer">Bruk nettbasert ryddingsmotor</string>
+     <string name="title_antivirus">Virus-skann</string>
      <string name="title_app_update_no">%d apper har oppdateringer ventende</string>
      <string name="title_app_update_yes">Alle apper er oppdaterte!</string>
      <string name="title_data_flow_no">Databruksovervåker er av</string>
@@ -587,6 +602,7 @@
      <string name="title_miui_update_yes">MIUI er oppdatert!</string>
      <string name="title_mms_no">Meldingsfilter er av</string>
      <string name="title_mms_yes">Meldingsfilter er på</string>
+     <string name="title_optimizer">Opprydder</string>
      <string name="title_permission_no">Tillatelsesovervåking er av</string>
      <string name="title_permission_yes">Tillatelsesovervåking er på</string>
      <string name="title_show_notification_no">"Ikke vis i varselskygge"</string>

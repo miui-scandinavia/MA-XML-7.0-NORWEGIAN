@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Glad</item>
+        <item>Lei seg</item>
+        <item>Blunke</item>
+        <item>Tungen stikker ut</item>
+        <item>Overrasket</item>
+        <item>Kysser</item>
+        <item>Skriker</item>
+        <item>Kul</item>
+        <item>Pengemunn</item>
+        <item>Fot i munnen</item>
+        <item>Flau</item>
+        <item>Engel</item>
+        <item>Usikker</item>
+        <item>Gråter</item>
+        <item>Munnen er lukket</item>
+        <item>Ler</item>
+        <item>Forvirret</item>
+        <item>Hjrte</item>
+        <item>Gal</item>
+        <item>Smirk</item>
+        <item>Pokerfjes</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 gang</item>
+        <item>2 ganger</item>
+        <item>3 ganger</item>
+        <item>5 ganger</item>
+        <item>10 ganger</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Navn</item>
+        <item>Kallenavn</item>
+        <item>Telefon</item>
+        <item>Epost</item>
+        <item>Bedrift</item>
+        <item>IM</item>
+        <item>SIP-tlefon</item>
+        <item>Fødselsdag</item>
+        <item>Hjemmeside</item>
+        <item>Adresse</item>
+        <item>Notat</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Mottatt</item>
+        <item>Sendt</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi-melding</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi-melding</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Annet</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Alltid</item>
+        <item>Kun når lydløs</item>
+        <item>Aldri</item>
+    </string-array>
+</resources>

@@ -216,7 +216,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_title_traffic_speed_state">Vis nettverkshastighet</string>
      <string name="pref_title_update_notification">Vis databrukvarsler</string>
      <string name="pref_traffic_saving_issue">FAQ</string>
-     <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Vil aktivering av datasparing påvirke mitt personvern? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Hvorfor fungerer ikke datasparing? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
+     <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Vil aktivering av datasparing påvirke mitt personvern? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Hvorfor fungerer ikke datasparing? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
      <string name="pref_traffic_saving_notify_switch">Vis i varslingsskygge</string>
      <string name="pref_traffic_saving_notify_switch_hint">Vis datasparingsinfo i varslingsskyggen</string>
      <string name="pref_traffic_saving_switch">Datasparing</string>

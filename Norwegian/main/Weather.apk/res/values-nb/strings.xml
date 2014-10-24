@@ -23,7 +23,7 @@
      <string name="activity_main_update_time_right_now">Akkurat nå</string>
      <string name="activity_weather_main_null_data">- -</string>
      <string name="activity_weathermain_locationg">Finner plassering…</string>
-     <string name="activity_weathermain_locationg_error">Kunne ikke plassere</string>
+     <string name="activity_weathermain_locationg_error">"Kan ikke plassere"</string>
      <string name="add_city">Legg til lokasjon</string>
      <string name="app_label">Værtilbyder</string>
      <string name="app_name">Vær</string>
@@ -50,7 +50,7 @@
      <string name="network_unavailable">Ingen nettverk detektert</string>
      <string name="view_aqi_main_no_data">N/A</string>
      <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-     <string name="view_aqi_pubtime">Oppdatert: %1$s</string>
+     <string name="view_aqi_pubtime">Oppdatert %1$s</string>
      <string name="view_aqi_pubtime_format">HH:mm, MMM dd</string>
      <string name="view_aqi_source">Kinas nasjonale miljøovervåkningssenter</string>
      <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>

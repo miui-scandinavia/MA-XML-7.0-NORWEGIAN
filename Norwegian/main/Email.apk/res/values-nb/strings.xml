@@ -362,6 +362,7 @@
      <string name="downlaod_nonWifi_confirm_message">Bruke mobildata på å laste ned dette vedlegget?</string>
      <string name="download_again">Last ned på nytt</string>
      <string name="download_before_sharing">" er ikke ferdig å laste ned enda"</string>
+     <string name="download_before_view">"It hasn't been downloaded yet, please download it firstly!"</string>
      <string name="download_cancel_confirm_title">Nedlasting vil bli avbrutt.</string>
      <string name="download_complete_not_cancel">Nedlasting fullført</string>
      <string name="download_confirm_message">Last ned %1$s vedlegg?</string>
@@ -468,10 +469,13 @@
      <string name="invalid_recipient">The address %s is invalid.</string>
      <string name="kilobytes">%s KB</string>
      <string name="label_notification_ticker" formatted="false">%s: %s</string>
+     <string name="load_from_remote">Continue to search on the server</string>
      <string name="load_more">Load more</string>
      <string name="loading_conversation">Loading…</string>
      <string name="loading_conversations">Loading…</string>
+     <string name="loading_from_remote">Searching on the server...</string>
      <string name="local_search">Local search</string>
+     <string name="local_search_result">%s emails found from all the local emails</string>
      <string name="login">Login</string>
      <string name="login_failed_ticker">%s logg inn mislyktes.</string>
      <string name="login_failed_title">Logg inn mislyktes</string>
@@ -625,6 +629,9 @@ CC: %4$s
      <string name="password_expired_dialog_content_fmt">Data for %s slettes fra telefonen. Du kan gjenopprette dem ved å skifte din låseskjerms PIN eller passord. Skift nå?</string>
      <string name="password_expired_dialog_title">Låseskjerms passord utløpt</string>
      <string name="password_expired_ticker">Ditt passord eller PIN til låseskjermen er utløpt.</string>
+     <string name="perference_change_pw">Update password</string>
+     <string name="perference_change_pw_notnull_tips">Password can not be empty</string>
+     <string name="perference_change_pw_ok_tips">Password update sucess</string>
      <string name="permission_access_provider_desc">Tillater dette programmet adgang til din epostdatabase, inklusiv mottatte meldinger, sendte meldinger, brukernavn og passord.</string>
      <string name="permission_access_provider_label">Adgang til data fra eposttilbyder</string>
      <string name="permission_read_attachment_desc">Tillater dette programmet å lese dine epostvedlegg.</string>
@@ -679,6 +686,7 @@ CC: %4$s
      <string name="preferences_signature_dialog_title">Signature</string>
      <string name="preferences_signature_summary_not_set">Not set</string>
      <string name="preferences_signature_title">Signature</string>
+     <string name="prefetched_got_it">"I've got it"</string>
      <string name="preview_attachment">Preview</string>
      <string name="previous_action">Tilbake</string>
      <string name="prompt_title">Prompt</string>
@@ -708,6 +716,8 @@ CC: %4$s
      <string name="refreshing_done">Synchroniztion complete</string>
      <string name="release_to_refresh">Release to refresh</string>
      <string name="remote_folders_heading">Server Folders</string>
+     <string name="remote_search">All the emails on the server</string>
+     <string name="remote_search_result">%s emails found from all the emails on the server</string>
      <string name="remove_account">Remove account</string>
      <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPS Mail.</string>
      <string name="remove_folder">Remove from %1$s</string>

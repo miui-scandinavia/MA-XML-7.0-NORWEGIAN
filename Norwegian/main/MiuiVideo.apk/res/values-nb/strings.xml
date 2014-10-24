@@ -73,9 +73,15 @@
      <string name="count_ge_media">%d videoer</string>
      <string name="count_ge_result">%d resultater</string>
      <string name="count_ji_quan">Alle %d episoder</string>
+     <string name="datastream_alert_download">Using your mobile data connection to download videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
+     <string name="datastream_alert_negative_button">Cancel</string>
+     <string name="datastream_alert_positive_button">Download</string>
+     <string name="datastream_alert_title">Data usage warning</string>
      <string name="day">Dag</string>
      <string name="declaration">Vilkår for bruk</string>
-     <string name="declaration_content">Ved å bruke denne tjenesten, aksepterer du &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt; fastsatt av Sohu Video, iQiyi, og andre leverandører av videoinnhold.</string>
+     <string name="declaration_allow">Godkjenn</string>
+     <string name="declaration_content">"Ved å bruke denne tjenesten, godkjenner du Sohu Video, iQiyi og andre tjenestetilbydere sine "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt;.</string>
      <string name="declaration_content_td_custom">Tillater du at vi kobler til internettet når du bruker video?</string>
      <string name="defaults">Default</string>
      <string name="delete">Slett</string>
@@ -193,6 +199,8 @@
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
      <string name="prefix_countdown">Reklame gjenstående</string>
+     <string name="priority_storage">Use external SD card</string>
+     <string name="priority_storage_summary">Automatically save to external SD card if available</string>
      <string name="qiyi">iQiyi</string>
      <string name="rank">Topp videoer</string>
      <string name="receive_mipush">Push-varsler</string>
@@ -256,6 +264,8 @@
      <string name="upgrade">Oppgrader</string>
      <string name="use_cellular_network">bruk cellulært nettverk</string>
      <string name="use_cellular_network_summary">bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
+     <string name="use_cellular_play_summary">Show notification when using mobile network to watch or download video</string>
+     <string name="use_cellular_play_title">Data usage notification</string>
      <string name="userdata_alert_content">Bruk av mobildatatilkobling får å vise videoer vil øke ditt dataforbruj. Hvis du går over abonnementets databrukgrense, kan operatøren din belaste deg avgifter.</string>
      <string name="userdata_alert_ok">Spill av</string>
      <string name="userdata_alert_title">Databrukvarsel</string>
@@ -281,6 +291,8 @@
      <string name="vp_closedialog">Installer</string>
      <string name="vp_confirm">Installer</string>
      <string name="vp_content_description">Beskrivelse</string>
+     <string name="vp_datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
+     <string name="vp_datastream_alert_play">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
      <string name="vp_device_list">Enheter</string>
      <string name="vp_download_connect_fail">"Kunne ikke finne URL. Sjekk datatilkoblingen og prøv igjen</string>
      <string name="vp_download_file_fail">"Kunne ikke laste ned fil. Vær sikker på at du har nok lagringsplass på enhetens internlager eller SD-kort."</string>

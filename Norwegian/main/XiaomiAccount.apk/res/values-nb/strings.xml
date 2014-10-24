@@ -57,6 +57,7 @@
      <string name="dirty_mms_count">%d meldinger</string>
      <string name="dirty_note_count">%d notater</string>
      <string name="email_already_be_used">Denne epostadressen er allerede tilknyttet en annen konto.</string>
+     <string name="email_or_id_hint_text">Email or Mi Account ID</string>
      <string name="email_reg_success_summary">%1$s har blitt lagt til din konto. Du kan bruke det for å logge inn eller tilbakestille passordet.</string>
      <string name="enable_sync">Slå på</string>
      <string name="enable_sync_dspt">Synkronisering er av</string>
@@ -79,7 +80,6 @@
      <string name="failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="find_device_dspt">Lås eller fjern innhold fra denne enheten eksternt</string>
      <string name="find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
-     <string name="foreign_login">&lt;u&gt;Legg til landskode&lt;/u&gt;</string>
      <string name="forget_password">&lt;u&gt;Glemt passord&lt;/u&gt;</string>
      <string name="get_back_pwd">Hent kontopassord</string>
      <string name="get_verify_code">Motta kode</string>
@@ -93,7 +93,6 @@
      <string name="input_vcode_hint">Skriv inn verifikasjonskoden</string>
      <string name="input_vcode_prompt">Skriv inn verifikasjonskoden</string>
      <string name="input_verify_code_hint">Skriv inn verifikasjonskoden</string>
-     <string name="int_phone_user_notice">Legg til landskoden når du bruker et mobiltelefonnummer for å logge inn.</string>
      <string name="internet_comm">Meldingstjenester</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. Du kan vise denne siden på %s."</string>
      <string name="loading">Laster…</string>
@@ -106,6 +105,7 @@
      <string name="login_notice">Logger inn…</string>
      <string name="login_step2_title">2-trinns-verifikasjon</string>
      <string name="login_title">Logg inn på din Mi-konto</string>
+     <string name="login_with_email_or_id">&lt;u&gt;Sign in with another account&lt;/u&gt;</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester med én konto.</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi-konto</string>
@@ -211,7 +211,6 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="remove_unactivated_account_notice">"Kontoen din er ikke aktivert."</string>
      <string name="removing_account">Logg ut…</string>
      <string name="scan_barcode_title">Scan QR-koden for å logge inn på din Mi-konto</string>
-     <string name="seperator_forget_and_foreign">" | "</string>
      <string name="service_error">Tjenestefeil</string>
      <string name="show_password">Vis passord</string>
      <string name="sim_changed_notification_content">"SIM-kort har ikke blitt aktivert"</string>

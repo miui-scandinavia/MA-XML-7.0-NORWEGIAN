@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_fraud_num_online_identification">Om denne funksjonen</string>
+     <string name="about_fraud_num_online_identification">Om blokkering av telefonselgere</string>
      <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
      <string name="about_telephone_fraud">Om telefonsvindel</string>
      <string name="account_address">Adresser</string>
@@ -198,7 +198,6 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="mark_number_custom_dialog_maintitle">Samtykk eller korrige merke</string>
      <string name="mark_number_dialog_maintitle">Marker som spam nummer og last opp</string>
      <string name="mark_title_null_hint">Inndata kan ikke være tom</string>
-     <string name="menu_about_yellow_page">Om denne siden</string>
      <string name="menu_add_black_list">Legg til i svarteliste</string>
      <string name="menu_add_to_favorite">Legg til i favoritter</string>
      <string name="menu_call_ip_number">Ring IP-samtale</string>
