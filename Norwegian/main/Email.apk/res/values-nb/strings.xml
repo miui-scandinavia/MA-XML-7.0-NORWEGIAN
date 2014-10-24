@@ -397,7 +397,7 @@
      <string name="failed">"Couldn't load image"</string>
      <string name="feedback">Send tilbakemelding</string>
      <string name="feedback_body">Melding</string>
-     <string name="feedback_sent">Thank you for your feedback<</string>
+     <string name="feedback_sent">Thank you for your feedback</string>
      <string name="fetching_attachment">Getting attachment</string>
      <string name="file_deleted_success">File deleted</string>
      <string name="file_not_found">"Can't find file"</string>
