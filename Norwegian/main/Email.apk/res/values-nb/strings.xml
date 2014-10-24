@@ -680,7 +680,7 @@ CC: %4$s
      <string name="preference_sender_image_title">Profile pictures</string>
      <string name="preference_swipe_description">Swipe left to star or delete a conversation in your inbox</string>
      <string name="preference_swipe_title_archive">Swipe to archive</string>
-     <string name="preference_swipe_title_delete">Swipe to star or delete<</string>
+     <string name="preference_swipe_title_delete">Swipe to star or delete</string>
      <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
      <string name="preferences_default_reply_all_title">Reply all</string>
      <string name="preferences_signature_dialog_title">Signature</string>
