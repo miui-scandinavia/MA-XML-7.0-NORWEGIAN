@@ -104,7 +104,7 @@
      <string name="toast_max_record_time">%1$s kan ta opp rundt %2$s</string>
      <string name="toast_uninstall_fileexplorer">Fileutforsker ikke installert!</string>
      <string name="view_list_of_recordings">Vis opptak</string>
-     <string name="wifi_recommended_body">Bruk av mobildatatilkobling for å laste ned denne filen (%s) vil øke ditt dataforbruk. Hvis du overskrider abonnementets databruksgrense, kan operatøren din belaste deg ytterlige avgifter. Vil du vente på en Wi-Fi-forbindelse for å laste ned denne filen, trykk %s.</string>
+     <string name="wifi_recommended_body" formatted="false">Bruk av mobildatatilkobling for å laste ned denne filen (%s) vil øke ditt dataforbruk. Hvis du overskrider abonnementets databruksgrense, kan operatøren din belaste deg ytterlige avgifter. Vil du vente på en Wi-Fi-forbindelse for å laste ned denne filen, trykk %s.</string>
      <string name="wifi_recommended_title">Databruksvarsel</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
