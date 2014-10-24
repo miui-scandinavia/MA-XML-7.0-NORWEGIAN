@@ -75,8 +75,9 @@
      <string name="activate_status_title_activating">Aktiverer SIM-kortet ditt</string>
      <string name="activate_status_title_activating_msim">Aktiverer SIM-kortet ditt %s</string>
      <string name="app_name">Xiaomi-tjenesterammeverk</string>
-     <string name="error_device_id_message">Noen konto og sky-funksjoner vil være utilgjengelige</string>
-     <string name="error_device_id_title">"Kan ikke hente IMEI-nummer"</string>
+     <string name="error_device_id_message">"Ugyldig Enhet-ID: %s
+Enhet-ID må være en gyldig IMEI eller MAC-addresse. Uten en Enhet-ID vil noen noen konto- og skytjenester være utilgjengelige."</string>
+     <string name="error_device_id_title">"Kan ikke hente gyldig Enhet-ID"</string>
      <string name="sim_unactivated_title">SIM-kortet ditt er uaktivert</string>
      <string name="xmsf_activate_info">XMSF-aktiveringsinfo</string>
 </resources>

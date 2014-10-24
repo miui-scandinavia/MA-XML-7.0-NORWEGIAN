@@ -2094,7 +2094,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_flow_info">Vis strømdetaljer</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
-     <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
+     <string name="status_bar_settings_show_notification_icon">Vis varselikon</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
      <string name="status_bar_settings_show_statusBar_notification">Vis på låseskjermen og statuslinje</string>
      <string name="status_bar_settings_show_statusBar_notification_summary">Vis varsler på låseskjerm og i statuslinjeforhåndsvisning</string>

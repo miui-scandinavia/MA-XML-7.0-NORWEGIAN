@@ -48,6 +48,9 @@
      <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret</string>
      <string name="always_use_device">Bruk som standard for denne USB-enheten</string>
      <string name="app_label">Statuslinje</string>
+     <string name="audio_effect_custom">Konfigurer</string>
+     <string name="audio_effect_info">Optimaliser lyd</string>
+     <string name="audio_effect_settings">Sett hodetelefon-type</string>
      <string name="battery_low_percent_format">%d%% eller mindre igjen</string>
      <string name="battery_low_subtitle">Batterinivået er lavt</string>
      <string name="battery_low_title">Koble til lader</string>
