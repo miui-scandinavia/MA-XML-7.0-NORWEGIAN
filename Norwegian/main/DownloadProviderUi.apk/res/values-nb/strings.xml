@@ -134,8 +134,8 @@
      <string name="xunlei_brand">Drevet av Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
      <string name="xunlei_gaosu">Xunlei-nedlastningsakselerator</string>
-     <string name="xunlei_member_annual_fee">Ett år</string>
-     <string name="xunlei_member_one_month">1 måned</string>
+     <string name="xunlei_member_annual_fee">Årlig</string>
+     <string name="xunlei_member_one_month">Månedlig</string>
      <string name="xunlei_speed_service">Xunlei-nedlastningsakselerator</string>
      <string name="xunlei_switch">Xunlei-nedlastningsmotor</string>
 </resources>

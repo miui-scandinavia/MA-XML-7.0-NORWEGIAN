@@ -9,11 +9,11 @@
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
      <string name="input_method_category">"Velg standard inndatametode du vil bruke når du skriver e-poster, notater, og alt annet. Du kan installere tredjeparts tastaturer senere</string>
      <string name="input_method_setting">Velg inndatametode</string>
-     <string name="locale_picker_desc">"Hvis du vil endre plasseringen din senere, må du utføre en tilbakestilling til fabrikkinnstillinger."</string>
+     <string name="locale_picker_desc">"Hvis du vil endre plasseringen din senere, må du tilbakestille enheten til sine fabrikkinnstillinger."</string>
      <string name="locale_picker_title">Velg din plassering</string>
      <string name="logo_congratulation">"Du er klar!"</string>
-     <string name="miui_privacy_policy_no_network">Ingen nettverksforbindelse. Vis erklæring om personvern på %s</string>
-     <string name="miui_terms_no_network">Ingen nettverksforbindelse. Vis vilkårene for bruk på %s</string>
+     <string name="miui_privacy_policy_no_network">"Du har ingen nettverksforbindelse. Vis erklæring om personvern hos %s."</string>
+     <string name="miui_terms_no_network">>"Du har ingen nettverksforbindelse. Vis vilkår for bruk hos %s."</string>
      <string name="multisim_settings_category">Innstillinger for foretrukket SIM-kort</string>
      <string name="multisim_settings_title">Oppdaget 2 SIM-kort</string>
      <string name="network_access_warning">Du må koble til internett for å aktivere Mi-tjenester.</string>
@@ -38,7 +38,7 @@
      <string name="sim_redetection">Sjekk for SIM-kort igjen</string>
      <string name="summary_not_set">Ikke satt</string>
      <string name="summary_sim_card">Kort%1$d%2$s</string>
-     <string name="terms_of_service">Vilkår for bruk</string>
+     <string name="terms_of_service">Vilkår og betingelser</string>
      <string name="terms_of_use">Vilkår for bruk</string>
      <string name="terms_of_use_label">"Ditt personvern er veldig viktig for oss. Vennligst les vilkårene for bruk
      og erklæringen om personvern for å forstå hvilken informasjon vi

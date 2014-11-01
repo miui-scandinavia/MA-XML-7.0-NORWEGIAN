@@ -36,8 +36,8 @@
      <string name="aqi_quality_index_pure">AQI %1$s</string>
      <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="button_abandon">Forkast endringer</string>
-     <string name="button_allow">Tillat</string>
-     <string name="button_not_allow">Nekt</string>
+     <string name="button_allow">OK</string>
+     <string name="button_not_allow">Avbryt</string>
      <string name="edit_city">Endre</string>
      <string name="gps_hint">Gjeldende plassering</string>
      <string name="loading_weather">Laster vær...</string>

@@ -242,6 +242,12 @@
         <item>2</item>
         <item>3</item>
      </string-array>
+     <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
+     </string-array>
      <string-array name="voicemail_notification_vibrate_when_values">
         <item>always</item>
         <item>silent</item>

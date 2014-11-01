@@ -958,6 +958,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="set_default">Sett standard</string>
      <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
      <string name="share_error">Denne kontakten kan ikke deles</string>
+     <string name="share_over_limit">"Over grensen, kan ikke deles"</string>
      <string name="share_via">Del kontakt via</string>
      <string name="share_visible_contacts">Del synlige kontakter</string>
      <string name="shortcutActivityTitle">Kontaktsnarvei</string>

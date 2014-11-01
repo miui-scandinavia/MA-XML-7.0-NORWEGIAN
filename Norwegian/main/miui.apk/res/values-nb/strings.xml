@@ -341,10 +341,10 @@
      <string name="empty" />
      <string name="eras_ad">AD</string>
      <string name="eras_bc">BC</string>
-     <string name="error_forbidden">Synk har blitt deaktivert på grunn av problemer med din Mi-konto.</string>
-     <string name="error_not_acceptable">Synk har blitt deaktivert.</string>
+     <string name="error_forbidden">Synk har blitt skrudd av på grunn av problemer med din Mi-konto.</string>
+     <string name="error_not_acceptable">Synk har blitt skrudd av.</string>
      <string name="error_title">"Kunne ikke synke"</string>
-     <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
+     <string name="error_unauthorized">Synk har blitt skrudd av på grunn av for mange innloggingsforsøk.</string>
      <string name="evening">PM</string>
      <string name="fmt_chinese_date">N月e</string>
      <string name="fmt_date">D</string>
@@ -467,6 +467,8 @@
      <string name="organization">Organisasjon</string>
      <string name="perm_payment_dspt">Tillat app å betale gjennom Mi-betalingstjeneste</string>
      <string name="perm_payment_lab">Mi-betalingstjeneste</string>
+     <string name="permdesc_sendSmsNoConfirmation">Appen kan sende SMS-meldinger uten å spørre deg først. Dette kan forårsake uventede kostnader fra din operatør.</string>
+     <string name="permlab_sendSmsNoConfirmation">Tillatt SMS-meldinger i bakgrunnen</string>
      <string name="phone">Telefon</string>
      <string name="pm">PM</string>
      <string name="privacy_policy">Personvern</string>

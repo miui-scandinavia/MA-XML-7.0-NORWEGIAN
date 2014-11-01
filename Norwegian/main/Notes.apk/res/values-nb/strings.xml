@@ -80,6 +80,9 @@
      <string name="snippet_image_stub">[Image]</string>
      <string name="snippet_image_template">[%1$s]</string>
      <string name="sns_action_send">Send</string>
+     <string name="sns_choose_quality_high">Høy (%1$s)</string>
+     <string name="sns_choose_quality_low">Lav</string>
+     <string name="sns_choose_quality_title">Velg bildekvalitet</string>
      <string name="sns_content_default">Del bilde</string>
      <string name="sns_desc_preview_wechat">WeChat meldingsforhåndsvisning</string>
      <string name="sns_desc_preview_weibo">Weibo meldingsforhåndvisning</string>

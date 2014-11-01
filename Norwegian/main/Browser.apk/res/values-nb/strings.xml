@@ -25,6 +25,7 @@
      <string name="action_menu_text_nightmode_on">Nattmodus</string>
      <string name="action_menu_text_setting">Innstillinger</string>
      <string name="action_menu_text_share">Del</string>
+     <string name="action_menu_text_snapshot">Lagre side</string>
      <string name="actionbar_share">Del</string>
      <string name="actionbar_web_search">Nettsøk</string>
      <string name="adblock_notification">blokker %d annonser</string>
@@ -46,7 +47,7 @@
      <string name="allow">Tillat</string>
      <string name="already_in_top_level">Bokmerke er allerede på øverste nivå</string>
      <string name="app_new_version">Du har allerede den nyeste versjonen nedlastet</string>
-     <string name="app_update_install">Ny versjon nedlastet og klar for installering</string>
+     <string name="app_update_install">Nedlastning fullfært. Klar til å oppdatere.</string>
      <string name="application_name">Nettleser</string>
      <string name="autofill_profile_editor_address_line_1">Adresse Line 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
@@ -124,9 +125,9 @@
      <string name="close_cloud_tab_tip">Lukk alle skyfaner på %s ?</string>
      <string name="cloud_loading_tips">Trykk for å synke</string>
      <string name="cloud_no_new_data_toast">Ingen ny data, vennligst prøv igjen senere.</string>
-     <string name="cloud_sync_closed_toast">Skysynkroinsering er skrudd av, kan ikke oppdatere</string>
+     <string name="cloud_sync_closed_toast">"Kan ikke oppdatere fordi synk er av"</string>
      <string name="cloud_sync_failed_toast">Oppdatering feilet, vennligst prøv igjen senere</string>
-     <string name="cloud_tab">Skyfane</string>
+     <string name="cloud_tab">Skyfaner</string>
      <string name="cloud_time_tips">Sist synkronisert</string>
      <string name="cloud_up_to_loading_tips">Slipp for å synke</string>
      <string name="color_picker_button_black">Svart</string>
@@ -221,16 +222,19 @@
      <string name="empty_bookmark">Empty</string>
      <string name="empty_bookmarks_folder">Ingen Bokmerker.</string>
      <string name="empty_history">Ingen historikk.</string>
+     <string name="empty_history_hint">Tom</string>
+     <string name="empty_snapshot_hint">Tom</string>
      <string name="empty_snapshots_folder">Ingen lagrede sider.</string>
-     <string name="enter_incongnito_mode">Enter incognito mode</string>
+     <string name="enter_developer_mode">Gå i utviklermodus</string>
+     <string name="enter_incongnito_mode">Gå i inkognitomodus</string>
      <string name="error_console_eval_button_text">Evaluer</string>
      <string name="error_console_eval_text_hint">Evaluer JavaScript</string>
      <string name="error_console_header_text_maximized">JavaScript-konsol</string>
      <string name="error_console_header_text_minimized">Vis JavaScript-konsol</string>
-     <string name="error_forbidden">Synk har blitt deaktivert på grunn av problemer med din Mi-konto.</string>
-     <string name="error_not_acceptable">Synk har blitt deaktivert.</string>
+     <string name="error_forbidden">Synk har blitt skrudd av på grunn av problemer med din Mi-konto.</string>
+     <string name="error_not_acceptable">Synk er av.</string>
      <string name="error_title">"Kunne ikke synke"</string>
-     <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
+     <string name="error_unauthorized">Synkronisering med din Mi-konto har blitt skrudd av på grunn av for mange innloggingsforsøk.</string>
      <string name="exit_browser_warning">Avslutt nettleser?</string>
      <string name="file_dir">Mappe</string>
      <string name="file_name">Filnavn</string>
@@ -279,7 +283,7 @@
      <string name="loading_tips">Pull down to refresh</string>
      <string name="local_bookmarks">Xiaomi</string>
      <string name="location">Adresse</string>
-     <string name="low_memory_error">Kan ikke fullføre den forrige operasjon på grunn av lite minne</string>
+     <string name="low_memory_error">Ikke nok minne til å fullføre denne oppgaven</string>
      <string name="max_tabs_warning">Fanegrense nådd</string>
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Beklager, denne videoen er ikke gyldig for strømming til denne enheten.</string>
@@ -287,14 +291,14 @@
      <string name="media_player_error_title">Kan ikke spille av video</string>
      <string name="media_player_loading_video">Laster video</string>
      <string name="menu_addtodesk">Plasser på hjemskjerm</string>
-     <string name="menu_disable_night_mode">Deaktiver nattmodus</string>
+     <string name="menu_disable_night_mode">Skru av nattmodus</string>
      <string name="menu_disable_save_bandwidth_mode">Skru av mobildatagrense</string>
-     <string name="menu_enable_night_mode">Aktiver nattmodus</string>
+     <string name="menu_enable_night_mode">Skru på nattmodus</string>
      <string name="menu_enable_save_bandwidth_mode">Aktiver mobildatagrense</string>
      <string name="menu_exit">Avslutt</string>
-     <string name="menu_exit_nightmode">exit</string>
+     <string name="menu_exit_nightmode">Avslutt</string>
      <string name="menu_hv_swap">Bytt til horisontal skjerm</string>
-     <string name="menu_nightmode">night mode on/off</string>
+     <string name="menu_nightmode">Nattmodus</string>
      <string name="menu_preferences">Innstillinger</string>
      <string name="menu_save_bandwidth_mode_close_toast">Mobildatagrense deaktivert</string>
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
@@ -371,7 +375,7 @@
      <string name="pref_autofill_profile_editor">Auto-fyll tekst</string>
      <string name="pref_autofill_profile_editor_summary">Sett opp tekst til automatisk å fylle ut skjemaer</string>
      <string name="pref_autologin_progress">Logger inn på Google-nettsteder ved hjelp av %s</string>
-     <string name="pref_autologin_progress_in_background">Logger inn på Google sites med %s i bakgrunnen</string>
+     <string name="pref_autologin_progress_in_background">Logger inn på Google sites i bakgrunnen med %s</string>
      <string name="pref_autologin_title">Automatisk Google innlogging</string>
      <string name="pref_category_title_version">Versjon</string>
      <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
@@ -539,7 +543,7 @@
      <string name="profiler_error_toast">Kunne ikke starte profiler</string>
      <string name="profiler_no_storage_toast">"Kunne ikke starte profiler fordi ekstern lagring ikke er klar"</string>
      <string name="profiler_started_toast">Profiler startet</string>
-     <string name="profiler_stopped_toast">Profiler ferdig. Resultater er i %1$s.</string>
+     <string name="profiler_stopped_toast">Profiler ferdig. Resultater lagret i %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Setter bakgrunn...</string>
      <string name="qr_code_title">QR Code</string>
      <string name="quicklink_bookmark_save">Lagre til</string>
@@ -553,14 +557,14 @@
      <string name="quicklinks_most_visited">Legg til mest besøkte sider på startsiden</string>
      <string name="quicklinks_most_visited_subtitle">Vis mest besøkte sider i Ny fane</string>
      <string name="quicklinks_most_visited_title">Legg på startsiden</string>
-     <string name="readmode_already_add_to_bookshelf">Lagt i bokhylle.</string>
+     <string name="readmode_already_add_to_bookshelf">Lagt i bokhylle</string>
      <string name="readmode_battery">Batteri </string>
      <string name="readmode_login">Logg inn</string>
      <string name="readmode_login_message">Du må logge inn for å lese mer.</string>
-     <string name="readmode_page_load_error">Siden kunne ikke lastes. :(</string>
+     <string name="readmode_page_load_error">"Kan ikke laste side"</string>
      <string name="readmode_page_loading">Laster…</string>
      <string name="readmode_pay">Kjøp kapittel</string>
-     <string name="readmode_pay_message">Du må betale for å lese de følgende kapittelene.</string>
+     <string name="readmode_pay_message">Du må betale for å lese neste kapittel.</string>
      <string name="readmode_reach_last_page">Siste side nådd</string>
      <string name="readmode_recommend">Vis anbefalte</string>
      <string name="readmode_recommend_message">"Du har allerede lest denne boken. :)"</string>
@@ -709,6 +713,7 @@
      <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
      <string name="webapp_app_name">Appbutikk</string>
      <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
+     <string name="webapp_bottom_bar_addtodesk">Legg på skrivebord</string>
      <string name="webapp_dialog_title">Legg app på hjemskjerm</string>
      <string name="webapp_menu_addtodesk">Add to Home screen</string>
      <string name="webapp_menu_already_addtodesk">Allerede lagt på hjemkskjerm</string>
@@ -719,6 +724,7 @@
      <string name="webapp_menu_share">Del</string>
      <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="webapp_settings_title">Innstillinger</string>
+     <string name="webapp_splashview_loading">Laster nå...</string>
      <string name="webapp_webapp_favortes_title">Mine favoritter</string>
      <string name="webpage_bookmark_title">Bookmark</string>
      <string name="webpage_history_title">History</string>
@@ -735,12 +741,12 @@
      <string name="webstorage_outofspace_notification_text">Trykk for at frigjøre plass.</string>
      <string name="webstorage_outofspace_notification_title">Nettleser-oppbevaring full</string>
      <string name="webview_cancel">Avbryt</string>
-     <string name="webview_find_on_page">Finn på side</string>
+     <string name="webview_find_on_page">Søk på denne siden</string>
      <string name="webview_js_dialog_before_unload">"%s
 
-Er du sikker på at du vil navigere vekk fra denne siden?"</string>
-     <string name="webview_js_dialog_before_unload_negative_button">Bli på denne siden</string>
-     <string name="webview_js_dialog_before_unload_positive_button">Forlat denne siden</string>
+Vil du forlate denne siden?"</string>
+     <string name="webview_js_dialog_before_unload_negative_button">Bli</string>
+     <string name="webview_js_dialog_before_unload_positive_button">Forlat</string>
      <string name="webview_js_dialog_before_unload_title">Bekreft navigasjon</string>
      <string name="webview_js_dialog_title">Siden på \"%s\" sier:</string>
      <string name="webview_js_dialog_title_default">JavaScript</string>

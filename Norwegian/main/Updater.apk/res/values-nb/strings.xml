@@ -61,10 +61,10 @@
      <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
      <string name="fourgrid_no_notificaiont">"Ikke vis i statuslinjen"</string>
      <string name="fourgrid_notificaiont">Vis i statuslinjen</string>
-     <string name="get_auto">Modus for automatisk henting</string>
+     <string name="get_auto">Bruk mobilnettverk eller Wi-Fi</string>
      <string name="get_current">Hent gjeldende</string>
      <string name="get_update_error">Feil ved henting av oppdateringsinfo</string>
-     <string name="go_on_download">Fortsett</string>
+     <string name="go_on_download">Last ned</string>
      <string name="install">Installer</string>
      <string name="install_failed">Oppdatering feilet</string>
      <string name="install_file_explorer">Installer Filhåndtering</string>
@@ -93,9 +93,13 @@
      <string name="next">Neste</string>
      <string name="no_log">Ingen sammendrag tilgjengelig</string>
      <string name="no_proper_updates">Ingen oppdateringer funnet for denne versjonen av MIUI</string>
-     <string name="no_wifi_msg">"Du er ikke lenger tilkoblet Wi-Fi. Hvis du fortsetter å laste ned over din mobildataforbindelse, vil dette øke ditt dataforbruk."</string>
+     <string name="no_wifi_msg">Bruk av din mobildataforbindelse for å laste ned oppdateringen vil øke ditt dataforbruk.</string>
      <string name="no_wifi_title">Advarsel for databruk</string>
      <string name="notification_downloading">Laster ned oppdatering…</string>
+     <string name="notification_load_body_alpha">Hent de nyeste oppdateringene til din enhet.</string>
+     <string name="notification_load_body_dev">"Hent de nyeste oppdateringene til din enhet."</string>
+     <string name="notification_load_title_alpha">Logg inn på din Mi-konto</string>
+     <string name="notification_load_title_dev">Logg inn på din Mi-konto</string>
      <string name="notification_new_version">Oppdater til %s</string>
      <string name="notification_reboot_btn">Omstart</string>
      <string name="notification_reboot_des">Start på nytt for å oppdatere til %s.</string>
@@ -115,14 +119,14 @@
      <string name="reboot">Start på nytt</string>
      <string name="reboot_to_new_system">Start system på nytt</string>
      <string name="repeat">Prøv igjen</string>
-     <string name="set_auto">Sett auto-modus</string>
+     <string name="set_auto">Se etter oppdateringer automatisk</string>
      <string name="set_installfail_full_msg">"Kan ikke oppdatere for øyeblikket. Trykk \"OK\" for å rapportere feilen til våre ingeniører."</string>
-     <string name="set_installfail_msg">Nedlasting av denne oppdateringen over din mobildataforbindelse vil øke ditt dataforbruk.</string>
+     <string name="set_installfail_msg">Bruk av mobildataforbindelsen for å laste ned denne oppdateringen vil øke ditt dataforbruk.</string>
      <string name="set_installfail_title">Prøv å laste ned oppdatering igjen?</string>
      <string name="set_installfail_title_full">Oppdatering feilet</string>
      <string name="set_network_msg">Koble til et Wi-Fi-nettverk før du installerer denne oppdateringen.</string>
      <string name="set_network_title">Koble til nettverk</string>
-     <string name="set_only_wifi">Sett bare Wi-Fi sjekk</string>
+     <string name="set_only_wifi">Bare Wi-Fi</string>
      <string name="share">Del</string>
      <string name="share_qq">Post på Tencent weibo</string>
      <string name="share_sina">Post på Sina weibo</string>
@@ -135,7 +139,7 @@
      <string name="sina_share_success">Sending velykket!</string>
      <string name="sina_token_expired_warning">Weibo kontoen er utløpt, vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo kontoen er ugyldig, vennligst koble til på nytt</string>
-     <string name="space_not_enough_msg">"Det er ikke nok lagringsplass på denne enheten til å laste ned oppdateringen."</string>
+     <string name="space_not_enough_msg">"Det er ikke nok lagringsplass på denne enheten."</string>
      <string name="space_not_enough_title">Ikke nok plass</string>
      <string name="stable_build">Stabil Build</string>
      <string name="submit">Send</string>
@@ -156,6 +160,7 @@
      <string name="update_feedback_end_sum">Du kan delta hver tirsdag.</string>
      <string name="update_feedback_expired">"Du gikk glipp av denne ukens fire-ruters tilbakemeldingsrunde.
 Men du kan ta del neste tirsdag"</string>
+     <string name="update_feedback_need_update">Du må oppdatere systemet ditt til nyeste versjon først.</string>
      <string name="update_feel">Hva synes du?</string>
      <string name="update_general">Så som så</string>
      <string name="update_happy">Fantastisk!</string>
@@ -164,6 +169,8 @@ Men du kan ta del neste tirsdag"</string>
      <string name="update_success">oppdatering fullført</string>
      <string name="update_success_body">Versjon: %s</string>
      <string name="update_success_title">Enhet oppdatert</string>
+     <string name="updater_nolog">Det finnes ingen logg</string>
+     <string name="updater_nonetwork">Koble til nettverket for å hente logg</string>
      <string name="upgrade_close">Lukk</string>
      <string name="upgrade_kernel">Kjernen din er utdatert</string>
      <string name="upgrade_kernel_msg">"Nåværende kjerne passer ikke med seneste versjon av MIUI ROM. Du må oppdatere den manuelt. Vennligst sjekk Xiaomi sin oppdateringsguide:"</string>

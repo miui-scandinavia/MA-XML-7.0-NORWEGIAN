@@ -895,11 +895,11 @@ venner."</string>
      <string name="sync_album">Synk album</string>
      <string name="sync_album_error">Kunne ikke laste ned bildene i dette albumet. Prøv igjen senere.</string>
      <string name="sync_album_in_proecess">Dette albumet blir synkronisert, vennligst vent...</string>
-     <string name="sync_album_set_error">Kunne ikke laste ned listen over album. Prøv igjen senere.</string>
-     <string name="sync_album_summary">Last opp bilder og skjermbilder til din MiCloud</string>
-     <string name="sync_history_power_on">Synk kun bilder lastes opp</string>
-     <string name="sync_in_progress_message">Synkronisering pågår...</string>
-     <string name="sync_only_in_wifi">Kun WiFi</string>
+     <string name="sync_album_set_error">"Kan ikke synke bilder. Sjekk din dataforbindelse og prøv igjen."</string>
+     <string name="sync_album_summary">Last opp bilder til skyen</string>
+     <string name="sync_history_power_on">Synk kun bilder under ladning</string>
+     <string name="sync_in_progress_message">Synkroniserer…</string>
+     <string name="sync_only_in_wifi">Kun Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Slår du av denne funksjonen kan mobildataforbruket øke, er du sikker på at du vil slå den av?</string>
      <string name="sync_only_in_wifi_summary">Forhindre galleri-appen å laste opp bilder via mobil datatilknytning.</string>
      <string name="system_album">System-album</string>

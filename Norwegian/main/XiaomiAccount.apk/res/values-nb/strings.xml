@@ -31,8 +31,7 @@
      <string name="bind_sns_description">Fullført profilen din ved å bruke personlig informasjonen på tvers av %s.</string>
      <string name="bind_weibo_description">Finn og synkroniser venner fra Sina Weibo.</string>
      <string name="binded">Konto lagt til</string>
-     <string name="binded_description" formatted="false">"Har tilknyttet %s vellykket
- Fullført profilen din ved å bruke personlig informasjonen på tvers av %s."</string>
+     <string name="binded_description" formatted="false">%s har blitt lagt til din Mi-konto. Porfilen din har blitt oppdatert med informasjon fra din %s-konto.</string>
      <string name="btn_activate">Aktiver</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
@@ -49,7 +48,7 @@
      <string name="cloud_service_dspt">Synk dine bilder, kontakter, notater, apper og mer på tvers av enheter.</string>
      <string name="completed">Fullfør</string>
      <string name="confirm">OK</string>
-     <string name="confirm_unbind">Bekreft frigiving?</string>
+     <string name="confirm_unbind">Fjern denne kontoen?</string>
      <string name="data_keep_in_device">Behold på denne enheten</string>
      <string name="data_wipe_from_device">Slett fra denne enheten</string>
      <string name="dirty_contacts_count">%d kontakter</string>
@@ -76,7 +75,7 @@
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
      <string name="facebook">facebook</string>
-     <string name="failed_get_mibi_info">Kunne ikke hente Mi-credit</string>
+     <string name="failed_get_mibi_info">"Kan ikke hente balanse"</string>
      <string name="failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="find_device_dspt">Lås eller fjern innhold fra denne enheten eksternt</string>
      <string name="find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
@@ -85,7 +84,7 @@
      <string name="get_verify_code">Motta kode</string>
      <string name="getting_verify_code">Mottar</string>
      <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
-     <string name="hide_mibi_info">Informasjkon om Mi-credit har blitt skjult</string>
+     <string name="hide_mibi_info">Informasjon om Mi Kreditt har blitt skjult</string>
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Skriv inn koden</string>
      <string name="input_password_hint">Skriv inn passord</string>
@@ -229,8 +228,8 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="trust_device">Stol på denne enheten</string>
      <string name="unactivated_user">Nesten ferdig…</string>
      <string name="unbind">Logg ut</string>
-     <string name="unbind_sns_description">Etter at du frigir, vil du ikke kunne logge inn på din Mi-konto ved hjelp av %s</string>
-     <string name="unbind_weibo_description">Etter at du frigier, vil du ikke kunne synkronisere din kontakter, og ikke logge inn på din Mi-konto ved hjelp av Sina Weibo</string>
+     <string name="unbind_sns_description">"Etter at du fjerner denne kontoen, kan du ikke bruke %s-kontoinformasjon for å logge på din Mi-konto."</string>
+     <string name="unbind_weibo_description">"Etter at du fjerner denne kontoen, kan du ikke synke din kontoer fra Weibo eller bruke din Sina Weibo-konto for å logge inn."</string>
      <string name="update_contacts">Oppdater adressebok</string>
      <string name="update_contacts_description">"Lar Sina Weibo bruke din Mi-konto for å synkronisere kontakter på tvers av enheter."</string>
      <string name="updated_contacts">Oppdaterte %s kontakter</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="accept_modify_call_request_prompt">Aksepter forspørrsel om anropsmodifiserings?</string>
+     <string name="accept_modify_call_request_prompt">Aksepter forspørrsel om anropsmodifisering?</string>
      <string name="accessibility_call_muted">Samtalelyd er kuttet.</string>
      <string name="accessibility_speakerphone_enabled">Høyttaler er aktivert.</string>
      <string name="add_fdn_contact">Legg til programmert telefonnummer</string>

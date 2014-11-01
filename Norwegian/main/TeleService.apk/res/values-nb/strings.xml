@@ -468,6 +468,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="msim_sim_lock">Låst</string>
      <string name="msim_sim_radio_off">Av</string>
      <string name="msim_switch_data_conn_toast">Nettverksinnstillinger har blitt endret til å foretrekke 4G-nettverk. Du kan endre denne innstillingen i SIM-kort-innstillinger.</string>
+     <string name="msim_switch_data_conn_toast_for_h2xct">SIM-spor 2 støtter bare GSM-nettverk. Foretrukket nettverkstype for dette sporet har blitt endret til kun 2G.</string>
      <string name="multi_category_disable">Multikategori deaktivert</string>
      <string name="multi_category_enable">Multikategori aktivert</string>
      <string name="name">Navn</string>

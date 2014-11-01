@@ -110,7 +110,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="partys_day" />
      <string name="paste">Lim inn</string>
      <string name="peace_day" />
-     <string name="perm_send_push_dspt">Tillat Xiaomi push-meldinger</string>
+     <string name="perm_send_push_dspt">Tillat Mi push-meldinger</string>
      <string name="perm_send_push_lab">Send push-melding</string>
      <string name="presentation_payphone">Telefonkiosk</string>
      <string name="presentation_private">Privat nummer</string>
@@ -137,7 +137,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="slight_cold" />
      <string name="slight_heat" />
      <string name="softap_notifif_summary">%d tilkoblet</string>
-     <string name="softap_notifif_title">Hotspot \"%s\" tilkoblet</string>
+     <string name="softap_notifif_title">Hotspot \"%s\" er på</string>
      <string name="solar_calendar" />
      <string name="spring_begins" />
      <string name="status_bar_toggle_ac">Tilgang</string>

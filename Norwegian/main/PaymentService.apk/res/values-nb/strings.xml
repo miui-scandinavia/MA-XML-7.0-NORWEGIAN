@@ -105,6 +105,9 @@ Vennligst kontakt Xiaomi kundeservice."</string>
      <string name="error_server_summary">Serverfeil. Vennligst prøv igjen senere</string>
      <string name="error_user_id_mismatch_summary">Vennligst sjekk og logg inn kontoen på nytt</string>
      <string name="fee">%1$s MiCredit</string>
+     <string name="fee_with_giftcard"> (Inkludert %1$s)</string>
+     <string name="fee_with_mibi_giftcard"> %1$s-Mi Kreditt gavekort</string>
+     <string name="fee_with_partner_giftcard"> %1$s-Mi Kreditt %2$s</string>
      <string name="forget_password">&lt;u&gt;Reset passord&lt;/u&gt;</string>
      <string name="format_date">MMM. dd, yyyy</string>
      <string name="format_time">MMM dd, yyyy hh:mmaa</string>
@@ -143,7 +146,6 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="hfb_retry_receive">Prøv igjen</string>
      <string name="hfb_return">Tilbake</string>
      <string name="hfb_succ_label">Betaling fullført</string>
-     <!-- Update translation: 感谢您使用通信账户支付服务。 -->
      <string name="hfb_succ_result">"Takk for at du brukte vår betalingstjeneste.
 "</string>
      <string name="illegal_intent">Illegal intent request</string>
@@ -238,6 +240,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="prepaid_picker_hint_2_2_b">Hvis pålydende verdi på kontantkortet ikke er &lt;font color=red&gt;￥%1$s&lt;/font&gt;, vil kortet bli annullert. Xiaomi er ikke ansvarlige for pengetap på grunn av brukerfeil.</string>
      <string name="prepaid_picker_title_default">Select amount</string>
      <string name="prepaid_picker_title_selected">amount</string>
+     <string name="process_expired">"Hvor gikk du? Operasjonen har blitt tidsavbrutt."</string>
      <string name="processing">加载中</string>
      <string name="progress_bankcall_card_creating">Genererer ordre…</string>
      <string name="progress_bankcall_card_querying">Sjekker kontotype…</string>

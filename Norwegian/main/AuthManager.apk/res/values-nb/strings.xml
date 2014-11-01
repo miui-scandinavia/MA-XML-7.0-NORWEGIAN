@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apper</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Deaktivering vil resultere i at MIUI ikke overvåker programforespørsler og vil ikke lengre beskytte sikkerhet og personvern.
-Er du sikker på at du vil deaktivere?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"MIUI vil ikke overvåke app-tillatelseforespørsler."</string>
   <string name="Dashboard_HIPS_Disable_Title">Tillatelser</string>
   <string name="Dashboard_Log">Logger</string>
   <string name="Dashboard_Log_Clear_Content">Alle logger vil bli slettet.</string>
@@ -29,8 +28,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Last ned MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Rot-tilgang</string>
-  <string name="Dashboard_Su_Enable_Content">"Aktivering vil gi apper tillatelse til å be om rot-tilgang.
-OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- eller maskinvareskade. Vær forsiktig. Er du sikker på at du vil aktivere?"</string>
+  <string name="Dashboard_Su_Enable_Content">Å gi rot-tilgang til tredjepartsapper kan føre til systemustabilitet, tap av brukerdata og til-og-med skade på maskinvare.</string>
   <string name="Dashboard_Su_Enable_Title">Rot-tilgang</string>
   <string name="Generic_Canceling">Avbryter…</string>
   <string name="Generic_Check">Sjekk</string>
@@ -70,7 +68,7 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="HIPS_Group_Location">Sted</string>
   <string name="HIPS_Group_PIM">Brukerdata</string>
   <string name="HIPS_Group_PhoneID">Enhet</string>
-  <string name="HIPS_Group_ROOT">ROOT</string>
+  <string name="HIPS_Group_ROOT">Rot-tilgang</string>
   <string name="HIPS_Perm_AdjustRingerVolume">App kan justere ringevolum</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">App kan justere samtalevolum</string>
   <string name="HIPS_Perm_AllowAll">Tillat alle</string>
@@ -98,8 +96,8 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="HIPS_Perm_CallState">Telefonstatus</string>
   <string name="HIPS_Perm_CallState_Desc">Tillat apper å se anropsstatus (f.eks. innkommende, opptatt)</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s apper kan se anroptsstatus</string>
-  <string name="HIPS_Perm_Call_Desc">Tillat apper å ringe, svare og avslutte samtaler</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s apper kan ringe, svare og avslutte samtaler</string>
+  <string name="HIPS_Perm_Call_Desc">Tillat apper å ringe</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s apper kan ringe</string>
   <string name="HIPS_Perm_Call_Number">Ring %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">App kan slette tapte anrop</string>
   <string name="HIPS_Perm_Contact">Kontakter</string>
@@ -152,7 +150,7 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="HIPS_Perm_PhoneID_IMSI">"App kan se enhetens IMSI-nummer"</string>
   <string name="HIPS_Perm_PhoneID_Number">"App kan se enhetens ID-nummer"</string>
   <string name="HIPS_Perm_PromptAll">Spør alle</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
+  <string name="HIPS_Perm_ROOT">Rot-tilgang</string>
   <string name="HIPS_Perm_ROOT_Desc">App kan få rot-tilgang</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s apper kan få rot-tilgang</string>
   <string name="HIPS_Perm_ROOT_Title">App kan få rot-tilgang</string>
@@ -164,8 +162,8 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="HIPS_Perm_RejectAll">Avvis alle</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">App kan se SMS-data</string>
-  <string name="HIPS_Perm_SMS_Desc">App kan se SMS-samtaler</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s apper kan se dine SMS-samtaler</string>
+  <string name="HIPS_Perm_SMS_Desc">App kan se SMS- og MMS-samtaler</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s apper kan se dine SMS- og MMS-samtaler</string>
   <string name="HIPS_Perm_SendMMS">Send MMS</string>
   <string name="HIPS_Perm_SendMMS_Desc">Tillat app å sende MMS</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s apper kan sende MMS</string>
@@ -223,8 +221,8 @@ OBS. Apper med tillatelse kan føre til et ustabilt system, datatap, system- ell
   <string name="Privacy_App_Trust">Spør etter tillatelse</string>
   <string name="Privacy_App_TrustDialog_Content">"Du vil ikke bli spurt om tillatelse når denne appen får tilgang til andre deler av systemet."</string>
   <string name="Privacy_App_TrustDialog_Title">Programtillatelser</string>
-  <string name="Privacy_App_Trust_Summary_Off">Spør når appen ønsker tilgang til andre deler av systemet</string>
-  <string name="Privacy_App_Trust_Summary_On">Spør når appen ønsker tilgang til andre deler av systemet</string>
+  <string name="Privacy_App_Trust_Summary_Off">Vis et varsel når denne appen prøver å få tilgang til andre deler av systemet</string>
+  <string name="Privacy_App_Trust_Summary_On">Vis et varsel når denne appen prøver å få tilgang til andre deler av systemet</string>
   <string name="Privacy_App_Uninstall">Avinstaller</string>
   <string name="Privacy_Perm_Count">%1$d tillatt | %2$d avslått</string>
   <string name="Su_Enable_Dialog">%1$s etterspør rot-tilgang.</string>

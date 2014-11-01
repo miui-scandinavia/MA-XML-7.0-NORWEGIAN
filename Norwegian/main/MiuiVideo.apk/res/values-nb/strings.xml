@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_app_name">MIUIVideo</string>
+     <string name="about_app_name">Videoavspiller</string>
      <string name="about_title">Om</string>
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Versjon:</string>
-     <string name="actor_colon">Actor:</string>
+     <string name="actor_colon">Skuespiller:</string>
      <string name="ad_countdown">%ss gjenstående</string>
      <string name="ad_moredetail">Detaljer</string>
      <string name="add_favorite_success">Stjernemerket</string>
@@ -13,7 +13,7 @@
      <string name="addon" />
      <string name="addon_all">Alle</string>
      <string name="addon_category">Populære kategorier</string>
-     <string name="addon_install_complete_disc">%s tillegg installert. Du kan vise dem i /My videos/.</string>
+     <string name="addon_install_complete_disc">%s tillegg installert. Du kan vise dem i \"My videos\".</string>
      <string name="addon_installed_empty_hint">Tom</string>
      <string name="addon_list_empty_hint">Tom</string>
      <string name="addon_update_desc">Ny versjon funnet, oppdater nå?</string>

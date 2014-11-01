@@ -150,7 +150,8 @@
      <string name="music_settings">Innstillinger</string>
      <string name="my_account">Mi-konto</string>
      <string name="my_music">Min musikk</string>
-     <string name="my_music_empty">Ingen sanger i spillelisten</string>
+     <string name="my_music_empty">Spillelisten din er tom!</string>
+     <string name="my_music_empty_goto_online">Spillelisten din er tom!! Legg til sanger fra Online-fanen</string>
      <string name="my_playlist">Min spilleliste</string>
      <string name="network_error">Ingen nettverksforbindelse, kontroller innstillinger.</string>
      <string name="network_failure">"Kan ikke koble til nettverket. Sjekk datatilkoblingen og prøv igjen."</string>
@@ -158,6 +159,7 @@
      <string name="no_favorites_songs">Tom</string>
      <string name="no_local_songs">Tom</string>
      <string name="no_local_songs_selected">"Kan ikke sende sanger fordi de ikke har blitt lastet ned"</string>
+     <string name="no_local_source_find">"Sending feilet, kan ikke finne lokal ressurs!"</string>
      <string name="no_online_song_selected">Ingen sanger valgt</string>
      <string name="no_results_return">Ingen søkeresultater</string>
      <string name="no_song_downloaded">Sang kan ikke lastes ned</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="Settings_title_anti_spam">Antispam-innstillinger</string>
-     <string name="Settings_title_anti_virus">Antivirus-innstillinger</string>
-     <string name="Settings_title_garbage_cleanup">Søppelrydde-innstillinger</string>
-     <string name="Settings_title_network_assistants">Nettverksassistent-innstillinger</string>
-     <string name="Settings_title_power_center">Strøm-innstillinger</string>
+     <string name="Settings_title_anti_spam">Blokkeringsliste-innstillinger</string>
+     <string name="Settings_title_anti_virus">Virusskann-innstillinger</string>
+     <string name="Settings_title_garbage_cleanup">Opprydding-innstillinger</string>
+     <string name="Settings_title_network_assistants">Databruksinnstillinger</string>
+     <string name="Settings_title_power_center">Batteri-innstillinger</string>
      <string name="activity_title_ad">Reklamer</string>
      <string name="activity_title_antispam">Blokkeringsliste</string>
      <string name="activity_title_antivirus">Virusskan</string>
@@ -277,9 +277,9 @@
      <string name="last_checked_date2">Skannet for %d dager siden</string>
      <string name="last_checked_default">Skannet %s dager siden</string>
      <string name="legal_workday">Helligdag</string>
-     <string name="legal_workday_invalidate">Data utløpt(Ringer for øyeblikket på Mandag og Fredag)</string>
-     <string name="legal_workday_invalidate_message">(Data utløpt, klikk for å oppdatere)</string>
-     <string name="legal_workday_message">(Skip holidays smartly)</string>
+     <string name="legal_workday_invalidate">Man-Fre (helligdagsinformasjon utløpt)</string>
+     <string name="legal_workday_invalidate_message">Trykk for å oppdatere informasjon om offentlige helligdager.</string>
+     <string name="legal_workday_message">(Hopp over helligdager smart)</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
      <string name="menu_item_about_content">Versjon: %s</string>
      <string name="menu_item_about_summary">Versjon: %s</string>
@@ -572,7 +572,7 @@
      <string name="root_apply_step_5">Gi %s rottilgang?</string>
      <string name="root_apply_title">Viktig advarsel</string>
      <string name="score_pts">%</string>
-     <string name="settings_title_permission">Tillatelsesinnstilinger</string>
+     <string name="settings_title_permission">Innstillinger for tillatelser</string>
      <string name="st_title_mode_choose_group">Velg profil</string>
      <string name="suffix_virus_count_bottom">total</string>
      <string name="suffix_virus_count_top">risikoer</string>

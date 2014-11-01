@@ -61,8 +61,8 @@
      <string name="resource_buy">Kjøp</string>
      <string name="resource_can_not_selected">%1$s kan ikke velges!</string>
      <string name="resource_category">Kategori</string>
-     <string name="resource_clear_search_history">Clear search history</string>
-     <string name="resource_clear_search_history_dialog">Clear all search history?</string>
+     <string name="resource_clear_search_history">Tøm søkehistorikk</string>
+     <string name="resource_clear_search_history_dialog">Tøm alle søkehistorikk?</string>
      <string name="resource_comment_1_star">1 stjerne</string>
      <string name="resource_comment_2_star">2 stjerne</string>
      <string name="resource_comment_3_star">3 stjerne</string>
@@ -88,7 +88,7 @@
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
      <string name="resource_comment_rate">Vurdering:</string>
-     <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
+     <string name="resource_comment_rating_star_tips">Trykk på stjernene for å stemme:</string>
      <string name="resource_comment_score_count">%1$s brukere</string>
      <string name="resource_comment_sending">Sender kommentar...</string>
      <string name="resource_comment_title">Kommentarer: %1$s</string>
@@ -153,7 +153,7 @@
      <string name="resource_mute">Ingen</string>
      <string name="resource_my">Lokal</string>
      <string name="resource_no_result">Ingen resultater</string>
-     <string name="resource_notification_default">Notifikasjoner</string>
+     <string name="resource_notification_default">Varsler</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
@@ -202,7 +202,7 @@
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Venter på nedlastning...</string>
      <string name="sdcard_not_mounted_dialog_message">"SD-kort ikke tilgjengelig, vennligst sett inn ett nå."</string>
-     <string name="sdcard_not_mounted_dialog_title">SD-kort ikke detektert</string>
+     <string name="sdcard_not_mounted_dialog_title">Ingen SD-kort oppdagget</string>
      <string name="selected_resource_file_invalid">Valgte fil er ugyldig.</string>
      <string name="settings">Innstillinger</string>
      <string name="short_ringtone_resource">Kort</string>

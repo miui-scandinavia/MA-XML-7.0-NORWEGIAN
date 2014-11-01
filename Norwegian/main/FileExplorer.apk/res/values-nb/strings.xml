@@ -293,12 +293,12 @@
      <string name="uploading">Laster opp...</string>
      <string name="used">Brukt</string>
      <string name="user_guide">Bruksanvisning</string>
-     <string name="user_guide_continue_use">Jeg ved</string>
+     <string name="user_guide_continue_use">OK</string>
      <string name="user_guide_download_other_version">Last opp filer fra datamaskinen</string>
-     <string name="user_guide_kuaipan_copy">Kopier filer fra telefonen, så send til kuaipan</string>
-     <string name="user_guide_kuaipan_lable">kuaipan skylder deg</string>
-     <string name="user_guide_other_version">For å lagre i mi.kuaipan.cn, logg inn med din konto(%1$s)</string>
-     <string name="user_guide_save_file">Lagring av dine filer og bilder i Kuaipan.</string>
+     <string name="user_guide_kuaipan_copy">Kopier filer fra telefonen, så send til Kuaipan</string>
+     <string name="user_guide_kuaipan_lable">Kuaipan tilhører deg</string>
+     <string name="user_guide_other_version">Logg inn på din Mi-konto (%1$s) og last ned på mi.kuaipan.cn.</string>
+     <string name="user_guide_save_file">Lagre dine filer hos KuaiPan</string>
      <string name="user_guide_summary">En rask oppsummering</string>
      <string name="user_guide_upload_to_kuaipan">"Kopier og lim inn filer til MiDrive"</string>
      <string name="utf8_summary">Standard-koding</string>
