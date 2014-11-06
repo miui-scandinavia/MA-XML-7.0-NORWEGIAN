@@ -613,7 +613,7 @@
      <string name="summary_permission">Beskytt mitt personvern fra potiensielt skadelige tredjeparts apper</string>
      <string name="summary_permission_root">Enheten og personlige data er mer utsatte for angrep fra apper som har rot-tilgang</string>
      <string name="summary_power_optimizer">"Reduser enhetens ytelse når batterinivå er lavt"</string>
-     <string name="summary_saving_switch">Begrense apper fra å bruke din mobildatatilkobling for å overføre data/string>
+     <string name="summary_saving_switch">Begrense apper fra å bruke din mobildatatilkobling for å overføre data</string>
      <string name="summary_show_notification">"Fest Sikkerhetsenter sine kontroller til varselskyggen"</string>
      <string name="summary_telecom_operator">Få din månedlige dataforbruksstatistikk fra din operatør</string>
      <string name="summary_usb">Unngå virus som sprer seg fra andre enheter</string>
