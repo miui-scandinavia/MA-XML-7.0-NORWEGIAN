@@ -26,6 +26,9 @@
      <string name="deselect_all">Fjern merking</string>
      <string name="determine">OK</string>
      <string name="dialog_cannot_resume">Nedlasting avbrutt. Den kan ikke gjenopptas.</string>
+     <string name="dialog_confirm_delete_checkbox_message">Slett lokale filer også</string>
+     <string name="dialog_confirm_delete_downloads_message">Slett %d oppgaver?</string>
+     <string name="dialog_confirm_delete_the_download_item_message">Slett disse oppgavene</string>
      <string name="dialog_failed_body">Vil du prøve å laste ned igjen senere, eller slette filen fra køen?</string>
      <string name="dialog_file_already_exists">Kan ikke laste ned. Destinationsfilen eksisterer allerede.</string>
      <string name="dialog_file_missing_body">Den nedlastede filen kan ikke finnes.</string>

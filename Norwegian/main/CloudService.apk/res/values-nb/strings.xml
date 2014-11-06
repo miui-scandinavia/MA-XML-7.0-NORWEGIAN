@@ -121,6 +121,10 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
+     <string name="micloud_storage_expires_auto_renewal_sum">Du må fornye ditt abonnement.</string>
+     <string name="micloud_storage_expires_manually_renewal_sum">Du må fornye ditt abonnement.</string>
+     <string name="micloud_storage_expires_soon_title">Mi Cloud-lagring utløper snart</string>
+     <string name="micloud_storage_expires_very_soon_title">Mi Cloud-lagring utløper snart</string>
      <string name="micloud_storage_usage" formatted="false">Brukt %s/Total plass %s</string>
      <string name="micloud_title_dspt" formatted="false">"Total plass %s
 brukt %s | gjenværende %s"</string>

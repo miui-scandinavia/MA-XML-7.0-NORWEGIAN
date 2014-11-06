@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="power_center_battery_day">
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d tilganger</item>
+        <item quantity="one">%d tilgang</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d apper har ikke lov til å autostarte"</item>
+        <item quantity="one">"%d app har ikke lov til å autostarte"</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d apper kan autostarte</item>
+        <item quantity="one">%d app kan autostarte</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d apper har ikke rot-tilgang"</item>
+        <item quantity="one">"%d app har ikke rot-tilgang"</item>
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d apper har rot-tilgang</item>
+        <item quantity="one">%d app har rot-tilgang</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apper</item>
+        <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dager "</item>
         <item quantity="one">"%d dag "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
+     </plurals>
+     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d timer "</item>
         <item quantity="one">"%d time "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
+     </plurals>
+     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
-    </plurals>
+     </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Oppdateringer tilgjengelig for %d apper.</item>
+        <item quantity="one">Oppdatering tilgjengelig for %d app.</item>
+     </plurals>
 </resources>

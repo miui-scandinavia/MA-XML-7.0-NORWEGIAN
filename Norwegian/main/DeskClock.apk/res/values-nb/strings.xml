@@ -49,6 +49,7 @@
      <string name="delete_timezone_title">Slett tidssone</string>
      <string name="dialog_confirm_abort">Vil du avbryte dine endringer?</string>
      <string name="done">Utfør</string>
+     <string name="edit_systemtime">Edit system time</string>
      <string name="elapsed_time_format">(+%s)</string>
      <string name="every_day">hver dag</string>
      <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>

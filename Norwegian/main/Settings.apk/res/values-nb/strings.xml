@@ -117,7 +117,6 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="apn_auth_type_none">Ingen</string>
      <string name="apn_auth_type_pap">PAP</string>
      <string name="apn_auth_type_pap_chap">CHAP</string>
-     <!-- to be translated -->
      <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
      <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
      <string name="apn_edit">Rediger APN</string>
@@ -1447,6 +1446,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="mtp_ptp_mode_summary">MTP eller PTP-funksjonen er aktiv</string>
      <string name="multi_touch_points_category_title">Multi-touch punkter</string>
      <string name="multi_touch_points_preference">Denne innstillingen vil trå  i kraft når du har startet enheten på nytt</string>
+     <string name="music_HiFi_title">Hi-Fi audio</string>
      <string name="music_audio_effect_settings">Lydeffekt-innstillinger</string>
      <string name="music_dirac_mode_earbuds">Mi-ørepropper</string>
      <string name="music_dirac_mode_general">Generelle</string>
@@ -2556,6 +2556,9 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wfd_settings_title">Trådløs skjerm</string>
      <string name="wfd_wps_keypad">Dytteknapp foretrukket</string>
      <string name="wfd_wps_pbc">PIN foretrukket</string>
+     <string name="whetstone_level_reboot">This setting will take effect when you restart your device</string>
+     <string name="whetstone_level_reboot_OK">Reboot</string>
+     <string name="whetstone_level_title">System memory optimization</string>
      <string name="widget_picker_title">Velg skrivebordselement</string>
      <string name="wifi_access_points">Wi-Fi-nettverk</string>
      <string name="wifi_add_network">Legg til nettverk</string>

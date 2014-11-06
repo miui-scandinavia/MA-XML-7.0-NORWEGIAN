@@ -101,6 +101,7 @@
      <string name="file_too_large">Filen er for stor, kan ikke lastes opp</string>
      <string name="finished">Fullført</string>
      <string name="folder_exist">Mappen eksisterer ikke</string>
+     <string name="folder_name_illegal">Invalid folder name</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Trykk her&lt;/a&gt;for å gå til papirkurven</string>
      <string name="ftp_account_req_notice">Brukernavn og passord, 4~16 tegn, skal inneholde sifre, bokstaver, store/små bokstaver</string>
      <string name="ftp_anonymous_login">Anonym FTP</string>
