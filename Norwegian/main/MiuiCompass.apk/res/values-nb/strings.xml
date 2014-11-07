@@ -42,7 +42,7 @@
      <string name="pressure_title">Trykk</string>
      <string name="pressure_unit">hPa</string>
      <string name="using_camera_confirm_cancel">Avslutt</string>
-     <string name="using_camera_confirm_message">"Kompass trenger å bruke enheten sitt kamera for å fungere normalt."</string>
+     <string name="using_camera_confirm_message">"Kompass trenger å bruke enheten sin nettverkstilkobling og kamera for å fungere normalt."</string>
      <string name="using_camera_confirm_ok">Godkjenn</string>
-     <string name="using_camera_confirm_title">Kameratilgang</string>
+     <string name="using_camera_confirm_title">Tilgangstillatelse</string>
 </resources>

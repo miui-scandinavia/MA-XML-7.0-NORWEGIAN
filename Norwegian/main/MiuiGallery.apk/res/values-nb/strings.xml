@@ -796,7 +796,7 @@ venner."</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>
      <string name="refocus_data_downloading">Laster ned refocus data…</string>
-     <string name="remove_hidden_album">Avbryt skjulte</string>
+     <string name="remove_hidden_album">Opphev skjuling</string>
      <string name="remove_recent_album">Fjern fra favoritt-album</string>
      <string name="rename_failed">Endring av navn mislykkes</string>
      <string name="rename_failed_duplicated_name">Kunne ikke gi nytt navn, navn eksisterer allerede.</string>
@@ -836,10 +836,10 @@ venner."</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
      <string name="send">Send</string>
-     <string name="send_multiple_files_hint_format">Send flere filer (%s)</string>
+     <string name="send_multiple_files_hint_format">Send (%s)</string>
      <string name="send_public_url">Send album-URL</string>
      <string name="sepia">Sepia</string>
-     <string name="set_hidden_album">Skjult album</string>
+     <string name="set_hidden_album">Skjul</string>
      <string name="set_image">Sett bilde som</string>
      <string name="set_label_all_albums">Alle album</string>
      <string name="set_label_local_albums">Lokale albums</string>

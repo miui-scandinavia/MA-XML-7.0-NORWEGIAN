@@ -662,7 +662,7 @@
      <string name="sync_item_browser_summary">Synk data til skyen din, for å gjøre bruk av nettleser på flere enheter enklere</string>
      <string name="sync_item_browser_title">Synk nettleser</string>
      <string name="tab_history">Historikk</string>
-     <string name="tab_hotpage">Trending</string>
+     <string name="tab_hotpage">Trender</string>
      <string name="tab_most_visited">Mest besøkte</string>
      <string name="tab_quicklinks">Hurtiglinker</string>
      <string name="tab_snapshots">Lagrede sider</string>

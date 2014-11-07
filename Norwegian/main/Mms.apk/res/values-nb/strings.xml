@@ -263,8 +263,8 @@
      <string name="mx_enable_popup_msg">Send meldinger frem og tilbake gratis med andre  som også bruker denne funksjonen.</string>
      <string name="mx_msg">Mi-melding</string>
      <string name="mx_offline">Offline</string>
-     <string name="mx_on_sim_1">Mi-meldinger med SIM-kort 1</string>
-     <string name="mx_on_sim_2">Mi-meldinger med SIM-kort 2</string>
+     <string name="mx_on_sim_1">Mi-melding SIM-spor 1</string>
+     <string name="mx_on_sim_2">Mi-melding SIM-spor 2</string>
      <string name="mx_online">Online</string>
      <string name="mx_reactivate">Reaktiver Mi-melding</string>
      <string name="mx_recommend_msg">Trykk for å aktivere Mi-melding</string>
