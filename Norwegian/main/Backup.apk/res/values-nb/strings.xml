@@ -158,7 +158,7 @@
      <string name="succeed">Fullført</string>
      <string name="system_backup">Backup</string>
      <string name="system_backup_info">Systeminnstillinger, skrivebordslayout, osv.</string>
-     <string name="task_backup_cancel_progress">Stopper…<</string>
+     <string name="task_backup_cancel_progress">Stopper…</string>
      <string name="task_backup_finished_local">Backup fullført</string>
      <string name="task_canceled">Avbrutt</string>
      <string name="task_canceled_all_local">Annuller alle oppgaver</string>
