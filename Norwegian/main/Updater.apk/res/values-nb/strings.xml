@@ -20,7 +20,7 @@
      <string name="button_text_check">Sjekk</string>
      <string name="button_text_later_reboot">Start på nytt senetre</string>
      <string name="button_text_reboot">Start på nytt nå</string>
-     <string name="button_text_reboot_hm">Etter omstart</string>
+     <string name="button_text_reboot_hm">Start på nytt nå</string>
      <string name="button_text_update">Oppdater</string>
      <string name="cancel_download">Stopp nedlastingen av denne oppdateringen?</string>
      <string name="cancel_download_buton_text">Avbryt</string>
