@@ -58,7 +58,7 @@
      <string name="battery_desc_radio">Batteri brukt av radio</string>
      <string name="battery_desc_standby">Batteri brukt når telefonen er inaktiv</string>
      <string name="battery_desc_voice">Batteri brukt på samtaler</string>
-     <string name="battery_desc_wifi">Batteri brukt av WIFI</string>
+     <string name="battery_desc_wifi">Batteri brukt av Wi-Fi</string>
      <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
      <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
      <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>

@@ -44,9 +44,9 @@
      <string name="compress_title">Komprimer</string>
      <string name="confirm">OK</string>
      <string name="confirm_know">OK</string>
-     <string name="connect_network_setting_des">Remind when accessing network</string>
+     <string name="connect_network_setting_des">Påminn meg når jeg bruker nettverk</string>
      <string name="copy_failed">Kopiering mislykkes</string>
-     <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
+     <string name="copy_file_to_kuaipan">Kopier filer til Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
      <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
      <string name="create_new_folder_failed">Kunne ikke opprette mappe</string>
@@ -97,11 +97,11 @@
      <string name="file_info_modified">Tidspunkt:</string>
      <string name="file_info_size">Størrelse:</string>
      <string name="file_loading">Laster inn...</string>
-     <string name="file_not_exist">file not exist</string>
+     <string name="file_not_exist">Filen eksisterer ikke</string>
      <string name="file_too_large">Filen er for stor, kan ikke lastes opp</string>
      <string name="finished">Fullført</string>
      <string name="folder_exist">Mappen eksisterer ikke</string>
-     <string name="folder_name_illegal">Invalid folder name</string>
+     <string name="folder_name_illegal">Ugyldig mappenavn</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Trykk her&lt;/a&gt;for å gå til papirkurven</string>
      <string name="ftp_account_req_notice">Brukernavn og passord, 4~16 tegn, skal inneholde sifre, bokstaver, store/små bokstaver</string>
      <string name="ftp_anonymous_login">Anonym FTP</string>
@@ -267,7 +267,7 @@
      <string name="storage_usb">USB-lagring</string>
      <string name="storage_warning">Ekstern lagring ikke tilgjengelig</string>
      <string name="sys_size_enable">" tilgjengelig"</string>
-     <string name="system_alert">Remind</string>
+     <string name="system_alert">Påminnelse</string>
      <string name="tab_category">Kategori</string>
      <string name="tab_expand">Utvid</string>
      <string name="tab_local">Lokal</string>

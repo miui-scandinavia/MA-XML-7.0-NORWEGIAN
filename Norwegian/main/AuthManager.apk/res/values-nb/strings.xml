@@ -160,7 +160,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
   <string name="HIPS_Perm_Recorder_Video">App kan ta opp lyd og video</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">App kan ta opp anrop</string>
   <string name="HIPS_Perm_RejectAll">Avvis alle</string>
-  <string name="HIPS_Perm_SMS">SMS</string>
+  <string name="HIPS_Perm_SMS">SMS og MMS</string>
   <string name="HIPS_Perm_SMS_Access">App kan se SMS-data</string>
   <string name="HIPS_Perm_SMS_Desc">App kan se SMS- og MMS-samtaler</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s apper kan se dine SMS- og MMS-samtaler</string>
