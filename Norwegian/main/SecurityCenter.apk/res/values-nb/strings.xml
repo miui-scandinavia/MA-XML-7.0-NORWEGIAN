@@ -260,7 +260,7 @@
      <string name="hints_virus_descx_title">Beskrivelse:</string>
      <string name="hints_virus_lib_update_default_summary">Siste oppdateringstid ukjent</string>
      <string name="hints_virus_name_title">Virus:</string>
-     <string name="hints_virus_scan_result_descx">"Denne appen er en stor sikkerhetstrussel mot telefonen din."</string>large_file_sort_type_name
+     <string name="hints_virus_scan_result_descx">"Denne appen er en stor sikkerhetstrussel mot telefonen din."</string>
      <string name="item_app_permission">App-tillatelser</string>
      <string name="item_dev_mode">Utvikleralternativer</string>
      <string name="item_garbage_time_3d">Hver 3. dag</string>
