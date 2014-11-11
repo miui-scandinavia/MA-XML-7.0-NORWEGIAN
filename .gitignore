@@ -33,3 +33,4 @@ Thumbs.db
 *.sql
 *.sqlite
 .DS_Store
+Norwegian/main/Mipay.apk/res/values-nb/strings.xml
