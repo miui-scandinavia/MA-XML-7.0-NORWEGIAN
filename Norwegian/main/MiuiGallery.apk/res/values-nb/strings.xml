@@ -571,6 +571,7 @@ venner."</string>
      <string name="error_invalid_link">Linken er ugyldig eller utløpt, vennligst spør album-eieren om å lage en ny link.</string>
      <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
      <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
+     <string name="error_share_not_support">Å bli medlem av et delt album er midlertidig ikke støttet</string>
      <string name="error_share_with_creator">Du er allerede et medlem av dette albumet</string>
      <string name="error_should_not_select_image">Advarsel: velg ikke en bildefil.</string>
      <string name="error_should_not_select_video">Advarsel: velg ikke en videofil.</string>

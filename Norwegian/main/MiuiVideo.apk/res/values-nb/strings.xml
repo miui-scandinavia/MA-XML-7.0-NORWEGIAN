@@ -39,6 +39,7 @@
      <string name="buffering">Leser inn i buffer...</string>
      <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
      <string name="cancel">Avbryt</string>
+     <string name="cancel_button">Avbryt</string>
      <string name="cancel_favorite_success">Ustjernemerkede</string>
      <string name="channel_choice_empty_hint">Tom</string>
      <string name="channel_empty_hint">Tom</string>
@@ -137,13 +138,15 @@
      <string name="gong_count_xiang">%d videoer</string>
      <string name="good">OK</string>
      <string name="guess_you_like">Anbefalt</string>
+     <string name="hint_can_not_get_source_info">"Kunne ikke hente videoinformasjon"</string>
+     <string name="hint_without_selected_set">Finn innholdskilde automatisk</string>
      <string name="hot_recommend">Trender</string>
      <string name="icntv">iCNTV</string>
      <string name="imports">Importer</string>
      <string name="init">Starter…</string>
      <string name="install_comfirm">Installer</string>
-     <string name="installed">Installed</string>
-     <string name="installed_count_ge">%d installed</string>
+     <string name="installed">Installert</string>
+     <string name="installed_count_ge">%d installert</string>
      <string name="introduce">Sammendrag</string>
      <string name="key_back_down_toast">For å avbryte, trykk Tilbake en gang til</string>
      <string name="lekan">Lekan</string>
@@ -192,6 +195,7 @@
      <string name="ok">OK</string>
      <string name="online_video">Online</string>
      <string name="other_setting">Andre</string>
+     <string name="partner_specials">Innhold fra partner</string>
      <string name="pause">Pause</string>
      <string name="percent_status">%.1f%%</string>
      <string name="pick_addon_to_delete">Velg element(er)</string>
@@ -227,6 +231,7 @@
      <string name="see_all_count_comment">%d fler kommentarer</string>
      <string name="select_all">Velg alle</string>
      <string name="select_count_xiang">%d valgte</string>
+     <string name="select_media_source">Velg kilde</string>
      <string name="select_none">Avvelg alle</string>
      <string name="select_offline_media">Vis nedlastinger</string>
      <string name="select_tv">Velg kanal</string>
@@ -263,7 +268,12 @@
      <string name="unfavorite">Fjern stjernemerke</string>
      <string name="unknown_source">Ukjent kilde</string>
      <string name="update">Oppdater</string>
+     <string name="update_apk_statusbar">Laster ned…</string>
+     <string name="update_button">Oppdater</string>
+     <string name="update_size_prefix">&lt;CDATA&gt;Størrelse:&lt;/CDATA&gt;</string>
+     <string name="update_title">Oppdatering tilgjengelig</string>
      <string name="update_to_count_ji">Oppdatert til Ep. %d</string>
+     <string name="update_version_prefix">&lt;CDATA&gt;Oppdater til versjon:&lt;/CDATA&gt;</string>
      <string name="updatedalready">Oppdatert</string>
      <string name="upgrade">Oppgrader</string>
      <string name="use_cellular_network">bruk cellulært nettverk</string>

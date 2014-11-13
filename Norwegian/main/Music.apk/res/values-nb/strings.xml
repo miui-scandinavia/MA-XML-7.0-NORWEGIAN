@@ -113,6 +113,8 @@
      <string name="filter_by_duration_prefix">"Minimum lengde: "</string>
      <string name="filter_by_duration_summary">"Ikke vis korte lydfiler"</string>
      <string name="filter_by_size">Etter størrelse</string>
+     <string name="filter_by_size_max">2MB</string>
+     <string name="filter_by_size_min">0KB</string>
      <string name="filter_by_size_prefix">Etter størrelse</string>
      <string name="filter_by_size_summary">"Ikke vis små lydfiler"</string>
      <string name="find_music">Oppdag sanger</string>

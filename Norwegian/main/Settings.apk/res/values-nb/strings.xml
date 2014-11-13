@@ -98,6 +98,7 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="allow_bind_app_widget_activity_always_allow_bind">Gi alltid %1$s tillatelse til å opprette moduler og lese moduldata</string>
      <string name="allow_mock_location">Tillat simulert posisjon</string>
      <string name="allow_mock_location_summary">Tillat bruk av simulerte GPS-koordinater</string>
+     <string name="alpha_build">" | Alfa"</string>
      <string name="always_allow_bind_appwidgets_text">Du har valgt å tillate at denne appen oppretter moduler og leser moduldataene.</string>
      <string name="android_beam_disabled_summary">Utilgjengelig fordi nærfeltskommunikasjon (NFC) er slått av</string>
      <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du overføre appinnhold til en annen enhet som støtter nærfeltskommunikasjon (NFC). Du gjør dette ved å holde enhetene tett sammen. Du kan for eksempel trådløst overføre nettsider, YouTube-videoer, kontakter fra Personer og mye mer.
@@ -754,6 +755,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="details_title">Bruksdetaljer</string>
      <string name="dev_settings_warning_message">Disse innstillingene er bare beregnet for bruk under programutvikling. De kan forårsake problemer med enheten din og tilhørende apper.</string>
      <string name="dev_settings_warning_title">Vil du aktivere utviklingsinnstillingene?</string>
+     <string name="developer_build">" | Utvikler"</string>
      <string name="development_enable">Utviklervalg</string>
      <string name="development_settings_not_available">Utvikleralternativene er ikke tilgjengelige for denne brukeren</string>
      <string name="development_settings_summary">Angi alternativer for apputvikling</string>
@@ -2073,6 +2075,7 @@ For mer informasjon kan du kontakte administratoren din."</string>
      <string name="ssl_ca_cert_warning_message">"En utenforstående kan overvåke nettverksaktiviteten din, inkludert e-poster, apper og sikre nettsteder.
 
 Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."</string>
+     <string name="stable_build">" | Stabil"</string>
      <string name="status_awake_time">Våken tid</string>
      <string name="status_bar_and_notification_bar">Varselskygge og statuslinje</string>
      <string name="status_bar_filter_item_description">For å konfigurere varsler, gå til Generelle innstillinger &gt; Varsler &gt; Administrer varsler</string>
@@ -2091,6 +2094,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_custom_notification">Administrer varsler</string>
      <string name="status_bar_settings_custom_wifi_name">Endre Wi-Fi-navn</string>
      <string name="status_bar_settings_expandable_under_keyguard">Vis på låseskjerm</string>
+     <string name="status_bar_settings_long_click_sort">Langt-trykk for å sortere</string>
      <string name="status_bar_settings_no_carrier">Ingen</string>
      <string name="status_bar_settings_notification_bar">Varselskygge</string>
      <string name="status_bar_settings_show_carrier">Vis tjenestetilbyer</string>
@@ -2109,6 +2113,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_toggle_layout_style_applying">Endrer stil…</string>
      <string name="status_bar_settings_toggle_layout_style_compact">Linje</string>
      <string name="status_bar_settings_toggle_layout_style_single_page">Side</string>
+     <string name="status_bar_settings_toggle_position">Bryterposisjon</string>
      <string name="status_bar_style_settings">Varsler</string>
      <string name="status_bt_address">Bluetooth-adresse</string>
      <string name="status_data_state">Datatilgang</string>

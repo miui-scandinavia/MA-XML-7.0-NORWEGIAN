@@ -848,6 +848,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="updating_settings">Oppdaterer innstillinger…</string>
      <string name="uplmn_list_setting_add_plmn">Ny PLMN</string>
      <string name="uplmn_list_setting_title">Foretrukkede nettverk</string>
+     <string name="uplmn_numeric_is_empty">Skriv en nettverks-ID</string>
      <string name="username">UserName</string>
      <string name="username_title">Brukernavn</string>
      <string name="ussdRunning">USSD-kode kjører…</string>

@@ -58,7 +58,7 @@
      <string name="experimental_build">Eksperimentell Build</string>
      <string name="file_not_found_error_message">"Kunne ikke finne den etterspurte filen på Xiaomi sine servere"</string>
      <string name="finish">Fullfør</string>
-     <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+     <string name="fourgrid_hint_text">Takk for at du bruker utviklerutgaven av MIUI! Vennligst fortell oss hva du synes og hjelp oss å gjøre MIUI bedre.</string>
      <string name="fourgrid_no_notificaiont">"Ikke vis i statuslinjen"</string>
      <string name="fourgrid_notificaiont">Vis i statuslinjen</string>
      <string name="get_auto">Bruk mobilnettverk eller Wi-Fi</string>

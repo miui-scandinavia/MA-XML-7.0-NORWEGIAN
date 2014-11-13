@@ -263,6 +263,10 @@
      <string name="hints_virus_scan_result_descx">"Denne appen er en stor sikkerhetstrussel mot telefonen din."</string>
      <string name="item_app_permission">App-tillatelser</string>
      <string name="item_dev_mode">Utvikleralternativer</string>
+     <string name="item_garbage_size_1000m">1GB</string>
+     <string name="item_garbage_size_100m">100MB</string>
+     <string name="item_garbage_size_300m">300MB</string>
+     <string name="item_garbage_size_500m">500MB</string>
      <string name="item_garbage_time_3d">Hver 3. dag</string>
      <string name="item_garbage_time_7d">Hver 7. dag</string>
      <string name="item_garbage_time_daily">Daglig</string>

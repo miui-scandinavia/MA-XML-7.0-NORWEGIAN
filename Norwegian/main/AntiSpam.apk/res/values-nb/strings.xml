@@ -60,6 +60,7 @@
      <string name="blacklist_prefix_add_hint">Blokker alle nummer som begynner med dette prefikset</string>
      <string name="block_message_number">SMS: %d</string>
      <string name="block_phone_number">Anrop: %d</string>
+     <string name="button_text_delete">Slett</string>
      <string name="button_to_setting">Innstillinger</string>
      <string name="call_delete_hint">Slett alle blokkerte anrop fra dette nummeret?</string>
      <string name="cancle">Avbryt</string>
