@@ -81,7 +81,7 @@
      <string name="menu_title_recovery">Omstart til recovery-modus</string>
      <string name="miui_summary_has_new_version">"  En oppdatering er tilgjengelig  "</string>
      <string name="miui_summary_no_new_version">Ingen oppdatering tilgjengelig</string>
-     <string name="miui_summary_now_version">"Gjeldende versjon "</string>
+     <string name="miui_summary_now_version">Koble til nettverket for å oppdatere</string>
      <string name="monthly_build">Månedlig Build</string>
      <string name="my_best_update">Beste oppdateringen</string>
      <string name="my_expect_update">Forventinger</string>
@@ -95,6 +95,7 @@
      <string name="no_proper_updates">Ingen oppdateringer funnet for denne versjonen av MIUI</string>
      <string name="no_wifi_msg">Bruk av din mobildataforbindelse for å laste ned oppdateringen vil øke ditt dataforbruk.</string>
      <string name="no_wifi_title">Advarsel for databruk</string>
+     <string name="not_open">Ikke åpen</string>
      <string name="notification_downloading">Laster ned oppdatering…</string>
      <string name="notification_load_body_alpha">Hent de nyeste oppdateringene til din enhet.</string>
      <string name="notification_load_body_dev">"Hent de nyeste oppdateringene til din enhet."</string>
@@ -112,9 +113,10 @@
      <string name="notification_updating">Oppdaterer…</string>
      <string name="now">Restart senere</string>
      <string name="on_checking">Ser etter oppdateringer…</string>
+     <string name="open_now">Åpne nå</string>
      <string name="particular_build">Bestemt</string>
      <string name="pause">Pause</string>
-     <string name="previous">Previous</string>
+     <string name="previous">Forrige</string>
      <string name="progress_title_checking">Ser etter oppdateringer…</string>
      <string name="reboot">Start på nytt</string>
      <string name="reboot_to_new_system">Start system på nytt</string>

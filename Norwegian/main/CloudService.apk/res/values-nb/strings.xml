@@ -153,7 +153,7 @@ brukt %s | gjenværende %s"</string>
      <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense!"</string>
      <string name="micloud_unlogin_for_time_summary" />
      <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-     <string name="micloud_upgrade_space">Kjøp mer lagringsplass</string>
+     <string name="micloud_upgrade_space">Hent mer lagringsplass</string>
      <string name="micloud_user_space_title">Lagringsplass</string>
      <string name="micloud_user_space_usage">Plass brukt</string>
      <string name="micloud_warn_full_sum">"Nye elementer vil ikke bli synket med din MiCloud-konto."</string>
@@ -199,7 +199,7 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
-     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilde, SMSer, notater og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
+     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, kontakter, anropslogg og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">mi.com/micloud</string>
      <string name="sync_dspt_provision3">".

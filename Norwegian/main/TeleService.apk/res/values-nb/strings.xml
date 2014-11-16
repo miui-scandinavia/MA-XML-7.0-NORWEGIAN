@@ -262,8 +262,8 @@
      <string name="empty_alert">%s er obligatorisk. Feltet kan ikke være tomt.</string>
      <string name="empty_networks_list">Fant ingen nettverk.</string>
      <string name="enable">Aktiver</string>
-     <string name="enable_antispam_strange_summary">Demp første anrop fra et ukjent nummer</string>
-     <string name="enable_antispam_strange_title">Anti-fremmed samtale</string>
+     <string name="enable_antispam_strange_summary">Demp første ring fra ukjente nummer</string>
+     <string name="enable_antispam_strange_title">Demp første ring</string>
      <string name="enable_disable_administrative">Administrativia</string>
      <string name="enable_disable_advertisements">Reklame</string>
      <string name="enable_disable_atr">Lokale trafikkmeldinger</string>
@@ -656,7 +656,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="registration_status_server_unreachable">Kontoregistrering mislyktes: Kontroller tjenernavnet.</string>
      <string name="registration_status_still_trying">Prøver fortsatt …</string>
      <string name="reject_via_sms">Hurtigsvar</string>
-     <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-svar</string>
+     <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-meldinger</string>
      <string name="reject_via_sms_title">Hurtigsvar</string>
      <string name="remember_my_choice">Standardvalg for Internett-anrop</string>
      <string name="remove">Slett</string>
