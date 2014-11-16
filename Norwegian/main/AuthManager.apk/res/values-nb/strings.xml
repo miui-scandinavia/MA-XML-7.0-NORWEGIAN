@@ -166,7 +166,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
   <string name="HIPS_Perm_SMS_Hint">%1$s apper kan skrive SMS-meldinger</string>
   <string name="HIPS_Perm_SendMMS">Sende MMS-meldinger</string>
   <string name="HIPS_Perm_SendMMS_Desc">sendre multimedie-meldinger direkte</string>
-  <string name="HIPS_Perm_SendMMS_Hint">%1$s apper kan sende MMS<-meldinger</string>
+  <string name="HIPS_Perm_SendMMS_Hint">%1$s apper kan sende MMS</string>
   <string name="HIPS_Perm_SendSMS">Send SMS-meldinger</string>
   <string name="HIPS_Perm_SendSMS_Content">Innhold</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS-data %1$s:%2$d</string>
