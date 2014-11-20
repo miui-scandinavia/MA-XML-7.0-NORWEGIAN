@@ -97,7 +97,7 @@
      <string name="dlg_clear_current_sms">Fjern alle blokkerte SMS-er fra dette nummeret?</string>
      <string name="dlg_delete_keyword">Fjern valgte nøkkelord?</string>
      <string name="dlg_edit_keyword">Endre nøkkeldord</string>
-     <string name="dlg_import_blacklist">Legger til…<</string>
+     <string name="dlg_import_blacklist">Legger til…</string>
      <string name="dlg_import_whitelist">Legger til…</string>
      <string name="dlg_keyword_ok">Lagre</string>
      <string name="dlg_message_not_open_stranger_identify">For å skru på denne funksjonen, gå til Innstillinger &gt; Telefon.</string>
