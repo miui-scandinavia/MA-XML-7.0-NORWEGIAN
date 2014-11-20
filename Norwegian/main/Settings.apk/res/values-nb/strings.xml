@@ -1549,7 +1549,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="open_wifi_connect_summary">Trykk for å håndtere</string>
      <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
      <string name="other_advanced_settings">Flere innstillinger</string>
-     <string name="other_personal_settings">Flere innstillinger</string>
+     <string name="other_personal_settings">Personlige innstillinger</string>
      <string name="other_relative">Andre</string>
      <string name="overlay_display_devices_title">Simulering av sekundærskjermer</string>
      <string name="owner_info_settings_edit_text_hint">Skriv inn teksten som skal vises på låseskjermen</string>
@@ -1742,7 +1742,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="radioInfo_service_out">Ute av serviceperiode</string>
      <string name="radioInfo_unknown">ukjent</string>
      <string name="radio_controls_summary">Administrer Wi-Fi, Bluetooth, flymodus, mobilnettverk og VPN</string>
-     <string name="radio_controls_title">Flere innstillinger</string>
+     <string name="radio_controls_title">Flere</string>
      <string name="radio_info_band_mode_label">Velg radiobånd</string>
      <string name="radio_info_call_redirect_label">Samtaleomdirigering:</string>
      <string name="radio_info_call_status_label">Samtalestatus:</string>
@@ -1942,7 +1942,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="security_keyguard_category_name">Låseskjerm</string>
      <string name="security_password_category_name">Passord</string>
      <string name="security_passwords_title">Passord</string>
-     <string name="security_privacy_settings_title">Sikkerhet</string>
+     <string name="security_privacy_settings_title">Personvern</string>
      <string name="security_relative">Sikkerhet</string>
      <string name="security_settings_billing_desc">Den appen kan belaste deg for penger:</string>
      <string name="security_settings_desc">Denne appen har tilgang til følgende på enheten din:</string>
