@@ -31,7 +31,7 @@
      <string name="privacy_policy">Privacy Policy</string>
      <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
      <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
-     <string name="setting_locale">Setter nasjonale innstillinger…</string>
+     <string name="setting_locale">Setter plassering…</string>
      <string name="shut_down">Skru av</string>
      <string name="sim_card_detecting">Ser etter SIM-kort…</string>
      <string name="sim_card_detection">SIM-kort ikke funnet</string>

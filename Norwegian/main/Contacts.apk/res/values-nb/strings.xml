@@ -149,7 +149,7 @@
      <string name="click_close">Trykk på skjermen for å lukke</string>
      <string name="clip_dialog_title">Ring kopiert nummer?</string>
      <string name="close_dial_pad">lukk talltastatur</string>
-     <string name="cloud_antispam_mark">Rapporter spam</string>
+     <string name="cloud_antispam_mark">Rapporter</string>
      <string name="cloud_antispam_title">Cloud-brannmur</string>
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
@@ -663,7 +663,7 @@ for å legge til kontakt til favoritter:
      <string name="picker_email_title">Velg en e-post-adresse</string>
      <string name="picker_favorites_list_empty">Ingen favoritter</string>
      <string name="picker_groups_list_empty">Ingen grupper</string>
-     <string name="picker_join_title">Velg kontakt å flette med %s</string>
+     <string name="picker_join_title">Flett med %s</string>
      <string name="picker_number_title">Velg nummer</string>
      <string name="picker_postal_title">Velg postnummer</string>
      <string name="picker_recent_list_empty">Ingen nylige kontakter</string>

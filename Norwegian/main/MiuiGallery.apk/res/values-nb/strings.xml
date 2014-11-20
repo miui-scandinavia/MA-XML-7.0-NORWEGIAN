@@ -2,6 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="Import">Importer</string>
+     <string name="abandon">Abandon</string>
      <string name="accept">Aksepter</string>
      <string name="accept_or_deny">%1$s delte album %2$s med deg.</string>
      <string name="action_fail_unknown_error">Kunne ikke fullføre handling pga ukjent feil.</string>
@@ -20,7 +21,11 @@
      <string name="add_to_cloud_space_full_message">MiCloud album er fullt.</string>
      <string name="add_to_cloud_successfully_message">Lagt til i MiCloud-album.</string>
      <string name="add_to_cloud_type_not_support_message">"Denne filtypen er ikke støttet".</string>
+     <string name="add_to_cloud_unfinished_message_with_count">%1$s items are not added to cloud</string>
      <string name="add_to_cloud_unknow_reasons">Ukjent feil</string>
+     <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to secret: %1$s."</string>
+     <string name="add_to_secret_successfully_message">Added to secret album</string>
+     <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
      <string name="adding_recipients">Legger til mottakere...</string>
      <string name="album_member">Album-medlem %s</string>
      <string name="album_name">Album-navn</string>
@@ -42,6 +47,8 @@
      <string name="alert_init_merged_message">"Nå, vil bilder fra din enhetet og bilder du har lagret i Mi Cloud vil bli vist sammen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Du bør åpne synk først, er du sikker på at du vil åpne synk umiddelbart?</string>
+     <string name="alert_secret_album_message">You can scroll the cloud album into secret album.</string>
+     <string name="alert_secret_album_title">Secret Album</string>
      <string name="already_apply_album">Åpne %1$s?</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
@@ -53,6 +60,9 @@
      <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
      <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
      <string name="auto_create_recent_album_over_ten_times">Auto-opprett favorittalbum når åpnet mer en ti ganger</string>
+     <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
+     <string name="auto_upload_tip">Album with the same name will be created after enabled. Existed album (including share album which you share to others) with the same name will be merged.</string>
+     <string name="auto_upload_title">Upload automatically</string>
      <string name="autofix">Auto-fiks</string>
      <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
@@ -549,6 +559,7 @@ venner."</string>
      <string name="details_title">%1$d av %2$d elementer:</string>
      <string name="device_model">Enhet</string>
      <string name="directory_info_divider">"  |  "</string>
+     <string name="do_not_save">Do not save</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
      <string name="doodle">Krusseduller</string>
@@ -563,6 +574,7 @@ venner."</string>
      <string name="edit">Rediger</string>
      <string name="edited_photo_bucket_name">Redigert</string>
      <string name="email_picker_title">Legg til delt e-post</string>
+     <string name="enable">Turn on</string>
      <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
@@ -586,6 +598,7 @@ venner."</string>
      <string name="exit_share_successfully">Albumet %1$s lukket</string>
      <string name="exposure_time">Eksponeringstid</string>
      <string name="external_sd_card">SD kort</string>
+     <string name="external_sdcard_root">External SD card root directory</string>
      <string name="external_usb_device">USB-enhet</string>
      <string name="external_usb_device_hm">Ekstern USB-lagring</string>
      <string name="facelift">Ansiktsglød</string>
@@ -619,6 +632,7 @@ venner."</string>
      <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
      <string name="frame_white">Hvit</string>
      <string name="frame_white_tooltip">photoeditor_frame_white</string>
+     <string name="free">Free</string>
      <string name="gallery_cloud_provider_name">Galleri</string>
      <string name="gallery_setting">Galleri-innstillinger</string>
      <string name="get_album_info_in_process">"Ber om felles-albumets info, vennligst vent..."</string>
@@ -661,6 +675,7 @@ venner."</string>
      <string name="internal_miui_capture_screen_folder_display_name">Skjermbilder (Internt)</string>
      <string name="internal_sd_card">Internt SD-kort</string>
      <string name="internal_sd_card_hm">Telefon-lagring</string>
+     <string name="internal_sdcard_root">Internal SD card root directory</string>
      <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
      <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
      <string name="iso">ISO</string>
@@ -757,8 +772,15 @@ venner."</string>
      <string name="operation_too_often">Operasjon overstiger frekvensgrense, prøv igjen etter 1 minutt.</string>
      <string name="operation_unset_as_screensaver">Avbryt skjermsparer</string>
      <string name="orientation">Orientering</string>
+     <string name="original">Original</string>
+     <string name="original_scale">Original scale</string>
      <string name="other_category">Andre innstillinger</string>
      <string name="owner_album_subtitle">Delt med %1$s medlemmer</string>
+     <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
+     <string name="paint_cancel_title">Abandon changes</string>
+     <string name="paint_crop_cancel_context">Do you want to save the crop result?</string>
+     <string name="paint_crop_cancel_title">Abandon changes</string>
+     <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
      <string name="photo_page_always_rotate">Auto-roter bilder</string>
@@ -767,6 +789,7 @@ venner."</string>
      <string name="photo_page_save_uri_image_fail">Kunne ikke lagre bilde.</string>
      <string name="photo_page_save_uri_image_ok">Lagre bilder til kamera bilder mappe.</string>
      <string name="photo_paint_adjust">adjust</string>
+     <string name="photo_paint_crop">Crop</string>
      <string name="photo_paint_effect">effect</string>
      <string name="photo_saved">Bilde lagret til %s</string>
      <string name="photo_size">Størrelse</string>
@@ -774,10 +797,13 @@ venner."</string>
      <string name="photos">Bilde(r)</string>
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="pick_too_much_tips">"Kan ikke velge så mange element (maks %d elementer)."</string>
+     <string name="pick_with_limited_upper_bound_title">You can select %d items</string>
      <string name="picker_no_album_selected">Ingen album valgt</string>
      <string name="picker_no_items_selected">Ingen elementer valgt</string>
      <string name="picker_select_album_title_empty">Velg et album</string>
      <string name="picker_tab_photo">Bilde</string>
+     <string name="pocket_camera_picture">Pocket Camera pictures</string>
+     <string name="pocket_camera_video">Pocket Camera videos</string>
      <string name="posterize">Posteriser</string>
      <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>
@@ -797,6 +823,9 @@ venner."</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>
      <string name="refocus_data_downloading">Laster ned refocus data…</string>
+     <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from secret: %1$s."</string>
+     <string name="remove_from_secret_successfully_message">Removed from secret album</string>
+     <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
      <string name="remove_hidden_album">Opphev skjuling</string>
      <string name="remove_recent_album">Fjern fra favoritt-album</string>
      <string name="rename_failed">Endring av navn mislykkes</string>
@@ -811,6 +840,7 @@ venner."</string>
      <string name="rotate">Roter</string>
      <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Trekk foto for å rotere det</string>
+     <string name="same_name_album_exists_alert">An album with the same name which has been shared to others already exists, Are you sure to upload photo automatically to that album?</string>
      <string name="saturation">Metning</string>
      <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
      <string name="save">LAGRE</string>
@@ -828,10 +858,12 @@ venner."</string>
      <string name="screensaver_path">Skjermsparer-album:</string>
      <string name="screensaver_path_not_set">Ikke satt</string>
      <string name="sd_not_available">SD Kort demonteret eller utilgjengelig</string>
+     <string name="sdcard_root">SD card root directory</string>
      <string name="seconds">sekunder</string>
      <string name="secret_album_display_name">Secret album</string>
      <string name="select_album">Rediger</string>
      <string name="select_all">Velg alle</string>
+     <string name="select_auto_upload_albums">Choose albums to upload to cloud</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Rediger</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
@@ -887,6 +919,7 @@ venner."</string>
      <string name="slideshow_repeat_mode">Gjenta</string>
      <string name="slideshow_time_select_title">Velg lysbildeshow-tid</string>
      <string name="slideshow_time_title">Lysbildeshow-tid</string>
+     <string name="square">Square</string>
      <string name="start_slide_show">Start lysbildevisning</string>
      <string name="storage_all_volumes">Alle lagerenheter</string>
      <string name="storage_no_space">"Ingen lagerenheter tilgjengelige."</string>
@@ -945,6 +978,7 @@ venner."</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>
      <string name="weikan_weikan">Weikan TV</string>
+     <string name="weixin">WeChat</string>
      <string name="where_is_barcode">Hvor er QR-koden?</string>
      <string name="white_balance">Hvitbalanse</string>
      <string name="widget_type">Velg bilder</string>
@@ -954,4 +988,5 @@ venner."</string>
      <string name="width">Bredde</string>
      <string name="yellow_page">Katalog</string>
      <string name="yes">Ja</string>
+     <string name="yunyi_pocket_camera">Pocket Camera</string>
 </resources>

@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
-<resources>
-     <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <string-array name="cache_sort_type">
+<resources>     <string-array name="cache_sort_type">
         <item>Størrelse</item>
         <item>Navn</item>
      </string-array>
@@ -50,9 +36,9 @@
         <item>Vibrer når telefonen er i lydløsmodus</item>
         <item>Alltid vibrer</item>
      </string-array>
-     <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Skru av</item>
+        <item>Skru på</item>
+        <item>"Ikke vis"</item>
      </string-array>
 </resources>

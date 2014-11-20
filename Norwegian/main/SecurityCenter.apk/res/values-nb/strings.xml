@@ -195,12 +195,12 @@
      <string name="hints_auto_start_warning_info">"Hvis du begrenser autostart, vil noen apper og tjenester ikke kjøre."</string>
      <string name="hints_cache_header_left">Mellomlagrede filer: %d</string>
      <string name="hints_cleanning_text">Rydder…</string>
-     <string name="hints_finish_quick_cleanup">Gjør ferdig rydding</string>
-     <string name="hints_finish_quick_cleanup_title">Ferdig med å rydde %s søppel</string>
-     <string name="hints_finish_quick_scan">Skann fullført</string>
-     <string name="hints_garbage_cleanup_result_danger">Farlig</string>
-     <string name="hints_garbage_cleanup_result_risk">Risikabelt</string>
-     <string name="hints_garbage_cleanup_result_safe">Trygt</string>
+     <string name="hints_finish_quick_cleanup">Vis detaljer</string>
+     <string name="hints_finish_quick_cleanup_title">Rydd %s søppel</string>
+     <string name="hints_finish_quick_scan">Ferdig med skanning</string>
+     <string name="hints_garbage_cleanup_result_danger">Rydd søppel nå</string>
+     <string name="hints_garbage_cleanup_result_risk">Rydd søppel nå</string>
+     <string name="hints_garbage_cleanup_result_safe">Alt ser bra ut</string>
      <string name="hints_garbage_handle_item_content">%1$d elementer，%2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Tomt</string>
      <string name="hints_get_root_disable_title">"%d apper har ikke rottilgang"</string>
@@ -441,6 +441,7 @@
      <string name="power_dialog_screen_brightness_title">Lysstyrke</string>
      <string name="power_dialog_sleep_title">Dvale</string>
      <string name="power_dialog_vibration_title">Vibrer</string>
+     <string name="power_dialog_wifi_title">Wi-Fi</string>
      <string name="power_exitlowbattery_whencharge">Deaktiver når koblet til</string>
      <string name="power_idle">Telefon inaktiv</string>
      <string name="power_mode_airplane_mode">Flymodus</string>
@@ -462,6 +463,7 @@
      <string name="power_mode_cpu_state_save_desc">Gjør batteritid høyere prioritert enn ytelse</string>
      <string name="power_mode_gps">GPS</string>
      <string name="power_mode_internet">Mobile nettverk</string>
+     <string name="power_mode_keep_state">"Ikke vis"</string>
      <string name="power_mode_my_mode">Min profil</string>
      <string name="power_mode_my_mode_summary">Lagre nåværende batteriinnstillinger</string>
      <string name="power_mode_screen_brightness">Lysstyrke</string>

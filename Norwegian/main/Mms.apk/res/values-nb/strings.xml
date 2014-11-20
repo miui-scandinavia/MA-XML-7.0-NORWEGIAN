@@ -268,6 +268,7 @@
      <string name="mx_online">Online</string>
      <string name="mx_reactivate">Reaktiver Mi-melding</string>
      <string name="mx_recommend_msg">Trykk for å aktivere Mi-melding</string>
+     <string name="mx_type_guide">免费网络短信可以让MIUI用户之间通过WIFI或移动数据网络发送免费短信</string>
      <string name="need_download">Venter på synk...</string>
      <string name="new_message">Ny melding</string>
      <string name="new_message_arrived">Du har en ny melding</string>

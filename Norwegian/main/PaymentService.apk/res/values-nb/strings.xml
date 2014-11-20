@@ -56,7 +56,9 @@
      <string name="button_call">Ring</string>
      <string name="button_cancel">Avbryt</string>
      <string name="button_confirm">Bekreft</string>
+     <string name="button_count_down_finish">OK(%1$s)</string>
      <string name="button_count_down_reget">Henter verifiseringskoden(%1$s)</string>
+     <string name="button_custom_service_phone">Got it</string>
      <string name="button_next">Neste</string>
      <string name="button_pay">Bekreft</string>
      <string name="button_recharge">Fyll på</string>
@@ -216,6 +218,12 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="pay_record_empty">Ingen betalingshistorikk.</string>
      <string name="pay_record_typeall">Alle</string>
      <string name="payment_actionbar_title">Confirm</string>
+     <string name="payment_recharge_group_familiar">Choose top-up method</string>
+     <string name="payment_recharge_group_favorite">Top-up methods</string>
+     <string name="payment_success_label">"You've paid%1$sMi Credit"</string>
+     <string name="payment_success_title">Payment received</string>
+     <string name="payment_title">Confirm payment info</string>
+     <string name="payment_with_login_title">Enter your Mi Account password</string>
      <string name="paytool_alipay">Alipay</string>
      <string name="paytool_error_install">Kan ikke innstallere %1$s mobilsikkerhetstillegg</string>
      <string name="paytool_error_msp">%1$s feilet</string>
@@ -275,6 +283,7 @@ Kundesupportsenter: 400-100-5678
      <string name="recharge_grid_edit_limit">%1$s~%2$s yuan</string>
      <string name="recharge_grid_edit_upper_limit">"Kan ikke gå over %1$s yuan"</string>
      <string name="recharge_grid_error_denomination">Vennligst skriv en gyldig beløp mellom ￥%1$s~%2$s</string>
+     <string name="recharge_grid_item_more">More</string>
      <string name="recharge_grid_picker_hint">Velg beløp</string>
      <string name="recharge_group_familiar">Common methods</string>
      <string name="recharge_group_favorite">Bruk forrige oppfyllingsmetode</string>
@@ -295,13 +304,16 @@ Kundesupportsenter: 400-100-5678
      <string name="scan_prompt_retry">Oppbevar kortet i posisjon for ikke-reflekterende, forblir stabil etter nytt forsøk</string>
      <string name="scan_prompt_voucher">Skann MiCredit-passord</string>
      <string name="security_setting">Sikkerhetsinnstillinger</string>
+     <string name="sms_code_empty">Enter the verification code sent to your phone.</string>
      <string name="sms_code_error">Feil verifiseringskode for mobiltelefon, vennligst hent ny</string>
      <string name="sms_code_hint">Verifiseringskode for mobiltelefon</string>
      <string name="summary_bind_phone">For å ivareta sikkerheten til kontoen din, vennligst fullfør utbetaling etter binding av mobiltelefon nr.</string>
+     <string name="summary_custom_service_phone">Tel:</string>
      <string name="summary_lockpattern">Krev unik mønsterlås for MiCredit</string>
      <string name="summary_sms_code">For å ivareta sikkerheten til kontoen din, vennligst skriv verifiseringskoden mottatt på telefon %1$s，så fullfør betaling</string>
      <string name="title_bind_phone">Binder mobiltelefon nr.</string>
      <string name="title_change_lockpattern">Bytt mønsterlås</string>
+     <string name="title_custom_service_phone">Contact customer support</string>
      <string name="title_discounts">Rabatter</string>
      <string name="title_gesture">Mønsterlås</string>
      <string name="title_giftcard">Promoteringer</string>

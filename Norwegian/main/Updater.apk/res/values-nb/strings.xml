@@ -95,7 +95,7 @@
      <string name="no_proper_updates">Ingen oppdateringer funnet for denne versjonen av MIUI</string>
      <string name="no_wifi_msg">Bruk av din mobildataforbindelse for å laste ned oppdateringen vil øke ditt dataforbruk.</string>
      <string name="no_wifi_title">Advarsel for databruk</string>
-     <string name="not_open">Ikke åpen</string>
+     <string name="not_open">Av</string>
      <string name="notification_downloading">Laster ned oppdatering…</string>
      <string name="notification_load_body_alpha">Hent de nyeste oppdateringene til din enhet.</string>
      <string name="notification_load_body_dev">"Hent de nyeste oppdateringene til din enhet."</string>
@@ -113,7 +113,7 @@
      <string name="notification_updating">Oppdaterer…</string>
      <string name="now">Restart senere</string>
      <string name="on_checking">Ser etter oppdateringer…</string>
-     <string name="open_now">Åpne nå</string>
+     <string name="open_now">På</string>
      <string name="particular_build">Bestemt</string>
      <string name="pause">Pause</string>
      <string name="previous">Forrige</string>
@@ -122,6 +122,8 @@
      <string name="reboot_to_new_system">Start system på nytt</string>
      <string name="repeat">Prøv igjen</string>
      <string name="set_auto">Se etter oppdateringer automatisk</string>
+     <string name="set_auto_msg">Last ned oppdateringer over Wi-Fi</string>
+     <string name="set_auto_update_title">Last ned oppdateringer automatisk</string>
      <string name="set_installfail_full_msg">"Kan ikke oppdatere for øyeblikket. Trykk \"OK\" for å rapportere feilen til våre ingeniører."</string>
      <string name="set_installfail_msg">Bruk av mobildataforbindelsen for å laste ned denne oppdateringen vil øke ditt dataforbruk.</string>
      <string name="set_installfail_title">Prøv å laste ned oppdatering igjen?</string>
@@ -150,6 +152,7 @@
      <string name="submit_success">Sendt</string>
      <string name="test">Test</string>
      <string name="timer_title">Enheten vil starte på nytt om %d sekunder.</string>
+     <string name="title_toast_auto">Oppdateringer vil lastes ned automatisk</string>
      <string name="top_secret_build">Hemmelig build</string>
      <string name="unkown_error_title">En feil oppsto…</string>
      <string name="unstable_build">Ustabil build</string>
