@@ -1115,9 +1115,10 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="yellowPageNavigationIconLabel">Katalog</string>
      <string name="yellowPageNavigationLabel">Katalog</string>
      <string name="yellowpage_navigation_more_items">Mer</string>
+     <string name="yellowpage_navigation_more_items_title">Flere tjenester</string>
      <string name="yellowpage_navigation_network_location_enable">Tillat</string>
      <string name="yellowpage_navigation_network_location_enable_later">Ikke nå</string>
-     <string name="yellowpage_navigation_network_location_enabled">Tjensten er aktiver, du kan skru den av i plasseringsinnstillinger</string>
+     <string name="yellowpage_navigation_network_location_enabled">Tjenesten er aktiver, du kan skru den av i plasseringsinnstillinger</string>
      <string name="yellowpage_navigation_network_location_not_enabled_summary">Forbedre søkeresultatene ved å tillate Katalog å få tilgang til din plassering</string>
      <string name="yellowpage_navigation_network_location_not_enabled_title">Plasseringstilgang</string>
      <string name="yellowpage_navigation_no_content">Ingen søkeresultater</string>

@@ -8,7 +8,7 @@
      <string name="add_attachment">Legg til</string>
      <string name="add_bookmark">Favoritter</string>
      <string name="add_contact">Kontakt</string>
-     <string name="add_festival">Festival</string>
+     <string name="add_festival">Hilsener</string>
      <string name="add_music">Legg til musikk</string>
      <string name="add_nickname">Kallenavn</string>
      <string name="add_nickname_title">Redigering av kallenavnet</string>
@@ -148,7 +148,7 @@
      <string name="fdn_check_failure">Du kan kun sende meldinger til dine faste anropsnumre.</string>
      <string name="feedback_description_hint">Skriv dine tilbakemeldinger her</string>
      <string name="feedback_submit">Send</string>
-     <string name="festival">Diverse</string>
+     <string name="festival">Hilsener</string>
      <string name="festival_continue">OK</string>
      <string name="festival_networking_desc">Denne funksjonen krever tilkobling til internett for å fungere skikkelig.</string>
      <string name="festival_never_remind">"Ikke vis igjen"</string>
@@ -268,7 +268,7 @@
      <string name="mx_online">Online</string>
      <string name="mx_reactivate">Reaktiver Mi-melding</string>
      <string name="mx_recommend_msg">Trykk for å aktivere Mi-melding</string>
-     <string name="mx_type_guide">免费网络短信可以让MIUI用户之间通过WIFI或移动数据网络发送免费短信</string>
+     <string name="mx_type_guide">Seng meldinger frem og tilbake gratis med andre medlemmer som også bruker denne funksjoner</string>
      <string name="need_download">Venter på synk...</string>
      <string name="new_message">Ny melding</string>
      <string name="new_message_arrived">Du har en ny melding</string>
@@ -311,7 +311,7 @@
      <string name="pref_summary_allow_si_sl_push">Tillat mottak og notifisering av WAP push-meldinger (SI/SL)</string>
      <string name="pref_summary_delete_limit">%1$s meldinger per samtale</string>
      <string name="pref_summary_delivery_reports">Aktiver leveringsrapporter for meldinger</string>
-     <string name="pref_summary_hide_festival">Skjul hilsener-fanen for ikke kinesiske språk</string>
+     <string name="pref_summary_hide_festival">Skjul Kinesiske språk-funksjoner når systemet er satt til et ikke Kinesisk-språk</string>
      <string name="pref_summary_manage_sim_messages">Håndter meldinger lagret på SIM-kort</string>
      <string name="pref_summary_mms_auto_retrieval">Hent automatisk MMS-meldinger</string>
      <string name="pref_summary_mms_read_reports">Spør om lestrapport for hver melding du sender</string>
@@ -331,7 +331,7 @@
      <string name="pref_title_delivery_reports">Leveringsrapporter</string>
      <string name="pref_title_festival_networking">Internetttilkolbing</string>
      <string name="pref_title_fwd_sender_info">Videresend senderinfo</string>
-     <string name="pref_title_hide_festival">Skjul hilsener-fanen</string>
+     <string name="pref_title_hide_festival">Skjul Kinesiske språk-funksjoner</string>
      <string name="pref_title_manage_sim_messages">Håndter meldinger lagret på SIM-kort</string>
      <string name="pref_title_miui_card">Send via MIUI-kort</string>
      <string name="pref_title_mms_auto_retrieval">Hent automatisk</string>
