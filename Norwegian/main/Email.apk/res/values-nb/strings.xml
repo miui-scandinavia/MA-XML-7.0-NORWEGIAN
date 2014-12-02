@@ -203,6 +203,9 @@
      <string name="add_file_attachment">Legg ved fil</string>
      <string name="add_label">Legg til mappe</string>
      <string name="add_photo_attachment">Legg ved bilde</string>
+     <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+     <string name="add_pre_message_attachments_no">No</string>
+     <string name="add_pre_message_attachments_yes">Add</string>
      <string name="add_star">Stjerne</string>
      <string name="add_video_attachment">Legg ved video</string>
      <string name="address_display_format">%1$s | %2$s</string>
@@ -261,6 +264,7 @@
      <string name="bottom_bar_more_delete">Slett</string>
      <string name="bottom_bar_more_quickreply">Hurtigsvar</string>
      <string name="bottom_bar_more_unread">Merk som ulest</string>
+     <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
      <string name="bytes">%s B</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_action">Avbryt</string>
@@ -506,6 +510,8 @@
      <string name="imap_name">IMAP</string>
      <string name="inbox_folders_heading">Lokale mapper</string>
      <string name="info">Info</string>
+     <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
+     <string name="inline_picture_download_complete">inline picture download complete</string>
      <string name="input_password_prompt">Enter your password</string>
      <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
      <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
@@ -644,6 +650,7 @@ CC: %4$s
      <string name="new_incoming_messages_one">New message from %s. Show.</string>
      <string name="new_messages">%1$d new messages</string>
      <string name="next_action">Neste</string>
+     <string name="next_not_prompt">"Don't prompt"</string>
      <string name="no">No</string>
      <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">No app was found to open this attachment.</string>

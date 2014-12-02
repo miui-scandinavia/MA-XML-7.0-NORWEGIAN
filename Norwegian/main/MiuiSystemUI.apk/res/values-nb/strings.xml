@@ -135,6 +135,10 @@
      <string name="notification_otg_trackball_out">Trackball frakoblet</string>
      <string name="notification_otg_unknow_in">OTG-enhet tilkoblet</string>
      <string name="notification_otg_unknow_out">OTG-enhet frakoblet</string>
+     <string name="oldman_airplane_mode_text">airplane</string>
+     <string name="oldman_incall_text">incall</string>
+     <string name="oldman_status_bar_time_format_12">h:mm</string>
+     <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Rejecting call</string>
      <string name="return_to_incall_screen">Trykk for å gå tilbake til anrop</string>
      <string name="screenshot_failed_text">"Kunne ikke lagre skjermbilde. Lagring er muligens i bruk."</string>

@@ -60,6 +60,9 @@
      <string name="calendar_network_error">Nettverksfeil</string>
      <string name="calendar_refresh">Oppdater</string>
      <string name="calendar_server_error">Serverfeil</string>
+     <string name="can_not_modify_allday_event">Hendelser som varer hele dagen, kan ikke endres</string>
+     <string name="can_not_modify_event">Kan ikke endres</string>
+     <string name="can_not_modify_repeating_acrossing_days_event">Hendelser som er repeterende eller påtvers av dager kan ikke endres</string>
      <string name="change_response_title">Endre svar</string>
      <string name="chinese_leap">闰</string>
      <string name="chongsha" />
@@ -105,6 +108,7 @@
      <string name="edit_event_confirm_message">Forkast endringene til dette arrengementet?</string>
      <string name="edit_event_from_label">Fra</string>
      <string name="edit_event_label">Detaljer</string>
+     <string name="edit_event_reminder_off_toast">Standard påminnelsesmodus er av</string>
      <string name="edit_event_show_all">Vis alle</string>
      <string name="edit_event_to_label">Til</string>
      <string name="edit_label">Rediger</string>
@@ -271,7 +275,7 @@
      <string name="subscribe_all">Abonner</string>
      <string name="synced">Synkronisert</string>
      <string name="tab_category">Kategori</string>
-     <string name="tab_local">Lokal</string>
+     <string name="tab_local">Mine</string>
      <string name="tab_online">Online</string>
      <string name="taishen" />
      <string name="tardis">TARDIS</string>
@@ -306,6 +310,7 @@
      <string name="widget_select_style">Velg widget-stil</string>
      <string name="work_day_indication" />
      <string name="wuxing" />
+     <string name="xiaomi_calendar_display_name">Xiaomi-kalender</string>
      <string name="xingxiu" />
      <string name="yearly">Årlig (den %s)</string>
      <string name="yearly_plain">Årlig</string>

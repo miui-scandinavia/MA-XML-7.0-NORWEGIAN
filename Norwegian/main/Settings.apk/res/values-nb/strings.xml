@@ -779,7 +779,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="device_name">Enhetsnavn</string>
      <string name="device_name_input_error">"Kunne ikke lagre enhetsnavn."</string>
      <string name="device_name_input_hint">Skriv navn</string>
-     <string name="device_name_usage_point">Dette navnet vil bli synlig for andre Bluetooth-enheter i nørheten</string>
+     <string name="device_name_usage_point">Dette navnet vil bli synlig for andre enheter i nærheten.</string>
      <string name="device_picker">Bluetooth-enhetsvelger</string>
      <string name="device_sd_memory">SD-kort</string>
      <string name="device_status">Status</string>

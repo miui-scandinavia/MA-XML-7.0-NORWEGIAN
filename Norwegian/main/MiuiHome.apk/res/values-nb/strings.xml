@@ -33,7 +33,8 @@
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="edit_folder_title">Rediger mapper</string>
      <string name="editing_add_widget_tips">Endre widgeter</string>
-     <string name="editing_mode_title_empty">Select items</string>
+     <string name="editing_mode_enter_tip_text">Klyp for å endre Hjemskjerm</string>
+     <string name="editing_mode_title_empty">Velg elementer</string>
      <string name="editing_set_transition_effect_tips">Velg skjermovergangeffekt</string>
      <string name="editing_set_wallpaper_tips">Velg bakgrunn</string>
      <string name="editing_tips">Endre hjemskjerm</string>

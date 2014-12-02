@@ -200,14 +200,14 @@
      <string name="menu_delete_messages">Slett meldinger</string>
      <string name="menu_edit">Rediger</string>
      <string name="menu_forward">Videresend</string>
-     <string name="menu_lock">Lås melding</string>
+     <string name="menu_lock">Stjernemerk</string>
      <string name="menu_mark">Marker</string>
      <string name="menu_more">Mer</string>
      <string name="menu_new_contact">Ny kontakt</string>
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
-     <string name="menu_unlock">Lås opp melding</string>
+     <string name="menu_unlock">Fjern stjerne</string>
      <string name="menu_view_contact">Åpen kontakt</string>
      <string name="menu_yellowpage">Vis %s</string>
      <string name="message_class_label">"Meldingstype: "</string>

@@ -185,6 +185,9 @@
      <string name="copy_url">copy url</string>
      <string name="create_qr_code">qr code</string>
      <string name="create_shortcut_bookmark">Legg til snarvei på startskjermen</string>
+     <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="data_traffic_prompt_message">Using your mobile data connection to browse will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="data_traffic_prompt_title">Data usage warning</string>
      <string name="date_picker_dialog_clear">Tøm</string>
      <string name="date_picker_dialog_other_button_label">Andre</string>
      <string name="date_picker_dialog_set">Sett</string>
@@ -250,6 +253,9 @@
      <string name="filename_empty_alert_message">"Filnavn kan ikke være tomt!"</string>
      <string name="filename_illegal_alert_message">Filnavn inneholder ulovlige tegn, filen har blitt automatisk fjernet.</string>
      <string name="find_on_page">Finn på side</string>
+     <string name="find_on_page_cancel">Avbryt</string>
+     <string name="find_on_page_next">Neste</string>
+     <string name="find_on_page_prev">Tilbake</string>
      <string name="folder_name">Mappenavn</string>
      <string name="forward">Fremover</string>
      <string name="general_set_default_browser_dialog_close_txt">Lukk</string>
@@ -293,6 +299,7 @@
      <string name="location">Adresse</string>
      <string name="low_memory_error">Ikke nok minne til å fullføre denne oppgaven</string>
      <string name="max_tabs_warning">Fanegrense nådd</string>
+     <string name="maximum_input_alert">Maks inndata 2048 tegn</string>
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Beklager, denne videoen er ikke gyldig for strømming til denne enheten.</string>
      <string name="media_player_error_text_unknown">Beklager, denne videoen kan ikke spilles av.</string>
@@ -689,6 +696,8 @@
      <string name="up_to_loading_tips">Slipp for å laste på nytt</string>
      <string name="uploads_disabled">Filopplastninger er avslått.</string>
      <string name="url_copy_done">URL kopiert</string>
+     <string name="url_find_on_page_result">Vis i nettleser</string>
+     <string name="url_find_on_page_result_item">Vis hele teksten for \"%s\"</string>
      <string name="url_hint">Søk eller tast inn URL</string>
      <string name="url_opened_in_background">Open in background tab</string>
      <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
@@ -702,6 +711,9 @@
      <string name="v5_deselect_all">Avvelg alle</string>
      <string name="v5_edit_mode_title_empty">0 valgte</string>
      <string name="v5_select_all">Avvelg alle</string>
+     <string name="video_project_button">Stop</string>
+     <string name="video_project_msg">Displaying on %s</string>
+     <string name="video_project_title">External display</string>
      <string name="video_title">Video</string>
      <string name="view_certificate">Vis sertifikat</string>
      <string name="voice_sub_title">"Vet du ikke hva du skal si? Prøv Åpne mi.com!"</string>

@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="webview_matches_found">
-        <item quantity="other">%1$d av %2$d</item>
-        <item quantity="one">1 match</item>
-    </plurals>
-    <plurals name="webview_last_num_days">
-        <item quantity="other">Siste %d dager</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
+     <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d items blocked</item>
+        <item quantity="one">%d item blocked</item>
+     </plurals>
+     <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+     </plurals>
+     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>
-    </plurals>
+     </plurals>
+     <plurals name="webview_last_num_days">
+        <item quantity="other">Siste %d dager</item>
+     </plurals>
+     <plurals name="webview_matches_found">
+        <item quantity="other">%1$d av %2$d</item>
+        <item quantity="one">1 match</item>
+     </plurals>
 </resources>
