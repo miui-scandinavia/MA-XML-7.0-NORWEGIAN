@@ -126,7 +126,7 @@
      <string name="clip_dialog_title">Åpne kopiert link?</string>
      <string name="close_ads_choice_no">Tillat</string>
      <string name="close_ads_choice_yes">Blokker</string>
-     <string name="close_ads_message">"Blokker innhold fra dette nettstedet? Du kan vise sider du har blokkert i Innstillinger &gt; Avanserte &gt; Blokkerte sider."<</string>
+     <string name="close_ads_message">"Blokker innhold fra dette nettstedet? Du kan vise sider du har blokkert i Innstillinger &gt; Avanserte &gt; Blokkerte sider."</string>
      <string name="close_ads_title">Blokker innhold?</string>
      <string name="close_all_tab_alert_message">Lukk alle fanenene åpent i nettleseren?</string>
      <string name="close_all_tab_alert_title">Lukk alle faner</string>
