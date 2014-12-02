@@ -35,7 +35,7 @@
      <string name="launch_wechat">Åpne WeChat</string>
      <string name="name">Navn:</string>
      <string name="nickname">Kallenavn:</string>
-     <string name="not_insert_contact">"Ikke sett inn kontakt"</string>
+     <string name="not_insert_contact">"Kunne ikke sette inn kontakt"</string>
      <string name="not_recommend_access_web_url">Fortsett til nettsted uansett</string>
      <string name="not_tips">"Husk dette valget"</string>
      <string name="note">Notat:</string>
