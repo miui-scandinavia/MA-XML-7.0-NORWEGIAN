@@ -107,7 +107,7 @@
      <string name="login_title">Logg inn på din Mi-konto</string>
      <string name="login_with_email_or_id">&lt;u&gt;Logg inn med annen konto&lt;/u&gt;</string>
      <string name="logout_failed">"Kan ikke logge ut"</string>
-     <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester med én konto.</string>
+     <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester fra hvor som helst.</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi-konto</string>
      <string name="micloud_account_details">Kontodetaljer</string>
@@ -245,11 +245,10 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="user_agreement_p1">"Ved å logge inn godtar du våre
   "</string>
      <string name="user_agreement_p2">Tjenestevilkår</string>
-     <string name="user_agreement_p3"> og  </string>
+     <string name="user_agreement_p3"> og </string>
      <string name="user_agreement_p4">retningslinjer for personvern</string>
      <string name="user_agreement_p5">"Ved å opprette en konto godtar du"</string>
-     <string name="user_agreement_p6">"Du godtar våre
-  "</string>
+     <string name="user_agreement_p6">Godta </string>
      <string name="vcode">Verifikasjonskode</string>
      <string name="vcode_notification_title">Verifikasjon er ikke fullført</string>
      <string name="vcode_prompt_long">Skriv inn verifikasjonskoden generert av Mi-sikkerhet</string>

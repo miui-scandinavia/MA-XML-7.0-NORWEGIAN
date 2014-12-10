@@ -92,7 +92,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Laster…</string>
      <string name="loading_hint">Laster</string>
-     <string name="master_alert_notif_dspt_add">%s elementer å synkronisere</string>
+     <string name="master_alert_notif_dspt_add">%s elementer venter på å bli synkronisertz/string>
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
@@ -108,9 +108,9 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_detail_preference_wlan">synk på Wi-Fi</string>
      <string name="micloud_detail_success">synket</string>
      <string name="micloud_detail_syncing">synker</string>
-     <string name="micloud_detail_wlan">%d data usynket</string>
-     <string name="micloud_detail_wlan_contact">%d kontaktbilde usynket</string>
-     <string name="micloud_detail_wlan_mms">%d mms usynket</string>
+     <string name="micloud_detail_wlan">%d venter på synk</string>
+     <string name="micloud_detail_wlan_contact">%d kontaktbilder venter på synk</string>
+     <string name="micloud_detail_wlan_mms">%d MMS venter på synk</string>
      <string name="micloud_dspt">Bruk Mi Cloud for å synke innhold, finne din enhet,</string>
      <string name="micloud_dspt_provision">Bruk Mi Cloud for å synke innhold, finne din enhet, og dele ting med venner.</string>
      <string name="micloud_first_login_summary" />
@@ -123,14 +123,14 @@ Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt
 
 For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
-     <string name="micloud_main_data_unsynced">%d elementer å synkronisere</string>
+     <string name="micloud_main_data_unsynced">%d elementer venter på synk</string>
      <string name="micloud_main_detail">vis detalj</string>
-     <string name="micloud_main_last_sync_time">Siste synktid er %s</string>
+     <string name="micloud_main_last_sync_time">Sist synket: %s</string>
      <string name="micloud_main_network_abnormal">"Kan ikke koble til nettverket"</string>
      <string name="micloud_main_network_error">"Kan ikke koble til nettverket."</string>
      <string name="micloud_main_set_internet">Nettverk</string>
-     <string name="micloud_main_space_full">plass full</string>
-     <string name="micloud_main_space_risk">Du har %d data å synke. Vennligst oppgrader lagringsplass.</string>
+     <string name="micloud_main_space_full">Ikke nok lagringsplass.</string>
+     <string name="micloud_main_space_risk">%d synket.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
      <string name="micloud_main_suggest_sync">Noen elementer har ikke blytt synkronisert med din Mi Cloud</string>
      <string name="micloud_main_sync_exception">Synkfeil</string>
@@ -138,10 +138,10 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_pause">Pause sync</string>
      <string name="micloud_main_sync_stop">Stopp synk</string>
-     <string name="micloud_main_synced_data_count">%d data har blitt synket</string>
-     <string name="micloud_main_syncing">data synkes...</string>
-     <string name="micloud_main_update_space">oppgrader plass</string>
-     <string name="micloud_main_wlan_sync_data_count">%d data vil synke på Wi-Fi</string>
+     <string name="micloud_main_synced_data_count">%d synket</string>
+     <string name="micloud_main_syncing">synker…</string>
+     <string name="micloud_main_update_space">Hent mer lagringsplass.</string>
+     <string name="micloud_main_wlan_sync_data_count">%d venter på synk over Wi-Fi</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
@@ -197,7 +197,7 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="space">Lagring</string>
      <string name="start_micloud">Start</string>
      <string name="storage">Lagring</string>
-     <string name="sub_alert_notif_dspt_add">%s elementer å synke</string>
+     <string name="sub_alert_notif_dspt_add">%s venter på synk</string>
      <string name="sub_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="sub_alert_notif_title">Synker ikke</string>
      <string name="sub_sync_item_sms_summary">Reduserer databruk</string>

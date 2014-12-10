@@ -2,8 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="agree">Samtykk</string>
-     <string name="congratulation_label">Nyt din nye telefon :)</string>
-     <string name="congratulation_next">Start å bruke MIUI</string>
+     <string name="congratulation_label">Nyt din Mi-enhet!</string>
+     <string name="congratulation_next">OK</string>
      <string name="disagree">Avbryt</string>
      <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>

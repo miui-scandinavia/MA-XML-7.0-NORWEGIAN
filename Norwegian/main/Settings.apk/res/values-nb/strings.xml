@@ -603,7 +603,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="credentials_install_summary">Installer sertifikater fra lagringsenhet</string>
      <string name="credentials_not_erased">Leg.lageret kan ikke slettes.</string>
      <string name="credentials_old_password">Nåværende passord:</string>
-     <string name="credentials_password_too_short">Passordet må bestå av minst åtte tegn.</string>
+     <string name="credentials_password_too_short">Minst 8 tegn.</string>
      <string name="credentials_reset">Tøm legitimasjonslageret</string>
      <string name="credentials_reset_hint">Vil du fjerne alt innholdet?</string>
      <string name="credentials_reset_summary">Fjern alle sertifikater</string>
@@ -755,7 +755,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="details_title">Bruksdetaljer</string>
      <string name="dev_settings_warning_message">Disse innstillingene er bare beregnet for bruk under programutvikling. De kan forårsake problemer med enheten din og tilhørende apper.</string>
      <string name="dev_settings_warning_title">Vil du aktivere utviklingsinnstillingene?</string>
-     <string name="developer_build">" | Utvikler"</string>
+     <string name="developer_build">" | Beta"</string>
      <string name="development_enable">Utviklervalg</string>
      <string name="development_settings_not_available">Utvikleralternativene er ikke tilgjengelige for denne brukeren</string>
      <string name="development_settings_summary">Angi alternativer for apputvikling</string>
@@ -1484,7 +1484,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="mvno_match_data">MVNO-verdi</string>
      <string name="mvno_type">MVNO-type</string>
      <string name="nearby_wifi">Tilgjengelige nettverk</string>
-     <string name="need_reboot_now">Omstart kreves for å fullføre oppdateringen, vennligst start på nytt nå!</string>
+     <string name="need_reboot_now">Start på nytt for å installere oppdatering.</string>
      <string name="network_assistant">Databruk</string>
      <string name="network_detail">%s nettverksdetaljer</string>
      <string name="network_error">Nettverksfeil.</string>
@@ -1517,7 +1517,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="no_services">Ikke aktiv</string>
      <string name="no_update_found">Allerede den nyeste versjonen</string>
      <string name="no_updates_found">"Du kjører allerede den nyeste versjonen av MIUI."</string>
-     <string name="no_updates_warning">Ingen oppdateringer funnet for din enhet.</string>
+     <string name="no_updates_warning">Systemet er oppdatërt.</string>
      <string name="no_updates_warning2">"Slapp av, vi vil varsle deg om det er en oppdatering."</string>
      <string name="noise_suppression">Omgivelsesstøy-hindring</string>
      <string name="normal_date_format">Regional (%s)</string>
@@ -2136,10 +2136,10 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_serialno">serie no.</string>
      <string name="status_service_state">Servicestatus</string>
      <string name="status_signal_strength">Signalstyrke</string>
-     <string name="status_sim">SIM-status</string>
+     <string name="status_sim">SIM kort-status</string>
      <string name="status_sim_1">SIM 1</string>
      <string name="status_sim_2">SIM 2</string>
-     <string name="status_summary">Trykk for å vise detlajer</string>
+     <string name="status_summary">Trykk for å vise detaljer.</string>
      <string name="status_unavailable">Ikke tilgjengelig</string>
      <string name="status_up_time">Oppetid</string>
      <string name="status_wifi_mac_address">MAC-adresse for Wi-Fi</string>
@@ -2564,7 +2564,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wfd_settings_title">Trådløs skjerm</string>
      <string name="wfd_wps_keypad">Dytteknapp foretrukket</string>
      <string name="wfd_wps_pbc">PIN foretrukket</string>
-     <string name="whetstone_level_reboot">Denne innstillingen vil trå i kraft når du starter enheten på nytt</string>
+     <string name="whetstone_level_reboot">Denne innstillingen vil trå i kraft etter at du har startet enheten på nytt.</string>
      <string name="whetstone_level_reboot_OK">Start på nytt</string>
      <string name="whetstone_level_title">Systemminne-optimalisering</string>
      <string name="widget_picker_title">Velg skrivebordselement</string>
