@@ -37,10 +37,10 @@
      <string name="add_bookmark_group">Legg til gruppe</string>
      <string name="add_folder">Legg til mappe</string>
      <string name="add_new_bookmark">Legg til bokmerke</string>
-     <string name="add_new_quicklink">Legg til rask link</string>
+     <string name="add_new_quicklink">Legg på startside</string>
      <string name="add_ql_bm_title">Lagre</string>
      <string name="add_quicklink_to_popular">Legg på startside</string>
-     <string name="add_quicklinks">Legg til</string>
+     <string name="add_quicklinks">Legg på startside</string>
      <string name="add_to_bookmark">Legg i bokmerker</string>
      <string name="add_to_desk">Legg på hjemskjerm</string>
      <string name="add_to_desk_success">Lagt til på hjemskjerm</string>
@@ -698,7 +698,7 @@
      <string name="url_copy_done">URL kopiert</string>
      <string name="url_find_on_page_result">Vis i nettleser</string>
      <string name="url_find_on_page_result_item">Vis hele teksten for \"%s\"</string>
-     <string name="url_hint">Skriv URL eller søk</string>
+     <string name="url_hint">Skriv URL eller søk på nettet</string>
      <string name="url_opened_in_background">Åpne i bakgrunnsfanse</string>
      <string name="url_suggest_indicator_bookmark">Bokmerker/Historikk</string>
      <string name="url_suggest_indicator_hoturl">Populær</string>

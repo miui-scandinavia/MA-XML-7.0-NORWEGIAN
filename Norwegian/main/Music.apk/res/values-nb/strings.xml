@@ -41,12 +41,12 @@
      <string name="device_not_connected">Not connected</string>
      <string name="dialog_button_create_playlist">Lag spilleliste</string>
      <string name="dialog_button_editor_choice">Utvalgte</string>
-     <string name="dialog_button_find_music">Oppdag ny musikk</string>
+     <string name="dialog_button_find_music">Oppdag</string>
      <string name="dialog_button_login">Logg inn og synk din musikk</string>
      <string name="dialog_button_scan_tracks">Søk etter musikk på denne enheten</string>
      <string name="dialog_delete_descript">Slett %s?</string>
      <string name="dialog_hint_music_error">Ingen sanger funnet.</string>
-     <string name="dialog_hint_network_error">Sjekk forbindelsen og prøv igjen.</string>
+     <string name="dialog_hint_network_error">"Kan ikke koble til nettverket"</string>
      <string name="dialog_remove_descript">Fjern %s?</string>
      <string name="dialog_title_add_playlist">Legg til spilleliste</string>
      <string name="dialog_title_delete_tracks">Slett</string>
