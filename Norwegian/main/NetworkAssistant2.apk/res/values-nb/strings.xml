@@ -282,17 +282,17 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="text_day" />
      <string name="tips_dialog_title">"Vet du ikke din grense?"</string>
      <string name="tips_message">"Hvis du er usikker på detaljene rundt ditt trådløse abonnement, kan du se dem ved å ringe %2$s (%1$s)."</string>
-     <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser at abonnementet sin månedlige databruksgrense er %s.
-Bruk dette nummeret for å sette din månedlige databruksgrense?"</string>
+     <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser: %s.
+Vil du bruke dette?"</string>
      <string name="traffic_config_alert_body_extra">"
-You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
+Du har kjøpt %1$s ekstra data denne måneden. Dette er forskjellig fra de %2$s du har lagt til manuelt."</string>
      <string name="traffic_config_alert_body_extra_notset">"
-You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
-     <string name="traffic_config_alert_body_leisure">"Regnskapet til operatøren din viser at abonnementet ditt sin nattlige databrukgrense er %1$s. Dette er forskjellig fra %2$s-grensen du satte manuelt."</string>
+Du har kjøpt %1$s ekstra data denne måneden. Dette vises ikke i den månedlige datagrensen du satt manuelt."</string>
+     <string name="traffic_config_alert_body_leisure">"Abonnementet ditt sin nattlige databrukgrense er %1$s. Dette er forskjellig fra %2$s-grensen du satte manuelt."</string>
      <string name="traffic_config_alert_body_leisure_notset">"
-Regnskapet til operatøren din viser at abonnementet ditt sin nattlige databruksgrense er %1$s. Du har ikke satt en nattlig databrukgrense."</string>
+Abonnementet ditt sin nattlige databruksgrense er %1$s. Du har ikke satt en nattlig databrukgrense."</string>
      <string name="traffic_config_alert_body_normal">"
-Regnskapet til operatøren din viser at du har brukt %1$s av ditt dataforbruket denne måneden, dette er forskjellig fra de %2$s du har satt manuelt."</string>
+Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne måneden, dette er forskjellig fra de %2$s du har satt manuelt."</string>
      <string name="traffic_config_alert_cancel">Avbryt</string>
      <string name="traffic_config_alert_nomore">"Ikke vis igjen"</string>
      <string name="traffic_config_alert_ok">OK</string>

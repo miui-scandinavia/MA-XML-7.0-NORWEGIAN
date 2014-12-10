@@ -439,8 +439,8 @@
      <string name="import_sim_entries_finish">Import av SIM-kontakter fullført</string>
      <string name="import_sim_entry_miui">Importer fra SIM</string>
      <string name="import_to_xiaomi_account_confirm">Importer</string>
-     <string name="import_to_xiaomi_account_progress_finish">Import fullført</string>
-     <string name="import_to_xiaomi_account_progress_message">Importerer...</string>
+     <string name="import_to_xiaomi_account_progress_finish">Kontakt importert</string>
+     <string name="import_to_xiaomi_account_progress_message">Importerer…</string>
      <string name="import_to_xiaomi_account_progress_title">Importer kontakter til Mi-konto</string>
      <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
      <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
@@ -682,9 +682,9 @@ for å legge til kontakt til favoritter:
      <string name="pref_key_photo_word_title">Tildel kontaktbilder</string>
      <string name="pref_key_rebuild_t9_index_message">Gjenoppbygg indeks for å løse søkefeil</string>
      <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
-     <string name="pref_key_sim_manage">Håndter SIM-kort</string>
-     <string name="pref_key_sim_manage1">Håndter SIM-kort 1</string>
-     <string name="pref_key_sim_manage2">Håndter SIM-kort 2</string>
+     <string name="pref_key_sim_manage">SIM-kort</string>
+     <string name="pref_key_sim_manage1">Konfigurer SIM-kort 1</string>
+     <string name="pref_key_sim_manage2">Konfigurer SIM-kort 2</string>
      <string name="pref_summary_import_from_account">Overfør kontakter fra Google og Exchange-kontoer til min Mi-konto</string>
      <string name="pref_title_account_import">Importer fra konto</string>
      <string name="pref_title_import_from_account">Importer fra Mi-konto</string>
@@ -1044,8 +1044,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="strequentList">Favoritter</string>
      <string name="success_message_import_from_account">Import fullført</string>
      <string name="summary_kind_title">Oversikt</string>
-     <string name="t9_search_guide_pinyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
-     <string name="t9_search_guide_zhuyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
+     <string name="t9_search_guide_pinyin">Tast 2 og 8 for å søke etter Alan Turing</string>
+     <string name="t9_search_guide_zhuyin">Tast 2 og 8 for å søke etter Alan Turing</string>
      <string name="take_new_photo">Ta nytt bilde</string>
      <string name="take_photo">Ta bilde</string>
      <string name="titleJoinContactDataWith">Flett kontakter</string>

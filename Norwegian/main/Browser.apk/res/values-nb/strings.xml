@@ -393,8 +393,8 @@
      <string name="pref_autologin_progress_in_background">Logger inn på Google sites i bakgrunnen med %s.</string>
      <string name="pref_autologin_title">Automatisk Google innlogging</string>
      <string name="pref_category_title_version">Versjon</string>
-     <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
-     <string name="pref_check_security_url_title">Check URL security</string>
+     <string name="pref_check_security_url_summary">"Send nettsted-URLer til Xiaomi sine servere for godkjenning"</string>
+     <string name="pref_check_security_url_title">Sjekk URL-sikkerhet</string>
      <string name="pref_clear_adblock_statistics">Tøm Adblock statistikk</string>
      <string name="pref_clear_adblock_statistics_dlg">Vil du tømme adblock statistikken?</string>
      <string name="pref_clear_all_data_dlg">Delete all saved data above?</string>
@@ -643,8 +643,8 @@
      <string name="share_link">Del link</string>
      <string name="share_page">del side</string>
      <string name="share_page_text">"Jeg nyter 【%1$s】, og vil dele det med deg! | %2$s"</string>
-     <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
-     <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
+     <string name="show_check_security_url_check_tip_dialog_description">"Dette nettstedets URL vil bli sendt til Xiaomi sine servere for å verifisere dens sikkerhet. Du kan skru av denne funksjonen når som helst i Innstillinger."</string>
+     <string name="show_check_security_url_check_tip_dialog_title">URL-sikkerhet</string>
      <string name="sign_in_to" formatted="false">Logg inn til %s1 \"%s2\"</string>
      <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
      <string name="snapshot_go_live">Gå Live</string>
@@ -698,12 +698,12 @@
      <string name="url_copy_done">URL kopiert</string>
      <string name="url_find_on_page_result">Vis i nettleser</string>
      <string name="url_find_on_page_result_item">Vis hele teksten for \"%s\"</string>
-     <string name="url_hint">Søk eller tast inn URL</string>
-     <string name="url_opened_in_background">Open in background tab</string>
-     <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
-     <string name="url_suggest_indicator_hoturl">Popular</string>
-     <string name="url_suggest_indicator_mostvisited">Most visited</string>
-     <string name="use_cellular_network_alert_message">WiFi ikke tilgjengelig, bruk mobilnettverk?</string>
+     <string name="url_hint">Skriv URL eller søk</string>
+     <string name="url_opened_in_background">Åpne i bakgrunnsfanse</string>
+     <string name="url_suggest_indicator_bookmark">Bokmerker/Historikk</string>
+     <string name="url_suggest_indicator_hoturl">Populær</string>
+     <string name="url_suggest_indicator_mostvisited">Mest besøkte</string>
+     <string name="use_cellular_network_alert_message">Wi-Fi ikke tilgjengelig, bruk mobilnettverk?</string>
      <string name="use_cellular_network_alert_title">Nettverksvarsel</string>
      <string name="user_defined_webpage">Legg på startsiden</string>
      <string name="user_defined_webpage_title">Legg på startsiden</string>

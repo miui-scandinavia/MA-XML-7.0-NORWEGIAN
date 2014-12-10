@@ -41,11 +41,11 @@
      <string name="dialog_title_queued_body">Fil ikke tilgjengelig i øyeblikket</string>
      <string name="disable">Av</string>
      <string name="display_expire_netiv1">Denne måneden</string>
-     <string name="doc_filter">DOCUMENT</string>
+     <string name="doc_filter">DOKUMENT</string>
      <string name="download_complete">Fullførte</string>
      <string name="download_error">Mislykkede</string>
      <string name="download_error_insufficient_space">For lite plass</string>
-     <string name="download_filesize_unknown">unknown</string>
+     <string name="download_filesize_unknown">ukjent</string>
      <string name="download_in_process">I gang</string>
      <string name="download_info_count_deleted_tasks">Sletting av jobben %s fullført</string>
      <string name="download_info_start_deleted_tasks">Forbereder sletting av nedlasting</string>
