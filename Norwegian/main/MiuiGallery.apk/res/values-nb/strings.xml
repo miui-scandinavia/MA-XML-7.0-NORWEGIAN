@@ -47,8 +47,8 @@
      <string name="alert_init_merged_message">"Nå vil bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Du bør åpne synk først, er du sikker på at du vil åpne synk umiddelbart?</string>
-     <string name="alert_secret_album_message">Du kan rulle skyalbum inn i hemmelig album.</string>
-     <string name="alert_secret_album_title">Hemmelig album h</string>
+     <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjule album.</string>
+     <string name="alert_secret_album_title">Skjulte album</string>
      <string name="already_apply_album">Åpne %1$s?</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
@@ -61,7 +61,7 @@
      <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
      <string name="auto_create_recent_album_over_ten_times">Auto-opprett favorittalbum når åpnet mer en ti ganger</string>
      <string name="auto_upload_album_comfirm_to_share">Dette er en album som blir lastet opp automatisk. Er du sikker på at du vil dele den?</string>
-     <string name="auto_upload_tip">Album med samme navn vil bli opprettet etter dette er aktivert. Eksisterende album (inkluderer album du deler med andre) med samme navn vil bli slått sammen.</string>
+     <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Last opp automatisk</string>
      <string name="autofix">Auto-fiks</string>
      <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -559,7 +559,7 @@ venner."</string>
      <string name="details_title">%1$d av %2$d elementer:</string>
      <string name="device_model">Enhet</string>
      <string name="directory_info_divider">"  |  "</string>
-     <string name="do_not_save">Ikke lagre</string>
+     <string name="do_not_save">"Ikke lagre"</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
      <string name="doodle">Krusseduller</string>
@@ -578,12 +578,12 @@ venner."</string>
      <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
-     <string name="error_cloud_not_active">MiCloud-album ikke i bruk</string>
+     <string name="error_cloud_not_active">Ingen bilder i skyen.</string>
      <string name="error_forbidden">Det er problemer med din konto: Synk deaktivert.</string>
      <string name="error_invalid_link">Linken er ugyldig eller utløpt, vennligst spør album-eieren om å lage en ny link.</string>
      <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
      <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
-     <string name="error_share_not_support">Å bli medlem av et delt album er midlertidig ikke støttet</string>
+     <string name="error_share_not_support">"Denne funksjonen er ikke støttet enda"</string>
      <string name="error_share_with_creator">Du er allerede et medlem av dette albumet</string>
      <string name="error_should_not_select_image">Advarsel: velg ikke en bildefil.</string>
      <string name="error_should_not_select_video">Advarsel: velg ikke en videofil.</string>
@@ -718,15 +718,21 @@ venner."</string>
      <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
      <string name="message_no_delete_access_with_count">Kan ikke slette %d fil(er) eller mappe(r). Hver sikker på at de eksisterer og at du har tilgang til dem.</string>
      <string name="messagelist_sender_self">Meg</string>
+     <string name="miliao">MiTalk</string>
      <string name="miliao_folder_display_name">MiTalk</string>
      <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>
      <string name="miliao_saved">MiChat</string>
      <string name="miliao_saved_folder_display_name">MiTalk Lagret</string>
      <string name="mimetype">MIME-type</string>
+     <string name="mishop">MiShop</string>
      <string name="mishop_saved_folder_display_name">MiShop Lagret</string>
      <string name="miui_capture_screen_folder_display_name">Skjermbilder</string>
      <string name="miui_wallpaper">Bakgrunnsbilde</string>
      <string name="modified_time">Tid endret</string>
+     <string name="moman">MomanCamera</string>
+     <string name="moman_camera_drawing">Moman Camera drawing</string>
+     <string name="moman_camera_icon">Moman Camera emoticon</string>
+     <string name="moman_camera_picture">Moman Camera pictures</string>
      <string name="more">Mer</string>
      <string name="move">Flytt</string>
      <string name="move_to_cloud_album">Flytt til Cloud</string>
@@ -778,7 +784,7 @@ venner."</string>
      <string name="owner_album_subtitle">Delt med %1$s medlemmer</string>
      <string name="paint_cancel_context">"Forkast endringene du har gjort med dette bildet?"</string>
      <string name="paint_cancel_title">Forkast endringer</string>
-     <string name="paint_crop_cancel_context">Vil du lagre det resultatet av beskjæringen?</string>
+     <string name="paint_crop_cancel_context">Lagre resultat av beskjæring?</string>
      <string name="paint_crop_cancel_title">Forkast endringer</string>
      <string name="paint_crop_tips">For å få et bedre bilde, prøve å plassere de interessante delene på gitterpunktene ved å endre størrelse og flytte.</string>
      <string name="path">Sti</string>
@@ -804,6 +810,7 @@ venner."</string>
      <string name="picker_tab_photo">Bilde</string>
      <string name="pocket_camera_picture">Bilder fra lommekamera</string>
      <string name="pocket_camera_video">Videoer fra lommekamera</string>
+     <string name="pocketcamera">PocketCamera</string>
      <string name="posterize">Posteriser</string>
      <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>
@@ -814,9 +821,11 @@ venner."</string>
      <string name="publish_failed">Klarte ikke å publisere.</string>
      <string name="publish_succeeded">Album publisert</string>
      <string name="publishing">Publiserer, vennligst vent...</string>
+     <string name="qq">QQ</string>
      <string name="qqbrowser_img">QQ-nettleser</string>
      <string name="qsbk_save">QSBK</string>
      <string name="quotation">\"%s\"</string>
+     <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Gjenkjenner bilde…</string>
      <string name="redeye">Rødt øye</string>
@@ -905,6 +914,7 @@ venner."</string>
      <string name="show_images_only">Kun bilder</string>
      <string name="show_on_map">Vis på kart</string>
      <string name="show_videos_only">Kun videoer</string>
+     <string name="sina_weibo">Weibo</string>
      <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s eller over</string>
      <string name="size_below">%1$s eller under</string>
@@ -935,7 +945,8 @@ venner."</string>
      <string name="sync_in_progress_message">Synkroniserer…</string>
      <string name="sync_only_in_wifi">Kun Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Slår du av denne funksjonen kan mobildataforbruket øke, er du sikker på at du vil slå den av?</string>
-     <string name="sync_only_in_wifi_summary">Forhindre galleri-appen å laste opp bilder via mobil datatilknytning.</string>
+     <string name="sync_only_in_wifi_summary">"Aldri bruk mobildataforbindelse for å laste opp bilder"</string>
+     <string name="sync_third_party_app_pic_summary">Last opp bilder i noen app-mapper til skyen automatisk</string>
      <string name="system_album">System-album</string>
      <string name="tab_all_text">Satt på alle</string>
      <string name="tab_lockscreen_text">Låseskjerm</string>
@@ -962,6 +973,7 @@ venner."</string>
      <string name="ubifocus_refocus_data_missing">Kan ikke fokusere på nytt på grunn av tapt data</string>
      <string name="ubifocus_refocus_download_tip">Vennligst last ned refokus data før du fokuserer på nytt</string>
      <string name="ubifocus_refocus_map_error">Kan ikke fokusere på nytt på grunn av feil data</string>
+     <string name="uc">UC</string>
      <string name="ucdownloads_screenshot">UC-nettleser</string>
      <string name="unit_mm">mm</string>
      <string name="unpublish_failed">Kunne ikke avpublisere!</string>
@@ -977,6 +989,8 @@ venner."</string>
      <string name="wallpaper">Skrivebordsbakgrunn</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>
+     <string name="wechat">WeChat</string>
+     <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>
      <string name="where_is_barcode">Hvor er QR-koden?</string>
@@ -986,6 +1000,7 @@ venner."</string>
      <string name="widget_type_photo">Velg et bilde</string>
      <string name="widget_type_shuffle">Bland alle bilder</string>
      <string name="width">Bredde</string>
+     <string name="wps">WPS</string>
      <string name="yellow_page">Katalog</string>
      <string name="yes">Ja</string>
      <string name="yunyi_pocket_camera">Lommekamera</string>

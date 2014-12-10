@@ -35,7 +35,7 @@
      <string name="launch_wechat">Åpne WeChat</string>
      <string name="name">Navn:</string>
      <string name="nickname">Kallenavn:</string>
-     <string name="not_insert_contact">"Kunne ikke sette inn kontakt"</string>
+     <string name="not_insert_contact">"Kunne ikke legge til kontakt"</string>
      <string name="not_recommend_access_web_url">Fortsett til nettsted uansett</string>
      <string name="not_tips">"Husk dette valget"</string>
      <string name="note">Notat:</string>
@@ -55,7 +55,7 @@
      <string name="settings">Settings</string>
      <string name="success_message_import_from_account">Importert</string>
      <string name="tips_message">"Koble til internett for å verifisere om nettstedet du prøver å besøke er trygt"</string>
-     <string name="tips_title">Internett kreves</string>
+     <string name="tips_title">Koble til internett</string>
      <string name="title">Tittel:</string>
      <string name="url_is_phish">Denne nettsiden er mistenkt for phishing.</string>
      <string name="url_is_safety">Denne nettsiden er trygg.</string>

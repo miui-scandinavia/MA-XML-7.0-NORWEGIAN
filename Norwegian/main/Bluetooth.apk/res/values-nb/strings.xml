@@ -9,6 +9,10 @@
      <string name="auth_notif_message">Tast inn sesjonsnøkkel for %1$s</string>
      <string name="auth_notif_ticker">Forespørsel om Obex-godkjenning</string>
      <string name="auth_notif_title">Sesjonforespørsel for PBAP</string>
+     <string name="bluetooth_preference_connected_devices">Connected devices</string>
+     <string name="bluetooth_preference_found_devices">Available devices</string>
+     <string name="bluetooth_preference_scan_title">Scan for devices</string>
+     <string name="bluetooth_search_for_devices">Search for devices</string>
      <string name="bluetooth_share_file_name">bluetooth_content_share</string>
      <string name="bt_enable_cancel">Avbryt</string>
      <string name="bt_enable_line1">Du må aktivere Bluetooth, før du kan bruke Bluetooth-tjenester.</string>
@@ -30,6 +34,7 @@
      <string name="defaultnumber">000000</string>
      <string name="deleteAll_record">Slett alle poster</string>
      <string name="delete_record">Slett post</string>
+     <string name="device_picker">Bluetooth device chooser</string>
      <string name="download_cancel">Stopp</string>
      <string name="download_fail_line1">Filen ble ikke mottatt</string>
      <string name="download_fail_line2">Fil: %1$s</string>
@@ -94,6 +99,7 @@ Vil du motta filen?"</string>
      <string name="permlab_bluetoothWhitelist">Godkjenn Bluetooth enhetstilgang.</string>
      <string name="permlab_handoverStatus">Motta BT-overføringsmeldinger.</string>
      <string name="process" />
+     <string name="progress_scanning">Searching</string>
      <string name="sharedUserId" />
      <string name="start_server">Start TCP server</string>
      <string name="status_canceled">Overføring avbrutt av bruker.</string>

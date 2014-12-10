@@ -45,6 +45,7 @@
      <string name="download_complete">Fullførte</string>
      <string name="download_error">Mislykkede</string>
      <string name="download_error_insufficient_space">For lite plass</string>
+     <string name="download_filesize_unknown">unknown</string>
      <string name="download_in_process">I gang</string>
      <string name="download_info_count_deleted_tasks">Sletting av jobben %s fullført</string>
      <string name="download_info_start_deleted_tasks">Forbereder sletting av nedlasting</string>
@@ -119,6 +120,10 @@
      <string name="pref_summary_no_limit_popup">Nedlastningstørrelse er ubegrenset</string>
      <string name="pref_title_enable_max_bytes_popup">Beskjed om filstørrelse</string>
      <string name="preferences_title">Innstillinger</string>
+     <string name="privacy_tip_cancel">Cancel</string>
+     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+     <string name="privacy_tip_ok">OK</string>
+     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
      <string name="remove_download">Fjern</string>
      <string name="restart_download">Restart</string>
      <string name="resume_download">Fortsett</string>

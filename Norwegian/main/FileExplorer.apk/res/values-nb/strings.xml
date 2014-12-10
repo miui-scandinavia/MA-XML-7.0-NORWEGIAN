@@ -59,6 +59,7 @@
      <string name="decompress_success">Dekomprimering fullført</string>
      <string name="decompress_to">Dekomprimer til:</string>
      <string name="decompress_to_here">Dekomprimer her</string>
+     <string name="delete_dialog_button">Delete</string>
      <string name="delete_failed">Sletting mislyktes</string>
      <string name="delete_file">Slett denne filen?</string>
      <string name="delete_files">Slett %1$d filer?</string>

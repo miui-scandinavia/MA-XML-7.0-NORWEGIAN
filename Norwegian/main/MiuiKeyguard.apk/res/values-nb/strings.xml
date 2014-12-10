@@ -47,6 +47,7 @@
      <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>
      <string name="phone_locked_timeout_seconds_string">Vennligst gå tilbake etter %s sekunder</string>
      <string name="unlock_sim_string">Lås opp sim</string>
+     <string name="unlock_string">Unlock</string>
      <string name="unlocking_sim_card">Låser opp SIM-kort</string>
      <string name="unlockscreen_low_battery">Koble til lader.</string>
      <string name="unlockscreen_recharge_completed">Lading fullført</string>

@@ -12,6 +12,15 @@
      <string name="apply_update_dialog_cancel_button">Avbryt</string>
      <string name="apply_update_dialog_update_button">Fortsett</string>
      <string name="apply_upload_info_message">For å oppdatere og restarte din telefon, trykk Oppdater.</string>
+     <string name="auto_agree_clause">"Våre oppdaterte retningslinjer for personvern er allerede tatt i bruk. "</string>
+     <string name="auto_button_examine">Vis</string>
+     <string name="auto_button_examine_immediately">Vis</string>
+     <string name="auto_button_sure_cancel">Avbryt</string>
+     <string name="auto_check_clause_button">Vis</string>
+     <string name="auto_check_clause_msg">"Du må godta våre oppdaterte retningslinjer for personvern før du kan oppdatere systemet. "</string>
+     <string name="auto_dialog_msg">"Vi har oppdatert våre retningslinjer for personvern. Vennligst les de nøye før du oppdaterer systemet. "</string>
+     <string name="auto_dialog_msg_check_again">"Du må godta våre oppdaterte retningslinker for personvern før du kan oppdatere systemet. "</string>
+     <string name="auto_dialog_title_check_again">Avbryt oppdatering?</string>
      <string name="auto_update">Last ned oppdateringer automatisk</string>
      <string name="auto_update_sum">Velg automatisk den beste tiden for å laste ned opppdateringer</string>
      <string name="autosetmode">Innstillinger for oppdatering</string>
@@ -65,6 +74,7 @@
      <string name="get_current">Hent gjeldende</string>
      <string name="get_update_error">Feil ved henting av oppdateringsinfo</string>
      <string name="go_on_download">Last ned</string>
+     <string name="important_suggestion">Retningslinjer for personvern er endret</string>
      <string name="install">Installer</string>
      <string name="install_failed">Oppdatering feilet</string>
      <string name="install_file_explorer">Installer Filhåndtering</string>
@@ -106,7 +116,9 @@
      <string name="notification_reboot_des">Start på nytt for å oppdatere til %s.</string>
      <string name="notification_reboot_seccess_des">Trykk for å dele oppdateringsinfo.</string>
      <string name="notification_reboot_seccess_title">Enhet oppdatert</string>
+     <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
      <string name="notification_reboot_title">Omstart for å bruke oppdateringen</string>
+     <string name="notification_reboot_title_hm">Reboot to apply update</string>
      <string name="notification_share">Del</string>
      <string name="notification_update_new_version">Oppdatering tilgjengelig</string>
      <string name="notification_update_now">Oppdater nå</string>
@@ -174,8 +186,9 @@ Men du kan ta del neste tirsdag"</string>
      <string name="update_success">oppdatering fullført</string>
      <string name="update_success_body">Versjon: %s</string>
      <string name="update_success_title">Enhet oppdatert</string>
-     <string name="updater_nolog">Det finnes ingen logg</string>
-     <string name="updater_nonetwork">Koble til nettverket for å hente logg</string>
+     <string name="updater_nolog">Ingen endringslogger</string>
+     <string name="updater_nonetwork">Koble til nettverket for å hente endringslogger</string>
+     <string name="updater_nonetwork_clause">Koble til nettverket for å vise oppdaterte retningslinker for personvern</string>
      <string name="upgrade_close">Lukk</string>
      <string name="upgrade_kernel">Kjernen din er utdatert</string>
      <string name="upgrade_kernel_msg">"Nåværende kjerne passer ikke med seneste versjon av MIUI ROM. Du må oppdatere den manuelt. Vennligst sjekk Xiaomi sin oppdateringsguide:"</string>

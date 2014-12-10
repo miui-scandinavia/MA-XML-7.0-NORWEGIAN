@@ -99,12 +99,17 @@
      <string name="call_record_on_summary">Auto-opptak er på</string>
      <string name="call_record_setting">Innstillinger for anropsopptak</string>
      <string name="call_record_whitelist_custom">Egendefinert liste</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Touch to listen. -->
      <string name="call_recording_notification_message">Trykk for å vise %s.</string>
      <string name="call_recording_notification_message_low_storage">SD-kortet er fullt.</string>
      <string name="call_recording_notification_message_sd_unmounted">SD-kortet har blitt fjernet.</string>
      <string name="call_recording_notification_summary">Vis varsler i statuslinjen når samtale har blitt tatt opp</string>
      <string name="call_recording_notification_title">Opptak av samtale</string>
      <string name="call_recording_notification_title_error">Samtaleopptak feilet</string>
+     <string name="call_recording_notification_toggle_title">Call recording notification</string>
      <string name="call_recording_setting">Ta opp anrop</string>
      <string name="call_remove_exception_numbers_confirm">%d numre vil bli slettet.</string>
      <string name="call_settings">Samtaleinnstillinger</string>
@@ -691,6 +696,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="restaurants_enable">Restauranter er på</string>
      <string name="retail_directory_disable">Varehandel er av</string>
      <string name="retail_directory_enable">Varehandel er på</string>
+     <string name="retry_btn">Retry</string>
      <string name="reverting_settings">Tilbakestiller innstillinger…</string>
      <string name="rhrpd_unlock_failed">UIM Hrpd opplåsing forespørsel mislyktes.</string>
      <string name="rhrpd_unlock_success">RUIM Hrpd opplåsing vellykket.</string>

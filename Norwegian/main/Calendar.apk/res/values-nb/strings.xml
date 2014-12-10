@@ -17,8 +17,8 @@
      <string name="accessibility_remove_reminder">Fjern påminnelse</string>
      <string name="accessibility_repeats">Gjenta</string>
      <string name="accessibility_sync_cal">Synkroniser kalender</string>
-     <string name="account_and_calendar">Konto og kalender</string>
-     <string name="account_and_calendar_to_display">Konto og kalender som skal vises</string>
+     <string name="account_and_calendar">Kontoerr</string>
+     <string name="account_and_calendar_to_display">Velg kalendere som skal vises</string>
      <string name="accounts">Kontoer og synkronisering</string>
      <string name="acct_not_synced">"Denne kontoen synkroniseres ikke, så dine kalendere er muligens ikke oppdatert."</string>
      <string name="acessibility_cal_notification">Kalendervarsel</string>
@@ -41,14 +41,14 @@
      <string name="anniversary_term">jubileum</string>
      <string name="app_label">Kalender</string>
      <string name="attendees_label">Deltakere</string>
-     <string name="birthday_calendar_display_name">Fødselsdagspåminnelse</string>
+     <string name="birthday_calendar_display_name">Fødselsdagspåminnelser</string>
      <string name="birthday_event_description">"I dag er det %1$s's %4$s!"</string>
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_text_three_days_later">3 dager til %3$s (%4$s)</string>
-     <string name="birthday_notification_text_today">Husk å ¨kontakte dem!</string>
+     <string name="birthday_notification_text_today">"Ikke glem å ønske dem godt."</string>
      <string name="birthday_notification_title_three_days_later">"%1$s sin %2$s nærmer seg"</string>
      <string name="birthday_notification_title_today">"%1$s sin %3$s"</string>
      <string name="birthday_notification_type_term_lunar" />
@@ -60,9 +60,10 @@
      <string name="calendar_network_error">Nettverksfeil</string>
      <string name="calendar_refresh">Oppdater</string>
      <string name="calendar_server_error">Serverfeil</string>
-     <string name="can_not_modify_allday_event">Hendelser som varer hele dagen, kan ikke endres</string>
-     <string name="can_not_modify_event">Kan ikke endres</string>
-     <string name="can_not_modify_repeating_acrossing_days_event">Hendelser som er repeterende eller påtvers av dager kan ikke endres</string>
+     <string name="can_not_create_long_event">Hendelsesinnhold er for langt</string>
+     <string name="can_not_modify_allday_event">"Kan ikke endre heldags-hendelse"</string>
+     <string name="can_not_modify_event">"Kan ikke endre hendelse"</string>
+     <string name="can_not_modify_repeating_acrossing_days_event">"Kan ikke endre flere dagers-hendelse"</string>
      <string name="change_response_title">Endre svar</string>
      <string name="chinese_leap">闰</string>
      <string name="chongsha" />
@@ -75,11 +76,11 @@
 • Sikkerhetskopier dine hendelser på sikkert vis"</string>
      <string name="creating_event">Hendelsen er opprettet.</string>
      <string name="creating_event_with_guest">Invitasjonene er sendt.</string>
-     <string name="cta_notice_checkbox">"Ikke vis meg dette igjen"</string>
-     <string name="cta_notice_message">Vi trenger tilgang til dine kontakter for å bruke bursdagspåminnelse-funksjonen. Tillatt?</string>
-     <string name="cta_notice_ok">Tillat og fortsett</string>
-     <string name="cta_notice_title">Påminn</string>
-     <string name="cta_notify_settings">Påminn meg når jeg åpner kontakter</string>
+     <string name="cta_notice_checkbox">"Husk valget"</string>
+     <string name="cta_notice_message">"Kalender renger å lese informasjon om dine kontakter for å sette opp bursdagspåminnelser."</string>
+     <string name="cta_notice_ok">Tillat</string>
+     <string name="cta_notice_title">Tillatelsesforespørsel</string>
+     <string name="cta_notify_settings">Spørr meg først</string>
      <string name="custom">Tilpasset (kan ikke tilpasses på telefon)</string>
      <string name="daily">Daglig</string>
      <string name="data_notice_change_settings">Endre innstillinger</string>
@@ -88,7 +89,7 @@
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="day_view">Dag</string>
      <string name="day_view_new_event_hint">+ Ny hendelse</string>
-     <string name="default_reminder_mode">Standard påminningsmodus</string>
+     <string name="default_reminder_mode">Påminnelser</string>
      <string name="delete_calendar">Fjern</string>
      <string name="delete_label">Slett</string>
      <string name="delete_recurring_event_title">Slett %s?</string>
@@ -108,7 +109,7 @@
      <string name="edit_event_confirm_message">Forkast endringene til dette arrengementet?</string>
      <string name="edit_event_from_label">Fra</string>
      <string name="edit_event_label">Detaljer</string>
-     <string name="edit_event_reminder_off_toast">Standard påminnelsesmodus er av</string>
+     <string name="edit_event_reminder_off_toast">Påminnelser er av</string>
      <string name="edit_event_show_all">Vis alle</string>
      <string name="edit_event_to_label">Til</string>
      <string name="edit_label">Rediger</string>
@@ -140,6 +141,7 @@
      <string name="event_view">Vis hendelse</string>
      <string name="every_weekday">Hverdager (man.-fre.)</string>
      <string name="exist_calendar">Kalenderen eksisterer allerede</string>
+     <string name="from_google_group_calendar">Google calendar</string>
      <string name="gadget_no_events">Ingen kommende kalenderhendelser</string>
      <string name="gadget_title">Kalender</string>
      <string name="goto_today">I dag</string>
@@ -157,7 +159,7 @@
      <string name="label_recent_events">Siste hendelser</string>
      <string name="loading">Laster ...</string>
      <string name="local_calendar_display_name">Lokal kalender</string>
-     <string name="local_owner_account_name">Lokal konto</string>
+     <string name="local_owner_account_name">Lagret til denne enheten</string>
      <string name="lunar_date">Månedato</string>
      <string name="menu_about_preferences">Om kalender</string>
      <string name="menu_general_preferences">Generelle innstillinger</string>
@@ -183,11 +185,7 @@
      <string name="month_medium_september">Sep</string>
      <string name="month_view">Måned</string>
      <string name="monthly">Månedlig</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Monthly (same day) -->
-     <string name="monthly_on_day">Månedlig (den %s)</string>
+     <string name="monthly_on_day">Månedlig (samme dato)</string>
      <string name="monthly_on_day_count">Månedlig (hver %1$s %2$s)</string>
      <string name="more_string">%1$s mer...</string>
      <string name="movable_list_header_label">Beskrivelse</string>
@@ -210,10 +208,10 @@
      <string name="prefDefault_alerts_vibrate_true">always</string>
      <string name="prefDialogTitle_vibrateWhen">Vibrasjon</string>
      <string name="pref_error_no_ringtone_select">Ingen valgt</string>
-     <string name="pref_title_alarm_remind">Alarm påminnelse</string>
-     <string name="pref_title_alert_remind">Pop-up påminnelse</string>
-     <string name="pref_title_no_remind">Ingen påminnelse</string>
-     <string name="pref_title_notification_remind">Varselpåminnelse</string>
+     <string name="pref_title_alarm_remind">Alarm-påminnelseer</string>
+     <string name="pref_title_alert_remind">Popup-påminnelser</string>
+     <string name="pref_title_no_remind">Ingen påminnelser</string>
+     <string name="pref_title_notification_remind">Varsel-påminnelser</string>
      <string name="preferences_about_title">Om</string>
      <string name="preferences_alerts_popup_title">Popup-melding</string>
      <string name="preferences_alerts_ringtone_title">Velg ringetone</string>
@@ -221,7 +219,7 @@
      <string name="preferences_alerts_vibrateWhen_title">Vibrasjon</string>
      <string name="preferences_build_version">Versjon</string>
      <string name="preferences_category_account_title">Konto</string>
-     <string name="preferences_category_general_title">Generelt</string>
+     <string name="preferences_category_general_title">Generelle innstillinger</string>
      <string name="preferences_clear_search_history_summary">Fjern alle utførte søk</string>
      <string name="preferences_clear_search_history_title">Fjern søkehistorikk</string>
      <string name="preferences_default_reminder_default">10</string>
@@ -285,16 +283,12 @@
      <string name="timezone_label">Tidssone</string>
      <string name="today">I dag</string>
      <string name="today_at_time_fmt">I dag kl. %s</string>
-     <string name="today_no_events">Ingen agenda i dag</string>
+     <string name="today_no_events">Ingen hendelser</string>
      <string name="tomorrow">I morgen</string>
      <string name="tomorrow_at_time_fmt">Igår kl. %s</string>
      <string name="topic_event_list_header_label">Kommende hendelser</string>
      <string name="topic_list_header_label">Abonnementsliste</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: 您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。 -->
-     <string name="user_notice_online_agreement">Du er iferd med å få tilgang til en kalender ved hjelp av MIUI, dette er en tjeneste som krever en Internett-tilkobling. Ved å bruke denne tjenesten samtykker du til %1$ og %2$s.</string>
+     <string name="user_notice_online_agreement">Du er iferd med å få tilgang til en kalender ved hjelp av MIUI, dette er en tjeneste som krever en Internett-tilkobling. Ved å bruke denne tjenesten samtykker du til %1$s og %2$s.</string>
      <string name="view_all_matches">Vis alle matcher</string>
      <string name="view_event_calendar_label">Kalender:</string>
      <string name="view_event_organizer_label">Organisator:</string>
@@ -306,11 +300,11 @@
      <string name="when_label">Når</string>
      <string name="where_label">Hvor</string>
      <string name="widget_events">Kommende hendelser</string>
-     <string name="widget_no_events">Ingen kommende hendelser</string>
-     <string name="widget_select_style">Velg widget-stil</string>
+     <string name="widget_no_events">Ingen hendelser</string>
+     <string name="widget_select_style">Velg en stil</string>
      <string name="work_day_indication" />
      <string name="wuxing" />
-     <string name="xiaomi_calendar_display_name">Xiaomi-kalender</string>
+     <string name="xiaomi_calendar_display_name">Kalender</string>
      <string name="xingxiu" />
      <string name="yearly">Årlig (den %s)</string>
      <string name="yearly_plain">Årlig</string>

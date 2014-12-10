@@ -71,4 +71,9 @@
         <item>audio/mpeg</item>
         <item>audio/amr</item>
      </string-array>
+     <string-array name="x5_record_scenes_entries">
+        <item>Music</item>
+        <item>Voice</item>
+        <item>Interview</item>
+     </string-array>
 </resources>

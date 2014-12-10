@@ -145,11 +145,15 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="hfb_order_price">Total ordre:</string>
      <string name="hfb_other_case">Hvis du ikke mottok en SMS_melding fra 10658008 vennligst se hjelp.</string>
      <string name="hfb_pay_by_phone">Betal med telefon:</string>
+     <string name="hfb_retry_query">再查一次</string>
      <string name="hfb_retry_receive">Prøv igjen</string>
      <string name="hfb_return">Tilbake</string>
+     <string name="hfb_step_2">按照提示进行回复</string>
+     <string name="hfb_step_3">点击“购买完成”</string>
      <string name="hfb_succ_label">Betaling fullført</string>
      <string name="hfb_succ_result">"Takk for at du brukte vår betalingstjeneste.
 "</string>
+     <string name="hfb_succ_service_phone_tip">支付服务客服：4006125880</string>
      <string name="illegal_intent">Illegal intent request</string>
      <string name="label_balance">Balanse:</string>
      <string name="label_giftcard">Gavekort:</string>
@@ -211,6 +215,10 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
      <string name="msg_telecom_sending">Kontakter nettverksleverandør…</string>
      <string name="order_price">%1$s MiCredits</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 1 Original: 2
+	%d: 0 Original: 0 -->
+     <!-- Original string: %1$s:%2$sMi Credits -->
      <string name="partner_giftcard_payment">%1$:%2$s Mi-kreditt</string>
      <string name="password_error">Feil passord.</string>
      <string name="password_forget">glemt?</string>

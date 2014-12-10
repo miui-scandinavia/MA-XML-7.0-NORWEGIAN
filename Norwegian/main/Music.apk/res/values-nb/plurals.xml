@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d sanger funnet</item>
-        <item quantity="one">%d sang funnet</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">%d dager igjen</item>
-        <item quantity="one">%d dag igjen</item>
-    </plurals>
-    <plurals name="NTrackstoDownload">
+     <plurals name="NTrackstoDownload">
         <item quantity="other">%d sanger vil bli lastet ned</item>
         <item quantity="one">1 sang vil bli lastet ned</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">%d Sanger</item>
-        <item quantity="one">%d Sang</item>
-    </plurals>
-    <plurals name="Ntracks_add_to_playlist">
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">%d dager igjen</item>
+        <item quantity="one">%d dag igjen</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d new</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d sanger lagt til i spilleliste</item>
         <item quantity="one">Sangen lagt til i spilleliste</item>
-    </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">%d Sanger</item>
+        <item quantity="one">%d Sang</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d sanger fjernet fra spilleliste</item>
         <item quantity="one">Sangen fjernet fra spilleliste</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">%d sanger funnet</item>
+        <item quantity="one">%d sang funnet</item>
+     </plurals>
+     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d sanger</item>
         <item quantity="one">1 sang</item>
-    </plurals>
-    <plurals name="send_songs_toast">
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">1 sang</item>
+     </plurals>
+     <plurals name="send_songs_toast">
         <item quantity="other">%d sanger vil bli sendt</item>
         <item quantity="one">1 sang vil bli sendt</item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d sanger</item>
-        <item quantity="one">1 sang</item>
-    </plurals>
+     </plurals>
 </resources>

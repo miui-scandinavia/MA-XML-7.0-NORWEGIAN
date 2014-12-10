@@ -96,6 +96,11 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
+     <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
+på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
+     <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
+     <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
+på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_detail_fail">feilet</string>
      <string name="micloud_detail_lastest">synket</string>
      <string name="micloud_detail_pending">venter</string>
@@ -128,6 +133,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_space_risk">Du har %d data å synke. Vennligst oppgrader lagringsplass.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
      <string name="micloud_main_suggest_sync">Noen elementer har ikke blytt synkronisert med din Mi Cloud</string>
+     <string name="micloud_main_sync_exception">Synkfeil</string>
      <string name="micloud_main_sync_now">Synk nå</string>
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_pause">Pause sync</string>

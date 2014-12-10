@@ -191,7 +191,7 @@
      <string name="offline_media_empty_hint">Tom</string>
      <string name="offline_no_source">Det er ingen tilgjengelig cache-kilder</string>
      <string name="offline_no_wifi">Du bruker ikke WiFi, vennligst velg cellulær-valget i innstillinger hvis du vil cache nå.</string>
-     <string name="offline_setting">Offline innhold</string>
+     <string name="offline_setting">Databruk</string>
      <string name="ok">OK</string>
      <string name="online_video">Online</string>
      <string name="other_setting">Andre</string>
@@ -278,8 +278,10 @@
      <string name="upgrade">Oppgrader</string>
      <string name="use_cellular_network">bruk cellulært nettverk</string>
      <string name="use_cellular_network_summary">bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
-     <string name="use_cellular_play_summary">Vis vrasler når du bruker mobilnettverk for å se eller laste ned video</string>
-     <string name="use_cellular_play_title">Databruksvarsel</string>
+     <string name="use_cellular_offlinedownload_summary">Vis varsel ved bruk av mobildata til nedlasting av video.</string>
+     <string name="use_cellular_offlinedownload_title">Nedlastingsvarsel</string>
+     <string name="use_cellular_play_summary">Vis varsel når du bruker mobildata for å se video</string>
+     <string name="use_cellular_play_title">Strømmingsvarsel</string>
      <string name="userdata_alert_content">Bruk av mobildatatilkobling får å vise videoer vil øke ditt dataforbruj. Hvis du går over abonnementets databrukgrense, kan operatøren din belaste deg avgifter.</string>
      <string name="userdata_alert_ok">Spill av</string>
      <string name="userdata_alert_title">Databrukvarsel</string>

@@ -101,7 +101,14 @@
      <string name="timer_item_label_hint">Timer-etikett</string>
      <string name="timer_item_picker_minute">Min</string>
      <string name="timer_item_picker_second">Sek</string>
-     <string name="timer_message">%1$d minutter</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 2
+	%s: 0 Original: 0
+	%d: 1 Original: 2 -->
+     <!-- Original string: %1$d minutes and %2$d seconds -->
+     <string name="timer_message">%1$d minutter og %2$d sekunder</string>
+     <string name="timer_message_00">%1$d minutt og %2$d sekund</string>
+     <string name="timer_message_01">%1$d minutt og %2$d sekunder</string>
+     <string name="timer_message_10">%1$d minutter og %2$d sekund</string>
      <string name="timer_message_with_hour">%1$d timer og %2$d minutter</string>
      <string name="timer_message_with_seconds">%1$d sekunder</string>
      <string name="timer_new_item">Tilpass</string>

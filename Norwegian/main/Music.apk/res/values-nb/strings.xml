@@ -24,6 +24,7 @@
      <string name="avoid_to_use_traffic_summary">"Ikke bruk mobilt nettverk for å strømme musikk"</string>
      <string name="avoid_to_use_traffic_title">Bruk bare Wi-Fi for å strømme musikk</string>
      <string name="baidu_music">Baidu Music</string>
+     <string name="bluetooth_device">Bluetooth device</string>
      <string name="buffering">Bufrer</string>
      <string name="button_add">Legg til</string>
      <string name="can_not_find_resource">"Kan ikke finne ressurser"</string>
@@ -36,6 +37,8 @@
      <string name="create_playlist">Lag spilleliste</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til streaming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
+     <string name="device_connected">Connected</string>
+     <string name="device_not_connected">Not connected</string>
      <string name="dialog_button_create_playlist">Lag spilleliste</string>
      <string name="dialog_button_editor_choice">Utvalgte</string>
      <string name="dialog_button_find_music">Oppdag ny musikk</string>

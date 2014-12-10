@@ -229,6 +229,11 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_warning_values">Grense for databruk</string>
      <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine &lt;a href=http://max.oupeng.com/eula.html&gt; Vilkår for bruk&lt;/a&gt;."</string>
      <string name="privacy_declare_dialog_title">Terms and Conditions</string>
+     <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
+     <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>
+     <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
+     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
+     <string name="privacy_prompt_upload">Privacy notification</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
      <string name="right_precent">100%</string>
@@ -236,6 +241,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
      <string name="setting_traffic_pkg">Velg datapakke</string>
      <string name="settings">Innstillinger for databruk</string>
+     <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
+     <string name="show_traffic_dialog_title">Show usage in notification shade</string>
      <string name="songs_number">18 sanger</string>
      <string name="songs_unit">" sabger"</string>
      <string name="sorted_button">Sorter etter</string>
@@ -245,6 +252,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="system_app">System apper</string>
      <string name="tc_sms_report_direction">Forespørselkode (kommandoen i SMS til operatøren)</string>
      <string name="tc_sms_report_do_report">Send</string>
+     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
      <string name="tc_sms_report_get_sms">Hent SMS</string>
      <string name="tc_sms_report_get_sms2">Hent SMS</string>
      <string name="tc_sms_report_get_sms_again">Oppdater SMS</string>
@@ -276,6 +284,10 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="tips_message">"Hvis du er usikker på detaljene rundt ditt trådløse abonnement, kan du se dem ved å ringe %2$s (%1$s)."</string>
      <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser at abonnementet sin månedlige databruksgrense er %s.
 Bruk dette nummeret for å sette din månedlige databruksgrense?"</string>
+     <string name="traffic_config_alert_body_extra">"
+You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
+     <string name="traffic_config_alert_body_extra_notset">"
+You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
      <string name="traffic_config_alert_body_leisure">"Regnskapet til operatøren din viser at abonnementet ditt sin nattlige databrukgrense er %1$s. Dette er forskjellig fra %2$s-grensen du satte manuelt."</string>
      <string name="traffic_config_alert_body_leisure_notset">"
 Regnskapet til operatøren din viser at abonnementet ditt sin nattlige databruksgrense er %1$s. Du har ikke satt en nattlig databrukgrense."</string>

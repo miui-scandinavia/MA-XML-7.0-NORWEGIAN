@@ -156,6 +156,10 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="micloud_space_info">%s tilgjengelig</string>
      <string name="micloud_sync_info">"%d elementer er ikke synkronisert"</string>
      <string name="micloud_sync_info_synced">Synkronisert</string>
+     <string name="micloud_sync_state_need_wifi">Bruk Wi-Fi til synkronisering</string>
+     <string name="micloud_sync_state_stop">Stoppet</string>
+     <string name="micloud_sync_state_synced">Synket</string>
+     <string name="micloud_sync_state_syncing">Synker</string>
      <string name="micloud_user_base_info">Brukerinformasjon</string>
      <string name="micloud_user_email">Epost</string>
      <string name="micloud_user_id">Mi-kontoID</string>

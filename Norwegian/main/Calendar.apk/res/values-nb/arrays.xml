@@ -332,7 +332,7 @@
         <item>Offentlig</item>
      </string-array>
      <string-array name="widget_style_list">
-        <item>Gjennomsiktig svart</item>
+        <item>Gjennomsiktig</item>
         <item>Hvit bakgrunn</item>
      </string-array>
 </resources>

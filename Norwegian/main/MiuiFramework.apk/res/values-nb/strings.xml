@@ -6,7 +6,7 @@
      <string name="anti_aggression_day">Anti-sinnedag</string>
      <string name="app_no_notification">Tom</string>
      <string name="app_notificaiton_on_notificationBar">Varselskygge</string>
-     <string name="app_notificaiton_on_statusBar_and_notificationBar">Låseskjerm, Varselskygge</string>
+     <string name="app_notificaiton_on_statusBar_and_notificationBar">Låseskjerm, varselskygge</string>
      <string name="arbor_day">Offisell treplantingsdag</string>
      <string name="armed_forces_day">Bevepnede styrker-dagen</string>
      <string name="auto_start_warning_allow">Tillat</string>
@@ -41,13 +41,13 @@
      <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Tanabata</string>
      <string name="easter">Påske</string>
-     <string name="first_back_long_press_message">"Langt-trykk på Tilbake-knappen vil drepe den gjeldende prosessen og dens bakgrunnstjenester.
+     <string name="first_back_long_press_message">"Trykk og hold Tilbake-knappen for å drepe den gjeldende prosessen og dens bakgrunnstjenester.
 
-For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &gt; Knapper"</string>
+For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper"</string>
      <string name="fm_record_smaple_prefix_miui">FM-opptak</string>
      <string name="fools_day">1. april</string>
      <string name="force_exit_message">Tvunget avslutting av %1$s</string>
-     <string name="force_exit_skip_message">%1$s is system key component, can not be force quited.</string>
+     <string name="force_exit_skip_message">"Kan ikke lukke %1$s fordi den kreves av systemet."</string>
      <string name="global_actions_airplane_mode">Flymodus</string>
      <string name="global_actions_reboot">Omstart</string>
      <string name="global_actions_shutdown">Skru av</string>
@@ -106,7 +106,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="national_day" />
      <string name="national_father_day" />
      <string name="new_years_day" />
-     <string name="no_notification_tips">Ingen varslinger</string>
+     <string name="no_notification_tips">Ingen varslinger.</string>
      <string name="partys_day" />
      <string name="paste">Lim inn</string>
      <string name="peace_day" />
@@ -208,7 +208,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="white_dews" />
      <string name="winter_begins" />
      <string name="winter_solstice" />
-     <string name="yellow_page_module_sms_sent">Tekstmelding snet.</string>
+     <string name="yellow_page_module_sms_sent">SMS snet.</string>
      <string name="yellow_page_sms_disabled_in_privacy_mode">"Kan ikke sende meldinger i gjestemodus"</string>
      <string name="yellow_page_sms_send_failed">"Kunne ikke sende SMS"</string>
      <string name="yellow_page_sms_sending">Sender</string>
