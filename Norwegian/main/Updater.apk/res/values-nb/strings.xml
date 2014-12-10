@@ -116,9 +116,9 @@
      <string name="notification_reboot_des">Start på nytt for å oppdatere til %s.</string>
      <string name="notification_reboot_seccess_des">Trykk for å dele oppdateringsinfo.</string>
      <string name="notification_reboot_seccess_title">Enhet oppdatert</string>
-     <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
+     <string name="notification_reboot_summary_hm">Trykk for å starte enhten på nytt.</string>
      <string name="notification_reboot_title">Omstart for å bruke oppdateringen</string>
-     <string name="notification_reboot_title_hm">Reboot to apply update</string>
+     <string name="notification_reboot_title_hm">Restart for å bruke oppdatering</string>
      <string name="notification_share">Del</string>
      <string name="notification_update_new_version">Oppdatering tilgjengelig</string>
      <string name="notification_update_now">Oppdater nå</string>

@@ -24,8 +24,8 @@
      <string name="buy_space_sulotion_renew_title">Forny abonnement</string>
      <string name="buy_space_sulotion_title">Kjøp lagringsplass</string>
      <string name="cloud_find_device">Finn enhet</string>
-     <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky</string>
-     <string name="cloud_space_upgrade_no_quota_info">Kunne ikke laste. Vent et minutt eller to og prøv igjen</string>
+     <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
+     <string name="cloud_space_upgrade_no_quota_info">"Kunne ikke hente lagringsinfo"</string>
      <string name="cloud_space_upgrade_title">Mer plass til Mi Cloud</string>
      <string name="cloud_sync_setting_summary_standard">Bruk din mobildatatilkobling for å synke SMS, kontaktinfo, og anropslogger. Bruk Wi-Fi for å synke bilder, videoer, MMS, app innhold, profilbildene til kontakter, og mer.</string>
      <string name="cloud_sync_setting_summary_wlan">Bare synk når tilkoblet Wi-Fi</string>
@@ -101,7 +101,7 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
      <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
-     <string name="micloud_detail_fail">feilet</string>
+     <string name="micloud_detail_fail">"kan ikke synke"</string>
      <string name="micloud_detail_lastest">synket</string>
      <string name="micloud_detail_pending">venter</string>
      <string name="micloud_detail_preference_syncing">synker</string>
@@ -205,7 +205,7 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
-     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, kontakter, anropslogg og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
+     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, appdata og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">mi.com/micloud</string>
      <string name="sync_dspt_provision3">".

@@ -56,7 +56,7 @@
      <string name="cloud_backup_window_title">Mi Cloud backup</string>
      <string name="cloud_home_title">Mi Cloud gjenopprett</string>
      <string name="cloud_item_info_summary">" (Lokal: %1$s | Mi Cloud: %2$s)"</string>
-     <string name="cloud_last_backup">Siste backup:</string>
+     <string name="cloud_last_backup">Siste backup den </string>
      <string name="cloud_no_backup">Ingen backup</string>
      <string name="cloud_restore_guide">For å gjenopprette brukerdata for %s, trykk Gjenopprett</string>
      <string name="cloud_restore_title">Gjenopprett backup data</string>
@@ -65,16 +65,14 @@
      <string name="compute_backup_info">Henter backupinfo</string>
      <string name="compute_delete_contact_info">Henter info…</string>
      <string name="contact_title">Kontakter</string>
-     <string name="current_account">Nåværende konto: %s</string>
-     <string name="current_sim">Nåværende SIM</string>
+     <string name="current_account">Hei %s</string>
+     <string name="current_sim">Nåværende SIM-kort</string>
      <string name="data_no_enough_space">Ikke nok intern plass</string>
      <string name="data_no_enough_space_message">"Det er ikke nok plass på enhetens internminne"</string>
-     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
      <string name="delete">Slett</string>
      <string name="delete_backup_process">Sletter…</string>
      <string name="delete_failed_backup_confirm">"Denne backupen inneholder feil."</string>
      <string name="deselect_all">Avvelg alle</string>
-     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
      <string name="disable_encrypt_title">Skru av kryptering</string>
      <string name="enable_encrypt">Skru på kryptering</string>
      <string name="enable_encrypt_fail">Aktivering av kryptering mislyktes</string>
@@ -96,7 +94,7 @@
 
 2.\u0009Gå til Mi Talk-innstilinger og velg ”Ta backup til Mi-konto”""</string>
      <string name="import_from_xiaomi_account_hint2">Hvis du allerede har en backup, trykk Neste.</string>
-     <string name="import_from_xiaomi_account_hint_title">Bruk MiTalk for å å ta backup av dine kontakter mellom enheter.</string>
+     <string name="import_from_xiaomi_account_hint_title">Bruk Mi Talk for å å ta backup av dine kontakter mellom enheter.</string>
      <string name="local_app_name">Backup</string>
      <string name="local_backup_window_title">Lokal Data Backup</string>
      <string name="local_home_title">Ta backup lokalt</string>
@@ -112,7 +110,7 @@
      <string name="multi_select_title">%1$s elementer valgt</string>
      <string name="never">Aldri</string>
      <string name="no_encrypt_password">Ingen passord</string>
-     <string name="no_network">Ingen nettverksforbindelse. Kontroller innstillinger og prøv igjen</string>
+     <string name="no_network">"Kunne ikke koble til nettverket"</string>
      <string name="note_title">Notater</string>
      <string name="nothing_searched">Ingen resultater.</string>
      <string name="progress_backup_hint">Tar backup...</string>
@@ -165,12 +163,12 @@
      <string name="task_canceled">Avbrutt</string>
      <string name="task_canceled_all_local">Annuller alle oppgaver</string>
      <string name="task_canceled_local">Backup uferdig (%s)</string>
-     <string name="task_cloud_backup_cancel_dialog">Backup ikke fullført. Trykk OK for å fjerne oppgaven</string>
+     <string name="task_cloud_backup_cancel_dialog">Backup er ikke ferdig. Stopp uansett?</string>
      <string name="task_failed">"Kunne ikke ta backup"</string>
      <string name="task_failed_all_local">"Kunne ikke ta backup"</string>
      <string name="task_failed_local">Backup uferdig (%s)</string>
      <string name="task_finished">Backup ble fullført</string>
-     <string name="task_local_backup_cancel_dialog">"Backup er ikke ferdig. Avbryt uansett?"</string>
+     <string name="task_local_backup_cancel_dialog">"Backup er ikke ferdig. Stopp uansett?"</string>
      <string name="task_pending">Avventer</string>
      <string name="task_post_running">Tar backup…</string>
      <string name="task_pre_running">Starter…</string>
