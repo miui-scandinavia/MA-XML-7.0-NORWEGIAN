@@ -92,7 +92,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Laster…</string>
      <string name="loading_hint">Laster</string>
-     <string name="master_alert_notif_dspt_add">%s elementer venter på å bli synkronisertz/string>
+     <string name="master_alert_notif_dspt_add">%s elementer venter på å bli synkronisertz</string>
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
