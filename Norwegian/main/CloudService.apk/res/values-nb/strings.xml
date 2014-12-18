@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="access_denied">Adgang nektet</string>
@@ -92,9 +92,8 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Laster…</string>
      <string name="loading_hint">Laster</string>
-     <string name="master_alert_notif_dspt_add">"%s elementer venter på å bli synkronisertz/string>
-     <string name="master_alert_notif_dspt_no">"Synkronisert.""</string>
-     <string name="master_alert_notif_dspt_no">Synced</string>
+     <string name="master_alert_notif_dspt_add">"%s elementer venter på å bli synkronisert</string>
+     <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
