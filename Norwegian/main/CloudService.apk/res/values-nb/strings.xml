@@ -27,7 +27,7 @@
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Kunne ikke hente lagringsinfo"</string>
      <string name="cloud_space_upgrade_title">Mer plass til Mi Cloud</string>
-     <string name="cloud_sync_setting_summary_standard">Bruk din mobildatatilkobling for å synke SMS, kontaktinfo, og anropslogger. Bruk Wi-Fi for å synke bilder, videoer, MMS, app innhold, profilbildene til kontakter, og mer.</string>
+     <string name="cloud_sync_setting_summary_standard">Bruk din mobildatatilkobling for å synke SMS, kontaktinfo, og anropshistorikker. Hvis du overskrider abonnementet ditt sin mobildatagrense, kan operatøren din belaste deg ytterligere.</string>
      <string name="cloud_sync_setting_summary_wlan">Bare synk når tilkoblet Wi-Fi</string>
      <string name="cmcc_micloud_dspt">Bruk Mi Cloud for å synkronisere data, finne din enhet,</string>
      <string name="contact">Kontakter</string>
@@ -57,7 +57,7 @@
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
      <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til "</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" for å finne, låse, eller tilbakestille den.
 
 Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
@@ -88,12 +88,13 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="i_know">OK</string>
      <string name="internet">Internett</string>
      <string name="internet_disconnected">Ingen datatilkobling</string>
-     <string name="less_flow_mode">Datasparing</string>
+     <string name="less_flow_mode">Bruk mobildata for å synke</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Laster…</string>
      <string name="loading_hint">Laster</string>
-     <string name="master_alert_notif_dspt_add">%s elementer venter på å bli synkronisertz/string>
-     <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
+     <string name="master_alert_notif_dspt_add">"%s elementer venter på å bli synkronisertz/string>
+     <string name="master_alert_notif_dspt_no">"Synkronisert.""</string>
+     <string name="master_alert_notif_dspt_no">Synced</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
@@ -101,13 +102,13 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
      <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
-     <string name="micloud_detail_fail">"kan ikke synke"</string>
-     <string name="micloud_detail_lastest">synket</string>
-     <string name="micloud_detail_pending">venter</string>
-     <string name="micloud_detail_preference_syncing">synker</string>
-     <string name="micloud_detail_preference_wlan">synk på Wi-Fi</string>
-     <string name="micloud_detail_success">synket</string>
-     <string name="micloud_detail_syncing">synker</string>
+     <string name="micloud_detail_fail">"Kunne ikke synke"</string>
+     <string name="micloud_detail_lastest">Synket</string>
+     <string name="micloud_detail_pending">Venter</string>
+     <string name="micloud_detail_preference_syncing">Synker</string>
+     <string name="micloud_detail_preference_wlan">Synk på Wi-Fi</string>
+     <string name="micloud_detail_success">Synket</string>
+     <string name="micloud_detail_syncing">Synker</string>
      <string name="micloud_detail_wlan">%d venter på synk</string>
      <string name="micloud_detail_wlan_contact">%d kontaktbilder venter på synk</string>
      <string name="micloud_detail_wlan_mms">%d MMS venter på synk</string>
@@ -124,13 +125,13 @@ Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt
 For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
      <string name="micloud_main_data_unsynced">%d elementer venter på synk</string>
-     <string name="micloud_main_detail">vis detalj</string>
+     <string name="micloud_main_detail">Vis detaljer</string>
      <string name="micloud_main_last_sync_time">Sist synket: %s</string>
      <string name="micloud_main_network_abnormal">"Kan ikke koble til nettverket"</string>
      <string name="micloud_main_network_error">"Kan ikke koble til nettverket."</string>
      <string name="micloud_main_set_internet">Nettverk</string>
      <string name="micloud_main_space_full">Ikke nok lagringsplass.</string>
-     <string name="micloud_main_space_risk">%d synket.</string>
+     <string name="micloud_main_space_risk">%d elementer synket.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
      <string name="micloud_main_suggest_sync">Noen elementer har ikke blytt synkronisert med din Mi Cloud</string>
      <string name="micloud_main_sync_exception">Synkfeil</string>
@@ -138,10 +139,10 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_pause">Pause sync</string>
      <string name="micloud_main_sync_stop">Stopp synk</string>
-     <string name="micloud_main_synced_data_count">%d synket</string>
-     <string name="micloud_main_syncing">synker…</string>
+     <string name="micloud_main_synced_data_count">%d elementer synket</string>
+     <string name="micloud_main_syncing">Synker…</string>
      <string name="micloud_main_update_space">Hent mer lagringsplass.</string>
-     <string name="micloud_main_wlan_sync_data_count">%d venter på synk over Wi-Fi</string>
+     <string name="micloud_main_wlan_sync_data_count">%d elementer venter på synk over Wi-Fi</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
@@ -165,9 +166,10 @@ brukt %s | gjenværende %s"</string>
      <string name="micloud_warn_full_title">Tom for plass</string>
      <string name="micloud_warn_low_sum">Mi Cloud-lagringsplass er 90% brukt.</string>
      <string name="micloud_warn_low_title">Nesten tom for plass…</string>
-     <string name="micloud_web_discription">Logg inn på i.mi.com for å lagre og få tilgang til dine filer overalt</string>
+     <string name="micloud_web_discription">Besøk i.mi.com</string>
      <string name="micloud_web_discription_01">Logg inn på https://i.mi.com</string>
      <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer overalt</string>
+     <string name="micloud_web_discription_international">Besøk www.mi.com/micloud</string>
      <string name="microsoft_cloud">Microsoft Cloud Service</string>
      <string name="microsoft_cloud_eng">One Drive</string>
      <string name="microsoft_cloud_price">Rundt RMB 80 i året</string>
@@ -181,9 +183,11 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
      <string name="normal">Normal</string>
-     <string name="only_in_wlan">Bare bruk Wi-Fi</string>
+     <string name="only_in_wlan">Av</string>
      <string name="other_settings">Andre innstillinger</string>
      <string name="password">Skriv ditt passord</string>
+     <string name="phone_number_may_required_dspt_provision">"Denne tjenesten kan kreve ditt telefonnummer. "</string>
+     <string name="phone_number_required_dspt_provision">"Denne tjenestne krever ditt telfonnummer. "</string>
      <string name="photo">Bilder</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Reduserer databruk</string>
      <string name="pref_title_sync_contacts_title">Synk kontakt</string>
@@ -207,19 +211,19 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="sync_dspt">Synk</string>
      <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, appdata og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
+     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="sync_dspt_provision3">".
 
 Du kan skru funksjonen av og på når som helst i Innstillinger.
 "</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
-     <string name="sync_item_calllog_title">Synk anropslogger</string>
+     <string name="sync_item_calllog_title">Synk anropshistorikk</string>
      <string name="sync_item_sms_summary">Synkroniser tekstmeldinger mellom enheter</string>
      <string name="sync_item_sms_title">Synk meldinger</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
-     <string name="sync_setting">Innstillinger for synk</string>
-     <string name="sync_standard">Syncksmåting</string>
+     <string name="sync_setting">Bruk av mobildata</string>
+     <string name="sync_standard">SMS og anropshistorikk</string>
      <string name="sync_sub_1_intl_sms">En internasjonal og innenlands SMS vil bli sendt for å binde SIM-kortet med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
      <string name="sync_sub_1_sms">En SMS vil bli sendt for å binde et SIM-kort med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
      <string name="sync_sub_1_sms_1_intl_sms">En internasjonal og innenlands SMS vil bli sendt for å binde dine SIM-kort med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>

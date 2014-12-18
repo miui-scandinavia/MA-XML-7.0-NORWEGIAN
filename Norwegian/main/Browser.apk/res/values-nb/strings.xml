@@ -121,6 +121,7 @@
      <string name="choosertitle_sharevia">Del via</string>
      <string name="clear">Tøm</string>
      <string name="clear_history">Tøm historikk</string>
+     <string name="clear_history_by_group_alert">Tøm historikk fra %s?</string>
      <string name="clear_history_group">Tøm all %s historikk</string>
      <string name="clear_search_history">Tøm søkehistorikk</string>
      <string name="clip_dialog_title">Åpne kopiert link?</string>

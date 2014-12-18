@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="accessibility_calllog_detail">Anropsloggdetajler</string>
+     <string name="accessibility_calllog_detail">Detaljer om anropshistorikk</string>
      <string name="account_container_title">Fra følgende konto</string>
      <string name="account_default">Telefon</string>
      <string name="account_phone">Kun telefon (usynkroniserede)</string>
@@ -101,19 +101,19 @@
      <string name="callrecordview_menu_add_call_note">Legg til anropsnotat</string>
      <string name="callrecordview_menu_batch_delete">Gruppeslett</string>
      <string name="callrecordview_menu_delete">Slett anrop</string>
-     <string name="callrecordview_menu_delete_accepted">Slett svarte anrop fra anropslogg</string>
+     <string name="callrecordview_menu_delete_accepted">Slett svarte anrop fra anropshistorikk</string>
      <string name="callrecordview_menu_delete_all">Slett alle anrop</string>
      <string name="callrecordview_menu_delete_called">Slett utgående anrop</string>
      <string name="callrecordview_menu_delete_confirm">Bekreft %s?</string>
      <string name="callrecordview_menu_delete_missed">Slett ubesvarte anrop</string>
-     <string name="callrecordview_menu_delete_new">Tøm anropsloggen for nye kontakter</string>
-     <string name="callrecordview_menu_delete_one">Fjern denne fra anropslogg</string>
-     <string name="callrecordview_menu_delete_sim">Fjern %s anropslogger</string>
+     <string name="callrecordview_menu_delete_new">Tøm anropshistorikken for nye kontakter</string>
+     <string name="callrecordview_menu_delete_one">Fjern denne fra anropshistorikk</string>
+     <string name="callrecordview_menu_delete_sim">Fjern %s anropshistorikk</string>
      <string name="callrecordview_menu_delete_stranger">Rydd ukjente nummere</string>
      <string name="callrecordview_menu_edit_call_note">Endre anropsnotat</string>
      <string name="callrecordview_menu_paste">Lim inn</string>
      <string name="callrecordview_menu_settings">Innstillinger</string>
-     <string name="callrecordview_menu_show">Anropslogg-filter</string>
+     <string name="callrecordview_menu_show">Anropshistorikk-filter</string>
      <string name="callrecordview_menu_show_accepted">Vis besvarede anrop</string>
      <string name="callrecordview_menu_show_all">Vis alle anrop</string>
      <string name="callrecordview_menu_show_called">Vis utgående anrop</string>
@@ -121,7 +121,7 @@
      <string name="callrecordview_menu_show_new">Nye kontakter</string>
      <string name="callrecordview_menu_show_sim">%s anrop</string>
      <string name="callrecordview_menu_show_stranger">Vis kun ukjente anrop</string>
-     <string name="callrecordview_menu_show_title">Velg type anropslogg som skal vises</string>
+     <string name="callrecordview_menu_show_title">Velg type anropshistorikk som skal vises</string>
      <string name="cancel_confirmation_dialog_message">Ønsker du å forkaste dine endringer?</string>
      <string name="cancel_export_confirmation_message">Er du sikker på at avbryte eksport av %s?</string>
      <string name="cancel_import_confirmation_message">Avbryt importering av %s?</string>
@@ -138,9 +138,9 @@
      <string name="chat_skype">Chat med Skype</string>
      <string name="chat_yahoo">Chat ved hjelp av Yahoo</string>
      <string name="checkhint">kontroller den annen telefon</string>
-     <string name="clearCallLogConfirmation">Slett alle poster i anropslogg</string>
-     <string name="clearCallLogConfirmation_title">Slett anropsloggen</string>
-     <string name="clearCallLogProgress_title">Rydder anropslogg</string>
+     <string name="clearCallLogConfirmation">Slett alle poster i anropshistorikk</string>
+     <string name="clearCallLogConfirmation_title">Slett anropshistorikken</string>
+     <string name="clearCallLogProgress_title">Rydder anropshistorikk</string>
      <string name="clearFrequentsConfirmation">Rydd listen med ofte kontaktede personer i Kontakter i Telefon-programmet, og tving email-program til å lære adresserings-preferanser fra bunnen av.</string>
      <string name="clearFrequentsConfirmation_title">Rydd ofte kontaktede?</string>
      <string name="clearFrequentsProgress_title">Rydder ofte kontaktede...</string>
@@ -162,14 +162,14 @@
      <string name="config_export_vcard_type">standard</string>
      <string name="config_import_vcard_type">standard</string>
      <string name="config_prohibited_phone_number_regexp" />
-     <string name="confirm_delete_contact_all_call_logs">"Slett anropslogger?"</string>
-     <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropslogger</string>
+     <string name="confirm_delete_contact_all_call_logs">"Slett anropshistorikk?"</string>
+     <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropshistorikk</string>
      <string name="confirm_delete_sim_entry_miui">Bekreft sletting av %d valgte kontakter på SIM-kortet?</string>
      <string name="confirm_export_message">Din kontakt liste vil bli eksportert til filen: %s.</string>
      <string name="confirm_export_title">Bekreft eksport</string>
      <string name="connections">Tilkoblinger</string>
      <string name="contactDetailAbout">Om</string>
-     <string name="contactDetailCalllog">anropslogger</string>
+     <string name="contactDetailCalllog">aAnropshistorikk</string>
      <string name="contactDetailUpdates">Oppdateringer</string>
      <string name="contactMultiPickerActivityTitle">Velg kontakter</string>
      <string name="contactPickerActivityTitle">Velg en kontakt</string>
@@ -215,9 +215,9 @@
      <string name="deleteConfirmation">Denne kontakt vil bli slettet</string>
      <string name="deleteConfirmationDetail">Slett \"%s\"?</string>
      <string name="deleteConfirmation_title">Slett</string>
-     <string name="delete_call_log_selected_title">Slett valgte anropslogg?</string>
-     <string name="delete_call_log_title">Velg anropslogg til sletting</string>
-     <string name="delete_contact_calllog_title">Slett anropslogger?</string>
+     <string name="delete_call_log_selected_title">Slett valgte anropshistorikk?</string>
+     <string name="delete_call_log_title">Velg anropshistorikk til sletting</string>
+     <string name="delete_contact_calllog_title">Slett anropshistorikk?</string>
      <string name="delete_dial_input">Slett</string>
      <string name="delete_duplicate">Flett</string>
      <string name="delete_duplicate_message">"Fletter ... "</string>
@@ -226,7 +226,7 @@
      <string name="delete_selected_sim_entry_miui">Slett valgte kontakter?</string>
      <string name="delete_sim_entries_finish">Vellykket sletting av utvalgte SIM-kontakter</string>
      <string name="delete_sim_entry_miui">Slett SIM-kontakter</string>
-     <string name="delete_unknown_contact_calllog_title">"Bekreft sletting av ukjent kontakts anropslogger?"</string>
+     <string name="delete_unknown_contact_calllog_title">"Bekreft sletting av ukjent kontakts anropshistorikk?"</string>
      <string name="deleting">Sletter...</string>
      <string name="deleting_sim_entry_miui">Sletting av kontakter på SIM-kort</string>
      <string name="description_add_contact">Legg til kontakt</string>
@@ -744,13 +744,13 @@ for å legge til kontakt til favoritter:
      <string name="reading_vcard_failed_title">"Kunne ikke lese vCard data"</string>
      <string name="rebuild_t9_index_dialog_message">Gjenoppbygger T9 indeks data…</string>
      <string name="recent">Nylige</string>
-     <string name="recentCallsIconLabel">anropslogg</string>
+     <string name="recentCallsIconLabel">Anropshistorikk</string>
      <string name="recentCalls_addToContact">Legg til i kontakter</string>
      <string name="recentCalls_callNumber">Ring til %s</string>
-     <string name="recentCalls_deleteAll">Rydd anropslogger</string>
+     <string name="recentCalls_deleteAll">Rydd anropshistorikker</string>
      <string name="recentCalls_editNumberBeforeCall">Rediger nummer, før anrop</string>
-     <string name="recentCalls_empty">Anropsloggen er tom.</string>
-     <string name="recentCalls_removeFromRecentList">Fjern fra anropslogg</string>
+     <string name="recentCalls_empty">Anropshistorikken er tom.</string>
+     <string name="recentCalls_removeFromRecentList">Fjern fra anropshistorikk</string>
      <string name="recentCalls_shareVoicemail">Del voicemail</string>
      <string name="recentCalls_trashVoicemail">Slett voicemail</string>
      <string name="recent_contacts_label">Seneste</string>
@@ -1056,8 +1056,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="toast_copy_done">Kopiering fullført</string>
      <string name="toast_copying">Kopierer, vennligst vent...</string>
      <string name="toast_displaying_all_contacts">Viser alle kontakter</string>
-     <string name="toast_finish_delete_call_log">Anropslogg slettet</string>
-     <string name="toast_finish_delete_selected_call_log">Valgte anropslogg slettet</string>
+     <string name="toast_finish_delete_call_log">Anropshistorikk slettet</string>
+     <string name="toast_finish_delete_selected_call_log">Valgte anropshistorikk slettet</string>
      <string name="toast_for_failed_saving_nickname">Kunne ikke lagre kallenavn!</string>
      <string name="toast_for_saving_nickname">Kallenavn lagret</string>
      <string name="toast_join_with_empty_contact">Vennligst tast inn navnet på kontaktpersonen før fletning med en annen kontakt.</string>

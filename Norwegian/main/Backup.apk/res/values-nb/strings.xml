@@ -69,10 +69,12 @@
      <string name="current_sim">Nåværende SIM-kort</string>
      <string name="data_no_enough_space">Ikke nok intern plass</string>
      <string name="data_no_enough_space_message">"Det er ikke nok plass på enhetens internminne"</string>
+     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
      <string name="delete">Slett</string>
      <string name="delete_backup_process">Sletter…</string>
      <string name="delete_failed_backup_confirm">"Denne backupen inneholder feil."</string>
      <string name="deselect_all">Avvelg alle</string>
+     <string name="dir_date_format">HHmmss_MMddyyyy</string>
      <string name="disable_encrypt_title">Skru av kryptering</string>
      <string name="enable_encrypt">Skru på kryptering</string>
      <string name="enable_encrypt_fail">Aktivering av kryptering mislyktes</string>

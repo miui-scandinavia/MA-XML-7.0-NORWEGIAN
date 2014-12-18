@@ -24,7 +24,7 @@
      <string name="avoid_to_use_traffic_summary">"Ikke bruk mobilt nettverk for å strømme musikk"</string>
      <string name="avoid_to_use_traffic_title">Bruk bare Wi-Fi for å strømme musikk</string>
      <string name="baidu_music">Baidu Music</string>
-     <string name="bluetooth_device">Bluetooth device</string>
+     <string name="bluetooth_device">Bluetooth-enhet</string>
      <string name="buffering">Bufrer</string>
      <string name="button_add">Legg til</string>
      <string name="can_not_find_resource">"Kan ikke finne ressurser"</string>
@@ -37,8 +37,8 @@
      <string name="create_playlist">Lag spilleliste</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til streaming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
-     <string name="device_connected">Connected</string>
-     <string name="device_not_connected">Not connected</string>
+     <string name="device_connected">Tilkoblet</string>
+     <string name="device_not_connected">Ikke tilkoblet</string>
      <string name="dialog_button_create_playlist">Lag spilleliste</string>
      <string name="dialog_button_editor_choice">Utvalgte</string>
      <string name="dialog_button_find_music">Oppdag</string>
@@ -137,7 +137,7 @@
      <string name="fragment_title_channel">FM</string>
      <string name="fragment_title_recommend">UTVALGTE</string>
      <string name="function_error">"Dette er flaut! Denne funksjonen er ennå ikke lansert (vi jobber med det)."</string>
-     <string name="headset_settings">Headset-innstillinger</string>
+     <string name="headset_settings">Hodetelefoner og lydeffekter</string>
      <string name="high_quality">Høy kvalitet</string>
      <string name="higher_quality_music">Høykvalitetslyd</string>
      <string name="higher_quality_music_summary">Strøm og last ned filer med høyere bitrate</string>
@@ -162,7 +162,7 @@
      <string name="lrc_search_failed">Sangtekster ikke funnet!</string>
      <string name="lrc_searching">Søker…</string>
      <string name="lyric">Sangtekster</string>
-     <string name="lyric_is_empty">Ingen sangtekster tilgjengelig.</string>
+     <string name="lyric_is_empty">Ingen sangtekster tilgjengelig</string>
      <string name="lyric_open_other_connect">Hent sangtekster via mobilt nettverk</string>
      <string name="lyric_setting">Innstillinger for sangtekster</string>
      <string name="max_sleep_time">90</string>

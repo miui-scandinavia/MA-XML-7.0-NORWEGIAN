@@ -48,11 +48,11 @@
      <string name="dialog_no">Nei</string>
      <string name="dialog_ok">Ok</string>
      <string name="dialog_yes">Ja</string>
-     <string name="download_again">Last ned igjen</string>
+     <string name="download_again">Prøv igjen</string>
      <string name="download_cancel">Avbryt</string>
      <string name="download_current_rom">Last ned siste version av komplett ROM</string>
      <string name="download_diff">Last ned forskjellen</string>
-     <string name="download_error">Nedlastingsfeil. Vent ett minutt eller to og prøv igjen.</string>
+     <string name="download_error">Vent ett minutt eller to og prøv igjen.</string>
      <string name="download_failed">"Kunne ikke laste ned"</string>
      <string name="download_full">Last ned fullversjon</string>
      <string name="download_title">Laster ned (%s)</string>
@@ -166,7 +166,7 @@
      <string name="timer_title">Enheten vil starte på nytt om %d sekunder.</string>
      <string name="title_toast_auto">Oppdateringer vil lastes ned automatisk</string>
      <string name="top_secret_build">Hemmelig build</string>
-     <string name="unkown_error_title">En feil oppsto…</string>
+     <string name="unkown_error_title">"Kunne ikke laste ned"</string>
      <string name="unstable_build">Ustabil build</string>
      <string name="update_comment_hint" />
      <string name="update_comment_title">Kommenter</string>

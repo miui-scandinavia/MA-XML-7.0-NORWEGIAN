@@ -971,6 +971,9 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="font_size_save">OK</string>
      <string name="font_size_small">Liten</string>
      <string name="font_size_summary">"Endre operativsystemet sin skriftstørrelse"</string>
+     <string name="font_size_summary1">"
+Misfornøyd? Prøv"</string>
+     <string name="font_size_summary2">JeeJen-hjem</string>
      <string name="force_hw_ui">Tving GPU-gjengivelse</string>
      <string name="force_hw_ui_summary">Tving bruk av GPU for 2D-tegning</string>
      <string name="force_msaa">Tving 4x MSAA</string>
@@ -2209,6 +2212,8 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="timezone_settings">Tidssone</string>
      <string name="title_color_calibration">Forhåndsvalg for fargeforbedring</string>
      <string name="title_dolby_control">Dobly digital plus</string>
+     <string name="title_font">Skrifttype</string>
+     <string name="title_font_current">Bruker</string>
      <string name="title_font_size">Skriftstørrelse</string>
      <string name="title_hdmi_color_calibration">Forhåndsvalg for fargeforbedring</string>
      <string name="title_local_resource">Lokale ressurser</string>

@@ -120,10 +120,10 @@
      <string name="pref_summary_no_limit_popup">Nedlastningstørrelse er ubegrenset</string>
      <string name="pref_title_enable_max_bytes_popup">Beskjed om filstørrelse</string>
      <string name="preferences_title">Innstillinger</string>
-     <string name="privacy_tip_cancel">Cancel</string>
-     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+    <string name="privacy_tip_cancel">Avbryt</string>
+     <string name="privacy_tip_content">"Bruk Xunlei-akselerator for å øke nedlastningshastigheten? URLen til nedlastningens vert vil bli lastet opp til Xunlei sine servere. Dine Mi-konto-detaljer vil bli lastet opp for å sjekke om du har noen aktive abonnement til denne tjenesten."</string>
      <string name="privacy_tip_ok">OK</string>
-     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+     <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="remove_download">Fjern</string>
      <string name="restart_download">Restart</string>
      <string name="resume_download">Fortsett</string>

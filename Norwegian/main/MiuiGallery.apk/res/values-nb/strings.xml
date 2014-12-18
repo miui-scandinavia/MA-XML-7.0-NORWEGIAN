@@ -730,9 +730,9 @@ venner."</string>
      <string name="miui_wallpaper">Bakgrunnsbilde</string>
      <string name="modified_time">Tid endret</string>
      <string name="moman">MomanCamera</string>
-     <string name="moman_camera_drawing">Moman Camera drawing</string>
-     <string name="moman_camera_icon">Moman Camera emoticon</string>
-     <string name="moman_camera_picture">Moman Camera pictures</string>
+     <string name="moman_camera_drawing">Moman-kamerategning</string>
+     <string name="moman_camera_icon">Moman-kamerasmileys</string>
+     <string name="moman_camera_picture">Moman-kamerabilder</string>
      <string name="more">Mer</string>
      <string name="move">Flytt</string>
      <string name="move_to_cloud_album">Flytt til Cloud</string>
@@ -810,7 +810,7 @@ venner."</string>
      <string name="picker_tab_photo">Bilde</string>
      <string name="pocket_camera_picture">Bilder fra lommekamera</string>
      <string name="pocket_camera_video">Videoer fra lommekamera</string>
-     <string name="pocketcamera">PocketCamera</string>
+     <string name="pocketcamera">Lommekamera</string>
      <string name="posterize">Posteriser</string>
      <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>
@@ -874,7 +874,7 @@ venner."</string>
      <string name="select_all">Velg alle</string>
      <string name="select_auto_upload_albums">Velg album å laste opp til skyen</string>
      <string name="select_image">Velg bilde</string>
-     <string name="select_item">Rediger</string>
+     <string name="select_item">Velg elementer</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
      <string name="send">Send</string>

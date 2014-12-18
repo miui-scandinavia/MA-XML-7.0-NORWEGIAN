@@ -3,10 +3,10 @@
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Aktiver</string>
-     <string name="activate_feature_call_log_sync">Synk av anropslogg</string>
+     <string name="activate_feature_call_log_sync">Synk anropshisstorikk</string>
      <string name="activate_feature_find_device">Finn enhet</string>
-     <string name="activate_feature_mms_sync">SMS-synk</string>
-     <string name="activate_feature_mx">Gratis skymeldinger</string>
+     <string name="activate_feature_mms_sync">Synk SMS</string>
+     <string name="activate_feature_mx">Mim-elding</string>
      <string name="activate_phone_failed_notif_title">"Kunne ikke aktivere SIM-kort"</string>
      <string name="activate_phone_failed_notif_title_msim">"Kunne ikke aktivere SIM-kort %s"</string>
      <string name="activate_popup_confirm_failed_phone_error">Prøv på nytt</string>

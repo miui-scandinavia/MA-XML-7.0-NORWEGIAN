@@ -55,8 +55,8 @@
      <string name="battery_low_subtitle">Batterinivået er lavt</string>
      <string name="battery_low_title">Koble til lader</string>
      <string name="battery_low_why">Batteriforbruk</string>
-     <string name="battery_profiles">Use battery profiles</string>
-     <string name="bluetooth_tethered">Bluetooth internetdeling</string>
+     <string name="battery_profiles">Bruk batteriprofiler</string>
+     <string name="bluetooth_tethered">Bluetooth internettdeling</string>
      <string name="call_status_dialing">Ringer</string>
      <string name="call_status_ringing">Ringing</string>
      <string name="camera_key_action_app_title">Åpent program</string>

@@ -343,8 +343,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="gsm_umts_options">GSM/UMTS-innstillinger</string>
      <string name="hac_mode_summary">Slå på kompatibilitet med høreapparat</string>
      <string name="hac_mode_title">Høreapparater</string>
-     <string name="handon_ringer_summary">Telefonen vil ikke vibrere når du har et innkommende anrop</string>
-     <string name="handon_ringer_title">"Ikke vibrer"</string>
+     <string name="handon_ringer_summary">"Reduser ringevolum for innkommende anrop når telefonen heves. Denne funksjonen fungerer ikke når vibrering for innkommende anrop er på."</string>
+     <string name="handon_ringer_title">Stille ringevolum ved løfting</string>
      <string name="importAllSimEntries">Importer alle</string>
      <string name="importSimEntry">Importer</string>
      <string name="importToFDNfromContacts">Importer fra kontakter</string>
@@ -497,6 +497,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
 Vil bruke foretrukket nettverk istedet."</string>
      <string name="network_settings_turn_off">av</string>
      <string name="network_settings_warn_message">"Enheten din vil brare koble til nettverk du velger manuelt."</string>
+     <string name="network_unlock">Lås opp</string>
      <string name="networks">Nettoperatører</string>
      <string name="networks_title">Operatører</string>
      <string name="new_password_label">Nytt 4-sifret passord</string>
@@ -615,6 +616,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="preferred_network_mode_dialogtitle">Foretrukket nettverkstype</string>
      <string name="preferred_network_mode_summary">Bytt nettverksmodus</string>
      <string name="preferred_network_mode_title">Foretrukket nettverkstype</string>
+     <string name="preferred_network_restrict_network_changed_incall">"Kan ikke endre mobilnettverk under anrop"</string>
      <string name="preferred_network_type_3g_only_warning">SIM-kortet ditt må støtte 3G for å koble til nettverket.</string>
      <string name="preferred_network_type_cdma">CDMA</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Foretrekk 3G</string>
@@ -734,6 +736,8 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="simContacts_airplaneMode">Du må slå av flymodus før du kan importere kontakter fra SIM-kortet.</string>
      <string name="simContacts_emptyLoading">Leser fra SIM-kort…</string>
      <string name="simContacts_title">Velg kontakter som skal importeres</string>
+     <string name="sim_cards_network_mode_changed_summary">Trykk for å vise SMS- og anropsinnstillinger.</string>
+     <string name="sim_cards_network_mode_changed_title">Nytt SIM-kort oppdaget</string>
      <string name="sim_contact_name">Name</string>
      <string name="sim_contact_number">Number</string>
      <string name="sim_ndp_dismiss_text">Skjul</string>

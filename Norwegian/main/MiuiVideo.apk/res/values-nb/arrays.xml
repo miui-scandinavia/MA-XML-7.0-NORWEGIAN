@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="channel_tabs">
-        <item>Populære</item>
-        <item>Nivå</item>
-        <item>Nyeste</item>
-    </string-array>
-    <string-array name="channel_featured_tabs">
+     <string-array name="addon_list_tabs">
+        <item>Alle tilegg</item>
+        <item>Mine tilegg</item>
+     </string-array>
+     <string-array name="channel_featured_tabs">
         <item>Utvalgte</item>
         <item>Nivå</item>
         <item>Nyeste</item>
-    </string-array>
-    <string-array name="home_tabs">
+     </string-array>
+     <string-array name="channel_tabs">
+        <item>Populære</item>
+        <item>Nivå</item>
+        <item>Nyeste</item>
+     </string-array>
+     <string-array name="home_tabs">
         <item>Online</item>
         <item>Lokal</item>
-    </string-array>
-    <string-array name="series_detail_tabs">
+     </string-array>
+     <string-array name="movie_channel_tabs">
+        <item>Recommended</item>
+        <item>Rank</item>
+        <item>Hot</item>
+        <item>Newest</item>
+     </string-array>
+     <string-array name="series_detail_tabs">
         <item>Episode</item>
         <item>Sammendrag</item>
-    </string-array>
-    <string-array name="addon_list_tabs">
-        <item>Alle tilegg</item>
-        <item>Mine tilegg</item>
-    </string-array>
+     </string-array>
+     <string-array name="variety_channel_tabs">
+        <item>Anbefalte</item>
+        <item>Populære</item>
+     </string-array>
 </resources>

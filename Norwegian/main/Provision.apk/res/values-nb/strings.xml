@@ -24,11 +24,11 @@
      <string name="other_settings_location">Tilgang til plassering</string>
      <string name="other_settings_location_summary">La apper finne din plassering</string>
      <string name="other_settings_user_experience">Brukertilbakemelding</string>
-     <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende statistikk om hvordan du bruker dens funksjoner (%s)</string>
+     <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende anonyme bruksdata (%s)</string>
      <string name="other_settings_user_experience_summary1">Vis erklæring om personvern</string>
      <string name="pref_title_data_slot">Foretrukket SIM-kort for data</string>
      <string name="pref_title_voice_slot">Foretrukket SIM-kort for tale</string>
-     <string name="privacy_policy">Privacy Policy</string>
+     <string name="privacy_policy">Erklæring om personvern</string>
      <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
      <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
      <string name="setting_locale">Setter plassering…</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="alarm_in_furture">
+     <string-array name="alarm_in_furture">
         <item>Alarm om mindre enn 1 minutt</item>
         <item>Alarm om %1$s</item>
         <item>Alarm om %2$s</item>
@@ -9,26 +10,34 @@
         <item>Alarm om %1$s %3$s</item>
         <item>Alarm om %2$s %3$s</item>
         <item>Alarm om %1$s %2$s %3$s</item>
-    </string-array>
-    <string-array name="days">
-        <item>I går</item>
-        <item>I dag</item>
-        <item>I morgen</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
+     </string-array>
+     <string-array name="alarm_repeat_type">
         <item>En gang</item>
         <item>Daglig</item>
         <item>Ukentlig</item>
         <item>Man til Fre</item>
         <item>Egendefinert</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
         <item>En gang</item>
         <item>Daglig</item>
         <item>Man til Fre</item>
         <item>Egendefinert</item>
-    </string-array>
-    <string-array name="alarm_set">
+     </string-array>
+     <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <string-array name="alarm_set">
         <item>Alarm er stilt inn til mindre enn et minutt fra nå.</item>
         <item>Alarm stilt inn til %1$s fra nå.</item>
         <item>Alarm stilt inn til %2$s fra nå.</item>
@@ -37,17 +46,8 @@
         <item>Alarm stilt inn til %1$s og %3$s fra nå.</item>
         <item>Alarm stilt inn til %2$s og %3$s fra nå.</item>
         <item>Alarm stilt inn til %1$s, %2$s, og %3$s fra nå.</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minutt</item>
-        <item>5 minutter</item>
-        <item>10 minutter</item>
-        <item>15 minutter</item>
-        <item>20 minutter</item>
-        <item>25 minutter</item>
-        <item>30 minutter</item>
-    </string-array>
-    <string-array name="auto_silence_entries">
+     </string-array>
+     <string-array name="auto_silence_entries">
         <item>Aldri</item>
         <item>1 minutt</item>
         <item>5 minutter</item>
@@ -56,10 +56,48 @@
         <item>20 minutter</item>
         <item>25 minutter</item>
         <item>30 minutter</item>
-    </string-array>
-    <string-array name="volume_button_setting_entries">
+     </string-array>
+     <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+     </string-array>
+     <string-array name="days">
+        <item>I går</item>
+        <item>I dag</item>
+        <item>I morgen</item>
+     </string-array>
+     <string-array name="snooze_duration_entries">
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+     </string-array>
+     <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+     </string-array>
+     <string-array name="volume_button_setting_entries">
         <item>Gjør ingenting</item>
         <item>Slumre</item>
         <item>Avbryt</item>
-    </string-array>
+     </string-array>
+     <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
 </resources>

@@ -34,14 +34,14 @@
      <string name="permlab_downloadManagerAdvanced">Avanserte funksjoner.</string>
      <string name="permlab_downloadWithoutNotification">Last ned filer uten varsling</string>
      <string name="permlab_seeAllExternal">Se alle nedlastinger til SD-kort</string>
-     <string name="privacy_notif_content">Touch to view details.</string>
-     <string name="privacy_notif_title">Xunlei Download Accelerator is on</string>
-     <string name="privacy_tip_cancel">Cancel</string>
-     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+     <string name="privacy_notif_content">Trykk for å vise detaljer.</string>
+     <string name="privacy_notif_title">Xunlei nedlastningsakselerator er på</string>
+     <string name="privacy_tip_cancel">Avbryt</string>
+     <string name="privacy_tip_content">"Bruk Xunlei-akselerator for å øke nedlastningshastigheten? URLen til nedlastningens vert vil bli lastet opp til Xunlei sine servere. Dine Mi-konto-detaljer vil bli lastet opp for å sjekke om du har noen aktive abonnement til denne tjenesten."</string>
      <string name="privacy_tip_ok">OK</string>
-     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
-     <string name="root_downloads">Downloads</string>
-     <string name="task_already_exist">Task already exists</string>
+     <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
+     <string name="root_downloads">Nedlastninger</string>
+     <string name="task_already_exist">Oppgave eksisterer allerede</string>
      <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
 
  %s（%s）

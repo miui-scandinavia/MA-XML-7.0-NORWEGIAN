@@ -10,7 +10,7 @@
         <item quantity="one">%d dag igjen</item>
      </plurals>
      <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d new</item>
+        <item quantity="other">%d nye</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d sanger lagt til i spilleliste</item>

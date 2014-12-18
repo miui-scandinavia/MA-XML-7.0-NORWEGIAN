@@ -13,6 +13,7 @@
      <string name="bluetooth_preference_found_devices">Tilgjengelig enheter</string>
      <string name="bluetooth_preference_scan_title">Skann etter enheter</string>
      <string name="bluetooth_search_for_devices">Søk etter enheter</string>
+     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
      <string name="bt_enable_cancel">Avbryt</string>
      <string name="bt_enable_line1">Du må aktivere Bluetooth, før du kan bruke Bluetooth-tjenester.</string>
      <string name="bt_enable_line2">Vil du aktivere Bluetooth nå?</string>

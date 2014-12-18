@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="weather_type">
+        <item>Sol</item>
+        <item>Skyfullt</item>
+        <item>Overskyet</item>
+        <item>Tåkete</item>
+        <item>Sterk regnstorm</item>
+        <item>Downpour</item>
+        <item>Regnskyll</item>
+        <item>Tordenvær</item>
+        <item>Dusj</item>
+        <item>Tungt regnfall</item>
+        <item>Moderat regnmengde</item>
+        <item>Duskregn</item>
+        <item>Blanding av regn og snø</item>
+        <item>Snøstorm</item>
+        <item>Snø</item>
+        <item>Tungt snøfall</item>
+        <item>Moderat snømengde</item>
+        <item>Lett snøfall</item>
+        <item>Sterk sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Sand</item>
+        <item>Vindfullt</item>
+        <item>Hagl</item>
+        <item>Støv</item>
+        <item>Disig</item>
+        <item>Frysende regn</item>
+        <item>Ingen data</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Svakest</item>
+        <item>Svak</item>
+        <item>Midten</item>
+        <item>Sterk</item>
+        <item>Sterkest</item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>Vind N</item>
+        <item>Vind NE</item>
+        <item>Vind E</item>
+        <item>Vind SE</item>
+        <item>Vind S</item>
+        <item>Vind SW</item>
+        <item>Vind W</item>
+        <item>Vind NW</item>
+     </string-array>
+</resources>
