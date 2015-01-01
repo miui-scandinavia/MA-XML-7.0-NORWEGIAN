@@ -1034,10 +1034,10 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="global_locale_change_title">Bytt språk</string>
      <string name="google_backup_section_title">Google sikkerhetskopi &amp; gjenopprett</string>
      <string name="gsm_to_wifi_connect_type_title">GSM til WLAN</string>
-     <string name="handy_mode">Handy mode</string>
-     <string name="handy_mode_enable">Handy mode</string>
-     <string name="handy_mode_size">Screen size</string>
-     <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
+     <string name="handy_mode">Hendig modus</string>
+     <string name="handy_mode_enable">Hendig modus</string>
+     <string name="handy_mode_size">Skjermstørrelse</string>
+     <string name="handy_mode_tips">Sveip venstre eller høyre fra Hjem-knappen for å dra skjermen nærmere én side.</string>
      <string name="haptic_feedback_enable_title">Vibrer ved berøring</string>
      <string name="haptic_feedback_level">Vibrasjonsstyrke</string>
      <string name="hardkeyboard_category">Innstillinger for fysisk tastatur</string>
@@ -1161,9 +1161,9 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="launching_cit">Åpner CIT</string>
      <string name="launching_pho">Åpner telefoninformasjon, vennligst vent.</string>
      <string name="launching_rep">Rapporterer…</string>
-     <string name="layout_size_large">Diger</string>
-     <string name="layout_size_medium">Stor</string>
-     <string name="layout_size_normal">Meidum</string>
+     <string name="layout_size_large">Stor</string>
+     <string name="layout_size_medium">Medium</string>
+     <string name="layout_size_normal">Standard</string>
      <string name="layout_size_small">Liten</string>
      <string name="led_colors_summary">Varslinger</string>
      <string name="led_frequence_summary">Sett mellomrom mellom LED-blinking</string>

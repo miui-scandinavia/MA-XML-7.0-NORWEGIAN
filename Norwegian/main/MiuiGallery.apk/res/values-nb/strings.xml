@@ -47,9 +47,9 @@
      <string name="alert_init_merged_message">"Nå vil bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Du må skru på synk først.</string>
-     <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjule album.</string>
-     <string name="alert_secret_album_set_pattern">Set a pattern</string>
-     <string name="alert_secret_album_title">Skjulte album</string>
+     <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjule album. For å beskytte de, må du velge ett mønster.</string>
+     <string name="alert_secret_album_set_pattern">Sett ett mønster</string>
+     <string name="alert_secret_album_title">Lagt til i skjulte album</string>
      <string name="already_apply_album">Åpne %1$s?</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
@@ -61,7 +61,7 @@
      <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
      <string name="auto_create_recent_album_confirm">"Galleri vil tømme favoritt-albumdata. Albumer du har favorittmerket manuelt vil ikke bli påvirket."</string>
      <string name="auto_create_recent_album_over_ten_times">Et album vil bli markest som favoritt når du åpner den mer en 10 ganger</string>
-     <string name="auto_upload_album_comfirm_to_share">Dette er en album som blir lastet opp automatisk. Er du sikker på at du vil dele den?</string>
+     <string name="auto_upload_album_comfirm_to_share">Dette albumet blir lastet opp automatisk.</string>
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Last opp automatisk</string>
      <string name="autofix">Auto-fiks</string>
@@ -752,9 +752,9 @@ venner."</string>
      <string name="no_network_connected">Ingen nettverksforbindelse</string>
      <string name="no_picture_or_video">Ingen bilder eller videoer</string>
      <string name="no_storage_disable_cloud_albums">Cloud-album er deaktivert; prøv igjen etter eksternt lager er tilgjengelig.</string>
-     <string name="no_such_album">Album not found</string>
+     <string name="no_such_album">Album ikke funnet</string>
      <string name="no_such_item">"Kunne ikke finne element."</string>
-     <string name="no_thumbnail">Ingen miniaturer</string>
+     <string name="no_thumbnail">Ingen miniatyrer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
@@ -851,7 +851,7 @@ venner."</string>
      <string name="rotate">Roter</string>
      <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Trekk foto for å rotere det</string>
-     <string name="same_name_album_exists_alert">Ett album med det samme navnet, som har blitt delt med andre, eksisterer allerede. Er du sikker på at du vil laste opp bilder automatisk til dette albumet?</string>
+     <string name="same_name_album_exists_alert">Bilder vil bli lastet opp til et eksistrende album med det samme navnet.</string>
      <string name="saturation">Metning</string>
      <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
      <string name="save">LAGRE</string>
@@ -944,7 +944,7 @@ venner."</string>
      <string name="sync_album_set_error">"Kan ikke synke bilder. Sjekk din dataforbindelse og prøv igjen."</string>
      <string name="sync_album_summary">Last opp bilder til skyen</string>
      <string name="sync_history_power_on">Synk kun bilder under ladning</string>
-     <string name="sync_in_progress_message">Synkroniserer…</string>
+     <string name="sync_in_progress_message">Laster ned album…</string>
      <string name="sync_only_in_wifi">Kun Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Slår du av denne funksjonen kan mobildataforbruket øke, er du sikker på at du vil slå den av?</string>
      <string name="sync_only_in_wifi_summary">"Aldri bruk mobildataforbindelse for å laste opp bilder"</string>

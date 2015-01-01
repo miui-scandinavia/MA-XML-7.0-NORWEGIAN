@@ -18,8 +18,8 @@
         <item quantity="one">%d album</item>
      </plurals>
      <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d popular songs</item>
-        <item quantity="one">%d popular song</item>
+        <item quantity="other">%d populære sanger</item>
+        <item quantity="one">%d populær sang</item>
      </plurals>
      <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d valgt</item>

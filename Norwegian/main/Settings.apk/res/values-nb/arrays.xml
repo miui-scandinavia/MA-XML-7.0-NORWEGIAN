@@ -501,31 +501,15 @@
         <item>22</item>
         <item>27</item>
      </integer-array>
-     <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
-     </string-array>
      <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inches</item>
-        <item>4.0 inches</item>
-        <item>3.5 inches</item>
-     </string-array>
-     <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
+        <item>4.5-tommer</item>
+        <item>4.0-tommer</item>
+        <item>3.5-tommer</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Svak</item>
         <item>Medium</item>
         <item>Kraftig</item>
-     </string-array>
-     <string-array name="haptic_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Bruk aldri HDCP-kontroll</item>
@@ -536,21 +520,6 @@
         <item>Kontrollér aldri</item>
         <item>Se kun etter DRM-innhold</item>
         <item>Kontrollér alltid</item>
-     </string-array>
-     <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-     </string-array>
-     <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-     </string-array>
-     <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Blå</item>
@@ -580,16 +549,6 @@
         <item>8 sekunder</item>
         <item>9 sekunder</item>
      </string-array>
-     <string-array name="led_freq_values">
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-     </string-array>
      <string-array name="lock_after_timeout_entries">
         <item>Øyeblikkelig</item>
         <item>5 sekunder</item>
@@ -601,26 +560,10 @@
         <item>10 minutter</item>
         <item>30 minutter</item>
      </string-array>
-     <string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-     </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Kort</item>
         <item>Middels</item>
         <item>Lang</item>
-     </string-array>
-     <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
      </string-array>
      <string-array name="media_feedback_level_entries">
         <item>Svak</item>
@@ -640,22 +583,6 @@
         <item>Fiolett</item>
         <item>Lilla</item>
      </string-array>
-     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-     </string-array>
-     <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-     </string-array>
      <string-array name="miracast_policies">
         <item>Mindre forsinkelse</item>
         <item>Standard</item>
@@ -666,12 +593,6 @@
         <item>Windows Vista og nyere</item>
         <item>OSX</item>
         <item>Linux</item>
-     </string-array>
-     <string-array name="msd_pc_system_download_summary">
-        <item>@string/msd_driver_download_xp</item>
-        <item></item>
-        <item>@string/msd_driver_download_mac</item>
-        <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>

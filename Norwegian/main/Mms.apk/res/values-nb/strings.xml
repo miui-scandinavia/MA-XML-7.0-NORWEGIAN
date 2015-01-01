@@ -36,8 +36,7 @@
      <string name="attach_subject">Emne</string>
      <string name="attach_take_photo">Ta bilde</string>
      <string name="attach_video">Videoer</string>
-     <string name="audio_download_failed">audio download failed</string>
-     <string name="audio_playing_seconds">%d\"</string>
+     <string name="audio_download_failed">lydnedlastning feilet</string>
      <string name="back_to_message_list">tilbake til meldingsliste</string>
      <string name="batch_adding_progress_message">Legger til...</string>
      <string name="batch_delete_confirm_dialog_message">Er du sikker på at du vil slette %1$s meldinger?</string>
@@ -50,9 +49,9 @@
      <string name="bookmark_list_title">Favoritter</string>
      <string name="cannot_add_picture_and_video">Kan ikke legge til video og bilde til et enkelt lysbilde.</string>
      <string name="cannot_add_slide_anymore">Kan ikke legge til flere lysbilder.</string>
-     <string name="cannot_forward_drm_obj">DRM objektet inkludert i meldingen kan ikke videresendes.</string>
+     <string name="cannot_forward_drm_obj">DRM-objektet inkludert i meldingen kan ikke videresendes.</string>
      <string name="cannot_get_details">Kan ikke hente detaljer</string>
-     <string name="cannot_resend_audio">"Couldn't send recording"</string>
+     <string name="cannot_resend_audio">"Kunne ikke sende opptak"</string>
      <string name="cannot_send_message">Kan ikke sende melding!</string>
      <string name="cannot_send_message_reason">Din melding har ingen gyldige mottakere!</string>
      <string name="change_duration_activity">Velg ny varighet</string>
@@ -123,7 +122,7 @@
      <string name="download">Overføring</string>
      <string name="download_later">Nedlasting ikke mulig - prøv igjen senere.</string>
      <string name="downloading">Overfører</string>
-     <string name="downloading_file_can_not_play">Wait until recording has finished downloading</string>
+     <string name="downloading_file_can_not_play">Vent til opptaket blir ferdig nedlastet</string>
      <string name="duration_not_a_number">Varighet MÅ være et tall</string>
      <string name="duration_sec">Varighet (%s sek)</string>
      <string name="duration_selector_title">"Varighet for dette lydbilde "</string>
@@ -177,7 +176,7 @@
      <string name="group_resend_message">Sender på nytt(%d)</string>
      <string name="guild_add_attachments">Trykk her for å legge til vedlegg eller smileys i meldingen</string>
      <string name="guild_add_recipients">Trykk her for å legge til kontakter fra adresseboka</string>
-     <string name="guild_msim_switcher">Touch to switch SIM cards</string>
+     <string name="guild_msim_switcher">Trykk for å bytte SIM-kort</string>
      <string name="has_invalid_recipient">Ugyldig mottaker(e): %1$s</string>
      <string name="hidden_sender_address">Skjult avsender</string>
      <string name="hint_search_sms">%d SMS</string>
@@ -192,7 +191,7 @@
      <string name="invalid_recipient_message">Rett opp mottaker(e) ellers vil de ikke motta meldingen.</string>
      <string name="kilobyte">KB</string>
      <string name="layout_selector_title">Lysbildeshow-layout\u0020</string>
-     <string name="left_cancel">Swipe left to cancel</string>
+     <string name="left_cancel">Sveip til venstre for å avbryte</string>
      <string name="loading_all_messages">Laster inn alle meldinger...</string>
      <string name="loading_conversations">Laster inn samtaler...</string>
      <string name="loading_mms">Laster inn MMS…</string>
@@ -213,7 +212,7 @@
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
-     <string name="menu_send_as_common">Sent as SMS</string>
+     <string name="menu_send_as_common">Sendt som SMS</string>
      <string name="menu_unlock">Fjern stjerne</string>
      <string name="menu_view_contact">Åpen kontakt</string>
      <string name="menu_yellowpage">Vis %s</string>
@@ -230,7 +229,7 @@
      <string name="message_saved_as_draft">Message saved as draft.</string>
      <string name="message_send_failed_title">Melding ikke sendt</string>
      <string name="message_send_read_report">Mottakerrapport vil bli sendt.</string>
-     <string name="message_sent">Sent</string>
+     <string name="message_sent">Sendt</string>
      <string name="message_size_label">Størrelse på melding:\u0020</string>
      <string name="message_too_big_for_audio">Meldingen er for stor til å legge ved lyd.</string>
      <string name="message_too_big_for_video">Meddelse for stor til å legge ved video.</string>
@@ -306,11 +305,7 @@
      <string name="phrase_list_title">Raske svar)</string>
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="play">Spill av</string>
-     <string name="playing_failed">"Can't play"</string>
-     <string name="prefDefault_ringtone_repeat">1</string>
-     <string name="prefDefault_vibrateWhen">never</string>
-     <string name="prefDefault_vibrate_false">never</string>
-     <string name="prefDefault_vibrate_true">always</string>
+     <string name="playing_failed">"Kan ikke spille av"</string>
      <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
      <string name="pref_collapse_sp_messages_summary">Kombiner tjenestetilbydermelding i samme innlegg</string>
      <string name="pref_edit_smsc_address">SMS-senter nummer</string>
@@ -360,7 +355,7 @@
      <string name="pref_title_wake_up_screen">Vekk skjerm</string>
      <string name="preferences_title">Innstillinger</string>
      <string name="prepare_send">Klar for å sende...</string>
-     <string name="press_recording">Press &amp; hold the Mic icon to record</string>
+     <string name="press_recording">Trykk &amp; hold Mikrofon-ikonet for å ta opp</string>
      <string name="preview">Se din fil</string>
      <string name="preview_slideshow">Se ditt lysbildeshow</string>
      <string name="priority_high">Høy</string>
@@ -379,12 +374,12 @@
      <string name="received_label">"Mottatt: "</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recipient_label">"Mottaker: "</string>
-     <string name="recording_failed">"Can't record"</string>
+     <string name="recording_failed">"Kan ikke ta opp"</string>
      <string name="refill_now">Fyll på nå</string>
      <string name="refresh">Oppdater</string>
      <string name="refresh_failed">Feil ved oppdatering</string>
      <string name="refreshing">Oppdaterer...</string>
-     <string name="release_cancel">Release to cancel</string>
+     <string name="release_cancel">Slipp for å avbryte</string>
      <string name="remove">Slett</string>
      <string name="remove_music">Slett musikk</string>
      <string name="remove_picture">Slett bilde</string>
@@ -395,7 +390,7 @@
      <string name="replace_image">Erstatt bilde</string>
      <string name="resent_message">Send igjen</string>
      <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
-     <string name="resource_price_free">Free</string>
+     <string name="resource_price_free">Gratis</string>
      <string name="restore_all_button_msg">Gjenopprett alle meldinger fra dette nummeret</string>
      <string name="restore_blocked_message">Gjenopprett blokkert melding</string>
      <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
@@ -408,8 +403,8 @@
      <string name="saved_label">"Lagret: "</string>
      <string name="saved_ringtone">Ringetone lagret</string>
      <string name="saved_ringtone_fail">Lagring av ringetone mislyktes</string>
-     <string name="saved_to_sim">Lagret tilSIM!</string>
-     <string name="sdcard_has_not_enough_space">Not enough space on SD card</string>
+     <string name="saved_to_sim">Lagret til SIM!</string>
+     <string name="sdcard_has_not_enough_space">Ikke nok plass på SD-kortet</string>
      <string name="search">meldinger</string>
      <string name="search_empty">Ingen treff</string>
      <string name="search_hint">Søk i meldinger</string>
@@ -464,8 +459,8 @@
      <string name="sms_full_title">SMS-minnet fullt!</string>
      <string name="sms_rejected_body">Inngående melding avvist av ukjent grunn.</string>
      <string name="sms_rejected_title">SMS avvist</string>
-     <string name="snippet_audio">[audio]</string>
-     <string name="snippet_picture">[picture]</string>
+     <string name="snippet_audio">[lyd]</string>
+     <string name="snippet_picture">[bilde]</string>
      <string name="sp_category_all">Alle tjenestemeldinger</string>
      <string name="sp_category_bank">Varselmeldinger fra bank</string>
      <string name="sp_category_title_prefix">%s</string>
@@ -537,7 +532,7 @@
      <string name="view_hms_details">Detaljer</string>
      <string name="view_message_details">Vis detaljer</string>
      <string name="wap_push_title">"[WAP Push] "</string>
-     <string name="warning_show">Send in %ds</string>
+     <string name="warning_show">Send om %ds</string>
      <string name="xiaomi_service_number">Servicenummer</string>
      <string name="yes">OK</string>
 </resources>

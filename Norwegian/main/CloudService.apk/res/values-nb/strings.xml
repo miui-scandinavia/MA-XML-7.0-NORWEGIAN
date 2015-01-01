@@ -55,12 +55,10 @@
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
-     <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til "</string>
+     <string name="find_device_dspt_provision">"Finn enhet, plasser, lås, eller tilbakestill din enhet på "</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-     <string name="find_device_dspt_provision_3">" for å finne, låse, eller tilbakestille den.
-
-Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
+     <string name="find_device_dspt_provision_3">" . Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
      <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>
@@ -177,8 +175,8 @@ brukt %s | gjenværende %s"</string>
      <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
 
 Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
-     <string name="mx_dspt_provision_privacy">"This service may require your phone number. Your carrier may charge for an SMS message used to activate this service.
-This feature encrypts and uploads your device's ID to Mi's servers."</string>
+     <string name="mx_dspt_provision_privacy">"Denne tjenesten kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
+Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
@@ -210,14 +208,12 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
-     <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
-     <string name="sync_dspt_entrance_provision_2">Learn more</string>
-     <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, appdata og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
+     <string name="sync_dspt_entrance_provision">Synkroniserer dine bilder, kontakter, og meldinger eller finm din enhet.</string>
+     <string name="sync_dspt_entrance_provision_2">Lær mer</string>
+     <string name="sync_dspt_provision">"Synkroniserer dine bilder, kontakter, notater, og mer på tvers av alle dine Mi-enheter eller få tilgang til dem på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-     <string name="sync_dspt_provision3">".
-
-Du kan skru funksjonen av og på når som helst i Innstillinger.
+     <string name="sync_dspt_provision3">". Du kan skru funksjonen av og på når som helst i Innstillinger.
 "</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
@@ -226,7 +222,7 @@ Du kan skru funksjonen av og på når som helst i Innstillinger.
      <string name="sync_item_sms_title">Synk meldinger</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
-     <string name="sync_resend_sms_dspt_provision">. If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service.</string>
+     <string name="sync_resend_sms_dspt_provision">. Hvis du bytter SIM-kort, kan operatøren din belaste deg for SMS-meldingen brukt for å aktivere denne tjenestne på nytt.</string>
      <string name="sync_setting">Bruk av mobildata</string>
      <string name="sync_standard">SMS og anropshistorikk</string>
      <string name="sync_sub_1_intl_sms">En internasjonal og innenlands SMS vil bli sendt for å binde SIM-kortet med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
@@ -248,10 +244,11 @@ Du kan skru funksjonen av og på når som helst i Innstillinger.
      <string name="upgrade_space_successful_total">%sGB tilgjengelig</string>
      <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Brukerbetingelser</string>
-     <string name="user_agreement_p6">"Bruken av denne funksjonen er underlagt "</string>
+     <string name="user_agreement_p6">"
+ Bruken av denne funksjonen er underlagt "</string>
      <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>
      <string name="user_agreement_p8">.</string>
-     <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
+     <string name="user_agreement_title">"Mi Cloud sine vilkår for bruk"</string>
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
      <string name="view_storage_title">Lagringsplass</string>

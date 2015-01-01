@@ -167,8 +167,7 @@
      <string name="status_bar_recent_guide_bottom">Trekk ned for å låse</string>
      <string name="status_bar_recent_guide_top">Trekk opp for å lukke</string>
      <string name="status_bar_recent_inspect_item_title">Programinfo</string>
-     <string name="status_bar_recent_memory_info1">"%s "</string>
-     <string name="status_bar_recent_memory_info2">" %s available"</string>
+     <string name="status_bar_recent_memory_info1">1$sB av %2$sB tilgjengelig</string>
      <string name="status_bar_recording_back">Trykk for å gå tilbake til Lydopptaker</string>
      <string name="status_bar_recording_pause">"Opptaker pauset"</string>
      <string name="status_bar_settings_airplane">Flymodus</string>
