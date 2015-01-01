@@ -23,15 +23,14 @@
      <string name="input_pin_code">Skriv PIN</string>
      <string name="input_puk_code">Skriv PUK</string>
      <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
-     <string name="keyguard_torch_cover_text">For å holde lykten på, trykk på På-knappen</string>
-     <string name="lock_screen_date">E dd/MM</string>
+     <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
      <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>
      <string name="lockscreen_access_pattern_start">Mønster startet</string>
      <string name="lockscreen_charging_msg">Lader</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har prøvd å låse opp enheten din uriktig %d ganger. Etter %d flere mislykkede forsøk, vil enheten din bli tilbakestilt til fabrikkinnstillinger og alle brukerdata vil bli slettet.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved å logge inn.
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved hjelp av din Mi-konto.
 
  Prøv igjen om %d sekunder."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Du har uriktig prøvd å låse opp enheten din %d ganger. Denne enheten vil nå bli tilbakestilt til fabrikkinnstillinger.</string>
@@ -39,7 +38,7 @@
      <string name="lockscreen_glogin_invalid_input">Ugyldig brukernavn eller passord.</string>
      <string name="lockscreen_glogin_password_hint">Passord</string>
      <string name="lockscreen_glogin_submit_button">Logg inn</string>
-     <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til i.mi.com.</string>
+     <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til www.mi.com/micloud</string>
      <string name="missed_call_text">%d tapte anrop</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Låst opp med Bluetooth-enhet</string>
      <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
@@ -49,8 +48,8 @@
      <string name="unlock_sim_string">Lås opp sim</string>
      <string name="unlock_string">Lås opp</string>
      <string name="unlocking_sim_card">Låser opp SIM-kort</string>
-     <string name="unlockscreen_low_battery">Koble til lader.</string>
-     <string name="unlockscreen_recharge_completed">Lading fullført</string>
+     <string name="unlockscreen_low_battery">Koble til lader nå.</string>
+     <string name="unlockscreen_recharge_completed">Batteri ladet</string>
      <string name="unlockscreen_recharging_message">Lader %d%%</string>
      <string name="wrong_password">Ukorrekt passord</string>
 </resources>

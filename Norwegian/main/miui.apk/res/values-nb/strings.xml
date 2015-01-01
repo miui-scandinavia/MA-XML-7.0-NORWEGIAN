@@ -415,7 +415,7 @@
      <string name="label">MIUI SDK</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverk. For å vise denne informasjonen nå, gå til %s."</string>
      <string name="loading">Loading…</string>
-     <string name="mibi_license">Mi Credit brukerbetingelser</string>
+     <string name="mibi_license">Mi Credit tjenestevilkår</string>
      <string name="midnight">AM</string>
      <string name="monday">Mandag</string>
      <string name="monday_short">Man</string>
@@ -466,8 +466,8 @@
      <string name="note">Notat</string>
      <string name="organization">Organisasjon</string>
      <string name="perm_payment_dspt">Tillat app å betale gjennom Mi-betalingstjeneste</string>
-     <string name="perm_payment_lab">Mi-betalingstjeneste</string>
-     <string name="permdesc_sendSmsNoConfirmation">Appen kan sende SMS-meldinger uten å spørre deg først. Dette kan forårsake uventede kostnader fra din operatør.</string>
+     <string name="perm_payment_lab">Mi-betaling</string>
+     <string name="permdesc_sendSmsNoConfirmation">Appen kan sende SMS-meldinger uten å spørre deg om tillatelse. Dette kan forårsake uventede kostnader fra operatøren din.</string>
      <string name="permlab_sendSmsNoConfirmation">Tillatt SMS-meldinger i bakgrunnen</string>
      <string name="phone">Telefon</string>
      <string name="pm">PM</string>
@@ -573,7 +573,7 @@
      <string name="tuesday">Tirsdag</string>
      <string name="tuesday_short">Tue</string>
      <string name="tuesday_shortest">T</string>
-     <string name="user_agreement">Brukervilkår</string>
+     <string name="user_agreement">Tjenestevilkår</string>
      <string name="user_manual">Brukerguide</string>
      <string name="website">Nettsted</string>
      <string name="wednesday">Onsdag</string>

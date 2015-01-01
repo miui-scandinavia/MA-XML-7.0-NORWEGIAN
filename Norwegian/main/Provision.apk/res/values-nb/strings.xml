@@ -2,8 +2,6 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="agree">Samtykk</string>
-     <string name="congratulation_label">Nyt din Mi-enhet!</string>
-     <string name="congratulation_next">OK</string>
      <string name="disagree">Avbryt</string>
      <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
@@ -26,13 +24,13 @@
      <string name="other_settings_user_experience">Brukertilbakemelding</string>
      <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende anonyme bruksdata (%s)</string>
      <string name="other_settings_user_experience_summary1">Vis erklæring om personvern</string>
-     <string name="page_layout_label">Adjust text size and layout for your Home screen, notification shade, dial pad, and more.</string>
-     <string name="page_layout_title">System layout</string>
+     <string name="page_layout_label">Juster tekststørrelsen og layouten til din hjemskjerm, varselskygge, talltastaturet og mer.</string>
+     <string name="page_layout_title">Systemlayout</string>
      <string name="pref_title_data_slot">Foretrukket SIM-kort for data</string>
      <string name="pref_title_voice_slot">Foretrukket SIM-kort for tale</string>
      <string name="privacy_policy">Erklæring om personvern</string>
      <string name="provision_finish">OK</string>
-     <string name="provision_finish_restart">Restart</string>
+     <string name="provision_finish_restart">Start på nytt</string>
      <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
      <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
      <string name="setting_locale">Setter plassering…</string>
@@ -51,7 +49,7 @@
      samler, hvordan vi bruker den og hvilke valg du har.
 
      Du må godkjenne våre tjenestevilkår og erklæringen om personvern før du kan bruke MIUI."</string>
-     <string name="title_congratulation">"You're ready to rock!"</string>
+     <string name="title_congratulation">"Du er klar til å rocke!"</string>
      <string name="user_agreement">Vilkår for bruk</string>
      <string name="welcome">Velkomen til</string>
 </resources>

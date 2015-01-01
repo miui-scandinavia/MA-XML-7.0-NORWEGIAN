@@ -2,14 +2,14 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="add_account_desc">Notater kan synkroniseres til din Xiaomi-konto. Log inn og synk nå?</string>
-     <string name="alarm_bar_title">Reminder</string>
+     <string name="alarm_bar_title">Påminnelse</string>
      <string name="alert_action_edit_anyway">Fortsett endring</string>
      <string name="alert_edit_action_delete">Fjern</string>
      <string name="alert_edit_action_update">Rediger</string>
-     <string name="alert_message_delete_folders">Bekreft sletting av de valgte %1$s mappene?</string>
-     <string name="alert_message_delete_folders_notes">Bekreft sletting av de valgte %1$s mapper og %2$s notater?</string>
+     <string name="alert_message_delete_folders">Slett %1$s?</string>
+     <string name="alert_message_delete_folders_notes">Slett %1$sog %2$s?</string>
      <string name="alert_message_delete_note">Er du sikker på du vil slette dette notatet?</string>
-     <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s notater?</string>
+     <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s?</string>
      <string name="alert_message_edit_anyway">Dette notatet har innhold som ikke er støttet, endring av notatet kan føre til datatap.</string>
      <string name="alert_title_edit_anyway">Bekreft endring av notatet, dette kan føre til datatap, er du sikker?</string>
      <string name="app_name">Notater</string>
@@ -31,12 +31,8 @@
      <string name="error_unsupport_content">Dette notatet har innehold som ikke støttes, klikk for å oppgradere system</string>
      <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
      <string name="folder_exist">En mappe med det samme navnet eksisterer allerede</string>
-     <string name="format_move_notes_out_folder">Moved %1$s out</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 1 Original: 2
-	%d: 1 Original: 0 -->
-     <!-- Original string: Moved %1$s to %2$s -->
-     <string name="format_move_notes_to_folder">Har flyttet valgte %1$d notater til mappen %2$s</string>
+     <string name="format_move_notes_out_folder">Flyttet %1$s ut</string>
+     <string name="format_move_notes_to_folder">Flyttet %1$s til %2$s</string>
      <string name="hint_foler_name">Skriv inn navn</string>
      <string name="info_note_enter_desktop">Notat lagt til skrivebord</string>
      <string name="login_sync">Logg inn &amp; synk</string>
@@ -63,8 +59,8 @@
      <string name="notelist_menu_new">Tilføy notat</string>
      <string name="notelist_string_info">...</string>
      <string name="notify_alarm_title">Alarm-påminnelse</string>
-     <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
-     <string name="permlab_accessNote">Access notes</string>
+     <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til personlig informasjon.</string>
+     <string name="permlab_accessNote">Få tilgang til notater</string>
      <string name="pref_desc_alarm_when_silent">Alarmer vil høres i stille modus</string>
      <string name="pref_title_alarm_when_silent">Alarm i stillemodus</string>
      <string name="pref_title_common">Vanlige innstillinger</string>

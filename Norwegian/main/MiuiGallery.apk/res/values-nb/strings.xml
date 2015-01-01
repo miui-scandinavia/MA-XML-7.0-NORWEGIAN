@@ -46,7 +46,7 @@
      <string name="alert">Kunngjøring</string>
      <string name="alert_init_merged_message">"Nå vil bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
-     <string name="alert_message_open_sync">Du bør åpne synk først, er du sikker på at du vil åpne synk umiddelbart?</string>
+     <string name="alert_message_open_sync">Du må skru på synk først.</string>
      <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjule album.</string>
      <string name="alert_secret_album_set_pattern">Set a pattern</string>
      <string name="alert_secret_album_title">Skjulte album</string>
@@ -59,8 +59,8 @@
      <string name="appwidget_title">Bildegalleri</string>
      <string name="auto">Auto</string>
      <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
-     <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
-     <string name="auto_create_recent_album_over_ten_times">Auto-opprett favorittalbum når åpnet mer en ti ganger</string>
+     <string name="auto_create_recent_album_confirm">"Galleri vil tømme favoritt-albumdata. Albumer du har favorittmerket manuelt vil ikke bli påvirket."</string>
+     <string name="auto_create_recent_album_over_ten_times">Et album vil bli markest som favoritt når du åpner den mer en 10 ganger</string>
      <string name="auto_upload_album_comfirm_to_share">Dette er en album som blir lastet opp automatisk. Er du sikker på at du vil dele den?</string>
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Last opp automatisk</string>
@@ -482,7 +482,7 @@
      <string name="cloud_be_shared_guide_title">Dette albumet ble delt av en venn</string>
      <string name="cloud_camera_display_name">Usortert</string>
      <string name="cloud_folder_chooser_move">Delete images from original album</string>
-     <string name="cloud_gallery_recyclebin_full">Papirkurv er fyllt, vennligst tøm den på i.mi.com.</string>
+     <string name="cloud_gallery_recyclebin_full">Papirkurven er full. Tøm den på www.mi.com/micloud.</string>
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
      <string name="cloud_media_set_set">Cloud-album</string>
      <string name="cloud_owner_album_share_guide">"Del
@@ -524,7 +524,7 @@ venner."</string>
      <string name="contact_photo">Kontaktbilde</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
      <string name="context_menu_copy">Kopiér</string>
-     <string name="context_menu_copy_notice">Valg kopiert til utklippstavlen</string>
+     <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
      <string name="contrast">Kontrast</string>
      <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="create_new_cloud_folder">oppret ny Cloud mappe</string>
@@ -663,7 +663,7 @@ venner."</string>
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Importering fullført</string>
      <string name="import_fail">Importering mislykkes</string>
-     <string name="impunity_declaration">Galleri kan koble til nettverk (f.eks. Internett) for å tilby tjenester. Vil du fortsette?</string>
+     <string name="impunity_declaration">"Noen av Galleriet sin funksjoner kerver en internetttilkobling for å fungere normalt"</string>
      <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
      <string name="impunity_declaration_settings">Vis nettverksvarsel</string>
      <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
@@ -719,7 +719,7 @@ venner."</string>
      <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
      <string name="message_no_delete_access_with_count">Kan ikke slette %d fil(er) eller mappe(r). Hver sikker på at de eksisterer og at du har tilgang til dem.</string>
      <string name="messagelist_sender_self">Meg</string>
-     <string name="miliao">MiTalk</string>
+     <string name="miliao">Mi Talk</string>
      <string name="miliao_folder_display_name">MiTalk</string>
      <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>
      <string name="miliao_saved">MiChat</string>
@@ -730,7 +730,7 @@ venner."</string>
      <string name="miui_capture_screen_folder_display_name">Skjermbilder</string>
      <string name="miui_wallpaper">Bakgrunnsbilde</string>
      <string name="modified_time">Tid endret</string>
-     <string name="moman">MomanCamera</string>
+     <string name="moman">Moman Kamera</string>
      <string name="moman_camera_drawing">Moman-kamerategning</string>
      <string name="moman_camera_icon">Moman-kamerasmileys</string>
      <string name="moman_camera_picture">Moman-kamerabilder</string>
@@ -743,7 +743,7 @@ venner."</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
-     <string name="new_device_tips">"Tyrkk for å vise enhet"</string>
+     <string name="new_device_tips">"Trykk for å vise enhet"</string>
      <string name="no">Nei</string>
      <string name="no_albums_alert">Ingen album tilgjengelige.</string>
      <string name="no_connectivity">"Noen plasseringer kunne ikke identifiseres på grunn av nettverksproblemer."</string>
@@ -874,7 +874,7 @@ venner."</string>
      <string name="secret_album_display_name">Secret album</string>
      <string name="select_album">Rediger</string>
      <string name="select_all">Velg alle</string>
-     <string name="select_auto_upload_albums">Velg album å laste opp til skyen</string>
+     <string name="select_auto_upload_albums">Velg album å laste opp</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Velg elementer</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
@@ -897,7 +897,7 @@ venner."</string>
      <string name="set_screensaver_path_title">Skjermsparer-lysbildeshow</string>
      <string name="set_wallpaper">Endrer bakgrunn…</string>
      <string name="settings">Innstillinger</string>
-     <string name="settings_i_xiaomi_com">Logg inn på i.mi.com for å håndtere dit Cloud lager</string>
+     <string name="settings_i_xiaomi_com">Se alle din bilder på www.mi.com/micloud</string>
      <string name="shadow">Skygger</string>
      <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share_album">Del album</string>

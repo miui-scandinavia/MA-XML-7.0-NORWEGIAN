@@ -411,7 +411,7 @@ To activate your account, follow the
      <string name="vcode_prompt_long">Skriv inn verifikasjonskoden generert av Mi-sikkerhet</string>
      <string name="verification_failed">Autentifisering feilet</string>
      <string name="verify">Bekreft</string>
-     <string name="wipe_data_dialog_msg">%s elementer vil bli slettet om du fortsetter.</string>
+     <string name="wipe_data_dialog_msg">%s vil bli slettet om du fortsetter.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Noen elementer er ikke synkronisert"</string>
      <string name="wrong_captcha">Koden du skrev er feil</string>

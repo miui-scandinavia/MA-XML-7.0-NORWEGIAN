@@ -1740,7 +1740,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="progress_scanning">Søker</string>
      <string name="provider_label">Push-abonnementer</string>
      <string name="provision_next">Neste</string>
-     <string name="provision_page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
+     <string name="provision_page_layout_confirm_message">Enheten din trenger en omstart for å påføre disse endringene. Dette tar rundt ett minutt.</string>
      <string name="proxy_action_text">Ferdig</string>
      <string name="proxy_clear_text">Tøm</string>
      <string name="proxy_defaultView_text">Gjenopprett standardinnstillinger</string>
@@ -2550,7 +2550,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="volume_alarm_mute">Ignorer alarmer</string>
      <string name="volume_bluetooth_description">Bluetooth</string>
      <string name="volume_category_title">Volum</string>
-     <string name="volume_hifi_description">Hi-Fi settings</string>
+     <string name="volume_hifi_description">Innstillinger for Hi-Fi</string>
      <string name="volume_media_description">Musikk, video, spill og andre medier</string>
      <string name="volume_media_mute">Ignorer musikk og andre media</string>
      <string name="volume_notification_description">Varslinger</string>

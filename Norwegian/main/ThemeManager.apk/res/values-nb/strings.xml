@@ -138,11 +138,11 @@
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">Kode kunne ikke bli validert. Vennligst sjekk koden din og prøv igjen.</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_get_auth_checking">Kontrollerer godkjendelse...</string>
+     <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke kjøre på denne telefonen. Du har nådd de maks. 10 Xiaomi-konto. Venligst prøv en annen konto.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjendelsesgrense nådd!</string>
      <string name="resource_get_auth_missing">Tema ikke hentet fra det offiselle markedet.</string>
-     <string name="resource_get_auth_retrieving">Mottar godkjennelse...</string>
+     <string name="resource_get_auth_retrieving">Henter info…</string>
      <string name="resource_hint">Varsel</string>
      <string name="resource_import_failed">Importering feilet</string>
      <string name="resource_import_successful">Nedlastning velykket.</string>

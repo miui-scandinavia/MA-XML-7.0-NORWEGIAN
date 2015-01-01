@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Navn</item>
+        <item>Kallenavn</item>
+        <item>Telefon</item>
+        <item>Epost</item>
+        <item>Organisasjon</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Fødselsdag</item>
+        <item>Hjemmeside</item>
+        <item>Adresse</item>
+        <item>Notat</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Liten</item>
+        <item>Medium (Standard)</item>
+        <item>Stor</item>
+        <item>Super</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Nå kan du enkelt skrible ned ideer, huskelapper, tanker ved hjelp av
+"</item>
+        <item>"Legg ved bilder eller kontakter
+"</item>
+        <item>"Krysse av oppgaver med fingeren
+"</item>
+        <item>"Og andre flotte funksjoner!
+  - Synk med Mi Cloud
+  - Angi påminnelser
+
+For å lære mer, besøk
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+</resources>

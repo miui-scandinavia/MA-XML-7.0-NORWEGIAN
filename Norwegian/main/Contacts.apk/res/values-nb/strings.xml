@@ -292,7 +292,7 @@
      <string name="device_paired_dialog_title">Henter kontakter…</string>
      <string name="device_pairing_dialog_message">"Parrer…"</string>
      <string name="device_pairing_dialog_title">Parr enheter</string>
-     <string name="device_version_header_bluetooth">Vær sikker på at Bluetooth er aktivert</string>
+     <string name="device_version_header_bluetooth">Vær sikker på at Bluetooth er på</string>
      <string name="device_version_header_no_bluetooth">Importer kontakter fra SIM-kort</string>
      <string name="device_version_title">Velg modell</string>
      <string name="dial">Ring</string>
@@ -688,7 +688,7 @@ for å legge til kontakt til favoritter:
      <string name="pref_summary_import_from_account">Overfør kontakter fra Google og Exchange-kontoer til min Mi-konto</string>
      <string name="pref_title_account_import">Importer fra konto</string>
      <string name="pref_title_import_from_account">Importer fra Mi-konto</string>
-     <string name="preference_auto_ip_summary_disable">Ikke aktivert</string>
+     <string name="preference_auto_ip_summary_disable">Av</string>
      <string name="preference_auto_ip_summary_on">"Leverandørs IP prefiks: %s"</string>
      <string name="preference_auto_ip_title">Automatisk IP</string>
      <string name="preference_contacts">Kontakt</string>
@@ -880,7 +880,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_present">Gave</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Gratis</string>
-     <string name="resource_price_unit">MI Credits</string>
+     <string name="resource_price_unit">Mi Kreditter</string>
      <string name="resource_purchase_getting_order">Henter ordreinfo…</string>
      <string name="resource_purchase_verifying_payment">Verifiser betalingsinfo…</string>
      <string name="resource_purchase_waiting_payment">Venter på betalingsinfo…</string>
@@ -910,8 +910,8 @@ for å legge til kontakt til favoritter:
      <string name="resource_trial_end_title">Prøving utløpt</string>
      <string name="resource_trial_fail_cancel">OK</string>
      <string name="resource_trial_fail_go_settings">Settings</string>
-     <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
-     <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
+     <string name="resource_trial_fail_message">Sørg for at systemklokka er satt til korrekt tid.</string>
+     <string name="resource_trial_fail_title">"Kunne ikke sette opp prøvesesjon"</string>
      <string name="resource_trial_time">（prøvd i %1$d minutter）</string>
      <string name="resource_unable_to_access">""Vi beklager
 innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"</string>
@@ -931,7 +931,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="scan_duplicate_message">Kontakter med nøyaktig de samme dataene: %1$d</string>
      <string name="scan_merge">Søker etter dupliserte kontakter…</string>
      <string name="scan_qrcode_card_hint1">Skann QR-kode</string>
-     <string name="scan_qrcode_card_hint2">Legg til min informasjon i dine kontakter</string>
+     <string name="scan_qrcode_card_hint2">Legg til i kontakter</string>
      <string name="scanning">Skanner etter Enheter…</string>
      <string name="scanning_sdcard_failed_message">Kan ikke bruke SD-kort (årsak: \"%s\")</string>
      <string name="scanning_sdcard_failed_title">"Lagringen kunne ikke bli skannet"</string>
@@ -971,8 +971,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="simContacts_emptyLoading">Lesning fra SIM</string>
      <string name="simContacts_title">SIM-kontakter</string>
      <string name="sim_account_name">SIM</string>
-     <string name="sim_capacity">Vis SIM-kort-kapasitet</string>
-     <string name="sim_capacity_content" formatted="false">Total kapasitet %d, brukt %d</string>
+     <string name="sim_capacity">Vis SIM-kort-plass</string>
+     <string name="sim_capacity_content" formatted="false">%d totalt | %d brukt</string>
      <string name="sim_card_no_free_space_message">SIM Kort fullt, kan ikke importere nye kontakter. Vennligst frigjør nok plass og prøv igjen</string>
      <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg alle</string>
@@ -1125,13 +1125,13 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="yellowpage_navigation_search_city_name_hint">Søk med by</string>
      <string name="yellowpage_navigation_search_offline_hint">Nettverk utilgjengelig</string>
      <string name="yellowpage_navigation_search_result_average_price">Gjennomsnittlig %d RMB</string>
-     <string name="yellowpage_navigation_search_result_network_error">"Kunne ikke koble til nettverk"</string>
+     <string name="yellowpage_navigation_search_result_network_error">"Kan ikke kolble til nettverket"</string>
      <string name="yellowpage_navigation_search_result_no_more">Ingen flere resultater</string>
      <string name="yellowpage_navigation_search_result_service_error">Tjeneste foreløpig utilgjengelig</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Ukjent feil oppstod!</string>
      <string name="yellowpage_navigation_search_select_city">Velg en by</string>
      <string name="yellowpage_navigation_send_to_desktop_downloading">Laster ned…</string>
-     <string name="yellowpage_navigation_send_to_desktop_failed">Feilet, vennligst sjekk dine nettverksinnstillinger.</string>
+     <string name="yellowpage_navigation_send_to_desktop_failed">"Kan ikke koble til nettverket"</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Lagt til på hjemskjermen</string>
      <string name="yellowpage_user_profile">Profil</string>
      <string name="zero_items_selected">Ingen elementer valgt</string>
