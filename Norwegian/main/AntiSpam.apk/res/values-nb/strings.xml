@@ -131,6 +131,7 @@
      <string name="info_unantispam_phone_sms">Tillat anrop og meldinger</string>
      <string name="info_unantispam_sms">Tillat meldinger</string>
      <string name="label_callwait">Varsel om ventende anrop</string>
+     <string name="loding">Loading data</string>
      <string name="log_count">(%d)</string>
      <string name="mark_agent">Salg</string>
      <string name="mark_agent_block">Rapportert som salgsagent</string>
@@ -178,14 +179,17 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="one_address_choose_hint">%s1</string>
      <string name="open_callwait">På</string>
      <string name="read_all_sms">Marker som lest</string>
+     <string name="report">Report</string>
      <string name="report_error">"Kunne ikke rapportere melding"</string>
      <string name="report_error_not_net">"Kan ikke koble til nettverket"</string>
      <string name="report_only">Velg en melding å rapportere</string>
      <string name="report_sms">Rapporter meldinger</string>
      <string name="report_success">Melding rapportert</string>
+     <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+     <string name="report_warning_title">Report SMS</string>
      <string name="sim_not_ready">SIM-kort ikke klart</string>
      <string name="sms_delete_hint">Slett alle blokkerte meldinger fra dette nummeret?</string>
-     <string name="special_number_group">Blokker spesialnumre</string>
+     <string name="special_number_group">Blokker rapporterte numre</string>
      <string name="st_advanced_setting_group">Avanserte innstillinger</string>
      <string name="st_antispam_black_adress_add">Legg til plasseringer</string>
      <string name="st_antispam_bw_adress_add">Legg til plasseringer</string>

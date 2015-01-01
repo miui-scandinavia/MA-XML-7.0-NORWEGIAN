@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="access_denied">Adgang nektet</string>
@@ -177,6 +177,8 @@ brukt %s | gjenværende %s"</string>
      <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
 
 Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
+     <string name="mx_dspt_provision_privacy">"This service may require your phone number. Your carrier may charge for an SMS message used to activate this service.
+This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
@@ -208,6 +210,8 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
+     <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
+     <string name="sync_dspt_entrance_provision_2">Learn more</string>
      <string name="sync_dspt_provision">"Mi Cloud synkroniserer dine bilder, SMSer, notater, appdata og mer på tvers av alle dine Mi-enheter. Du kan også få tilgang til dem fra en hvilken som helst nettleser på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
@@ -215,12 +219,14 @@ Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
 
 Du kan skru funksjonen av og på når som helst i Innstillinger.
 "</string>
+     <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
      <string name="sync_item_calllog_title">Synk anropshistorikk</string>
      <string name="sync_item_sms_summary">Synkroniser tekstmeldinger mellom enheter</string>
      <string name="sync_item_sms_title">Synk meldinger</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
+     <string name="sync_resend_sms_dspt_provision">. If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service.</string>
      <string name="sync_setting">Bruk av mobildata</string>
      <string name="sync_standard">SMS og anropshistorikk</string>
      <string name="sync_sub_1_intl_sms">En internasjonal og innenlands SMS vil bli sendt for å binde SIM-kortet med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>
@@ -245,6 +251,7 @@ Du kan skru funksjonen av og på når som helst i Innstillinger.
      <string name="user_agreement_p6">"Bruken av denne funksjonen er underlagt "</string>
      <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>
      <string name="user_agreement_p8">.</string>
+     <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
      <string name="view_storage_title">Lagringsplass</string>

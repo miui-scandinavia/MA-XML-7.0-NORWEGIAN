@@ -19,6 +19,8 @@
      <string name="chat_number">10 hours</string>
      <string name="chat_uint">" hours"</string>
      <string name="checkout_traffic_saving_history">Vis historikk</string>
+     <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
+     <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
      <string name="daily_pkg_traffic">Sett maksimum databruksgrense</string>
      <string name="data_usage_correction_timeout_body">Trykk for å oppdatere manuellt</string>
      <string name="data_usage_correction_timeout_title">Synking av databruk ble tidsavbrutt</string>
@@ -84,6 +86,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_rule_group_title_mobile">Data</string>
      <string name="firewall_rule_group_title_wifi">WiFi</string>
      <string name="firewall_service_network_blocked">%1$s har blitt begrenset fra å bruke %2$s nettverk</string>
+     <string name="five_percent_total_pkg">%s (5%% of your monthly mobile data)</string>
      <string name="force_stop_dlg_text">"Hvis du begrenser bakgrunnsdata, vil noen apper og tjenester slutte å fungere med mindre du er tilkoblet et WiFi-nettverk."</string>
      <string name="force_stop_dlg_title">Begrens bakgrunnsdata</string>
      <string name="foreground_traffic">Forgrunn %s</string>
@@ -214,6 +217,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_title_declaration">Viktig erklæring</string>
      <string name="pref_title_mobile_traffic">Vis databruk når låst</string>
      <string name="pref_title_network_diagnostics">Nettverksdiagnostikk</string>
+     <string name="pref_title_over_traffic_limit_warning">Turn off data if limit is exceeded</string>
+     <string name="pref_title_traffic_limit_number">Size</string>
      <string name="pref_title_traffic_speed_state">Vis nettverkshastighet</string>
      <string name="pref_title_update_notification">Vis databrukvarsler</string>
      <string name="pref_traffic_saving_issue">FAQ</string>
@@ -234,6 +239,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="privacy_prompt_traffic_adjust_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Xiaomi sine servere for å oppdatere SMS-spørringsmaler og for å sjekke om denne funksjonen er tilgjengelig i ditt område."</string>
      <string name="privacy_prompt_traffic_purchase_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Xiaomi sine servere for å hente mer informasjon om muligheter for kjøp av data."</string>
      <string name="privacy_prompt_upload">Personvernsvarsel</string>
+     <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
+     <string name="reach_daily_limit_value_title">Daily data limit reached</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
      <string name="right_precent">100%</string>
@@ -279,9 +286,12 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="tc_sms_report_title">Rapporter databrukfeil</string>
      <string name="tc_sms_report_upload_success">"Databruk SMS-rapport. Vi jobber med det!"</string>
      <string name="tc_sms_report_upload_when_net">Takk for dine tilbakemeldinger!</string>
+     <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
      <string name="text_day" />
+     <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
      <string name="tips_dialog_title">"Vet du ikke din grense?"</string>
      <string name="tips_message">"Hvis du er usikker på detaljene rundt ditt trådløse abonnement, kan du se dem ved å ringe %2$s (%1$s)."</string>
+     <string name="title_limit_traffic_per_day">Daily data usage limit</string>
      <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser: %s.
 Vil du bruke dette?"</string>
      <string name="traffic_config_alert_body_extra">"

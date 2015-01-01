@@ -675,6 +675,10 @@
      <string name="sub_sync_item_browser_title_novel_summary">Synk romaner i nettleseren</string>
      <string name="sub_sync_item_browser_title_webapp">Synk web app</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Sync web apper lagt til og mine favoritter</string>
+     <string name="suggest_access_appstore">Mi App Store</string>
+     <string name="suggest_access_item_app_size">%.2fMB</string>
+     <string name="suggest_access_item_app_update">Update: %s</string>
+     <string name="suggest_access_music">Mi Music</string>
      <string name="sync_item_browser_summary">Synk data til skyen din, for å gjøre bruk av nettleser på flere enheter enklere</string>
      <string name="sync_item_browser_title">Synk nettleser</string>
      <string name="tab_history">Historikk</string>

@@ -4,6 +4,7 @@
      <string name="action_cancel">Avbryt</string>
      <string name="action_confirm">Velg</string>
      <string name="action_submit">Send</string>
+     <string name="announcement">Attention</string>
      <string name="app_empty">"Du har ikke lastet ned noen apper."</string>
      <string name="app_label">Tilbakemelding</string>
      <string name="app_title">"Feilrapport-senter"</string>
@@ -33,10 +34,12 @@
      <string name="discard_draft_dialog_content">Rapport endret, trykk OK for å slette utkastet.</string>
      <string name="discard_draft_dialog_title">Slett utkast</string>
      <string name="err_type">Tilbakemeldingstype</string>
+     <string name="err_type_app">Apps</string>
      <string name="err_type_bluetooth">Bluetooth</string>
      <string name="err_type_camera">Kamera</string>
      <string name="err_type_hardware">Maskinvare</string>
      <string name="err_type_hardware_summary">Knapper, lading, sensorer osv.</string>
+     <string name="err_type_more">More</string>
      <string name="err_type_mysuggestion">Forslag</string>
      <string name="err_type_mysuggestion_summary">Del ideer og tilbakemeldinger med oss</string>
      <string name="err_type_nonsystemapp">Andre apper</string>
@@ -75,6 +78,7 @@
      <string name="refresh">Last på nytt</string>
      <string name="report_miui">Rapporter til MIUI</string>
      <string name="screen_lock">Skjermlås</string>
+     <string name="screen_orientation_type">1</string>
      <string name="section_description">Beskrivelse</string>
      <string name="section_err_type">Tilbakemeldingstype</string>
      <string name="section_screenshot">Skjermbilde</string>
@@ -92,11 +96,14 @@
      <string name="systemui">Varselsskygge</string>
      <string name="title_common_problem">Vanlige feil</string>
      <string name="title_hot_problem">Seneste feil</string>
+     <string name="title_nonsystem_app">Other apps</string>
+     <string name="title_system_app">MIUI apps</string>
      <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
      <string name="toast_feedback_network_unavailable">"Kan ikke koble til nettverket"</string>
      <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
      <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
      <string name="toast_feedbackservice_in_submit">Sender forrige tilbakemelding…</string>
+     <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
      <string name="toast_pending_log_collection">Samler inn logger, vennligst vent...</string>
      <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
      <string name="toast_report_sent_failed">Kunne ikke sende rapport!</string>

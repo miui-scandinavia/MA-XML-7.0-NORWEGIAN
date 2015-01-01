@@ -31,6 +31,11 @@
      <string name="error_unsupport_content">Dette notatet har innehold som ikke støttes, klikk for å oppgradere system</string>
      <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
      <string name="folder_exist">En mappe med det samme navnet eksisterer allerede</string>
+     <string name="format_move_notes_out_folder">Moved %1$s out</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 1 Original: 2
+	%d: 1 Original: 0 -->
+     <!-- Original string: Moved %1$s to %2$s -->
      <string name="format_move_notes_to_folder">Har flyttet valgte %1$d notater til mappen %2$s</string>
      <string name="hint_foler_name">Skriv inn navn</string>
      <string name="info_note_enter_desktop">Notat lagt til skrivebord</string>

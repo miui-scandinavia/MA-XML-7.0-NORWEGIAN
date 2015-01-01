@@ -1,47 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="confirm_delete_has_cloud_image">
+     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
         <item quantity="one">Slett %s bilde i &amp;lt;b>skyen&amp;lt;/b>?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Slett %s bilder?</item>
-        <item quantity="one">Slett %s bilder?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">>" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" </item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Slett %s videoer?</item>
-        <item quantity="one">Slett %s video?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image">
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image">
         <item quantity="other">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilde både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video">
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
-    <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d valgte</item>
-        <item quantity="zero">%1$d valgte</item>
-        <item quantity="one">%1$d valgt</item>
-    </plurals>
-    <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
-    </plurals>
-    <plurals name="number_of_images">
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">>" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" </item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Slett %s bilder?</item>
+        <item quantity="one">Slett %s bilder?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Slett %s videoer?</item>
+        <item quantity="one">Slett %s video?</item>
+     </plurals>
+     <plurals name="how_many_pics">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+     </plurals>
+     <plurals name="how_many_sub_folders">
+        <item quantity="other">%d folders</item>
+        <item quantity="one">%d folder</item>
+     </plurals>
+     <plurals name="how_many_videos">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+     </plurals>
+     <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"You don't have permission to delete these %d files."</item>
+        <item quantity="one">"You don't have permission to delete these %d file."</item>
+     </plurals>
+     <plurals name="number_of_images">
         <item quantity="other">%1$d bilder</item>
         <item quantity="zero">%1$d bilder</item>
         <item quantity="one">%1$d bilder</item>
-    </plurals>
-    <plurals name="number_of_items">
+     </plurals>
+     <plurals name="number_of_items">
         <item quantity="other">%1$d elementer</item>
         <item quantity="zero">%1$d elementer</item>
         <item quantity="one">%1$d element</item>
-    </plurals>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d valgte</item>
+        <item quantity="zero">%1$d valgte</item>
+        <item quantity="one">%1$d valgt</item>
+     </plurals>
+     <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">You can select %d items</item>
+        <item quantity="one">You can select %d item</item>
+     </plurals>
 </resources>

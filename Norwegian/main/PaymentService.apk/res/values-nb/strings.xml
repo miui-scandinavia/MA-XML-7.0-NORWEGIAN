@@ -121,6 +121,8 @@ Vennligst kontakt Xiaomi kundeservice."</string>
      <string name="giftcard_denom_frozen">MiCredit låst</string>
      <string name="giftcard_empty">Ingen gavekort.</string>
      <string name="giftcard_expire">%1$s gått ut</string>
+     <string name="giftcard_expire_notification_prime_title">Code is about to expire…</string>
+     <string name="giftcard_expire_notification_sub_title">Mi Credit Gift Card expires on %1$s</string>
      <string name="giftcard_hint">Mi-kreditt lagt til med gavekort vil automatisk bli brukt først.</string>
      <string name="giftcard_payment">Gavekort: %1$s Mi-kreditt</string>
      <string name="giftcard_push_notification_prime_title">"Du har mottatt et gavekort"</string>

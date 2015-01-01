@@ -64,7 +64,7 @@
      <string name="cloud_app_remove_prompt">Alle %1$s sine data vil bli slettet.</string>
      <string name="cloud_app_remove_success">Apper slettet</string>
      <string name="cloud_app_restore_action_bar_title">%1$s sikkerhetskopi-info</string>
-     <string name="cloud_app_restore_app_and_data">Gjenopprett apper og brukerdata</string>
+     <string name="cloud_app_restore_app_and_data">Gjenopprett app- og brukerdata</string>
      <string name="cloud_app_restore_cancel">Avbryter…</string>
      <string name="cloud_app_restore_cancel_prompt_message">"Gjenoppretting er ikke ferdig. Stopp uansett?"</string>
      <string name="cloud_app_restore_cancel_prompt_title">Stopp gjenoppretting?</string>
@@ -73,11 +73,11 @@
      <string name="cloud_app_restore_error">"Kunne ikke gjenopprette"</string>
      <string name="cloud_app_restore_pending">Venter…</string>
      <string name="cloud_app_restore_progress">Gjenoppretter…</string>
-     <string name="cloud_app_restore_prompt">Gjenoppretting vil overskrive dine gjeldende brukerdata med dataen som har blitt sikkerhetskopiert tidligere.</string>
+     <string name="cloud_app_restore_prompt">Overskrive din gjeldende app- og brukerdata med dataene som du har sikkerhetskopiert tidligere?</string>
      <string name="cloud_app_restore_query_error_prompt">Kunne ikke hente data fra skyen. Apper og brukerdata vil bli gjenopprettet automatisk når enheten din har mulighet til å nå sikkerhetskopidata.</string>
      <string name="cloud_app_restore_success">Apper gjenopprettet</string>
      <string name="cloud_app_restore_summary">Gjenopprett tidligere installerte apper og brukerdata</string>
-     <string name="cloud_app_restore_wifi_prompt">For å gjenopprette dine brukdata, koble til et Wi-Fi-nettverk</string>
+     <string name="cloud_app_restore_wifi_prompt">For å gjenopprette dine app- og brukerdata, koble til et Wi-Fi-nettverk</string>
      <string name="cloud_app_total_size">Størrelse: %1$s</string>
      <string name="cloud_app_version_size">Versjon %1$s, %2$s</string>
      <string name="cloud_app_wait_wifi">Venter på Wi-Fi-forbindelse</string>
@@ -114,12 +114,13 @@
      <string name="menu_item_sort_size">Størrelse</string>
      <string name="miui_device_name">Android</string>
      <string name="my_phone">Min telefon</string>
+     <string name="name_model">"%1$s's %2$s"</string>
      <string name="network_timeout">Nettverkstidsavbrudd</string>
      <string name="no_app_to_backup">Ingen apper å sikkerhetskopiere</string>
      <string name="no_backup">Ingen sikkerhetskopier</string>
      <string name="open_wifi">Skru på Wi-Fi nå</string>
-     <string name="open_wifi_description">Gjenoppretting av app og data kreves Wi-Fi, vennligst aktiver det først</string>
-     <string name="open_wifi_setting">Aktiver Wi-Fi</string>
+     <string name="open_wifi_description">Koble til et Wi-Fi-nettverk for å gjenopprette appdata</string>
+     <string name="open_wifi_setting">Wi-Fi-innstillinger</string>
      <string name="process_whole_recovery">Gjenoppretter \"%s\"</string>
      <string name="recover_from_micloud">Gjenopprett fra MiCloud</string>
      <string name="recovering">Gjenoppretter %s</string>
@@ -128,7 +129,7 @@
      <string name="retry">Prøv igjen</string>
      <string name="sdcard_no_enough_space">Ikke nok plass</string>
      <string name="sdcard_unmounted">Ingen SD-kort oppdaget</string>
-     <string name="select_backup_data">Velg sikkerhetskopi-data</string>
+     <string name="select_backup_data">Velg sikkerhetskopi</string>
      <string name="self_phone">Denne telefonen</string>
      <string name="skip_recovery">Hopp over</string>
      <string name="start_backup_to_micloud">Sikkerhetskopier apper til Mi Cloud</string>
@@ -136,7 +137,7 @@
      <string name="start_whole_recovery">Gjenoppret fra \"%s\"</string>
      <string name="stop_backup">Stopp</string>
      <string name="v5_data">V5-data</string>
-     <string name="v5_delete">slett V5-data</string>
+     <string name="v5_delete">Slett V5-data</string>
      <string name="v5tov6_complete">Overføring ferdig</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

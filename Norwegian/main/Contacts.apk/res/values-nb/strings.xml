@@ -805,7 +805,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
      <string name="resource_comment_rate">Vurder:</string>
-     <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
+     <string name="resource_comment_rating_star_tips">Trykk stjerner for å stemme:</string>
      <string name="resource_comment_score_count">%1$s brukere</string>
      <string name="resource_comment_sending">Legger til kommentar…</string>
      <string name="resource_comment_title">Kommentarer: %1$s</string>
@@ -855,11 +855,11 @@ for å legge til kontakt til favoritter:
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">"Gavekoden kune ikke bli verifisert. Vær sikker på at du har skrevet den korrekt."</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_get_auth_checking">Kontrollerer godkjennelse...</string>
+     <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke brukes på denne telefonen, da enhetsgrensen på 10 er nådd, vennligst benytt en annen telefon</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>
      <string name="resource_get_auth_missing">Tema ikke hentet fra offisielt marked, kan ikke brukes.</string>
-     <string name="resource_get_auth_retrieving">Mottar godkjennelse...</string>
+     <string name="resource_get_auth_retrieving">Henter info…</string>
      <string name="resource_hint">Varsel</string>
      <string name="resource_import_failed">Importering feilet</string>
      <string name="resource_import_successful">Nedlastning fullført.</string>

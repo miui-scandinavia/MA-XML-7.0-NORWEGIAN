@@ -243,6 +243,7 @@
      <string name="attachment_mgr_name">Vedlegg</string>
      <string name="attachment_not_exists">The attachment is not available!</string>
      <string name="attachment_not_found">"Kunne ikke hente vedlegg."</string>
+     <string name="attachment_stop_all">Stop</string>
      <string name="attachment_text">Tekst</string>
      <string name="attachment_type_blocked">"Du kan dessverre ikke lagre eller åpne denne typen vedlegg."</string>
      <string name="attachment_unknown">%s Fil</string>

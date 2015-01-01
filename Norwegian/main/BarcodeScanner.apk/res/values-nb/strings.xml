@@ -12,6 +12,7 @@
      <string name="birthday">Bursdag:</string>
      <string name="camera_error">"Det er noe feil med kameraet"</string>
      <string name="cancel">Avbryt</string>
+     <string name="choose_picture">Velg QR-kode-bilde</string>
      <string name="close_flash_error">"Kan ikke skru av lykt"</string>
      <string name="cloud_album_details">Albumdetaljer:</string>
      <string name="company">Bedrift:</string>
