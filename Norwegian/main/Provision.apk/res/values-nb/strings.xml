@@ -1,55 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="agree">Samtykk</string>
-     <string name="disagree">Avbryt</string>
-     <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
-     <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
-     <string name="input_method_category">"Velg standard inndatametode du vil bruke når du skriver e-poster, notater, og alt annet. Du kan installere tredjeparts tastaturer senere</string>
-     <string name="input_method_setting">Velg inndatametode</string>
-     <string name="locale_picker_confirm_dialog_desc">"Sett %s som din plassering? "</string>
-     <string name="locale_picker_confirm_dialog_title">Velg din plassering</string>
-     <string name="locale_picker_desc">"Hvis du vil endre plasseringen din senere, må du tilbakestille enheten til sine fabrikkinnstillinger."</string>
-     <string name="locale_picker_title">Velg din plassering</string>
-     <string name="logo_congratulation">"Du er klar!"</string>
-     <string name="miui_privacy_policy_no_network">"Du har ingen nettverksforbindelse. Vis erklæring om personvern hos %s."</string>
-     <string name="miui_terms_no_network">>"Du har ingen nettverksforbindelse. Vis vilkår for bruk hos %s."</string>
-     <string name="multisim_settings_category">Innstillinger for foretrukket SIM-kort</string>
-     <string name="multisim_settings_title">Oppdaget 2 SIM-kort</string>
-     <string name="network_access_warning">Du må koble til internett for å aktivere Mi-tjenester.</string>
-     <string name="next">Neste</string>
-     <string name="other_settings">Ekstra innstillinger</string>
-     <string name="other_settings_location">Tilgang til plassering</string>
-     <string name="other_settings_location_summary">La apper finne din plassering</string>
-     <string name="other_settings_user_experience">Brukertilbakemelding</string>
-     <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende anonyme bruksdata (%s)</string>
-     <string name="other_settings_user_experience_summary1">Vis erklæring om personvern</string>
-     <string name="page_layout_label">Juster tekststørrelsen og layouten til din hjemskjerm, varselskygge, talltastaturet og mer.</string>
-     <string name="page_layout_title">Systemlayout</string>
-     <string name="pref_title_data_slot">Foretrukket SIM-kort for data</string>
-     <string name="pref_title_voice_slot">Foretrukket SIM-kort for tale</string>
-     <string name="privacy_policy">Erklæring om personvern</string>
-     <string name="provision_finish">OK</string>
-     <string name="provision_finish_restart">Start på nytt</string>
-     <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
-     <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
-     <string name="setting_locale">Setter plassering…</string>
-     <string name="shut_down">Skru av</string>
-     <string name="sim_card_detecting">Ser etter SIM-kort…</string>
-     <string name="sim_card_detection">SIM-kort ikke funnet</string>
-     <string name="sim_card_detection_info">Kunne ikke sette opp Xiaomi-konto uten et SIM-kort. Du må bruke et SIM-kort for å bruke kontosynkronisering, telefonlokalisering og lign."</string>
-     <string name="sim_dectection_next">Fortsett</string>
-     <string name="sim_redetection">Sjekk for SIM-kort igjen</string>
-     <string name="summary_not_set">Ikke satt</string>
-     <string name="summary_sim_card">Kort%1$d%2$s</string>
-     <string name="terms_of_service">Vilkår og betingelser</string>
-     <string name="terms_of_use">Vilkår for bruk</string>
-     <string name="terms_of_use_label">"Ditt personvern er veldig viktig for oss. Vennligst les vilkårene for bruk
+  <string name="agree">Samtykk</string>
+  <string name="disagree">Avbryt</string>
+  <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
+  <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
+  <string name="input_method_category">"Velg standard inndatametode du vil bruke når du skriver e-poster, notater, og alt annet. Du kan installere tredjeparts tastaturer senere</string>
+  <string name="input_method_setting">Velg inndatametode</string>
+  <string name="locale_picker_confirm_dialog_desc">"Sett %s som din plassering? "</string>
+  <string name="locale_picker_confirm_dialog_title">Velg din plassering</string>
+  <string name="locale_picker_desc">"Hvis du vil endre plasseringen din senere, må du tilbakestille enheten til sine fabrikkinnstillinger."</string>
+  <string name="locale_picker_title">Velg din plassering</string>
+  <string name="logo_congratulation">"Du er klar!"</string>
+  <string name="miui_privacy_policy_no_network">"Du har ingen nettverksforbindelse. Vis erklæring om personvern hos %s."</string>
+  <string name="miui_terms_no_network">&gt;"Du har ingen nettverksforbindelse. Vis vilkår for bruk hos %s."</string>
+  <string name="multisim_settings_category">Innstillinger for foretrukket SIM-kort</string>
+  <string name="multisim_settings_title">Oppdaget 2 SIM-kort</string>
+  <string name="network_access_warning">Du må koble til internett for å aktivere Mi-tjenester.</string>
+  <string name="next">Neste</string>
+  <string name="other_settings">Ekstra innstillinger</string>
+  <string name="other_settings_location">Tilgang til plassering</string>
+  <string name="other_settings_location_summary">La apper finne din plassering</string>
+  <string name="other_settings_user_experience">Brukertilbakemelding</string>
+  <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende anonyme bruksdata (%s)</string>
+  <string name="other_settings_user_experience_summary1">Vis erklæring om personvern</string>
+  <string name="page_layout_label">Juster tekststørrelsen og layouten til din hjemskjerm, varselskygge, talltastaturet og mer.</string>
+  <string name="page_layout_title">Systemlayout</string>
+  <string name="pref_title_data_slot">Foretrukket SIM-kort for data</string>
+  <string name="pref_title_voice_slot">Foretrukket SIM-kort for tale</string>
+  <string name="privacy_policy">Erklæring om personvern</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Start på nytt</string>
+  <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt "</string>
+  <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
+  <string name="setting_locale">Setter plassering…</string>
+  <string name="shut_down">Skru av</string>
+  <string name="sim_card_detecting">Ser etter SIM-kort…</string>
+  <string name="sim_card_detection">SIM-kort ikke funnet</string>
+  <string name="sim_card_detection_info">Kunne ikke sette opp Xiaomi-konto uten et SIM-kort. Du må bruke et SIM-kort for å bruke kontosynkronisering, telefonlokalisering og lign."</string>
+  <string name="sim_dectection_next">Fortsett</string>
+  <string name="sim_redetection">Sjekk for SIM-kort igjen</string>
+  <string name="summary_not_set">Ikke satt</string>
+  <string name="summary_sim_card">Kort%1$d%2$s</string>
+  <string name="terms_of_service">Vilkår og betingelser</string>
+  <string name="terms_of_use">Vilkår for bruk</string>
+  <string name="terms_of_use_label">"Ditt personvern er veldig viktig for oss. Vennligst les vilkårene for bruk
      og erklæringen om personvern for å forstå hvilken informasjon vi
      samler, hvordan vi bruker den og hvilke valg du har.
 
      Du må godkjenne våre tjenestevilkår og erklæringen om personvern før du kan bruke MIUI."</string>
-     <string name="title_congratulation">"Du er klar til å rocke!"</string>
-     <string name="user_agreement">Vilkår for bruk</string>
-     <string name="welcome">Velkomen til</string>
+  <string name="title_congratulation">"Du er klar til å rocke!"</string>
+  <string name="user_agreement">Vilkår for bruk</string>
+  <string name="welcome">Velkomen til</string>
 </resources>

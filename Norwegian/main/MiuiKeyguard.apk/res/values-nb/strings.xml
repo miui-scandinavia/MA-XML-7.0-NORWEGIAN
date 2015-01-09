@@ -1,55 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="confirm_pin_msg">Skriv PIN igjen</string>
-     <string name="default_lockscreen_unlock_hint_text">Dra opp for å låse opp</string>
-     <string name="delete">Slett</string>
-     <string name="emergency_call_string">Nødsituasjon</string>
-     <string name="experimental_try_string">Prøv</string>
-     <string name="experimental_validate">Valider</string>
-     <string name="experimental_validate_fail">Innlogging feilet</string>
-     <string name="experimental_validate_password">Passord</string>
-     <string name="experimental_validate_progress">Logger inn…</string>
-     <string name="experimental_validate_thanks">Takk!</string>
-     <string name="experimental_validate_username">Brukernavn</string>
-     <string name="experimental_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
-     <string name="find_device_turn_off_flight_mode">Skru av flymodus</string>
-     <string name="forget_password_string">Glemt passord</string>
-     <string name="incorrect_pincode">Ukorrekt PIN-kode</string>
-     <string name="incorrect_pincode_remaining_attempts">Ukorrekt PIN-kode, %d forsøk igjen</string>
-     <string name="incorrect_pukcode">Ukorrekt PUK-kode</string>
-     <string name="incorrect_pukcode_remaining_attempts">Ukorrekt PUK-kode, %d forsøk igjen</string>
-     <string name="input_password_hint_text">Skriv passord</string>
-     <string name="input_pin_code">Skriv PIN</string>
-     <string name="input_puk_code">Skriv PUK</string>
-     <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
-     <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
-     <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
-     <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
-     <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>
-     <string name="lockscreen_access_pattern_start">Mønster startet</string>
-     <string name="lockscreen_charging_msg">Lader</string>
-     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har prøvd å låse opp enheten din uriktig %d ganger. Etter %d flere mislykkede forsøk, vil enheten din bli tilbakestilt til fabrikkinnstillinger og alle brukerdata vil bli slettet.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved hjelp av din Mi-konto.
+  <string name="confirm_pin_msg">Skriv PIN igjen</string>
+  <string name="default_lockscreen_unlock_hint_text">Dra opp for å låse opp</string>
+  <string name="delete">Slett</string>
+  <string name="emergency_call_string">Nødsituasjon</string>
+  <string name="experimental_try_string">Prøv</string>
+  <string name="experimental_validate">Valider</string>
+  <string name="experimental_validate_fail">Innlogging feilet</string>
+  <string name="experimental_validate_password">Passord</string>
+  <string name="experimental_validate_progress">Logger inn…</string>
+  <string name="experimental_validate_thanks">Takk!</string>
+  <string name="experimental_validate_username">Brukernavn</string>
+  <string name="experimental_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
+  <string name="find_device_turn_off_flight_mode">Skru av flymodus</string>
+  <string name="forget_password_string">Glemt passord</string>
+  <string name="incorrect_pincode">Ukorrekt PIN-kode</string>
+  <string name="incorrect_pincode_remaining_attempts">Ukorrekt PIN-kode, %d forsøk igjen</string>
+  <string name="incorrect_pukcode">Ukorrekt PUK-kode</string>
+  <string name="incorrect_pukcode_remaining_attempts">Ukorrekt PUK-kode, %d forsøk igjen</string>
+  <string name="input_password_hint_text">Skriv passord</string>
+  <string name="input_pin_code">Skriv PIN</string>
+  <string name="input_puk_code">Skriv PUK</string>
+  <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
+  <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
+  <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
+  <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
+  <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>
+  <string name="lockscreen_access_pattern_start">Mønster startet</string>
+  <string name="lockscreen_charging_msg">Lader</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har prøvd å låse opp enheten din uriktig %d ganger. Etter %d flere mislykkede forsøk, vil enheten din bli tilbakestilt til fabrikkinnstillinger og alle brukerdata vil bli slettet.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved hjelp av din Mi-konto.
 
  Prøv igjen om %d sekunder."</string>
-     <string name="lockscreen_failed_attempts_now_wiping">Du har uriktig prøvd å låse opp enheten din %d ganger. Denne enheten vil nå bli tilbakestilt til fabrikkinnstillinger.</string>
-     <string name="lockscreen_glogin_checking_password">Sjekker…</string>
-     <string name="lockscreen_glogin_invalid_input">Ugyldig brukernavn eller passord.</string>
-     <string name="lockscreen_glogin_password_hint">Passord</string>
-     <string name="lockscreen_glogin_submit_button">Logg inn</string>
-     <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til www.mi.com/micloud</string>
-     <string name="missed_call_text">%d tapte anrop</string>
-     <string name="miui_keyguard_ble_unlock_succeed_msg">Låst opp med Bluetooth-enhet</string>
-     <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
-     <string name="phone_locked_string">Enheten er låst</string>
-     <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>
-     <string name="phone_locked_timeout_seconds_string">Vennligst gå tilbake etter %s sekunder</string>
-     <string name="unlock_sim_string">Lås opp sim</string>
-     <string name="unlock_string">Lås opp</string>
-     <string name="unlocking_sim_card">Låser opp SIM-kort</string>
-     <string name="unlockscreen_low_battery">Koble til lader nå.</string>
-     <string name="unlockscreen_recharge_completed">Batteri ladet</string>
-     <string name="unlockscreen_recharging_message">Lader %d%%</string>
-     <string name="wrong_password">Ukorrekt passord</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Du har uriktig prøvd å låse opp enheten din %d ganger. Denne enheten vil nå bli tilbakestilt til fabrikkinnstillinger.</string>
+  <string name="lockscreen_glogin_checking_password">Sjekker…</string>
+  <string name="lockscreen_glogin_invalid_input">Ugyldig brukernavn eller passord.</string>
+  <string name="lockscreen_glogin_password_hint">Passord</string>
+  <string name="lockscreen_glogin_submit_button">Logg inn</string>
+  <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til www.mi.com/micloud</string>
+  <string name="missed_call_text">%d tapte anrop</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Låst opp med Bluetooth-enhet</string>
+  <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
+  <string name="phone_locked_string">Enheten er låst</string>
+  <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>
+  <string name="phone_locked_timeout_seconds_string">Vennligst gå tilbake etter %s sekunder</string>
+  <string name="unlock_sim_string">Lås opp sim</string>
+  <string name="unlock_string">Lås opp</string>
+  <string name="unlocking_sim_card">Låser opp SIM-kort</string>
+  <string name="unlockscreen_low_battery">Koble til lader nå.</string>
+  <string name="unlockscreen_recharge_completed">Batteri ladet</string>
+  <string name="unlockscreen_recharging_message">Lader %d%%</string>
+  <string name="wrong_password">Ukorrekt passord</string>
 </resources>
