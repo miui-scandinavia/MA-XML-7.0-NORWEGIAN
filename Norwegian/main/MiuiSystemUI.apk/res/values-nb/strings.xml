@@ -167,7 +167,12 @@
      <string name="status_bar_recent_guide_bottom">Trekk ned for å låse</string>
      <string name="status_bar_recent_guide_top">Trekk opp for å lukke</string>
      <string name="status_bar_recent_inspect_item_title">Programinfo</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 2
+	%s: 1 Original: 2
+	%d: 0 Original: 0 -->
+     <!-- Original string: %1$sB of %2$sB available -->
      <string name="status_bar_recent_memory_info1">1$sB av %2$sB tilgjengelig</string>
+     <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Trykk for å gå tilbake til Lydopptaker</string>
      <string name="status_bar_recording_pause">"Opptaker pauset"</string>
      <string name="status_bar_settings_airplane">Flymodus</string>

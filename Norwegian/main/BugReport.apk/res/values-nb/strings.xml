@@ -13,6 +13,10 @@
      <string name="bluetooth_problem3">"Kan ikke sende filer"</string>
      <string name="bluetooth_problem4">"Kan ikke motta filter"</string>
      <string name="btn_send">Send</string>
+     <string name="bugreport_dump_complete_notification_summary">Trykk for å vise.</string>
+     <string name="bugreport_dump_complete_notification_title">Opprettet feilrapport</string>
+     <string name="bugreport_dump_start_notification_summary">Tar rundt et minutt.</string>
+     <string name="bugreport_dump_start_notification_title">Oppretter feilrapport</string>
      <string name="bugreport_tool_log_toast">Logg lagret til %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Oppretter feilrapport (tar rundt et minutt)</string>
      <string name="button_feedback">Andre</string>
@@ -78,6 +82,7 @@
      <string name="refresh">Last på nytt</string>
      <string name="report_miui">Rapporter til MIUI</string>
      <string name="screen_lock">Skjermlås</string>
+     <string name="screen_orientation_type">1</string>
      <string name="section_description">Beskrivelse</string>
      <string name="section_err_type">Tilbakemeldingstype</string>
      <string name="section_screenshot">Skjermbilde</string>

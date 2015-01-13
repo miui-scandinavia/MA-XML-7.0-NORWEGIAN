@@ -62,10 +62,11 @@
      <string name="auto_create_recent_album_confirm">"Galleri vil tømme favoritt-albumdata. Albumer du har favorittmerket manuelt vil ikke bli påvirket."</string>
      <string name="auto_create_recent_album_over_ten_times">Et album vil bli markest som favoritt når du åpner den mer en 10 ganger</string>
      <string name="auto_upload_album_comfirm_to_share">Dette albumet blir lastet opp automatisk.</string>
+     <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatisk last opp dine bilder fra andre apper til Mi Cloud. Vis innstillinger i &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Galleri-innstillinger&amp;gt;Synk med Mi Cloud&amp;gt;Last opp automatisk&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+     <string name="auto_upload_guide_title">Last opp automatisk</string>
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Last opp automatisk</string>
      <string name="autofix">Auto-fiks</string>
-     <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baidu_bdmobile_downloads">Baidu-mobil</string>
      <string name="baidu_flyflow_downloads">Baidu-nettleser</string>
@@ -638,6 +639,7 @@ venner."</string>
      <string name="gallery_setting">Galleri-innstillinger</string>
      <string name="get_album_info_in_process">"Ber om felles-albumets info, vennligst vent..."</string>
      <string name="global_setting">Innstillinger</string>
+     <string name="go_setting">Vis innstillinger</string>
      <string name="grain">Film Korn</string>
      <string name="grayscale">S&amp;H</string>
      <string name="group_by">Grupper via</string>
@@ -744,6 +746,7 @@ venner."</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
      <string name="new_device_tips">"Trykk for å vise enhet"</string>
+     <string name="new_feature">Ny funksjon</string>
      <string name="no">Nei</string>
      <string name="no_albums_alert">Ingen album tilgjengelige.</string>
      <string name="no_connectivity">"Noen plasseringer kunne ikke identifiseres på grunn av nettverksproblemer."</string>
@@ -757,6 +760,7 @@ venner."</string>
      <string name="no_thumbnail">Ingen miniatyrer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
+     <string name="not_now">Ikke nå</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>

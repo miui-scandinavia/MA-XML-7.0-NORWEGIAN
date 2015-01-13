@@ -99,11 +99,7 @@
      <string name="call_record_on_summary">Auto-opptak er på</string>
      <string name="call_record_setting">Innstillinger for anropsopptak</string>
      <string name="call_record_whitelist_custom">Egendefinert liste</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Touch to listen. -->
-     <string name="call_recording_notification_message">Trykk for å vise %s.</string>
+     <string name="call_recording_notification_message">Trykk for å høre.</string>
      <string name="call_recording_notification_message_low_storage">SD-kortet er fullt.</string>
      <string name="call_recording_notification_message_sd_unmounted">SD-kortet har blitt fjernet.</string>
      <string name="call_recording_notification_summary">Vis varsler i statuslinjen når samtale har blitt tatt opp</string>
@@ -362,6 +358,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
+     <string name="incall_error_no_active_sim">No sim card is on.</string>
      <string name="incall_error_no_phone_number_supplied">Samtalen ble ikke opprettet, mangler eller ugyldig nummer.</string>
      <string name="incall_error_out_of_service">Mobilnettverket er ikke tilgjengelig.</string>
      <string name="incall_error_power_off">For å ringe, slå av flymodus først.</string>
@@ -369,6 +366,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_status_dialed_mmi">Begynner MMI-sekvens…</string>
      <string name="international_disable">Verdensnyheter er av</string>
      <string name="international_enable">Verdensnyheter er på</string>
+     <string name="international_roaming_setting">Internasjonal roaming</string>
      <string name="internet_phone">Internett-anrop</string>
      <string name="invalid_password">Skriv et passord med minst 4 tall</string>
      <string name="invalid_pin">Skriv en PIN som er minst 4 til 8 numre.</string>

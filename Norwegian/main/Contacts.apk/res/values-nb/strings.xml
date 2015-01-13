@@ -91,7 +91,7 @@
      <string name="calllog_menu_edit_before_call">Rediger, før du ringer</string>
      <string name="calllog_menu_send_sms">Send SMS</string>
      <string name="callrecordview_item_newcontact">Ny kontaktperson</string>
-     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
+     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
      <string name="callrecordview_item_op_time_missed">Ikke tatt</string>
      <string name="callrecordview_item_op_time_only_minutes">%d min</string>
      <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
@@ -297,7 +297,7 @@
      <string name="device_version_title">Velg modell</string>
      <string name="dial">Ring</string>
      <string name="dialerDialpadHintText">Tast for å legg tile anrop</string>
-     <string name="dialerIconLabel">Nylige</string>
+     <string name="dialerIconLabel">Seneste</string>
      <string name="dialerKeyboardHintText">Bruk tastaturet for å taste nummer</string>
      <string name="dialer_addAnotherCall">Legg til anrop</string>
      <string name="dialer_empty_text_loading">Laster ...</string>
@@ -794,7 +794,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_comment_edit_comment_waiting">Sjekker brukerhistorikk…</string>
      <string name="resource_comment_edit_text_default">Legg til en kommentar</string>
      <string name="resource_comment_edit_title">Endre kommentar: %1$s</string>
-     <string name="resource_comment_entry_tips">Vis kommentarer</string>
+     <string name="resource_comment_entry_tips">Kommentarer (%1$s)</string>
      <string name="resource_comment_expand_full_text">Vis all text  ▼</string>
      <string name="resource_comment_footer">Tomme kommentarer vises ikke.</string>
      <string name="resource_comment_good_comments">Positive kommentarer</string>
@@ -831,6 +831,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_detail_recommend_desiner_themes">%1$s temaer</string>
      <string name="resource_detail_recommend_other_themes">Brukere liker også</string>
      <string name="resource_detail_update_log_title">Oppdateringer</string>
+     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
      <string name="resource_download_trial">Gratis prøve</string>
@@ -855,11 +856,15 @@ for å legge til kontakt til favoritter:
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">"Gavekoden kune ikke bli verifisert. Vær sikker på at du har skrevet den korrekt."</string>
      <string name="resource_expand_full_text">Utvid</string>
+     <string name="resource_failed_to_load_list">"Kunne ikke laste liste"</string>
      <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke brukes på denne telefonen, da enhetsgrensen på 10 er nådd, vennligst benytt en annen telefon</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>
+     <string name="resource_get_auth_has_been_undercarriaged">Denne temaet er ikke lenger tilgjengelig.</string>
      <string name="resource_get_auth_missing">Tema ikke hentet fra offisielt marked, kan ikke brukes.</string>
+     <string name="resource_get_auth_not_official">Temaer fra tredjepartskilder er ikke støttet</string>
      <string name="resource_get_auth_retrieving">Henter info…</string>
+     <string name="resource_has_been_downloaded">"Du har allerede lastet ned dette temaet."</string>
      <string name="resource_hint">Varsel</string>
      <string name="resource_import_failed">Importering feilet</string>
      <string name="resource_import_successful">Nedlastning fullført.</string>
@@ -869,6 +874,8 @@ for å legge til kontakt til favoritter:
      <string name="resource_menu_refresh">Oppdater</string>
      <string name="resource_mute">Ingen</string>
      <string name="resource_my">Lokal</string>
+     <string name="resource_no_match_app">Ingen app ble funnet til å utføre denne handlingen.</string>
+     <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="resource_no_result">Ingen resultater</string>
      <string name="resource_notification_default">Notifikasjoner</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
@@ -891,8 +898,10 @@ for å legge til kontakt til favoritter:
      <string name="resource_ringtone_playing_error">spillingsfeil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
+     <string name="resource_search_list_empty">"Fant ingenting"</string>
      <string name="resource_see_more">Se flere</string>
      <string name="resource_select">Velg</string>
+     <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
      <string name="resource_selected">Utvalgte</string>
      <string name="resource_send">Send</string>
      <string name="resource_server_alert_dialog_title">Tjenesten er utilgjengelig for øyeblikket</string>
@@ -901,9 +910,15 @@ for å legge til kontakt til favoritter:
      <string name="resource_share_text">"Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s"</string>
      <string name="resource_share_title">Del</string>
      <string name="resource_system_title">System elementer</string>
+     <string name="resource_tip_select_none">None selected</string>
      <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
      <string name="resource_title">Element detaljer</string>
+     <string name="resource_title_category">Kategorier</string>
+     <string name="resource_title_hot_subject">Populær</string>
+     <string name="resource_title_local">Lokal</string>
+     <string name="resource_title_rank">Topplister</string>
      <string name="resource_title_select_ringtone">Velg ringetone</string>
+     <string name="resource_title_subject">Featured</string>
      <string name="resource_trial_end_message">Prøving av %1$s utløpt. Hvis du liker den, vennligst kjøp det.</string>
      <string name="resource_trial_end_purchase">Kjøp</string>
      <string name="resource_trial_end_restore">Fullfør prøving</string>

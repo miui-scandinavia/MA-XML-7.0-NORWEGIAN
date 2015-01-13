@@ -37,6 +37,7 @@
      <string name="attach_take_photo">Ta bilde</string>
      <string name="attach_video">Videoer</string>
      <string name="audio_download_failed">lydnedlastning feilet</string>
+     <string name="audio_playing_seconds">%d\"</string>
      <string name="back_to_message_list">tilbake til meldingsliste</string>
      <string name="batch_adding_progress_message">Legger til...</string>
      <string name="batch_delete_confirm_dialog_message">Er du sikker på at du vil slette %1$s meldinger?</string>
@@ -212,7 +213,7 @@
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
-     <string name="menu_send_as_common">Sendt som SMS</string>
+     <string name="menu_send_as_common">Send som SMS</string>
      <string name="menu_unlock">Fjern stjerne</string>
      <string name="menu_view_contact">Åpen kontakt</string>
      <string name="menu_yellowpage">Vis %s</string>
@@ -306,6 +307,10 @@
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="play">Spill av</string>
      <string name="playing_failed">"Kan ikke spille av"</string>
+     <string name="prefDefault_ringtone_repeat">1</string>
+     <string name="prefDefault_vibrateWhen">never</string>
+     <string name="prefDefault_vibrate_false">never</string>
+     <string name="prefDefault_vibrate_true">always</string>
      <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
      <string name="pref_collapse_sp_messages_summary">Kombiner tjenestetilbydermelding i samme innlegg</string>
      <string name="pref_edit_smsc_address">SMS-senter nummer</string>

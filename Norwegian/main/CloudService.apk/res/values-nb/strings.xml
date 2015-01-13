@@ -27,7 +27,7 @@
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Kunne ikke hente lagringsinfo"</string>
      <string name="cloud_space_upgrade_title">Mer plass til Mi Cloud</string>
-     <string name="cloud_sync_setting_summary_standard">Bruk din mobildatatilkobling for å synke SMS, kontaktinfo, og anropshistorikker. Hvis du overskrider abonnementet ditt sin mobildatagrense, kan operatøren din belaste deg ytterligere.</string>
+     <string name="cloud_sync_setting_summary_standard">Synk MMS, bilder, og videoer når tilkoblet Wi-Fi.</string>
      <string name="cloud_sync_setting_summary_wlan">Bare synk når tilkoblet Wi-Fi</string>
      <string name="cmcc_micloud_dspt">Bruk Mi Cloud for å synkronisere data, finne din enhet,</string>
      <string name="contact">Kontakter</string>
@@ -66,8 +66,9 @@
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
-Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere tjenesten."</string>
-     <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne tjenesten.</string>
+Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
+     <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen.</string>
+     <string name="find_device_status_ok">Finn enheten din fra hvor som heslt på i.mi.com</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
      <string name="find_device_success_title">Finn enhet</string>
      <string name="finish">OK</string>
@@ -144,6 +145,12 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>
+     <string name="micloud_setting_browser_summary">Bokmerker, historikk og faner</string>
+     <string name="micloud_setting_contact_summary">Kontaktinformasjon og profilbilder/string>
+     <string name="micloud_setting_gallery_summary">Bilder og videoer</string>
+     <string name="micloud_setting_music_summary">Spillelister og favoritter</string>
+     <string name="micloud_setting_sms_summary">SMS- og MMS-meldinger</string>
+     <string name="micloud_setting_wifi_summary">Wi-Fi-innstillinger</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Du må fornye ditt abonnement.</string>
      <string name="micloud_storage_expires_manually_renewal_sum">Du må fornye ditt abonnement.</string>
@@ -175,7 +182,7 @@ brukt %s | gjenværende %s"</string>
      <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
 
 Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
-     <string name="mx_dspt_provision_privacy">"Denne tjenesten kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
+     <string name="mx_dspt_provision_privacy">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
 Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="next">Neste</string>

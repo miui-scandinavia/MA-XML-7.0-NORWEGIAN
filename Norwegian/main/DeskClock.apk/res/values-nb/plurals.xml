@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d minutter</item>
-        <item quantity="one">%1$d minutt</item>
-    </plurals>
-    <plurals name="timer_message_with_seconds">
-        <item quantity="other">%1$d sekunder</item>
-        <item quantity="one">%1$d sekund</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d sekunder</item>
-        <item quantity="one">1 sekund</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
+     <plurals name="snooze_message">
+        <item quantity="other">Snooze i %d min</item>
+        <item quantity="one">Snooze i %d min</item>
+     </plurals>
+     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d minutter</item>
         <item quantity="one">1 minutt</item>
-    </plurals>
+     </plurals>
+     <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">1 sekund</item>
+     </plurals>
+     <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+     </plurals>
+     <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+     </plurals>
 </resources>
