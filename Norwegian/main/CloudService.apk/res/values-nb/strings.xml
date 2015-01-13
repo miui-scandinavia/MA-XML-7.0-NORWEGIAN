@@ -146,7 +146,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>
      <string name="micloud_setting_browser_summary">Bokmerker, historikk og faner</string>
-     <string name="micloud_setting_contact_summary">Kontaktinformasjon og profilbilder/string>
+     <string name="micloud_setting_contact_summary">Kontaktinformasjon og profilbilder</string>
      <string name="micloud_setting_gallery_summary">Bilder og videoer</string>
      <string name="micloud_setting_music_summary">Spillelister og favoritter</string>
      <string name="micloud_setting_sms_summary">SMS- og MMS-meldinger</string>
