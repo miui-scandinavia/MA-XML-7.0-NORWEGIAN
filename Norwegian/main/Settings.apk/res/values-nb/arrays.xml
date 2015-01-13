@@ -180,15 +180,15 @@
         <item>Normal</item>
         <item>Stor</item>
         <item>Veldig stor</item>
-     </string-array>f</item>
-     </integer-array>
+     </string-array>
      <string-array name="captioning_preset_selector_titles">
         <item>Hvitt på svart</item>
         <item>Svart på hvitt</item>
         <item>Gult på svart</item>
         <item>Gult på blått</item>
         <item>Egendefinert</item>
-     </string-array>     <string-array name="captioning_typeface_selector_titles">
+     </string-array>     
+     <string-array name="captioning_typeface_selector_titles">
         <item>Standard</item>
         <item>Sans Serif</item>
         <item>Kondensert sans-serif</item>
@@ -233,7 +233,6 @@
         <item>Svak</item>
         <item>Medium</item>
         <item>Kraftig</item>
-     </string-array>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Bruk aldri HDCP-kontroll</item>
