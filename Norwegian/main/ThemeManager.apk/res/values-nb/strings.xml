@@ -257,7 +257,7 @@
      <string name="resource_unknow_error">Ukjent feil oppsto.</string>
      <string name="resource_update">Oppdater</string>
      <string name="resource_user_know">OK</string>
-     <string name="resource_waiting_download">Venter på nedlastning...</string>f
+     <string name="resource_waiting_download">Venter på nedlastning...</string>
      <string name="sdcard_not_mounted_dialog_message">"SD-kort ikke tilgjengelig, vennligst sett inn ett nå."</string>
      <string name="sdcard_not_mounted_dialog_title">Ingen SD-kort oppdagget</string>
      <string name="selected_resource_file_invalid">Valgte fil er ugyldig.</string>
