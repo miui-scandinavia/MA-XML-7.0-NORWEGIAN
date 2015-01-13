@@ -268,7 +268,7 @@
      <string name="theme_batch_update_dlg_content">Oppdater %1$s og %2$d andre temaer nå?</string>
      <string name="theme_batch_update_dlg_content_single">Oppdater %1$s nå?</string>
      <string name="theme_batch_update_dlg_title">Oppdater</string>
-     <string name="theme_batch_updating_text">%1$d temaer blir oppdatertstring>
+     <string name="theme_batch_updating_text">%1$d temaer blir oppdatert</string>
      <string name="theme_changed_failed_message">Setting mislykkets.</string>
      <string name="theme_changed_message">Tema satt!</string>
      <string name="theme_changing_dialog_title">"Setter "</string>
