@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="click_to_enter_text">Trykk for å låse opp</string>
      <string name="confirm_pin_msg">Skriv PIN igjen</string>
      <string name="default_lockscreen_unlock_hint_text">Dra opp for å låse opp</string>
      <string name="delete">Slett</string>
@@ -42,6 +43,8 @@
      <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til www.mi.com/micloud</string>
      <string name="missed_call_text">%d tapte anrop</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Låst opp med Bluetooth-enhet</string>
+     <string name="open_camera_hint_text">Sveip venstre for å åpne Kamera/string>
+     <string name="open_remote_center_hint_text">Sveip høyre for å åpne Mi-fjernkontroll</string>
      <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
      <string name="phone_locked_string">Enheten er låst</string>
      <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>

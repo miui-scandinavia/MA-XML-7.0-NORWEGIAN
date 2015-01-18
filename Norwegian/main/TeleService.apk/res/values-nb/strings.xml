@@ -358,7 +358,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
-     <string name="incall_error_no_active_sim">No sim card is on.</string>
+     <string name="incall_error_no_active_sim">Ingen SIM-kort er aktivw.</string>
      <string name="incall_error_no_phone_number_supplied">Samtalen ble ikke opprettet, mangler eller ugyldig nummer.</string>
      <string name="incall_error_out_of_service">Mobilnettverket er ikke tilgjengelig.</string>
      <string name="incall_error_power_off">For å ringe, slå av flymodus først.</string>
@@ -620,6 +620,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Foretrekk 3G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Foretrekk 3G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Foretrekk LTE</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Foretrekk 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_auto">Automatisk</string>
      <string name="preferred_network_type_pref_entries_global">Global</string>
      <string name="preferred_network_type_pref_entries_only_2g">Bare 2G (sparer batteri)</string>

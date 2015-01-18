@@ -100,16 +100,16 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="allow_mock_location_summary">Tillat bruk av simulerte GPS-koordinater</string>
      <string name="alpha_build">" | Alfa"</string>
      <string name="always_allow_bind_appwidgets_text">Du har valgt å tillate at denne appen oppretter moduler og leser moduldataene.</string>
-     <string name="android_beam_disabled_summary">Utilgjengelig fordi nærfeltskommunikasjon (NFC) er slått av</string>
+     <string name="android_beam_disabled_summary">NFC-innholdsdeling krever at NFC er på</string>
      <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du overføre appinnhold til en annen enhet som støtter nærfeltskommunikasjon (NFC). Du gjør dette ved å holde enhetene tett sammen. Du kan for eksempel trådløst overføre nettsider, YouTube-videoer, kontakter fra Personer og mye mer.
 
 Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skjermen. Appen avgjør hva som blir overført."</string>
      <string name="android_beam_label">Android Beam</string>
-     <string name="android_beam_off_summary">Av</string>
-     <string name="android_beam_on_summary">Klar til å overføre appinnhold via NFC</string>
+     <string name="android_beam_off_summary">NFC-innholdsdeling er av</string>
+     <string name="android_beam_on_summary">>NFC-innholdsdeling er på</string>
      <string name="android_beam_settings_title">Android Beam</string>
      <string name="android_beam_tips">Vær sikker på at de to enhetene rører hverandre, trykk så på innholdet du vil stråle.</string>
-     <string name="android_beam_witch_label">Aktiver Android Beam</string>
+     <string name="android_beam_witch_label">Android Beam</string>
      <string name="animator_duration_scale_title">Varighetsskala, animatør</string>
      <string name="anti_spam">Blokkeringsliste</string>
      <string name="apn_apn">APN-navn</string>
@@ -482,13 +482,13 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="brightness_auto_adjust_on">Lysstyrken vil variere i relasjon med lyset i dine omgivelser</string>
      <string name="brightness_summary">Juster lysstyrken til skjermen</string>
      <string name="bssid_label">BSSID:</string>
-     <string name="bt_hci_snoop_log">Aktiver Bluetooth HCI snoop-logg</string>
+     <string name="bt_hci_snoop_log">Bluetooth HCI snoop-logg</string>
      <string name="bt_hci_snoop_log_summary">Samle alle Bluetooth HCI-pakker i en fil</string>
-     <string name="bt_trace_log">Aktiver Bluetooth Trace log</string>
-     <string name="bt_trace_log_summary">Aktiver Bluetooth trace log</string>
+     <string name="bt_trace_log">Bluetooth Trace log</string>
+     <string name="bt_trace_log_summary">Bluetooth trace log</string>
      <string name="bugreport_in_power">Feilrapporter i på/av-menyen</string>
      <string name="bugreport_in_power_summary">Inkluder alternativet for å utføre feilrapport i batterimenyen</string>
-     <string name="bugreport_tool_log">Lag feilrapport</string>
+     <string name="bugreport_tool_log">Opprett feilrapport</string>
      <string name="bugreport_tool_log_toast">Logg lagret til %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Lager feilrapport (tar rundt et minutt)</string>
      <string name="build_number">Byggnummer</string>
@@ -770,6 +770,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="device_cpu">CPU</string>
      <string name="device_cpu2_info">Tokjerner</string>
      <string name="device_cpu4_info">Firekjerner</string>
+     <string name="device_cpu4_info">Åttekjerner</string>
      <string name="device_edit_title">Endre enhetsnavn</string>
      <string name="device_info_default">Ukjent</string>
      <string name="device_info_label">Enhetsinformasjon</string>
@@ -920,7 +921,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="enable_terminal_summary">Aktiver terminalappen som gir lokal kommandolistetilgang</string>
      <string name="enable_terminal_title">Lokal terminal</string>
      <string name="enable_text">Aktiver</string>
-     <string name="enable_wifi_display">Aktiver trådløs skjerm</string>
+     <string name="enable_wifi_display">Trådløs skjerm</string>
      <string name="enforce_read_external_confirm_message">"Når USB-lagring er beskyttet, må apper be om tillatelse til å lese data fra ekstern lagring.
 
 Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
@@ -1036,8 +1037,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="global_locale_change_title">Bytt språk</string>
      <string name="google_backup_section_title">Google sikkerhetskopi &amp; gjenopprett</string>
      <string name="gsm_to_wifi_connect_type_title">GSM til WLAN</string>
-     <string name="handy_mode">Hendig modus</string>
-     <string name="handy_mode_enable">Hendig modus</string>
+     <string name="handy_mode">Rask tilgang</string>
+     <string name="handy_mode_enable">Rask tilgang</string>
      <string name="handy_mode_size">Skjermstørrelse</string>
      <string name="handy_mode_tips">Sveip venstre eller høyre fra Hjem-knappen for å dra skjermen nærmere én side.</string>
      <string name="haptic_feedback_enable_title">Vibrer ved berøring</string>
@@ -1045,13 +1046,13 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="hardkeyboard_category">Innstillinger for fysisk tastatur</string>
      <string name="hdcp_checking_dialog_title">Angi HDPC-kontrollatferd</string>
      <string name="hdcp_checking_title">HDCP-kontroll</string>
-     <string name="hdmi_3d_display_enable_summary">Aktiver for å støtte 3D-spill</string>
+     <string name="hdmi_3d_display_enable_summary">Støtt 3D-spill</string>
      <string name="hdmi_3d_display_enable_title">3D-skjerm</string>
      <string name="hdmi_3d_help_title">Om HDMI 3D stereoskopisk støtte</string>
      <string name="hdmi_3d_stereo_separation_label">3D</string>
-     <string name="hdmi_3dplay_control_disable_subtext">3D stereoskopisk utgang til ekstern 3D-visning deaktivert</string>
-     <string name="hdmi_3dplay_control_enable_subtext">3D stereoskopisk utgang til ekstern 3D-visning aktivert</string>
-     <string name="hdmi_3dplay_control_text">Aktiver 3D</string>
+     <string name="hdmi_3dplay_control_disable_subtext">3D stereoskopisk utgang til ekstern 3D-visning er av</string>
+     <string name="hdmi_3dplay_control_enable_subtext">3D stereoskopisk utgang til ekstern 3D-visning er på</string>
+     <string name="hdmi_3dplay_control_text">3D-utgang</string>
      <string name="hdmi_3dplay_settings_title">HDMI</string>
      <string name="hdmi_color_calibration_none">Nativ</string>
      <string name="hdmi_color_calibration_srgb">sRGB</string>
@@ -1127,7 +1128,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="intent_sender_sendbroadcast_text">Send kringkastning</string>
      <string name="intent_sender_startactivity_text">Start aktivitet</string>
      <string name="internal_format">Slett intern lagring</string>
-     <string name="internal_format_summary">Slett alle data på din interne lagring</string>
+     <string name="internal_format_summary">"Slett alle data på enhetens interne lagring<"/string>
      <string name="internal_media_format_button_text">Slett intern lagring</string>
      <string name="internal_media_format_desc">Vil du slette den interne lagring? &lt;b&gt;Alle&lt;/b&gt; dine data vil bli slettet. Enhetne vil restarte når den interne lagringen er slettet.</string>
      <string name="internal_media_format_final_desc">"Slett intern lagring? Du kan ikke reversere denne handling! Enheten vil restarte etter den interne lagringen er slettet."</string>
@@ -1192,7 +1193,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="location_access_title">Bruk av posisjon</string>
      <string name="location_agps_apn_choose_dialog_title">APN-typer</string>
      <string name="location_agps_apn_summary">Velg foretrukket APN-type</string>
-     <string name="location_agps_apn_type">APN-type</string>
+     <string name="location_agps_apn_type">APN-typer</string>
      <string name="location_agps_def_location_mode">MSB</string>
      <string name="location_agps_def_network_mode">HJEM</string>
      <string name="location_agps_def_reset_type">GLOVARM</string>
@@ -1450,11 +1451,11 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="mobile_no_provisioning_url">%1$s har ikke noe kjent nettsted for identitetshåndtering</string>
      <string name="mobile_unknown_sim_operator">Ukjent SIM-operatør</string>
      <string name="model_number">Modellnummer</string>
-     <string name="modem_tool_log">Capture Modem Logs</string>
-     <string name="modem_tool_log_start">Start Capturing</string>
-     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-     <string name="modem_tool_log_stop">Stop Capturing</string>
-     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+     <string name="modem_tool_log">Capture Modem-logger</string>
+     <string name="modem_tool_log_start">Start</string>
+     <string name="modem_tool_log_start_toast">"Start dumping av modemlogger til %s"</string>
+     <string name="modem_tool_log_stop">Stopp</string>
+     <string name="modem_tool_log_stop_toast">"Stopp dumping av modemlogger fra %s"</string>
      <string name="move_app">Flytt</string>
      <string name="move_app_failed_dlg_text">Kan ikke flytte appen. %1$s</string>
      <string name="move_app_failed_dlg_title" />
@@ -1582,9 +1583,9 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="nsd_quick_toggle_summary">Tillat at andre enheter oppdager apper på denne enheten</string>
      <string name="nsd_quick_toggle_title">Oppdaging av nettverkstjenester</string>
      <string name="oem_radio_info_label">Produsentspesfikk informasjon og innstillinger</string>
-     <string name="oldman_mode_confirm_title">Restart for å gå inn i forenklet modus?</string>
+     <string name="oldman_mode_confirm_title">Restart nå?</string>
      <string name="oldman_mode_confirm_will_normal_mode_text">Gå ut av forenkelt modus?</string>
-     <string name="oldman_mode_confirm_will_oldman_mode_text">Telefonen din vil restarte og gå inn i forenklet modus.</string>
+     <string name="oldman_mode_confirm_will_oldman_mode_text">Enheten din vil restarte og gå inn i forenklet modus.</string>
      <string name="oldman_mode_enabled_name">Forenklet modus</string>
      <string name="oldman_mode_entry_name">Forenklet modus</string>
      <string name="oldman_mode_entry_title">Forenklet modus</string>
@@ -1605,14 +1606,10 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="owner_info_settings_title">Eierinformasjon</string>
      <string name="packages_subtitle">Pakker</string>
      <string name="page_layout_1">Lør 28/12</string>
-     <string name="page_layout_10">Nyheter</string>
-     <string name="page_layout_11">Sikkerhet</string>
-     <string name="page_layout_12">Innstillinger</string>
+     <string name="page_layout_10">Innstillinger</string>
+     <string name="page_layout_11">Vær</string>
+     <string name="page_layout_12">Sikkerhet</string>
      <string name="page_layout_13">Verktøy</string>
-     <string name="page_layout_14">Spill</string>
-     <string name="page_layout_15">Apper</string>
-     <string name="page_layout_16">Temaer</string>
-     <string name="page_layout_17">Mi-liv</string>
      <string name="page_layout_18">Seneste</string>
      <string name="page_layout_19">Kontakter</string>
      <string name="page_layout_2">Kamera</string>
@@ -1628,13 +1625,13 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="page_layout_29">Jai Mani</string>
      <string name="page_layout_3">Galleri</string>
      <string name="page_layout_30">Frank Santo</string>
-     <string name="page_layout_31">Alan Turing</string>
+     <string name="page_layout_31">Katie Whitman</string>
      <string name="page_layout_4">Musikk</string>
      <string name="page_layout_5">Video</string>
-     <string name="page_layout_6">Vær</string>
-     <string name="page_layout_7">Notater</string>
-     <string name="page_layout_8">Kalendar</string>
-     <string name="page_layout_9">Mail</string>
+     <string name="page_layout_6">Apper</string>
+     <string name="page_layout_7">Spill</string>
+     <string name="page_layout_8">Mi-liv</string>
+     <string name="page_layout_9">Temaer</string>
      <string name="page_layout_confirm_message">Enheten din trenger en omstart for å påføre disse endringene. Dette tar rundt ett minutt.</string>
      <string name="page_layout_confirm_title">Endre skjerminnstillinger</string>
      <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
@@ -1674,7 +1671,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_idle">Enheten ikke i bruk</string>
      <string name="power_mgr">Ytelse</string>
      <string name="power_mode">Ytelsesinnstillinger</string>
-     <string name="power_mode_balanced_title">Aktivert balansert ytelse</string>
+     <string name="power_mode_balanced_title">Balansert ytelse</string>
      <string name="power_phone">Telefonsamtaler</string>
      <string name="power_screen">Skjerm</string>
      <string name="power_settings_title">Systemytelse</string>
@@ -1948,6 +1945,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
      <string name="screen_optimize">Kontrast</string>
      <string name="screen_paper_mode_apps_title">Bruk lesemodus for disse appene</string>
+     <string name="screen_paper_mode_off_apps_title">"Ikke bruk lesemodus for følgende apper"</string>
      <string name="screen_paper_mode_summary">"Reduser skjermens bakgrunnsgjenskinn"</string>
      <string name="screen_paper_mode_title">Lesemodus</string>
      <string name="screen_paper_mode_turn_off">Av</string>
@@ -2440,7 +2438,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="usage_type_wifi_running">Wi-Fi kjører</string>
      <string name="usb_connection_category">Koble til som</string>
      <string name="usb_host_mode_subtext">For bruk av spillkontrollere og annen tilleggsutstyr på USB-porten, redusere batterilevetid</string>
-     <string name="usb_host_mode_text">Aktiver USB-host modus</string>
+     <string name="usb_host_mode_text">USB-host modus</string>
      <string name="usb_label_installer_cd">Installer filoverføringsverktøy</string>
      <string name="usb_msd_driver_installer_summary">Hent drivere for Windows og OSX</string>
      <string name="usb_msd_driver_installer_title">Driver installasjonsdisk (MSD)</string>
@@ -2650,7 +2648,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wfd_disconnect_diag_title">Koble fra skjerm?</string>
      <string name="wfd_disconnect_multiple_diag_message">Tilkoblingen din til %1$s og %2$s andre enheter vil bli avsluttet.</string>
      <string name="wfd_enable_wifi_diag_title">Skru på Wi-Fi?</string>
-     <string name="wfd_enabler_title">Aktiver trådløs skjerm</string>
+     <string name="wfd_enabler_title">Trådløs skjerm</string>
      <string name="wfd_menu_search">Søk etter enheter</string>
      <string name="wfd_menu_searching">Søker…</string>
      <string name="wfd_menu_teardown">Stopp</string>
@@ -2787,7 +2785,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_priority_changed" formatted="false">Gammel verdi = %s | Ny verdi = %s</string>
      <string name="wifi_priority_label">Prioritet</string>
      <string name="wifi_priority_settings_label">Innstillinger for prioritet</string>
-     <string name="wifi_priority_settings_summary">Trykk for å sette prioriteten til hvert aksesspunkt</string>
+     <string name="wifi_priority_settings_summary">Sett prioriteten til hvert aksesspunkt</string>
      <string name="wifi_priority_settings_title">Innstillinger for AP-prioritet</string>
      <string name="wifi_priority_type_summary">Sett prioritet for hvert aksesspunkt manuelt</string>
      <string name="wifi_priority_type_title">Sett AP-prioritet manuelt</string>
@@ -2927,7 +2925,7 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wifi_tether_configure_subtext">%1$s %2$s flyttbar Wi-Fi-sone</string>
      <string name="wifi_tether_enabled_subtext">Flyttbar trådløs sone %1$s er aktiv</string>
      <string name="wifi_tether_failed_subtext">Feil med flyttbar Wi-Fi-sone</string>
-     <string name="wifi_tether_setting_title">Basic settings</string>
+     <string name="wifi_tether_setting_title">Innstillinger</string>
      <string name="wifi_tether_starting">Slpr på Wi-Fi-sone…</string>
      <string name="wifi_tether_stopping">Slår av trådløs sone…</string>
      <string name="wifi_type_approval" />

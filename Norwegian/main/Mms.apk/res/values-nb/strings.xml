@@ -36,7 +36,7 @@
      <string name="attach_subject">Emne</string>
      <string name="attach_take_photo">Ta bilde</string>
      <string name="attach_video">Videoer</string>
-     <string name="audio_download_failed">lydnedlastning feilet</string>
+     <string name="audio_download_failed">"Kan ikke laste ned lyd"</string>
      <string name="audio_playing_seconds">%d\"</string>
      <string name="back_to_message_list">tilbake til meldingsliste</string>
      <string name="batch_adding_progress_message">Legger til...</string>
@@ -182,7 +182,8 @@
      <string name="hidden_sender_address">Skjult avsender</string>
      <string name="hint_search_sms">%d SMS</string>
      <string name="hms_add_image_progress_message">Behandler…</string>
-     <string name="hms_first_use_tips">For å motta servicemeldinger må du være tilkoblet et WiFi-nettverk</string>
+     <string name="hms_first_use_tips">For å motta servicemeldinger må du være tilkoblet et Wi-Fi-nettverk</string>
+     <string name="hms_uri_param_err">"URLen kan ikke være tom"</string>
      <string name="importing_progress_private_message">Importerer…</string>
      <string name="in_sms">Melding</string>
      <string name="insufficient_drm_rights">Det er registrert utilstrekkelige DRM-rettigheter.</string>
@@ -213,7 +214,7 @@
      <string name="menu_new_manual">Skriv inn nummer manuelt</string>
      <string name="menu_pick_from_contact">Velg fra kontakter</string>
      <string name="menu_preferences">Innstillinger</string>
-     <string name="menu_send_as_common">Send som SMS</string>
+     <string name="menu_send_as_common">Sendt som SMS</string>
      <string name="menu_unlock">Fjern stjerne</string>
      <string name="menu_view_contact">Åpen kontakt</string>
      <string name="menu_yellowpage">Vis %s</string>

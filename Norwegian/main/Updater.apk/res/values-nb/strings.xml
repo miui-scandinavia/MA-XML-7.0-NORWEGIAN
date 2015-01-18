@@ -37,7 +37,7 @@
      <string name="check_update_policy">Oppdateringsinnstillinger</string>
      <string name="check_update_when_wifi_available">Sjekk kun ved bruk av Wi-Fi</string>
      <string name="check_update_when_wifi_available_sum">"Bare se etter oppdateringer når du er tilkoblet Wi-Fi"</string>
-     <string name="clean_up_button">Clean up</string>
+     <string name="clean_up_button">Rydd opp</string>
      <string name="comment_invalid">Ranger denne oppdateringen (trykk på stjernene)</string>
      <string name="comment_publish">Send</string>
      <string name="comment_sending">Sender…</string>
@@ -173,13 +173,13 @@
      <string name="update_comment_title">Kommenter</string>
      <string name="update_downfull_no_info_sum">Vent ett minutt eller to og prøv igjen.</string>
      <string name="update_downfull_no_info_title">"Kan ikke laste ned oppdatering"</string>
-     <string name="update_feedback">Tilbakemelding</string>
+     <string name="update_feedback">Beta tilbakemeldingsprogram</string>
      <string name="update_feedback_end">"Du gikk glipp av denne ukens fire-ruter"</string>
      <string name="update_feedback_end_sum">Du kan delta hver tirsdag.</string>
      <string name="update_feedback_expired">"Du gikk glipp av denne ukens fire-ruters tilbakemeldingsrunde.
 Men du kan ta del neste tirsdag"</string>
-     <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
-     <string name="update_feedback_need_network">Connect to network first</string>
+     <string name="update_feedback_need_account">Du må logge inn på denne Mi-kontoen først</string>
+     <string name="update_feedback_need_network">Koble til nettverket først</string>
      <string name="update_feedback_need_update">Du må oppdatere systemet ditt til nyeste versjon først.</string>
      <string name="update_feel">Hva synes du?</string>
      <string name="update_general">Så som så</string>

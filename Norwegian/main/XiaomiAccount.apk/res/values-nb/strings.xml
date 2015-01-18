@@ -120,7 +120,8 @@
      <string name="login_with_email_or_id">&lt;u&gt;Logg inn med annen konto&lt;/u&gt;</string>
      <string name="logout_failed">"Kan ikke logge ut"</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester fra hvor som helst.</string>
-     <string name="mibi_balance">%s Mi Credits</string>
+     <string name="mi_service">Støtte</string>
+     <string name="mibi_balance">%s Mi Kreditter</string>
      <string name="micloud_account">Mi-konto</string>
      <string name="micloud_account_details">Kontodetaljer</string>
      <string name="micloud_account_label">Konto: %1$s</string>
@@ -229,6 +230,7 @@ To activate your account, follow the
      <string name="passport_error_dup_phone">Dette telefonnummeret er allerede tilknyttet en annen konto</string>
      <string name="passport_error_email">E-post-adressen du skrev er ugyldig</string>
      <string name="passport_error_empty_captcha_code">Skriv inn passport_captcha kode</string>
+     <string name="passport_error_empty_email">Skriv din e-post-adresse</string>
      <string name="passport_error_empty_phone_num">Skriv telefonnummer</string>
      <string name="passport_error_empty_pwd">Skriv passordet ditt</string>
      <string name="passport_error_empty_username">Skriv brukernavnet ditt</string>

@@ -22,7 +22,7 @@
      <string name="copy">Kopier</string>
      <string name="copy_succeed">Kopiert</string>
      <string name="copy_text">Kopier tekst</string>
-     <string name="copy_text_success">Kopiert</string>
+     <string name="copy_text_success">Tekst kopiert</string>
      <string name="download_by_browser">Last ned med nettleser</string>
      <string name="download_qq">Last ned QQ</string>
      <string name="download_wechat">Last ned WeChat</string>
@@ -36,10 +36,10 @@
      <string name="launch_wechat">Åpne WeChat</string>
      <string name="name">Navn:</string>
      <string name="nickname">Kallenavn:</string>
-     <string name="not_insert_contact">"Kunne ikke legge til kontakt"</string>
+     <string name="not_insert_contact">"Kan ikke legge til kontakt"</string>
      <string name="not_recommend_access_web_url">Fortsett til nettsted uansett</string>
      <string name="not_tips">"Husk dette valget"</string>
-     <string name="note">Notat:</string>
+     <string name="note">Notater:</string>
      <string name="open_flash_error">"Kunne ikke skru på lykt"</string>
      <string name="phone">Telefon:</string>
      <string name="picker_lable">Bilde</string>
@@ -62,7 +62,7 @@
      <string name="url_is_safety">Denne nettsiden er trygg.</string>
      <string name="url_is_unknown">"Kan ikke bekrefte om dette nettstedet er trygt."</string>
      <string name="url_is_unsafety">"Denne nettsiden utgjør en risiko for sikkerheten til dine data."</string>
-     <string name="vcard_prompt">"Det er ikke noe navn assosiert med dette kortet."</string>
+     <string name="vcard_prompt">"Ingen navn assosiert med dette kortet."</string>
      <string name="visit_cloud_album">Vis album</string>
      <string name="web">Nettsted:</string>
      <string name="web_url_apk_warning">Denne appen er fra en ukjent kilde og kan være en sikkerhetsrisiko. Denne enheten og dens data er mer utsatt for angrep fra apper fra ukjente kilder.</string>
@@ -72,10 +72,10 @@
      <string name="wifi_connect_current_connetion">Koblet til Wi-Fi</string>
      <string name="wifi_connect_fail">"Kan ikke koble til nettverk"</string>
      <string name="wifi_connect_not_found">Ingen Wi-Fi-nettverk oppdaget</string>
-     <string name="wifi_connect_success">Tilkoblet</string>
+     <string name="wifi_connect_success">Tilkoblet nettverket</string>
      <string name="wifi_connecting">Kobler til…</string>
      <string name="wifi_details">W-Fi detaljer:</string>
-     <string name="wifi_open_fail">"Kunne ikke åpne Wi-Fi"</string>
+     <string name="wifi_open_fail">"Kan ikke åpne Wi-Fi"</string>
      <string name="wifi_pwd">Passord:</string>
      <string name="wifi_security">Sikkerhet:</string>
      <string name="wifi_ssid">SSID:</string>

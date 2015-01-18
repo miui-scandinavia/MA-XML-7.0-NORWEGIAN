@@ -32,7 +32,7 @@
      <string name="cta_dialog_content">Denne appen krever en internettforbindelse for å fungere normalt.</string>
      <string name="cta_dialog_title">Internettforbindelse</string>
      <string name="cta_not_show_again">"Husk valg"</string>
-     <string name="description">Beskrivelse (påkrevd)</string>
+     <string name="description">Beskriv problemet</string>
      <string name="discard_draft_dialog_button_cancel">Annuller</string>
      <string name="discard_draft_dialog_button_discard">OK</string>
      <string name="discard_draft_dialog_content">Rapport endret, trykk OK for å slette utkastet.</string>

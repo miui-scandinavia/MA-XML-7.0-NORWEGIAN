@@ -196,7 +196,7 @@
      <string name="no_network">Det er ingen internettilkobling tilgjengelig</string>
      <string name="no_syncable_calendars">Det er ingen kalendere</string>
      <string name="no_title_label">(Ingen tittel)</string>
-     <string name="not_exist_topic_list">无法获取订阅日历列表</string>
+     <string name="not_exist_topic_list">Kunne ikke hente liste over abonnerte kalendere</string>
      <string name="not_synced">ikke synkronisert</string>
      <string name="online_calendar_activity_label">Abonner på kalender</string>
      <string name="online_reminder_change_text">Endre påminnelse</string>

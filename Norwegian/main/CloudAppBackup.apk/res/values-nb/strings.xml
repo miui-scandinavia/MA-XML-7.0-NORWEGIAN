@@ -22,9 +22,9 @@
      <string name="button_restore">Gjenopprett</string>
      <string name="button_return">Tilbake</string>
      <string name="button_stop">Stopp</string>
-     <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
+     <string name="cancel_recover_settings">&lt;u&gt;Avbryt&lt;/u&gt;</string>
      <string name="check_fail">Sjekk feilet</string>
-     <string name="cloud_app_backup_already">" has been backed up"</string>
+     <string name="cloud_app_backup_already">" har blitt sikkerhetskopiert"</string>
      <string name="cloud_app_backup_cancel">Avbryter…</string>
      <string name="cloud_app_backup_cancel_prompt_message">"Ikke ferdig med sikkerhetskopiering. Stopp uansett?"</string>
      <string name="cloud_app_backup_cancel_prompt_title">Stopp sikkerhetskopiering?</string>
@@ -102,10 +102,10 @@
      <string name="disable_backup">Av</string>
      <string name="display_early_backup">Vis tidligere sikkerhetskopier</string>
      <string name="dont_backup">"Ikke sikkerhetskopier"</string>
-     <string name="download_settings">Download Home screen settings</string>
+     <string name="download_settings">Last ned hjemskjerm-innstillinger</string>
      <string name="enable_backup">På</string>
      <string name="error_unknown">Noe gikk feil</string>
-     <string name="explantion_of_data_size">Saved space using Mi App Market</string>
+     <string name="explantion_of_data_size">Lagret plass ved hjelp av Mi App-marked</string>
      <string name="intro_v5tov6">"MIUI V6 bruker en stilig nye datastruktur for bedre ytelse. Vi trenger et øyeblikk for å overføre dine data fra MIUI sin gamle struktur."</string>
      <string name="just_support_op_with_wifi_connected">Du kan bare bruk denne funksjonen når du har en Wi-Fi-tilkobling</string>
      <string name="latest_backup_time">Siste sikkerhetskopi den %s</string>
@@ -128,8 +128,8 @@
      <string name="open_wifi_setting">Wi-Fi-innstillinger</string>
      <string name="process_whole_recovery">Gjenoppretter \"%s\"</string>
      <string name="recover_from_micloud">Gjenopprett fra MiCloud</string>
-     <string name="recover_settings">Restore Home screen settings</string>
-     <string name="recover_settings_description">Keep your device powered on</string>
+     <string name="recover_settings">Gjenopprett hjemskjerm-innstilinger</string>
+     <string name="recover_settings_description">Hold enheten din skrudd på</string>
      <string name="recovering">Gjenoppretter %s</string>
      <string name="restore_from_cloud">Gjenopprett fra Mi Cloud</string>
      <string name="restoreing_file_tile">Gjenoppretter %d filer</string>

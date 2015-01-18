@@ -23,9 +23,9 @@
      <string name="add_to_cloud_type_not_support_message">"Denne filtypen er ikke støttet".</string>
      <string name="add_to_cloud_unfinished_message_with_count">%1$s elementer er ikke lagt til i skyen</string>
      <string name="add_to_cloud_unknow_reasons">Ukjent feil</string>
-     <string name="add_to_secret_failed_message_with_count">"%2$s elementer kan ikke bli lagt til hemmelig: %1$s."</string>
-     <string name="add_to_secret_successfully_message">Lagt til i hemmelig album</string>
-     <string name="add_to_secret_unfinished_message_with_count">%1$s elementer er ikke lagt til hemmelig</string>
+     <string name="add_to_secret_failed_message_with_count">"%2$s elementer kan ikke bli lagt til skjult album: %1$s."</string>
+     <string name="add_to_secret_successfully_message">Lagt til i skjult album</string>
+     <string name="add_to_secret_unfinished_message_with_count">%1$s elementer ble ikke lagt til skjult album.</string>
      <string name="adding_recipients">Legger til mottakere...</string>
      <string name="album_member">Album-medlem %s</string>
      <string name="album_name">Album-navn</string>
@@ -47,8 +47,8 @@
      <string name="alert_init_merged_message">"Nå vil bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Du må skru på synk først.</string>
-     <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjule album. For å beskytte de, må du velge ett mønster.</string>
-     <string name="alert_secret_album_set_pattern">Sett ett mønster</string>
+     <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjulte album.</string>
+     <string name="alert_secret_album_set_pattern">Sett opplåsningsmønster</string>
      <string name="alert_secret_album_title">Lagt til i skjulte album</string>
      <string name="already_apply_album">Åpne %1$s?</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -770,13 +770,13 @@ venner."</string>
      <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
      <string name="open_sync_title">Synk påkrevd</string>
      <string name="operation_add_picture">Legg til bilder</string>
-     <string name="operation_add_secret">Legg til hemmelighet</string>
+     <string name="operation_add_secret">Legg til i skjult album</string>
      <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slettet på samme tid.
 "</string>
      <string name="operation_failed">Operasjon feilet!</string>
      <string name="operation_in_process">Behandler...</string>
      <string name="operation_refresh">Oppdater</string>
-     <string name="operation_remove_secret">Fjern hemmelighet</string>
+     <string name="operation_remove_secret">Fjern fra skjult album</string>
      <string name="operation_rename">Gi nytt navn</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
      <string name="operation_share">Del</string>
@@ -838,9 +838,9 @@ venner."</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>
      <string name="refocus_data_downloading">Laster ned refocus data…</string>
-     <string name="remove_from_secret_failed_message_with_count">"%2$s elementer kan ikke bli fjernet fra hemmelig: %1$s."</string>
-     <string name="remove_from_secret_successfully_message">Fjernet fra hemmelig album</string>
-     <string name="remove_from_secret_unfinished_message_with_count">%1$s elementer er ikke fjernet fra hemmelig</string>
+     <string name="remove_from_secret_failed_message_with_count">"%2$s elementer kan ikke bli fjernet fra skjult album: %1$s."</string>
+     <string name="remove_from_secret_successfully_message">Fjernet fra skjult album</string>
+     <string name="remove_from_secret_unfinished_message_with_count">%1$s elementer ble ikke fjernet fra skjult album,</string>
      <string name="remove_hidden_album">Opphev skjuling</string>
      <string name="remove_recent_album">Fjern fra favoritt-album</string>
      <string name="rename_failed">Endring av navn mislykkes</string>

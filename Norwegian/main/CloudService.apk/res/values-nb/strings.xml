@@ -100,7 +100,7 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
      <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
-     <string name="micloud_detail_fail">"Kunne ikke synke"</string>
+     <string name="micloud_detail_fail">"Kan ikke synke"</string>
      <string name="micloud_detail_lastest">Synket</string>
      <string name="micloud_detail_pending">Venter</string>
      <string name="micloud_detail_preference_syncing">Synker</string>
@@ -215,7 +215,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
-     <string name="sync_dspt_entrance_provision">Synkroniserer dine bilder, kontakter, og meldinger eller finm din enhet.</string>
+     <string name="sync_dspt_entrance_provision">Synkroniserer dine bilder, kontakter, og meldinger eller finn din enhet.</string>
      <string name="sync_dspt_entrance_provision_2">Lær mer</string>
      <string name="sync_dspt_provision">"Synkroniserer dine bilder, kontakter, notater, og mer på tvers av alle dine Mi-enheter eller få tilgang til dem på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
@@ -229,7 +229,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="sync_item_sms_title">Synk meldinger</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
-     <string name="sync_resend_sms_dspt_provision">. Hvis du bytter SIM-kort, kan operatøren din belaste deg for SMS-meldingen brukt for å aktivere denne tjenestne på nytt.</string>
+     <string name="sync_resend_sms_dspt_provision">" Hvis du bytter SIM-kort, kan operatøren din belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten på nytt."</string>
      <string name="sync_setting">Bruk av mobildata</string>
      <string name="sync_standard">SMS og anropshistorikk</string>
      <string name="sync_sub_1_intl_sms">En internasjonal og innenlands SMS vil bli sendt for å binde SIM-kortet med denne kontoen. Du vil pådra deg de tilhørende kostnadene fra din operatør.</string>

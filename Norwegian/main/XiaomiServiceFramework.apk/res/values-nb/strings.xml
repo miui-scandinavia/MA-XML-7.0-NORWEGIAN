@@ -79,5 +79,7 @@
 Enhet-ID må være en gyldig IMEI eller MAC-addresse. Uten en Enhet-ID vil noen noen konto- og skytjenester være utilgjengelige."</string>
      <string name="error_device_id_title">"Kan ikke hente gyldig Enhet-ID"</string>
      <string name="sim_unactivated_title">SIM-kortet ditt er uaktivert</string>
+     <string name="sync_notification_title_format">Element som synkroniseres nå: %1$s</string>
+     <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmsf_activate_info">XMSF-aktiveringsinfo</string>
 </resources>

@@ -81,6 +81,8 @@
      <string name="call_radio">Ring til radio</string>
      <string name="call_record_setting_miui">Opptaksinnstillinger</string>
      <string name="call_settings">Innstillinger</string>
+     <string name="call_sim1_menu_title">Ring på SIM 1</string>
+     <string name="call_sim2_menu_title">Ring på SIM 2</string>
      <string name="call_telex">Ring til telex</string>
      <string name="call_tty_tdd">Ring TTY/TDD</string>
      <string name="call_type_and_date">%1$s %2$s</string>
@@ -381,7 +383,7 @@
      <string name="fail_reason_too_many_vcard">For mange vCard-filer på SD-kortet</string>
      <string name="fail_reason_unknown">Ukjent feil</string>
      <string name="fail_reason_vcard_parse_error">"Kunne ikke parse vCard av en ukjent årsak</string>
-     <string name="fail_to_add_account">Kunne ikke legge til konto!</string>
+     <string name="fail_to_add_account">"Kan ikke legge til konto"</string>
      <string name="favoritesFrequentCalled">Ofte ringet opp</string>
      <string name="favoritesFrequentContacted">Ofte kontaktede</string>
      <string name="favorites_list_empty">Ingen favoritter</string>
@@ -506,7 +508,7 @@
      <string name="meid">MEID</string>
      <string name="meid_invalid">Invalid MEID</string>
      <string name="menu_accounts">Konto</string>
-     <string name="menu_addStar">Legg til i favoritter</string>
+     <string name="menu_addStar">Merk som favoritt</string>
      <string name="menu_bar_group_add">Legg til</string>
      <string name="menu_bar_group_delete">Slett</string>
      <string name="menu_bar_group_rename">Bytt navn</string>
@@ -538,7 +540,7 @@
      <string name="menu_joinAggregate">Flett</string>
      <string name="menu_newContact">Ny kontakt</string>
      <string name="menu_new_contact_action_bar">Ny</string>
-     <string name="menu_new_favorite_action_bar">Ny</string>
+     <string name="menu_new_favorite_action_bar">Legg til i favoritter</string>
      <string name="menu_new_group_action_bar">Ny</string>
      <string name="menu_not_redirect_calls_to_vm">anrop ikke sendt til voicemail</string>
      <string name="menu_redirect_calls_to_vm">Alle anrop til voicemail</string>
@@ -557,7 +559,7 @@
      <string name="menu_sync_remove">Fjern synk gruppe</string>
      <string name="menu_viewContact">Vis kontakt</string>
      <string name="merge_contact_message">%1$d kontakter med delvis identiske data</string>
-     <string name="messageShortcutActivityTitle">Velg et nummer å sende en beskjed til</string>
+     <string name="messageShortcutActivityTitle">Velg en snarvei</string>
      <string name="missing_name">ukjent</string>
      <string name="move_and_resize">Flytt og skaler</string>
      <string name="multipleContactDeleteConfirmation">sletting av denne kontakten vil slette opplysninger fra flere kontoer.</string>
@@ -627,7 +629,7 @@ for å legge til kontakt til favoritter:
      <string name="notification_action_voicemail_play">Avspill</string>
      <string name="notification_new_voicemail_ticker">Ny voicemail fra %1$s</string>
      <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
-     <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
+     <string name="online_no_network">"Kan ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter online ressurser</string>
      <string name="openDialKeyboard">Telefon</string>
      <string name="open_contact">Vis kontakt</string>
@@ -732,6 +734,9 @@ for å legge til kontakt til favoritter:
      <string name="profile_display_name">Sett opp min profil</string>
      <string name="profile_name">Min profil</string>
      <string name="profile_name_photo">Meg</string>
+     <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
+     <string name="pull_to_refresh_refreshing_label">Laster…</string>
+     <string name="pull_to_refresh_release_label">Slipp for å oppdatere…</string>
      <string name="qr_card_card">Min QR-kode</string>
      <string name="qrcode_card_title">QR-kode</string>
      <string name="quickcontact_missing_app">Ingen program funnet til å håndtere denne handling</string>
@@ -766,8 +771,8 @@ for å legge til kontakt til favoritter:
 
  Trykk på flette-ikonet i bunnen for å starte."</string>
      <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen senere.</string>
-     <string name="resource_account_fail_to_add">Kunne ikke legge til konto!</string>
-     <string name="resource_account_login">Logg in</string>
+     <string name="resource_account_fail_to_add">"Kan ikke legge til konto"</string>
+     <string name="resource_account_login">Logg inn</string>
      <string name="resource_account_login_before_action">Vennligst logg inn på din Xiaomi-konto</string>
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt konto</string>
@@ -791,7 +796,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_comment_current_version">Gjeldende versjon</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
-     <string name="resource_comment_edit_comment_waiting">Sjekker brukerhistorikk…</string>
+     <string name="resource_comment_edit_comment_waiting">Sjekker historikk…</string>
      <string name="resource_comment_edit_text_default">Legg til en kommentar</string>
      <string name="resource_comment_edit_title">Endre kommentar: %1$s</string>
      <string name="resource_comment_entry_tips">Kommentarer (%1$s)</string>
@@ -820,8 +825,8 @@ for å legge til kontakt til favoritter:
      <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Er du sikker på at du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på at du vil slette disse elementer?</string>
-     <string name="resource_delta_update_failed">Oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
-     <string name="resource_delta_update_successful">Oppdatering vellykket.</string>
+     <string name="resource_delta_update_failed">Laster ned tema igjen…<</string>
+     <string name="resource_delta_update_successful">Tema oppdatert</string>
      <string name="resource_delta_update_total">%1$d patchoppdateringer. Totalt %2$s spart</string>
      <string name="resource_detail">Detaljer</string>
      <string name="resource_detail_comment_title">Kommentarer</string>
@@ -838,7 +843,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_downloaded_title">Nedlastede elementer</string>
      <string name="resource_downloading">Laster ned...</string>
      <string name="resource_exchange">Løs inn</string>
-     <string name="resource_exchange_confirm">Bekreft</string>
+     <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Vennligst skriv en gavekode!</string>
      <string name="resource_exchange_has_bought">"Du har allerede kjøpt dette temaet."</string>
      <string name="resource_exchange_has_expired">Gavekoden du skrev har utløpt.</string>
@@ -856,9 +861,9 @@ for å legge til kontakt til favoritter:
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">"Gavekoden kune ikke bli verifisert. Vær sikker på at du har skrevet den korrekt."</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_failed_to_load_list">"Kunne ikke laste liste"</string>
+     <string name="resource_failed_to_load_list">"Kan ikke laste liste"</string>
      <string name="resource_get_auth_checking">Verifiserer…</string>
-     <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke brukes på denne telefonen, da enhetsgrensen på 10 er nådd, vennligst benytt en annen telefon</string>
+     <string name="resource_get_auth_exceed_max_limit_tips">10 enheter har allerede blitt autorisert på denne kontoen</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>
      <string name="resource_get_auth_has_been_undercarriaged">Denne temaet er ikke lenger tilgjengelig.</string>
      <string name="resource_get_auth_missing">Tema ikke hentet fra offisielt marked, kan ikke brukes.</string>
@@ -866,23 +871,24 @@ for å legge til kontakt til favoritter:
      <string name="resource_get_auth_retrieving">Henter info…</string>
      <string name="resource_has_been_downloaded">"Du har allerede lastet ned dette temaet."</string>
      <string name="resource_hint">Varsel</string>
-     <string name="resource_import_failed">Importering feilet</string>
-     <string name="resource_import_successful">Nedlastning fullført.</string>
+     <string name="resource_import_failed">Kan ikke importere</string>
+     <string name="resource_import_successful">Fullført</string>
      <string name="resource_importing">Importerer...</string>
-     <string name="resource_list_title">Seneste</string>
+     <string name="resource_list_title">Seneste valgte</string>
      <string name="resource_local">Lokal %1$s</string>
      <string name="resource_menu_refresh">Oppdater</string>
      <string name="resource_mute">Ingen</string>
      <string name="resource_my">Lokal</string>
      <string name="resource_no_match_app">Ingen app ble funnet til å utføre denne handlingen.</string>
      <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
-     <string name="resource_no_result">Ingen resultater</string>
+     <string name="resource_no_result">Fant ingenting</string>
      <string name="resource_notification_default">Notifikasjoner</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, gjeldende kjøpspris er bedre enn å kjøpe de venstre elementene enkeltvis, ønsker du å fortsette?</string>
-     <string name="resource_pack_discount_info">%1$s lagret!</string>
-     <string name="resource_pack_price_info">%1$s original</string>
+     <string name="resource_pack_discount_info">Spart: %1$s</string>
+     <string name="resource_pack_get_auth_has_been_undercarriaged">Denne ressursen er ikke lenger tilgjengelig.</string>
+     <string name="resource_pack_price_info">Original pris: %1$s</string>
      <string name="resource_pack_warning">Advarsel! du har allerede kjøpt %1$d elementer, gjeldende pris er ikke lenger gyldig for de venstre elementene, vennligst kjøp dem individuelt.</string>
      <string name="resource_present">Gave</string>
      <string name="resource_price_format">(%1$s)</string>
@@ -895,24 +901,24 @@ for å legge til kontakt til favoritter:
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
      <string name="resource_ringtone_default">Ringetoner</string>
-     <string name="resource_ringtone_playing_error">spillingsfeil</string>
-     <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
+     <string name="resource_ringtone_playing_error"Feil</string>
+     <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
      <string name="resource_search_list_empty">"Fant ingenting"</string>
-     <string name="resource_see_more">Se flere</string>
+     <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
      <string name="resource_selected">Utvalgte</string>
      <string name="resource_send">Send</string>
      <string name="resource_server_alert_dialog_title">Tjenesten er utilgjengelig for øyeblikket</string>
-     <string name="resource_server_out_of_service">Server utilgjengelig for øyeblikket, prøv igjen senere.</string>
+     <string name="resource_server_out_of_service">Serveren er utilgjengelig for øyeblikket.</string>
      <string name="resource_share_subject">Del tema: %1$s</string>
      <string name="resource_share_text">"Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s"</string>
      <string name="resource_share_title">Del</string>
      <string name="resource_system_title">System elementer</string>
      <string name="resource_tip_select_none">None selected</string>
      <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
-     <string name="resource_title">Element detaljer</string>
+     <string name="resource_title">Detaljer</string>
      <string name="resource_title_category">Kategorier</string>
      <string name="resource_title_hot_subject">Populær</string>
      <string name="resource_title_local">Lokal</string>
@@ -1148,6 +1154,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="yellowpage_navigation_send_to_desktop_downloading">Laster ned…</string>
      <string name="yellowpage_navigation_send_to_desktop_failed">"Kan ikke koble til nettverket"</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Lagt til på hjemskjermen</string>
+     <string name="yellowpage_search_the_yellowpage">Søk denne katalogen</string>
      <string name="yellowpage_user_profile">Profil</string>
      <string name="zero_items_selected">Ingen elementer valgt</string>
 </resources>
