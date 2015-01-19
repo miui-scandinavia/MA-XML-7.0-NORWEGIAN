@@ -770,7 +770,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="device_cpu">CPU</string>
      <string name="device_cpu2_info">Tokjerner</string>
      <string name="device_cpu4_info">Firekjerner</string>
-     <string name="device_cpu4_info">Åttekjerner</string>
+     <string name="device_cpu8_info">Åttekjerner</string>
      <string name="device_edit_title">Endre enhetsnavn</string>
      <string name="device_info_default">Ukjent</string>
      <string name="device_info_label">Enhetsinformasjon</string>
@@ -1128,7 +1128,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="intent_sender_sendbroadcast_text">Send kringkastning</string>
      <string name="intent_sender_startactivity_text">Start aktivitet</string>
      <string name="internal_format">Slett intern lagring</string>
-     <string name="internal_format_summary">"Slett alle data på enhetens interne lagring<"/string>
+     <string name="internal_format_summary">"Slett alle data på enhetens interne lagring"</string>
      <string name="internal_media_format_button_text">Slett intern lagring</string>
      <string name="internal_media_format_desc">Vil du slette den interne lagring? &lt;b&gt;Alle&lt;/b&gt; dine data vil bli slettet. Enhetne vil restarte når den interne lagringen er slettet.</string>
      <string name="internal_media_format_final_desc">"Slett intern lagring? Du kan ikke reversere denne handling! Enheten vil restarte etter den interne lagringen er slettet."</string>
