@@ -825,7 +825,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Er du sikker på at du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på at du vil slette disse elementer?</string>
-     <string name="resource_delta_update_failed">Laster ned tema igjen…<</string>
+     <string name="resource_delta_update_failed">Laster ned tema igjen…</string>
      <string name="resource_delta_update_successful">Tema oppdatert</string>
      <string name="resource_delta_update_total">%1$d patchoppdateringer. Totalt %2$s spart</string>
      <string name="resource_detail">Detaljer</string>
@@ -901,7 +901,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
      <string name="resource_ringtone_default">Ringetoner</string>
-     <string name="resource_ringtone_playing_error"Feil</string>
+     <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
      <string name="resource_search_list_empty">"Fant ingenting"</string>
