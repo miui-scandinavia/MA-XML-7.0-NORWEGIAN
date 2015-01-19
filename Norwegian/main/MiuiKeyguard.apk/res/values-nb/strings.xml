@@ -48,6 +48,7 @@
      <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
      <string name="phone_locked_string">Enheten er låst</string>
      <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>
+     <string name="phone_locked_timeout_seconds_string">Vennligst gå tilbake etter %s sekunder</string>
      <string name="unlock_sim_string">Lås opp sim</string>
      <string name="unlock_string">Lås opp</string>
      <string name="unlocking_sim_card">Låser opp SIM-kort</string>
