@@ -155,6 +155,7 @@
      <string name="festival">Hilsener</string>
      <string name="festival_continue">OK</string>
      <string name="festival_networking_desc">Denne funksjonen krever tilkobling til internett for å fungere skikkelig.</string>
+     <string name="festival_networking_title">Notis</string>
      <string name="festival_never_remind">"Ikke vis igjen"</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Laster inn...</string>
@@ -354,6 +355,7 @@
      <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
+     <string name="pref_title_ringtone_repeat_summary">Number of notification sounds when SMS message is received while display is off:</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
      <string name="pref_title_system_mms_priority">System Mms app prioritet</string>

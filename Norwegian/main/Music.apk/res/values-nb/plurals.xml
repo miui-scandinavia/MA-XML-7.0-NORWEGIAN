@@ -28,6 +28,10 @@
         <item quantity="other">%d sanger funnet</item>
         <item quantity="one">%d sang funnet</item>
      </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d similar songs</item>
+        <item quantity="one">%d similar song</item>
+     </plurals>
      <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d sanger</item>
         <item quantity="one">1 sang</item>

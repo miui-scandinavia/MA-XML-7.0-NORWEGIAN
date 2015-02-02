@@ -120,7 +120,7 @@
      <string name="pref_summary_no_limit_popup">Nedlastningstørrelse er ubegrenset</string>
      <string name="pref_title_enable_max_bytes_popup">Beskjed om filstørrelse</string>
      <string name="preferences_title">Innstillinger</string>
-    <string name="privacy_tip_cancel">Avbryt</string>
+     <string name="privacy_tip_cancel">Avbryt</string>
      <string name="privacy_tip_content">"Bruk Xunlei-akselerator for å øke nedlastningshastigheten? URLen til nedlastningens vert vil bli lastet opp til Xunlei sine servere. Dine Mi-konto-detaljer vil bli lastet opp for å sjekke om du har noen aktive abonnement til denne tjenesten."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
@@ -132,6 +132,7 @@
      <string name="select_all">Rens valgte</string>
      <string name="select_operation_items">Velg elementer</string>
      <string name="selected_count">Valgte %1$d ut av %2$d</string>
+     <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
      <string name="turn_off_xunlei_title">Skru av Xunlei-nedlastningsmotor</string>
@@ -141,6 +142,9 @@
      <string name="vip_auto_speedup">Xunlei-nedlastningsakeslerator er på</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+     <string name="xunlei_close_tips_button">Turn on</string>
+     <string name="xunlei_close_tips_content">Xunlei download accelerator.</string>
+     <string name="xunlei_close_tips_title">Accelerate your downloads</string>
      <string name="xunlei_gaosu">Xunlei-nedlastningsakselerator</string>
      <string name="xunlei_member_annual_fee">Årlig</string>
      <string name="xunlei_member_one_month">Månedlig</string>

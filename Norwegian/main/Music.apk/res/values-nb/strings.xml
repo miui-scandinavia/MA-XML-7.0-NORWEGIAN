@@ -253,6 +253,7 @@
      <string name="set_lyric_successful">Sangtekst lagret</string>
      <string name="set_ringtones_failed">Kunne ikke sette ringetoner.</string>
      <string name="set_ringtones_successful">%s satt som ringetone</string>
+     <string name="similar_songs">Similar songs</string>
      <string name="sleep_mode">Sovetimer</string>
      <string name="sleep_mode_canceled">Sovemodus skrudd av</string>
      <string name="sleep_mode_summary">Bruk skyveknappen under for å sette en tid</string>

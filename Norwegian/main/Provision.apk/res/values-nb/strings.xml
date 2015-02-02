@@ -8,6 +8,7 @@
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
      <string name="input_method_category">"Velg standard inndatametode du vil bruke når du skriver e-poster, notater, og alt annet. Du kan installere tredjeparts tastaturer senere</string>
      <string name="input_method_setting">Velg inndatametode</string>
+     <string name="install_preinstall_app">Loading apps…</string>
      <string name="locale_picker_confirm_dialog_desc">"Sett %s som din plassering? "</string>
      <string name="locale_picker_confirm_dialog_title">Velg din plassering</string>
      <string name="locale_picker_desc">"Hvis du vil endre plasseringen din senere, må du tilbakestille enheten til sine fabrikkinnstillinger."</string>

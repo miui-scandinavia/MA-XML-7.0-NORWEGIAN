@@ -26,6 +26,7 @@
      <string name="category_music">Musikk</string>
      <string name="category_other">Andre</string>
      <string name="category_picture">Bilder</string>
+     <string name="category_recent">Recent</string>
      <string name="category_theme">Temaer</string>
      <string name="category_type_document">Dokumenter</string>
      <string name="category_type_meida">Media</string>
@@ -138,6 +139,7 @@
      <string name="menu_item_sort_size">Størrelse</string>
      <string name="menu_item_sort_type">Type</string>
      <string name="menu_list_name">Menu</string>
+     <string name="mi_router_label">Mi Router</string>
      <string name="migrate_announcement_msg">Synkroniser din eksisterende KuaiPan-konto med din Mi-konto i KuaiPan-innstillinger.</string>
      <string name="migrate_announcement_title">Sammenslåing fullført</string>
      <string name="mobile_photo">Telefonbilder</string>
@@ -293,6 +295,7 @@
      <string name="upload_failed">Opplasting mislyktes</string>
      <string name="upload_file_toolarge_message">"%1$d filer større enn 300MB kan ikke lastes opp."</string>
      <string name="uploading">Laster opp...</string>
+     <string name="usb_label">USB</string>
      <string name="used">Brukt</string>
      <string name="user_guide">Bruksanvisning</string>
      <string name="user_guide_continue_use">OK</string>

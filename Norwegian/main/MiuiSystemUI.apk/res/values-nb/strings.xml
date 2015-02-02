@@ -158,7 +158,9 @@
      <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow">"I dag: %1$s    Gjenstående: %2$s    Månedelig grense: %3$s"</string>
      <string name="status_bar_network_flow_exceed">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Månedlig grense: %4$s</string>
+     <string name="status_bar_network_flow_exceed_to_purchase">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Purchase &gt;</string>
      <string name="status_bar_network_flow_today">I dag: %1$s</string>
+     <string name="status_bar_network_flow_warning_to_purchase">"Today: %1$s    Remaining: %2$s    Purchase &gt;"</string>
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Ingen nylige programmer</string>
      <string name="status_bar_notification_inspect_item_title">Programinfo</string>

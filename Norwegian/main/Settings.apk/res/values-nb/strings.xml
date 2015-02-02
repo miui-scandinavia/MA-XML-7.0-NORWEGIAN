@@ -1037,8 +1037,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="global_locale_change_title">Bytt språk</string>
      <string name="google_backup_section_title">Google sikkerhetskopi &amp; gjenopprett</string>
      <string name="gsm_to_wifi_connect_type_title">GSM til WLAN</string>
-     <string name="handy_mode">Rask tilgang</string>
-     <string name="handy_mode_enable">Rask tilgang</string>
+     <string name="handy_mode">Enhånds-modus</string>
+     <string name="handy_mode_enable">Enhånds-modus</string>
      <string name="handy_mode_size">Skjermstørrelse</string>
      <string name="handy_mode_tips">Sveip venstre eller høyre fra Hjem-knappen for å dra skjermen nærmere én side.</string>
      <string name="haptic_feedback_enable_title">Vibrer ved berøring</string>
@@ -1197,6 +1197,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="location_agps_def_location_mode">MSB</string>
      <string name="location_agps_def_network_mode">HJEM</string>
      <string name="location_agps_def_reset_type">GLOVARM</string>
+     <string name="location_agps_def_supl_host">221.176.0.55</string>
+     <string name="location_agps_def_supl_port">7275</string>
      <string name="location_agps_params_settings_title">AGPS-innstillinger</string>
      <string name="location_agps_pref_apn_title">Foretrukket APN</string>
      <string name="location_agps_pref_network_title">Foretrekk nettverk</string>
@@ -1668,6 +1670,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_autorun_empty">Tom</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Celle-standby</string>
+     <string name="power_center">Power</string>
      <string name="power_idle">Enheten ikke i bruk</string>
      <string name="power_mgr">Ytelse</string>
      <string name="power_mode">Ytelsesinnstillinger</string>

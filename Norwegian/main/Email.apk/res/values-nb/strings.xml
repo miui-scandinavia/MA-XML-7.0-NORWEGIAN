@@ -874,6 +874,10 @@ CC: %4$s
      <string name="search_results_header">Results</string>
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Searching…</string>
+     <string name="search_tabs_name_all">All</string>
+     <string name="search_tabs_name_recipient">Recipient</string>
+     <string name="search_tabs_name_sender">Sender</string>
+     <string name="search_tabs_name_subject">Subject</string>
      <string name="search_title">Unified Email</string>
      <string name="search_txt_size_limit_prompt">Search terms must be greater than 3 characters</string>
      <string name="search_unsupported">Search is not supported on this account.</string>

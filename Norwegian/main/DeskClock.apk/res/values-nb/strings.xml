@@ -71,6 +71,8 @@
      <string name="menu_edit_systemtime">Systemtid</string>
      <string name="menu_edit_timer_item">Edit timer task</string>
      <string name="menu_item_dock_settings">Dock-innstillinger</string>
+     <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+     <string name="menu_item_sort_by_name">Sort by name</string>
      <string name="minute">1 minutt</string>
      <string name="minutes">%s minutter</string>
      <string name="never">Aldri</string>
@@ -101,10 +103,6 @@
      <string name="timer_item_label_hint">Timer-etikett</string>
      <string name="timer_item_picker_minute">Min</string>
      <string name="timer_item_picker_second">Sek</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 2
-	%s: 0 Original: 0
-	%d: 1 Original: 2 -->
-     <!-- Original string: %1$d minutes and %2$d seconds -->
      <string name="timer_message">%1$d minutter og %2$d sekunder</string>
      <string name="timer_message_00">%1$d minutt og %2$d sekund</string>
      <string name="timer_message_01">%1$d minutt og %2$d sekunder</string>

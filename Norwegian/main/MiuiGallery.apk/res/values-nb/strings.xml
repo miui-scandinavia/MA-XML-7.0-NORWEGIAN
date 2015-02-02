@@ -93,6 +93,7 @@
      <string name="cannot_send_message">"Kan ikke sende melding"</string>
      <string name="cannot_send_message_reason">Meldingen din har ingen gyldige mottakere.</string>
      <string name="cant_delete_cloud_album">Kunne ikke slette %s fordi det er et systemalbum.</string>
+     <string name="choose_cloud_album">Velg album</string>
      <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
      <string name="cityname_10">Anshun</string>
      <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>

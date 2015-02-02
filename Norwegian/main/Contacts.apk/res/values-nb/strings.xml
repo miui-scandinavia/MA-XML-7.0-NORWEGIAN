@@ -839,6 +839,9 @@ for å legge til kontakt til favoritter:
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
+     <string name="resource_download_notification_content">Klikk for å vise</string>
+     <string name="resource_download_notification_title_many">$1$s temaer lastet ned!</string>
+     <string name="resource_download_notification_title_one">Tema nedlastet!</string>
      <string name="resource_download_trial">Gratis prøve</string>
      <string name="resource_downloaded_title">Nedlastede elementer</string>
      <string name="resource_downloading">Laster ned...</string>
@@ -1135,6 +1138,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="wipe_data">Slett kontakter</string>
      <string name="yellowPageNavigationIconLabel">Katalog</string>
      <string name="yellowPageNavigationLabel">Katalog</string>
+     <string name="yellowpage_navigation_clear_search_history">Clear history</string>
      <string name="yellowpage_navigation_more_items">Mer</string>
      <string name="yellowpage_navigation_more_items_title">Flere tjenester</string>
      <string name="yellowpage_navigation_network_location_enable">Tillat</string>

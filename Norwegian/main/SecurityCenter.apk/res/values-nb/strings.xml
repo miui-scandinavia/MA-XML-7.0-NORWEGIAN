@@ -52,6 +52,7 @@
      <string name="apps_sort_type_title">Sorter</string>
      <string name="auto_clean_switch_off">Av</string>
      <string name="auto_clean_switch_on">På</string>
+     <string name="auto_cleaner_open">Skru på</string>
      <string name="auto_handle_title">GENERELL</string>
      <string name="back">Tilbake</string>
      <string name="battery_desc_apps">Batteri brukt av app</string>
@@ -577,6 +578,9 @@
      <string name="pref_title_lock_screen_memory_clean">Rydd på låseskjerm</string>
      <string name="pref_title_manual_check_cleanup_db_update">Sjekk etter oppdateringer</string>
      <string name="pref_title_open_optimizer_cloud_scan">Last opp</string>
+     <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
+     <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
+     <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
      <string name="process_kernel_label">Android</string>
      <string name="process_mediaserver_label">Medieserver</string>
      <string name="protection_category_dangerous_title">Riskoer (%d)</string>

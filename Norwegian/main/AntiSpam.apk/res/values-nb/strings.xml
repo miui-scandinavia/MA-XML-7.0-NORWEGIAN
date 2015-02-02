@@ -63,6 +63,7 @@
      <string name="button_text_delete">Slett</string>
      <string name="button_to_setting">Innstillinger</string>
      <string name="call_delete_hint">Slett alle blokkerte anrop fra dette nummeret?</string>
+     <string name="call_delete_title">Fjern anrop</string>
      <string name="call_transfer_block">Blokker videresendte anrop</string>
      <string name="call_transfer_block_type">Blokker videresendte anrop</string>
      <string name="call_transfer_info">Blokker videresendte anrop fra ukjente numre</string>
@@ -123,6 +124,7 @@
      <string name="fw_blocked_count">"Mottatt: "</string>
      <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Egendefinert modus</string>
+     <string name="info_antispam_close">AntiSpam av</string>
      <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Blokker anrop</string>
      <string name="info_antispam_phone_sms">Blokker anrop og meldinger</string>
@@ -189,6 +191,7 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="report_warning_title">Rapporter SMS</string>
      <string name="sim_not_ready">SIM-kort ikke klart</string>
      <string name="sms_delete_hint">Slett alle blokkerte meldinger fra dette nummeret?</string>
+     <string name="sms_delete_title">Fjern melding</string>
      <string name="sms_smart_engine_update">Automatisk oppdater SMS-filtre</string>
      <string name="special_number_group">Blokker rapporterte numre</string>
      <string name="st_advanced_setting_group">Avanserte innstillinger</string>
@@ -298,6 +301,7 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="st_title_settings_other_group">Ytterlige innstillinger</string>
      <string name="st_title_show_antispamnotification">Blokkeringsliste-varsler</string>
      <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+     <string name="st_title_sim_unknown">Ukjent</string>
      <string name="st_title_whitelist_numbers">Unntak</string>
      <string name="sure">OK</string>
      <string name="tab_blacklist">Blokkeringsliste</string>

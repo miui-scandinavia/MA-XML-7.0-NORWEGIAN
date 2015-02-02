@@ -159,6 +159,9 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
+     <string name="resource_download_notification_content">Trykk for å vise</string>
+  <string name="resource_download_notification_title_many">%1$s temaer lastet ned!</string>
+  <string name="resource_download_notification_title_one">Tema lastet ned!</string>
      <string name="resource_download_trial">Gratis prøve</string>
      <string name="resource_downloaded_title">Nedlastede elementer</string>
      <string name="resource_downloading">Laster ned</string>
@@ -316,11 +319,12 @@
      <string name="theme_purchased_non_local">Online</string>
      <string name="theme_select_others">Utforsk</string>
      <string name="theme_user_agreement_allow">OK</string>
-     <string name="theme_user_agreement_content1">"Ved å bruke denne tjenesten, godkjenner du vilkårene i våre "</string>
+     <string name="theme_user_agreement_content1">"Ved å bruke dette produktet, godkjenner du vilkårene i vår "</string>
      <string name="theme_user_agreement_content2">Brukervilkår</string>
      <string name="theme_user_agreement_content3">" og "</string>
      <string name="theme_user_agreement_content4">Erklæring om personvern</string>
-     <string name="theme_user_agreement_content5">. Aksepterer du disse vilkårene?</string>
+     <string name="theme_user_agreement_content5">". Denne appen trenger å koble til internett for å fungere normalt. "</string>
+     <string name="theme_user_agreement_exit">Lukk</string>
      <string name="theme_user_agreement_remind_again">Vis vilkår for bruk</string>
      <string name="theme_user_agreement_remind_never">"Ikke spørr igjen"</string>
      <string name="theme_user_agreement_remind_summary">Vis Vilkår for Bruk-dialogboksen vær gang du åpner Temaer. Denne innstillingen vil tår i kraft hver gang du starter enheten på nytt.</string>
