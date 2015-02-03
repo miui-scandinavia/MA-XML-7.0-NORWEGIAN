@@ -5,7 +5,7 @@
         <item>Opptatt</item>
         <item>Ledig</item>
         <item>Foreløpig</item>
-     </string-array>>
+     </string-array>
      <string-array name="buttons_list">
         <item>Dag</item>
         <item>Uke</item>
