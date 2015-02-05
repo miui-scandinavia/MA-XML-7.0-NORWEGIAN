@@ -61,7 +61,7 @@
      <string name="hot_problem_empty">Tom</string>
      <string name="loading_apps">Laster liste…</string>
      <string name="loading_hot_problem">Laster…</string>
-     <string name="loading_problem_list">Loading list…</string>
+     <string name="loading_problem_list">Laster liste…</string>
      <string name="menu_attach_screenshot">Legg ved skjermbilde</string>
      <string name="menu_copy">Kopier</string>
      <string name="menu_discard">Slett</string>
@@ -72,7 +72,7 @@
      <string name="non_system_app_select">Nedlastede apper</string>
      <string name="nonsystemapp_description">Beskriv feilen</string>
      <string name="packaging_dialog_content">Rapport genereres, vennligst vent...</string>
-     <string name="plus_one_submit_dialog_content">"Your selected feedback, along with error logs, will be sent to Mi's servers."</string>
+     <string name="plus_one_submit_dialog_content">"Din valgte tilbakemelding, sammen med feillogger, vil bli sendt til Mi sine servere."</string>
      <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
      <string name="power_consuming_problem1">Økt strømforbruk etter oppdatering</string>
      <string name="power_consuming_problem2">Denne appen bruker mye strøm</string>
@@ -109,7 +109,7 @@
      <string name="toast_feedback_network_unavailable">"Kan ikke koble til nettverket"</string>
      <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
      <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
-     <string name="toast_feedback_submitting">Submitting…</string>
+     <string name="toast_feedback_submitting">Sender…</string>
      <string name="toast_feedbackservice_in_submit">Sender forrige tilbakemelding…</string>
      <string name="toast_network_unavailable">"Kunne ikke sende. Kan ikke koble til nettverket."</string>
      <string name="toast_pending_log_collection">Samler inn logger, vennligst vent...</string>

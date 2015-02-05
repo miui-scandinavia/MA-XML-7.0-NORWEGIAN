@@ -12,8 +12,8 @@
      <string name="address">Addresse</string>
      <string name="afternoon">PM</string>
      <string name="am">AM</string>
-     <string name="app_name_which_call">Application:%s</string>
-     <string name="app_version_which_call">Application version:%s</string>
+     <string name="app_name_which_call">Program: %s</string>
+     <string name="app_version_which_call">Programversjon:%s</string>
      <string name="birthday">Bursdag</string>
      <string name="check_phone_error_title">Synk er av</string>
      <string name="check_phone_io_error">"Kan ikke koble til nettverket"</string>
@@ -473,7 +473,7 @@
      <string name="permlab_sendSmsNoConfirmation">Tillatt SMS-meldinger i bakgrunnen</string>
      <string name="phone">Telefon</string>
      <string name="pm">PM</string>
-     <string name="policy_name">Policy:%s</string>
+     <string name="policy_name">Politikk: %s</string>
      <string name="privacy_policy">Personvern</string>
      <string name="saturday">Lørdag</string>
      <string name="saturday_short">Lør</string>

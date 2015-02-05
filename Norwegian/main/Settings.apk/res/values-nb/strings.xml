@@ -1670,7 +1670,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_autorun_empty">Tom</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Celle-standby</string>
-     <string name="power_center">Power</string>
+     <string name="power_center">Strøm</string>
      <string name="power_idle">Enheten ikke i bruk</string>
      <string name="power_mgr">Ytelse</string>
      <string name="power_mode">Ytelsesinnstillinger</string>

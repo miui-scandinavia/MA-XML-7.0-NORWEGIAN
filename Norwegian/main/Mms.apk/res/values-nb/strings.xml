@@ -355,7 +355,7 @@
      <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
-     <string name="pref_title_ringtone_repeat_summary">Number of notification sounds when SMS message is received while display is off:</string>
+     <string name="pref_title_ringtone_repeat_summary">Antall varslingslyder når SMS-melding blir mottatt når skjerm er av:</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
      <string name="pref_title_system_mms_priority">System Mms app prioritet</string>

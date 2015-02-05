@@ -268,7 +268,7 @@
      <string name="repeat_label_choose_time">Velg påminnelsestid</string>
      <string name="repeat_label_choose_week">Velg uke</string>
      <string name="repeat_label_day">Dag</string>
-     <string name="repeat_label_frequency">Frequency</string>
+     <string name="repeat_label_frequency">Hyppighet</string>
      <string name="repeat_label_interval">Every</string>
      <string name="repeat_label_week">Week</string>
      <string name="repeat_month_day_splitter">" "</string>

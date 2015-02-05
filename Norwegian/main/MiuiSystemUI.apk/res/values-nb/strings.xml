@@ -64,7 +64,7 @@
      <string name="camera_key_action_none_title">Gjør ikke</string>
      <string name="camera_key_action_setting_title">Mi-Knapp</string>
      <string name="camera_key_action_shortcut_call">Ring</string>
-     <string name="camera_key_action_shortcut_home">Tilbagke til skrivebordet</string>
+     <string name="camera_key_action_shortcut_home">Tilbake til skrivebordet</string>
      <string name="camera_key_action_shortcut_screenshot">Ta skjermbilde</string>
      <string name="camera_key_action_shortcut_search">Søk</string>
      <string name="camera_key_action_shortcut_title">Aktiver funksjon</string>
@@ -158,9 +158,9 @@
      <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow">"I dag: %1$s    Gjenstående: %2$s    Månedelig grense: %3$s"</string>
      <string name="status_bar_network_flow_exceed">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Månedlig grense: %4$s</string>
-     <string name="status_bar_network_flow_exceed_to_purchase">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Purchase &gt;</string>
+     <string name="status_bar_network_flow_exceed_to_purchase">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Kjøp &gt;</string>
      <string name="status_bar_network_flow_today">I dag: %1$s</string>
-     <string name="status_bar_network_flow_warning_to_purchase">"Today: %1$s    Remaining: %2$s    Purchase &gt;"</string>
+     <string name="status_bar_network_flow_warning_to_purchase">"I dag: %1$s    Gjenstående: %2$s    Kjøp &gt;"</string>
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Ingen nylige programmer</string>
      <string name="status_bar_notification_inspect_item_title">Programinfo</string>
@@ -169,18 +169,14 @@
      <string name="status_bar_recent_guide_bottom">Trekk ned for å låse</string>
      <string name="status_bar_recent_guide_top">Trekk opp for å lukke</string>
      <string name="status_bar_recent_inspect_item_title">Programinfo</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$sB of %2$sB available -->
-     <string name="status_bar_recent_memory_info1">1$sB av %2$sB tilgjengelig</string>
+     <string name="status_bar_recent_memory_info1">%1$sB av %2$sB tilgjengelig</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Trykk for å gå tilbake til Lydopptaker</string>
      <string name="status_bar_recording_pause">"Opptaker pauset"</string>
      <string name="status_bar_settings_airplane">Flymodus</string>
      <string name="status_bar_settings_battery_meter_format">%d%%</string>
      <string name="status_bar_settings_signal_meter_disconnected">Ingen Internett-forbindelse</string>
-     <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi tilkoblet</string>
+     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi tilkoblet</string>
      <string name="status_bar_style_settings">Statuslinje innnstillinger</string>
      <string name="title_usb_accessory">USB-tilbehør</string>
      <string name="torch_activity_hint">Hold [icon] for å aktivere lykt på låseskjermen</string>

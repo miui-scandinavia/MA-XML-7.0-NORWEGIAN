@@ -71,8 +71,8 @@
      <string name="menu_edit_systemtime">Systemtid</string>
      <string name="menu_edit_timer_item">Edit timer task</string>
      <string name="menu_item_dock_settings">Dock-innstillinger</string>
-     <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
-     <string name="menu_item_sort_by_name">Sort by name</string>
+     <string name="menu_item_sort_by_gmt_offset">Sorter etter tid</string>
+     <string name="menu_item_sort_by_name">Sorter etter navn</string>
      <string name="minute">1 minutt</string>
      <string name="minutes">%s minutter</string>
      <string name="never">Aldri</string>

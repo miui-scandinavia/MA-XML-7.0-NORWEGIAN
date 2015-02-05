@@ -11,7 +11,7 @@
      <string name="action_item_hide">Skjul</string>
      <string name="action_item_remove">Fjern</string>
      <string name="action_item_send">Send</string>
-     <string name="add_music">Add songs</string>
+     <string name="add_music">Legg til sanger</string>
      <string name="album_name">Album</string>
      <string name="album_search_title">Album</string>
      <string name="all_tracks">Alle sanger</string>
@@ -253,7 +253,7 @@
      <string name="set_lyric_successful">Sangtekst lagret</string>
      <string name="set_ringtones_failed">Kunne ikke sette ringetoner.</string>
      <string name="set_ringtones_successful">%s satt som ringetone</string>
-     <string name="similar_songs">Similar songs</string>
+     <string name="similar_songs">Lignende sanger</string>
      <string name="sleep_mode">Sovetimer</string>
      <string name="sleep_mode_canceled">Sovemodus skrudd av</string>
      <string name="sleep_mode_summary">Bruk skyveknappen under for å sette en tid</string>

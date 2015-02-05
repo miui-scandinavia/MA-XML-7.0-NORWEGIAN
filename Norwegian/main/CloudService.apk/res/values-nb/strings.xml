@@ -59,7 +59,7 @@
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
-     <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
+     <string name="find_device_dspt_provision_4">Hvis du bytter SIM-kort, vil en SMS-melding bli sendt automatisk for å reaktivere denne funksjonen.</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
      <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>

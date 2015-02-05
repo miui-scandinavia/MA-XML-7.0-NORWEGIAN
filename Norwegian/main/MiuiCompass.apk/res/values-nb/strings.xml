@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="altitude">Høyde %.1fm</string>
      <string name="altitude_title">Høyde</string>
      <string name="altitude_unit">m</string>
      <string name="app_label">Kompass</string>
@@ -10,9 +9,9 @@
      <string name="calibrate_failed_no_location">Kalibrering mislyktes: Kunne ikke motta nåværende bredde- og lengdegrader</string>
      <string name="calibrate_failed_timeout">Kalibrering mislyktes: Serverforbindese timeout</string>
      <string name="calibrate_success">Kalibrering fullført</string>
-     <string name="cannot_get_location">Kunne ikke finne din plassering</string>
-     <string name="dialog_calibrat_altitude">Kalibrerer høyde gjennom internett.</string>
-     <string name="dialog_title_no_network">Vennligst aktiver WiFi eller mobildataforbindelse.</string>
+     <string name="cannot_get_location">--</string>
+     <string name="dialog_calibrat_altitude">Kalibrerer…</string>
+     <string name="dialog_title_no_network">"Kan ikke koble til nettverket"</string>
      <string name="direction_east">Ø</string>
      <string name="direction_north">N</string>
      <string name="direction_north_east">NE</string>
@@ -22,7 +21,7 @@
      <string name="direction_south_west">SV</string>
      <string name="direction_west">V</string>
      <string name="do_not_show_next_time">"Ikke vis igjen"</string>
-     <string name="getting_location">Finner plassering...</string>
+     <string name="getting_location">Kalibrerer…</string>
      <string name="guide_toast">"For å kalibrere, flytt telefonen din i bevegelsene nedenfor"</string>
      <string name="latitude">BREDDE</string>
      <string name="location_east">SØ</string>
@@ -38,10 +37,9 @@
      <string name="menu_calibrate">Kalibrer</string>
      <string name="mobiledata_alert_dialog_message">Koble til internett for å kalibrere høyde?</string>
      <string name="mobiledata_alert_dialog_title">Advarsel om databruk</string>
-     <string name="pressure">Trykk %.1fhPa</string>
      <string name="pressure_title">Trykk</string>
      <string name="pressure_unit">hPa</string>
-     <string name="shake_enter_tip">Rist forf å kalibrere</string>
+     <string name="shake_enter_tip">Rist for å kalibrere</string>
      <string name="using_camera_confirm_cancel">Avslutt</string>
      <string name="using_camera_confirm_message">"Kompass trenger å bruke enheten sin nettverkstilkobling og kamera for å fungere normalt."</string>
      <string name="using_camera_confirm_ok">Godkjenn</string>

@@ -13,8 +13,6 @@
      <string name="ble_device_profile_header_title">Profiler</string>
      <string name="ble_device_profile_title">Tilkoblet BLE-enhet</string>
      <string name="ble_device_unbind">Tøm innstillinger</string>
-     <string name="ble_profile_1">ble_profile_mi_band</string>
-     <string name="ble_profile_2">ble_profile_mi_key</string>
      <string name="bluetooth_preference_connected_devices">Tilkoblede enheter</string>
      <string name="bluetooth_preference_found_devices">Tilgjengelig enheter</string>
      <string name="bluetooth_preference_scan_title">Skann etter enheter</string>
@@ -82,12 +80,12 @@ Vil du motta filen?"</string>
      <string name="mi_band_vibrate_incall_no_contacts">Vibrer under ringing for samtaler fra ukjente numre</string>
      <string name="mi_band_vibrate_sms">Vibrer når du mottar en SMS-melding</string>
      <string name="mi_band_vibrate_sms_in_contacts">Vibrer når du mottar en SMS-melding fra dine kontakter</string>
-     <string name="mi_band_vibrate_sms_no_contacts">Vibrer når du mottar enVibrate when you receive an SMS message from an unknown number</string>
-     <string name="mi_key_alert_dialog_message">Touch OK to silence alarm.</string>
-     <string name="mi_key_alert_dialog_title">Mi key Alert</string>
-     <string name="mi_key_find_mikey">Find Mi-Key</string>
-     <string name="mi_key_find_phone">Find phone</string>
-     <string name="mi_key_take_photo">Take photo</string>
+     <string name="mi_band_vibrate_sms_no_contacts">Vibrer når du mottar en SMS-melding fra et ukjent nummer</string>
+     <string name="mi_key_alert_dialog_message">Trykk OK for å dempe å slå av alarmen.</string>
+     <string name="mi_key_alert_dialog_title">Mi key-advarsel</string>
+     <string name="mi_key_find_mikey">Finn Mi-Key</string>
+     <string name="mi_key_find_phone">Finn telefon</string>
+     <string name="mi_key_take_photo">Ta bilde</string>
      <string name="miui_transfer_history_title">Bluetooth-overføringshistorikk</string>
      <string name="miui_transfer_inbound_title">Innkommende</string>
      <string name="miui_transfer_outbound_title">Utgående</string>

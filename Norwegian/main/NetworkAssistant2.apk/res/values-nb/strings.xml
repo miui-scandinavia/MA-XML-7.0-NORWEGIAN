@@ -19,8 +19,8 @@
      <string name="background_traffic">Bakgrunn %s</string>
      <string name="begin_date">Dato for nullstilling av brukssyklus</string>
      <string name="cancel_button">Avbryt</string>
-     <string name="chat_number">10 hours</string>
-     <string name="chat_uint">" hours"</string>
+     <string name="chat_number">10 timer</string>
+     <string name="chat_uint">" timer"</string>
      <string name="checkout_traffic_saving_history">Vis historikk</string>
      <string name="daily_limit_network_available_body">Trykk for å vise statistikk over mobildata.</string>
      <string name="daily_limit_over_message">"Du har overskredet din daglige datagrense."</string>
@@ -44,13 +44,13 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="data_usage_restricted_title">Bakgrunnsdata begrenset</string>
      <string name="data_usage_warning_body">Trykk for å vise databruksdetaljer</string>
      <string name="data_usage_warning_title">Advarsel for databruk</string>
-     <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
-     <string name="datausage_purchase_backto_ns">Back</string>
-     <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
-     <string name="datausage_purchase_buy">Buy</string>
+     <string name="datausage_ignore_app_list_count">"Ignorerer %d apper sitt dataforbruk"</string>
+     <string name="datausage_purchase_backto_ns">Tilbake</string>
+     <string name="datausage_purchase_banner_title">%s oppfyllingstilbud (eksklusiv)</string>
+     <string name="datausage_purchase_buy">Kjøp</string>
      <string name="datausage_purchase_confirm_tip">Din ordre:</string>
      <string name="datausage_purchase_get_captcha">Hent kode (%d)</string>
-     <string name="datausage_purchase_get_captcha_again">Send en ny kyde</string>
+     <string name="datausage_purchase_get_captcha_again">Send en ny kode</string>
      <string name="datausage_purchase_get_captcha_failed">"Kunne ikke hente verifikasjonskode. Vennligst sjekk din dataforbindelse og prøv igjen."</string>
      <string name="datausage_purchase_goto_monthsetting">Endre pakkeinfo</string>
      <string name="datausage_purchase_none_history">Tom</string>
@@ -61,8 +61,8 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="datausage_purchase_pay_captcha_hint">Skriv koden du mottokk her</string>
      <string name="datausage_purchase_pay_captcha_tips">Etter at du har mottatt din verifikasjonskode, skriv den i boksen under og trykk \"Kjøp\" for å fullføre ditt kjøp. Vær klar over at koden bare er gyldig i 10 minutter.</string>
      <string name="datausage_purchase_pay_confirm">Kjøp</string>
-     <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
-     <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
+     <string name="datausage_purchase_pay_hint">For å avbryte, ring %s</string>
+     <string name="datausage_purchase_pkglist_networkerror">"Kunne ikke koble til nettverket. Sjekk din dataforbindelse og prøv igjen."</string>
      <string name="datausage_purchase_pkglist_nodata">"Det er en konflikt mellom din gjeldende datapakke og datapakken du prøver å kjøpe.
  Sjekk med operatøren din for mer info."</string>
      <string name="datausage_purchase_pkglist_servererror">Noe gikk galt med vår server.</string>
@@ -111,14 +111,10 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="international_roaming_whitelist_count">%d apper kan koble til datatjenester når du roamer internasjonalt</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
-     <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: Locked for %1$s | Used %2$s of mobile data -->
-     <string name="lock_screen_traffic_notify_body">Dataforbruk når skjermen er av: %s</string>
+     <string name="lock_screen_setting_summary">Vis varsel etter 100KB har blitt brukt</string>
+     <string name="lock_screen_traffic_notify_body">Låst i %1$s | Brukte %2$s med mobildata</string>
      <string name="lock_screen_traffic_warn_title">Advarsel om dataforbruk når skjermen er av</string>
-     <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
+     <string name="main_alert_message_month_limit_error">Datagrensen du valgte er feil</string>
      <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
      <string name="main_alert_message_no_mobile_package">"Mobildatagrense er ikke satt"</string>
      <string name="main_alert_message_slot_no_data_connection">"Dette SIM-kort-sporet støtter ikke
@@ -168,12 +164,12 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="none_mi_service_app_detail">Tom</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
      <string name="notification_title">%1$s-%2$s: rundt %3$s brukt</string>
-     <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
-     <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
-     <string name="notify_daily_limit_title">Set a daily data limit</string>
-     <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
-     <string name="notify_setting_pkg_title">Set your monthly data limit</string>
-     <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
+     <string name="notify_daily_data_usage_body">%s brukt i dag. Trykk for å velge grense.</string>
+     <string name="notify_daily_limit_body">%s brukt denne uken. Trykk for å velge grense.</string>
+     <string name="notify_daily_limit_title">Velg en daglig datagrense</string>
+     <string name="notify_month_traffic_body">%s brukt denne måneden. Trykk for å velge grense.</string>
+     <string name="notify_setting_pkg_title">Velg din månedlige datagrense</string>
+     <string name="notify_weekly_pkg_body">%s brukt denne uken. Trykk for å velge grense.</string>
      <string name="ok_button">OK</string>
      <string name="online_chat">Chat</string>
      <string name="online_read">Nyheter</string>
@@ -213,15 +209,13 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_connect_settings_exceed_limit_hint">Kutt av dataforbindelsen når maksimum databruk når grensen</string>
      <string name="pref_daily_adjust">Sett maksimum datagrense</string>
      <string name="pref_daily_traffic">Maks datagrense</string>
-     <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
-     <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
+     <string name="pref_data_usage_ignore_settings">Ignorer dataforbruk</string>
+     <string name="pref_data_usage_ignore_settings_summary">"Ikke hold styr på en valgt gruppe med apper sitt dataforbruk"</string>
      <string name="pref_data_usage_not_set">Sett grense for databruk</string>
      <string name="pref_free_adjust">Sett minimum datagrense</string>
      <string name="pref_free_traffic_exceed_limit">Gi meg et varsel når databruket når grensen</string>
      <string name="pref_free_traffic_limit_warn">Advarsel for minimum databruk</string>
      <string name="pref_free_traffic_settings">Innstillinger for minimum databruk</string>
-     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
      <string name="pref_leisure_no_overlay">På</string>
      <string name="pref_leisure_not_opened">Av</string>
      <string name="pref_manual_adjust">Sett databrukstatistikk manuellt</string>
@@ -280,7 +274,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
      <string name="setting_traffic_pkg">Velg datapakke</string>
      <string name="settings">Innstillinger for databruk</string>
-     <string name="show_traffic_dialog_message">Informasjon om ditt databruk vil bli vist i varslingskyggen. Du kan denne funksjonen av og på når som heslt i Databruk &gt; Innstillinger</string>
+     <string name="show_traffic_dialog_message">Informasjon om ditt databruk vil bli vist i varslingskyggen. Du kan denne funksjonen av og på når som helst i Databruk &gt; Innstillinger</string>
      <string name="show_traffic_dialog_title">Vis bruk i varslingsskyggen</string>
      <string name="songs_number">18 sanger</string>
      <string name="songs_unit">" sanger"</string>
@@ -348,10 +342,10 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_correction_start_correction">"Snakker med operatøren sine servere…"</string>
      <string name="traffic_correction_start_correction_failed">Spørring feilet, vennligst sjekk dine operatørinnstillinger</string>
      <string name="traffic_correction_success">Databruk oppdatert</string>
-     <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+     <string name="traffic_limit_error_alert_body">"Operatørens regnskap viser at du har %1$s gjenstående denne måneden. Det er mer enn %2$s-grensen du har satt manuelt."</string>
      <string name="traffic_limit_error_alert_iknow">OK</string>
-     <string name="traffic_limit_error_alert_reset">Reset limit</string>
-     <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
+     <string name="traffic_limit_error_alert_reset">Tilbakestill grense</string>
+     <string name="traffic_limit_error_alert_title">Datagrense påminnelse %s</string>
      <string name="traffic_none">Ingen</string>
      <string name="traffic_over_purchase_body">Trykk for å vise detaljer.</string>
      <string name="traffic_over_purchase_link">"Du har nådd mobilabonnementets dataforbruksgrense.&lt;br/&gt;Hvis du overskrider abonnementets databruksgrense, kan operatøren din belaste deg ytterlige avgifter.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Fyll opp nå og spar 50%.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -421,7 +415,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_setting_fragment_title">Forespørsel om databruk</string>
      <string name="traffic_setting_open">På</string>
      <string name="traffic_setting_step_num">Innstillinger for dataabonnement</string>
-     <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
+     <string name="traffic_setting_update_template_falure">"Kan ikke kolble til nettverket"</string>
      <string name="traffic_warning_purchase_title">Gjenstående balanse er mindre enn %d%%</string>
      <string name="usage_sorted_activity_lable">Databruk</string>
      <string name="usage_sorted_empty_text">Tom</string>

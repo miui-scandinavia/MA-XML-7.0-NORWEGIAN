@@ -1138,7 +1138,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="wipe_data">Slett kontakter</string>
      <string name="yellowPageNavigationIconLabel">Katalog</string>
      <string name="yellowPageNavigationLabel">Katalog</string>
-     <string name="yellowpage_navigation_clear_search_history">Clear history</string>
+     <string name="yellowpage_navigation_clear_search_history">Tøm historikk</string>
      <string name="yellowpage_navigation_more_items">Mer</string>
      <string name="yellowpage_navigation_more_items_title">Flere tjenester</string>
      <string name="yellowpage_navigation_network_location_enable">Tillat</string>
