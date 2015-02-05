@@ -130,7 +130,7 @@
      <string name="login_reg_content">Oppbevar filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">Bruk Kuaipan fra hvorsomhelst.</string>
      <string name="megabyteShort">MB</string>
-     <string name="menu_item_cleanup">Fil Oppryding</string>
+     <string name="menu_item_cleanup">Filopprydding</string>
      <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Søk</string>
      <string name="menu_item_sort">Sorter på</string>
@@ -234,7 +234,7 @@
      <string name="pan_settting">KuaiPan-innstillinger</string>
      <string name="paused">På pause</string>
      <string name="petabyteShort">PB</string>
-     <string name="phone">Phone</string>
+     <string name="phone">Telefon</string>
      <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
      <string name="release_to_signin">Slipp for å logge inn</string>
      <string name="rename_description">Gir nytt navn, vennligst vent…</string>

@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="bookmarks_cu_customization">
-        <item>沃门户</item>
-        <item>http://www.wo.com.cn</item>
-     </string-array>
-     <string-array name="dianping">
-        <item>团购</item>
-        <item>dianping.com</item>
-        <item>http://developer.dianping.com/favicon.ico</item>
-        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
-        <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-     </string-array>
-     <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
-     </string-array>
-     <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-     </string-array>
      <string-array name="menu_theme_setting">
         <item>Hvit</item>
         <item>Gul</item>
@@ -111,26 +86,5 @@
      <string-array name="pref_volume_key_choices">
         <item>Forrige side/Neste side</item>
         <item>Forrige fane/Neste fane</item>
-     </string-array>
-     <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>google</item>
-        <item>bing_zh_CN</item>
-     </string-array>
-     <string-array name="taobao_in_list">
-        <item>search_taobao</item>
-        <item>ic_search_engine_taobao</item>
-        <item>taobao</item>
      </string-array>
 </resources>

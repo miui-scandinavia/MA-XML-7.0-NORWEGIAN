@@ -402,13 +402,13 @@
      <string name="power_center_on_time_summary_default">Bytt batteriprofil på planlagt tidspunkt</string>
      <string name="power_center_on_time_summary_dynamic">Fra %1$s til %2$s bytt til %3$s</string>
      <string name="power_center_on_time_title">Planlegg profilbytte</string>
-     <string name="power_center_ontime_boot">Slå på kl.</string>
-     <string name="power_center_ontime_shutdown">Slå av kl.</string>
+     <string name="power_center_ontime_boot">Slå på-tid</string>
+     <string name="power_center_ontime_shutdown">Slå av-tid</string>
      <string name="power_center_repeat">Gjenta</string>
      <string name="power_center_state_off">Av</string>
      <string name="power_center_state_on">På</string>
-     <string name="power_center_time_to_boot">Slå på kl.</string>
-     <string name="power_center_time_to_shutdown">Slå på kl.</string>
+     <string name="power_center_time_to_boot">Slå på-tid</string>
+     <string name="power_center_time_to_shutdown">Slå av-tid</string>
      <string name="power_center_title">Strøm</string>
      <string name="power_chooser_check_box_summary">Velg en profil for å forbedre batteritiden</string>
      <string name="power_chooser_check_box_title">Velg profil</string>

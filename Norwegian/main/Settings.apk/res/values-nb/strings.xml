@@ -809,7 +809,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="disableNetwork">disableNetwork</string>
      <string name="disable_overlays">Deaktiver HW-overlegg</string>
      <string name="disable_overlays_summary">Bruk alltid GPU for skjermsammensetting</string>
-     <string name="disable_power_key_long_press_under_keyguard">Skru av PÅ-knapp meny</string>
+     <string name="disable_power_key_long_press_under_keyguard">Skru av PÅ-knapp-menyen</string>
      <string name="disable_service_message">Du stopper %1$s ved å trykke på OK.</string>
      <string name="disable_service_title">Vil du stoppe %1$s?</string>
      <string name="disable_text">Deaktiver</string>
@@ -827,7 +827,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dlg_error_unmount_text">Kan ikke koble fra USB-lagring. Prøv på nytt senere.</string>
      <string name="dlg_error_unmount_title" />
      <string name="dlg_ok">OK</string>
-     <string name="dndm_auto_button_title">Gjentakende Ikke Forstyrr tid</string>
+     <string name="dndm_auto_button_title">Tid</string>
      <string name="dndm_auto_setting_group">Planlagt</string>
      <string name="dndm_auto_time_setting">Sett tid</string>
      <string name="dndm_auto_time_setting_summary">Fra %1$s til %2$s</string>
@@ -849,7 +849,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dndm_twelve_hour_time_format">h:mm a</string>
      <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
      <string name="dndm_vip_call_button_title">Tillat anrop fra unntak</string>
-     <string name="dndm_vip_call_setting_title">Innstillinge for unntak</string>
+     <string name="dndm_vip_call_setting_title">Innstillinger for unntak</string>
      <string name="dndm_vip_call_summary_contact">Alle kontakter</string>
      <string name="dndm_vip_call_summary_custom">%d unntak</string>
      <string name="dndm_vip_call_summary_none">Trykk for å sette opp</string>
@@ -1448,7 +1448,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="miui_screensaver_usage">Bilder i skjermspareralbumet vil bli vist 5 sekunder etter at skjermen er skrudd av.</string>
      <string name="mms_breathing_light_color_title">Lysfarge for meldinger</string>
      <string name="mms_breathing_light_freq_title">LED-blinkevarighet for meldinger</string>
-     <string name="mobile_connect_to_internet">Koble deg til Internett</string>
+     <string name="mobile_fconnect_to_internet">Koble deg til Internett</string>
      <string name="mobile_insert_sim_card">Sett inn SIM-kortet og start enheten på nytt</string>
      <string name="mobile_no_provisioning_url">%1$s har ikke noe kjent nettsted for identitetshåndtering</string>
      <string name="mobile_unknown_sim_operator">Ukjent SIM-operatør</string>
@@ -1686,11 +1686,11 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Knappelys</string>
      <string name="pref_button_light_summary">Meny, Hjem og Tilbake-knapp indikator</string>
-     <string name="pref_operational_key">Operativknapp</string>
+     <string name="pref_operational_key">Betjeningsknapper</string>
      <string name="pref_volume_wake_summary">Trykk på Volum-knappene vekker enheten</string>
      <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>
      <string name="preference_change_password_title">Endre passord</string>
-     <string name="preferred_app_settings">Standarer</string>
+     <string name="preferred_app_settings">Standard</string>
      <string name="preferred_app_settings_default">Standard</string>
      <string name="preferred_app_settings_reset">Gjenopprett standarder</string>
      <string name="preferred_app_settings_reset_message">Standard app-innstillinger vil bli gjenopprettet til MIUI sine fabrikkinnstillinger</string>
@@ -2100,7 +2100,7 @@ Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
      <string name="show_touches">Vis berøringer</string>
      <string name="show_touches_summary">Vis visuelle tilbakemeldinger for berøringer</string>
      <string name="show_user_info_on_lockscreen_label">Vis brukerinformasjon på låseskjermen</string>
-     <string name="silent_mode_title">Silent mode</string>
+     <string name="silent_mode_title">Stillemodus</string>
      <string name="sim_bad_pin">Feil personlig kode</string>
      <string name="sim_change_failed">"Kan ikke endre personlig kode.
 Muligens feil kode."</string>
@@ -2378,7 +2378,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="turn_off_radio">Slå av radio</string>
      <string name="turn_off_security_lock">Skru av lås</string>
      <string name="turn_on_radio">Slå på radio</string>
-     <string name="under_keyguard">Lock screen</string>
+     <string name="under_keyguard">Låseskjerm</string>
      <string name="uninstall_all_users_text">Avinstaller for alle brukere</string>
      <string name="uninstall_text">Avinstaller</string>
      <string name="unknown">Ukjent</string>

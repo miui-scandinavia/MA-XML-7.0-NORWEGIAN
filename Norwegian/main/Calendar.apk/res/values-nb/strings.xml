@@ -24,9 +24,9 @@
      <string name="acessibility_cal_notification">Kalendervarsel</string>
      <string name="acessibility_selected_marker_description">Valgte hendelse</string>
      <string name="acessibility_snooze_notification">Utsett varsel</string>
-     <string name="action_text_new_event">New event</string>
+     <string name="action_text_new_event">Ny hendelse</string>
      <string name="action_text_online">Abonner</string>
-     <string name="action_text_today">Today</string>
+     <string name="action_text_today">I dag</string>
      <string name="add_account">Legg til konto</string>
      <string name="add_calendar">Legg til</string>
      <string name="add_topic_success">Fjerning av "%s" var vellykket</string>

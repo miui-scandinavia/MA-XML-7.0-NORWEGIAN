@@ -21,11 +21,11 @@
      <string name="app_category_travel">Reise</string>
      <string name="application_name">MiuiHome</string>
      <string name="apply_action">Apply</string>
-     <string name="apply_as_lock_screen">Lock screen</string>
+     <string name="apply_as_lock_screen">Låseskjerm</string>
      <string name="apply_as_lock_wallpaper">Bruk</string>
      <string name="apply_as_lock_wallpaper_message">Bruk bakgrunnen på låseskjermen også?</string>
-     <string name="apply_as_wallpaper">Home screen</string>
-     <string name="apply_both">Set both</string>
+     <string name="apply_as_wallpaper">Hjemskjerm</string>
+     <string name="apply_both">Sett begge</string>
      <string name="aqi_quality_index_dangerous">Veldig farlig</string>
      <string name="aqi_quality_index_good">God</string>
      <string name="aqi_quality_index_hazardous">Farlig</string>
@@ -39,7 +39,7 @@
      <string name="cant_remove_folder">Kan ikke flytte mappe som ikke er tom</string>
      <string name="cant_remove_retained_app">Behandler program. Kan ikke fjernes</string>
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
-     <string name="choose_wallpaper">Choose wallpaper</string>
+     <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg bakgrunn</string>
      <string name="confirm_btn_label">OK</string>
      <string name="current_preview">Forhåndsvisning</string>
@@ -89,7 +89,7 @@
      <string name="free_style_exit_tip">Dra opp med to fingre for å Avsluttte MiSpace</string>
      <string name="free_style_londing_text">Forbereder MiSpace...</string>
      <string name="gadget_calculator_label">Calculator</string>
-     <string name="gadget_calendar_label">Calendar</string>
+     <string name="gadget_calendar_label">Kalender</string>
      <string name="gadget_clear_button_label">Tøm oppgaver</string>
      <string name="gadget_clock_12_label">Klokke 1x2</string>
      <string name="gadget_clock_22_label">Klokke 2x2</string>
