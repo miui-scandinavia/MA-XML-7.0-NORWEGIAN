@@ -286,7 +286,7 @@
      <string name="changepw_dialog_tips">Vennligst skriv \"%s\" sitt passord på nytt</string>
      <string name="chat_item_msg_people_unit">personer</string>
      <string name="chat_item_msg_user_etc">…</string>
-     <string name="chat_item_msg_user_saying"sier:</string>
+     <string name="chat_item_msg_user_saying">sier:</string>
      <string name="chat_type_name">samtaler</string>
      <string name="chat_view_description">Slå sammen samtalelisten for å vise samtalen</string>
      <string name="chat_view_quote_text">-----Quoted Text-----</string>
