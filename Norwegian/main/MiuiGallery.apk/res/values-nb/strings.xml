@@ -668,6 +668,7 @@ venner."</string>
      <string name="import_fail">Importering mislykkes</string>
      <string name="impunity_declaration">"Noen av Galleriet sin funksjoner kerver en internetttilkobling for å fungere normalt"</string>
      <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
+     <string name="impunity_declaration_positive_text">OK</string>
      <string name="impunity_declaration_settings">Vis nettverksvarsel</string>
      <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
      <string name="impunity_declaration_title">Nettverksvarsel</string>

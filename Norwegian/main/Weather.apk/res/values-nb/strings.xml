@@ -29,6 +29,14 @@
      <string name="app_label">Værtilbyder</string>
      <string name="app_name">Vær</string>
      <string name="application_screenorientation">portrett</string>
+     <string name="aqi_quality_index_break">AQI %1$s</string>
+     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+     <string name="aqi_quality_index_good">AQI %1$s</string>
+     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+     <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+     <string name="aqi_quality_index_moderate">AQI %1$s</string>
+     <string name="aqi_quality_index_pure">AQI %1$s</string>
+     <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="button_abandon">Forkast endringer</string>
      <string name="button_allow">OK</string>
      <string name="button_not_allow">Avbryt</string>
@@ -57,6 +65,7 @@
      <string name="view_aqi_pubtime">Oppdatert %1$s</string>
      <string name="view_aqi_pubtime_format">HH:mm, MMM dd</string>
      <string name="view_aqi_source">Kinas nasjonale miljøovervåkningssenter</string>
+     <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
      <string name="view_aqi_title">Luftkvalitet</string>
      <string name="view_dropwater_title">Nedbør</string>
      <string name="view_forecast_item_yesterday">I går</string>
@@ -71,4 +80,7 @@
      <string name="view_indexes_wind_unit">km/h</string>
      <string name="view_realtime_clear_substitution">Tøm</string>
      <string name="view_sun_titile">Soloppgang og solnedgang</string>
+     <string name="weather_unit">°</string>
+     <string name="weather_unit_middle">~</string>
+     <string name="weather_unit_with_c">℃</string>
 </resources>

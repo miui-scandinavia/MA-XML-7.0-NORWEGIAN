@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+     </array>
+     <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+     </array>
+     <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+     </array>
+     <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+     </array>
+     <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+     </array>
+     <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+     </array>
      <string-array name="availability">
         <item>Opptatt</item>
         <item>Ledig</item>
@@ -79,39 +115,39 @@
         <item>2 dager</item>
         <item>1 uke</item>
      </string-array>
-    <string-array name="repeat_choose_day">
-          <item>1.</item>
-          <item>2.</item>
-          <item>3.</item>
-          <item>4.</item>
-          <item>5.</item>
-          <item>6.</item>
-          <item>7.</item>
-          <item>8.</item>
-          <item>9.</item>
-          <item>10.</item>
-          <item>11.</item>
-          <item>12.</item>
-          <item>13.</item>
-          <item>14.</item>
-          <item>15.</item>
-          <item>16.</item>
-          <item>17.</item>
-          <item>18.</item>
-          <item>19.</item>
-          <item>20.</item>
-          <item>21.</item>
-          <item>22.</item>
-          <item>23.</item>
-          <item>24.</item>
-          <item>25.</item>
-          <item>26.</item>
-          <item>27.</item>
-          <item>28.</item>
-          <item>29.</item>
-          <item>30.</item>
-          <item>31.</item>
-    </string-array>
+     <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+     </string-array>
      <string-array name="repeat_choose_end">
         <item>Aldri</item>
         <item>Tid</item>
@@ -143,7 +179,7 @@
         <item>Helg</item>
         <item>Hele uka</item>
      </string-array>
-    <string-array name="repeat_choose_weekday">
+     <string-array name="repeat_choose_weekday">
         <item>Man</item>
         <item>Tir</item>
         <item>Ons</item>
@@ -151,7 +187,7 @@
         <item>Fre</item>
         <item>Lør</item>
         <item>Søn</item>
-    </string-array>
+     </string-array>
      <string-array name="repeat_frequency_spinner">
         <item>dag</item>
         <item>uke</item>

@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minutter siden</item>
-        <item quantity="one">%d min siden</item>
-    </plurals>
-    <plurals name="activity_main_update_time_in_one_day">
+     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d timer siden</item>
         <item quantity="one">%d time siden</item>
-    </plurals>
-    <plurals name="activity_main_update_time_one_day_ago">
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">%d min siden</item>
+     </plurals>
+     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d dager siden</item>
         <item quantity="one">%d dag siden</item>
-    </plurals>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Klart</item>
+        <item quantity="one">Solfylt</item>
+     </plurals>
 </resources>

@@ -32,6 +32,7 @@
      <string name="all_ep">Alle ep</string>
      <string name="all_media">Alle media</string>
      <string name="app_name">Video</string>
+     <string name="app_recommend">Utvalgte</string>
      <string name="area_colon">"Land: "</string>
      <string name="area_unknown">Ukjent</string>
      <string name="authenticated_failed">Innlogging feilet</string>
@@ -40,6 +41,7 @@
      <string name="average_score">Gjennomsnittsscore</string>
      <string name="avg_score">%.1f</string>
      <string name="back">tilbake</string>
+     <string name="baodian">Peker</string>
      <string name="bestv">Bestv</string>
      <string name="buffering">Leser inn i buffer...</string>
      <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
@@ -47,6 +49,7 @@
      <string name="cancel_button">Avbryt</string>
      <string name="cancel_favorite_success">Ustjernemerkede</string>
      <string name="category">Kategorier</string>
+     <string name="catoon">Tegneserier</string>
      <string name="channel_choice">"Redaktørens valg"</string>
      <string name="channel_choice_empty_hint">Tom</string>
      <string name="channel_empty_hint">Tom</string>
@@ -169,6 +172,7 @@
      <string name="guess_you_like">Anbefalt</string>
      <string name="hint_can_not_get_source_info">"Kunne ikke hente videoinformasjon"</string>
      <string name="hint_without_selected_set">Finn innholdskilde automatisk</string>
+     <string name="hollywood">Hollywood</string>
      <string name="hot">Populære</string>
      <string name="hot_recommend">Trender</string>
      <string name="icntv">iCNTV</string>
@@ -182,6 +186,7 @@
      <string name="introduce">Sammendrag</string>
      <string name="ji">ep</string>
      <string name="key_back_down_toast">For å avbryte, trykk Tilbake en gang til</string>
+     <string name="koreak">Korea TV</string>
      <string name="lekan">Lekan</string>
      <string name="letv">Letv</string>
      <string name="loading">" "&lt;CDATA&gt;Laster &lt;/CDATA&gt;" "</string>
@@ -347,6 +352,7 @@
      <string name="updateapk_intro">Endringslogg</string>
      <string name="updatedalready">Oppdatert</string>
      <string name="upgrade">Oppgrader</string>
+     <string name="usa">US TV</string>
      <string name="use_cellular_network">bruk cellulært nettverk</string>
      <string name="use_cellular_network_summary">bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
      <string name="use_cellular_offlinedownload_summary">Vis varsel ved bruk av mobildata til nedlasting av video.</string>

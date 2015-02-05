@@ -196,6 +196,8 @@
      <string name="network_error">"Kunne ikke koble til nettverket"</string>
      <string name="network_failure">Sjekk tilkoblingen din og prøv igjen.</string>
      <string name="network_traffic">Databruk</string>
+     <string name="no_album_info">Ingen album info</string>
+     <string name="no_artist_info">Ingen artist info</string>
      <string name="no_favorites_songs">Tom</string>
      <string name="no_file_picker_find">Filhåndterer er ikke installert på denne telefonen</string>
      <string name="no_introduction">Ingen sammendrag.</string>
@@ -232,6 +234,8 @@
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
      <string name="search_album">Søk album</string>
+     <string name="search_for_album">Album</string>
+     <string name="search_for_artist">Artist</string>
      <string name="search_hint">Søk</string>
      <string name="search_lyric">Søk sangtekst</string>
      <string name="search_title">Søk</string>
@@ -264,6 +268,7 @@
      <string name="start_to_play">Spill av</string>
      <string name="stream_quality">Strømmekvalitet</string>
      <string name="streamloadingtext">Kobler til %s</string>
+     <string name="support_online_only">Bare strømming</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist_list">Artister</string>
      <string name="tab_local_folder_list">Mapper</string>

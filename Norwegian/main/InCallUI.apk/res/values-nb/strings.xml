@@ -84,8 +84,8 @@
      <string name="card_title_call_ended">Anrop avsluttet</string>
      <string name="card_title_conf_call">Konferanseanrop</string>
      <string name="card_title_dialing">Ringer</string>
-     <string name="card_title_hanging_up">Legger på</string>
-     <string name="card_title_in_call">I samtale</string>
+     <string name="card_title_hanging_up">Legger på </string>
+     <string name="card_title_in_call">I samtale </string>
      <string name="card_title_in_call_short">I samtale</string>
      <string name="card_title_incoming_call">Innkommende anrop</string>
      <string name="card_title_my_phone_number">Mitt nummer er %s</string>

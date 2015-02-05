@@ -9,9 +9,16 @@
         <item quantity="other">%d treff</item>
         <item quantity="one">%d treff</item>
      </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Siste %d dager</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="one">1 matcher</item>
+     </plurals>
      <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
      </plurals>
      <plurals name="suggest_access_item_singer_albums">
         <item quantity="other">%d albums</item>
