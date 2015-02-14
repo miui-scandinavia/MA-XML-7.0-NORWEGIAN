@@ -79,7 +79,7 @@
      <string name="view_indexes_title_wind">Vindkraft</string>
      <string name="view_indexes_wind_unit">km/h</string>
      <string name="view_realtime_clear_substitution">Tøm</string>
-     <string name="view_sun_titile">Soloppgang og solnedgang</string>
+     <string name="view_sun_titile">Oppgang/nedgang</string>
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">℃</string>
