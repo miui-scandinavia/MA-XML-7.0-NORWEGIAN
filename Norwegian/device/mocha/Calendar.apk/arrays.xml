@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="preferences_default_reminder_labels">
+        <item>Ingen påminnelse</item>
+        <item>0 minutter</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>0 minutter</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+     </string-array>
+</resources>

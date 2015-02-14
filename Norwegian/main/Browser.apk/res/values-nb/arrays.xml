@@ -72,12 +72,6 @@
         <item>Stor</item>
         <item>Veldig stor</item>
      </string-array>
-     <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-     </string-array>
      <string-array name="pref_video_preload_choices">
         <item>Aldri</item>
         <item>Bare på Wi-Fi</item>

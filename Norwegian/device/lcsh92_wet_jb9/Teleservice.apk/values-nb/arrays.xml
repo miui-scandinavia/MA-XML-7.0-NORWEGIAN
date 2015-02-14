@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Overordnet</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Bare EvDo</item>
+        <item>CDMA uten EvDo</item>
+        <item>CDMA/EvDo automatisk</item>
+        <item>GSM / WCDMA automatisk</item>
+        <item>Bare WCDMA</item>
+        <item>Bare GSM</item>
+        <item>GSM/WCDMA foretrukket</item>
+     </string-array>
+</resources>
