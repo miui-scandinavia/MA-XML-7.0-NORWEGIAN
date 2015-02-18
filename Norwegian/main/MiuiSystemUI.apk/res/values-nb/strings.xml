@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="accessibility_airplane_mode">Flymodus.</string>
@@ -154,11 +154,14 @@
      <string name="settings_toggle_position_divider_page">Aktive knapper: %1$d</string>
      <string name="settings_toggle_position_reset">Nullstil knapper</string>
      <string name="share">Del</string>
-     <string name="status_bar_date_format">EEEE, d. MMMM</string>
      <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow">"I dag: %1$s    Gjenstående: %2$s    Månedelig grense: %3$s"</string>
+     <string name="status_bar_network_flow_content">"I dag: %1$s   Gjenstående: %2$s"</string>
      <string name="status_bar_network_flow_exceed">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Månedlig grense: %4$s</string>
+     <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Exceeded:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
      <string name="status_bar_network_flow_exceed_to_purchase">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Kjøp &gt;</string>
+     <string name="status_bar_network_flow_limit">"   Månedlig grense: %1$s"</string>
+     <string name="status_bar_network_flow_purchase">"   Kjøp &gt;"</string>
      <string name="status_bar_network_flow_today">I dag: %1$s</string>
      <string name="status_bar_network_flow_warning_to_purchase">"I dag: %1$s    Gjenstående: %2$s    Kjøp &gt;"</string>
      <string name="status_bar_network_name_separator">|</string>

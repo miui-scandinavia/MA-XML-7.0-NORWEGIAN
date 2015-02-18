@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="about_settings">Om enheten</string>
@@ -2143,6 +2143,7 @@ Muligens feil personlig kode."</string>
      <string name="skip_step">Hopp over</string>
      <string name="slot_status_title">IMEI-info</string>
      <string name="small_font">Liten</string>
+     <string name="smartcover_sensitive_title">Smartcover-modus</string>
      <string name="sms_application_title">Standard SMS-app</string>
      <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
      <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
@@ -2688,6 +2689,11 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_config_info">WLAN-konfig</string>
      <string name="wifi_configured_ap_list">Tidligere konfigurerte aksesspunkt</string>
      <string name="wifi_connect">Koble til</string>
+     <string name="wifi_connect_cmcc_dialog_cancel">Avbryt</string>
+     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+     <string name="wifi_connect_cmcc_dialog_content">Koblet til CMCC-nettverkets datatjenester.</string>
+     <string name="wifi_connect_cmcc_dialog_not_remind">"Ikke vis igjen"</string>
+     <string name="wifi_connect_cmcc_dialog_title">Varsel om databruk</string>
      <string name="wifi_connect_failed_message">Enheten kunne ikke koble til dette Wi-Fi-nettverket.</string>
      <string name="wifi_context_menu_change_password">Endre passord</string>
      <string name="wifi_context_menu_change_wapi_certificate">Endre WAPI-sertifikat</string>
@@ -2771,8 +2777,15 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_network_prefix_length">Prefikslengde</string>
      <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_not_in_range">Utenfor område</string>
+     <string name="wifi_notify_cmcc_connected_summary">Vis varsel når tilkoblet CMCC-nettverk</string>
+     <string name="wifi_notify_cmcc_connected_title">CMCC-nettverksvarsel</string>
      <string name="wifi_notify_open_networks">Nettverksvarsel</string>
      <string name="wifi_notify_open_networks_summary">Gi meg et varsel når et åpent nettverk er tilgjengelig</string>
+     <string name="wifi_off_airplane_on_cancel">Avbryt</string>
+     <string name="wifi_off_airplane_on_confirm">OK</string>
+     <string name="wifi_off_airplane_on_content">Du kan skru på Wi-Fi manuelt når flymodus er på.</string>
+     <string name="wifi_off_airplane_on_not_remind">"Ikke vis igjen"</string>
+     <string name="wifi_off_airplane_on_title">Wi-Fi i flymodus</string>
      <string name="wifi_on_time">Wi-Fi – aktivt i</string>
      <string name="wifi_other_network">Annet nettverk…</string>
      <string name="wifi_p2p_cancel_connect_message">Vil du avbryte invitasjonen til å koble til %1$s?</string>

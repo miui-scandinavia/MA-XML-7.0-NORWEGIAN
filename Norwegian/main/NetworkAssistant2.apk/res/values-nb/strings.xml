@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="add_to_whitelist_button">Håndter unntak</string>
@@ -416,7 +416,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_setting_open">På</string>
      <string name="traffic_setting_step_num">Innstillinger for dataabonnement</string>
      <string name="traffic_setting_update_template_falure">"Kan ikke kolble til nettverket"</string>
-     <string name="traffic_warning_purchase_title">Gjenstående balanse er mindre enn %d%%</string>
+     <string name="traffic_warning_purchase_title">Varsel om mobildataforbruk</string>
      <string name="usage_sorted_activity_lable">Databruk</string>
      <string name="usage_sorted_empty_text">Tom</string>
      <string name="usage_sorted_loading_text">Laster…</string>
