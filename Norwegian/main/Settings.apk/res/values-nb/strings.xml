@@ -2208,8 +2208,8 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_notification_icon">Vis varselikon</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
-     <string name="status_bar_settings_show_statusBar_notification">Vis på låseskjermen og statuslinje</string>
-     <string name="status_bar_settings_show_statusBar_notification_summary">Vis varsler på låseskjerm og i statuslinjeforhåndsvisning</string>
+     <string name="status_bar_settings_show_statusBar_notification">Vis flytende varsler</string>
+     <string name="status_bar_settings_show_statusBar_notification_summary">Vis flytende varsler på låseskjermen og omtrent overalt ellers</string>
      <string name="status_bar_settings_show_wifi_name">Vis Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Statuslinje</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Kollaps etter trykk</string>

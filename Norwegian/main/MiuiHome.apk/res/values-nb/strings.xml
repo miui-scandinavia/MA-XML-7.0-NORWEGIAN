@@ -227,7 +227,7 @@
      <string name="wallpaper_failed_message">"Kan ikke bruke bakgrunn"</string>
      <string name="wallpaper_scrolling">Alle</string>
      <string name="wallpaper_settings">Bakgrunn</string>
-     <string name="wallpaper_success_message">Bakgrunn ble brukt</string>
+     <string name="wallpaper_success_message">Bakgrunn brukt</string>
      <string name="widget_favorite_contacts_edit">administrer grupper</string>
      <string name="widget_favorite_contacts_label">Felles Kontakter</string>
      <string name="widget_favorite_contacts_style">Skift</string>

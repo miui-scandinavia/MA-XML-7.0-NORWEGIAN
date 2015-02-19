@@ -207,7 +207,7 @@
      <string name="manage_offline_media">Håndter nedlastinger</string>
      <string name="media_name_comment">%s kommentar</string>
      <string name="menu_item_disable_audio_enhance">Skru av lydforbedring</string>
-     <string name="menu_item_enable_audio_enhance">Skru på lydforbedring</string>
+     <string name="menu_item_enable_audio_enhance">Forbedre lyd</string>
      <string name="minute"> Minutt</string>
      <string name="mipush_setting">Varsler</string>
      <string name="month">Måned</string>

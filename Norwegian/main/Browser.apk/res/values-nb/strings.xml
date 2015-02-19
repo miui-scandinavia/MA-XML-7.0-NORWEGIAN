@@ -350,17 +350,17 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="menu_theme_setting">Temainnstillinger</string>
      <string name="miui_autologin_bar_error">"Kunne ikke logge inn, prøv igjen"</string>
      <string name="miui_autologin_bar_title">Bruk systemkonto for å logge inn</string>
-     <string name="miui_bookmark_action_bar_add_group_title">Add group</string>
-     <string name="miui_bookmark_action_bar_new_group_title">New group</string>
-     <string name="miui_bookmark_menu_add_group_txt">Add group</string>
-     <string name="miui_bookmark_menu_change_group_txt">Change group</string>
-     <string name="miui_bookmark_menu_delete_window_cancel_txt">Cancel</string>
-     <string name="miui_bookmark_menu_delete_window_delete_txt">Delete</string>
-     <string name="miui_bookmark_menu_edit_txt">Edit</string>
-     <string name="miui_bookmark_menu_moveout_group_txt">Move out</string>
+     <string name="miui_bookmark_action_bar_add_group_title">Legg til gruppe</string>
+     <string name="miui_bookmark_action_bar_new_group_title">Ny gruppe</string>
+     <string name="miui_bookmark_menu_add_group_txt">Legg til gruppe</string>
+     <string name="miui_bookmark_menu_change_group_txt">Endre gruppe</string>
+     <string name="miui_bookmark_menu_delete_window_cancel_txt">Avbryt</string>
+     <string name="miui_bookmark_menu_delete_window_delete_txt">Slett</string>
+     <string name="miui_bookmark_menu_edit_txt">Endre</string>
+     <string name="miui_bookmark_menu_moveout_group_txt">Flytt ut</string>
      <string name="miui_content_copy">Kopier</string>
      <string name="miui_content_cut">Klipp ut</string>
-     <string name="miui_content_open_url">OpenURL</string>
+     <string name="miui_content_open_url">Åpne URL</string>
      <string name="miui_content_paste">Lim inn</string>
      <string name="miui_content_select">Velg</string>
      <string name="miui_content_select_all">Velg alle</string>
@@ -726,7 +726,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="tab_history">Historikk</string>
      <string name="tab_hotpage">Trender</string>
      <string name="tab_most_visited">Mest besøkte</string>
-     <string name="tab_quicklinks">Hurtiglinker</string>
+     <string name="tab_quicklinks">Hjem</string>
      <string name="tab_snapshots">Lagrede sider</string>
      <string name="tab_videopage">Video</string>
      <string name="tab_yellowpage">Populære sider</string>
@@ -833,6 +833,6 @@ Vil du forlate denne siden?"</string>
      <string name="webview_older">Eldre</string>
      <string name="webview_today">I dag</string>
      <string name="webview_yesterday">I går</string>
-     <string name="webviewchromium_private_browsing_warning">Denne funksjonaliteten er ikke støttet i denne versjonen av Android.</string>
+     <string name="webviewchromium_private_browsing_warning">"Funksjonen er ikke støttet i denne versjonen av Android."</string>
      <string name="week_picker_dialog_title">Sett uke</string>
 </resources>
