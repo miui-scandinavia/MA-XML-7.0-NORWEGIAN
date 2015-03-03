@@ -44,24 +44,24 @@
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
-     <string name="add_account">Legg til konto</string>
+     <string name="add_account">Koble til konto</string>
      <string name="alert_title_remove_account">"Fjern konto?"</string>
      <string name="app_name">Mi-konto</string>
      <string name="authorize_title">Autorisasjon</string>
      <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
-     <string name="barcode_add_account_prompt">For å legge til en konto, scan QR-koden igjen etter du har logget inn.</string>
-     <string name="bind_facebook">Legg til din Facebook-konto</string>
+     <string name="barcode_add_account_prompt">For å koble til en konto, scan QR-koden igjen etter du har logget inn.</string>
+     <string name="bind_facebook">Koble til din Facebook-konto</string>
      <string name="bind_qq">QQ</string>
      <string name="bind_settings">Kontoer</string>
-     <string name="bind_sina_weibo">Legg til Sina Weibo konto</string>
+     <string name="bind_sina_weibo">Koble til Sina Weibo konto</string>
      <string name="bind_sns_description">Logg inn med %s.</string>
-     <string name="bind_weibo_description">Finn og synkroniser venner fra Sina Weibo.</string>
-     <string name="binded">Lagt til</string>
-     <string name="binded_description" formatted="false">%s har blitt lagt til din Mi-konto. Porfilen din har blitt oppdatert med informasjon fra din %s-konto.</string>
+     <string name="bind_weibo_description">Legg til dine venner fra Sina Weibo.</string>
+     <string name="binded">Tilkoblet</string>
+     <string name="binded_description" formatted="false">%s har blitt koblet til din Mi-konto. Porfilen din har blitt oppdatert med informasjon fra din %s-konto.</string>
      <string name="btn_activate">Aktiver</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
-     <string name="button_unbind">Fjern</string>
+     <string name="button_unbind">Koble fra</string>
      <string name="captcha">Skriv inn kode</string>
      <string name="change_account">&lt;u&gt;Bytt konto&lt;/u&gt;</string>
      <string name="change_password">Endre passord</string>
@@ -73,9 +73,9 @@
      <string name="cloud_messaging">Mi-Melding</string>
      <string name="cloud_service">Mi-Sky</string>
      <string name="cloud_service_dspt">Synk dine bilder, kontakter, notater, apper og mer på tvers av enheter.</string>
-     <string name="completed">Fullfør</string>
+     <string name="completed">Alt klart!</string>
      <string name="confirm">OK</string>
-     <string name="confirm_unbind">Fjern denne kontoen?</string>
+     <string name="confirm_unbind">Koble fra denne kontoen?</string>
      <string name="data_keep_in_device">Behold på denne enheten</string>
      <string name="data_wipe_from_device">Slett fra denne enheten</string>
      <string name="delete_device_btn">Remove</string>
@@ -85,7 +85,7 @@
      <string name="device_delete_success_message">"Hvis du ikke har logget på denne enheten, endre passordet ditt umiddelbart."</string>
      <string name="device_delete_success_title">Logget ut</string>
      <string name="device_list__header">Mine enheter</string>
-     <string name="device_list_title">Enhetsliste</string>
+     <string name="device_list_title">Mine enheter</string>
      <string name="device_trust_info">Betrodde enheter</string>
      <string name="dirty_contacts_count">%d kontakter</string>
      <string name="dirty_image_count">%d bilder</string>
@@ -217,7 +217,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="no_network_title">"Kan ikke koble til nettverket."</string>
      <string name="no_response_retry">Ingen svar, prøv på nytt.</string>
      <string name="no_sim_card">Ingen SIM-kort</string>
-     <string name="nobind">Logget ut</string>
+     <string name="nobind">Ikke tilkoblet</string>
      <string name="opening_page">Åpner…</string>
      <string name="other_devices">Andre enheter</string>
      <string name="passport_access_denied">Tilgang nektet</string>
@@ -421,8 +421,8 @@ To activate your account, follow the
      <string name="trust_device">Stol på denne enheten</string>
      <string name="unactivated_user">Nesten ferdig…</string>
      <string name="unbind">Logg ut</string>
-     <string name="unbind_sns_description">"Etter at du fjerner denne kontoen, kan du ikke bruke %s-kontoinformasjon for å logge på din Mi-konto."</string>
-     <string name="unbind_weibo_description">"Etter at du fjerner denne kontoen, kan du ikke synke din kontoer fra Weibo eller bruke din Sina Weibo-konto for å logge inn."</string>
+     <string name="unbind_sns_description">"Etter at du kobler fra denne kontoen, kan du ikke bruke %s-kontoinformasjon for å logge på din Mi-konto."</string>
+     <string name="unbind_weibo_description">"Etter at du kobler fra denne kontoen, kan du ikke synke din kontoer fra Weibo eller bruke din Sina Weibo-konto for å logge inn."</string>
      <string name="update_contacts">Oppdater adressebok</string>
      <string name="update_contacts_description">"Lar Sina Weibo bruke din Mi-konto for å synkronisere kontakter på tvers av enheter."</string>
      <string name="updated_contacts">Oppdaterte %s kontakter</string>

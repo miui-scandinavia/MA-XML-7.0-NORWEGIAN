@@ -608,7 +608,7 @@ venner."</string>
      <string name="facetan">Ansiktsfarge</string>
      <string name="fail_hint">Operasjon feilet.</string>
      <string name="fail_init_gallery_db_helper">Galleri lukket pga database innlastningsfeil; disken kan være full.</string>
-     <string name="fail_to_download_n_items">Kunne ikke laste ned %s</string>
+     <string name="fail_to_download_n_items">"Kunne ikke laste ned %s"</string>
      <string name="fail_to_pick_email">Ingen gyldige e-poster valgt</string>
      <string name="fail_to_sync_album">Klarte ikke å synkronisere albumet til server. Vennligst sjekk nettverkstilkoblingen!</string>
      <string name="file_not_exist_message">Fil eksisterer ikke.</string>

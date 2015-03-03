@@ -87,7 +87,7 @@
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="empty_page_no_album">Ingen album.</string>
      <string name="empty_page_no_artist">Ingen artister.</string>
-     <string name="empty_page_no_document">Ingen dokumenter inneholderl yd.</string>
+     <string name="empty_page_no_document">Ingen lydfiler.</string>
      <string name="empty_page_no_track">Ingen sanger.</string>
      <string name="enabled">Aktivert</string>
      <string name="eq_auto">Egendefinert</string>
@@ -126,15 +126,15 @@
      <string name="filter_by_duration_format">%2$dm %5$2ds</string>
      <string name="filter_by_duration_max">5 min</string>
      <string name="filter_by_duration_min">0 sek</string>
-     <string name="filter_by_duration_prefix">"Minimum lengde: "</string>
-     <string name="filter_by_duration_summary">"Ikke vis korte lydfiler"</string>
+     <string name="filter_by_duration_prefix">"Skjul filer kortere enn "</string>
+     <string name="filter_by_duration_summary">"Skjul korte lydfiler"</string>
      <string name="filter_by_folder">Etter mappe</string>
      <string name="filter_by_folder_summary">Velg mapper å vise</string>
      <string name="filter_by_size">Etter størrelse</string>
      <string name="filter_by_size_max">2MB</string>
      <string name="filter_by_size_min">0KB</string>
-     <string name="filter_by_size_prefix">Etter størrelse</string>
-     <string name="filter_by_size_summary">"Ikke vis små lydfiler"</string>
+     <string name="filter_by_size_prefix">"Skjul filer mindre enn "</string>
+     <string name="filter_by_size_summary">"Skjul små lydfiler"</string>
      <string name="find_music">Oppdag sanger</string>
      <string name="format_not_support">"Dette formatet er ikke støttet."</string>
      <string name="format_unsupported">"Dette formatet er ikke støttet."</string>
@@ -163,9 +163,9 @@
      <string name="list_item_play_all_tracks">Trykk for å spille alle sanger</string>
      <string name="listview_index_of_total">%1$d/%2$d</string>
      <string name="loading_hint">Laster</string>
-     <string name="local_music">Lokal musikk</string>
+     <string name="local_music">Offline</string>
      <string name="local_music_is_not_available">"Lokal musikk er ikke tilgjengelig"</string>
-     <string name="local_tracks_short">Lokal musikk</string>
+     <string name="local_tracks_short">Offline</string>
      <string name="login_first">Du må logge inn på din Xiaomi-konto først</string>
      <string name="lrc_search_failed">Sangtekster ikke funnet!</string>
      <string name="lrc_searching">Søker…</string>
@@ -190,7 +190,7 @@
      <string name="music_settings">Innstillinger</string>
      <string name="my_account">Mi-konto</string>
      <string name="my_music">Min musikk</string>
-     <string name="my_music_empty">Spillelisten er tom</string>
+     <string name="my_music_empty">Spillelisten er tom.</string>
      <string name="my_music_empty_goto_online">Ingen sanger funnet</string>
      <string name="my_playlist">Min spilleliste</string>
      <string name="network_error">"Kunne ikke koble til nettverket"</string>
@@ -213,7 +213,7 @@
      <string name="not_selected">Vennligst velg en sang</string>
      <string name="nowplaying_menu_item_delete">Slett</string>
      <string name="ok">OK</string>
-     <string name="online_music">Online</string>
+     <string name="online_music">Oppdag</string>
      <string name="online_playlist_is_empty">Spillelisten er tom</string>
      <string name="order_process_fail">"Kunne ikke autorisere kontoen din. Vent noen minutter og prøv igjen."</string>
      <string name="payment_fail">Betaling feilet!</string>
@@ -248,7 +248,7 @@
      <string name="select_local_album">Velg album</string>
      <string name="select_local_lyric">Velg sangtekst</string>
      <string name="select_lyric">Velg sangtekst</string>
-     <string name="send_to">Send til</string>
+     <string name="send_to">Del</string>
      <string name="send_to_title">Send til (%1$s)</string>
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
