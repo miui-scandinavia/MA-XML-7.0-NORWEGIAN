@@ -661,7 +661,6 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="voicemail_default">Min teleoperatør</string>
      <string name="voicemail_notification_ringtone_title">Lyd</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrer</string>
-     <string name="voicemail_notification_vibrate_when_default">aldri</string>
      <string name="voicemail_notification_vibrate_when_title">Vibrering</string>
      <string name="voicemail_number_not_set">&lt;Ikke angitt&gt;</string>
      <string name="voicemail_provider">Tjeneste</string>
