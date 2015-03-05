@@ -156,14 +156,6 @@
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
-     <string name="config_export_dir">/mnt/sdcard</string>
-     <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
-     <string name="config_export_file_prefix" />
-     <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">standard</string>
-     <string name="config_import_vcard_type">standard</string>
-     <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">"Slett anropshistorikk?"</string>
      <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropshistorikk</string>
      <string name="confirm_delete_sim_entry_miui">Bekreft sletting av %d valgte kontakter på SIM-kortet?</string>
