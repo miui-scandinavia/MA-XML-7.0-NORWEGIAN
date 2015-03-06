@@ -63,7 +63,7 @@
      <string name="button_cancel">Avbryt</string>
      <string name="button_unbind">Koble fra</string>
      <string name="captcha">Skriv inn kode</string>
-     <string name="change_account">&lt;u&gt;Bytt konto&lt;/u&gt;</string>
+     <string name="change_account"><u>Bytt konto</u></string>
      <string name="change_password">Endre passord</string>
      <string name="check_phone_error_title">"Kunne ikke slå på synkronisering"</string>
      <string name="check_phone_io_error">Nettverksfeil</string>
@@ -116,7 +116,7 @@
      <string name="failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="find_device_dspt">Lås eller fjern innhold fra denne enheten eksternt</string>
      <string name="find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
-     <string name="forget_password">&lt;u&gt;Glemt passord&lt;/u&gt;</string>
+     <string name="forget_password"><u>Glemt passord</u></string>
      <string name="get_back_pwd">Hent kontopassord</string>
      <string name="get_device_list_failed">"Kan ikke hente enhter"</string>
      <string name="get_verify_code">Motta kode</string>
@@ -142,7 +142,7 @@
      <string name="login_notice">Logger inn…</string>
      <string name="login_step2_title">2-trinns-verifikasjon</string>
      <string name="login_title">Logg inn på din Mi-konto</string>
-     <string name="login_with_email_or_id">&lt;u&gt;Logg inn med annen konto&lt;/u&gt;</string>
+     <string name="login_with_email_or_id"><u>Logg inn med annen konto</u></string>
      <string name="logout_failed">"Kan ikke logge ut"</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester fra hvor som helst.</string>
      <string name="mi_service">Støtte</string>
@@ -207,8 +207,8 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="micloud_user_space_title">Lagringsplass</string>
      <string name="micloud_via_int_sms_alert">Kostnader for internasjonal SMS kan tilkomme fra din teleoperatør ved sending av aktiveringsmelding.</string>
      <string name="micloud_via_sms_alert">Aktivering-SMS har samme kostnad som en vanlig SMS hos din teleoperatør.</string>
-     <string name="micloud_welcome_skip_login">&lt;u&gt;Hopp over dette steget&lt;/u&gt;</string>
-     <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Hopp over&lt;/u&gt;</string>
+     <string name="micloud_welcome_skip_login"><u>Hopp over dette steget</u></string>
+     <string name="micloud_welcome_skip_login_provision"><u>Hopp over</u></string>
      <string name="mili_center">Mi-kreditt</string>
      <string name="mipay_center">Bank-kort</string>
      <string name="my_device_title">Gjeldende enhet</string>
@@ -231,17 +231,17 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="passport_area_code_hot">Ofte brukt</string>
      <string name="passport_area_code_title">Landekode</string>
      <string name="passport_bad_authentication">Ugyldig brukernavn eller passord</string>
-     <string name="passport_btn_return">Back</string>
-     <string name="passport_button_cancel">Cancel</string>
-     <string name="passport_captcha">Enter code</string>
-     <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
-     <string name="passport_checking_account">Checking password…</string>
-     <string name="passport_checking_input">Checking input…</string>
-     <string name="passport_choose_which_one_sim">Choose a phone number</string>
+     <string name="passport_btn_return">Tilbake</string>
+     <string name="passport_button_cancel">Avbryt</string>
+     <string name="passport_captcha">Skriv kode</string>
+     <string name="passport_change_account"><u>Endre konto</u></string>
+     <string name="passport_checking_account">Sjekker passord…</string>
+     <string name="passport_checking_input">Sjekker inndata…</string>
+     <string name="passport_choose_which_one_sim">Velg et telefonnummer</string>
      <string name="passport_click_email_to_valid">"
 
-To activate your account, follow the 
- link in the message we've sent to your inbox."</string>
+For å aktivere din konto, følg 
+ linken i meldingen vi har sendt til din innboks."</string>
      <string name="passport_completed">Fullført</string>
      <string name="passport_confirm">Bekreft</string>
      <string name="passport_delete_account">Logg ut</string>
@@ -275,7 +275,7 @@ To activate your account, follow the
      <string name="passport_error_verify_code">Koden du skrev inn er ikke gyldig</string>
      <string name="passport_failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="passport_find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
-     <string name="passport_forget_password">&lt;u&gt;Glemt passord&lt;/u&gt;</string>
+     <string name="passport_forget_password"><u>Glemt passord</u></string>
      <string name="passport_get_back_pwd">Hent kontopassord</string>
      <string name="passport_get_verify_code">Hent kode</string>
      <string name="passport_getting_verify_code">Henter</string>
@@ -292,15 +292,15 @@ To activate your account, follow the
      <string name="passport_login_instead_reg_with_email">Bruk denne eposten</string>
      <string name="passport_login_notice">Logger inn…</string>
      <string name="passport_login_title">Logg inn til din Mi-konto</string>
-     <string name="passport_login_with_email_or_id">&lt;u&gt;Logg inn med e-post-adresse eller Mi-konto ID&lt;/u&gt;</string>
+     <string name="passport_login_with_email_or_id"><u>Logg inn med e-post-adresse eller Mi-konto ID</u></string>
      <string name="passport_next">Neste</string>
      <string name="passport_notification_title">Innloggingsfeil for %1$s</string>
-     <string name="passport_password">Skrivv passordet ditt</string>
+     <string name="passport_password">Skriv passordet ditt</string>
      <string name="passport_password_req_notice">Passordet må være minst 8-16 tegn og inneholde både tall og bokstaver (skill mellom store og små bokstaver).</string>
      <string name="passport_phone_num_hint_text">Telefonnummer</string>
      <string name="passport_prev">Tilbake</string>
      <string name="passport_privacy_policy">Personvernspolitikk</string>
-     <string name="passport_provision_skip_login">&lt;u&gt;Skip&lt;/u&gt;</string>
+     <string name="passport_provision_skip_login"><u>Hopp over</u></string>
      <string name="passport_quick_login_dialog_step2_title">2-trinn verifikasjon</string>
      <string name="passport_quick_login_dialog_title">Verifiser passord</string>
      <string name="passport_quick_login_step2_title">2-trinn verifikasjon</string>
@@ -313,7 +313,7 @@ To activate your account, follow the
      <string name="passport_reg_success">Konto opprettet</string>
      <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
      <string name="passport_reg_type_email">Opprett konto ved hjelp av e-post</string>
-     <string name="passport_reg_type_other_ways">&lt;u&gt;Opprett konto med annen methode&lt;/u&gt;</string>
+     <string name="passport_reg_type_other_ways"><u>Opprett konto med annen methode</u></string>
      <string name="passport_reg_type_other_ways_title">Opprett konto med annen metode</string>
      <string name="passport_reg_using_other_phone">Opprett ved hjelp av annet telefonnummer</string>
      <string name="passport_reg_using_other_phone_number_prompt">Opprett ved hjelp av annet telefonnummer</string>
@@ -323,7 +323,7 @@ To activate your account, follow the
      <string name="passport_register">Opprett en konto</string>
      <string name="passport_register_account_goto_email">Gå til din innboks</string>
      <string name="passport_register_account_verified_confirm">"Du har allerede verifisert kontoen din"</string>
-     <string name="passport_register_by_email">&lt;u&gt;Opprett en konto med en e-post-adresse&lt;/u&gt;</string>
+     <string name="passport_register_by_email"><u>Opprett en konto med en e-post-adresse</u></string>
      <string name="passport_relogin">Logg inn igjen</string>
      <string name="passport_relogin_notice">Du må logge inn igjen</string>
      <string name="passport_remove_confirm">Logg ut</string>
@@ -346,7 +346,7 @@ To activate your account, follow the
      <string name="passport_vcode_prompt_long">Skriv verifiseringskoden generert av din Mi-sikkerhetspollett</string>
      <string name="passport_verification_failed">Autentisering mislyktes</string>
      <string name="passport_verify">Verifiser</string>
-     <string name="passport_welcome_skip_login">&lt;u&gt;Hopp over dette steget&lt;/u&gt;</string>
+     <string name="passport_welcome_skip_login"><u>Hopp over dette steget</u></string>
      <string name="passport_wrong_captcha">Koden du skrev er feil</string>
      <string name="passport_wrong_phone_number_format">Formatet på telefonnummeret du skrev er ugyldig</string>
      <string name="passport_wrong_vcode">Koden du skrev er feil</string>
@@ -378,8 +378,8 @@ To activate your account, follow the
      <string name="reg_success">Konto opprettet</string>
      <string name="reg_success_summary">%1$s er lagt til din konto. Du kan bruke det til å logge inn eller tilbakestille passordet.</string>
      <string name="reg_type_email">Min e-post-adresse</string>
-     <string name="reg_type_other_ways">&lt;u&gt;Bruk en annen metode for å opprette konto&lt;/u&gt;</string>
-     <string name="reg_type_other_ways_title">Oprett Mi-konto ved hjelp av</string>
+     <string name="reg_type_other_ways"><u>Bruk en annen metode for å opprette konto</u></string>
+     <string name="reg_type_other_ways_title">Opprett Mi-konto ved hjelp av</string>
      <string name="reg_type_phone">Opprett konto ved hjelp av et telefonnummer</string>
      <string name="reg_using_other_phone">"Telefonnummeret til en annen enhet</string>
      <string name="reg_using_other_phone_number_prompt">"Telefonnummeret til en annen enhet"</string>
@@ -389,7 +389,7 @@ To activate your account, follow the
      <string name="register">Opprett Mi-konto</string>
      <string name="register_account_goto_email">Gå til innboksen</string>
      <string name="register_account_verified_confirm">"Du har allerede bekreftet kontoen"</string>
-     <string name="register_by_email">&lt;u&gt;Bruk annen metode for å opprette konto&lt;/u&gt;</string>
+     <string name="register_by_email"><u>Bruk annen metode for å opprette konto</u></string>
      <string name="relogin">Logg inn igjen</string>
      <string name="relogin_notice">Du må logge inn igjen</string>
      <string name="remove_account_notice">Hva vil du gjøre med meldinger, kontakter, musikk og notater på denne enheten som er synkronisert fra Mi-kontoen?</string>
@@ -407,7 +407,7 @@ To activate your account, follow the
      <string name="sim_index_info">SIM-kort %1$d - %2$s</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="skip_login">Hopp over innlogging</string>
-     <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>
+     <string name="skip_login_u"><u>Hopp over innlogging</u></string>
      <string name="skip_register">Hopp over registrering</string>
      <string name="skip_setup_account_msg">Du kan legge til en Mi-konto i innstillingene senere.</string>
      <string name="skip_setup_account_title">Hopp over oppsettingen</string>
