@@ -10,7 +10,7 @@
      <string name="account_bind_settings">Koble til konto</string>
      <string name="account_crop_user_avatar">Beskjør bilde</string>
      <string name="account_dspt">Bruk din Mi-konto får å logge inn til Mi Cloud, MIUI-temabutikk, og andre Mi-tjenester, fra hvorsomhelst.</string>
-     <string name="account_dspt_provision" />
+     <string name="account_dspt_provision">"Logg inn til Mi Cloud, MIUI temabutikk, og andre Mi-tjenester, fra hvor som helst. "</string>
      <string name="account_dspt_provision2">Lær mer</string>
      <string name="account_empty_user_name">Skriv ditt Mi-konto brukernavn</string>
      <string name="account_error_longer_user_name">"Navn kan ikke overskride 20 tegn"</string>
@@ -48,7 +48,7 @@
      <string name="alert_title_remove_account">"Fjern konto?"</string>
      <string name="app_name">Mi-konto</string>
      <string name="authorize_title">Autorisasjon</string>
-     <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
+     <string name="bad_authentication">Ugyldig konto eller passord</string>
      <string name="barcode_add_account_prompt">For å koble til en konto, scan QR-koden igjen etter du har logget inn.</string>
      <string name="bind_facebook">Koble til din Facebook-konto</string>
      <string name="bind_qq">QQ</string>
@@ -146,6 +146,7 @@
      <string name="logout_failed">"Kan ikke logge ut"</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester fra hvor som helst.</string>
      <string name="mi_service">Støtte</string>
+     <string name="mi_support_service">Støtte</string>
      <string name="mibi_balance">%s Mi Kreditter</string>
      <string name="micloud_account">Mi-konto</string>
      <string name="micloud_account_details">Kontodetaljer</string>
@@ -343,7 +344,7 @@ For å aktivere din konto, følg
      <string name="passport_user_agreement_p4">Personvernspolitikk</string>
      <string name="passport_vcode">Verifiseringskode</string>
      <string name="passport_vcode_notification_title">Innloggingsverifikasjonen er ikke fullført</string>
-     <string name="passport_vcode_prompt_long">Skriv verifiseringskoden generert av din Mi-sikkerhetspollett</string>
+     <string name="passport_vcode_prompt_long">Skriv verifiseringskode</string>
      <string name="passport_verification_failed">Autentisering mislyktes</string>
      <string name="passport_verify">Verifiser</string>
      <string name="passport_welcome_skip_login"><u>Hopp over dette steget</u></string>
@@ -435,9 +436,11 @@ For å aktivere din konto, følg
      <string name="user_agreement_p4">retningslinjer for personvern</string>
      <string name="user_agreement_p5">"Ved å opprette en konto godtar du"</string>
      <string name="user_agreement_p6">Godta </string>
+     <string name="user_avatar_update_title">Oppdater profilbilde</string>
+     <string name="user_avatar_uploading">Laster opp…</string>
      <string name="vcode">Verifikasjonskode</string>
      <string name="vcode_notification_title">Verifikasjon er ikke fullført</string>
-     <string name="vcode_prompt_long">Skriv inn verifikasjonskoden generert av Mi-sikkerhet</string>
+     <string name="vcode_prompt_long">Skriv inn verifikasjonskode</string>
      <string name="verification_failed">Autentifisering feilet</string>
      <string name="verify">Bekreft</string>
      <string name="wipe_data_dialog_msg">%s vil bli slettet om du fortsetter.</string>

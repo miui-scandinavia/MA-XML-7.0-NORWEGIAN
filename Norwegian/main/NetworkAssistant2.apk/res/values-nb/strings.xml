@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="add_to_whitelist_button">Håndter hviteliste</string>
@@ -108,6 +108,10 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="input_used_hint">Skriv databruk</string>
      <string name="input_used_max_hint">Skriv databruk(mindre enn %s)</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 0
+	%d: 0 Original: 1 -->
+     <!-- Original string: %d apps can use mobile data when roaming internationally -->
      <string name="international_roaming_whitelist_count">Bruk mobildata når du roamer internasjonalt</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
@@ -216,6 +220,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_free_traffic_exceed_limit">Gi meg et varsel når databruket når grensen</string>
      <string name="pref_free_traffic_limit_warn">Advarsel for minimum databruk</string>
      <string name="pref_free_traffic_settings">Innstillinger for minimum databruk</string>
+     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
      <string name="pref_leisure_no_overlay">På</string>
      <string name="pref_leisure_not_opened">Av</string>
      <string name="pref_manual_adjust">Sett databrukstatistikk manuellt</string>

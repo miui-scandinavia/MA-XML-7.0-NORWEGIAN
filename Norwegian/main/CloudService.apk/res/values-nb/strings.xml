@@ -12,7 +12,7 @@
      <string name="apple_cloud">Apple skytjeneste</string>
      <string name="apple_cloud_eng">iCloud</string>
      <string name="apple_cloud_price">Rundt RMB 72 i året</string>
-     <string name="bad_authentication">Ugyldig brukernavn eller passord</string>
+     <string name="bad_authentication">Ugyldig konto eller passord</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
      <string name="buy_space_expire">Kjøpt plass vil utløpe den %s</string>
@@ -38,7 +38,7 @@
      <string name="enableAll">Synk alle</string>
      <string name="enable_cloud_service_notification">Du må aktivere Mi Cloud</string>
      <string name="enable_find_device_error">"Kan ikke skru på Finn enhet. %1$s"</string>
-     <string name="enable_micloud">Logg inn eller opprett en konto</string>
+     <string name="enable_micloud">Bruk Mi Cloud</string>
      <string name="enable_sync">Skru på</string>
      <string name="enable_sync_dspt">Synk er av</string>
      <string name="error_data_in_transfer">Dine data blir overført. Vennligst vent %s timer.</string>
@@ -62,7 +62,7 @@
      <string name="find_device_dspt_provision_4">Hvis du bytter SIM-kort, vil en SMS-melding bli sendt automatisk for å reaktivere denne funksjonen.</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
-     <string name="find_device_error_server">Noe gikk feil på serverne våre.</string>
+     <string name="find_device_error_server">Serverfeil.</string>
      <string name="find_device_noise_title">Finn enhetslyd</string>
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
@@ -123,7 +123,7 @@ Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt
 
 For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
-     <string name="micloud_main_data_unsynced">%d elementer venter på synk</string>
+     <string name="micloud_main_data_unsynced">%d venter på synk</string>
      <string name="micloud_main_detail">Vis detaljer</string>
      <string name="micloud_main_last_sync_time">Sist synket: %s</string>
      <string name="micloud_main_network_abnormal">"Kan ikke koble til nettverket"</string>
@@ -141,7 +141,8 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_synced_data_count">%d elementer synket</string>
      <string name="micloud_main_syncing">Synker…</string>
      <string name="micloud_main_update_space">Hent mer lagringsplass.</string>
-     <string name="micloud_main_wlan_sync_data_count">%d elementer venter på synk over Wi-Fi</string>
+     <string name="micloud_main_wlan_sync_data_count">%d elementer venter på synk
+ over Wi-Fi</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
@@ -161,7 +162,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_title_dspt" formatted="false">"Total plass %s
 brukt %s | gjenværende %s"</string>
      <string name="micloud_title_dspt_remain">%s igjen</string>
-     <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense!"</string>
+     <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense"</string>
      <string name="micloud_unlogin_for_time_summary" />
      <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
      <string name="micloud_upgrade_space">Hent mer lagringsplass</string>

@@ -46,7 +46,7 @@
      <string name="gift_operation_fail_dlg_abandon">Avbryt</string>
      <string name="gift_operation_fail_dlg_retry">Prøv igjen</string>
      <string name="gift_operation_waiting">Bare et sekund…</string>
-     <string name="gift_owned">Lokal</string>
+     <string name="gift_owned">Kjøpt</string>
      <string name="gift_present">Gi</string>
      <string name="gift_present_dlg_anonymous">Anonyme gaver</string>
      <string name="gift_present_dlg_input_hint">Mi-konto ID/Telefon</string>
@@ -63,7 +63,7 @@
      <string name="gift_purchase_success_dlg_content">Du har kjøpt %1$s som gave. For å sende den, gå til din Temakonto-side.</string>
      <string name="gift_purchase_success_dlg_title">Gave kjøpt</string>
      <string name="gift_purchased_endnote">Til: %1$s</string>
-     <string name="gift_purchased_list_empty">"Du har ikke gitt noen gaver. :("</string>
+     <string name="gift_purchased_list_empty">"Du har ikke gitt noen gaver."</string>
      <string name="gift_purchased_list_empty_with_received_list_empty">Ingen gaver.</string>
      <string name="gift_received_endnote">Fra: %1$s (mottatt %2$s)</string>
      <string name="gift_received_list_empty">"Du har ikke mottatt noen gaver."</string>
@@ -184,7 +184,7 @@
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">Kode kunne ikke bli validert. Vennligst sjekk koden din og prøv igjen.</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_failed_to_load_list">"Kan ikke laste liste"</string>
+     <string name="resource_failed_to_load_list">"Kan ikke laste temaer"</string>
      <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">10 enheter har allerede blitt autoorisert på denne enheten</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjendelsesgrense nådd!</string>
@@ -227,7 +227,7 @@
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
-     <string name="resource_search_list_empty">"Fant ingenting"</string>
+     <string name="resource_search_list_empty">"Fant ingenting."</string>
      <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>

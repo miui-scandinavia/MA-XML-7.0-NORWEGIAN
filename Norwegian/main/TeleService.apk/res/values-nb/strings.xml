@@ -352,6 +352,10 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="ims_menu_save">Lagre</string>
      <string name="ims_service_capability">Aktiver/deaktiver tjenesteevne</string>
      <string name="ims_service_capability_title">Aktiver/deaktiver IMS-tjenesteevne</string>
+     <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
+     <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
+     <string name="incall_default_package">com.android.incallui</string>
+     <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
      <string name="incall_error_no_active_sim">"SIM-kortet har ikke blitt aktivert"</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="altitude">%.1f</string>
      <string name="altitude_title">Høyde</string>
      <string name="altitude_unit">m</string>
      <string name="app_label">Kompass</string>
@@ -37,6 +38,7 @@
      <string name="menu_calibrate">Kalibrer</string>
      <string name="mobiledata_alert_dialog_message">Koble til internett for å kalibrere høyde?</string>
      <string name="mobiledata_alert_dialog_title">Advarsel om databruk</string>
+     <string name="pressure">%.1f</string>
      <string name="pressure_title">Trykk</string>
      <string name="pressure_unit">hPa</string>
      <string name="shake_enter_tip">Rist for å kalibrere</string>

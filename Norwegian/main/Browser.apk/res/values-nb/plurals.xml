@@ -14,7 +14,7 @@
         <item quantity="one">I går</item>
      </plurals>
      <plurals name="matches_found">
-        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="other">%1$d av %2$d</item>
         <item quantity="one">1 matcher</item>
      </plurals>
      <plurals name="suggest_access_item_album_songs">

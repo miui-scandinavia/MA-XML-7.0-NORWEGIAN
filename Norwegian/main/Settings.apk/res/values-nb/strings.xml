@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="about_settings">Om enheten</string>
@@ -2699,6 +2699,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_context_menu_change_wapi_certificate">Endre WAPI-sertifikat</string>
      <string name="wifi_context_menu_connect">Koble til</string>
      <string name="wifi_context_menu_forget">Glem</string>
+     <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
      <string name="wifi_disabled_generic">Deaktivert</string>
      <string name="wifi_disabled_help">Wi-Fi ble frakoblet på grunn av dårlig forbindelse</string>
      <string name="wifi_disabled_network_failure">Unngikk dårlig internettforbindelse</string>

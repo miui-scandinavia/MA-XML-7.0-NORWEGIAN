@@ -156,6 +156,14 @@
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
+     <string name="config_export_dir">/mnt/sdcard</string>
+     <string name="config_export_extensions_to_consider" />
+     <string name="config_export_file_extension">vcf</string>
+     <string name="config_export_file_prefix" />
+     <string name="config_export_file_suffix" />
+     <string name="config_export_vcard_type">v30_generic</string>
+     <string name="config_import_vcard_type">default</string>
+     <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">"Slett anropshistorikk?"</string>
      <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropshistorikk</string>
      <string name="confirm_delete_sim_entry_miui">Bekreft sletting av %d valgte kontakter på SIM-kortet?</string>
@@ -832,6 +840,10 @@ for å legge til kontakt til favoritter:
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
      <string name="resource_download_notification_content">Klikk for å vise</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: %1$s themes downloaded -->
      <string name="resource_download_notification_title_many">$1$s temaer lastet ned!</string>
      <string name="resource_download_notification_title_one">Tema nedlastet!</string>
      <string name="resource_download_trial">Gratis prøve</string>
@@ -856,7 +868,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">"Gavekoden kune ikke bli verifisert. Vær sikker på at du har skrevet den korrekt."</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_failed_to_load_list">"Kan ikke laste liste"</string>
+     <string name="resource_failed_to_load_list">"Kan ikke laste temaer."</string>
      <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">10 enheter har allerede blitt autorisert på denne kontoen</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>
@@ -899,7 +911,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
-     <string name="resource_search_list_empty">"Fant ingenting"</string>
+     <string name="resource_search_list_empty">"Fant ingenting."</string>
      <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
@@ -1140,6 +1152,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="yellowpage_navigation_network_location_not_enabled_title">Plasseringstilgang</string>
      <string name="yellowpage_navigation_no_content">Ingen søkeresultater</string>
      <string name="yellowpage_navigation_search_city_name_hint">Søk med by</string>
+     <string name="yellowpage_navigation_search_history">Historikk</string>
      <string name="yellowpage_navigation_search_offline_hint">Nettverk utilgjengelig</string>
      <string name="yellowpage_navigation_search_result_average_price">Gjennomsnittlig %d RMB</string>
      <string name="yellowpage_navigation_search_result_network_error">"Kan ikke kolble til nettverket"</string>

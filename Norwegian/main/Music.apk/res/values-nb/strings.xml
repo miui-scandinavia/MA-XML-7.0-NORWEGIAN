@@ -20,7 +20,7 @@
      <string name="artist_search_title">Artist</string>
      <string name="artist_view">Artist</string>
      <string name="audio_picker_title">Velg en sang</string>
-     <string name="auto_download_in_wifi">Favorittsanger kan bli lastet ned automatisk over Wi-Fi</string>
+     <string name="auto_download_in_wifi">Last ned favorittsanger over Wi-Fi</string>
      <string name="available_playlist_name_format">Ny spilleliste %d</string>
      <string name="avoid_to_use_traffic_summary">"Ikke bruk mobilt nettverk for å strømme musikk"</string>
      <string name="avoid_to_use_traffic_title">Bruk bare Wi-Fi for å strømme musikk</string>
@@ -36,6 +36,7 @@
      <string name="choose_stream_quality">Velg strømmekvalitetet</string>
      <string name="click_modify">Trykk for å endre sangtekst</string>
      <string name="click_to_shuffle">Trykk for å blande spilleliste</string>
+     <string name="click_to_view_new_local_audios">Trykk for å vise detaljer.</string>
      <string name="close_music_time">"Minutter: "</string>
      <string name="create_playlist">Lag spilleliste</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
@@ -59,6 +60,7 @@
      <string name="dialog_title_name_playlist">Navn på spilleliste</string>
      <string name="dialog_title_remove_tracks">Fjern</string>
      <string name="dialog_title_track_picker">Valg sanger</string>
+     <string name="disallow_add_to_personal_radio">Personlig radio er kun lesbar</string>
      <string name="done">Ferdig</string>
      <string name="download">Hent</string>
      <string name="download_auto_after_favorite_summary">"Automatisk last ned sangene du har som favoritt"</string>
@@ -143,6 +145,7 @@
      <string name="fragment_title_artist_album">ALBUM</string>
      <string name="fragment_title_bill">SPILLELISTER</string>
      <string name="fragment_title_channel">FM</string>
+     <string name="fragment_title_personal">PERSONLIG</string>
      <string name="fragment_title_recommend">UTVALGTE</string>
      <string name="function_error">"Dette er flaut! Denne funksjonen er ennå ikke lansert (vi jobber med det)."</string>
      <string name="headset_settings">Hodetelefoner og lydeffekter</string>
@@ -152,6 +155,8 @@
      <string name="i_know">OK</string>
      <string name="impunity_declaration">"Nettinnholdet er levert av Baidu Online Musikk-tjeneste. Ved å bruke denne tjenesten, godtar du Baidu sine "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Tjenestevilkår&lt;/a&gt;.</string>
      <string name="impunity_declaration_ignore">Ignorer</string>
+     <string name="impunity_declaration_negative_text">Avslutt</string>
+     <string name="impunity_declaration_positive_text">OK og fortsett</string>
      <string name="impunity_declaration_settings">Vis tjenestevilkår</string>
      <string name="impunity_declaration_summary">Vis tjenestevilkår-popup for Baidu Onlime Musikk-tjeneste hvre gang Musikk-appen åpnes</string>
      <string name="impunity_declaration_title">Deklarasjon</string>
@@ -187,7 +192,7 @@
      <string name="music_browser_label">Musikk</string>
      <string name="music_filter">Filtrer lydfiler</string>
      <string name="music_quality">Musikk-kvalitet</string>
-     <string name="music_settings">Innstillinger</string>
+     <string name="music_settings">Musikk</string>
      <string name="my_account">Mi-konto</string>
      <string name="my_music">Min musikk</string>
      <string name="my_music_empty">Spillelisten er tom.</string>
@@ -198,6 +203,7 @@
      <string name="network_traffic">Databruk</string>
      <string name="no_album_info">Ingen album info</string>
      <string name="no_artist_info">Ingen artist info</string>
+     <string name="no_enough_info">Ikke nok sanginfo</string>
      <string name="no_favorites_songs">Tom</string>
      <string name="no_file_picker_find">Filhåndterer er ikke installert på denne telefonen</string>
      <string name="no_introduction">Ingen sammendrag.</string>
@@ -250,6 +256,7 @@
      <string name="select_lyric">Velg sangtekst</string>
      <string name="send_to">Del</string>
      <string name="send_to_title">Send til (%1$s)</string>
+     <string name="server_error">Server error. Please try again later</string>
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
      <string name="set_id3_failed">"Kan ikke lagre info"</string>
@@ -260,7 +267,7 @@
      <string name="similar_songs">Lignende sanger</string>
      <string name="sleep_mode">Sovetimer</string>
      <string name="sleep_mode_canceled">Sovemodus skrudd av</string>
-     <string name="sleep_mode_summary">Bruk skyveknappen under for å sette en tid</string>
+     <string name="sleep_mode_summary">Stopp spiller etter en bestemt tid</string>
      <string name="sleep_mode_title">Stopp spiller etter passert tid</string>
      <string name="song_name">Sang</string>
      <string name="song_not_find">"Kunne ikke finne sang. Sjekk nettverkstilkoblingen og prøv igjen"</string>
@@ -268,6 +275,7 @@
      <string name="start_to_play">Spill av</string>
      <string name="stream_quality">Strømmekvalitet</string>
      <string name="streamloadingtext">Kobler til %s</string>
+     <string name="suggest_text">Folk som likte dette, likte også</string>
      <string name="support_online_only">Bare strømming</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist_list">Artister</string>
@@ -275,6 +283,7 @@
      <string name="tab_local_track_list">Sanger</string>
      <string name="tab_track_list">Sanger</string>
      <string name="take_effect_afater_restart">Du må restarte appen for at denne innstillingen skal trå i kraft.</string>
+     <string name="today_update">Musikk oppdatert</string>
      <string name="track_list_control_download">Last ned</string>
      <string name="track_list_control_edit_add_tracks">Leg til sanger</string>
      <string name="track_list_control_edit_delete_playlist">Slett</string>

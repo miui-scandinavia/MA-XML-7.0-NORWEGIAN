@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="ApplicationIconMore99">99+</string>
@@ -94,6 +94,7 @@
      <string name="account_setup_check_settings_check_outgoing_msg">Kontrollerer utgående serverinnstillinger…</string>
      <string name="account_setup_check_settings_retr_info_msg">Henter kontoinformation…</string>
      <string name="account_setup_creating_account_msg">Oppretter konto…</string>
+     <string name="account_setup_deleting_account_msg">Deleting account…</string>
      <string name="account_setup_exchange_certificate_title">Klient sertifikat</string>
      <string name="account_setup_exchange_device_id_label">Mobil Enhets-ID</string>
      <string name="account_setup_exchange_no_certificate">Ingen</string>

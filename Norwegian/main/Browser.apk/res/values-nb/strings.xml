@@ -57,9 +57,9 @@
      <string name="app_new_version">Du har allerede den nyeste versjonen nedlastet</string>
      <string name="app_update_install">Klar til å installere oppdatering.</string>
      <string name="application_name">Nettleser</string>
-     <string name="autofill_profile_editor_address_line_1">Adresse Line 1:</string>
+     <string name="autofill_profile_editor_address_line_1">Adresselinje 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
-     <string name="autofill_profile_editor_address_line_2">Adresse linie 2:</string>
+     <string name="autofill_profile_editor_address_line_2">Adresselinje 2:</string>
      <string name="autofill_profile_editor_address_line_2_hint">etasje, side, dør, etc.</string>
      <string name="autofill_profile_editor_city">By:</string>
      <string name="autofill_profile_editor_company_name">Firmanavn:</string>
@@ -91,12 +91,12 @@
      <string name="bookmark_add_to">Legg til</string>
      <string name="bookmark_cannot_save_url">"Denne URLen kan ikke bokmerkes."</string>
      <string name="bookmark_folder_needs_title">Skriv et gruppenavn</string>
-     <string name="bookmark_group_lable">Group</string>
+     <string name="bookmark_group_lable">Gruppe</string>
      <string name="bookmark_list_view">Liste</string>
      <string name="bookmark_needs_title">Bokmerke trenger et navn.</string>
      <string name="bookmark_needs_url">Bokmerke trenger en URL.</string>
      <string name="bookmark_not_saved">"Kunne ikke lagre bokmerket."</string>
-     <string name="bookmark_rename_group">Rename group</string>
+     <string name="bookmark_rename_group">Bytt navn på gruppe</string>
      <string name="bookmark_saved">Lagret til bokmerker.</string>
      <string name="bookmark_this_page_to_readmodelist">Legg til side i leselisten</string>
      <string name="bookmark_title">Navn på bokmerke</string>
@@ -717,6 +717,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="suggest_access_btn_play">Spill av</string>
      <string name="suggest_access_btn_view">Vis</string>
      <string name="suggest_access_item_album_songs">%d sanger</string>
+     <string name="suggest_access_item_app_size">%.2fMB</string>
      <string name="suggest_access_item_app_update">Oppdater: %s</string>
      <string name="suggest_access_item_singer_albums">%d album</string>
      <string name="suggest_access_item_singer_pop">%d populære sanger</string>
@@ -789,6 +790,12 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="webapp_add_to_desktop">Legg på hjemskjerm</string>
      <string name="webapp_add_to_favorite_toast">Lagt til i favorittliste</string>
      <string name="webapp_addtodeskpop_append">Lagt til</string>
+     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
+     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
+     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
+     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
+     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
+     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
      <string name="webapp_app_name">Appbutikk</string>
      <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
      <string name="webapp_bottom_bar_addtodesk">Legg på skrivebord</string>
@@ -800,6 +807,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="webapp_menu_nightmode">Nattmodus</string>
      <string name="webapp_menu_settings">Innstillinger</string>
      <string name="webapp_menu_share">Del</string>
+     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="webapp_settings_title">Innstillinger</string>
      <string name="webapp_splashview_loading">Laster nå...</string>
      <string name="webapp_webapp_favortes_title">Mine favoritter</string>

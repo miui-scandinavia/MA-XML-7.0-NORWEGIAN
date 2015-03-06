@@ -301,6 +301,7 @@
      <string name="notification_multiple">%s uleste meldinger.</string>
      <string name="notification_multiple_title">Nye meldinger</string>
      <string name="number_add_hint">Skriv nummer som skal legges til i private kontakter</string>
+     <string name="open_url_with_web">Whether allow to open url with Web?</string>
      <string name="overwrite_edited_content">Det endrede innholdet vil overskrives, vil du fortsette?</string>
      <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
      <string name="phrase_empty">Ingen setninger</string>
@@ -322,6 +323,7 @@
      <string name="pref_mms_settings_title">MMS-innstillinger</string>
      <string name="pref_notification_settings_title">meldingsinnstillinger</string>
      <string name="pref_other_title">Ekstra innstillinger</string>
+     <string name="pref_show_sms_template_summary">Automatisk kopier og fyll inn verifikasjonskoder</string>
      <string name="pref_sms_theme_title">Tema-innstillinger</string>
      <string name="pref_summary_allow_si_sl_push">Tillat mottak og notifisering av WAP push-meldinger (SI/SL)</string>
      <string name="pref_summary_delete_limit">%1$s meldinger per samtale</string>
@@ -353,11 +355,13 @@
      <string name="pref_title_mms_delete">MAX MMS-størrelse</string>
      <string name="pref_title_mms_read_reports">Leserapporter</string>
      <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
+     <string name="pref_title_mms_validity_period">MMS Validity period</string>
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
      <string name="pref_title_ringtone_repeat_summary">"Antall varslingslyder når SMS-melding blir mottatt mens skjermen er av: "</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
+     <string name="pref_title_sms_validity_period">SMS Validity period</string>
      <string name="pref_title_system_mms_priority">System Mms app prioritet</string>
      <string name="pref_title_vcard">Send via vCard</string>
      <string name="pref_title_wake_up_screen">Vekk skjerm</string>
@@ -500,6 +504,7 @@
      <string name="timed_message_to">til</string>
      <string name="title_collapse_sp_messages">Kombiner tjenestetilbydermeldinger</string>
      <string name="title_date_type">Melding tidsstempel</string>
+     <string name="title_show_sms_template">Sjekk SMS etter verifikasjonskoder</string>
      <string name="title_timed_message_dialog">Planlegg sending av melding</string>
      <string name="to_address_label">"Til: "</string>
      <string name="to_count">%d i alt</string>

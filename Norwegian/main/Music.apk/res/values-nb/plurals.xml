@@ -9,6 +9,10 @@
         <item quantity="other">%d dager igjen</item>
         <item quantity="one">%d dag igjen</item>
      </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">%d sanger lagt til</item>
+        <item quantity="one">%d sang lagt til</item>
+     </plurals>
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nye</item>
      </plurals>
