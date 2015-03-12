@@ -1093,7 +1093,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="home_app_uninstall_button">Avinstaller denne appen</string>
      <string name="home_key">Home</string>
      <string name="home_settings">Startside</string>
-     <string name="ime_security_warning">%1$sDette tastaturet har tilgang til all tekst du skriver, blant annet personlige opplysninger som for eksempel passord og kredittkortnumre.</string>
+     <string name="ime_security_warning">%1$ kan ta vare på all tekst du skriver, dette inkluderer passord, kredittkortnumre og andre personlige opplysninger.</string>
      <string name="immediately_destroy_activities">Ikke behold aktiviteter</string>
      <string name="immediately_destroy_activities_summary">Fjern hver aktivitet så fort brukeren forlater den</string>
      <string name="ims_reg_required_off">Deaktivering av IMS-registrering er påkrevd</string>
@@ -2699,12 +2699,12 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_context_menu_change_wapi_certificate">Endre WAPI-sertifikat</string>
      <string name="wifi_context_menu_connect">Koble til</string>
      <string name="wifi_context_menu_forget">Glem</string>
-     <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
+     <string name="wifi_datanetwork_switch_not_remind">"Ikke vis igjen"</string>
      <string name="wifi_disabled_generic">Deaktivert</string>
      <string name="wifi_disabled_help">Wi-Fi ble frakoblet på grunn av dårlig forbindelse</string>
      <string name="wifi_disabled_network_failure">Unngikk dårlig internettforbindelse</string>
      <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
-     <string name="wifi_disconnected_notification_summary">"Du er ikke tilkoblet Wi-Fi."</string>
+     <string name="wifi_disconnected_notification_summary">"Du er ikke lenger tilkoblet Wi-Fi."</string>
      <string name="wifi_disconnected_notification_title">Frakoblet Wi-Fi</string>
      <string name="wifi_display_autonomous_go">Skru på autonomous GO</string>
      <string name="wifi_display_certification">Trådløs skjermsertifisering</string>

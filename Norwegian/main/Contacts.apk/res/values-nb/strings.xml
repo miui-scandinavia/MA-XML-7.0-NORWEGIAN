@@ -868,7 +868,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_exchange_wrong_format_by_local">Ugyldig kode skrevet</string>
      <string name="resource_exchange_wrong_format_by_server">"Gavekoden kune ikke bli verifisert. Vær sikker på at du har skrevet den korrekt."</string>
      <string name="resource_expand_full_text">Utvid</string>
-     <string name="resource_failed_to_load_list">"Kan ikke laste temaer."</string>
+     <string name="resource_failed_to_load_list">"Kan ikke laste temaer"</string>
      <string name="resource_get_auth_checking">Verifiserer…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">10 enheter har allerede blitt autorisert på denne kontoen</string>
      <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>

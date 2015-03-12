@@ -301,7 +301,7 @@
      <string name="notification_multiple">%s uleste meldinger.</string>
      <string name="notification_multiple_title">Nye meldinger</string>
      <string name="number_add_hint">Skriv nummer som skal legges til i private kontakter</string>
-     <string name="open_url_with_web">Whether allow to open url with Web?</string>
+     <string name="open_url_with_web">Vil du åpne URLen i nettleser?</string>
      <string name="overwrite_edited_content">Det endrede innholdet vil overskrives, vil du fortsette?</string>
      <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
      <string name="phrase_empty">Ingen setninger</string>
@@ -355,14 +355,14 @@
      <string name="pref_title_mms_delete">MAX MMS-størrelse</string>
      <string name="pref_title_mms_read_reports">Leserapporter</string>
      <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
-     <string name="pref_title_mms_validity_period">MMS Validity period</string>
+     <string name="pref_title_mms_validity_period">MMS gyldighetspreiode</string>
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
      <string name="pref_title_ringtone_repeat_summary">"Antall varslingslyder når SMS-melding blir mottatt mens skjermen er av: "</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
-     <string name="pref_title_sms_validity_period">SMS Validity period</string>
-     <string name="pref_title_system_mms_priority">System Mms app prioritet</string>
+     <string name="pref_title_sms_validity_period">SMS gyldighetsperiode</string>
+     <string name="pref_title_system_mms_priority">System MMS-app prioritet</string>
      <string name="pref_title_vcard">Send via vCard</string>
      <string name="pref_title_wake_up_screen">Vekk skjerm</string>
      <string name="preferences_title">Innstillinger</string>

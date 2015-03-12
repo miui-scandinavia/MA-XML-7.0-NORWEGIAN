@@ -21,8 +21,8 @@
         <item quantity="one">Sangen lagt til i spilleliste</item>
      </plurals>
      <plurals name="Ntracks_count">
-        <item quantity="other">%d Sanger</item>
-        <item quantity="one">%d Sang</item>
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d sanger fjernet fra spilleliste</item>

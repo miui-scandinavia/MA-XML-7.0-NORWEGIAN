@@ -62,7 +62,7 @@
      <string name="find_device_dspt_provision_4">Hvis du bytter SIM-kort, vil en SMS-melding bli sendt automatisk for å reaktivere denne funksjonen.</string>
      <string name="find_device_enabling">Skrur på…</string>
      <string name="find_device_error_network">Sjekk dataforbindelsen og prøv igjen.</string>
-     <string name="find_device_error_server">Serverfeil.</string>
+     <string name="find_device_error_server">Serverfeil</string>
      <string name="find_device_noise_title">Finn enhetslyd</string>
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
@@ -132,7 +132,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_space_full">Ikke nok lagringsplass.</string>
      <string name="micloud_main_space_risk">%d elementer synket.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
-     <string name="micloud_main_suggest_sync">Noen elementer har ikke blytt synkronisert med din Mi Cloud</string>
+     <string name="micloud_main_suggest_sync">"Kunne ikke synke alt"</string>
      <string name="micloud_main_sync_exception">Synkfeil</string>
      <string name="micloud_main_sync_now">Synk nå</string>
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
