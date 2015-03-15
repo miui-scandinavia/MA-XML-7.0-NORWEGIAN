@@ -894,7 +894,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, gjeldende kjøpspris er bedre enn å kjøpe de venstre elementene enkeltvis, ønsker du å fortsette?</string>
      <string name="resource_pack_discount_info">Spart: %1$s</string>
-     <string name="resource_pack_get_auth_has_been_undercarriaged">Denne ressursen er ikke lenger tilgjengelig.</string>
+     <string name="resource_pack_get_auth_has_been_undercarriaged">Dette temaet er ikke lenger tilgjengelig.</string>
      <string name="resource_pack_price_info">Original pris: %1$s</string>
      <string name="resource_pack_warning">Advarsel! du har allerede kjøpt %1$d elementer, gjeldende pris er ikke lenger gyldig for de venstre elementene, vennligst kjøp dem individuelt.</string>
      <string name="resource_present">Gave</string>
@@ -923,6 +923,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_share_text">"Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s"</string>
      <string name="resource_share_title">Del</string>
      <string name="resource_system_title">System elementer</string>
+     <string name="resource_tab_to_view">Trykk for å vise.</string>
      <string name="resource_tip_select_none">None selected</string>
      <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
      <string name="resource_title">Detaljer</string>

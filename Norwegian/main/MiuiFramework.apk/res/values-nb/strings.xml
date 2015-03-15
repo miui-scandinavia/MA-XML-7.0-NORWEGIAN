@@ -142,7 +142,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="softap_notifif_title">Hotspot \"%s\" er på</string>
      <string name="solar_calendar" />
      <string name="spring_begins" />
-     <string name="status_bar_toggle_ac">Tilgang</string>
+     <string name="status_bar_toggle_ac">Skjermlås</string>
      <string name="status_bar_toggle_auto_brightness">Lysstyrke</string>
      <string name="status_bar_toggle_bluetooth">BT</string>
      <string name="status_bar_toggle_brightness">Auto-lys</string>
@@ -156,6 +156,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_network_type">Nettverk</string>
      <string name="status_bar_toggle_paper_mode">Lesemodus</string>
      <string name="status_bar_toggle_power_mode">Ytelse</string>
+     <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
      <string name="status_bar_toggle_privacy_mode">Gjest</string>
      <string name="status_bar_toggle_quiet_mode">DND</string>
      <string name="status_bar_toggle_reboot">Omstart</string>

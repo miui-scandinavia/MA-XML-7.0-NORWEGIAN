@@ -30,6 +30,7 @@
      <string name="add_account">Legg til konto</string>
      <string name="add_calendar">Legg til</string>
      <string name="add_topic_success">Fjerning av "%s" var vellykket</string>
+     <string name="add_topic_unsuccess">Fjerning av \"%s\" var mislykket</string>
      <string name="adding_calendar">Legger til...</string>
      <string name="agenda_today">I DAG, %1$s</string>
      <string name="agenda_tomorrow">I MORGEN, %1$s</string>
@@ -296,6 +297,11 @@
      <string name="snooze_all_label">Sett alle i slumretilstand</string>
      <string name="snooze_label">Utsett</string>
      <string name="subscribe_all">Abonner</string>
+     <string name="sync_notice_cancel_toast_message">"Lokal kalender vil ikke bli synket med Mi Cloud"</string>
+     <string name="sync_notice_message">Du har ikke synkronisert kalenderen med Mi Cloud enda, vil du gjøre dette nå?</string>
+     <string name="sync_notice_ok">OK</string>
+     <string name="sync_notice_ok_toast_message">Lokal kalender vil bli synkronisert med Mi Cloud</string>
+     <string name="sync_notice_title">Sync request</string>
      <string name="synced">Synkronisert</string>
      <string name="tab_category">Kategori</string>
      <string name="tab_local">Mine</string>
@@ -329,11 +335,7 @@
      <string name="widget_events">Kommende hendelser</string>
      <string name="widget_no_events">Ingen hendelser</string>
      <string name="widget_select_style">Velg en stil</string>
-     <string name="work_day_indication" />
-     <string name="wuxing" />
-     <string name="xiaomi_calendar_display_name">Kalender</string>
-     <string name="xingxiu" />
+     <string name="xiaomi_calendar_display_name">Mi-konto kalender</string>
      <string name="yearly">Årlig (den %s)</string>
      <string name="yearly_plain">Årlig</string>
-     <string name="zhushen" />
 </resources>

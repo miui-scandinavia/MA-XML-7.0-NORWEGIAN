@@ -106,6 +106,14 @@
      <string name="toast_reach_text_limit_truncate">"Innholdet av notatet har blitt klippet fordi det er for langt."</string>
      <string name="undo">Angre</string>
      <string name="unknown_source">Ukjent kilde</string>
+     <string name="welcome_note_for_cm">"Og flere flotte funksjoner!
+  - Synk med Mi Cloud
+  - Lagre ved lukking
+  - Sette påminnelser
+
+For å lære mer, besøk
+http://www.miui.com/forum.php?lang=1
+"</string>
      <string name="widget_content_loading">Laster…</string>
      <string name="widget_havenot_content">Ingen assosiert notat funnet, klikk for å opprette.</string>
      <string name="widget_under_privacy_mode">"Kan ikke vise notater i Gjestemodus"</string>

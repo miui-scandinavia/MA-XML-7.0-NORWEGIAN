@@ -539,8 +539,8 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="reverting_settings">Tilbakestiller innstillinger ...</string>
      <string name="ringtone_title">Telefonringetone</string>
      <string name="roaming">Dataroaming</string>
-     <string name="roaming_disable">Koble til datatjenester ved roaming</string>
-     <string name="roaming_enable">Koble til datatjenester ved roaming</string>
+     <string name="roaming_disable">Bruk mobildata under roaming</string>
+     <string name="roaming_enable">Bruk mobildata under roaming</string>
      <string name="roaming_reenable_message">Du har mistet datatilkoblingen fordi du forlot hjemmenettet med roaming avslått.</string>
      <string name="roaming_warning">Tillat dataroaming? Dette kan koste mye penger!</string>
      <string name="save">Lagre</string>

@@ -2,6 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
+     <string name="action_mode_deselect_all">Avvelg alle</string>
+     <string name="action_mode_select_all">Velg alle</string>
      <string name="add_task">Legg til oppgaver</string>
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
@@ -131,6 +133,8 @@
      <string name="kp_category_txt">Tekst</string>
      <string name="kuaipan_cloud_photo">KuaiPan-bilder</string>
      <string name="kuaipan_create_shortcut_success">Snarvei opprettet</string>
+     <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
+     <string name="kuaipan_data_formater_without_year">M month d day</string>
      <string name="kuaipan_delete_success">Bilde slettet</string>
      <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">Ikke mer plass.</string>

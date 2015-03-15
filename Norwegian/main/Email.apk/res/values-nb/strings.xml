@@ -83,6 +83,7 @@
      <string name="account_setup_account_type_headline">Kontotype</string>
      <string name="account_setup_account_type_instructions">Hvilken type konto er dette?</string>
      <string name="account_setup_account_type_title">Legg til ny epostkonto</string>
+     <string name="account_setup_address_label">Email</string>
      <string name="account_setup_autodiscover_dlg_authfail_message">Bekreft at brukernavn, passord og kontoinstillinger er korrekte.</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Problem med kontooppsettet</string>
      <string name="account_setup_basics_email_label">Epostaddresse</string>
@@ -93,6 +94,7 @@
      <string name="account_setup_check_settings_check_incoming_msg">Kontrollerer innkommende serverinnstillinger…</string>
      <string name="account_setup_check_settings_check_outgoing_msg">Kontrollerer utgående serverinnstillinger…</string>
      <string name="account_setup_check_settings_retr_info_msg">Henter kontoinformation…</string>
+     <string name="account_setup_correct_address_tips">Enter email address</string>
      <string name="account_setup_creating_account_msg">Oppretter konto…</string>
      <string name="account_setup_deleting_account_msg">Deleting account…</string>
      <string name="account_setup_exchange_certificate_title">Klient sertifikat</string>
@@ -697,6 +699,7 @@ CC: %4$s
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
      <string name="outbox_alert_description_http_error">Server provision error while syncing outbox.</string>
+     <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
      <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
      <string name="outbox_alert_description_sent_failed">"Attachment's size exceeds the recipient's limit."</string>
      <string name="outbox_alert_duplicate_click">Still syncing…</string>
@@ -839,6 +842,8 @@ CC: %4$s
      <string name="recipient_needed">Add at least one recipient.</string>
      <string name="recipient_needed_title">Warn</string>
      <string name="recipient_null_dialog_title">Alert</string>
+     <string name="reduce_the_receiving_frequencye_summary">Lower e-mail sync rate in preset time</string>
+     <string name="reduce_the_receiving_frequencye_title">Lower e-mail sync rate</string>
      <string name="refresh">Refresh</string>
      <string name="refreshing">Synker…</string>
      <string name="refreshing_done">Ferdig</string>
@@ -872,6 +877,8 @@ CC: %4$s
      <string name="save_attachment">Save</string>
      <string name="save_draft">Save draft</string>
      <string name="save_draft_failed">Save draft failed</string>
+     <string name="save_power_summary">Battery saving in preset time</string>
+     <string name="save_power_title">Battery saver</string>
      <string name="saved">Saved,  %s</string>
      <string name="saving">Saving…</string>
      <string name="search_attachment">Search</string>
@@ -908,6 +915,7 @@ CC: %4$s
 \u0009 (Check whether the setting is 'Auto sync time')"</string>
      <string name="ser_resp_err_map_nouser">No such user</string>
      <string name="ser_resp_err_map_or">or</string>
+     <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
      <string name="ser_resp_err_map_serclosed">server closed</string>
      <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
      <string name="set_network">Set network</string>

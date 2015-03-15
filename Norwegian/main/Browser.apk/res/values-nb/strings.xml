@@ -22,6 +22,7 @@
      <string name="action_menu_text_bandwidth_on">Båndbredde/På</string>
      <string name="action_menu_text_bookmark">Legg til bokmerke</string>
      <string name="action_menu_text_exit">Avslutt</string>
+     <string name="action_menu_text_fullscreen">Fullskjerm</string>
      <string name="action_menu_text_history">Bokmerker og Historikk</string>
      <string name="action_menu_text_nightmode">Nattmodus</string>
      <string name="action_menu_text_nightmode_off">Nattmodus</string>

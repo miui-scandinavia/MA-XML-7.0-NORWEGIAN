@@ -36,7 +36,7 @@
      <string name="attach_subject">Emne</string>
      <string name="attach_take_photo">Ta bilde</string>
      <string name="attach_video">Videoer</string>
-     <string name="audio_download_failed">"Kan ikke laste ned lyd"</string>
+     <string name="audio_download_failed">"Kunne ikke laste ned lyd"</string>
      <string name="audio_playing_seconds">%d\"</string>
      <string name="back_to_message_list">tilbake til meldingsliste</string>
      <string name="batch_adding_progress_message">Legger til...</string>
@@ -44,6 +44,7 @@
      <string name="batch_deleting_message_progress_message">Sletter valgte melding(er)</string>
      <string name="batch_deleting_progress_message">Sletter valgte tråd(er)</string>
      <string name="bcc_label">"Bcc: "</string>
+     <string name="block_messaging_entry_title">Blokkert SMS</string>
      <string name="bookmark">Favoritter</string>
      <string name="bookmark_confirm_delete_message">Valgte elementer vil bli slettet</string>
      <string name="bookmark_empty">Ingen Bokmerker</string>
@@ -297,11 +298,11 @@
      <string name="non_english_subject_limit">Maks 13 bokstaver/tall til ikke-engelske emner</string>
      <string name="nosend_message">Sending mislyktes</string>
      <string name="notification_failed_multiple">%s meldinger kunne ikke sendes.</string>
-     <string name="notification_failed_multiple_title">meldingen kunne ikke sendes!</string>
+     <string name="notification_failed_multiple_title">Meldingen kunne ikke sendes!</string>
      <string name="notification_multiple">%s uleste meldinger.</string>
      <string name="notification_multiple_title">Nye meldinger</string>
      <string name="number_add_hint">Skriv nummer som skal legges til i private kontakter</string>
-     <string name="open_url_with_web">Vil du åpne URLen i nettleser?</string>
+     <string name="open_url_with_web">Åpne denne URLen i nettleser?</string>
      <string name="overwrite_edited_content">Det endrede innholdet vil overskrives, vil du fortsette?</string>
      <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
      <string name="phrase_empty">Ingen setninger</string>

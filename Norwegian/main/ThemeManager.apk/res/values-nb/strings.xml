@@ -67,6 +67,7 @@
      <string name="gift_purchased_list_empty_with_received_list_empty">Ingen gaver.</string>
      <string name="gift_received_endnote">Fra: %1$s (mottatt %2$s)</string>
      <string name="gift_received_list_empty">"Du har ikke mottatt noen gaver."</string>
+     <string name="gift_received_notification_title">%s ga deg et tema.</string>
      <string name="gift_share">Del</string>
      <string name="gift_transfer">Overfør</string>
      <string name="gift_unbind_fail_dlg_title">"Kan ikke opprette kode"</string>
@@ -160,8 +161,8 @@
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
      <string name="resource_download_notification_content">Trykk for å vise</string>
-  <string name="resource_download_notification_title_many">%1$s temaer lastet ned!</string>
-  <string name="resource_download_notification_title_one">Tema lastet ned!</string>
+     <string name="resource_download_notification_title_many">%1$s temaer lastet ned!</string>
+     <string name="resource_download_notification_title_one">Tema lastet ned!</string>
      <string name="resource_download_trial">Gratis prøve</string>
      <string name="resource_downloaded_title">Nedlastede elementer</string>
      <string name="resource_downloading">Laster ned</string>
@@ -210,7 +211,7 @@
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
      <string name="resource_pack_discount_info">Du sparer: %1$s</string>
-     <string name="resource_pack_get_auth_has_been_undercarriaged">Denne ressursen er ikke lengre tilgjengelig.</string>
+     <string name="resource_pack_get_auth_has_been_undercarriaged">Dette temaet er ikke lengre tilgjengelig.</string>
      <string name="resource_pack_price_info">Original pris: %1$s</string>
      <string name="resource_pack_warning">Advarsel! du har allerede kjøpt %1$d elementer, gjeldende pris er ikke lenger gyldig for de venstre elemenetene, vennligst kjøp dem individuelt.</string>
      <string name="resource_present">Gave</string>
@@ -239,6 +240,7 @@
      <string name="resource_share_text">Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s</string>
      <string name="resource_share_title">Del</string>
      <string name="resource_system_title">Systemelementer</string>
+     <string name="resource_tab_to_view">Trykk for å vise.</string>
      <string name="resource_tip_select_none">Ingen valgt</string>
      <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
      <string name="resource_title">Detaljer</string>

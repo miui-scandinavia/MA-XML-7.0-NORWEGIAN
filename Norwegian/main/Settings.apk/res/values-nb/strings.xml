@@ -468,6 +468,11 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="bluetooth_unlock_settings_devices_title">Enhet</string>
      <string name="bluetooth_unlock_settings_toggle_title">Bruk på</string>
      <string name="bluetooth_unlock_settings_unlock_device">Lås opp enhet</string>
+     <string name="bluetooth_unlock_state_disconnected">Frakoblet</string>
+     <string name="bluetooth_unlock_state_key_error">Kodefeil</string>
+     <string name="bluetooth_unlock_state_label">Status:</string>
+     <string name="bluetooth_unlock_state_ok">OK</string>
+     <string name="bluetooth_unlock_state_too_far">Ikke nærme nok</string>
      <string name="bluetooth_unlock_title">Lås opp med Bluetooth-enhet</string>
      <string name="bluetooth_unlock_turned_off">Skrudd av</string>
      <string name="bluetooth_unlock_turned_on">Skrudd på</string>
@@ -786,13 +791,14 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="device_name_usage_point">Dette navnet vil bli synlig for andre enheter i nærheten.</string>
      <string name="device_picker">Bluetooth-enhetsvelger</string>
      <string name="device_sd_memory">SD-kort</string>
+     <string name="device_security_settings_title">Sikkerhet</string>
      <string name="device_status">Status</string>
      <string name="device_status_activity_title">Status</string>
      <string name="device_status_summary">Telefonnummer, signalstyrke, osv.</string>
      <string name="dialog_content_login">Oppdatering krever Mi-konto, vil du logge inn?</string>
      <string name="dialog_no">Nei</string>
      <string name="dialog_title_color_calibration">Fargehåndteringsforvalg</string>
-     <string name="dialog_title_font_size">Skriftstørrelse</string>
+     <string name="dialog_title_font_size">Tekststørrelse</string>
      <string name="dialog_title_hdmi_color_calibration">Fargehåndteringsforvalg</string>
      <string name="dialog_title_login">Log inn på Mi-konto</string>
      <string name="dialog_yes">Ja</string>
@@ -914,6 +920,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="enable_adb">USB-debugging</string>
      <string name="enable_adb_summary">Debug-modus når USB er koblet til</string>
      <string name="enable_compatibility">Skalér app</string>
+     <string name="enable_crypt_keeper_encrypt">Aktiver kryptering</string>
      <string name="enable_drive_mode">Bilmodus</string>
      <string name="enable_mobile_data_when_opening_hotspot">Skru på mobildatatilkobling også?</string>
      <string name="enable_opengl_traces_title">Aktiver OpenGL-spor</string>
@@ -1093,7 +1100,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="home_app_uninstall_button">Avinstaller denne appen</string>
      <string name="home_key">Home</string>
      <string name="home_settings">Startside</string>
-     <string name="ime_security_warning">%1$ kan ta vare på all tekst du skriver, dette inkluderer passord, kredittkortnumre og andre personlige opplysninger.</string>
+     <string name="ime_security_warning">%1$s kan ta vare på all tekst du skriver, dette inkluderer passord, kredittkortnumre og andre personlige opplysninger.</string>
      <string name="immediately_destroy_activities">Ikke behold aktiviteter</string>
      <string name="immediately_destroy_activities_summary">Fjern hver aktivitet så fort brukeren forlater den</string>
      <string name="ims_reg_required_off">Deaktivering av IMS-registrering er påkrevd</string>
@@ -1190,6 +1197,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="local_backup_section_summary">Sikkerhetshopier systeminnstillinger, kontoer og apper</string>
      <string name="local_backup_section_title">Lokal sikkerhetskopi</string>
      <string name="locale_default">Standard</string>
+     <string name="location_access_off">Av</string>
+     <string name="location_access_on">På</string>
      <string name="location_access_summary">La apper som har bedt om tillatelse, bruke posisjonsinformasjonen din</string>
      <string name="location_access_title">Bruk av posisjon</string>
      <string name="location_agps_apn_choose_dialog_title">APN-typer</string>
@@ -1741,6 +1750,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="privacy_mode_dialog_title">Gjestemodus</string>
      <string name="privacy_mode_enable_sum">Skjul meldinger, notater, bilder, og innkommende anrop fra bruker</string>
      <string name="privacy_mode_enable_title">Gjestemodus</string>
+     <string name="privacy_mode_summary">Brukerdata vil bli skjult fra bruker</string>
+     <string name="privacy_mode_title">Tillatelse</string>
      <string name="privacy_protect_title">Personvernsbeskyttelse</string>
      <string name="privacy_relative">Personvern</string>
      <string name="privacy_settings">Sikkerhetskopier/tilbakestilling</string>
@@ -1891,7 +1902,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="restrict_background_data_dialog_summary">Apper kjørende i bakgrunnen kan ikke motta meldinger</string>
      <string name="restrict_background_data_notification_summary">"Apper kan ikke koble til nettverket hvis bakgrunnsdata er begrenset</string>
      <string name="restrict_background_data_title">Begrens bakgrunnsdata</string>
-     <string name="restriction_bluetooth_config_summary">Tillat endring av Blutetooth-tilkoblinger og -innstillinger</string>
+     <string name="restriction_bluetooth_config_summary">Tillat endring av Bluetooth-tilkoblinger og -innstillinger</string>
      <string name="restriction_bluetooth_config_title">Bluetooth</string>
      <string name="restriction_location_enable_summary">Lar apper bruke posisjonsinformasjon</string>
      <string name="restriction_location_enable_title">Sted</string>
@@ -1910,15 +1921,15 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="ringtone_title">Ringetone</string>
      <string name="ringtone_uniform_setting_title">Innstillinger for dobbel-SIM</string>
      <string name="roaming">Dataroaming</string>
-     <string name="roaming_disable">Koble til datatjenester ved roaming</string>
-     <string name="roaming_enable">Koble til datatjenester ved roaming</string>
+     <string name="roaming_disable">Bruk mobildata under roaming</string>
+     <string name="roaming_enable">Bruk mobildata under roaming</string>
      <string name="roaming_reenable_message">Du har mistet datatilkobling fordi du forlot hjemmenettet med dataroaming av.</string>
      <string name="roaming_reenable_title">Vil du tillate roaming?</string>
      <string name="roaming_turn_it_on_button">Slå på</string>
      <string name="roaming_warning">Å tillate roaming kan medføre høye datakostnader.</string>
      <string name="roaming_warning_multiuser">"Når du tillater roaming, kan dette føre til høye datakostnader.
 
-Denne innstillingen påvirker alle brukerne på dette nettbrettet."</string>
+Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="rssi_label">RSSI:</string>
      <string name="running_process_item_removed_user_label">Brukeren ble fjernet</string>
      <string name="running_process_item_user_label">Bruker:%1$s</string>
@@ -2313,7 +2324,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="title_dolby_control">Dobly digital plus</string>
      <string name="title_font">Skrifttype</string>
      <string name="title_font_current">Velg systemskrifttype</string>
-     <string name="title_font_size">Skriftstørrelse</string>
+     <string name="title_font_size">Tekststørrelse</string>
      <string name="title_hdmi_color_calibration">Forhåndsvalg for fargeforbedring</string>
      <string name="title_layout_current">Velg skriftstørrelse</string>
      <string name="title_local_resource">Lokale ressurser</string>
@@ -2956,6 +2967,7 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wifi_tether_starting">Slpr på Wi-Fi-sone…</string>
      <string name="wifi_tether_stopping">Slår av trådløs sone…</string>
      <string name="wifi_type_approval" />
+     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
      <string name="wifi_type_approval_title">Godkjenningstype</string>
      <string name="wifi_unchanged">(uendret)</string>
      <string name="wifi_unspecified">(ikke spesifisert)</string>
