@@ -23,7 +23,7 @@
      <string name="action_menu_text_bookmark">Legg til bokmerke</string>
      <string name="action_menu_text_exit">Avslutt</string>
      <string name="action_menu_text_fullscreen">Fullskjerm</string>
-     <string name="action_menu_text_history">Bokmerker og Historikk</string>
+     <string name="action_menu_text_history">Bokmerker/historikk</string>
      <string name="action_menu_text_nightmode">Nattmodus</string>
      <string name="action_menu_text_nightmode_off">Nattmodus</string>
      <string name="action_menu_text_nightmode_on">Nattmodus</string>
@@ -812,12 +812,12 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="webapp_settings_title">Innstillinger</string>
      <string name="webapp_splashview_loading">Laster nå...</string>
      <string name="webapp_webapp_favortes_title">Mine favoritter</string>
-     <string name="webpage_bookmark_title">Bookmark</string>
+     <string name="webpage_bookmark_title">Bokmerk</string>
      <string name="webpage_history_title">History</string>
-     <string name="webpage_title">Bookmarks and History</string>
+     <string name="webpage_title">Bokmerker og historikk</string>
      <string name="website_settings_clear_all">Rydd alle</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Avbryt</string>
-     <string name="website_settings_clear_all_dialog_message">slett alle hjemmeside og lokaliseringsdata tillatelser?</string>
+     <string name="website_settings_clear_all_dialog_message">Slett alle hjemmeside og lokaliseringsdata tillatelser?</string>
      <string name="website_settings_clear_all_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_dialog_cancel_button">Avbryt</string>
      <string name="webstorage_clear_data_dialog_message">slett alle data fra denne hjemmeside?</string>
