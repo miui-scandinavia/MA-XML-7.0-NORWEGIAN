@@ -662,6 +662,7 @@
      <string name="summary_cloud_account">Få mest mulig ut av din Mi-enhet</string>
      <string name="summary_cloud_service">Synkroniser dine bilder, kontakter, og mer på tvers av alle dine enheter</string>
      <string name="summary_data_flow">"Unngå å gå over operatøren din sin månedlige dataforbrukgrense"</string>
+     <string name="summary_default_app">"%s er ikke satt som standard systemapp"</string>
      <string name="summary_delete_cache">Noen apper krever denne dataen for å fungere normalt.</string>
      <string name="summary_delete_large_file">"Noen store filer kan være nyttige når du har ikke en internettforbindelse (f.eks. kart, planer osv). Vær sikker på at du ikke trenger denne filen."</string>
      <string name="summary_dev">Hindre apper i å få tilgang til brukerdata</string>
@@ -702,6 +703,7 @@
      <string name="title_data_flow">Sett et dataforbruksvarsel</string>
      <string name="title_data_flow_no">Databruksovervåker er av</string>
      <string name="title_data_flow_yes">Databruksovervåker er på</string>
+     <string name="title_default_app">"MIUI %s er ikke satt som standard"</string>
      <string name="title_delete_cache">Slett mellomlager-data?</string>
      <string name="title_delete_large_file">Slett denne filen?</string>
      <string name="title_dev_no">Utviklervalg er på</string>
@@ -741,6 +743,7 @@
      <string name="toast_backup_uninstall_failed">Kunne ikke ta sikkerhtskopi av %d apper. Vent en stund og prøv igjen.</string>
      <string name="toast_backup_uninstall_success">Sikkerhetskopi og avinstallering fullført</string>
      <string name="toast_cleaner_cloudscan">Opprydder vil bruke nettbaserte definisjoner</string>
+     <string name="toast_default_app">"%1$s satt som systemets standard %2$s"</string>
      <string name="toast_flow_notification">Skrudde på Dataforbruksvarsler</string>
      <string name="toast_garbage_cleanup_success">Opprydding fullført</string>
      <string name="toast_garbage_lib">Skrudde på automatiske oppdateringer for Opprydder</string>

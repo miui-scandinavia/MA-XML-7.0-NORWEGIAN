@@ -335,7 +335,11 @@
      <string name="widget_events">Kommende hendelser</string>
      <string name="widget_no_events">Ingen hendelser</string>
      <string name="widget_select_style">Velg en stil</string>
+     <string name="work_day_indication">: (</string>
+     <string name="wuxing">五行</string>
      <string name="xiaomi_calendar_display_name">Mi-konto kalender</string>
+     <string name="xingxiu">星宿</string>
      <string name="yearly">Årlig (den %s)</string>
      <string name="yearly_plain">Årlig</string>
+     <string name="zhushen">诸神</string>
 </resources>

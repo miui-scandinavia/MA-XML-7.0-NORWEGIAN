@@ -126,7 +126,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_MMS">Skrive og slette MMS-meldinger</string>
      <string name="HIPS_Perm_MMS_Access">lese dine multimedie-meldinger</string>
      <string name="HIPS_Perm_MMS_Desc">skrive og slette multimedie-meldinger</string>
-     <string name="HIPS_Perm_MMS_Hint">%1$s apper kan skrive SMS-meldinger</string>
+     <string name="HIPS_Perm_MMS_Hint">%1$s apper kan skrive MMS-meldinger</string>
      <string name="HIPS_Perm_MobileNetwork">Bruke mobildata</string>
      <string name="HIPS_Perm_MobileNetwork_Desc">bruke din mobildatatilkobling</string>
      <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apper kan bruke mobildatatilkobling</string>

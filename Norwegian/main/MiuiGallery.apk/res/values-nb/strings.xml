@@ -78,8 +78,8 @@
      <string name="bigscreen_slide_fail_cause_loading">Vennligst start presentasjon etter bildet er lastet.</string>
      <string name="bigscreen_slide_playing">Lysbildevisning spiller på enheten: %s</string>
      <string name="bigscreen_video_quit">Trykk for å avslutte</string>
-     <string name="black_white">Svart &amp; hvitt</string>
-     <string name="brannan">Morgen</string>
+     <string name="black_white">Flat &amp; hvitt</string>
+     <string name="brannan">Brannan</string>
      <string name="browse_category">Bla gjennom bilder</string>
      <string name="by_email">E-post</string>
      <string name="by_others">Av andre</string>
@@ -575,6 +575,7 @@ venner."</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
      <string name="doodle">Krusseduller</string>
+     <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
      <string name="doodle_tooltip">Trykk for å krussedulle</string>
      <string name="download">Last ned</string>
      <string name="download_fail">Nedlasting feilet!</string>
@@ -582,10 +583,10 @@ venner."</string>
      <string name="download_refocus_data">Last ned refokus data</string>
      <string name="duotone">Dobbelt-tone</string>
      <string name="duration">Lengde</string>
-     <string name="early_bird">Brannan</string>
+     <string name="early_bird">Earlybird</string>
      <string name="edit">Rediger</string>
      <string name="edited_photo_bucket_name">Redigert</string>
-     <string name="effect">Effekt</string>
+     <string name="effect">Filtrer</string>
      <string name="email_picker_title">Legg til delt e-post</string>
      <string name="enable">Skru på</string>
      <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
@@ -785,7 +786,7 @@ venner."</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
-     <string name="old">Gammel</string>
+     <string name="old">Vintage</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
      <string name="open">Åpne synk</string>
@@ -881,7 +882,7 @@ venner."</string>
      <string name="request_sms_url_title">Hint</string>
      <string name="retry_to_create_album">Prøv igjen</string>
      <string name="retry_to_request_qr_code">Prøv igjen</string>
-     <string name="rise">Risende</string>
+     <string name="rise">Varm</string>
      <string name="rotate">Roter</string>
      <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Trekk foto for å rotere det</string>

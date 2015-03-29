@@ -221,10 +221,13 @@
      <string name="menu_view_contact">Åpen kontakt</string>
      <string name="menu_yellowpage">Vis %s</string>
      <string name="message_class_label">"Meldingstype: "</string>
+     <string name="message_contact">Kontakt:</string>
      <string name="message_details_title">Meldingsdetaljer</string>
      <string name="message_download_failed_title">Melding ikke hentet!</string>
+     <string name="message_expired">Utløpt</string>
      <string name="message_failed">Mislyktes</string>
      <string name="message_failed_body">Velg melding for å se igjennom og forsøke igjen.</string>
+     <string name="message_number">Telefonnummer:</string>
      <string name="message_pending">Sender...</string>
      <string name="message_queued">Melding ikke sendt. Den vil bli sendt når det er forbindelse igjen.</string>
      <string name="message_readed">Lest</string>
@@ -427,6 +430,7 @@
      <string name="secs">sek</string>
      <string name="select_audio">Velg lyd</string>
      <string name="select_bottom_text">Tekst i bunnen</string>
+     <string name="select_copy_text">Velg og kopier meldingstekst</string>
      <string name="select_different_media">Velg vennligst et annet %1$s.</string>
      <string name="select_link_title">Velg handling</string>
      <string name="select_local_audio">Velg lokal lydfil</string>

@@ -108,15 +108,18 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="input_used_hint">Skriv databruk</string>
      <string name="input_used_max_hint">Skriv databruk(mindre enn %s)</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: %d apps can use mobile data when roaming internationally -->
-     <string name="international_roaming_whitelist_count">Bruk mobildata når du roamer internasjonalt</string>
+     <string name="international_roaming_whitelist_count">%d apper kan bruke mobildata når du roamer internasjonalt</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
      <string name="lock_screen_setting_summary">Vis varsel på låseskjermen etter 100KB har blitt brukt</string>
-     <string name="lock_screen_traffic_notify_body">Låst i %1$s | Brukte %2$s med mobildata</string>
+     <string name="lock_screen_traffic_guide_notification_summary">Mobildata brukt på låseskjermen.</string>
+     <string name="lock_screen_traffic_guide_notification_title">Brukt %s av mobildata</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 3
+	%s: 2 Original: 3
+	%d: 0 Original: 0 -->
+     <!-- Original string: Locked for %2$s at %1$s, data used %3$s -->
+     <string name="lock_screen_traffic_notify_body">Låst i %2$s på %1$s, mobildata brukt %3$s</string>
+     <string name="lock_screen_traffic_purchase_textview">Kjøp mobildata</string>
      <string name="lock_screen_traffic_warn_title">Varsler på låseskjermen</string>
      <string name="main_alert_message_month_limit_error">Datagrensen du valgte er feil</string>
      <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
@@ -322,7 +325,10 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="ten_percent_total_pkg">%s (10%% av din månedlige mobildata)</string>
      <string name="text_day" />
      <string name="three_percent_total_pkg">%s (3%% av din månedlige mobildata)</string>
+     <string name="timeshow_h">%.1fh</string>
+     <string name="timeshow_h_int">%dh</string>
      <string name="timeshow_h_m">%1$dh %2$dm</string>
+     <string name="timeshow_m">%dm</string>
      <string name="timeshow_m_s">%1$dm %2$ds</string>
      <string name="timeshow_s">%ds</string>
      <string name="tips_dialog_title">"Vet du ikke din grense?"</string>

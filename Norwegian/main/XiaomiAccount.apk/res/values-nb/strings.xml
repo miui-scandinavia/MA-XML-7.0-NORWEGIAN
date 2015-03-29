@@ -212,7 +212,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="micloud_welcome_skip_login"><u>Hopp over dette steget</u></string>
      <string name="micloud_welcome_skip_login_provision"><u>Hopp over</u></string>
      <string name="mili_center">Mi-kreditt</string>
-     <string name="mipay_center">Bank-kort</string>
+     <string name="mipay_center">Mi-lommebok</string>
      <string name="my_device_title">Gjeldende enhet</string>
      <string name="next">Neste</string>
      <string name="no_network_btn">Oppdater</string>

@@ -388,6 +388,7 @@
      <string name="favoritesFrequentContacted">Ofte kontaktede</string>
      <string name="favorites_list_empty">Ingen favoritter</string>
      <string name="firewall_setting">Blocklist</string>
+     <string name="followed_yellowpage">Fulgte kataloger</string>
      <string name="foundTooManyContacts">Mer enn %d funnet.</string>
      <string name="frequentList">Hyppige</string>
      <string name="from_account_format">%1$s</string>

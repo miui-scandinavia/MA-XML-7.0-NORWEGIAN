@@ -48,6 +48,10 @@
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="root_downloads">Nedlastninger</string>
      <string name="task_already_exist">Oppgave eksisterer allerede</string>
+     <string name="warning_tip_cancel">继续下载</string>
+     <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
+     <string name="warning_tip_ok">暂停</string>
+     <string name="warning_tip_title">数据网络切换警告</string>
      <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
 
  %s（%s）

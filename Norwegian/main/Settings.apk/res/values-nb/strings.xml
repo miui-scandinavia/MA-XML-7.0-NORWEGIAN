@@ -87,6 +87,10 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="adjust_3d_depth_title">"Juster spill sin 3D-dybde"</string>
      <string name="advanced_settings">Avanserte innstillinger</string>
      <string name="advanced_settings_summary">Aktiver flere innstillingsalternativer</string>
+     <string name="agps_roaming">A-GPS under roaming</string>
+     <string name="agps_roaming_dia">"Bruk av A-GPS når du roaming kan øke ditt mobildataforbruk. Hvis du overskrider abonnementets datagrense, kan oepratøren din belaste deg ytterlige avgifter."</string>
+     <string name="agps_roaming_dia_title">Bruk A-GPS under roaming</string>
+     <string name="agps_roaming_summary">Bruk av A-GPS under roaming, kan øke telefonkostnader</string>
      <string name="airplane_mode">Flymodus</string>
      <string name="alarm_volume_title">Alarm</string>
      <string name="alert_show_screensaver_when_not_charging_msg">Visning av skjermsparer vil bruk ekstra batteri.</string>
@@ -981,7 +985,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
      <string name="font_size_save">OK</string>
      <string name="font_size_small">Liten</string>
-     <string name="font_size_summary">"Endre systemet sin skriftstørrelse"</string>
+     <string name="font_size_summary">Endre skriftstørrelsen for tekst på hjemskjermen, varslingsskyggen, telefon, og de fleste andre steder</string>
      <string name="font_size_summary1">"
 Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</string>
      <string name="font_size_summary2">Lett-modus</string>

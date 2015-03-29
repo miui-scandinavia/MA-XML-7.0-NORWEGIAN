@@ -16,6 +16,7 @@
      <string name="binded_accout_description">De to kontoene er flettet sammen, du kan logge på med begge kontoer og begge kontoer kan lese dine data</string>
      <string name="binded_accout_title">Du har allerede en tilknytning til en KuaiPan-konto</string>
      <string name="byteShort">B</string>
+     <string name="can_not_send_with_too_many">"Kan ikke sende så mange elementer"</string>
      <string name="cancel">Avbryt</string>
      <string name="category">Kategorier</string>
      <string name="category_all">Alle</string>
@@ -135,6 +136,7 @@
      <string name="kuaipan_create_shortcut_success">Snarvei opprettet</string>
      <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
      <string name="kuaipan_data_formater_without_year">M month d day</string>
+     <string name="kuaipan_delete_guide_des">Slett guide?</string>
      <string name="kuaipan_delete_success">Bilde slettet</string>
      <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">Ikke mer plass.</string>

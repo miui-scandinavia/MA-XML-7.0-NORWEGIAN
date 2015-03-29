@@ -18,11 +18,11 @@
      <string name="all_resources">Alle</string>
      <string name="all_services">Alle</string>
      <string name="allow">Tillat</string>
-     <string name="app_label">Gulesider</string>
+     <string name="app_label">Gule sider</string>
      <string name="app_recommendation_install">Installer</string>
      <string name="average_price">Gjennomsnittlig %d RMB</string>
      <string name="back">Tilbake</string>
-     <string name="balance_inquiry_send_sms_fail_hint">"Kunne ikke sende SMS. Sjekk SIM-kortets status."</string>
+     <string name="balance_inquiry_send_sms_fail_hint">Sjekk feilet, vennligst hent spørringskoden via nettverket</string>
      <string name="balance_inquiry_send_sms_hint">En gratis SMS-melding vil bli sendt for å spørre etter din balanse</string>
      <string name="balance_inquiry_send_sms_summmary">Sjekk din balanse</string>
      <string name="balance_inquiry_title">Balanseforspørsel</string>
@@ -109,6 +109,7 @@
      <string name="express_inqiury_select_logistics">Velg kurer</string>
      <string name="express_inquiry">Sporer</string>
      <string name="express_inquiry_button_text">Spor</string>
+     <string name="express_inquiry_clipboard_number_message">Spor kopierte nummer?</string>
      <string name="express_inquiry_data_owner_prefix">Sporingsinfo tilbudt av</string>
      <string name="express_inquiry_data_owner_suffix" />
      <string name="express_inquiry_delete_warning_multiple">Slett %d valgte historikkinnlegg?</string>
@@ -118,7 +119,7 @@
      <string name="express_inquiry_history">Historikk</string>
      <string name="express_inquiry_history_remark">Bemerkning</string>
      <string name="express_inquiry_history_remark_hint">Berkmerkning</string>
-     <string name="express_inquiry_internal_failure">"En feil oppsto.
+     <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.
 Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inquiry_logistics">Velg en kurertjeneste</string>
      <string name="express_inquiry_logistics_select_others_indication">Andre</string>
@@ -131,6 +132,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
      <string name="express_inquiry_trace">Spor</string>
+     <string name="express_inquiry_trace_device_login_notice">"Du bruker denne tjenesten på en annen enhet. Hvis du vil motta orderens status fra denne enhetne, vennligst verifiser din Mi-konto."</string>
      <string name="express_inquiry_trace_success">Sporet</string>
      <string name="express_inquiry_trace_user_notice_content">"Vi vil gi deg beskjed når ordrestatusen din endrer seg."</string>
      <string name="express_inquiry_untrace">Ikke sporet</string>
@@ -186,14 +188,23 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="fail_to_add_account">"Kunne ikke legge til konto"</string>
      <string name="fraud_number_online_identification">Blokker telefonselgere (krever internett-tilkobling)</string>
      <string name="gallery">Galleri</string>
+     <string name="general_btn_follow">Følg</string>
+     <string name="general_btn_follow_ok">Følger</string>
      <string name="general_cancel_favorite_ok">Favoritt fjernet</string>
+     <string name="general_cancel_followed_ok">Avfulgt</string>
      <string name="general_delete_recent_ok">Nyeste fjernet</string>
      <string name="general_favorite_ok">Favoritt lagt til</string>
      <string name="general_favorite_title">Favoritter</string>
+     <string name="general_follow_hint">"Når du har fulgt %1$s, kan du motta informasjon om %1$s, og få flere tjenester fra %1$s.
+
+Bekreft at du vil følge denne gule siden?"</string>
+     <string name="general_follow_hint_title">Hint</string>
      <string name="general_menu_delete_recent">Slett nyeste</string>
      <string name="general_menu_unfavorite">Fjern fra favoritter</string>
+     <string name="general_menu_unfollow">Avfølg</string>
      <string name="general_no_yellow_page">Listen er tom</string>
      <string name="general_recent_title">Nyeste</string>
+     <string name="general_unfollow_hint">Vil du avfølge %1$s?</string>
      <string name="general_yellow_page_title">Generelt</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
@@ -221,13 +232,15 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="menu_add_to_favorite">Legg til i favoritter</string>
      <string name="menu_call_ip_number">Ring IP-samtale</string>
      <string name="menu_copy_text">Kopier til utklippstavle</string>
-     <string name="menu_correct_yellow_page">Korreksjon</string>
+     <string name="menu_correct_yellow_page">Rapporter en feil</string>
      <string name="menu_delete_call_log">Fjern anropslogger</string>
      <string name="menu_delete_one">Fjern element fra anropslogg</string>
      <string name="menu_enroll_in_yellow_page">Logg inn på Mi-gulesider</string>
+     <string name="menu_follow_yellow_page">Følg</string>
      <string name="menu_remove_black_list">Fjern fra svarteliste</string>
      <string name="menu_remove_from_favorite">Fjern fra favoritter</string>
      <string name="menu_save_contact">Lagre nummer til kontakt</string>
+     <string name="menu_unfollow_yellow_page">Avfølg</string>
      <string name="minimum_price">Fra %d RMB</string>
      <string name="mishop_web_payment_title">MiStore-utsjekking</string>
      <string name="more_coupons">Alle kuponger</string>
@@ -277,6 +290,9 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="payment_unknown_status_title">"Kunne ikke bekreft betalingsstatus"</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d total</string>
+     <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
+     <string name="pull_to_refresh_refreshing_label">Laster…</string>
+     <string name="pull_to_refresh_release_label">Slipp for å oppdatere…</string>
      <string name="quick_yellow_page_tab_call_log">Anropslogg</string>
      <string name="quick_yellow_page_tab_phones">Telefon</string>
      <string name="recharge_actual_price">"Pris: "</string>
@@ -293,6 +309,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="recharge_pay">Lad nå</string>
      <string name="recharge_pay_hint">Support tilbys av Xiaomi</string>
      <string name="recharge_pay_hint_license">Oppfyllings-varsel</string>
+     <string name="recharge_payment_error">Ordre lukket eller feil oppsto, vennligst lukk og prøvv igjen</string>
      <string name="recharge_payment_result_failed_summary">Vennligst prøv igjen</string>
      <string name="recharge_payment_result_failed_title">Oppfylling feilet</string>
      <string name="recharge_payment_result_ok_summary">Bekreft at dette beløpet er reflektert i balansen din.</string>
@@ -468,7 +485,6 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="resource_update">Oppdater</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Venter på nedlastning...</string>
-
      <string name="scan">Skann</string>
      <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
 "</string>
@@ -489,6 +505,8 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo account er ugyldig: Vennligst koble til på nytt</string>
      <string name="smart_antispam">Identifiser ukjente nummer automatisk</string>
+     <string name="tag_follow_status">tag_follow_status</string>
+     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="toast_finish_delete_call_log">Anropsloggen er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
@@ -505,8 +523,10 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="user_agreement4">Erklæring om personvenr</string>
      <string name="user_notice_identify_summary_format">Identifisering av ukjente nummer er en online tjeneste，vennligst les %1$s og %2$s før du bruker den.</string>
      <string name="user_notice_identify_summary_format_cta">"Telefonen din vil bruke MIUI sin  database for å blokkere uønskede samtaler når tilkoblet Wi-Fi. Ved å trykke \"Samytkk\" godtar du Xiaomi sine %1$s og %2$s."</string>
+     <string name="user_notice_title">Brukervarsel</string>
      <string name="user_notice_yp_detail_summary_format">Den delvise info på denne gulesiden må oppdateres på nettet, vennligst les %1$s og %2$s, klikk \"Samtykk\", som betyr at du godtar innholdet ovenfor og bør adlyde avtalen, klikk \ "Avbryt \" for å bare vise den mellomlagrede info</string>
      <string name="user_notice_yp_detail_summary_format_cta">"En del av kataloginfoen er utdatert. Vil du oppdatere den? Ved å trykke \"Samtykke\" godtar du Xiaomi sine %1$s og %2$s."</string>
+     <string name="view_orders">Bis odre</string>
      <string name="voicemail">Mobilsvar</string>
      <string name="web_permission_message">%1$s trenger å se din %2$s for å fungere normalt.</string>
      <string name="yellow_page_website">Offisielt nettsted</string>

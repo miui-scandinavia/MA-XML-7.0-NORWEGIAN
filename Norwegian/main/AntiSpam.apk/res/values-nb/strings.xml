@@ -310,4 +310,5 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="user_define_title">Egendefinert</string>
      <string name="whitelist_prefix_add_hint">Legg til alle numre med prefiks til unntak</string>
      <string name="wl_no_whitelist">Ingen unntak.</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
