@@ -1522,6 +1522,9 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Enkel utgave</string>
+     <string name="music_dolby_mode_movie">Movie</string>
+     <string name="music_dolby_mode_music">Music</string>
+     <string name="music_dolby_mode_off">Off</string>
      <string name="music_equalizer">Equalizer</string>
      <string name="music_equalizer_summary">Still individuelle nivåer for forskjellige typer musikk</string>
      <string name="music_headphone_settings">Velg øretelefon-type</string>
@@ -1546,6 +1549,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_hifi_volume">Hi-Fi-volum</string>
      <string name="music_mi_effect_summary">Alltid bruk MiSound-forbedrer ved bruk av høytaler</string>
      <string name="music_mi_effect_title">Bruk MiSound-forbedrer</string>
+     <string name="music_title_dolby_control">DOLBY</string>
      <string name="musicfx_title">Musikkeffekter</string>
      <string name="mvno_match_data">MVNO-verdi</string>
      <string name="mvno_type">MVNO-type</string>
@@ -2212,13 +2216,19 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_custom_carrier">Endre navn på tjenestetilbyder</string>
      <string name="status_bar_settings_custom_notification">Administrer varsler</string>
      <string name="status_bar_settings_custom_wifi_name">Endre Wi-Fi-navn</string>
+     <string name="status_bar_settings_enable_notification">Allow notifications</string>
      <string name="status_bar_settings_expandable_under_keyguard">Vis på låseskjerm</string>
      <string name="status_bar_settings_long_click_sort">Trykk og hold for å sortere</string>
      <string name="status_bar_settings_no_carrier">Ingen</string>
      <string name="status_bar_settings_notification_bar">Varselskygge</string>
+     <string name="status_bar_settings_notification_led">Notification light</string>
+     <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
      <string name="status_bar_settings_show_carrier">Vis tjenestetilbyer</string>
      <string name="status_bar_settings_show_carrier_summary">Bare vis på låseskjerm</string>
      <string name="status_bar_settings_show_flow_info">Vis strømdetaljer</string>
+     <string name="status_bar_settings_show_home_message">App icon badge</string>
+     <string name="status_bar_settings_show_keyguard_notification">Show floating notifications</string>
+     <string name="status_bar_settings_show_keyguard_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_notification_icon">Vis varselikon</string>

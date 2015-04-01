@@ -41,6 +41,7 @@
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
      <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg bakgrunn</string>
+     <string name="cloud_app_restore_title">Venter</string>
      <string name="confirm_btn_label">OK</string>
      <string name="current_preview">Forhåndsvisning</string>
      <string name="current_wallpaper">Gjeldende</string>

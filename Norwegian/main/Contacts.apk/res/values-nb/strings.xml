@@ -653,6 +653,7 @@ for å legge til kontakt til favoritter:
      <string name="percent_sign">%</string>
      <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Telefon</string>
+     <string name="phone_call_type_voip">VOIP</string>
      <string name="phone_info_divider">"  |  "</string>
      <string name="phone_primary">Primær</string>
      <string name="photoPickerNotFoundText">Ingen bilder er tilgjengelige</string>
@@ -841,11 +842,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_detail_window_title">%1$s detaljer</string>
      <string name="resource_download">Last ned</string>
      <string name="resource_download_notification_content">Klikk for å vise</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$s themes downloaded -->
-     <string name="resource_download_notification_title_many">$1$s temaer lastet ned!</string>
+     <string name="resource_download_notification_title_many">%1$s temaer lastet ned</string>
      <string name="resource_download_notification_title_one">Tema nedlastet!</string>
      <string name="resource_download_trial">Gratis prøve</string>
      <string name="resource_downloaded_title">Nedlastede elementer</string>
@@ -930,7 +927,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_title">Detaljer</string>
      <string name="resource_title_category">Kategorier</string>
      <string name="resource_title_hot_subject">Populær</string>
-     <string name="resource_title_local">Lokal</string>
+     <string name="resource_title_local">Offline</string>
      <string name="resource_title_rank">Topplister</string>
      <string name="resource_title_select_ringtone">Velg ringetone</string>
      <string name="resource_title_subject">Featured</string>

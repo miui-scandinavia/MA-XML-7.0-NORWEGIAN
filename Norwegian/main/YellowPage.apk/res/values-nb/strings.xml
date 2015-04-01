@@ -13,6 +13,7 @@
      <string name="account_updating_device_failed">"Kunne ikke logge inn"</string>
      <string name="account_verify_password">"Du bruker denne tjenesten på en annen enhet. Av sikkerhetsgrunner må du verifisere Mi-kontoen din på denne enheten."</string>
      <string name="account_yellowpage_favorite">Favoritter</string>
+     <string name="account_yellowpage_followed">Verified Accounts</string>
      <string name="account_yellowpage_recent">Vis historikk</string>
      <string name="agree">Samtykk</string>
      <string name="all_resources">Alle</string>
@@ -106,6 +107,8 @@
      <string name="express_field_empty">Tom</string>
      <string name="express_go_back">Tilbake</string>
      <string name="express_info_divider">" / "</string>
+     <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.
+Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inqiury_select_logistics">Velg kurer</string>
      <string name="express_inquiry">Sporer</string>
      <string name="express_inquiry_button_text">Spor</string>
@@ -119,9 +122,10 @@
      <string name="express_inquiry_history">Historikk</string>
      <string name="express_inquiry_history_remark">Bemerkning</string>
      <string name="express_inquiry_history_remark_hint">Berkmerkning</string>
-     <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.
-Vennligst sjekk ditt sproingsnummer"</string>
+     <string name="express_inquiry_internal_failure">"An error occurred.
+Please your check tracking number."</string>
      <string name="express_inquiry_logistics">Velg en kurertjeneste</string>
+     <string name="express_inquiry_logistics_prefix">Courier service: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Andre</string>
      <string name="express_inquiry_no_history">Ingen historikk</string>
      <string name="express_inquiry_no_result">Ingen resultater.</string>
@@ -130,6 +134,10 @@ Vennligst sjekk ditt sproingsnummer"</string>
 Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_provider_info">Drevet av</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Number: %s -->
      <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
      <string name="express_inquiry_trace">Spor</string>
      <string name="express_inquiry_trace_device_login_notice">"Du bruker denne tjenesten på en annen enhet. Hvis du vil motta orderens status fra denne enhetne, vennligst verifiser din Mi-konto."</string>
@@ -264,16 +272,34 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="notify_connect_title">Varsel om internett-tilkobling</string>
      <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter nettressurser</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Order date: -->
      <string name="order_date_label">Order date: %s</string>
+     <string name="order_detail">Detail</string>
      <string name="order_empty_hint">Ingen ordre</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Order ID: -->
      <string name="order_id_label">Ordre-ID: %s</string>
      <string name="order_merchant_title">Mine ordre</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Ingen relaterte ordre</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Order price: -->
      <string name="order_price_label">Ordre-pris: %s</string>
      <string name="order_product_name_label">"Produktnavn: "</string>
      <string name="order_status">%s</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Order status: -->
      <string name="order_status_label">Ordre-status: %s</string>
+     <string name="order_type_recharge">Top-up</string>
      <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>
      <string name="packages_pay">Kjøp</string>
      <string name="packages_pay_confirm">Bekreft betaling</string>
@@ -530,4 +556,10 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="voicemail">Mobilsvar</string>
      <string name="web_permission_message">%1$s trenger å se din %2$s for å fungere normalt.</string>
      <string name="yellow_page_website">Offisielt nettsted</string>
+     <string name="yellowpage_navigation_network_location_enable">Allow</string>
+     <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
+     <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
+     <string name="yuan">Yuan</string>
 </resources>

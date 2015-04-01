@@ -52,6 +52,9 @@
      <string name="alert_secret_album_set_pattern">Sett opplåsningsmønster</string>
      <string name="alert_secret_album_title">Lagt til i skjulte album</string>
      <string name="already_apply_album">Åpne %1$s?</string>
+     <string name="always_rotate_alert_msg">Du kan skru denne funksjonen av eller på når som heslt i Galleri-innstillinger.</string>
+     <string name="always_rotate_alert_positive_button_text">Skru på</string>
+     <string name="always_rotate_alert_title">Auto-roter bilder</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
      <string name="aperture">Blender</string>
@@ -534,6 +537,7 @@ venner."</string>
      <string name="context_menu_copy">Kopiér</string>
      <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
      <string name="contrast">Kontrast</string>
+     <string name="contrast_abbr">C</string>
      <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="cool">Kul</string>
      <string name="cool_portrait">Portrett</string>
@@ -670,6 +674,7 @@ venner."</string>
      <string name="has_invalid_recipient">Ugyldige mottaker(e): %1$s</string>
      <string name="height">Høyde</string>
      <string name="highlight">Høydepunkter</string>
+     <string name="highlight_abbr">H</string>
      <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
      <string name="home_my_captured_items">Bilder i alt</string>
      <string name="home_page_tab_cloud">Mi Cloud</string>
@@ -888,6 +893,7 @@ venner."</string>
      <string name="rotate_tooltip">Trekk foto for å rotere det</string>
      <string name="same_name_album_exists_alert">Bilder vil bli lagt til i et eksistrende album med det samme navnet.</string>
      <string name="saturation">Metning</string>
+     <string name="saturation_abbr">S</string>
      <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
      <string name="save">LAGRE</string>
      <string name="save_error">"Kunne ikke lagre redigert bilde."</string>
@@ -966,6 +972,7 @@ venner."</string>
      <string name="slideshow_repeat_mode">Gjenta</string>
      <string name="slideshow_time_select_title">Velg lysbildeshow-tid</string>
      <string name="slideshow_time_title">Lysbildeshow-tid</string>
+     <string name="sports_camera">Sportskamera</string>
      <string name="square">Kvadrat</string>
      <string name="start_slide_show">Start lysbildevisning</string>
      <string name="start_to_use_face_albumset">Sorter etter folk</string>
@@ -1043,5 +1050,5 @@ venner."</string>
      <string name="wps">WPS</string>
      <string name="yellow_page">Katalog</string>
      <string name="yes">Ja</string>
-     <string name="yunyi_pocket_camera">Lommekamera</string>
+     <string name="yunyi_pocket_camera">Sportskamera</string>
 </resources>

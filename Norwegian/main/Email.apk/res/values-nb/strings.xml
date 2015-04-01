@@ -511,7 +511,7 @@
      <string name="head_only_enable_dialog_positive">Accept</string>
      <string name="head_only_enable_dialog_title">Traffic saver</string>
      <string name="header_category_account">Kontoer</string>
-     <string name="header_category_other">Flere innstillinger</string>
+     <string name="header_category_other">Tilbakemeldinger</string>
      <string name="header_label_general_preferences">Generelt</string>
      <string name="help_and_info">Hjelp</string>
      <string name="hide_atts_remaining">Hide %1$d attachments</string>
@@ -881,14 +881,15 @@ CC: %4$s
      <string name="save_power_title">Battery saver</string>
      <string name="saved">Saved,  %s</string>
      <string name="saving">Saving…</string>
-     <string name="search_attachment">Search</string>
+     <string name="sdcard_cannot_use">SD-kort kunne ikke bli brukt</string>
+     <string name="search_attachment">Søk</string>
      <string name="search_hint">Søk epost</string>
-     <string name="search_result">Results</string>
-     <string name="search_results_header">Results</string>
+     <string name="search_result">Resultater</string>
+     <string name="search_results_header">Resultater</string>
      <string name="search_results_loaded">%1$d</string>
-     <string name="search_results_searching_header">Searching…</string>
-     <string name="search_tabs_name_all">All</string>
-     <string name="search_tabs_name_recipient">Recipient</string>
+     <string name="search_results_searching_header">Søker…</string>
+     <string name="search_tabs_name_all">Alle</string>
+     <string name="search_tabs_name_recipient">Mottaker</string>
      <string name="search_tabs_name_sender">Sender</string>
      <string name="search_tabs_name_subject">Subject</string>
      <string name="search_title">Unified Email</string>
@@ -992,6 +993,12 @@ CC: %4$s
      <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
      <string name="updated_at">Last update: %1$s</string>
      <string name="updated_just_now">Updated just now</string>
+     <string name="upload_log">Upload diagnostic logs</string>
+     <string name="upload_log_failed">Logs upload failed</string>
+     <string name="upload_log_success">Logs uploaded successfully</string>
+     <string name="upload_log_title">Upload the diagnostic logs?</string>
+     <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+     <string name="uploading_logs">Uploading logs</string>
      <string name="validation_failed_prompt">Validation failed, check %s server settings</string>
      <string name="veiled_address" />
      <string name="veiled_alternate_text" />
@@ -1026,5 +1033,6 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
      <string name="xiaomi_update_dialog_title">%1$s update!</string>
      <string name="yes">Yes</string>
+     <string name="you_are_in_mobile_network">You are currently using a mobile network, please pay attention to the traffic!</string>
      <string name="zip_viewer_no_file">Empty</string>
 </resources>

@@ -96,6 +96,7 @@
      <string name="submit_dialog_cancel">Avbryt</string>
      <string name="submit_dialog_confirm">Send</string>
      <string name="submit_dialog_content">"Dine tilbakemeldinger, sammen med feillogger og vedlagte bilder, vil bli sendt til Xiaomi sine servere."</string>
+     <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
      <string name="submit_dialog_title">Send rapport til Xiaomi</string>
      <string name="suggestion_description">"Skriv ditt forslag her"</string>
      <string name="suggestion_problem1">"Fortell oss hvilke funksjoner du vil se i fremtiden"</string>
@@ -106,6 +107,7 @@
      <string name="title_nonsystem_app">Andre apper</string>
      <string name="title_system_app">MIUI-apper</string>
      <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
+     <string name="toast_feedback_collect_store">Collecting logs…</string>
      <string name="toast_feedback_network_unavailable">"Kan ikke koble til nettverket"</string>
      <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
      <string name="toast_feedback_submitted">Tilbakemelding sendt</string>

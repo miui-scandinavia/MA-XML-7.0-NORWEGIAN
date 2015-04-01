@@ -43,7 +43,12 @@
      <string name="sim_dectection_next">Fortsett</string>
      <string name="sim_redetection">Sjekk for SIM-kort igjen</string>
      <string name="summary_not_set">Ikke satt</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 1
+	%s: 1 Original: 0
+	%d: 1 Original: 1 -->
+     <!-- Original string: Card %1$d -->
      <string name="summary_sim_card">Kort%1$d%2$s</string>
+     <string name="summary_sim_card_with_operator">Card %1$d, %2$s</string>
      <string name="terms_of_service">Vilkår og betingelser</string>
      <string name="terms_of_use">Vilkår for bruk</string>
      <string name="terms_of_use_label">"Ditt personvern er veldig viktig for oss. Vennligst les vilkårene for bruk

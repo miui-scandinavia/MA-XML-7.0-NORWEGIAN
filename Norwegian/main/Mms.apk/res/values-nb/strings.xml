@@ -81,6 +81,8 @@
      <string name="confirm_no_block_title">"Ikke blokker nummer og gjenopprette alle meldingene?"</string>
      <string name="confirm_rate_limit">"Et stort antall MMS'er sendes, bekreft at dette er ok?"</string>
      <string name="confirm_restore_all_title">Gjenopprett alle meldinger fra dette nummeret？</string>
+     <string name="confirm_restore_checkbox">Unblock Messages send from this number</string>
+     <string name="confirm_restore_message">Restore selected messages?</string>
      <string name="confirm_restore_positive">Gjenopprett</string>
      <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
      <string name="confirm_send_mms">En av dine mottakere innholder en epost-adresse. Denne meldingen vil bli sendt som en MMS, som kan resultere i ekstra kostnader fra din operatør.</string>
@@ -366,6 +368,7 @@
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
      <string name="pref_title_sms_validity_period">SMS gyldighetsperiode</string>
+     <string name="pref_title_storage_status">Message storage status</string>
      <string name="pref_title_system_mms_priority">System MMS-app prioritet</string>
      <string name="pref_title_vcard">Send via vCard</string>
      <string name="pref_title_wake_up_screen">Vekk skjerm</string>
@@ -390,6 +393,7 @@
      <string name="received_label">"Mottatt: "</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recipient_label">"Mottaker: "</string>
+     <string name="recipients_over_size">Recipients are too many.</string>
      <string name="recording_failed">"Kan ikke ta opp"</string>
      <string name="refill_now">Fyll på nå</string>
      <string name="refresh">Oppdater</string>
@@ -495,6 +499,12 @@
      <string name="stick">Marker</string>
      <string name="stick_conversation">Marker nåværende samtale</string>
      <string name="sticked_conversation">Allerede markeret</string>
+     <string name="storage_dialog_attachments">Mms attachments:</string>
+     <string name="storage_dialog_available_space">Available_space:</string>
+     <string name="storage_dialog_database">Database:</string>
+     <string name="storage_dialog_mms">Mms: %d</string>
+     <string name="storage_dialog_mms_size">Mms size:</string>
+     <string name="storage_dialog_sms">Sms: %d</string>
      <string name="storage_limits_activity">Plassgrenser</string>
      <string name="storage_limits_message">Vil du begrense antallet meldinger du lagrer per samtale?</string>
      <string name="storage_limits_setting">Sett begrensning</string>
