@@ -134,11 +134,7 @@ Please your check tracking number."</string>
 Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_provider_info">Drevet av</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Number: %s -->
-     <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
+     <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
      <string name="express_inquiry_trace">Spor</string>
      <string name="express_inquiry_trace_device_login_notice">"Du bruker denne tjenesten på en annen enhet. Hvis du vil motta orderens status fra denne enhetne, vennligst verifiser din Mi-konto."</string>
      <string name="express_inquiry_trace_success">Sporet</string>
@@ -187,7 +183,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_sender_region">Avsender region</string>
      <string name="express_submit_order">Send</string>
      <string name="express_track_order">Spor</string>
-     <string name="express_tracking_number">Tracking number</string>
+     <string name="express_tracking_number">Tracking-nummer</string>
      <string name="express_urge_order">Oppfordre</string>
      <string name="express_view_order">Vis ordre</string>
      <string name="express_view_status">Følg</string>
@@ -272,33 +268,21 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="notify_connect_title">Varsel om internett-tilkobling</string>
      <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter nettressurser</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Order date: -->
-     <string name="order_date_label">Order date: %s</string>
-     <string name="order_detail">Detail</string>
+     <string name="order_date_label">Ordredato: </string>
+     <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
      <!-- Original string: Order ID: -->
-     <string name="order_id_label">Ordre-ID: %s</string>
+     <string name="order_id_label">Ordre-ID: </string>
      <string name="order_merchant_title">Mine ordre</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Ingen relaterte ordre</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Order price: -->
      <string name="order_price_label">Ordre-pris: %s</string>
-     <string name="order_product_name_label">"Produktnavn: "</string>
+     <string name="order_product_name_label">Produktnavn: </string>
      <string name="order_status">%s</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Order status: -->
-     <string name="order_status_label">Ordre-status: %s</string>
+     <string name="order_status_label">Ordre-status: </string>
      <string name="order_type_recharge">Top-up</string>
      <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>
      <string name="packages_pay">Kjøp</string>
@@ -410,7 +394,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
      <string name="resource_default">Standard ringetone</string>
      <string name="resource_default_name">Element</string>
-     <string name="resource_delete">Delete</string>
+     <string name="resource_delete">Slett</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
      <string name="resource_delta_update_failed">Oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
@@ -531,8 +515,6 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo account er ugyldig: Vennligst koble til på nytt</string>
      <string name="smart_antispam">Identifiser ukjente nummer automatisk</string>
-     <string name="tag_follow_status">tag_follow_status</string>
-     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="toast_finish_delete_call_log">Anropsloggen er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
@@ -552,14 +534,14 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="user_notice_title">Brukervarsel</string>
      <string name="user_notice_yp_detail_summary_format">Den delvise info på denne gulesiden må oppdateres på nettet, vennligst les %1$s og %2$s, klikk \"Samtykk\", som betyr at du godtar innholdet ovenfor og bør adlyde avtalen, klikk \ "Avbryt \" for å bare vise den mellomlagrede info</string>
      <string name="user_notice_yp_detail_summary_format_cta">"En del av kataloginfoen er utdatert. Vil du oppdatere den? Ved å trykke \"Samtykke\" godtar du Xiaomi sine %1$s og %2$s."</string>
-     <string name="view_orders">Bis odre</string>
+     <string name="view_orders">Vis ordre</string>
      <string name="voicemail">Mobilsvar</string>
      <string name="web_permission_message">%1$s trenger å se din %2$s for å fungere normalt.</string>
      <string name="yellow_page_website">Offisielt nettsted</string>
-     <string name="yellowpage_navigation_network_location_enable">Allow</string>
-     <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
-     <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
+     <string name="yellowpage_navigation_network_location_enable">Tillat</string>
+     <string name="yellowpage_navigation_network_location_enable_later">Ikke nå</string>
+     <string name="yellowpage_navigation_network_location_enabled">Tjnesten er aktivert, du kan deaktivere i Plasseringsinnstillinger</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_summary">Forbedre søkeresultater ved å tillate Katalog å få tilgang til din plasseringsinfo.</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_title">Plasseringstilgang</string>
      <string name="yuan">Yuan</string>
 </resources>

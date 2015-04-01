@@ -246,7 +246,7 @@
      <string name="resource_title">Detaljer</string>
      <string name="resource_title_category">Kategorier</string>
      <string name="resource_title_hot_subject">Populær</string>
-     <string name="resource_title_local">Lokal</string>
+     <string name="resource_title_local">Offline</string>
      <string name="resource_title_rank">Topplister</string>
      <string name="resource_title_select_ringtone">Velg ringetone</string>
      <string name="resource_title_subject">Utvalgte</string>
@@ -334,7 +334,7 @@
      <string name="theme_yes">Ja</string>
      <string name="third_party_pickers_activity_title">Sett %1$s</string>
      <string name="title_component">Personliggjør tema</string>
-     <string name="title_system_resource">Lokal</string>
+     <string name="title_system_resource">Offline</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="wallpaper_crop">Beskjær</string>
      <string name="wallpaper_decoded_error">Kunne ikke avkode</string>

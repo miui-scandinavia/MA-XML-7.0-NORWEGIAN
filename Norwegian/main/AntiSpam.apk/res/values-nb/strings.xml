@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="ACaddnumcontent">Oppgi begynnelsen av nummeret, så vil systemet automatisk legge til jokertegn *</string>
@@ -50,6 +50,10 @@
      <string name="address_choose_hint">%1$s, %2$s og %3$d andre plasseringer</string>
      <string name="addwhitelist">Legg til i unntak</string>
      <string name="all_address_choose_hint">Alle numre i denne provinsen</string>
+     <string name="antispam_notificaiton_type_show_all">Show when any call is blocked</string>
+     <string name="antispam_notificaiton_type_show_except_blacklist">Show when non-blocklist call is blocked</string>
+     <string name="antispam_notificaiton_type_show_none">"Don't show notifications"</string>
+     <string name="antispam_notification_setting_title">Blocklist notifications</string>
      <string name="app_name">Blokkeringsliste</string>
      <string name="backsound_set_hint">Sett bortemelding til %s?</string>
      <string name="baidu_thanks">Drevet av Baidu</string>
@@ -128,7 +132,7 @@
      <string name="label_callwait">Varsel om ventende anrop</string>
      <string name="loding">Laster data</string>
      <string name="log_count">(%d)</string>
-     <string name="mark_agent">Salg</string>
+     <string name="mark_agent">Agent</string>
      <string name="mark_agent_block">Rapportert som salgsagent</string>
      <string name="mark_banking_insurance">Salg av forsikring</string>
      <string name="mark_banking_insurance_block">Rapportert som salg av forsikring</string>
@@ -138,8 +142,17 @@
      <string name="mark_fraud_block">Rapportert som svindel</string>
      <string name="mark_meal">Matleveranse</string>
      <string name="mark_meal_block">Rapportert som matleveranse</string>
+     <string name="mark_number_agent">Agent</string>
+     <string name="mark_number_banking">Salg av forsikring</string>
+     <string name="mark_number_fraud">Svindel</string>
      <string name="mark_number_info">"
 Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leilighet). Bare blokkér numre du ikke vil motta samtaler fram."</string>
+     <string name="mark_number_sell">Telefonselger</string>
+     <string name="mark_number_setting_guide_content1">Blokkér anrop fra rapporterte numre?</string>
+     <string name="mark_number_setting_guide_content2">Automatisk blokké anrop fra numre som har blitt rapportert av andre brukere</string>
+     <string name="mark_number_setting_guide_content3">Du rapporterte nummeret som %1$s. Vil du blokkere anrop fra numre raportert som %2$s?</string>
+     <string name="mark_number_setting_guide_forward">Innstillinger for blokkeringsliste</string>
+     <string name="mark_number_setting_guide_title">Blokkér rapporterte numre</string>
      <string name="mark_sell">Telefonsselger</string>
      <string name="mark_sell_block">Rapportert som telefonnselger</string>
      <string name="marked_by_others">"%d andre brukere markerte den som "</string>
