@@ -194,9 +194,9 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
      <string name="notification_title">%1$s-%2$s: rundt %3$s brukt</string>
      <string name="notify_daily_data_usage_body">%s brukt i dag. Trykk for å velge grense.</string>
-     <string name="notify_daily_limit_body">%s brukt denne uken. Trykk for å velge grense.</string>
+     <string name="notify_daily_limit_body">%s brukt i dag. Trykk for å velge grense.</string>
      <string name="notify_daily_limit_title">Velg en daglig datagrense</string>
-     <string name="notify_daily_limit_title_for_slotnum">Set daily data limit for %s</string>
+     <string name="notify_daily_limit_title_for_slotnum">Sett daglig datagrense for %s</string>
      <string name="notify_month_traffic_body">%s brukt denne måneden. Trykk for å velge grense.</string>
      <string name="notify_setting_pkg_title">Velg din månedlige datagrense</string>
      <string name="notify_setting_pkg_title_for_slotnum">Sett månedlig datagrense for %s</string>

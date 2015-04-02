@@ -118,9 +118,9 @@
      <string name="mdb_restore_label">MDB gjenopprett</string>
      <string name="mdb_restore_mode">MDB gjennomoppretningsmodus</string>
      <string name="mdb_usb_disconnection_exit">USB frakoblet, gjenoppretning avbrutt!</string>
-     <string name="media_projection_action_text">Start now</string>
-     <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-     <string name="media_projection_remember_text">"Don't show again"</string>
+     <string name="media_projection_action_text">Start nå</string>
+     <string name="media_projection_dialog_text">"%s vil starte å ta opp alt på som blir vist på skjermen din."</string>
+     <string name="media_projection_remember_text">"Ikke vis igjen"</string>
      <string name="mount_storage">Ja</string>
      <string name="no_notification_tips">Ingen varsler</string>
      <string name="notification_otg_gamestick_in">Spillkontroller tilkoblet</string>

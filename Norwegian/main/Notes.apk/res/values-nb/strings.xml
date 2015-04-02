@@ -39,7 +39,7 @@
      <string name="login_sync">Logg inn &amp; synk</string>
      <string name="menu_create_folder">Ny mappe</string>
      <string name="menu_delete">Slett</string>
-     <string name="menu_folders">Folders</string>
+     <string name="menu_folders">Mapper</string>
      <string name="menu_move">Flytt til mappe</string>
      <string name="menu_move_parent_folder">Overstående mappe</string>
      <string name="menu_send_to_desktop">Send til skrivebord</string>
