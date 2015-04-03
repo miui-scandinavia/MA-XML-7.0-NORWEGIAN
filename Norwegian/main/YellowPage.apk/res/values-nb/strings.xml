@@ -271,14 +271,14 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="order_date_label">Ordredato: </string>
      <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Order ID: -->
      <string name="order_id_label">Ordre-ID: </string>
      <string name="order_merchant_title">Mine ordre</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Ingen relaterte ordre</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: "Order price: " -->
      <string name="order_price_label">Ordre-pris: %s</string>
      <string name="order_product_name_label">Produktnavn: </string>
      <string name="order_status">%s</string>
@@ -515,6 +515,8 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo account er ugyldig: Vennligst koble til på nytt</string>
      <string name="smart_antispam">Identifiser ukjente nummer automatisk</string>
+     <string name="tag_follow_status">tag_follow_status</string>
+     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="toast_finish_delete_call_log">Anropsloggen er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>

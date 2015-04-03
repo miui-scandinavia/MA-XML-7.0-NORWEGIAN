@@ -308,6 +308,7 @@
      <string name="notification_multiple_title">Nye meldinger</string>
      <string name="number_add_hint">Skriv nummer som skal legges til i private kontakter</string>
      <string name="open_url_with_web">Åpne denne URLen i nettleser?</string>
+     <string name="over_max_mms_size">Mms is too big.</string>
      <string name="overwrite_edited_content">Det endrede innholdet vil overskrives, vil du fortsette?</string>
      <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
      <string name="phrase_empty">Ingen setninger</string>
@@ -344,6 +345,7 @@
      <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
      <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
      <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"</string>
+     <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
      <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
      <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
      <string name="pref_system_title">System</string>
@@ -365,6 +367,7 @@
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
      <string name="pref_title_ringtone_repeat_summary">"Antall varslingslyder når SMS-melding blir mottatt mens skjermen er av: "</string>
+     <string name="pref_title_send_delivery_reports">Send delivery report</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
      <string name="pref_title_sms_validity_period">SMS gyldighetsperiode</string>

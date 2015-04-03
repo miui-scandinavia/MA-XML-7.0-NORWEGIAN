@@ -65,6 +65,7 @@
      <string name="menu_attach_screenshot">Legg ved skjermbilde</string>
      <string name="menu_copy">Kopier</string>
      <string name="menu_discard">Slett</string>
+     <string name="network_disconnected">No network</string>
      <string name="network_err">"Kan ikke koble til nettverket."</string>
      <string name="network_unavailable_dialog_button_ok">OK</string>
      <string name="network_unavailable_dialog_content">Tilbakemelding vil bli sendt når nettverket er tilgjengelig</string>
@@ -113,6 +114,7 @@
      <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
      <string name="toast_feedback_submitting">Sender…</string>
      <string name="toast_feedbackservice_in_submit">Sender forrige tilbakemelding…</string>
+     <string name="toast_fill_brackets">Please fill in the brackets</string>
      <string name="toast_network_unavailable">"Kunne ikke sende. Kan ikke koble til nettverket."</string>
      <string name="toast_pending_log_collection">Samler inn logger, vennligst vent...</string>
      <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
