@@ -50,10 +50,10 @@
      <string name="address_choose_hint">%1$s, %2$s og %3$d andre plasseringer</string>
      <string name="addwhitelist">Legg til i unntak</string>
      <string name="all_address_choose_hint">Alle numre i denne provinsen</string>
-     <string name="antispam_notificaiton_type_show_all">Show when any call is blocked</string>
-     <string name="antispam_notificaiton_type_show_except_blacklist">Show when non-blocklist call is blocked</string>
-     <string name="antispam_notificaiton_type_show_none">"Don't show notifications"</string>
-     <string name="antispam_notification_setting_title">Blocklist notifications</string>
+     <string name="antispam_notificaiton_type_show_all">Vis når hvilket som helst anrop blir blokkert</string>
+     <string name="antispam_notificaiton_type_show_except_blacklist">Vis når anrop som ikke er i blokkeringsliste, blir blokkert</string>
+     <string name="antispam_notificaiton_type_show_none">"Ikke vis varsler"</string>
+     <string name="antispam_notification_setting_title">Blokkeringsliste-varseler</string>
      <string name="app_name">Blokkeringsliste</string>
      <string name="backsound_set_hint">Sett bortemelding til %s?</string>
      <string name="baidu_thanks">Drevet av Baidu</string>

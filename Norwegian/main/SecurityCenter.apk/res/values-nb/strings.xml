@@ -140,10 +140,10 @@
      <string name="clean_content_three">Hopp over %s</string>
      <string name="clean_content_two">%1$s og %2$s</string>
      <string name="clean_content_zero">"Ikke rydd noenting"</string>
-     <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
-     <string name="cmcc_app_check_dialog_negative">Later</string>
-     <string name="cmcc_app_check_dialog_positive">Restart now</string>
-     <string name="cmcc_app_check_dialog_title">System repaired</string>
+     <string name="cmcc_app_check_dialog_message">Start enheten på nytt for å fullføre reparering.</string>
+     <string name="cmcc_app_check_dialog_negative">Senere</string>
+     <string name="cmcc_app_check_dialog_positive">Omstart nå</string>
+     <string name="cmcc_app_check_dialog_title">System reparert</string>
      <string name="confirm_auto_cleaner">OK</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Avbryt</string>
@@ -360,10 +360,10 @@
      <string name="never">Bare en gang</string>
      <string name="notification_button_text_of_low_memory">Rydd opp</string>
      <string name="notification_summary_after_auto_cleanup">Ryddet opp %s.</string>
-     <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+     <string name="notification_summary_cmcc_app_check">Trykk for å vise detaljer.</string>
      <string name="notification_summary_of_garbage_cleanup">Søppelbøtta har mer enn %s søppel.</string>
      <string name="notification_summary_of_low_memory">Når det er lite minne blir det ikke installert nye apper</string>
-     <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
+     <string name="notification_title_cmcc_app_check">%d dager siden siste sjekk</string>
      <string name="notification_title_firewall_blocked">Blokkert</string>
      <string name="notification_title_of_garbage_cleanup">Søppelstørrelse</string>
      <string name="notification_title_of_low_memory">%s av plassen brukt</string>
@@ -667,7 +667,7 @@
      <string name="summary_cleaner_cloudscan">Last opp og sammenlign ukjente mappenavn med nettdefinisjoner</string>
      <string name="summary_cloud_account">Få mest mulig ut av din Mi-enhet</string>
      <string name="summary_cloud_service">Synkroniser dine bilder, kontakter, og mer på tvers av alle dine enheter</string>
-     <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
+     <string name="summary_cmcc_app_check">"Noen apper kunne ikke bli verifisert"</string>
      <string name="summary_data_flow">"Unngå å gå over operatøren din sin månedlige dataforbrukgrense"</string>
      <string name="summary_default_app">"%s er ikke satt som standard systemapp"</string>
      <string name="summary_delete_cache">Noen apper krever denne dataen for å fungere normalt.</string>
@@ -707,7 +707,7 @@
      <string name="title_cleaner_cloudscan">Last opp mappenavn</string>
      <string name="title_cloud_account">Mi-konto</string>
      <string name="title_cloud_service">Mi Cloud</string>
-     <string name="title_cmcc_app_check">"Verification isn't complete"</string>
+     <string name="title_cmcc_app_check">"Verifisering er ikke ferdig"</string>
      <string name="title_data_flow">Sett et dataforbruksvarsel</string>
      <string name="title_data_flow_no">Databruksovervåker er av</string>
      <string name="title_data_flow_yes">Databruksovervåker er på</string>

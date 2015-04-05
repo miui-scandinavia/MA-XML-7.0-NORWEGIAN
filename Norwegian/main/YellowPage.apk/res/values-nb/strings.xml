@@ -13,7 +13,7 @@
      <string name="account_updating_device_failed">"Kunne ikke logge inn"</string>
      <string name="account_verify_password">"Du bruker denne tjenesten på en annen enhet. Av sikkerhetsgrunner må du verifisere Mi-kontoen din på denne enheten."</string>
      <string name="account_yellowpage_favorite">Favoritter</string>
-     <string name="account_yellowpage_followed">Verified Accounts</string>
+     <string name="account_yellowpage_followed">Verifiserte kontoer</string>
      <string name="account_yellowpage_recent">Vis historikk</string>
      <string name="agree">Samtykk</string>
      <string name="all_resources">Alle</string>

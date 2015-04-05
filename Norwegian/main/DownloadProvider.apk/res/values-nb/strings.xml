@@ -8,7 +8,7 @@
      <string name="button_start_now">Start nå</string>
      <string name="dialog_insufficient_space_on_cache">Ikke nok plass på intern lagring</string>
      <string name="dialog_insufficient_space_on_external">Ikke nok plass på ekstern lagring</string>
-     <string name="dialog_not_show_again">不再提示</string>
+     <string name="dialog_not_show_again">Ikke vis igjen</string>
      <string name="download_error">Mislykket</string>
      <string name="download_no_application_title">"Kan ikke åpne fil"</string>
      <string name="download_percent">%d%%</string>
@@ -26,7 +26,7 @@
      <string name="notification_download_failed">Nedlasting feilet.</string>
      <string name="notification_need_wifi_for_size">Nedlastningsstørrelse krever WLAN.</string>
      <string name="notification_paused_in_background">Pauset i bakgrunnen.</string>
-     <string name="paused_waiting_for_network">Waiting for network</string>
+     <string name="paused_waiting_for_network">Venter på nettverk</string>
      <string name="permdesc_accessAllDownloads">Gir appen tilgang til å se og endre alle nedlastinger startet av en hvilken som helst app i systemet.</string>
      <string name="permdesc_downloadCacheNonPurgeable">"Gir appen tilgang til å laste ned filer til nedlastningscachen, som ikke kan bli slettet automatisk når nedlastingshåndtereren trenger mer plass."</string>
      <string name="permdesc_downloadCompletedIntent">Gir appen tilgang til å sende varsler om mottatte nedlastinger. Ondsinnede apper kan bruke dette til å forvirre andre apper som laster ned filer.</string>
@@ -49,9 +49,9 @@
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="root_downloads">Nedlastninger</string>
      <string name="task_already_exist">Oppgave eksisterer allerede</string>
-     <string name="warning_tip_cancel">继续下载</string>
+     <string name="warning_tip_cancel">Fortsett å laste ned</string>
      <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
-     <string name="warning_tip_ok">暂停</string>
+     <string name="warning_tip_ok">OK</string>
      <string name="warning_tip_title">数据网络切换警告</string>
      <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
 
