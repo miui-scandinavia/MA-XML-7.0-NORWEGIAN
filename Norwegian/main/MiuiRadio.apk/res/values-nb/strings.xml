@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="access_history">Historikk</string>
-     <string name="action_item_delete">Delete</string>
+     <string name="action_item_delete">Slett</string>
      <string name="add_favorite">Utvalgte</string>
      <string name="app_name">Radio</string>
      <string name="app_to_share">Fullfør valg med</string>
@@ -67,7 +67,7 @@
      <string name="no_display_channel_text">Ingen kanaler</string>
      <string name="no_display_history_text">Ingen historikk</string>
      <string name="no_display_other_text">Ingen resultat</string>
-     <string name="no_download_text">No download</string>
+     <string name="no_download_text">Ingen nedlastning</string>
      <string name="no_network_button_radio">Bruk FM radio</string>
      <string name="no_network_button_refresh">Oppdater</string>
      <string name="no_network_text">"Kan ikke koble til nettverket."</string>
@@ -91,7 +91,7 @@
      <string name="share_in_development" />
      <string name="share_text">fra Radio</string>
      <string name="share_text_other">Hør på %1$s den %2$s.</string>
-     <string name="sleep_mode_canceled">Sleep mode turned off</string>
+     <string name="sleep_mode_canceled">Sovemodus skrudd av</string>
      <string name="still_in_dev">"Vi jobber fortsatt med denne funksjonen"</string>
      <string name="summary_download">"Ikke bruk mobildata for å laste ned radioinnhold"</string>
      <string name="summary_download_quality">Velg nedlastningskvalitet</string>
