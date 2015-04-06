@@ -110,6 +110,7 @@
      <string name="hint_for_long_press_app_switch_key">Trykk og hold for å vise meny</string>
      <string name="invalid_charger">"USB-lading støttes ikke. Bruk bare den medfølgende laderen."</string>
      <string name="label_view">Vis</string>
+     <string name="lland">L Land</string>
      <string name="lockscreen_carrier_default">Ingen tjeneste</string>
      <string name="mdb_entering">Starter MDB</string>
      <string name="mdb_restore_cancel">Avbryt</string>

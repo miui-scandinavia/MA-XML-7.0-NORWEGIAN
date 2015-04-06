@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="bluetooth_map_email_settings_app_icon">Appikon</string>
-     <string name="bluetooth_map_email_settings_cancel">Avbryt</string>
-     <string name="bluetooth_map_email_settings_count">Plasser igjen:</string>
-     <string name="bluetooth_map_email_settings_intro">Velg e-postkontoene du ønsker å dele via Bluetooth. Du må fortsatt akseptere eventuell tilgang til kontoene når du kobler til.</string>
-     <string name="bluetooth_map_email_settings_no_account_slots_left">Kan ikke velge kontoen. Det er 0 plasser igjen</string>
-     <string name="bluetooth_map_email_settings_save">Lagre</string>
-     <string name="bluetooth_map_email_settings_title">Innstillinger for meldingsdeling via Bluetooth</string>
-     <string name="incoming_line1">Fra</string>
-     <string name="incoming_line2">Filnavn</string>
-     <string name="incoming_line3">Størrelse</string>
-     <string name="map_acceptance_timeout_message">Det tok for lang tid å godta forbindelsen med «%1$s»</string>
-     <string name="map_auth_notif_message">Skriv inn øktsnøkkel for %1$s</string>
-     <string name="map_auth_notif_ticker">Autentiseringsforespørsel fra Obex</string>
-     <string name="map_auth_notif_title">Øktsnøkkel</string>
-     <string name="map_authentication_timeout_message">Det tok for lang tid å legge inn øktsnøkkel med %1$s</string>
-     <string name="map_defaultname">Bilsett</string>
-     <string name="map_defaultnumber">000000</string>
-     <string name="map_localPhoneName">Navnet mitt</string>
-     <string name="map_session_key_dialog_header">Bluetooth-øktsnøkkel kreves</string>
-     <string name="map_session_key_dialog_title">Skriv inn øktsnøkkel for %1$s</string>
-     <string name="map_unknownName">Ukjent navn</string>
      <string name="ErrorTooManyRequests">Det behandles for mange forespørsler. Prøv igjen senere.</string>
      <string name="ack_record">Ack-post</string>
+     <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
      <string name="airplane_error_msg">Du kan ikke slå på Bluetooth i flymodus.</string>
      <string name="airplane_error_title">Flymodus</string>
      <string name="app_name">Deling med Bluetooth</string>
@@ -34,10 +14,21 @@
      <string name="ble_device_profile_header_title">Profiler</string>
      <string name="ble_device_profile_title">Tilkoblet BLE-enhet</string>
      <string name="ble_device_unbind">Tøm innstillinger</string>
+     <string name="ble_profile_1">ble_profile_mi_band</string>
+     <string name="ble_profile_2">ble_profile_mi_key</string>
+     <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
+     <string name="bluetooth_map_email_settings_app_icon">Appikon</string>
+     <string name="bluetooth_map_email_settings_cancel">Avbryt</string>
+     <string name="bluetooth_map_email_settings_count">Plasser igjen:</string>
+     <string name="bluetooth_map_email_settings_intro">Velg e-postkontoene du ønsker å dele via Bluetooth. Du må fortsatt akseptere eventuell tilgang til kontoene når du kobler til.</string>
+     <string name="bluetooth_map_email_settings_no_account_slots_left">Kan ikke velge kontoen. Det er 0 plasser igjen</string>
+     <string name="bluetooth_map_email_settings_save">Lagre</string>
+     <string name="bluetooth_map_email_settings_title">Innstillinger for meldingsdeling via Bluetooth</string>
      <string name="bluetooth_preference_connected_devices">Tilkoblede enheter</string>
      <string name="bluetooth_preference_found_devices">Tilgjengelig enheter</string>
      <string name="bluetooth_preference_scan_title">Skann etter enheter</string>
      <string name="bluetooth_search_for_devices">Søk etter enheter</string>
+     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
      <string name="bt_enable_cancel">Avbryt</string>
      <string name="bt_enable_line1">Du må aktivere Bluetooth, før du kan bruke Bluetooth-tjenester.</string>
      <string name="bt_enable_line2">Vil du aktivere Bluetooth nå?</string>
@@ -85,6 +76,10 @@
      <string name="incoming_file_confirm_Notification_caption">Vil du motta denne filen?</string>
      <string name="incoming_file_confirm_Notification_title">Deling med Bluetooth: innkommende fil</string>
      <string name="incoming_file_confirm_cancel">Avvis</string>
+     <!-- MNPS mismatch found! Translated: 3 Original: 0
+	%s: 3 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Accept incoming file? -->
      <string name="incoming_file_confirm_content">"\"%1$s\" vil sende %2$s (%3$s) til deg.
 
 Vil du motta filen?"</string>
@@ -93,8 +88,22 @@ Vil du motta filen?"</string>
      <string name="incoming_file_confirm_timeout_ok">OK</string>
      <string name="incoming_file_confirm_title">Filoverføring</string>
      <string name="incoming_file_toast_msg">Innkommende fil fra en annen enhet. Bekreft at du vil motta denne filen.</string>
+     <string name="incoming_line1">Fra</string>
+     <string name="incoming_line2">Filnavn</string>
+     <string name="incoming_line3">Størrelse</string>
      <string name="insert_record">Sett inn post</string>
      <string name="localPhoneName">Bluetooth-navn</string>
+     <string name="map_acceptance_timeout_message">Det tok for lang tid å godta forbindelsen med «%1$s»</string>
+     <string name="map_auth_notif_message">Skriv inn øktsnøkkel for %1$s</string>
+     <string name="map_auth_notif_ticker">Autentiseringsforespørsel fra Obex</string>
+     <string name="map_auth_notif_title">Øktsnøkkel</string>
+     <string name="map_authentication_timeout_message">Det tok for lang tid å legge inn øktsnøkkel med %1$s</string>
+     <string name="map_defaultname">Bilsett</string>
+     <string name="map_defaultnumber">000000</string>
+     <string name="map_localPhoneName">Navnet mitt</string>
+     <string name="map_session_key_dialog_header">Bluetooth-øktsnøkkel kreves</string>
+     <string name="map_session_key_dialog_title">Skriv inn øktsnøkkel for %1$s</string>
+     <string name="map_unknownName">Ukjent navn</string>
      <string name="mi_band_vibrate_alarm">Vibrer når alarmen går</string>
      <string name="mi_band_vibrate_incall">Vibrer under ringing</string>
      <string name="mi_band_vibrate_incall_in_contacts">Vibrer under ringing for samtaler fra kontaktene dine</string>
@@ -165,6 +174,7 @@ Vil du motta filen?"</string>
      <string name="upload_fail_line1">Filen ble ikke sendt til \"%1$s\".</string>
      <string name="upload_fail_line1_2">Fil: %1$s</string>
      <string name="upload_fail_ok">Prøv igjen</string>
+     <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
      <string name="upload_line1">Til: \"%1$s\"</string>
      <string name="upload_line3">Filtype: %1$s (%2$s)</string>
      <string name="upload_line5">Sender fil…</string>
