@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="bluetooth_map_email_settings_app_icon">Appikon</string>
+     <string name="bluetooth_map_email_settings_cancel">Avbryt</string>
+     <string name="bluetooth_map_email_settings_count">Plasser igjen:</string>
+     <string name="bluetooth_map_email_settings_intro">Velg e-postkontoene du ønsker å dele via Bluetooth. Du må fortsatt akseptere eventuell tilgang til kontoene når du kobler til.</string>
+     <string name="bluetooth_map_email_settings_no_account_slots_left">Kan ikke velge kontoen. Det er 0 plasser igjen</string>
+     <string name="bluetooth_map_email_settings_save">Lagre</string>
+     <string name="bluetooth_map_email_settings_title">Innstillinger for meldingsdeling via Bluetooth</string>
+     <string name="incoming_line1">Fra</string>
+     <string name="incoming_line2">Filnavn</string>
+     <string name="incoming_line3">Størrelse</string>
+     <string name="map_acceptance_timeout_message">Det tok for lang tid å godta forbindelsen med «%1$s»</string>
+     <string name="map_auth_notif_message">Skriv inn øktsnøkkel for %1$s</string>
+     <string name="map_auth_notif_ticker">Autentiseringsforespørsel fra Obex</string>
+     <string name="map_auth_notif_title">Øktsnøkkel</string>
+     <string name="map_authentication_timeout_message">Det tok for lang tid å legge inn øktsnøkkel med %1$s</string>
+     <string name="map_defaultname">Bilsett</string>
+     <string name="map_defaultnumber">000000</string>
+     <string name="map_localPhoneName">Navnet mitt</string>
+     <string name="map_session_key_dialog_header">Bluetooth-øktsnøkkel kreves</string>
+     <string name="map_session_key_dialog_title">Skriv inn øktsnøkkel for %1$s</string>
+     <string name="map_unknownName">Ukjent navn</string>
      <string name="ErrorTooManyRequests">Det behandles for mange forespørsler. Prøv igjen senere.</string>
      <string name="ack_record">Ack-post</string>
      <string name="airplane_error_msg">Du kan ikke slå på Bluetooth i flymodus.</string>

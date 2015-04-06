@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="data_usage_data_range">
+        <item>De siste 30 dagene</item>
+        <item>Angi brukssyklus</item>
+     </string-array>
+     <string-array name="entries_zen_mode">
+        <item>Av</item>
+        <item>Begrensede forstyrrelser</item>
+        <item>Ingen forstyrrelser</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Moderat</item>
+        <item>Lav</item>
+        <item>Kritisk</item>
+     </string-array>
+     <string-array name="proc_stats_process_states">
+        <item>Vedvarende</item>
+        <item>Høyeste aktivitet</item>
+        <item>Viktig (i forgrunnen)</item>
+        <item>Viktig (i bakgrunnen)</item>
+        <item>Sikkerhetskopi</item>
+        <item>Tungvekt</item>
+        <item>Tjeneste (kjører)</item>
+        <item>Tjeneste (starter på nytt)</item>
+        <item>Mottaker</item>
+        <item>Hjemme</item>
+        <item>Siste aktivitet</item>
+        <item>Bufret (aktivitet)</item>
+        <item>Bufret (aktivitetsklient)</item>
+        <item>Bufret (tom)</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>64 000</item>
+        <item>256 000</item>
+        <item>1 million</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>64 kB pr loggbuffer</item>
+        <item>256 kB pr buffer</item>
+        <item>1 MB pr loggbuffer</item>
+        <item>4 MB pr loggbuffer</item>
+        <item>16 MB pr loggbuffer</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+     </string-array>
+     <string-array name="sim_card_data_range">
+        <item>De siste fire sifrene</item>
+        <item>De første fire sifrene</item>
+     </string-array>
      <string-array name="agps_network_entries">
         <item>Hjemmenettverk</item>
         <item>Alle nettverk</item>

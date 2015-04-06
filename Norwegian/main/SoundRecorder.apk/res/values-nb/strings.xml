@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="accept">Ferdig</string>
+     <string name="audio_db_album_name">Lydopptak</string>
+     <string name="audio_db_artist_name">Dine opptak</string>
+     <string name="audio_db_playlist_name">Mine opptak</string>
+     <string name="discard">Forkast</string>
+     <string name="error_app_unsupported">Ustøttet format.</string>
+     <string name="error_mediadb_aacincall">AAC taleanrop opptak støttes ikke.</string>
+     <string name="error_mediadb_incall">Dette alternativet støttes ikke under en samtale.</string>
+     <string name="error_mediadb_new_record">Kunne ikke lagre lydopptak.</string>
+     <string name="file_deleted">Filen har blitt slettet</string>
+     <string name="format_setting">Filtype</string>
+     <string name="in_call_record_error">In-call opptak feilet.</string>
+     <string name="insert_sd_card">Koble til USB-lagring</string>
+     <string name="keyboard">Tastatur</string>
+     <string name="max_length_reached">Makslengde nådd</string>
+     <string name="message_recorded">Melding tatt opp</string>
+     <string name="min_available">%d min. tilgjengelig</string>
+     <string name="no_phonestorage">Telefon lagring avmontert</string>
+     <string name="record_your_message">Ta opp en melding</string>
+     <string name="recording_paused">Midlertidig stanset</string>
+     <string name="review_message">Spill tilbake melding</string>
+     <string name="sec_available">%ds tilgjengelig</string>
+     <string name="storage_is_full">Tomt for plass</string>
+     <string name="storage_setting">Lagringslokasjon</string>
+     <string name="storage_setting_local_item">Telefon lagring</string>
+     <string name="storage_setting_sdcard_item">SD-kort</string>
      <string name="access_error">Kan ikke ta opp gjestemodus</string>
      <string name="alert_message_delete_record">Vil du slette valgte opptak?</string>
      <string name="app_name">Lydopptaker</string>

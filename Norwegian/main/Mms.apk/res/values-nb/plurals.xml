@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ %1$s andre meldinger</item>
+        <item quantity="one">+ %1$s annen melding</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="other">%d funnet</item>
+        <item quantity="one">Én funnet</item>
+     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Delete selected %1$s conversations?</item>
         <item quantity="one">Delete this conversation?</item>

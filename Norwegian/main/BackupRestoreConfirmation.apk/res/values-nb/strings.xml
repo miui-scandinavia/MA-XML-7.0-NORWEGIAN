@@ -23,4 +23,5 @@ Hvis du ikke har bedt om gjenopprettingen selv, må du ikke la operasjonen forts
   <string name="toast_restore_ended">Gjenopprettingen er fullført</string>
   <string name="toast_restore_started">Gjenopprettingen er i gang …</string>
   <string name="toast_timeout">Handlingen ble tidsavbrutt</string>
+  <string name="backup_enc_password_required">Siden enheten din er kryptert, er du nødt til å kryptere sikkerhetskopien din. Angi et passord nedenfor:</string>
 </resources>

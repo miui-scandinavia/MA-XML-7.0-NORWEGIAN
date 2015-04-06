@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d apper angir betingelser</item>
+        <item quantity="one">%d app angir betingelser</item>
+     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Du er nå %1$d trinn fra å bli en utvikler.</item>
         <item quantity="one">Du er nå %1$d trinn fra å bli en utvikler.</item>

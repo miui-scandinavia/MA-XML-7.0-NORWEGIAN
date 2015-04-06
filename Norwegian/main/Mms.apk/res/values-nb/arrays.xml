@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="empty_subject_strings">
+        <item>emne mangler</item>
+     </string-array>
      <string-array name="contact_entries">
         <item>Navn</item>
         <item>Kallenavn</item>
