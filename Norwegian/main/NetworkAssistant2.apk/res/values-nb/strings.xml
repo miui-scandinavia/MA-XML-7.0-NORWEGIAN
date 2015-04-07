@@ -465,6 +465,6 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="usage_sorted_loading_text">Laster…</string>
      <string name="usbsharenet_exception_summary">"Kan ikke teste nettverk som blir delt av Mi PC Suite."</string>
      <string name="usbsharenet_exception_title">Test USB-delt nettverk</string>
-     <string name="wifi_exception_summary">Test tilgjengelig Wi-Fi-nettverkstilkoblinger</string>
+     <string name="wifi_exception_summary">Test tilgjengelige Wi-Fi-nettverkstilkoblinger</string>
      <string name="wifi_exception_title">Test Wi-Fi-nettverk</string>
 </resources>

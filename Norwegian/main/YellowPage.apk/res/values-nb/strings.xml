@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_fraud_num_online_identification">Om blokkering av telefonselgere</string>
+     <string name="about_fraud_num_online_identification">Om denne funksjonen</string>
      <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
      <string name="about_telephone_fraud">Om telefonsvindel</string>
      <string name="account_address">Adresser</string>
@@ -23,7 +23,7 @@
      <string name="app_recommendation_install">Installer</string>
      <string name="average_price">Gjennomsnittlig %d RMB</string>
      <string name="back">Tilbake</string>
-     <string name="balance_inquiry_send_sms_fail_hint">Sjekk feilet, vennligst hent spørringskoden via nettverket</string>
+     <string name="balance_inquiry_send_sms_fail_hint">"Kan ikke hente balansen"</string>
      <string name="balance_inquiry_send_sms_hint">En gratis SMS-melding vil bli sendt for å spørre etter din balanse</string>
      <string name="balance_inquiry_send_sms_summmary">Sjekk din balanse</string>
      <string name="balance_inquiry_title">Balanseforspørsel</string>
@@ -40,13 +40,13 @@
      <string name="check_network">Vis nettverksinnstillinger</string>
      <string name="choose_upload">Velg for til opplastning</string>
      <string name="colon">:</string>
-     <string name="confirm_delete_all_call_log_title">Vil du slette alle anropslogger?</string>
-     <string name="confirm_delete_call_log_title">Fjern anropslogg?</string>
+     <string name="confirm_delete_all_call_log_title">Vil du slette alle anropshistorikk?</string>
+     <string name="confirm_delete_call_log_title">Fjern anropshistorikk?</string>
      <string name="confirm_to_add_blacklist">Svartelist valgte nummer?</string>
      <string name="confirm_to_remove_blacklist">Fjern valgte nummert fra svarteliste?</string>
      <string name="confirm_to_send_to_desktop">Plasser %s på Hjemskjermen?</string>
      <string name="contact_detail_calllog_call_note_tips">Anropsnotat</string>
-     <string name="contact_detail_calllog_call_record_tips">Anropslogg</string>
+     <string name="contact_detail_calllog_call_record_tips">Innspilte avtaler</string>
      <string name="content_desc_send_sms">Send SMS</string>
      <string name="coupon_bought_count">%d kjøpt</string>
      <string name="currency_character">RMB</string>
@@ -63,20 +63,20 @@
      <string name="description_version">Versjon</string>
      <string name="description_version_szie">Versjon: %1$s Størrelse: %2$s</string>
      <string name="do_not_remind_me">"Ikke påminn meg"</string>
-     <string name="dont_enable">Deaktiver</string>
-     <string name="download_completed">Nedlastning fullført！Mappe for SD-kort: %s</string>
+     <string name="dont_enable">Skru av</string>
+     <string name="download_completed">Nedlastning lagret til %s</string>
      <string name="download_failed">Nedlastning feilet</string>
      <string name="download_failed_blocked">Nedlastning feilet, kan ikke koble til nettverk</string>
      <string name="download_failed_cannot_resume">Nedlastning feilet, vennligst prøv igjen senere</string>
      <string name="download_failed_file_exists">Filen eksisterer allerede</string>
-     <string name="download_failed_gone">"Nedlastning feilet, filen eksisterer ikke"</string>
-     <string name="download_failed_network">Nedlastning feilet, vennligst sjekk dine nettverksinnstillinger</string>
-     <string name="download_failed_server">Nedlastning feilet, vennligst prøv igjen senere</string>
-     <string name="download_failed_space">Nedlastning feilet, ikke nok plass</string>
+     <string name="download_failed_gone">"Filen eksisterer ikke"</string>
+     <string name="download_failed_network">"Kan ikke koble til nettverket"</string>
+     <string name="download_failed_server">Nedlastning feilet</string>
+     <string name="download_failed_space">Ikke nok plass</string>
      <string name="download_failed_storage">Nedlastning feilet, vennligst sjekk ditt SD-kort</string>
      <string name="download_preview_failed">"Kan ikke laste forhåndsvisning"</string>
      <string name="downloading">Laster ned…</string>
-     <string name="enable_now">Aktiver</string>
+     <string name="enable_now">Skru på</string>
      <string name="exapress_save_address_to_contact">Lagre adresse i kontakt</string>
      <string name="express_add_new_address">Legg til addresse</string>
      <string name="express_address_delete_warning">Er du sikker?</string>
@@ -93,12 +93,12 @@
      <string name="express_addressee_region">Mottaker&gt;region</string>
      <string name="express_cancel_order">Avbryt</string>
      <string name="express_company_list_empty">Ingen selskaper</string>
-     <string name="express_company_phone_prefix">Contact:</string>
+     <string name="express_company_phone_prefix">"Kontakt: "</string>
      <string name="express_company_pricing_details">Prisdetaljer</string>
-     <string name="express_contact_address">Enter your address</string>
+     <string name="express_contact_address">Skriv adresse</string>
      <string name="express_contact_address_finding">Lokaliserer…</string>
      <string name="express_contact_label">Informasjon om pakkehentingstjeneste</string>
-     <string name="express_contact_phone">Skriv ditt telefonnummer</string>
+     <string name="express_contact_phone">Skriv telefonnummer</string>
      <string name="express_contact_phone_finding">Henter telefonnummer…</string>
      <string name="express_contact_prefix">"Kontakt "</string>
      <string name="express_delete_order">Slett</string>
@@ -109,7 +109,7 @@
      <string name="express_info_divider">" / "</string>
      <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.
 Vennligst sjekk ditt sproingsnummer"</string>
-     <string name="express_inqiury_select_logistics">Velg kurer</string>
+     <string name="express_inqiury_select_logistics">Kurertjeneste</string>
      <string name="express_inquiry">Sporer</string>
      <string name="express_inquiry_button_text">Spor</string>
      <string name="express_inquiry_clipboard_number_message">Spor kopierte nummer?</string>
@@ -121,36 +121,36 @@ Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inquiry_edit_logistics">Kurer</string>
      <string name="express_inquiry_history">Historikk</string>
      <string name="express_inquiry_history_remark">Bemerkning</string>
-     <string name="express_inquiry_history_remark_hint">Berkmerkning</string>
-     <string name="express_inquiry_internal_failure">"An error occurred.
-Please your check tracking number."</string>
+     <string name="express_inquiry_history_remark_hint">Kommentarer</string>
+     <string name="express_inquiry_internal_failure">"En feil oppsto.
+Sjekk trackingnummer."</string>
      <string name="express_inquiry_logistics">Velg en kurertjeneste</string>
-     <string name="express_inquiry_logistics_prefix">Courier service: %s</string>
+     <string name="express_inquiry_logistics_prefix">Kurertjeneste: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Andre</string>
      <string name="express_inquiry_no_history">Ingen historikk</string>
      <string name="express_inquiry_no_result">Ingen resultater.</string>
-     <string name="express_inquiry_number_empty">Vennligst velg ditt trackingnummer.</string>
+     <string name="express_inquiry_number_empty">Skriv ditt trackingnummer.</string>
      <string name="express_inquiry_number_invalid">"Inntastingen er ugyldig.
 Vennligst sjekk ditt trackingnummer."</string>
-     <string name="express_inquiry_provider_info">Drevet av</string>
+     <string name="express_inquiry_provider_info">"Drevet av "</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
-     <string name="express_inquiry_trace">Spor</string>
+     <string name="express_inquiry_trace">Sporing</string>
      <string name="express_inquiry_trace_device_login_notice">"Du bruker denne tjenesten på en annen enhet. Hvis du vil motta orderens status fra denne enhetne, vennligst verifiser din Mi-konto."</string>
      <string name="express_inquiry_trace_success">Sporet</string>
      <string name="express_inquiry_trace_user_notice_content">"Vi vil gi deg beskjed når ordrestatusen din endrer seg."</string>
      <string name="express_inquiry_untrace">Ikke sporet</string>
-     <string name="express_inquiry_untrace_success">Usporet</string>
-     <string name="express_no_address">Tom</string>
+     <string name="express_inquiry_untrace_success">"Ikke spor"</string>
+     <string name="express_no_address">Sporing stoppet</string>
      <string name="express_no_order">Ingen ordre</string>
      <string name="express_no_order_info">Ingen ordreinfo</string>
      <string name="express_no_tracking_number">Ingen relatert trackingnummer</string>
      <string name="express_order_confirmation">Ordrebekreftelse</string>
-     <string name="express_order_created_time">Tid opprettet</string>
+     <string name="express_order_created_time">Opprettet</string>
      <string name="express_order_detail">Detaljer</string>
      <string name="express_order_failed">Feilet</string>
      <string name="express_order_info">Ordre-info</string>
-     <string name="express_order_internal_id">Ordre-ID</string>
+     <string name="express_order_internal_id">Ordre #</string>
      <string name="express_order_ongoing">Kjøper…</string>
      <string name="express_order_result">Resultat</string>
      <string name="express_order_state_accepted">Akseptert</string>
@@ -177,7 +177,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_select_city">Velg by</string>
      <string name="express_select_sender">Fra</string>
      <string name="express_send">Send</string>
-     <string name="express_send_notice">Om forbudte ting</string>
+     <string name="express_send_notice">Forbudte ting</string>
      <string name="express_sender_info">Avsender info</string>
      <string name="express_sender_name">Navn på avsender</string>
      <string name="express_sender_region">Avsender region</string>
@@ -190,7 +190,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="expresss_inquiry_all_logistics">Alle</string>
      <string name="expresss_inquiry_frequently_used_logistics">Ofte brukte</string>
      <string name="fail_to_add_account">"Kunne ikke legge til konto"</string>
-     <string name="fraud_number_online_identification">Blokker telefonselgere (krever internett-tilkobling)</string>
+     <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>
      <string name="general_btn_follow">Følg</string>
      <string name="general_btn_follow_ok">Følger</string>
@@ -216,8 +216,8 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="group_name_enroll" />
      <string name="group_name_gallery">Galleri</string>
      <string name="group_name_management">Håndter</string>
-     <string name="group_name_more">Osv</string>
-     <string name="group_name_service">Tjeneste</string>
+     <string name="group_name_more">Andre</string>
+     <string name="group_name_service">Tjenester</string>
      <string name="group_name_shop_info">Informasjon</string>
      <string name="group_name_shop_recommendation">I nærheten</string>
      <string name="group_name_title" />
@@ -233,17 +233,17 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="mark_number_dialog_maintitle">Marker som spam nummer og last opp</string>
      <string name="mark_title_null_hint">Inndata kan ikke være tom</string>
      <string name="menu_add_black_list">Legg til i svarteliste</string>
-     <string name="menu_add_to_favorite">Legg til i favoritter</string>
+     <string name="menu_add_to_favorite">Favoritter</string>
      <string name="menu_call_ip_number">Ring IP-samtale</string>
      <string name="menu_copy_text">Kopier til utklippstavle</string>
      <string name="menu_correct_yellow_page">Rapporter en feil</string>
-     <string name="menu_delete_call_log">Fjern anropslogger</string>
-     <string name="menu_delete_one">Fjern element fra anropslogg</string>
-     <string name="menu_enroll_in_yellow_page">Logg inn på Mi-gulesider</string>
+     <string name="menu_delete_call_log">Fjern anropshistorikk</string>
+     <string name="menu_delete_one">Fjern element fra anropshistorikk</string>
+     <string name="menu_enroll_in_yellow_page">Logg inn på Gule Sider</string>
      <string name="menu_follow_yellow_page">Følg</string>
      <string name="menu_remove_black_list">Fjern fra svarteliste</string>
      <string name="menu_remove_from_favorite">Fjern fra favoritter</string>
-     <string name="menu_save_contact">Lagre nummer til kontakt</string>
+     <string name="menu_save_contact">Lagre nummer til kontakter</string>
      <string name="menu_unfollow_yellow_page">Avfølg</string>
      <string name="minimum_price">Fra %d RMB</string>
      <string name="mishop_web_payment_title">MiStore-utsjekking</string>
@@ -259,8 +259,8 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="nearby_no_yellow_page">Ingen resultater i nærheten</string>
      <string name="nearby_yellow_page_title">I nærheten</string>
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
-     <string name="network_unavaliable">Nettverk utilgjengelig, vennligst sjekk nettverksinnstillingene</string>
-     <string name="no_brief">Ingen introduksjon</string>
+     <string name="network_unavaliable">"Kunne ikke koble til nettverket"</string>
+     <string name="no_brief">Ingen sammendrag</string>
      <string name="no_evaluation">Ingen anmeldelse</string>
      <string name="no_more_result">Ingen flere resultater</string>
      <string name="no_price">Ingen prisinfo</string>
@@ -271,19 +271,15 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="order_date_label">Ordredato: </string>
      <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>
-     <string name="order_id_label">Ordre-ID: </string>
+     <string name="order_id_label">Ordre-ID:</string>
      <string name="order_merchant_title">Mine ordre</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Ingen relaterte ordre</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: "Order price: " -->
-     <string name="order_price_label">Ordre-pris: %s</string>
+     <string name="order_price_label">Ordre-pris:</string>
      <string name="order_product_name_label">Produktnavn: </string>
      <string name="order_status">%s</string>
-     <string name="order_status_label">Ordre-status: </string>
-     <string name="order_type_recharge">Top-up</string>
+     <string name="order_status_label">Ordre-status:</string>
+     <string name="order_type_recharge">Fyll opp</string>
      <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>
      <string name="packages_pay">Kjøp</string>
      <string name="packages_pay_confirm">Bekreft betaling</string>
@@ -313,29 +309,29 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="recharge_input_phone_title">Legg inn telefonnummer (China mobile, China Unicom eller China Telecom)</string>
      <string name="recharge_my_phone_number">Mitt nummer</string>
      <string name="recharge_order_actual_price">¥%s</string>
-     <string name="recharge_order_id">Ordre-ID</string>
+     <string name="recharge_order_id">Ordre #</string>
      <string name="recharge_order_original_price">RMB%s</string>
      <string name="recharge_order_pay">Sjekk ut</string>
      <string name="recharge_pay">Lad nå</string>
      <string name="recharge_pay_hint">Support tilbys av Xiaomi</string>
      <string name="recharge_pay_hint_license">Oppfyllings-varsel</string>
-     <string name="recharge_payment_error">Ordre lukket eller feil oppsto, vennligst lukk og prøvv igjen</string>
+     <string name="recharge_payment_error">Ordre lukket eller feil oppsto</string>
      <string name="recharge_payment_result_failed_summary">Vennligst prøv igjen</string>
-     <string name="recharge_payment_result_failed_title">Oppfylling feilet</string>
+     <string name="recharge_payment_result_failed_title">"Kunne ikke fylle opp"</string>
      <string name="recharge_payment_result_ok_summary">Bekreft at dette beløpet er reflektert i balansen din.</string>
      <string name="recharge_payment_result_ok_title">La til RMB%s.</string>
      <string name="recharge_payment_result_progress_summary">Sjekker betalingsresultat…</string>
      <string name="recharge_phone">Oppfyllingsnummer:</string>
-     <string name="recharge_phone_number_empty">Telefonnummer du skrev burde ikke være tomt</string>
+     <string name="recharge_phone_number_empty">Telefonnummeret burde ikke være tomt</string>
      <string name="recharge_phone_number_error">Ugyldig telefonnummer.</string>
-     <string name="recharge_select_money_title">Vennligst velg oppFyllingsverdi</string>
+     <string name="recharge_select_money_title">Vennligst velg oppfyllingsmengde</string>
      <string name="recharge_status_description">Status:</string>
      <string name="recharge_title">Oppfylling</string>
      <string name="recharge_unknown_number">Ukjent</string>
      <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s
 
   Total beløp: RMB%3$s"</string>
-     <string name="recharge_user_confirm_title">Bekreft</string>
+     <string name="recharge_user_confirm_title">Bekreft oppfylling</string>
      <string name="refresh">Last på nytt</string>
      <string name="remember_preference">Husk foretrukket valg</string>
      <string name="remind_another_time">"Ikke påminn meg"</string>
@@ -518,16 +514,16 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="tag_follow_status">tag_follow_status</string>
      <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
-     <string name="toast_finish_delete_call_log">Anropsloggen er slettet</string>
+     <string name="toast_finish_delete_call_log">Anropshistorikk er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
      <string name="try_again">Prøv igjen</string>
      <string name="turn_on_smart_antispam_hint">Etter aktivering, vil numrene bli identifisert. Hvis ikke identifisert, kan du merke den for å identifisere falske samtaler.</string>
      <string name="turn_on_smart_antispam_summary_off">Bare les de lokale forhåndsinnstillte nummerene</string>
      <string name="turn_on_smart_antispam_summary_on">Identifiser ukjente numre og laste opp dine spam nummere</string>
      <string name="turn_on_smart_antispam_title">Identifiser ukjente nummer</string>
-     <string name="turn_on_yellowpage_service_title">Bruk katalogtjeneste</string>
-     <string name="upload_and_verify_fraud_num_off">Denne funksjonen er deaktivert</string>
-     <string name="upload_and_verify_fraud_num_on">Del informasjon om blokkerte telefonselgere</string>
+     <string name="turn_on_yellowpage_service_title">Bruk Gule Sider</string>
+     <string name="upload_and_verify_fraud_num_off">Del informasjon om uønskede anrop</string>
+     <string name="upload_and_verify_fraud_num_on">Del informasjon om uønskede anrop</string>
      <string name="uploads_disabled">Filopplastninger er deaktivert</string>
      <string name="user_agreement2">" Brukerbetingelser"</string>
      <string name="user_agreement4">Erklæring om personvenr</string>

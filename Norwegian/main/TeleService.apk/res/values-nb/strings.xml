@@ -1159,7 +1159,7 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="voicemail_settings_number_hint">Tast inn nummer på telefonsvarer</string>
      <string name="voicemail_settings_number_label">Mobilsvar-nummer</string>
      <string name="voicemail_settings_number_title">Telefonsvarer nummer</string>
-     <string name="voip_setting">Voip settings</string>
+     <string name="voip_setting">VOIP-innstillinger</string>
      <string name="wait_prompt_str">"Send disse tonene?
 "</string>
      <string name="wifi_calling_call_assistant">Call assistant</string>

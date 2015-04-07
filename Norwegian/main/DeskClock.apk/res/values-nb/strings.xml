@@ -228,7 +228,7 @@
      <string name="timer_got_it">OK</string>
      <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
      <string name="timer_item_label_hint">Timer-etikett</string>
-     <string name="timer_item_picker_hour">Hour</string>
+     <string name="timer_item_picker_hour">Time</string>
      <string name="timer_item_picker_minute">Min</string>
      <string name="timer_item_picker_second">Sek</string>
      <string name="timer_message">%1$d minutter og %2$d sekunder</string>
