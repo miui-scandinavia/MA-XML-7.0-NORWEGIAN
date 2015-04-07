@@ -386,13 +386,13 @@
      <string name="is_last_tab">Er allerede sidste fane</string>
      <string name="is_page_bottom">Allerede ved bunnen av siden</string>
      <string name="is_page_top">Allerede ved toppen av siden</string>
-     <string name="js_dialog_before_unload">"%s 
+     <string name="js_dialog_before_unload">"%s
 
 Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="js_dialog_before_unload_negative_button">Bli på denne siden</string>
      <string name="js_dialog_before_unload_positive_button">Forlat denne siden</string>
      <string name="js_dialog_before_unload_title">Bekreft navigering</string>
-     <string name="js_dialog_title">Siden på \" %s \" sier:</string>
+     <string name="js_dialog_title">Siden på \"%s\" sier:</string>
      <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Deaktivering av JavaScript kan få noen sider til å vises feil</string>
      <string name="js_disable_confirm_title">Deaktiver JavaScript?</string>

@@ -304,5 +304,15 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xmpp_server_addr" />
+
+  <string name="close_cloud_app_backup_cancel">Avbryt</string>
+  <string name="close_cloud_app_backup_close">Lukk</string>
+  <string name="close_cloud_app_backup_local_backup">Sikkerhetskopier</string>
+  <string name="close_cloud_app_backup_message">Sky-sikkerhetskopiering av apper vil bli stoppet og data vil bli slettet fra May 1 2015, vennligst sikkerhetskopier dine data så fort som mulig.</string>
+  <string name="close_cloud_app_backup_notification_message">Trykk for å se detaljer</string>
+  <string name="close_cloud_app_backup_notification_title">Mi Cloud-tjenestevarsel</string>
+  <string name="close_cloud_app_backup_title">Lukk</string>
+  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud sin app-sikkerhetskopieringstjense vil bli avsluttet for ikke-MIUI apper. Data for tredjeparts-apper vi bli slettet fra og med Mai 1 2015. For å unngå tap av viktig info, vennligst ta lokal sikkerhetskopi av app-data nå."</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Kontakter, Meldinger, Galleri og andre MIUI-systemapper vil ikke bli påvirket.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Sikkerhetskopier app-data</string>
 </resources>

@@ -52,7 +52,7 @@
      <string name="loading_broadcasting">Bare et sekund…</string>
      <string name="loading_hint">Laster…</string>
      <string name="local_list_item_history">Historikk</string>
-     <string name="local_program">Lokale programmer</string>
+     <string name="local_program">Nedlastet</string>
      <string name="max_sleep_time">90</string>
      <string name="metered_alert">Dataforbruksvarsel</string>
      <string name="metered_alert_msg">Bruk mobilnettverket for å høre på musikk kan øke ditt dataforbruk. Hvis du overskrider abonnementets dataforbruksgrense, kan operatøren din belaste deg ytterlige avgifter.</string>

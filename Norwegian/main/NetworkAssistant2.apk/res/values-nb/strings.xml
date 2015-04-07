@@ -160,11 +160,11 @@ en mobildataforbindelse"</string>
      <string name="main_primary_message_traffic_purchase">Du må fylle opp</string>
      <string name="main_primary_message_traffic_warning">Nærmer seg datagrense</string>
      <string name="main_secondary_message_traffic_detail_leisure">"
-Lav-trafikk: %1$s gjenstående | %2$s brukt"</string>
+Lav-trafikk: %1$s | %2$s brukt"</string>
      <string name="main_secondary_message_traffic_detail_normal">"
 Topp: %1$s%2$s remaining | %3$s brukt"</string>
-     <string name="main_secondary_message_traffic_over">over</string>
-     <string name="main_secondary_message_traffic_remain">gjenstående</string>
+     <string name="main_secondary_message_traffic_over">"over "</string>
+     <string name="main_secondary_message_traffic_remain">"gjenstående "</string>
      <string name="main_secondary_message_traffic_used_leisure">%s data brukt om natten</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s data brukt | ingen data om natten gjenstående</string>
      <string name="main_secondary_message_traffic_used_normal">%s data brukt</string>
@@ -300,6 +300,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
      <string name="repair">Reparer</string>
+       <string name="repair_loading_text">Laster…</string>
      <string name="replace_dns">Bytt DNS automatisk</string>
      <string name="right_precent">100%</string>
      <string name="roaming_not_start_body">Apper på hvitelista vil ha mulighet til å bruke mobildata ved internasjonal roaming.</string>
