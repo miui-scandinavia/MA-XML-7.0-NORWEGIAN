@@ -436,16 +436,8 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="bluetooth_empty_list_user_restricted">Du har ikke tillatelse til å endre Bluetooth-innstillingene.</string>
      <string name="bluetooth_enable">Bluetooth</string>
      <string name="bluetooth_enable_alphanumeric_pin">Personlig kode inneholder bokstaver eller symboler</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Type the pairing code then press Return or Enter -->
      <string name="bluetooth_enter_passkey_msg">Sånn kobler du til: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Skriv inn passordet for enheten:</string>
      <string name="bluetooth_enter_passkey_other_device">Det er mulig at du må oppgi dette passordet også på den andre enheten.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Device -->
      <string name="bluetooth_enter_pin_msg">Sånn kobler du til: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Skriv inn enhetens personlige kode:</string>
      <string name="bluetooth_enter_pin_msg_hs">Device requires High Security 16 character passkey</string>
      <string name="bluetooth_enter_pin_other_device">Det er mulig at du må skrive inn denne PIN-koden også på den andre enheten.</string>
@@ -710,6 +702,7 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="controls_label">Kontroller</string>
      <string name="controls_subtitle">Juster strømforbruk</string>
      <string name="copyright_title">Opphavsrett</string>
+     <string name="country_name">%s (system)</string>
      <string name="create">Opprett</string>
      <string name="credential_storage_type">Lagringstype</string>
      <string name="credential_storage_type_hardware">Maskinvarebasert</string>
@@ -1352,6 +1345,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="install_all_warning">Nettbrettet og personopplysningene dine er mer sårbare for angrep fra apper fra ukjente kilder. Du godtar at du alene er ansvarlig for enhver skade på nettbrettet eller tap av data som kan oppstå fra bruk av disse appene.</string>
      <string name="install_applications">Ukjente kilder</string>
      <string name="install_applications_title">Tillat alle appkilder</string>
+     <string name="install_preinstall_app">Laster apper…</string>
      <string name="install_text">Installer</string>
      <string name="install_unknown_applications">Tillat installasjon av apper fra andre kilder enn Play-butikken</string>
      <string name="install_unknown_applications_title">Lar deg installere apper fra andre kilder enn Google Play</string>
@@ -1455,6 +1449,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="local_backup_section_summary">Sikkerhetshopier systeminnstillinger, kontoer og apper</string>
      <string name="local_backup_section_title">Lokal sikkerhetskopi</string>
      <string name="locale_default">Standard</string>
+     <string name="locale_settings">Region</string>
      <string name="location_access_off">Av</string>
      <string name="location_access_on">På</string>
      <string name="location_access_summary">La apper som har bedt om tillatelse, bruke posisjonsinformasjonen din</string>
@@ -2335,12 +2330,26 @@ Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="screen_on_proximity_sensor_summary">Enheten vil automatisk låses når plassert i lommen</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
      <string name="screen_optimize">Kontrast</string>
+     <string name="screen_paper_mode_adjust_level">Juster lesemodus-effekter</string>
+     <string name="screen_paper_mode_apps_loading">Laster…</string>
      <string name="screen_paper_mode_apps_title">Bruk lesemodus for disse appene</string>
+     <string name="screen_paper_mode_global_summary">Bruk lesemodus globalt, ikke egendefinert</string>
+     <string name="screen_paper_mode_global_title">Global</string>
+     <string name="screen_paper_mode_local_summary">Bruk lesemodus lokalt, trykk høyre pil for egendefinert</string>
+     <string name="screen_paper_mode_local_title">Lokal</string>
      <string name="screen_paper_mode_off_apps_title">"Ikke bruk lesemodus for følgende apper"</string>
+     <string name="screen_paper_mode_range_title">Rekkevidde</string>
+     <string name="screen_paper_mode_set_apps_title">Egendefinert lesemodus</string>
      <string name="screen_paper_mode_summary">"Reduser skjermens bakgrunnsgjenskinn"</string>
      <string name="screen_paper_mode_title">Lesemodus</string>
      <string name="screen_paper_mode_turn_off">Av</string>
      <string name="screen_paper_mode_turn_on">På</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Do not prompt</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Samtykk og fortsett</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">For å oppdatere listen over programmer som kan bruke lesemodus trenger man å koble til nettverket. Vil du gjøre dette?</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Vilkår for bruk</string>
+     <string name="screen_paper_mode_update_white_pkg_list_summary">Oppdater listen over programmer som bruker leselisten over nettverket</string>
+     <string name="screen_paper_mode_update_white_pkg_list_title">Nettverksoppdatering-liste</string>
      <string name="screen_pinning_description">"Når én-appsmodus er slått på, kan du låse den gjeldende skjermen til én side, helt til du avslutter modusen.
 
 Sånn fungerer én-appsmodus:
@@ -2602,6 +2611,7 @@ Attempts Remaining :"</string>
      <string name="sim_status_title">SIM status</string>
      <string name="simulate_color_space">Simuler fargeområde</string>
      <string name="skip_label">Hopp over</string>
+     <string name="skip_lock_screen_confirm_msg">De følgende funksjonene vil bli deaktivet på låseskjermen: varsler, musikkavspiller-kontroller, sveip venstre for å få tilgang til Kamera, og sveip høyre for å få tilgang til Mi Home.</string>
      <string name="skip_step">Hopp over</string>
      <string name="slot_name">SIM %d</string>
      <string name="slot_status_title">IMEI-info</string>
@@ -2611,7 +2621,7 @@ Attempts Remaining :"</string>
      <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
      <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
      <string name="sms_change_default_no_previous_dialog_text">Vil du bruke %s som SMS-app?</string>
-     <string name="sms_delivered_sound_dialog_title">Choose text delivered sound</string>
+     <string name="sms_delivered_sound_dialog_title">Velg meldingmottakslyd</string>
      <string name="sms_delivered_sound_title">Melding levert</string>
      <string name="sms_messages_title">Tekstmeldinger</string>
      <string name="sms_over_ims_off">Deaktiver tekstmelding via IMS</string>

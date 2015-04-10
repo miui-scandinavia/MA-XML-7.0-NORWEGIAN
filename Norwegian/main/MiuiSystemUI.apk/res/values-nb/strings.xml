@@ -223,4 +223,8 @@
      <string name="user_guide_for_notification">Ny varsel, trekk statuslinjen ned for å se detaljer</string>
      <string name="user_guide_for_toggle">På og av knappene kan rulles sidelengs</string>
      <string name="user_guide_for_toggle_list">Klikk her for å redigere på og av knappene</string>
+     <string name="vpn_text">Trykk for å vise innstillinger.</string>
+     <string name="vpn_text_long">Koblet til %s. Trykk for å vise detaljer.</string>
+     <string name="vpn_title">VPN aktivert</string>
+     <string name="vpn_title_long">Kobler til VPN ved hjelp av %s</string>
 </resources>

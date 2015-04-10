@@ -16,8 +16,8 @@
      <string name="bad_authentication">Ugyldig konto eller passord</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
-     <string name="buy_more_space_b_class">"Logg inn på mi.com/micloud for å få mer lagringsplass.
-Du trenger et Mainland Kina-bankkort for å kjøpe mer lagringsplass.</string>
+     <string name="buy_more_space_b_class">""Logg inn på mi.com/micloud for å få mer lagringsplass.
+Du trenger et Mainland Kina-bankkort for å kjøpe mer lagringsplass."</string>
      <string name="buy_more_space_c_class">"Denne funksjonen krever et Mainland Kina-bankkort.
 For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="buy_space_expire">Kjøpt plass vil utløpe den %s</string>
@@ -30,6 +30,16 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="buy_space_sulotion_title">Kjøp lagringsplass</string>
      <string name="calendar_sync">Kalender</string>
      <string name="click_to_enabled">Trykk for å synke.</string>
+     <string name="close_cloud_app_backup_cancel">Avbryt</string>
+     <string name="close_cloud_app_backup_close">Lukk</string>
+     <string name="close_cloud_app_backup_local_backup">Sikkerhetskopier</string>
+     <string name="close_cloud_app_backup_message">Sky-sikkerhetskopiering av apper vil bli stoppet og data vil bli slettet fra May 1 2015, vennligst sikkerhetskopier dine data så fort som mulig.</string>
+     <string name="close_cloud_app_backup_notification_message">Trykk for å se detaljer</string>
+     <string name="close_cloud_app_backup_notification_title">Mi Cloud-tjenestevarsel</string>
+     <string name="close_cloud_app_backup_title">Lukk</string>
+     <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud sin app-sikkerhetskopieringstjense vil bli avsluttet for ikke-MIUI apper. Data for tredjeparts-apper vi bli slettet fra og med Mai 1 2015. For å unngå tap av viktig info, vennligst ta lokal sikkerhetskopi av app-data nå."</string>
+     <string name="cloud_app_back_up_quit_notification_content2">Kontakter, Meldinger, Galleri og andre MIUI-systemapper vil ikke bli påvirket.</string>
+     <string name="cloud_app_back_up_quit_notification_content3">Sikkerhetskopier app-data</string>
      <string name="cloud_back_up_button_ok">Tving stopp</string>
      <string name="cloud_back_up_close_info">Trykk for å sikkerhetskopiere.</string>
      <string name="cloud_back_up_dialog_content">"Stopp pågående sikkerhetskopiering? Hvis du stopper nå, vil du ikke kunne bruke denne sdikkerhetskopien for å gjenopprette apper."</string>
@@ -75,7 +85,8 @@ Last backup: %2$s"</string>
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
-     <string name="find_device_dspt_provision">"Finn enhet, plasser, lås, eller tilbakestill din enhet på "</string>
+     <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til %s for å finne, låse og tilbakestille den. Du kan skru denne funksjonen av og på når-som-helst i Innstillinger.
+ "</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
@@ -88,7 +99,9 @@ Last backup: %2$s"</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
 Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
-     <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen.</string>
+  <string name="find_device_send_sms_alert">"
+
+>Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen."</string>
      <string name="find_device_status_ok">Finn enheten din fra hvor som heslt på i.mi.com</string>
      <string name="find_device_status_ok_international">Finn din enhet fra hvor som helst på www.mi.com/micloud</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
@@ -204,7 +217,7 @@ brukt %s | gjenværende %s"</string>
      <string name="microsoft_cloud">Microsoft Cloud Service</string>
      <string name="microsoft_cloud_eng">One Drive</string>
      <string name="microsoft_cloud_price">Rundt RMB 80 i året</string>
-     <string name="more_activity_in_upgrade_space">Lær mer hos &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
+     <string name="more_activity_in_upgrade_space">Lær mer hos <a href="http://i.mi.com">http://i.mi.com</a></string>
      <string name="mx_dspt">Mi-melding</string>
      <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
 
@@ -254,8 +267,13 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="success_upgraded_space">%s lagt til</string>
      <string name="sync">Synk</string>
      <string name="sync_dspt">Synk</string>
-     <string name="sync_dspt_entrance_provision">Synkroniserer dine bilder, kontakter, og meldinger eller finn din enhet.</string>
+     <string name="sync_dspt_entrance_provision">Synk dine bilder, kontakter, anropshistorikk og meldinger når som helst mellom dine enheter. Få tilgang til det du synker fra hvilken-som-helst nettleser i %s.</string>
      <string name="sync_dspt_entrance_provision_2">Lær mer</string>
+     <string name="sync_dspt_entrance_provision_confirm_close">"Ikke bruk"</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI sine innebygde apper trenger Mi Cloud for å sikkerhetskopiere dine bilder, kontakter, notater og mer. Mi Cloud er gratis og klar til bruk ute av boksen."</string>
+     <string name="sync_dspt_entrance_provision_confirm_open">Bruk Mi Cloud</string>
+     <string name="sync_dspt_entrance_provision_confirm_title">"Ikke bruk Mi Cloud?"</string>
+     <string name="sync_dspt_entrance_provision_skip"><u>Skip this step</u></string>
      <string name="sync_dspt_provision">"Synkroniserer dine bilder, kontakter, notater, og mer på tvers av alle dine Mi-enheter eller få tilgang til dem på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
@@ -291,7 +309,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Brukerbetingelser</string>
      <string name="user_agreement_p6">"
- Bruken av denne funksjonen er underlagt "</string>
+ Ved å bruke denne tjenesten, godkjenner du "</string>
      <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>
      <string name="user_agreement_p8">.</string>
      <string name="user_agreement_title">"Mi Cloud sine vilkår for bruk"</string>
@@ -304,15 +322,5 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-
-  <string name="close_cloud_app_backup_cancel">Avbryt</string>
-  <string name="close_cloud_app_backup_close">Lukk</string>
-  <string name="close_cloud_app_backup_local_backup">Sikkerhetskopier</string>
-  <string name="close_cloud_app_backup_message">Sky-sikkerhetskopiering av apper vil bli stoppet og data vil bli slettet fra May 1 2015, vennligst sikkerhetskopier dine data så fort som mulig.</string>
-  <string name="close_cloud_app_backup_notification_message">Trykk for å se detaljer</string>
-  <string name="close_cloud_app_backup_notification_title">Mi Cloud-tjenestevarsel</string>
-  <string name="close_cloud_app_backup_title">Lukk</string>
-  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud sin app-sikkerhetskopieringstjense vil bli avsluttet for ikke-MIUI apper. Data for tredjeparts-apper vi bli slettet fra og med Mai 1 2015. For å unngå tap av viktig info, vennligst ta lokal sikkerhetskopi av app-data nå."</string>
-  <string name="cloud_app_back_up_quit_notification_content2">Kontakter, Meldinger, Galleri og andre MIUI-systemapper vil ikke bli påvirket.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Sikkerhetskopier app-data</string>
+     <string name="xmpp_server_addr" />
 </resources>

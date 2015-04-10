@@ -759,6 +759,7 @@
      <string name="toast_network_eror">"Kan ikke koble til nettverket"</string>
      <string name="toast_network_switch">Denne appen kan koble til internett</string>
      <string name="toast_removed_from_white_list">" fjernet fra unntak"</string>
+     <string name="toast_resolve_apk_error">Løs apk-feil</string>
      <string name="toast_root_apply_accept">Rottilgang gitt til %s</string>
      <string name="toast_root_apply_reject">Nektet rottilgang til %s</string>
      <string name="toast_shortcut_install">Snarvei plassert på hjemskjermen</string>
