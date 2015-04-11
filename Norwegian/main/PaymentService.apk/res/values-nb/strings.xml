@@ -217,11 +217,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
      <string name="msg_telecom_sending">Kontakter nettverksleverandør…</string>
      <string name="order_price">%1$s MiCredits</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$s:%2$sMi Credits -->
-     <string name="partner_giftcard_payment">%1$:%2$s Mi-kreditt</string>
+     <string name="partner_giftcard_payment">%1$s:%2$s Mi-kreditt</string>
      <string name="password_error">Feil passord.</string>
      <string name="password_forget">glemt?</string>
      <string name="password_hint">Skriv kontopassord</string>

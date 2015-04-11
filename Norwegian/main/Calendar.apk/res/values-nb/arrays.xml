@@ -42,11 +42,6 @@
         <item>Kun når lydløs</item>
         <item>Aldri</item>
      </string-array>
-     <string-array name="prefValues_alerts_vibrateWhen">
-        <item>alltid</item>
-        <item>stille</item>
-        <item>aldri</item>
-     </string-array>
      <string-array name="preferences_default_reminder_labels">
         <item>Ingen påminnelse</item>
         <item>0 minutter</item>

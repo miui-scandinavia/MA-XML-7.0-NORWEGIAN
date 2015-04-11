@@ -493,7 +493,6 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="overflowMergeMenuItemText">Merge calls</string>
      <string name="overflowResumeMenuItemText">Resume call</string>
      <string name="overflowSwapMenuItemText">Swap calls</string>
-     <string name="password">Passord</string>
      <string name="password_title">Passord</string>
      <string name="pause_prompt_no">Nei</string>
      <string name="pause_prompt_str">"Sender toner
@@ -683,7 +682,6 @@ Neste periode starter om %4$d dager (%5$s)"</string>
      <string name="throttle_time_frame">Databrukperiode</string>
      <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
-     <string name="transport">Protokoll</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>

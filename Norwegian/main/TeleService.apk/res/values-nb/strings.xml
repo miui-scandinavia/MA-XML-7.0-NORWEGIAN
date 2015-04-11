@@ -738,7 +738,6 @@ Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).
 Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
      <string name="other_settings_category">Andre</string>
-     <string name="password">Passord</string>
      <string name="password_changed">Passord endret</string>
      <string name="password_title">Passord</string>
      <string name="pause_prompt_no">Nei</string>
@@ -1111,7 +1110,6 @@ Next period starts in %4$d days (%5$s)"</string>
      <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-     <string name="transport">Protokol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_entries_full">TTY Full</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
