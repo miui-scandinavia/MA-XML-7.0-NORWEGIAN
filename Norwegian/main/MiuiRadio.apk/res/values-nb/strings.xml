@@ -66,8 +66,8 @@
      <string name="my_program">Offline</string>
      <string name="no_display_channel_text">Ingen kanaler</string>
      <string name="no_display_history_text">Ingen historikk</string>
-     <string name="no_display_other_text">Ingen resultat</string>
-     <string name="no_download_text">Ingen nedlastning</string>
+     <string name="no_display_other_text">Ingen resultater</string>
+     <string name="no_download_text">Ingen nedlastninger</string>
      <string name="no_network_button_radio">Bruk FM radio</string>
      <string name="no_network_button_refresh">Oppdater</string>
      <string name="no_network_text">"Kan ikke koble til nettverket."</string>

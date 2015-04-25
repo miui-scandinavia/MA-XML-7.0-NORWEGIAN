@@ -19,9 +19,9 @@
      <string name="download_unknown_title">Ikke navngitt</string>
      <string name="notif_text_engine_off">Xunlei-akselerator er av.</string>
      <string name="notif_text_engine_on">Akselerer…</string>
-     <string name="notif_title_file_size">Totalt %1$d filer</string>
+     <string name="notif_title_file_size">%1$d totalt</string>
      <string name="notif_title_multiple_downloading">Nedlasting av %1$d filer</string>
-     <string name="notif_title_single_downloading">Nedlasting av %1$s</string>
+     <string name="notif_title_single_downloading">Laster ned %1$s</string>
      <string name="notification_download_complete">Nedlasting fullført.</string>
      <string name="notification_download_failed">Nedlasting feilet.</string>
      <string name="notification_need_wifi_for_size">Nedlastningsstørrelse krever WLAN.</string>
@@ -49,10 +49,10 @@
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="root_downloads">Nedlastninger</string>
      <string name="task_already_exist">Oppgave eksisterer allerede</string>
-     <string name="warning_tip_cancel">Fortsett å laste ned</string>
-     <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
-     <string name="warning_tip_ok">OK</string>
-     <string name="warning_tip_title">数据网络切换警告</string>
+     <string name="warning_tip_cancel">Last ned</string>
+     <string name="warning_tip_content">"Du er ikke lenger tilkoblet Wi-Fi. Bruk av modildataforbindelsen for å fullføre denne nedlastningen vil øke dit dataforbruk. Hvis du overskrider abonnemntets datagrense, kan operatøren deg belaste deg ytterlige avgifter"</string>
+     <string name="warning_tip_ok">Pause</string>
+     <string name="warning_tip_title">Dataforbruksvarsel</string>
      <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
 
  %s（%s）
