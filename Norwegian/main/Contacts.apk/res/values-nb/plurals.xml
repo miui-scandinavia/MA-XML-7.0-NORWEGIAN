@@ -21,6 +21,14 @@
         <item quantity="other">%1$d kontakter importert</item>
         <item quantity="one">%1$d kontakt importert</item>
      </plurals>
+     <plurals name="dlg_add_blacklist">
+        <item quantity="other">Block these %1$d numbers?</item>
+        <item quantity="one">Block this number?</item>
+     </plurals>
+     <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Unblock these %1$d numbers?</item>
+        <item quantity="one">Unblock this number?</item>
+     </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Kopierte %d kontakter</item>
         <item quantity="one">Kopiert %d kontakt</item>

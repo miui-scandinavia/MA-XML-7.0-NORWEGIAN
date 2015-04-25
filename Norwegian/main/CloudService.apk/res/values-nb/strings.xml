@@ -4,6 +4,7 @@
      <string name="access_denied">Adgang nektet</string>
      <string name="account">Konto</string>
      <string name="activate">Aktiver</string>
+     <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
      <string name="activating">Aktiverer…</string>
      <string name="alert_notif_title_dspt">Synker ikke</string>
      <string name="antispam_sync">Ikke forstyrr-innstillinger</string>
@@ -42,6 +43,7 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_app_back_up_quit_notification_content3">Sikkerhetskopier app-data</string>
      <string name="cloud_back_up_button_ok">Tving stopp</string>
      <string name="cloud_back_up_close_info">Trykk for å sikkerhetskopiere.</string>
+     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Stopp pågående sikkerhetskopiering? Hvis du stopper nå, vil du ikke kunne bruke denne sdikkerhetskopien for å gjenopprette apper."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
@@ -99,7 +101,7 @@ Last backup: %2$s"</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
 Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
-  <string name="find_device_send_sms_alert">"
+     <string name="find_device_send_sms_alert">"
 
 >Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen."</string>
      <string name="find_device_status_ok">Finn enheten din fra hvor som heslt på i.mi.com</string>
@@ -224,7 +226,9 @@ brukt %s | gjenværende %s"</string>
 Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="mx_dspt_provision_privacy">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
 Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string>
+     <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
+     <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
@@ -316,6 +320,8 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
      <string name="view_storage_title">Lagringsplass</string>
+     <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+     <string name="voip_dspt">Mi Voice</string>
      <string name="wifi">Wi-Fi</string>
      <string name="wifi_disconnected">Ingen Wi-Fi</string>
      <string name="wifi_sync">Venter på Wi-Fi</string>

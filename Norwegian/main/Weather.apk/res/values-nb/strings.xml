@@ -57,6 +57,16 @@
      <string name="menu_location">Lokasjoner</string>
      <string name="menu_more">Detaljer</string>
      <string name="network_unavailable">Ingen nettverk detektert</string>
+     <string name="share_btn_cancel">Cancel</string>
+     <string name="share_btn_confirm">Share</string>
+     <string name="share_button">Share</string>
+     <string name="share_menu_title">Share</string>
+     <string name="share_subject">Share</string>
+     <string name="share_title">Share weather</string>
+     <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
+     <string name="share_weather_desc_alert">%1$s%2$s</string>
+     <string name="share_weather_desc_split">,</string>
+     <string name="share_weather_save_pic_fail">"Couldn't take screenshot"</string>
      <string name="view_aqi_detail_item_null">--</string>
      <string name="view_aqi_detail_item_unit">μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
      <string name="view_aqi_detail_no2">NO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;</string>

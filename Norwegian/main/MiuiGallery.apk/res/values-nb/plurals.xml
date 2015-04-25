@@ -41,6 +41,10 @@
         <item quantity="other">"Du har ikke tilgang til å slette disse %d filene."</item>
         <item quantity="one">"Du har ikke tilgang til å slette denne %d filen."</item>
      </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s new faces may also belong to %2$s >></item>
+        <item quantity="one">%1$s new face may also belong to %2$s >></item>
+     </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d bilder</item>
         <item quantity="zero">%1$d bilder</item>

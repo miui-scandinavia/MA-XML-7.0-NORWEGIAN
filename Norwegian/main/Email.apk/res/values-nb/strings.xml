@@ -3,6 +3,9 @@
 <resources>
      <string name="ApplicationIconMore99">99+</string>
      <string name="Folders">Folders</string>
+     <string name="SMTP_independent_verification_text">SMTP independent verification</string>
+     <string name="SMTP_password_text">Password</string>
+     <string name="SMTP_username_text">Username</string>
      <string name="abc_action_bar_home_description">Naviger hjem</string>
      <string name="abc_action_bar_home_description_format">%1$s – %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s – %2$s – %3$s</string>
@@ -515,6 +518,7 @@
      <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
      <string name="folder_shortcut_widget_label">Email folder</string>
      <string name="folder_sync_settings_pref_title">Innstillinger for mappesynkronisering</string>
+     <string name="folder_synchronization_mail_settings">Folder synchronization mail settings</string>
      <string name="folder_trash_name_cn0">已删除</string>
      <string name="folder_trash_name_cn1">已删除邮件</string>
      <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>

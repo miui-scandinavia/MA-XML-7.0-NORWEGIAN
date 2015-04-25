@@ -90,6 +90,7 @@
      <string name="menu_title_download_current_rom">Last ned oppdatering</string>
      <string name="menu_title_pick_rom_file">Velg oppdateringspakke</string>
      <string name="menu_title_recovery">Omstart til recovery-modus</string>
+     <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
      <string name="miui_summary_has_new_version">Oppdatering tilgjengelig</string>
      <string name="miui_summary_no_new_version">Ingen oppdatering tilgjengelig</string>
      <string name="miui_summary_now_version">"Kan ikke koble til nettverket"</string>
@@ -206,6 +207,23 @@ Men du kan ta del neste tirsdag"</string>
      <string name="validate_pkg_failed_msg">"Kan ikke verifisere kilden til denne oppdateringen. Prøv å laste ned igjen."</string>
      <string name="validate_pkg_failed_title">"Kan ikke verifiserer oppdatering"</string>
      <string name="view_upgrade_tutorial">Vis</string>
+     <string name="vote_beta">Beta Feedback Program</string>
+     <string name="vote_error1">"Look's like you're not a member
+of the Beta Feedback Program"</string>
+     <string name="vote_error2">"Couldn't submit feedback.
+Update your device and try again"</string>
+     <string name="vote_error3">"Couldn't sign in.
+Try signing in your Mi Account again."</string>
+     <string name="vote_error4">You already submitted feedback</string>
+     <string name="vote_error5">"Something went wrong
+Couldn't submit feedback"</string>
+     <string name="vote_error_nonetwork">"Can't connect to the network"</string>
+     <string name="vote_experience">Forum experience</string>
+     <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
+     <string name="vote_join">Voted</string>
+     <string name="vote_not_recommend">"Don't recommend"</string>
+     <string name="vote_recommend">Recommend this update</string>
+     <string name="vote_submit">Submit</string>
      <string name="weekly_build">Ukentlig bygg</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>

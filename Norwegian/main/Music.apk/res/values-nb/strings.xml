@@ -42,6 +42,7 @@
      <string name="create_playlist">Lag spilleliste</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til strømming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
+     <string name="delete">Delete</string>
      <string name="delete_file_as_well">Slett lokal fil også</string>
      <string name="delete_file_end">Slett permanent</string>
      <string name="delete_file_start">Slett valgte filer</string>
@@ -224,6 +225,7 @@
      <string name="ok">OK</string>
      <string name="online_music">Oppdag</string>
      <string name="online_playlist_is_empty">Spillelisten er tom</string>
+     <string name="only_online_can_select_quality">You can only select quality for music you stream.</string>
      <string name="order_process_fail">"Kunne ikke autorisere kontoen din. Vent noen minutter og prøv igjen."</string>
      <string name="payment_fail">Betaling feilet!</string>
      <string name="payment_success">Betaling fullført!</string>
@@ -241,6 +243,7 @@
      <string name="project_device_mobile">Mobil enhet</string>
      <string name="quit_warining">Avspiller vil stoppe avspillning etter %d minutt(er)</string>
      <string name="recommend_fragment_title">Utvalgte</string>
+     <string name="remove">Remove</string>
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
      <string name="search_album">Søk album</string>
@@ -275,6 +278,9 @@
      <string name="sleep_mode_title">Stopp spiller etter passert tid</string>
      <string name="song_name">Sang</string>
      <string name="song_not_find">"Kunne ikke finne sang. Sjekk nettverkstilkoblingen og prøv igjen"</string>
+     <string name="sort_by_language">Language</string>
+     <string name="sort_by_name">Name</string>
+     <string name="sort_by_time">Date</string>
      <string name="source_from">Hentet fra: %1$s</string>
      <string name="start_to_play">Spill av</string>
      <string name="stream_quality">Strømmekvalitet</string>

@@ -2657,6 +2657,9 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_awaiting_tap">Trykk på en brikke for å skrive</string>
      <string name="status_awake_time">Våken tid</string>
      <string name="status_bar_and_notification_bar">Varselskygge og statuslinje</string>
+     <string name="status_bar_app_disable_notification">Empty</string>
+     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
+     <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
      <string name="status_bar_filter_item_description">For å konfigurere varsler, gå til Generelle innstillinger &gt; Varsler &gt; Administrer varsler</string>
      <string name="status_bar_filter_item_preview_image">Forhåndsvis</string>
      <string name="status_bar_key_position_custom">Egendefinert taste-posisjon</string>
@@ -2810,10 +2813,13 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="title_color_calibration">Forhåndsvalg for fargeforbedring</string>
      <string name="title_dolby_control">Dobly digital plus</string>
      <string name="title_font">Skrifttype</string>
+     <string name="title_font2">Font</string>
      <string name="title_font_current">Velg systemskrifttype</string>
+     <string name="title_font_current2">Choose system font</string>
      <string name="title_font_size">Tekststørrelse</string>
      <string name="title_hdmi_color_calibration">Forhåndsvalg for fargeforbedring</string>
      <string name="title_layout_current">Velg skriftstørrelse</string>
+     <string name="title_layout_current2">Choose font size</string>
      <string name="title_local_resource">Lokale ressurser</string>
      <string name="title_system_resource">Systemressurser</string>
      <string name="toast_lockscreen_glogin_empty_password">Skriv passord</string>

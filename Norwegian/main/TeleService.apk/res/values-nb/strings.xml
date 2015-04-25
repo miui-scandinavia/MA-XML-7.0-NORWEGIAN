@@ -195,6 +195,8 @@
      <string name="carrier_settings_title">Operatørinnstillinger</string>
      <string name="cb_sms_settings">Innstillinger for kringkastings-SMS</string>
      <string name="cdma_activate_device">Aktiver enhet</string>
+     <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+     <string name="cdma_alert_title">UIM card must be default</string>
      <string name="cdma_display_precise_call_state_message">Hvis operatøren ikke støtter det, vil anropsstatus vises ukorrekt når dette er slått på. Er du sikker på du vil aktivere?</string>
      <string name="cdma_display_precise_call_state_summary">CDMA anropstimer er begrenset av operatøren. Hvis lokal operatør støtter det, kan nøyaktig anropsstatus vises.</string>
      <string name="cdma_display_precise_call_state_title">Vis nøyaktig anropsstatus</string>
@@ -216,6 +218,9 @@
      <string name="cfnry_title">Viderekoble ved ikke noe svar</string>
      <string name="cfu_title">Always forward</string>
      <string name="change">Set</string>
+     <string name="change_default_data">Change</string>
+     <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+     <string name="change_default_data_alert_title">UIM card must be default</string>
      <string name="change_num">Oppdater</string>
      <string name="change_password">Change barring password</string>
      <string name="change_pin">Endre PIN-kode for SIM-kort</string>
@@ -234,6 +239,7 @@
      <string name="config_dialing_emergency_number_suffix" />
      <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
      <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
+     <string name="confirm_change_default_data">Change</string>
      <string name="confirm_password_label">Bekreft nytt passord</string>
      <string name="confirm_pin2_label">Bekreft ny PIN2</string>
      <string name="confirm_pin_label">Bekreft ny PIN</string>
@@ -424,6 +430,8 @@
      <string name="fdn_invalid_number">FDN ble ikke oppdatert fordi tallet ikke kan overstige 20 sifre.</string>
      <string name="fdn_service_unavailable">FDN service is not available.</string>
      <string name="fdn_summary">Begrens utgående anrop til noterte FDNs eller til tall med visse prefikser</string>
+     <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+     <string name="flash_when_ring_title">Flash when ringing</string>
      <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.
 Kontakt operatøren hvis dette problemet vedvarer."</string>
      <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.
@@ -668,6 +676,7 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="no_wifi_available_title">Ingen Wi-Fi-tilkobling</string>
      <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534.</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
+     <string name="not_change_default_data">"Don't change"</string>
      <string name="not_voice_capable">Taleanrop støttes ikke</string>
      <string name="notification_action_end_call">Legg på</string>
      <string name="notification_dialing">Slår nummeret</string>
@@ -738,6 +747,7 @@ Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).
 Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
      <string name="other_settings_category">Andre</string>
+     <string name="password">Password</string>
      <string name="password_changed">Passord endret</string>
      <string name="password_title">Passord</string>
      <string name="pause_prompt_no">Nei</string>
@@ -909,6 +919,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-meldinger</string>
      <string name="reject_via_sms_title">Hurtigsvar</string>
      <string name="remember_my_choice">Standardvalg for Internett-anrop</string>
+     <string name="remind_another_time">"Don't show again"</string>
      <string name="remove">Slett</string>
      <string name="remove_ims_account">Fjern konto</string>
      <string name="remove_sip_account">Fjern konto</string>
@@ -1110,6 +1121,7 @@ Next period starts in %4$d days (%5$s)"</string>
      <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
+     <string name="transport">Protocol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_entries_full">TTY Full</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>

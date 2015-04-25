@@ -51,6 +51,7 @@
      <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjulte album.</string>
      <string name="alert_secret_album_set_pattern">Sett opplåsningsmønster</string>
      <string name="alert_secret_album_title">Lagt til i skjulte album</string>
+     <string name="all_video_album_display_name">All videos</string>
      <string name="already_apply_album">Åpne %1$s?</string>
      <string name="always_rotate_alert_msg">Du kan skru denne funksjonen av eller på når som heslt i Galleri-innstillinger.</string>
      <string name="always_rotate_alert_positive_button_text">Skru på</string>
@@ -515,6 +516,7 @@ venner."</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
+     <string name="confirm_all_photo_not_this_people_face">No matches?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
      <string name="confirm_delete_has_cloud_image_video">>" "&lt;Data&gt; Slett &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; elementer i &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;skyen&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
@@ -531,7 +533,10 @@ venner."</string>
      <string name="confirm_download">"Du må laste ned %s. Dette tipset vil ikke bli vist igjen."</string>
      <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en WiFi-tilkobling er tilgjengelig.</string>
      <string name="confirm_download_video_title">Last ned video</string>
+     <string name="confirm_face">Match</string>
+     <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+     <string name="confirm_not_face">Not this person</string>
      <string name="contact_photo">Kontaktbilde</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
      <string name="context_menu_copy">Kopiér</string>
@@ -594,6 +599,7 @@ venner."</string>
      <string name="email_picker_title">Legg til delt e-post</string>
      <string name="enable">Skru på</string>
      <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
+     <string name="enabling_face_feature">Turning on…</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
      <string name="error_cloud_not_active">Ingen bilder i skyen.</string>
@@ -624,6 +630,7 @@ venner."</string>
      <string name="face_album_rename_hint">Skriv navn</string>
      <string name="face_albumset_detecting_tip">Bare et sekund…</string>
      <string name="face_albumset_empty">Tom.</string>
+     <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
      <string name="face_albumset_use_tip">"Bruk ansiktdetektertion for å sortere bilder etter folk som er i dem"</string>
      <string name="face_move_dialog_title">Velg et album</string>
      <string name="facelift">Ansiktsglød</string>
@@ -685,6 +692,7 @@ venner."</string>
      <string name="how_many_sub_folders">%d Mapper</string>
      <string name="how_many_videos">%d Videoer</string>
      <string name="hue_polymorphism">photoeditor_effect_hue</string>
+     <string name="ignore_album">Ignore</string>
      <string name="ignore_face">Ignorer denne personen</string>
      <string name="image_download_item_title">Last ned fil (%s)</string>
      <string name="image_quota_fulfiled">"Kan ikke opprett bilde, bildegrense nådd."</string>
@@ -697,6 +705,7 @@ venner."</string>
      <string name="impunity_declaration_settings">Vis nettverksvarsel</string>
      <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
      <string name="impunity_declaration_title">Nettverksvarsel</string>
+     <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
      <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
      <string name="initial_cloud_text">Organiser og se dine bilder, til enhver tid og sted</string>
      <string name="initializing_cloud">Initialiserer Cloud-album...</string>
@@ -717,6 +726,10 @@ venner."</string>
      <string name="kick_sharer">Fjern deler</string>
      <string name="kick_sharer_failed">Fjerning av deler feilet</string>
      <string name="kick_sharer_successfully">Fjerning av deler vellykket</string>
+     <string name="last_chinese_new_year">Last Chinese New Year</string>
+     <string name="last_new_year">Last New Years</string>
+     <string name="last_valentine_day">Last Valentine Day</string>
+     <string name="last_year_today">1 year ago</string>
      <string name="loading">Laster…</string>
      <string name="loading_failure">Foto kan ikke lastes</string>
      <string name="loading_image">Laster ned bilde…</string>
@@ -765,6 +778,7 @@ venner."</string>
      <string name="moman_camera_icon">Moman-kamerasmileys</string>
      <string name="moman_camera_picture">Moman-kamerabilder</string>
      <string name="more">Mer</string>
+     <string name="mosaic">Mosaic</string>
      <string name="move">Flytt</string>
      <string name="move_to_cloud_album">Flytt til Cloud</string>
      <string name="mtgif">MTGIF</string>
@@ -774,6 +788,7 @@ venner."</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
+     <string name="network_connected_rescan">Connect to the internet and try again</string>
      <string name="new_device_tips">"Trykk for å vise enhet"</string>
      <string name="new_feature">Ny funksjon</string>
      <string name="no">Nei</string>
@@ -783,6 +798,7 @@ venner."</string>
      <string name="no_map_app">Ingen Kart-program</string>
      <string name="no_network_connected">Ingen nettverksforbindelse</string>
      <string name="no_picture_or_video">Ingen bilder eller videoer</string>
+     <string name="no_secret_photo">No hidden photos</string>
      <string name="no_storage_disable_cloud_albums">Cloud-album er deaktivert; prøv igjen etter eksternt lager er tilgjengelig.</string>
      <string name="no_such_album">Album ikke funnet</string>
      <string name="no_such_item">"Kunne ikke finne element."</string>
@@ -819,11 +835,13 @@ venner."</string>
      <string name="original_scale">Original skala</string>
      <string name="other_category">Andre innstillinger</string>
      <string name="owner_album_subtitle">Delt med %1$s medlemmer</string>
+     <string name="paint_brush">Paint brush</string>
      <string name="paint_cancel_context">"Forkast endringene du har gjort med dette bildet?"</string>
      <string name="paint_cancel_title">Forkast endringer</string>
      <string name="paint_crop_cancel_context">Lagre resultat av beskjæring?</string>
      <string name="paint_crop_cancel_title">Forkast endringer</string>
      <string name="paint_crop_tips">For å få et bedre bilde, prøve å plassere de interessante delene på gitterpunktene ved å endre størrelse og flytte.</string>
+     <string name="paint_highlight">Highlight</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
      <string name="photo_page_always_rotate">Auto-roter bilder</string>
@@ -855,6 +873,7 @@ venner."</string>
      <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>
      <string name="priority_storage">Lagre til SD-kort</string>
      <string name="priority_storage_summary">Når SD-kort er satt inn, last ned filer til SD-kortet automatisk.</string>
+     <string name="project_available_tip">Display detected</string>
      <string name="projection">Projeksjon</string>
      <string name="public_url_descript">Alle kan få tilgang til albumet ved hjelp av denne nettadressen</string>
      <string name="publish_failed">Klarte ikke å publisere.</string>
@@ -887,6 +906,7 @@ venner."</string>
      <string name="request_sms_url_title">Hint</string>
      <string name="retry_to_create_album">Prøv igjen</string>
      <string name="retry_to_request_qr_code">Prøv igjen</string>
+     <string name="return_to_top">Touch \"Photo\" to return to top</string>
      <string name="rise">Varm</string>
      <string name="rotate">Roter</string>
      <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
@@ -909,6 +929,7 @@ venner."</string>
      <string name="screensaver_category">Skjermsparer</string>
      <string name="screensaver_path">Skjermsparer-album:</string>
      <string name="screensaver_path_not_set">Ikke satt</string>
+     <string name="script">Script</string>
      <string name="sd_not_available">SD Kort demonteret eller utilgjengelig</string>
      <string name="sdcard_root">Rotmappe til SD-kortet</string>
      <string name="seconds">sekunder</string>
@@ -918,6 +939,7 @@ venner."</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Velg elementer</string>
+     <string name="select_item_face">Select photos belong to \"%1\</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
      <string name="send">Send</string>
@@ -959,6 +981,8 @@ venner."</string>
      <string name="show_videos_only">Kun videoer</string>
      <string name="sina_weibo">Weibo</string>
      <string name="sina_weibo_save">Weibo</string>
+     <string name="single_device_project_dialog_checkbox_text">Remember this display</string>
+     <string name="single_device_project_dialog_title">Cast to %s</string>
      <string name="size_above">%1$s eller over</string>
      <string name="size_below">%1$s eller under</string>
      <string name="size_between">%1$s til %2$s</string>
@@ -1012,9 +1036,11 @@ venner."</string>
      <string name="to_count">%d totalt</string>
      <string name="too_many_recipients">Melding har for mange mottakere (%1$s), %2$s er mengden mottakere som er godtatt.</string>
      <string name="try_to_send">Prøv å sende</string>
+     <string name="ubifocus_data_invalid">Some of the data for this image is invalid</string>
      <string name="ubifocus_data_missing">Noe data er tapt</string>
      <string name="ubifocus_guide_text">Langt-trykk for å refokusere</string>
      <string name="ubifocus_map_error">Noe data er feil</string>
+     <string name="ubifocus_refocus_data_invalid">"Can't refocus because some of this image's data is invalid"</string>
      <string name="ubifocus_refocus_data_missing">Kan ikke fokusere på nytt på grunn av tapt data</string>
      <string name="ubifocus_refocus_download_tip">Vennligst last ned refokus data før du fokuserer på nytt</string>
      <string name="ubifocus_refocus_map_error">Kan ikke fokusere på nytt på grunn av feil data</string>
@@ -1028,6 +1054,7 @@ venner."</string>
      <string name="user_alias_self">Meg</string>
      <string name="video_err">"Kan ikke avspille video."</string>
      <string name="video_not_exist">Video eksisterer ikke!</string>
+     <string name="videos">Videos</string>
      <string name="view_face_album">Vis album</string>
      <string name="view_sharers">Vis delere</string>
      <string name="vignette">Vignette</string>
