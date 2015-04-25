@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to write contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to write call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write SMS</item>
-        <item>Trying to receive SMS</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å bruke vibrering</item>
+        <item>Prøve å lese kontakter</item>
+        <item>Prøve å endre kontakter</item>
+        <item>Prøve å lese anropslogg</item>
+        <item>Prøve å endre anropslogg</item>
+        <item>Prøve å lese kalender</item>
+        <item>Prøve å endre kalender</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å legge inn varsling</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å utføre telefonsamtale</item>
+        <item>Prøve å lese SMS</item>
+        <item>Prøve å skrive SMS</item>
+        <item>Prøve å motta SMS</item>
         <item>Trying to receive emergency SMS</item>
         <item>Trying to receive MMS</item>
         <item>Trying to receive WAP push</item>
