@@ -334,7 +334,7 @@
      <string name="pref_sms_theme_title">Tema-innstillinger</string>
      <string name="pref_summary_allow_si_sl_push">Tillat mottak og notifisering av WAP push-meldinger (SI/SL)</string>
      <string name="pref_summary_delete_limit">%1$s meldinger per samtale</string>
-     <string name="pref_summary_delivery_reports">Vis leveringsstatus for sendte meldinger</string>
+     <string name="pref_summary_delivery_reports">Vis leveringsstatus for meldiner du sender</string>
      <string name="pref_summary_hide_festival">Skjul Kinesiske språk-funksjoner når systemet er satt til et ikke Kinesisk-språk</string>
      <string name="pref_summary_manage_sim_messages">Håndter meldinger lagret på SIM-kort</string>
      <string name="pref_summary_mms_auto_retrieval">Hent automatisk MMS-meldinger</string>
@@ -345,7 +345,7 @@
      <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
      <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
      <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"</string>
-     <string name="pref_summary_send_delivery_reports">Send leveringsrapport for mottak av meldinger</string>
+     <string name="pref_summary_send_delivery_reports">Send leveringsbekreftelse til sender når du mottar en multimedie-melding</string>
      <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
      <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
      <string name="pref_system_title">System</string>
@@ -367,7 +367,7 @@
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
      <string name="pref_title_ringtone_repeat_summary">"Antall varslingslyder når SMS-melding blir mottatt mens skjermen er av: "</string>
-     <string name="pref_title_send_delivery_reports">Send leveringsrapport</string>
+     <string name="pref_title_send_delivery_reports">Send leveringsmeldinger</string>
      <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
      <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
      <string name="pref_title_sms_validity_period">SMS gyldighetsperiode</string>
