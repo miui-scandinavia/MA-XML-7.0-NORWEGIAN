@@ -14,7 +14,7 @@
         <item quantity="one">Ringte %d gang</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Delete %d contacts from SIM card?</item>
+        <item quantity="other">Slett %d kontakter fra SIM-kort?</item>
         <item quantity="one">Delete %d contact from SIM card?</item>
      </plurals>
      <plurals name="device_import_done_toast">
@@ -22,12 +22,12 @@
         <item quantity="one">%1$d kontakt importert</item>
      </plurals>
      <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block these %1$d numbers?</item>
-        <item quantity="one">Block this number?</item>
+        <item quantity="other">Blokker disse %1$d numrene?</item>
+        <item quantity="one">Blokker dette nummeret?</item>
      </plurals>
      <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock these %1$d numbers?</item>
-        <item quantity="one">Unblock this number?</item>
+        <item quantity="other">Avblokker disse %1$d numrene?</item>
+        <item quantity="one">Avblokker dette nummeret?</item>
      </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Kopierte %d kontakter</item>

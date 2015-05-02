@@ -430,8 +430,8 @@
      <string name="fdn_invalid_number">FDN ble ikke oppdatert fordi tallet ikke kan overstige 20 sifre.</string>
      <string name="fdn_service_unavailable">FDN service is not available.</string>
      <string name="fdn_summary">Begrens utgående anrop til noterte FDNs eller til tall med visse prefikser</string>
-     <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
-     <string name="flash_when_ring_title">Flash when ringing</string>
+     <string name="flash_when_ring_summary">Blink varsellys for innkommende anrop</string>
+     <string name="flash_when_ring_title">Blink under ringing</string>
      <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.
 Kontakt operatøren hvis dette problemet vedvarer."</string>
      <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.

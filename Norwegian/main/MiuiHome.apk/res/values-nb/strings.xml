@@ -153,7 +153,7 @@
      <string name="menu_wallpaper">Bakgrunn</string>
      <string name="menu_workspace_preview">Forhåndsvisning</string>
      <string name="mi_wallpaper">MIUI-Temabutikk</string>
-       <string name="mtzgadget_missing_text">"Tilbys ikke lenger, vennligst legg til på nytt"</string>
+       <string name="mtzgadget_missing_text">"Widget er ikke tilgjengelig"</string>
      <string name="multi_selecting_tips">For å velge ett program, trykk på ikonet dens</string>
      <string name="online_wallpaper">Online</string>
      <string name="out_of_space">Ikke mer plass på dette skrivebordet</string>

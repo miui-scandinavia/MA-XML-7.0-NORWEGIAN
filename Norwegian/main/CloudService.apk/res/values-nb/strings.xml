@@ -46,12 +46,12 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_back_up_dialog_content">"Stopp pågående sikkerhetskopiering? Hvis du stopper nå, vil du ikke kunne bruke denne sdikkerhetskopien for å gjenopprette apper."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
-     <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
-     <string name="cloud_back_up_open_info">"Back up your Home screen layout and apps every %1$s when connected to WLAN
-Last backup: %2$s"</string>
-     <string name="cloud_back_up_open_info_no_backuptime">Back up your Home screen layout and apps every %1$s when connected to WLAN</string>
+     <string name="cloud_back_up_network_unavailable">"Kunne ikke fjerne. Koble til Wi-Fi og prøv igjen."</string>
+     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi av hjemskjerm-oppsett og apper hver %1$s når tilkoblet Wi-Fi
+Siste sikkerhetskopi den: %2$s"</string>
+     <string name="cloud_back_up_open_info_no_backuptime">Ta sikkerhetskopi av Hjemskjerm-oppsett og apper hver %1$s når tilkoblet Wi-Fi</string>
      <string name="cloud_back_up_remove_success">Sikkerhetskopi slettet</string>
-     <string name="cloud_back_up_title">Sikkerhetskopier hjemskjerm</string>
+     <string name="cloud_back_up_title">Sikkerhetskopier hjemskjerm-oppsett</string>
      <string name="cloud_backup_dialog_title">Sikkerhetskopier med Mi Cloud</string>
      <string name="cloud_find_device">Finn enhet</string>
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>

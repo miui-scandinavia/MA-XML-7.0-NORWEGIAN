@@ -76,7 +76,7 @@
      <string name="preference_record_type_title">Opptakstype</string>
      <string name="preference_scenes">Opptakstype</string>
      <string name="preference_silent_mode">Kutt ringelyd under opptak</string>
-     <string name="preference_tip_rename">Om du vil vise dialogboksen for endring av navn etter stanset opptak</string>
+     <string name="preference_tip_rename">Gi opptak navn manuellt</string>
      <string name="record_back_pressed_hint">For å stoppe opptak, trykk Tilbake igjen</string>
      <string name="record_download">Last ned fra Mi Cloud</string>
      <string name="record_download_activity">Nedlastingsliste</string>
@@ -98,7 +98,7 @@
      <string name="record_list_cloud_fm">Synkede FM-opptak</string>
      <string name="record_list_fm">FM-opptak</string>
      <string name="record_loading">Laster inn opptak, vennligst vent.</string>
-     <string name="record_mark_point">%s markert</string>
+     <string name="record_mark_point">Marker %s</string>
      <string name="record_name_hour">.</string>
      <string name="record_picker_title">Velg et opptak</string>
      <string name="record_saving">Lagrer opptak, vennligst vent.</string>
@@ -108,8 +108,8 @@
      <string name="recording_stopped">Stoppet</string>
      <string name="rename">Gi nytt navn</string>
      <string name="rename_dialog_title">Gi nytt navn til dette opptaket</string>
-     <string name="rename_duplicate">Navn eksisterer, vennligst bruk et annet:</string>
-     <string name="rename_no_more_tip">Ingen flere tips</string>
+     <string name="rename_duplicate">Et opptak med dette navnet eksisterer allerede.</string>
+     <string name="rename_no_more_tip">"Ikke vis igjen"</string>
      <string name="retry">Prøv igjen</string>
      <string name="review_message">Spill tilbake melding</string>
      <string name="search_for_recordings_in_folders">Søk mapper etter opptak</string>

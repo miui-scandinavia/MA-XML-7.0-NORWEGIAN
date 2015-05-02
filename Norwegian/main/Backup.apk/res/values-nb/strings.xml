@@ -161,7 +161,7 @@
      <string name="system_backup">Backup</string>
      <string name="system_backup_info">Systeminnstillinger, skrivebordslayout, osv.</string>
      <string name="task_backup_cancel_progress">Stopper…</string>
-     <string name="task_backup_finished_local">Backup fullført</string>
+     <string name="task_backup_finished_local">"Sikkerhetskopiert "</string>
      <string name="task_canceled">Avbrutt</string>
      <string name="task_canceled_all_local">Annuller alle oppgaver</string>
      <string name="task_canceled_local">Backup uferdig (%s)</string>
@@ -177,7 +177,7 @@
      <string name="task_progress">Planlagte oppgaver</string>
      <string name="task_restore_cancel_dialog">Avbryting nå kan føre til datatap.</string>
      <string name="task_restore_cancel_progress">Stopper…</string>
-     <string name="task_restore_finished_local">gjenoppretting fullført</string>
+     <string name="task_restore_finished_local">"Gjenopprettet "</string>
      <string name="task_restore_none">Ikke påkrevd</string>
      <string name="task_running_backup_dialog">Backup og gjennoppretting pågår allerede. Trykk OK for å vise.</string>
      <string name="task_running_backup_hint">Denne oppgaven kjører allerede i bakgrunnen</string>

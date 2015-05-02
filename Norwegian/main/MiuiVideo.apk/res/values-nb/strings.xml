@@ -244,7 +244,7 @@
      <string name="manage">Adminstrer</string>
      <string name="manage_offline_media">Nedlastede</string>
      <string name="media_name_comment">%s kommentar</string>
-     <string name="memory_mode_desc">Save memory usage</string>
+     <string name="memory_mode_desc">Lagre minnebruk</string>
      <string name="menu_item_disable_audio_enhance">Skru av lydforbedring</string>
      <string name="menu_item_enable_audio_enhance">Forbedre lyd</string>
      <string name="menu_name">Meny</string>
@@ -256,7 +256,7 @@
      <string name="more">Gå til %s</string>
      <string name="my">Local</string>
      <string name="my_favorite">Stjernemerket</string>
-     <string name="my_local_favorite">Local tarred</string>
+     <string name="my_local_favorite">Lokalt stjernemerket</string>
      <string name="my_offline">Nedlastede</string>
      <string name="my_video">Lokal</string>
      <string name="mycamera">Mine videoer</string>
@@ -304,8 +304,8 @@
      <string name="partner_specials">Innhold fra partner</string>
      <string name="pause">Pause</string>
      <string name="percent_status">%.1f%%</string>
-     <string name="performance_mode">Run Mode</string>
-     <string name="performance_mode_desc">Performance priority</string>
+     <string name="performance_mode">Kjøremodus</string>
+     <string name="performance_mode_desc">Ytelsesprioritet</string>
      <string name="personal_center">Personlig senter</string>
      <string name="pick_addon_to_delete">Velg element(er)</string>
      <string name="place_at">Nr.%d</string>
@@ -420,8 +420,8 @@
      <string name="updatedalready">Oppdatert</string>
      <string name="upgrade">Oppgrader</string>
      <string name="usa">USA</string>
-     <string name="use_cellular_network">bruk cellulært nettverk</string>
-     <string name="use_cellular_network_summary">bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
+     <string name="use_cellular_network">Innstillinger for mobildatatilkobling</string>
+     <string name="use_cellular_network_summary">Bruk cellulært nettverk for å laste ned videoer, dette vil øke dine datakostnader.</string>
      <string name="use_cellular_offlinedownload_summary">Vis varsel ved bruk av mobildata til nedlasting av video.</string>
      <string name="use_cellular_offlinedownload_title">Nedlastingsvarseler</string>
      <string name="use_cellular_play_summary">Vis varsel når du bruker mobildata for å se video</string>

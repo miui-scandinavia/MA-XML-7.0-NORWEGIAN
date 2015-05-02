@@ -45,7 +45,7 @@
      <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.
 
 Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for overbruk."</string>
-     <string name="data_usage_disabled_dialog_enable">Databruksvarsel</string>
+     <string name="data_usage_disabled_dialog_enable">Skru på mobildata</string>
      <string name="data_usage_leisure_warning_body">Trykk for å vise detaljer for databruk</string>
      <string name="data_usage_leisure_warning_title">Minimum databruksgrense</string>
      <string name="data_usage_limit_body">Trykk for å aktivere mobildata</string>

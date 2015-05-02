@@ -232,7 +232,7 @@
      <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
-     <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
+     <string name="resource_select_ringtone_confirm_picker">Velg denne lyden?</string>
      <string name="resource_selected">Utvalgte</string>
      <string name="resource_send">Send</string>
      <string name="resource_server_alert_dialog_title">Tjenesten er utilgjengelig for øyeblikket</string>

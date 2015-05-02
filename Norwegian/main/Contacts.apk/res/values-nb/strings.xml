@@ -21,7 +21,7 @@
      <string name="add_2sec_pause">Legg til 2 sek. pause</string>
      <string name="add_account">Legg til konto</string>
      <string name="add_blacklist">Legg til svarteliste</string>
-     <string name="add_blacklist_dialog_title">Add to blocklist</string>
+     <string name="add_blacklist_dialog_title">Legg til i blokkeringsliste</string>
      <string name="add_connection_button">Legg til forbindelse</string>
      <string name="add_contact_dlg_message_fmt">Legg til \"%s\" i kontakter?</string>
      <string name="add_field">Legg til felt</string>
@@ -48,7 +48,7 @@
      <string name="auto_set_nickname">Auto</string>
      <string name="batch_delete">Slett flere kontakter</string>
      <string name="batch_delete_msg">"Slette %d kontakter?</string>
-     <string name="blacklist">Block</string>
+     <string name="blacklist">Blokker</string>
      <string name="bluetooth_connection_failed_toast">Bluetooth forbindelse avbrudt</string>
      <string name="blurbJoinContactDataWith">Velg kontakt du vil flette med %s:</string>
      <string name="btn_delete_multi_contacts">Slett %d kontakter</string>
@@ -848,7 +848,7 @@ for å legge til kontakt til favoritter:
      <string name="relationLabelsGroup">Forhold</string>
      <string name="removePhoto">Fjern bilde</string>
      <string name="remove_blacklist">Fjern blokkering</string>
-     <string name="remove_blacklist_dialog_title">Remove from blocklist</string>
+     <string name="remove_blacklist_dialog_title">Fjern fra blokkeringsliste</string>
      <string name="remove_duplicate">"MIUI hjelper deg med å finne og flette dupliserte kontakter.
 
  Trykk på flette-ikonet i bunnen for å starte."</string>
@@ -993,7 +993,7 @@ for å legge til kontakt til favoritter:
      <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
-     <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
+     <string name="resource_select_ringtone_confirm_picker">Velg denne lyden?</string>
      <string name="resource_selected">Utvalgte</string>
      <string name="resource_send">Send</string>
      <string name="resource_server_alert_dialog_title">Tjenesten er utilgjengelig for øyeblikket</string>

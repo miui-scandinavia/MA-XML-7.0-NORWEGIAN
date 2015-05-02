@@ -635,7 +635,7 @@
      <string name="pref_title_mms_group_mms">Gruppemeldinger</string>
      <string name="pref_title_mms_read_reports">Leserapporter</string>
      <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
-     <string name="pref_title_mms_validity_period">MMS gyldighetspreiode</string>
+     <string name="pref_title_mms_validity_period">MMS gyldighetsperiode</string>
      <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
      <string name="pref_title_notification_enabled">Varslinger</string>
      <string name="pref_title_notification_ringtone">Lyd</string>
@@ -831,7 +831,7 @@
      <string name="storage_dialog_available_space">Tilgjengelig plass:</string>
      <string name="storage_dialog_database">Database:</string>
      <string name="storage_dialog_mms">MMS: %d</string>
-     <string name="storage_dialog_mms_size">Mms-størrelse:</string>
+     <string name="storage_dialog_mms_size">MMS-størrelse:</string>
      <string name="storage_dialog_sms">SMS: %d</string>
      <string name="storage_limits_activity">Plassgrenser</string>
      <string name="storage_limits_message">Vil du begrense antallet meldinger du lagrer per samtale?</string>
@@ -863,8 +863,8 @@
      <string name="toast_feedback_max">"Kans ikke sende mer en 3 rapporter om dagen"</string>
      <string name="toast_feedback_start">Henter loggdata…</string>
      <string name="toast_text_copied">Teksten er kopiert</string>
-     <string name="too_many_attachments">Max %1$s vedlegg. Kun de første %2$s vil bli lagt til.</string>
-     <string name="too_many_recipients">Denne melding har for mange mottakere (%1$s). - MAX %2$s mottakere!</string>
+     <string name="too_many_attachments">"Kan ikke overskride %1$s vedlegg. Bare de første %2$s vil bli lagt til."</string>
+     <string name="too_many_recipients">Denne melding har for mange mottakere (%1$s). - Maks %2$s mottakere!</string>
      <string name="too_many_unsent_mms">"Kan ikke sende melding nå, det er for mange usendte MMS\'er."</string>
      <string name="try_to_send">Prøv å sende</string>
      <string name="type_attachment">vedlegg</string>

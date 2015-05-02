@@ -350,10 +350,10 @@
      <string name="snooze_label">Utsett</string>
      <string name="subscribe_all">Abonner</string>
      <string name="sync_notice_cancel_toast_message">"Lokal kalender vil ikke bli synket med Mi Cloud"</string>
-     <string name="sync_notice_message">Du har ikke synkronisert kalenderen med Mi Cloud enda, vil du gjøre dette nå?</string>
-     <string name="sync_notice_ok">OK</string>
+     <string name="sync_notice_message">Synkroniser kalendar med Mi Cloud?</string>
+     <string name="sync_notice_ok">Synk nå</string>
      <string name="sync_notice_ok_toast_message">Lokal kalender vil bli synkronisert med Mi Cloud</string>
-     <string name="sync_notice_title">Sync request</string>
+     <string name="sync_notice_title">Synk kalender</string>
      <string name="synced">Synkronisert</string>
      <string name="tab_category">Kategori</string>
      <string name="tab_local">Mine</string>

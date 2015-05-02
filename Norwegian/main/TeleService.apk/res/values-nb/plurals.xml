@@ -10,8 +10,8 @@
         <item quantity="one">Den valgte handlingen er ikke tilgjengelig i nødsamtalemodus. Telefonen kommer til å være i denne modusen i %s minutt(er). Vil du avslutte nå?</item>
      </plurals>
      <plurals name="call_recording_notification_complete">
-        <item quantity="other">%d calls recorded.</item>
-        <item quantity="one">1 call recorded.</item>
+        <item quantity="other">%d anrop tatt opp.</item>
+        <item quantity="one">1 anrop tatt opp.</item>
      </plurals>
      <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Ingen datatilkobling i %s minutter</item>

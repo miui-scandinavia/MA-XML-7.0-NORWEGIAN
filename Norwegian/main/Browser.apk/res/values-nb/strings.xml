@@ -431,7 +431,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="miui_search_notification_message">åpne det raske søket</string>
      <string name="miui_search_notification_title">Nettleser raskt søk</string>
      <string name="miuichromium_default_text_encoding">Latin-1</string>
-     <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
+     <string name="miuichromium_error_page_diagnostic">Nettverksdiagnosering</string>
      <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
      <string name="miuichromium_error_page_reason_network">Vis lenke-URL</string>
      <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
@@ -792,10 +792,10 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="sub_sync_item_browser_title_history_summary">Synk nettleserhistorikken</string>
      <string name="sub_sync_item_browser_title_novel">Synk romaner</string>
      <string name="sub_sync_item_browser_title_novel_summary">Synk romaner i nettleseren</string>
-     <string name="sub_sync_item_browser_title_useful">Sync start page</string>
-     <string name="sub_sync_item_browser_title_useful_summary">"Sync sites you've added to the start page"</string>
-     <string name="sub_sync_item_browser_title_video">Sync video history</string>
-     <string name="sub_sync_item_browser_title_video_summary">"Sync the list of videos you've recently watched across your devices"</string>
+     <string name="sub_sync_item_browser_title_useful">Synk startside</string>
+     <string name="sub_sync_item_browser_title_useful_summary">"Synk sider du har lagt til på startsiden"</string>
+     <string name="sub_sync_item_browser_title_video">Synk videohistorikk</string>
+     <string name="sub_sync_item_browser_title_video_summary">"Synk listen over videoer du nylig har sett på tvers av dine enheter"</string>
      <string name="sub_sync_item_browser_title_webapp">Synk web app</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Sync web apper lagt til og mine favoritter</string>
      <string name="suggest_access_appstore">Mi-appbutikk</string>
