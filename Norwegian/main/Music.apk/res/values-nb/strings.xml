@@ -264,8 +264,8 @@
      <string name="select_lyric">Velg sangtekst</string>
      <string name="send_to">Del</string>
      <string name="send_to_title">Send til (%1$s)</string>
-     <string name="server_error">Server error. Please try again later</string>
-     <string name="service_stop">Service discontinued</string>
+     <string name="server_error">Serverfeil. Vennligst prøv igjen senere</string>
+     <string name="service_stop">Tjenesten avviklet</string>
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
      <string name="set_id3_failed">"Kan ikke lagre info"</string>
@@ -311,12 +311,12 @@
      <string name="ultra_high_quality">Høyeste kvalitet</string>
      <string name="unknown_album_name">Ukjent album</string>
      <string name="unknown_artist_name">Ukjent artist</string>
-     <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
-     <string name="upgrade_immediate">Update now</string>
-     <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
-     <string name="upgrade_remind">Update available</string>
-     <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
-     <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
+     <string name="upgrade_force">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
+     <string name="upgrade_immediate">Oppdater når</string>
+     <string name="upgrade_nobeta">"Vi avvikler vår nåværende strømmetjeneste mens vi løser rettighetsproblemer. Beklager bryet :("</string>
+     <string name="upgrade_remind">Oppdateruing tilgjengelig</string>
+     <string name="upgrade_suggest">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
+     <string name="upgrade_waringing">"Du vil bare ha mulighet til å høre på musikk lagret offline."</string>
      <string name="valid_period">"Gyldig fra: "</string>
      <string name="vip_recommend_title">Høyere kvalitet-musikk</string>
 </resources>

@@ -19,7 +19,7 @@
      <string name="activity_find_city_dialog_message">La Vær bruk plasseringstjeneste</string>
      <string name="activity_find_city_dialog_set">Innstillinger</string>
      <string name="activity_find_city_dialog_title">Plasseringstjeneste</string>
-     <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
+     <string name="activity_main_refresh_fail">"Kunne ikke koble til nettverket"</string>
      <string name="activity_main_refresh_time">Sist oppdatert %1$s</string>
      <string name="activity_main_refresh_timeout">Oppdateringstidsavbrudd</string>
      <string name="activity_main_time_format">MM/dd</string>

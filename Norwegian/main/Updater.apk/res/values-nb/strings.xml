@@ -207,26 +207,26 @@ Men du kan ta del neste tirsdag"</string>
      <string name="validate_pkg_failed_msg">"Kan ikke verifisere kilden til denne oppdateringen. Prøv å laste ned igjen."</string>
      <string name="validate_pkg_failed_title">"Kan ikke verifiserer oppdatering"</string>
      <string name="view_upgrade_tutorial">Vis</string>
-     <string name="vote_beta">Beta Feedback Program</string>
-     <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-     <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-     <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-     <string name="vote_error4">You already submitted feedback</string>
-     <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
-     <string name="vote_error_nonetwork">"Can't connect to the network"</string>
-     <string name="vote_experience">Forum experience</string>
-     <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
-     <string name="vote_join">Voted</string>
-     <string name="vote_not_recommend">"Don't recommend"</string>
-     <string name="vote_recommend">Recommend this update</string>
-     <string name="vote_submit">Submit</string>
+     <string name="vote_beta">Beta-tilbakemeldingsprogram</string>
+     <string name="vote_error1">"Ser ut til at du ikke er medlem
+av Beta-tilbakemeldingsprogrammet"</string>
+     <string name="vote_error2">"Kunne ikke sende tilbakemelding.
+Oppdater enheten din og prøv igjen"</string>
+     <string name="vote_error3">"Kunne ikke logge inn.
+Prøv å logge på Mi-kontoen på nytt."</string>
+     <string name="vote_error4">Du har allerede sendt tilbakemelding</string>
+     <string name="vote_error5">"Noe gikk galt
+Kunne ikke sende tilbakemelding"</string>
+     <string name="vote_error_nonetwork">"Kunne ikke koble til nettverket"</string>
+     <string name="vote_experience">Forum-erfaring</string>
+     <string name="vote_hint">Få 20 erfaringspoeng på MIUI-forumet når du stemmer</string>
+     <string name="vote_join">Stemt</string>
+     <string name="vote_not_recommend">"Ikke anbefal"</string>
+     <string name="vote_recommend">Anbefal denne oppdateringen</string>
+     <string name="vote_submit">Send</string>
      <string name="weekly_build">Ukentlig bygg</string>
      <string name="welcom_button">OK</string>
-     <string name="welcom_message">"You're ready to rock"</string>
-     <string name="welcom_title">Welcome to MIUI 6</string>
+     <string name="welcom_message">"Du er klart til å rocke"</string>
+     <string name="welcom_title">Velkommen til MIUI 6</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>
