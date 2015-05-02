@@ -47,6 +47,7 @@
      <string name="activate_popup_title_new_sim_card">Aktiver %s på nytt</string>
      <string name="activate_popup_title_register_account">Opprett Mi-konto</string>
      <string name="activate_popup_title_upload_diagnosis_info">"Kan ikke aktivere SIM-kort"</string>
+     <string name="activate_sms_postfix">[This SMS is used to activate your Mi device.]</string>
      <string name="activate_status_desc_acquire_phone_number">Henter telefonnummer fra server</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">En serverfeil oppsto under henting av telefonummer</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">"Kunne ikke hente telefonnummer"</string>

@@ -223,6 +223,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="group_name_title" />
      <string name="hms_no_subject_view">(Ingen emne)</string>
      <string name="hms_notification">Messages</string>
+     <string name="info_divider">|</string>
      <string name="loading">Laster…</string>
      <string name="loading_resource_detail_fail">"Kan ikke laste ressurs"</string>
      <string name="loading_resource_detail_info">Laster…</string>

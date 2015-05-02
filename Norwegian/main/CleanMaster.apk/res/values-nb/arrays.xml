@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+
+     <string-array name="cache_sort_type">
+        <item>Størrelse</item>
+        <item>Navn</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Hver dag</item>
+        <item>Etter 3 dager</item>
+        <item>Etter 7 dager</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>Om 1 minutt</item>
+        <item>Om 5 minutter</item>
+        <item>Om 10 minutter</item>
+        <item>Aldri</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Spørr med varsling</item>
+        <item>Rydd i bakgrunnen</item>
+        <item>Vis varsel etter opprydding</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Størrelse</item>
+        <item>Navn</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Størrelse</item>
+        <item>Navn</item>
+     </string-array>
+</resources>

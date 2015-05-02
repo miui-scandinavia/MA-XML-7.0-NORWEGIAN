@@ -162,7 +162,7 @@
      <string name="confirm_no_block_title">"Ikke blokker nummer og gjenopprette alle meldingene?"</string>
      <string name="confirm_rate_limit">"Et stort antall MMS'er sendes, bekreft at dette er ok?"</string>
      <string name="confirm_restore_all_title">Gjenopprett alle meldinger fra dette nummeret？</string>
-     <string name="confirm_restore_checkbox">Avblokker Meldinger sendt fra dette nummeret</string>
+     <string name="confirm_restore_checkbox">Gjenopprett blokkerte meldinger</string>
      <string name="confirm_restore_message">Gjenopprett valgte meldinger?</string>
      <string name="confirm_restore_positive">Gjenopprett</string>
      <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
@@ -838,7 +838,7 @@
      <string name="storage_limits_setting">Sett begrensning</string>
      <string name="storage_limits_setting_dismiss">Ingen begrensning</string>
      <string name="storage_limits_title">Begrens meldinger</string>
-     <string name="storage_unavailable">No space available</string>
+     <string name="storage_unavailable">Ingen plass tilgjengelig</string>
      <string name="storage_warning_content">Du kommer ikke til å motta nye SMS- og MMS-meldinger</string>
      <string name="storage_warning_title">Lagringsplassen på telefonen din er full</string>
      <string name="subject_hint">Emne</string>

@@ -90,7 +90,7 @@
      <string name="menu_title_download_current_rom">Last ned oppdatering</string>
      <string name="menu_title_pick_rom_file">Velg oppdateringspakke</string>
      <string name="menu_title_recovery">Omstart til recovery-modus</string>
-     <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
+     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Gå til MIUI forum</a>" "</string>
      <string name="miui_summary_has_new_version">Oppdatering tilgjengelig</string>
      <string name="miui_summary_no_new_version">Ingen oppdatering tilgjengelig</string>
      <string name="miui_summary_now_version">"Kan ikke koble til nettverket"</string>
@@ -225,5 +225,8 @@ Couldn't submit feedback"</string>
      <string name="vote_recommend">Recommend this update</string>
      <string name="vote_submit">Submit</string>
      <string name="weekly_build">Ukentlig bygg</string>
+     <string name="welcom_button">OK</string>
+     <string name="welcom_message">"You're ready to rock"</string>
+     <string name="welcom_title">Welcome to MIUI 6</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>

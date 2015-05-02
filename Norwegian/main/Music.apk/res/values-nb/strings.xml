@@ -42,7 +42,7 @@
      <string name="create_playlist">Lag spilleliste</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til strømming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
-     <string name="delete">Delete</string>
+     <string name="delete">Slett</string>
      <string name="delete_file_as_well">Slett lokal fil også</string>
      <string name="delete_file_end">Slett permanent</string>
      <string name="delete_file_start">Slett valgte filer</string>
@@ -156,6 +156,7 @@
      <string name="higher_quality_music">Høykvalitetslyd</string>
      <string name="higher_quality_music_summary">Strøm og last ned filer med høyere bitrate</string>
      <string name="i_know">OK</string>
+     <string name="i_know_it">OK</string>
      <string name="impunity_declaration">"Nettinnholdet er levert av Baidu Online Musikk-tjeneste. Ved å bruke denne tjenesten, godtar du Baidu sine "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Tjenestevilkår&lt;/a&gt;.</string>
      <string name="impunity_declaration_ignore">Ignorer</string>
      <string name="impunity_declaration_negative_text">Avslutt</string>
@@ -225,7 +226,7 @@
      <string name="ok">OK</string>
      <string name="online_music">Oppdag</string>
      <string name="online_playlist_is_empty">Spillelisten er tom</string>
-     <string name="only_online_can_select_quality">You can only select quality for music you stream.</string>
+     <string name="only_online_can_select_quality">Du kan bare velge kvaltiet for musikk du strømmer.</string>
      <string name="order_process_fail">"Kunne ikke autorisere kontoen din. Vent noen minutter og prøv igjen."</string>
      <string name="payment_fail">Betaling feilet!</string>
      <string name="payment_success">Betaling fullført!</string>
@@ -243,7 +244,7 @@
      <string name="project_device_mobile">Mobil enhet</string>
      <string name="quit_warining">Avspiller vil stoppe avspillning etter %d minutt(er)</string>
      <string name="recommend_fragment_title">Utvalgte</string>
-     <string name="remove">Remove</string>
+     <string name="remove">Fjern</string>
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
      <string name="search_album">Søk album</string>
@@ -264,6 +265,7 @@
      <string name="send_to">Del</string>
      <string name="send_to_title">Send til (%1$s)</string>
      <string name="server_error">Server error. Please try again later</string>
+     <string name="service_stop">Service discontinued</string>
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
      <string name="set_id3_failed">"Kan ikke lagre info"</string>
@@ -278,9 +280,9 @@
      <string name="sleep_mode_title">Stopp spiller etter passert tid</string>
      <string name="song_name">Sang</string>
      <string name="song_not_find">"Kunne ikke finne sang. Sjekk nettverkstilkoblingen og prøv igjen"</string>
-     <string name="sort_by_language">Language</string>
-     <string name="sort_by_name">Name</string>
-     <string name="sort_by_time">Date</string>
+     <string name="sort_by_language">Språk</string>
+     <string name="sort_by_name">Navn</string>
+     <string name="sort_by_time">Dato</string>
      <string name="source_from">Hentet fra: %1$s</string>
      <string name="start_to_play">Spill av</string>
      <string name="stream_quality">Strømmekvalitet</string>
@@ -309,6 +311,12 @@
      <string name="ultra_high_quality">Høyeste kvalitet</string>
      <string name="unknown_album_name">Ukjent album</string>
      <string name="unknown_artist_name">Ukjent artist</string>
+     <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+     <string name="upgrade_immediate">Update now</string>
+     <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+     <string name="upgrade_remind">Update available</string>
+     <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+     <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
      <string name="valid_period">"Gyldig fra: "</string>
      <string name="vip_recommend_title">Høyere kvalitet-musikk</string>
 </resources>
