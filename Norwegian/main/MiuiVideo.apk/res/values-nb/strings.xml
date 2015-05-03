@@ -227,7 +227,7 @@
      <string name="lastrefresh">Senest oppdatert:</string>
      <string name="lekan">Lekan</string>
      <string name="letv">Letv</string>
-     <string name="loading"><CDATA>Laster </DATA></string>
+     <string name="loading">Laster</string>
      <string name="loading_video_netplay_label">Laster, vennligst vent...</string>
      <string name="loading_video_netplay_label_v5">Laster stream, vennligst vent...</string>
      <string name="local_detail_more">%d mer videoer</string>
@@ -369,7 +369,7 @@
      <string name="setting">Innstillinger</string>
      <string name="share">Del</string>
      <string name="share_device">Delt enhet</string>
-     <string name="similar">Lignende< filmer/string>
+     <string name="similar">Lignende</string>
      <string name="sina">Sina</string>
      <string name="souhu">Souhu</string>
      <string name="source_error">"Kan ikke finne kilde"</string>
