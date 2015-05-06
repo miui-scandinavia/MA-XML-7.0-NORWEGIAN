@@ -104,7 +104,7 @@
      <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Plasseringlåst til GPS</string>
      <string name="gps_notification_searching_text">Søker etter GPS</string>
-     <string name="headset_custom">Oppsett</string>
+     <string name="headset_custom">Ignorer</string>
      <string name="headset_info">Trykk for å konfigurerer hodetelefon-type og personliggjør knappefunksjoner</string>
      <string name="headset_settings">Headset tilkoblet</string>
      <string name="hint_for_long_press_app_switch_key">Trykk og hold for å vise meny</string>

@@ -96,7 +96,7 @@
      <string name="button_optimizer">OK</string>
      <string name="button_text_accept">Godkjenn</string>
      <string name="button_text_accept_timer">Godkjenn (%d)</string>
-     <string name="button_text_add_to_white_list">Legg til som unntak</string>
+     <string name="button_text_add_to_white_list">Unntak</string>
      <string name="button_text_backup_uninstall">Ta sikkerhetskopi og avinstaller</string>
      <string name="button_text_cancel">Avbryt</string>
      <string name="button_text_cancel_clean">Avbryt</string>

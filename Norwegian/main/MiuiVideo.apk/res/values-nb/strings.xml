@@ -213,7 +213,7 @@
      <string name="info_channel_title">Nyheter</string>
      <string name="info_video_loading">Laster…</string>
      <string name="init">Starter…</string>
-     <string name="install_apk">Install</string>
+     <string name="install_apk">Installer</string>
      <string name="install_comfirm">Installer</string>
      <string name="install_plugin">Installer tilegg</string>
      <string name="installed">Installert</string>

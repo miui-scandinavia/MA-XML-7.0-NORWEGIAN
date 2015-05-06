@@ -45,7 +45,7 @@
      <string name="albums">Album</string>
      <string name="albumset_page_title_separator"> | </string>
      <string name="alert">Kunngjøring</string>
-     <string name="alert_init_merged_message">"Nå vil bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen.</string>
+     <string name="alert_init_merged_message">"Nå vil lokale bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen i Bilder-fanen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Du må skru på synk først.</string>
      <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjulte album.</string>
@@ -488,14 +488,14 @@
      <string name="cloud_album_more_settings">Innstillinger for Cloud-album</string>
      <string name="cloud_album_set_create">Ny</string>
      <string name="cloud_album_set_scan_qr_code">QR-kode</string>
-     <string name="cloud_albums">Cloud-album</string>
+     <string name="cloud_albums">Mi Cloud</string>
      <string name="cloud_be_shared_guide_message">"Du kan vise dine venners bilder, og legge til bilder i albumet også, slik at dere alle kan se dem."</string>
      <string name="cloud_be_shared_guide_title">Dette albumet ble delt av en venn</string>
      <string name="cloud_camera_display_name">Usortert</string>
      <string name="cloud_folder_chooser_move">Delete images from original album</string>
      <string name="cloud_gallery_recyclebin_full">Papirkurven er full. Tøm den på www.mi.com/micloud.</string>
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
-     <string name="cloud_media_set_set">Cloud-album</string>
+     <string name="cloud_media_set_set">Mi Cloud</string>
      <string name="cloud_owner_album_share_guide">"Del
      	dette albumet
      	med venner"</string>

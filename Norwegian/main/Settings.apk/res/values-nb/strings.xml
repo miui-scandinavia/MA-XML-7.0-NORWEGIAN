@@ -108,7 +108,7 @@ Administratoren din kan overvåke og administrere innstillinger, tilgang, apper 
      <string name="agps_roaming">A-GPS under roaming</string>
      <string name="agps_roaming_dia">"Bruk av A-GPS når du roaming kan øke ditt mobildataforbruk. Hvis du overskrider abonnementets datagrense, kan oepratøren din belaste deg ytterlige avgifter."</string>
      <string name="agps_roaming_dia_title">Bruk A-GPS under roaming</string>
-     <string name="agps_roaming_summary">Bruk av A-GPS under roaming, kan øke telefonkostnader</string>
+     <string name="agps_roaming_summary">Bruk mobildata for å forbedre GPS under roaming</string>
      <string name="airplane_mode">Flymodus</string>
      <string name="alarm_volume_option_title">Alarmvolum</string>
      <string name="alarm_volume_title">Alarm</string>
