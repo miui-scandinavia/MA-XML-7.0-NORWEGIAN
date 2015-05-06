@@ -14,9 +14,12 @@
      <string name="ble_device_profile_header_title">Profiler</string>
      <string name="ble_device_profile_title">Tilkoblet BLE-enhet</string>
      <string name="ble_device_unbind">Tøm innstillinger</string>
-     <string name="ble_profile_1">ble_profile_mi_band</string>
-     <string name="ble_profile_2">ble_profile_mi_key</string>
-     <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
+
+  <string name="bluetooth_connected">Tilkoblet</string>
+  <string name="bluetooth_connecting">Kobler til…</string>
+  <string name="bluetooth_disconnected">Avkoblet</string>
+  <string name="bluetooth_disconnecting">Kobler fra…</string>
+     <string name="bluetooth_in_airplane_mode">I flymodus</string>
      <string name="bluetooth_map_email_settings_app_icon">Appikon</string>
      <string name="bluetooth_map_email_settings_cancel">Avbryt</string>
      <string name="bluetooth_map_email_settings_count">Plasser igjen:</string>

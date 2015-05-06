@@ -919,8 +919,8 @@ venner."</string>
      <string name="save_photo">Lagre redigert bilde?</string>
      <string name="saving_failure">Bilde kan ikke lagres</string>
      <string name="saving_image">Lagrer bilde…</string>
-     <string name="scan_barcode_guide">For å få album QR-koden, trykker du på Del-ikonet i øvre høyre hjørne.</string>
-     <string name="scan_barcode_to_join">Skann QR-koden for å delta i et album.</string>
+     <string name="scan_barcode_guide">For å hente albumets QR-kode, trykker på Del-ikonet.</string>
+     <string name="scan_barcode_to_join">Skann QR-koden for å legge til album.</string>
      <string name="scan_qr_code_buttom_text">Skann QR-koden for å se dette albumet.</string>
      <string name="scan_qr_code_failure">Klarte ikke å skanne QR-koden.</string>
      <string name="screensaver_activate_mode">Skjermsparer-lysbildeshow</string>

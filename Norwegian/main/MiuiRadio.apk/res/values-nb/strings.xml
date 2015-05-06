@@ -40,7 +40,7 @@
      <string name="has_no_program_now">Tom</string>
      <string name="high_quality">Høyere (48 bps)</string>
      <string name="hotlist_name">Utvalgte</string>
-     <string name="impunity_declaration">Radio trenger å koble til Internett for å fungere normalt.</string>
+     <string name="impunity_declaration">Radio trenger å koble til Internett og posisjoneringstjenester for å fungere normalt.</string>
      <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
      <string name="impunity_declaration_negative_text">Avslutt</string>
      <string name="impunity_declaration_positive_text">OK</string>

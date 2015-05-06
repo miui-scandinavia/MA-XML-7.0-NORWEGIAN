@@ -220,8 +220,8 @@
      <string name="installed_count_ge">%d installert</string>
      <string name="introduce">Sammendrag</string>
      <string name="ji">ep</string>
-     <string name="join_alert_title">Join internal test</string>
-     <string name="join_hint">Input the invite code</string>
+     <string name="join_alert_title">Bli med på intern-test</string>
+     <string name="join_hint">Skriv invitasjonskode</string>
      <string name="key_back_down_toast">For å avbryte, trykk Tilbake en gang til</string>
      <string name="koreak">Asia</string>
      <string name="lastrefresh">Senest oppdatert:</string>

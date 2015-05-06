@@ -1185,6 +1185,12 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="firmware_version">Android-versjon</string>
      <string name="floating_window_switch_label">Skru på flytende vinduer</string>
      <string name="floating_window_switch_label_disable">Skru av flytende vinduer</string>
+     <string name="fluency_mode">Optimaliser systemytelse</string>
+     <string name="fluency_mode_confirm_title">Omstart nå?</string>
+     <string name="fluency_mode_confirm_will_fluency_mode_text">Enheten din må startes på nytt for at disse endringene skal trå i kraft.</string>
+     <string name="fluency_mode_confirm_will_normal_mode_text">Å skru på animasjoner og bruke ekstra minne kan forårsake treger ytelse på noen enheter.</string>
+     <string name="fluency_mode_enabled_name">Optimaliser systemytelse</string>
+     <string name="fluency_mode_summary">Skru av systemanimasjon og reduser minnebruk</string>
      <string name="font_size_huge">Veldig stor</string>
      <string name="font_size_large">Stor</string>
      <string name="font_size_medium">Medium</string>
@@ -1251,9 +1257,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="gadget_toggle_wifi">Oppdaterer innstilling for trådløst nett ...</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Spillkontroller</string>
-     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-     <string name="getConnectionInfo">getConnectionInfo</string>
-     <string name="global_change_warning">Denne innstillingen påvirker alle brukerne på dette nettbrettet.</string>
+     <string name="gesture_wakeup_title">Dobbel-trykk skjerm for å våkne</string>
+     <string name="global_change_warning">Denne innstillingen påvirker alle brukerne på denne enheten.</string>
      <string name="global_font_change_title">Endre skriftstørrelse</string>
      <string name="global_locale_change_title">Bytt språk</string>
      <string name="google_backup_section_title">Google sikkerhetskopi &amp; gjenopprett</string>
@@ -2417,6 +2422,7 @@ Sånn fungerer én-appsmodus:
      <string name="search_date_time">dato tid</string>
      <string name="search_description">Søkeinnstillinger</string>
      <string name="search_display">skjerm</string>
+     <string name="search_fluency_mode">flytmodus</string>
      <string name="search_font">font</string>
      <string name="search_gps">gps</string>
      <string name="search_handy_mode">hendig modus</string>
