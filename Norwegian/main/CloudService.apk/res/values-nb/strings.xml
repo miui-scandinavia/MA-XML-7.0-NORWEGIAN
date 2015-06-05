@@ -43,6 +43,7 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_app_back_up_quit_notification_content3">Sikkerhetskopier app-data</string>
      <string name="cloud_back_up_button_ok">Tving stopp</string>
      <string name="cloud_back_up_close_info">Trykk for å sikkerhetskopiere.</string>
+     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Stopp pågående sikkerhetskopiering? Hvis du stopper nå, vil du ikke kunne bruke denne sdikkerhetskopien for å gjenopprette apper."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
@@ -64,6 +65,7 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="contact">Kontakter</string>
      <string name="current">Gjeldende</string>
      <string name="data_syncing">Alltid synk</string>
+     <string name="deskclock_backup">Clocks Back up</string>
      <string name="detail">Detaljer</string>
      <string name="disable_find_device_error">"Kan ikke skru av Finn enhet. %1$s"</string>
      <string name="enableAll">Synk alle</string>
@@ -122,6 +124,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="header_other_settings">Flere innstillinger</string>
      <string name="i_know">OK</string>
      <string name="internet">Internett</string>
+     <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
      <string name="internet_disconnected">Ingen datatilkobling</string>
      <string name="less_flow_mode">Bruk mobildata for å synke</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
@@ -131,6 +134,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
+     <string name="micloud_buy_member">Upgrade membership</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
@@ -165,19 +169,41 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_network_error">"Kan ikke koble til nettverket."</string>
      <string name="micloud_main_set_internet">Nettverk</string>
      <string name="micloud_main_space_full">Ikke nok lagringsplass.</string>
+     <string name="micloud_main_space_low">Almost out of space…</string>
      <string name="micloud_main_space_risk">%d elementer synket.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
+     <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
+Tap the Settings button to view more options"</string>
      <string name="micloud_main_suggest_sync">"Kunne ikke synke alt"</string>
      <string name="micloud_main_sync_exception">Synkfeil</string>
      <string name="micloud_main_sync_init">Henter info</string>
      <string name="micloud_main_sync_now">Synk nå</string>
      <string name="micloud_main_sync_on_wifi">Bruk Wi-Fi</string>
      <string name="micloud_main_sync_pause">Pause sync</string>
+     <string name="micloud_main_sync_setting">Sync settings</string>
      <string name="micloud_main_sync_stop">Stopp synk</string>
      <string name="micloud_main_synced_data_count">%d elementer synket</string>
      <string name="micloud_main_syncing">Synker…</string>
+     <string name="micloud_main_title_sync_fail">"Can't sync"</string>
+     <string name="micloud_main_title_sync_off">Sync off</string>
+     <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
      <string name="micloud_main_update_space">Hent mer lagringsplass.</string>
      <string name="micloud_main_wlan_sync_data_count">"%d elementer venter på synk"</string>
+     <string name="micloud_member">Mi Cloud membership</string>
+     <string name="micloud_member_advantage">Get more storage space.</string>
+     <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
+
+%s Mi Credits per year"</string>
+     <string name="micloud_member_buy_title">Confirm order</string>
+     <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
+     <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>
+     <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
+     <string name="micloud_member_pay_miid_error_toast">Account error</string>
+     <string name="micloud_member_pay_order_error_toast">Data error</string>
+     <string name="micloud_member_refresh_button">Refresh</string>
+     <string name="micloud_member_webload_fail_error_message">Network error</string>
+     <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
+     <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
@@ -185,6 +211,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_setting_antispam_summary">Unntak for Ikke forstyrr og blokkerte telefonnumre.</string>
      <string name="micloud_setting_browser_summary">Bokmerker, historikk og faner</string>
      <string name="micloud_setting_contact_summary">Kontaktinformasjon og profilbilder</string>
+     <string name="micloud_setting_deskclock_summary">Clocks settings</string>
      <string name="micloud_setting_gallery_summary">Bilder og videoer</string>
      <string name="micloud_setting_music_summary">Spillelister og favoritter</string>
      <string name="micloud_setting_sms_summary">SMS- og MMS-meldinger</string>
@@ -193,11 +220,16 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_space_duokan_detail">Håndter ditt Duokan--innhold ved hjelp av Duokan-appen.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
+     <string name="micloud_storage">Storage</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Du må fornye ditt abonnement.</string>
      <string name="micloud_storage_expires_manually_renewal_sum">Du må fornye ditt abonnement.</string>
      <string name="micloud_storage_expires_soon_title">Mi Cloud-lagring utløper snart</string>
      <string name="micloud_storage_expires_very_soon_title">Mi Cloud-lagring utløper snart</string>
      <string name="micloud_storage_usage" formatted="false">Brukt %s/Total plass %s</string>
+     <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
+     <string name="micloud_sync_alert_dialog_negative">Cancel</string>
+     <string name="micloud_sync_alert_dialog_positive">OK</string>
+     <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
      <string name="micloud_title_dspt" formatted="false">"Total plass %s
 brukt %s | gjenværende %s"</string>
      <string name="micloud_title_dspt_remain">%s igjen</string>
@@ -246,6 +278,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="remind_later">Senere</string>
      <string name="restoreSync">Synk nå</string>
      <string name="setting">Innstillinger</string>
+     <string name="settings_backup_title">Back up system settings</string>
      <string name="share_cancel">Deling avbrutt</string>
      <string name="share_failed">"Kunne ikke dele"</string>
      <string name="share_miliao_not_installed">MiTalk er ikke installert.</string>

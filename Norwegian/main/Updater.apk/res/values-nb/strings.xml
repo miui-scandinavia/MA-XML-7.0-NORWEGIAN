@@ -56,6 +56,7 @@
      <string name="download_error">Noe gikk feil. Vent ett minutt eller to og prøv igjen.</string>
      <string name="download_failed">"Kan ikke laste ned"</string>
      <string name="download_full">Last ned fullversjon</string>
+     <string name="download_success_reboot_immediately">Reboot to apply update</string>
      <string name="download_title">Laster ned (%s)</string>
      <string name="download_title_first">Henter info…</string>
      <string name="download_title_full_download">Henter info…</string>
@@ -108,6 +109,7 @@
      <string name="no_wifi_msg">"Bruk av din mobildataforbindelse for å laste ned oppdateringen vil øke ditt dataforbruk. Hvis du overskrider abonnements datagrense, kan operatøren din belaste deg ytterlige avgifter."</string>
      <string name="no_wifi_title">Advarsel for databruk</string>
      <string name="not_open">Ikke nå</string>
+     <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
      <string name="notification_downloading">Laster ned oppdatering…</string>
      <string name="notification_load_body_alpha">Hent de nyeste oppdateringene til din enhet.</string>
      <string name="notification_load_body_dev">"Hent de nyeste oppdateringene til din enhet."</string>
@@ -194,10 +196,12 @@ Men du kan ta del neste tirsdag"</string>
      <string name="update_sad">Meh (ikke så bra)</string>
      <string name="update_success">Enhet oppdatert</string>
      <string name="update_success_body">Versjon: %s</string>
+     <string name="update_success_reboot_immediately">Device updated</string>
      <string name="update_success_title">Enhet oppdatert</string>
      <string name="updater_nolog">Ingen oppdateringssammendrag.</string>
      <string name="updater_nonetwork">"Kan ikke koble til nettverket"</string>
      <string name="updater_nonetwork_clause">"Kan ikke koble til nettverket"</string>
+     <string name="updater_wait_for_unzip">Unpacking update…</string>
      <string name="upgrade_close">Lukk</string>
      <string name="upgrade_kernel">Systemkjernen er utdatert</string>
      <string name="upgrade_kernel_msg">"Nåværende kjerne passer ikke med seneste versjon av MIUI ROM. Du må oppdatere den manuelt. Vennligst sjekk Xiaomi sin oppdateringsguide:"</string>

@@ -27,6 +27,10 @@
         <item>Størrelse</item>
         <item>Navn</item>
      </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Frequently used</item>
+        <item>Size</item>
+     </string-array>
      <string-array name="large_file_sort_type">
         <item>Størrelse</item>
         <item>Navn</item>

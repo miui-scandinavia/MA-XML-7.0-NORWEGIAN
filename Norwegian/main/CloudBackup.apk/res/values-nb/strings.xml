@@ -31,6 +31,7 @@
      <string name="cloud_task_in_process">Det er en %s-oppgave kjørende! Sletting av sikkerhetskopi av gjeldende enhet vil avbryte denne oppgaven. Er du sikker på at du vil gjøre dette?</string>
      <string name="customization">&lt;u&gt;Tilpass&lt;/u&gt;</string>
      <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+     <string name="deskclock_backup">Alarm clock</string>
      <string name="desktop_downloading">Laster ned</string>
      <string name="desktop_installing">Installerer</string>
      <string name="desktop_recovering">Gjenoppretter</string>
@@ -56,6 +57,8 @@
      <string name="open_wifi_setting">Wi-Fi-innstillinger</string>
      <string name="process_whole_recovery">Gjenoppretter \"%s\"</string>
      <string name="recover_from_micloud">Gjenopprett med Mi Cloud</string>
+     <string name="recover_home_settings">Restore Home screen settings</string>
+     <string name="recover_miui_settings">Restore MIUI system settings</string>
      <string name="recover_settings">Gjenopprett hjemskjerm-innstillinger</string>
      <string name="recover_settings_description">Hold enheten skrudd på</string>
      <string name="recovering">Gjenoppretter %s</string>
@@ -65,6 +68,7 @@
      <string name="restoreing_file_tile">Gjenoppretter %d filer</string>
      <string name="retry">Prøv igjen</string>
      <string name="self_phone">Denne telefonen</string>
+     <string name="settings_backup">System settings</string>
      <string name="start_backup_to_micloud">Sikkerhetskopier apper til Mi Cloud</string>
      <string name="start_recover">Gjenopprett %s</string>
      <string name="wait_icon_download">Later ned app-ikon</string>

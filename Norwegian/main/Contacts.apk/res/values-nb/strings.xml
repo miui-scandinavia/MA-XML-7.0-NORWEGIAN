@@ -267,6 +267,7 @@
      <string name="delete_unknown_contact_calllog_title">"Bekreft sletting av ukjent kontakts anropshistorikk?"</string>
      <string name="deleting">Sletter...</string>
      <string name="deleting_sim_entry_miui">Sletting av kontakter på SIM-kort</string>
+     <string name="deleting_sim_entry_miui_prepare">Prepare for the delete…</string>
      <string name="description_action_menu_add_star">Lagt til i favoritter</string>
      <string name="description_action_menu_remove_star">Fjernet fra favoritter</string>
      <string name="description_add_contact">Legg til kontakt</string>
@@ -409,6 +410,7 @@
      <string name="expanding_entry_card_view_see_more">Se mer</string>
      <string name="export_sim_contact_finish">Eksport til SIM-kort fullført</string>
      <string name="export_sim_contact_finish_failure">SIM-lagring er full, fullført: %1$d gjennstående: %2$d</string>
+     <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d skipped | %3$d remaining</string>
      <string name="export_sim_contact_finish_success">Kopierte %d kontakt(er) fra SIM-kort</string>
      <string name="export_sim_contacts_dialog_message">Ditt SIM-kort kan lagre %d kontakter, er du sikker på du vil fortsette?</string>
      <string name="export_to_sdcard">Eksporter til SD-kort</string>
@@ -468,6 +470,7 @@
      <string name="group_rename_dialog_title">Bytt navn på gruppe</string>
      <string name="group_rename_fail_toast">Navnebytte mislykkes</string>
      <string name="group_rename_success_toast">Gruppe har fått nytt navn</string>
+     <string name="group_sms_error_message">"SMS can't have more than %s recipients."</string>
      <string name="group_sms_progress_msg">Forbereder gruppe SMS…</string>
      <string name="groupsLabel">Grupper</string>
      <string name="groups_list_empty">Ingen grupper</string>
@@ -524,6 +527,7 @@
      <string name="import_weibo_progress_name">%1$s</string>
      <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Importerer SIM-kontakter...</string>
+     <string name="importing_sim_contacts_miui_prepare">Prepare for the import…</string>
      <string name="importing_vcard_canceled_title">Importering av %s ble avbrutt</string>
      <string name="importing_vcard_description">Importerer %s</string>
      <string name="importing_vcard_finished_title">Ferdig med at importere vCard %s</string>
@@ -556,6 +560,7 @@
      <string name="list_filter_phones">Alle kontakter med telefonnumre</string>
      <string name="list_filter_single">Kontakt</string>
      <string name="loading">Laster inn...</string>
+     <string name="loading_accounts">Loading SIM info...</string>
      <string name="loading_group_members">Laster inn gruppe medlemmer...</string>
      <string name="loading_groups">Laster inn grupper...</string>
      <string name="loading_recent">Laster inn nylige kontakter...</string>
@@ -773,6 +778,7 @@ for å legge til kontakt til favoritter:
      <string name="preference_contacts_display">Kontaktvisning</string>
      <string name="preference_contacts_filter">Velg fra konto</string>
      <string name="preference_contacts_more">Flere innstillinger</string>
+     <string name="preference_contacts_recovery_introduction">Recover contacts</string>
      <string name="preference_dial_pad_touch_tone_default">Standard</string>
      <string name="preference_dial_pad_touch_tone_human">Menneskestemme</string>
      <string name="preference_dial_pad_touch_tone_piano">Pianolyd</string>

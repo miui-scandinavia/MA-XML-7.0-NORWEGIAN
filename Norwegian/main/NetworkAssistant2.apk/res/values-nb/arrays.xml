@@ -46,6 +46,10 @@
         <item>Vis advarsel</item>
         <item>Advare og skru av mobildata</item>
      </string-array>
+     <string-array name="roaming_apps_sorted_type">
+        <item>Frequently used</item>
+        <item>Name</item>
+     </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Hent meldingsmal automatisk</item>
         <item>Sett meldingsmal manuelt</item>

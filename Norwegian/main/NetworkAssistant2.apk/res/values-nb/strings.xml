@@ -40,6 +40,7 @@
      <string name="daily_limit_network_available_body">Trykk for å vise statistikk over mobildata.</string>
      <string name="daily_limit_over_message">"Du har overskredet din daglige datagrense."</string>
      <string name="daily_pkg_traffic">Sett maksimum databruksgrense</string>
+     <string name="data_network_blocked_notification_title">No internet connection</string>
      <string name="data_usage_correction_timeout_body">Trykk for å oppdatere manuellt</string>
      <string name="data_usage_correction_timeout_title">Synking av databruk ble tidsavbrutt</string>
      <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.
@@ -95,6 +96,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="detail_app_button">Detaljer</string>
      <string name="dialog_app_roaming_message">"%1$s kan ikke bruke mobildata under roaming. Når du roamer internasjonalt, vil bare appene du har lagt til i hvitelisten kunne bruke mobildata."</string>
      <string name="dialog_app_roaming_title">"Internasjonal roaming er ikke aktivert for %1$s"</string>
+     <string name="dialog_roaming_apps_sorted_title">Sort by</string>
      <string name="dialog_roaming_message">Tillatt denne appen å bruke mobildata når du roamer internasjonalt?</string>
      <string name="dialog_roaming_title">Internasjonal roaming</string>
      <string name="disable_air_mode">Skru av flymodus</string>
@@ -109,6 +111,8 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_fragment_sys_listempty">Tom</string>
      <string name="firewall_fragment_tab_title_nonsys">Nedlastede</string>
      <string name="firewall_fragment_tab_title_sys">Apper</string>
+     <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
      <string name="firewall_rule_group_title_mobile">Data</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -124,15 +128,20 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="free_traffic_settings">Minimum databruksgrense</string>
      <string name="gateway_exception_summary">Sjekk ruteren din og prøv igjen.</string>
      <string name="gateway_exception_title">Test ruter</string>
+     <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
+     <string name="hints_install_apps_new">Never used</string>
+     <string name="hints_install_apps_today">Used today</string>
      <string name="input_aviable_traffic">Sett databruksgrense</string>
      <string name="input_traffic_pkg">Skriv databruk</string>
      <string name="input_used_hint">Skriv databruk</string>
      <string name="input_used_max_hint">Skriv databruk(mindre enn %s)</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
      <string name="international_roaming_whitelist_count">%d apper kan bruke mobildata når du roamer internasjonalt</string>
+     <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
      <string name="load_fail">"Kunne ikke laste"</string>
+     <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
      <string name="lock_screen_setting_summary">Vis varsel på låseskjermen etter 100KB har blitt brukt</string>
      <string name="lock_screen_traffic_guide_notification_summary">Mobildata brukt på låseskjermen.</string>
      <string name="lock_screen_traffic_guide_notification_title">Brukt %s av mobildata</string>
@@ -186,10 +195,56 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="mi_service_framework">Mi tjenesterammeverk</string>
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Rammeverkdetaljer</string>
+     <string name="mian_page_primary_txt">Internationally roaming</string>
+     <string name="miuishare_title_more">More</string>
+     <string name="miuishare_title_share">Share</string>
+     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Berør for å begrense databruk</string>
      <string name="network_assistant_upgraded_title">Oppdatert</string>
+     <string name="network_blocked_connected_open_wifi">Connected to public network</string>
+     <string name="network_blocked_notification_summary">Tap to view details.</string>
+     <string name="network_blocked_switch_wifi">Switch networks</string>
+     <string name="network_connected_exception_title">Test network</string>
      <string name="network_control">Vis innstillinger for app</string>
      <string name="network_diagnostics">Test nettverk</string>
+     <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+
+ 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+
+ 2. If you just topped up your device's balance, reboot your device and try again.
+
+ 3. Your carrier's network's signal may be weak in your current location."</string>
+     <string name="network_not_available">"Can't connect to the network"</string>
+     <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
+     <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+     <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
+     <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+
+ "&lt;b&gt;"1. Public WLAN network issues
+"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+
+ 2."&lt;b&gt;" Internet service provider issues
+M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+
+ 3."&lt;b&gt;" Router hardware issues
+T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+
+ 4."&lt;b&gt;" Other router issues
+R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+
+ 5."&lt;b&gt;" Make sure your router is connected properly
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+     <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+
+ 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+
+ 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+
+ 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+     <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+     <string name="networkchanged_exception_title">Connection changed</string>
+     <string name="no_network_btn">Try again</string>
      <string name="none_mi_service_app_detail">Tom</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
      <string name="notification_title">%1$s-%2$s: rundt %3$s brukt</string>
@@ -205,14 +260,19 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="online_chat">Chat</string>
      <string name="online_read">Nyheter</string>
      <string name="online_songs">Musikk</string>
+     <string name="open_now">Allow app to use mobile data</string>
      <string name="operator_name_cmcc">China Mobile</string>
      <string name="operator_name_telcom">China Telecom</string>
      <string name="operator_name_unicom">China Unicom</string>
      <string name="operator_number_cmcc">10086</string>
      <string name="operator_number_telcom">10000</string>
      <string name="operator_number_unicom">10010</string>
+     <string name="other_exception_summary">"You don't have an internet connection"</string>
+     <string name="other_exception_title">Checking for other issues</string>
      <string name="pay_charge">Kjøp mer data</string>
      <string name="per_month_pkg_traffic_settings">Sett datagrense</string>
+     <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
+     <string name="permission_exception_title">View network permissions</string>
      <string name="permit_running_network">Tillat bakgrunnsdata</string>
      <string name="person_hotpot">Mobile aksesspunkt</string>
      <string name="pkg_traffic">Sett databruksgrense</string>
@@ -263,6 +323,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="pref_package_traffic_overlay">%1$s | Ekstra: %2$s</string>
      <string name="pref_package_traffic_settings">Mobildatagrense</string>
      <string name="pref_pkg_begin_date">Dato for nullstilling av brukssyklus</string>
+     <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
      <string name="pref_setting_operators_message">Endre meldingen enheten din sender operatøren for å synkronisere databrukstatistikk</string>
      <string name="pref_show_mobile_traffic">Når du låser opp telefonen din, vis databrukstatistikk for den perioden enheten din har blitt låst (må være mer lenger enn 5 minutter)</string>
      <string name="pref_special_traffic_exceed_limit">Gi meg et varsel når databruk når grensen</string>
@@ -295,20 +356,29 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="privacy_prompt_traffic_adjust_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Xiaomi sine servere for å oppdatere SMS-spørringsmaler og for å sjekke om denne funksjonen er tilgjengelig i ditt område."</string>
      <string name="privacy_prompt_traffic_purchase_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Xiaomi sine servere for å hente mer informasjon om muligheter for kjøp av data."</string>
      <string name="privacy_prompt_upload">Personvernsvarsel</string>
+     <string name="protocol_exception_title">Network protocol diagnostics</string>
+     <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
      <string name="reach_daily_limit_value_body">Reduser ditt daglige mobildataforbruk.</string>
      <string name="reach_daily_limit_value_title">Daglig datagrense nådd</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
+     <string name="renew_ip">Retry</string>
      <string name="repair">Reparer</string>
-       <string name="repair_loading_text">Laster…</string>
+     <string name="repair_loading_text">Laster…</string>
      <string name="replace_dns">Bytt DNS automatisk</string>
      <string name="right_precent">100%</string>
+     <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
+     <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
+     <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
+     <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
      <string name="roaming_not_start_body">Apper på hvitelista vil ha mulighet til å bruke mobildata ved internasjonal roaming.</string>
      <string name="roaming_not_start_title">Internasjonal roaming</string>
      <string name="roaming_start_body">Apper som bruker mobildata.</string>
      <string name="roaming_start_title">Internasjonal roaming</string>
+     <string name="root">Root Access</string>
      <string name="sc_allow_network_dialog_message">Du må tillate denne appen å koble til internett for å fungere normalt.</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
+     <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="see_detail">Detaljer</string>
      <string name="setting_traffic_pkg">Velg datapakke</string>
      <string name="settings">Innstillinger for databruk</string>
@@ -316,6 +386,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="show_traffic_dialog_title">Vis bruk i varslingsskyggen</string>
      <string name="signal_exception_summary">"Kan ikke koble til nettverket i dette området"</string>
      <string name="signal_exception_title">Svakt nettverkssignal</string>
+     <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
      <string name="songs_number">18 sanger</string>
      <string name="songs_unit">" sanger"</string>
      <string name="sorted_button">Sorter etter</string>
@@ -385,6 +456,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_correction_start_correction">"Snakker med operatøren sine servere…"</string>
      <string name="traffic_correction_start_correction_failed">Spørring feilet, vennligst sjekk dine operatørinnstillinger</string>
      <string name="traffic_correction_success">Databruk oppdatert</string>
+     <string name="traffic_correction_success_notify_message">Tap to view details.</string>
      <string name="traffic_limit_error_alert_body">"Operatørens regnskap viser at du har %1$s gjenstående denne måneden. Det er mer enn %2$s-grensen du har satt manuelt."</string>
      <string name="traffic_limit_error_alert_iknow">OK</string>
      <string name="traffic_limit_error_alert_reset">Tilbakestill grense</string>
@@ -466,6 +538,8 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="usage_sorted_loading_text">Laster…</string>
      <string name="usbsharenet_exception_summary">"Kan ikke teste nettverk som blir delt av Mi PC Suite."</string>
      <string name="usbsharenet_exception_title">Test USB-delt nettverk</string>
+     <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
      <string name="wifi_exception_summary">Test tilgjengelige Wi-Fi-nettverkstilkoblinger</string>
      <string name="wifi_exception_title">Test Wi-Fi-nettverk</string>
+     <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

@@ -8,6 +8,8 @@
      <string name="action_fail_unknown_error">Kunne ikke fullføre handling pga ukjent feil.</string>
      <string name="activity_not_found">Ingen program tilgjengelig for å fullføre operasjonen.</string>
      <string name="add_account">Legg til konto</string>
+     <string name="add_event">Add event</string>
+     <string name="add_event_hint">Input a label</string>
      <string name="add_sharer">Legg til i delte</string>
      <string name="add_to_cloud_album">Legg til</string>
      <string name="add_to_cloud_exceeded_the_size_message">Filstørrelsen er for stor for MiCloud.</string>
@@ -102,6 +104,7 @@
      <string name="cannot_send_message">"Kan ikke sende melding"</string>
      <string name="cannot_send_message_reason">Meldingen din har ingen gyldige mottakere.</string>
      <string name="cant_delete_cloud_album">Kunne ikke slette %s fordi det er et systemalbum.</string>
+     <string name="cant_delete_system_album">"Can't delete %s because it's a system album."</string>
      <string name="choose_cloud_album">Velg album</string>
      <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
      <string name="cityname_10">Anshun</string>
@@ -516,6 +519,7 @@ venner."</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
+     <string name="confirm_all_photo_are_this_people_face">All matche？</string>
      <string name="confirm_all_photo_not_this_people_face">Ingen treff?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
@@ -536,6 +540,7 @@ venner."</string>
      <string name="confirm_face">Match</string>
      <string name="confirm_left_photo_will_move_out">Bilder til venstre vil bli fjernet fra dette albumet.</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+     <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_not_face">Ikke denne personen</string>
      <string name="contact_photo">Kontaktbilde</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
@@ -543,6 +548,7 @@ venner."</string>
      <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
      <string name="contrast">Kontrast</string>
      <string name="contrast_abbr">C</string>
+     <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="cool">Kul</string>
      <string name="cool_portrait">Portrett</string>
      <string name="create_new_cloud_folder">Opprett ny skymappe</string>
@@ -614,6 +620,7 @@ venner."</string>
      <string name="error_title">Feil med synk</string>
      <string name="error_unauthorized">For mange forsøk på innlogging: Synk deaktivert.</string>
      <string name="error_unknown_host">Vertsnavn ukjent, vennligst sjekk nettverkstilkoblingen!!</string>
+     <string name="event_manage_photos">Manage photos</string>
      <string name="exit">Lukk</string>
      <string name="exit_share">Lukk album</string>
      <string name="exit_share_failed">Kunne ikke lukke albumet %1$s</string>
@@ -625,10 +632,12 @@ venner."</string>
      <string name="external_usb_device">USB-enhet</string>
      <string name="external_usb_device_hm">Ekstern USB-lagring</string>
      <string name="face_album">Folk</string>
+     <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
      <string name="face_album_not_named">Ikke navngitt</string>
      <string name="face_album_rename_hint">Skriv navn</string>
      <string name="face_albumset_detecting_tip">Bare et sekund…</string>
      <string name="face_albumset_empty">Tom.</string>
+     <string name="face_albumset_loading_data">Loading data…</string>
      <string name="face_albumset_pending_enable_tip">Vil sortere bilder når enheten er tilkoblet Wi-Fi</string>
      <string name="face_albumset_use_tip">"Bruk ansiktdetektering for å sortere bilder etter folk som er i dem"</string>
      <string name="face_move_dialog_title">Velg et album</string>
@@ -692,6 +701,7 @@ venner."</string>
      <string name="how_many_videos">%d Videoer</string>
      <string name="hue_polymorphism">photoeditor_effect_hue</string>
      <string name="ignore_album">Ignorer</string>
+     <string name="ignore_alert_title">"Don't show this album?"</string>
      <string name="ignore_face">Ignorer denne personen</string>
      <string name="image_download_item_title">Last ned fil (%s)</string>
      <string name="image_quota_fulfiled">"Kan ikke opprett bilde, bildegrense nådd."</string>
@@ -757,7 +767,9 @@ venner."</string>
      <string name="menu_item_sort_size_asc">Størrelse stigende</string>
      <string name="menu_item_sort_size_desc">Størrelse fallende</string>
      <string name="menu_view_contact">Vis kontakt</string>
+     <string name="merge_album">Merge</string>
      <string name="merge_album_positive_button_text">Slå sammen</string>
+     <string name="merge_album_title">Merge albums</string>
      <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
      <string name="message_no_delete_access_with_count">Kan ikke slette %d fil(er) eller mappe(r). Hver sikker på at de eksisterer og at du har tilgang til dem.</string>
      <string name="messagelist_sender_self">Meg</string>
@@ -841,6 +853,8 @@ venner."</string>
      <string name="paint_crop_cancel_title">Forkast endringer</string>
      <string name="paint_crop_tips">For å få et bedre bilde, prøve å plassere de interessante delene på gitterpunktene ved å endre størrelse og flytte.</string>
      <string name="paint_highlight">Marker</string>
+     <string name="paint_highlight_cancel_context">Save highlighted image?</string>
+     <string name="paint_highlight_cancel_title">Abandon changes</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
      <string name="photo_page_always_rotate">Auto-roter bilder</string>
@@ -856,6 +870,7 @@ venner."</string>
      <string name="photo_size">Størrelse</string>
      <string name="photoeditor_name">Bildestudio</string>
      <string name="photos">Bilde(r)</string>
+     <string name="pick_from_contact">Pick from contact</string>
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="pick_too_much_tips">Maks %d elementer.</string>
      <string name="pick_with_limited_upper_bound_title">Du kan velge %d elementer</string>

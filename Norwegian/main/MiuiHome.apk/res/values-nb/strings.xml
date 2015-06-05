@@ -42,7 +42,7 @@
      <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg bakgrunn</string>
      <string name="cloud_app_restore_title">Venter</string>
-       <string name="configure_wallpaper">Innstillinger</string>
+     <string name="configure_wallpaper">Innstillinger</string>
      <string name="confirm_btn_label">OK</string>
      <string name="current_preview">Forhåndsvisning</string>
      <string name="current_wallpaper">Gjeldende</string>
@@ -56,6 +56,7 @@
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
      <string name="delete_wallpapers_message">Slett %1$d bakgrunner?</string>
      <string name="disable_wallpaper_scroll">Skru av sideskrolling</string>
+     <string name="download_action">Download</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
      <string name="durationformatshort">%2$2d:%5$02d</string>
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -74,8 +75,8 @@
      <string name="failed_to_drop">Flyttning mislyktes</string>
      <string name="failed_to_drop_widget_invalid">Ugyldig Widget</string>
      <string name="failed_to_drop_widget_nospace">Ikke nok plass</string>
+     <string name="failed_to_load_image">"Kan ikke laste bilde"</string>
      <string name="folder_name">Mappe</string>
-       <string name="failed_to_load_image">"Kan ikke laste bilde"</string>
      <string name="frame_load_failed">Lasting av bilderamme widget mislyktes!</string>
      <string name="free_style_apps_title">Velg program</string>
      <string name="free_style_drawer_title">Alle programmer</string>
@@ -132,9 +133,11 @@
      <string name="image_too_small_message">Original-bilde er ikke stort nok</string>
      <string name="install">Installer</string>
      <string name="invalid_contact_shortcut">Ugyldig kontakt</string>
+     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
      <string name="is_setting_wallpaper_toast">Setter bakgrunn…</string>
      <string name="is_system_wallpaper_message">"Kan ikke slette systemressurser"</string>
      <string name="loading_desktop">Bare et sekund…</string>
+     <string name="loading_wallpaper">Just a sec…</string>
      <string name="local_wallpaper">Nedlastet</string>
      <string name="lock_screen_failed_message">Kunne ikke bruke</string>
      <string name="lock_screen_success_message">Brukt</string>
@@ -153,7 +156,7 @@
      <string name="menu_wallpaper">Bakgrunn</string>
      <string name="menu_workspace_preview">Forhåndsvisning</string>
      <string name="mi_wallpaper">MIUI-Temabutikk</string>
-       <string name="mtzgadget_missing_text">"Widget er ikke tilgjengelig"</string>
+     <string name="mtzgadget_missing_text">"Widget er ikke tilgjengelig"</string>
      <string name="multi_selecting_tips">For å velge ett program, trykk på ikonet dens</string>
      <string name="online_wallpaper">Online</string>
      <string name="out_of_space">Ikke mer plass på dette skrivebordet</string>

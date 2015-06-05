@@ -2,6 +2,9 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="alwaysUsePrompt">Husk dette valget</string>
+     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
+     <string name="android_ringtone_silent">None</string>
+     <string name="android_ringtone_unknown">Unknown ringtone</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
      <string name="anti_aggression_day">Anti-sinnedag</string>
      <string name="app_no_notification">Tom</string>
