@@ -850,7 +850,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="v5_edit_mode_title_empty">0 valgte</string>
      <string name="v5_select_all">Avvelg alle</string>
      <string name="video_activity_name">Videosamlinger</string>
-     <string name="video_buffering_percent_string">Buffering</string>
+     <string name="video_buffering_percent_string">Bufrer</string>
      <string name="video_collect_cancel">Avbryt samling</string>
      <string name="video_collect_success">Video samling vellykket</string>
      <string name="video_download_downloaded">Lastet ned</string>

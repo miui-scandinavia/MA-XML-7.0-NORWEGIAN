@@ -17,7 +17,7 @@
      <string name="bugreport_dump_complete_notification_title">Opprettet feilrapport</string>
      <string name="bugreport_dump_start_notification_summary">Tar rundt et minutt.</string>
      <string name="bugreport_dump_start_notification_title">Oppretter feilrapport</string>
-     <string name="bugreport_tool_log">Create bug report</string>
+     <string name="bugreport_tool_log">Opprett feilrapport</string>
      <string name="bugreport_tool_log_toast">Logg lagret til %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Oppretter feilrapport (tar rundt et minutt)</string>
      <string name="button_feedback">Andre</string>
@@ -66,11 +66,11 @@
      <string name="menu_attach_screenshot">Legg ved skjermbilde</string>
      <string name="menu_copy">Kopier</string>
      <string name="menu_discard">Slett</string>
-     <string name="modem_tool_log">Capture modem logs</string>
+     <string name="modem_tool_log">Fang opp Modem-logger</string>
      <string name="modem_tool_log_start">Start</string>
-     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-     <string name="modem_tool_log_stop">Stop</string>
-     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+     <string name="modem_tool_log_start_toast">"Start dumping av modemlogger til %s"</string>
+     <string name="modem_tool_log_stop">Stopp</string>
+     <string name="modem_tool_log_stop_toast">"Stopp dumping av modemlogger fra %s"</string>
      <string name="network_disconnected">Ingen nettverk</string>
      <string name="network_err">"Kan ikke koble til nettverket."</string>
      <string name="network_unavailable_dialog_button_ok">OK</string>

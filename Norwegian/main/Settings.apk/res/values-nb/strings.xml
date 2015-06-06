@@ -1995,7 +1995,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
      <string name="password_guard">Passord</string>
      <string name="percentage">%d%%</string>
-     <string name="performance_category">Performance</string>
+     <string name="performance_category">Ytelse</string>
      <string name="permission_detail_info">Detaljer</string>
      <string name="permission_detail_info_summary">%1$d sikkerhet | %2$d personvern | %3$d andre</string>
      <string name="permission_manage">Tillatelseshåndtering</string>
