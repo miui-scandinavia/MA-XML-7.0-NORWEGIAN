@@ -334,7 +334,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="list_language_dtitle">Språk</string>
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
-     <string name="livetalk_left_minute">%s min left</string>
+     <string name="livetalk_left_minute">%s min gjenstående</string>
      <string name="livetalk_provider_info">Tilbudt av %s</string>
      <string name="livetalk_waiting">Venter…</string>
      <string name="load_networks_progress">Søker…</string>

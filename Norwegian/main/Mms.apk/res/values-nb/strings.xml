@@ -724,9 +724,9 @@
      <string name="search_show_more_results">Vis flere</string>
      <string name="searching_vcard_message">Søker etter vCard-data i lagringsenheten …</string>
      <string name="secs">sek</string>
-     <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
-     <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
-     <string name="security_alert_dialog_title">Report</string>
+     <string name="security_alert_desc">"Denne avsenderen finnes ikke i din kontakter. "&lt;u&gt;&lt;font color="red"&gt;Rapporter dette nummeret&lt;/font&gt;&lt;/u&gt;</string>
+     <string name="security_alert_dialog_desc">Rapporter dette nummeret (%s) og meldigen ved å sende den til Xiaomi for godkjennelse.</string>
+     <string name="security_alert_dialog_title">Rapporter</string>
      <string name="select_audio">Velg lyd</string>
      <string name="select_bottom_text">Tekst i bunnen</string>
      <string name="select_conversations">Velg samtaler</string>
@@ -802,8 +802,8 @@
      <string name="sms_radio">Send tekstmelding til radionummer</string>
      <string name="sms_rejected_body">Inngående melding avvist av ukjent grunn.</string>
      <string name="sms_rejected_title">SMS avvist</string>
-     <string name="sms_report_failed">"Couldn't send report"</string>
-     <string name="sms_report_success">Report sent</string>
+     <string name="sms_report_failed">"Kunne ikke sende rapport"</string>
+     <string name="sms_report_success">Rapport sendt</string>
      <string name="sms_telex">Send tekstmelding til teleksnummer</string>
      <string name="sms_tty_tdd">Send tekstmelding til TTY/TDD</string>
      <string name="sms_work">Send tekstmelding til arbeidsnummer</string>

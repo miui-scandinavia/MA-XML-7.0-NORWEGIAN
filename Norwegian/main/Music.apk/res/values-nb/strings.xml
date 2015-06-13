@@ -237,7 +237,7 @@
      <string name="playlist_renamed_message">Spilleliste gitt nytt navn.</string>
      <string name="please_download_first">Du må laste ned denne sangen før du kan bruke den som ringetone.</string>
      <string name="please_search_or_select">Søk eller velg et felt</string>
-     <string name="preset_music_playlist">Mi Music playlist</string>
+     <string name="preset_music_playlist">Mi Musikk-spilleliste</string>
      <string name="presonal_center">Kontoinnstillinger</string>
      <string name="priority_storage">Bruk eksternt SD-kort</string>
      <string name="priority_storage_summary">Last ned automatisk til eksternt SD-kort hvis tilgjengelig</string>
@@ -270,8 +270,8 @@
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
      <string name="set_id3_failed">"Kan ikke lagre info"</string>
-     <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
-     <string name="set_id3_not_support_format">"Can't edit this file format"</string>
+     <string name="set_id3_not_have_read_or_write_permission">"Du har ikke tilgang til å endre denne filen"</string>
+     <string name="set_id3_not_support_format">"Kan ikke endre dette filformatet"</string>
      <string name="set_id3_successful">Sanginformasjon lagret</string>
      <string name="set_lyric_successful">Sangtekst lagret</string>
      <string name="set_ringtones_failed">Kunne ikke sette ringetoner.</string>

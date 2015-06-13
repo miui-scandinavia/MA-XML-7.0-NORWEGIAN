@@ -25,8 +25,8 @@
      <string name="direction_south_west">SV</string>
      <string name="direction_west">V</string>
      <string name="do_not_show_next_time">"Ikke vis igjen"</string>
-     <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
-     <string name="first_using_dialog_title">Access permission</string>
+     <string name="first_using_dialog_message">"Compass trenger å bruke enhetens nettverksforbindelse, kamera og plasseringstjenester for å fungere normalt."</string>
+     <string name="first_using_dialog_title">Tilgangs-tillatelse</string>
      <string name="getting_location">Kalibrerer…</string>
      <string name="guide_toast">"For å kalibrere, flytt telefonen din i bevegelsene nedenfor"</string>
      <string name="latitude">BREDDE</string>

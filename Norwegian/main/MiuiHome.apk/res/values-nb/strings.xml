@@ -56,7 +56,7 @@
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
      <string name="delete_wallpapers_message">Slett %1$d bakgrunner?</string>
      <string name="disable_wallpaper_scroll">Skru av sideskrolling</string>
-     <string name="download_action">Download</string>
+     <string name="download_action">Last ned</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
      <string name="durationformatshort">%2$2d:%5$02d</string>
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -133,11 +133,11 @@
      <string name="image_too_small_message">Original-bilde er ikke stort nok</string>
      <string name="install">Installer</string>
      <string name="invalid_contact_shortcut">Ugyldig kontakt</string>
-     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
+     <string name="is_setting_wallpaper_message">Setter bakgrunn…</string>
      <string name="is_setting_wallpaper_toast">Setter bakgrunn…</string>
      <string name="is_system_wallpaper_message">"Kan ikke slette systemressurser"</string>
      <string name="loading_desktop">Bare et sekund…</string>
-     <string name="loading_wallpaper">Just a sec…</string>
+     <string name="loading_wallpaper">Bare et sekund…</string>
      <string name="local_wallpaper">Nedlastet</string>
      <string name="lock_screen_failed_message">Kunne ikke bruke</string>
      <string name="lock_screen_success_message">Brukt</string>
