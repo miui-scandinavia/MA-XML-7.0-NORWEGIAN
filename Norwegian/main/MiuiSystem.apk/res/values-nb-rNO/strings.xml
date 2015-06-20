@@ -6,11 +6,16 @@
      <string name="activating">Aktiverer…</string>
      <string name="alwaysUsePrompt">Husk dette valget</string>
      <string name="android_lockscreen_glogin_instructions">For å låse opp, logg inn på din Mi-konto</string>
+     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
+     <string name="android_ringtone_silent">None</string>
+     <string name="android_ringtone_unknown">Unknown ringtone</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
      <string name="anti_aggression_day">Anti-sinnedag</string>
+     <string name="app_name_which_call">Application:%s</string>
      <string name="app_no_notification">Tom</string>
      <string name="app_notificaiton_on_notificationBar">Varselskygge</string>
      <string name="app_notificaiton_on_statusBar_and_notificationBar">Låseskjerm, Varselskygge</string>
+     <string name="app_version_which_call">Application version:%s</string>
      <string name="arbor_day">Offisell treplantingsdag</string>
      <string name="armed_forces_day">Bevepnede styrker-dagen</string>
      <string name="autumn_begins">Høsten begynner</string>
@@ -262,8 +267,15 @@
      <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
      <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+     <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
+     <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
      <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+     <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
      <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+     <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="default_name">Default</string>
      <string name="delete">Slett</string>
      <string name="deprecated_10" />
      <string name="deprecated_11" />
@@ -345,6 +357,7 @@
      <string name="deprecated_9" />
      <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Redmi</string>
+     <string name="device_pad">Mi Pad</string>
      <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Tanabata</string>
      <string name="easter">Påske</string>
@@ -399,7 +412,10 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="international_womens_day" />
      <string name="labour_day" />
      <string name="lantern_festival" />
+     <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
+go to %s"</string>
      <string name="light_snow" />
+     <string name="loading">Loading…</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster nullstilt</string>
      <string name="lockscreen_access_pattern_detected">Mønster fullført</string>
@@ -429,8 +445,10 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="lunar_yi" />
      <string name="lunar_yue" />
      <string name="lunar_zheng" />
+     <string name="maml_component_customization_title">Settings</string>
      <string name="memory_clear_nothing_result">Ingenting å tømme i mellomlageret</string>
      <string name="memory_clear_result">%1$s tømt | %2$s tilgjengelig</string>
+     <string name="mibi_license">Mi Credit Terms of Service</string>
      <string name="minutes">%d minutter</string>
      <string name="miui_copyright_title">Opphavsrett</string>
      <string name="miui_device_name">Android</string>
@@ -455,6 +473,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="national_father_day" />
      <string name="never">Aldri</string>
      <string name="new_years_day" />
+     <string name="no_notification_tips">No notifications.</string>
      <string name="no_sim">Ingen SIM-kort funnet</string>
      <string name="open_wifi_settings">Åpent Wi-Fi-nettverk</string>
      <string name="partys_day" />
@@ -472,12 +491,17 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="perm_use_find_device">Finn enhet</string>
      <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til dine personlige opplysninger.</string>
      <string name="permlab_accessNote">Få tilgang til dine notater</string>
+     <string name="policy_name">Policy:%s</string>
+     <string name="presentation_payphone">Payphone</string>
+     <string name="presentation_private">Private number</string>
+     <string name="presentation_unknown">Unknown number</string>
      <string name="private_num">Privat nummer</string>
      <string name="provider_114">Drevet av 114</string>
      <string name="provider_sougou">Drevet av Sohu</string>
      <string name="reboot_confirm">Telefonen din vil starte på nytt.</string>
      <string name="reboot_confirm_title">Telefonen din vil starte på nytt.</string>
      <string name="reboot_progress">Starter på nytt…</string>
+     <string name="resource_select">Select</string>
      <string name="retrocession_day" />
      <string name="reverse_all">Tøm alle</string>
      <string name="safetylegal_activity_unreachable">"Kan ikke koble til nettverket. Du kan vise denne informasjonen online på %s."</string>
@@ -542,7 +566,8 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="the_mid_autumn_festival" />
      <string name="the_rains" />
      <string name="the_spring_festival" />
-     <string name="toast_lockscreen_glogin_empty_password">Passord kreves.</string>     <string name="today">Today</string>
+     <string name="toast_lockscreen_glogin_empty_password">Passord kreves.</string>
+     <string name="today">Today</string>
      <string name="tomorrow">I morgen</string>
      <string name="tw_childrens_day" />
      <string name="tw_youth_day" />

@@ -159,6 +159,7 @@
      <string name="callind_multi_sim">Abonnement-innstillinger</string>
      <string name="calling_via_template">Ringer via %s</string>
      <string name="callwait_open_hint">\"Samtale venter\"-funksjonen er tilbudt av operatøren din. Hvis du mottar et feilvarsel, kontakt operatøren din og forsikre deg om at denne funksjonen er støttet.</string>
+     <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
      <string name="cancel">Avbrutt</string>
      <string name="cancel_call">Avbryt</string>
      <string name="card_title_MOcall_forwarding">Utgående videresendt samtale</string>
@@ -236,6 +237,7 @@
      <string name="close_profile">Lukk</string>
      <string name="cloud_antispam_title">Identifiser ukjente numre</string>
      <string name="command_error_fdn_failure">Du må skru av FDN først</string>
+     <string name="config_default_data_sim">Settings</string>
      <string name="config_dialing_emergency_number_suffix" />
      <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
      <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
@@ -442,6 +444,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="get_smsc_address_error">"Kan ikke koble til nettverket."</string>
      <string name="get_smsc_address_timeout">Time-out ved forespørsel på sms senter nummer, prøv igjen senere.</string>
      <string name="goPrivate">aktiver privat samtale</string>
+     <string name="got_it">OK</string>
      <string name="gsm_umts_network_preferences_dialogtitle">Nettverkspreferanser</string>
      <string name="gsm_umts_network_preferences_title">Nettverkspreferanser</string>
      <string name="gsm_umts_options">GSM/UMTS-innstillinger</string>

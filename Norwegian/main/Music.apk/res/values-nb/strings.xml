@@ -20,6 +20,7 @@
      <string name="artist_name">Artist</string>
      <string name="artist_search_title">Artist</string>
      <string name="artist_view">Artist</string>
+     <string name="atmd_music">Ultimate</string>
      <string name="audio_picker_title">Velg en sang</string>
      <string name="auto_download_in_wifi">Last ned favorittsanger over Wi-Fi</string>
      <string name="available_playlist_name_format">Ny spilleliste %d</string>

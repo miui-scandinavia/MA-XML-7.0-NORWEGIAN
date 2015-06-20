@@ -179,6 +179,7 @@
      <string name="close_dial_pad">lukk talltastatur</string>
      <string name="cloud_antispam_mark">Rapporter</string>
      <string name="cloud_antispam_title">Cloud-brannmur</string>
+     <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>

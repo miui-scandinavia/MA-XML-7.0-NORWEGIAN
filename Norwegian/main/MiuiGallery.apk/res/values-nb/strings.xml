@@ -519,7 +519,15 @@ venner."</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Associate all photos with %s? -->
      <string name="confirm_all_photo_are_this_people_face">Assosier alle bilder med denne personen?</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: No matches for %s? -->
      <string name="confirm_all_photo_not_this_people_face">Ingen treff?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
@@ -538,6 +546,11 @@ venner."</string>
      <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en WiFi-tilkobling er tilgjengelig.</string>
      <string name="confirm_download_video_title">Last ned video</string>
      <string name="confirm_face">Match</string>
+     <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: "%s isn't in any of the remaining photos?" -->
      <string name="confirm_left_photo_will_move_out">"Inneholder bildet ikke denne personen?"</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -620,7 +633,9 @@ venner."</string>
      <string name="error_title">Feil med synk</string>
      <string name="error_unauthorized">For mange forsøk på innlogging: Synk deaktivert.</string>
      <string name="error_unknown_host">Vertsnavn ukjent, vennligst sjekk nettverkstilkoblingen!!</string>
+     <string name="event_create_long_photo">Creating photo…</string>
      <string name="event_manage_photohome_page_tab_faces">Håndter bilder</string>
+     <string name="event_manage_photos">Manage photos</string>
      <string name="exit">Lukk</string>
      <string name="exit_share">Lukk album</string>
      <string name="exit_share_failed">Kunne ikke lukke albumet %1$s</string>
@@ -726,6 +741,7 @@ venner."</string>
      <string name="internal_sdcard_root">Rot-mappe for internt SD-kort</string>
      <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
      <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
+     <string name="is">Is this %s?</string>
      <string name="iso">ISO</string>
      <string name="item_not_sync_for_origin_image">Dette bildet har ikke blitt synkronisert til skyen og orginalbildet kan ikke lastes ned</string>
      <string name="item_not_sync_for_origin_video">Denne videoen har ikke blitt synkronisert til skyen og kan ikke lastes ned.</string>
@@ -816,6 +832,7 @@ venner."</string>
      <string name="no_thumbnail">Ingen miniatyrer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
+     <string name="not_is">Not %s?</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
      <string name="old">Vintage</string>
@@ -909,6 +926,7 @@ venner."</string>
      <string name="remove_from_secret_unfinished_message_with_count">%1$s elementer ble ikke fjernet fra skjult album,</string>
      <string name="remove_hidden_album">Opphev skjuling</string>
      <string name="remove_recent_album">Fjern fra favoritt-album</string>
+     <string name="rename_event">Rename event</string>
      <string name="rename_face_album">Endre navn</string>
      <string name="rename_fail_msg">"Kunne ikke endre navn"</string>
      <string name="rename_failed">Endring av navn mislykkes</string>
@@ -953,6 +971,10 @@ venner."</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Velg elementer</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: "Photos may be '%s'" -->
      <string name="select_item_face">Bilder av \"%1"\</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
@@ -984,6 +1006,7 @@ venner."</string>
      <string name="share_by_email_successfully">Deling %1$s via e-post vellykket</string>
      <string name="share_current_album">Del gjeldende album</string>
      <string name="share_public_url_text">Jeg har delt albumet %1$s. Utforsk %2$s</string>
+     <string name="share_title_more">More</string>
      <string name="sharer_quota_fulfiled">"Kan ikke legge til deler, delingsgrense nådd."</string>
      <string name="sharpen">Gjør skarpere</string>
      <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -1077,6 +1100,7 @@ venner."</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>
      <string name="wechat">WeChat</string>
+     <string name="wechat_timeline_title">WeChat timeline</string>
      <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>

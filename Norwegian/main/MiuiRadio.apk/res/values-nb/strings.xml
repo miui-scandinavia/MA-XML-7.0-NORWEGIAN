@@ -68,6 +68,8 @@
      <string name="metered_play_toast">Bruk mobildataforbindelse for å strømme Radio</string>
      <string name="min_sleep_time">1</string>
      <string name="more">Mer</string>
+     <string name="multi_subscriptions_subtitle_title">Tap to listen %1$s/%2$s.</string>
+     <string name="multi_subscriptions_title">%1$d subscriptions updated</string>
      <string name="my_favorite">FAVORITTER</string>
      <string name="my_program">Offline</string>
      <string name="no_display_channel_text">Ingen kanaler</string>
@@ -82,6 +84,7 @@
      <string name="not_login">Ikke logget inn</string>
      <string name="notification_description_from_radio">Radio</string>
      <string name="ok">OK</string>
+     <string name="one_subscription_title">%1$s updated</string>
      <string name="play_local_sound">Spiller offline: %1$s</string>
      <string name="play_quality_toast">Velg strømmekvalitet</string>
      <string name="presonal_center">Konto</string>

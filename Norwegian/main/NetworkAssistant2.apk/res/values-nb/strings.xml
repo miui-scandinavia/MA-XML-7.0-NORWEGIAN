@@ -127,6 +127,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="free_time_traffic_title">Skriv minimum datagrense</string>
      <string name="free_traffic_settings">Minimum databruksgrense</string>
      <string name="gateway_exception_summary">Sjekk ruteren din og prøv igjen.</string>
+     <string name="gateway_exception_summary2">"Can't connect to the server"</string>
      <string name="gateway_exception_title">Test ruter</string>
      <string name="hints_input_roaming_daily_limit">Skriv dataforbruksgrense</string>
      <string name="hints_install_apps_new">Aldri brukt</string>
@@ -331,6 +332,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_specified_adjust">Sett egendefinert datagrense</string>
      <string name="pref_specified_traffic_settings">Innstillinger for datagrense</string>
      <string name="pref_title_declaration">Viktig erklæring</string>
+     <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
      <string name="pref_title_mobile_traffic">Vis databruk når låst</string>
      <string name="pref_title_network_diagnostics">Nettverksdiagnostikk</string>
      <string name="pref_title_over_traffic_limit_warning">Når overskredet</string>
@@ -378,6 +380,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="root">Rot-tilgang</string>
      <string name="sc_allow_network_dialog_message">Du må tillate denne appen å koble til internett for å fungere normalt.</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
+     <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="see_detail">Detaljer</string>
      <string name="setting_traffic_pkg">Velg datapakke</string>
      <string name="settings">Innstillinger for databruk</string>
