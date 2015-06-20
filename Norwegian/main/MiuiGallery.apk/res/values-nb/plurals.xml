@@ -50,8 +50,8 @@
         <item quantity="one">"Du har ikke tilgang til å slette denne %d filen."</item>
      </plurals>
      <plurals name="more_face">
-        <item quantity="other">%1$s nye ansikt kan også høre til %2$s >></item>
-        <item quantity="one">%1$s nytt anikst kan også høre til %2$s >></item>
+        <item quantity="other">%1$s bilder av %2$s</item>
+        <item quantity="one">%1$s bilder av %2$s</item>
      </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d bilder</item>

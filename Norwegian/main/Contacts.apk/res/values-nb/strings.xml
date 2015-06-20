@@ -560,10 +560,10 @@
      <string name="list_filter_phones">Alle kontakter med telefonnumre</string>
      <string name="list_filter_single">Kontakt</string>
      <string name="loading">Laster inn...</string>
-     <string name="loading_accounts">Laster SIM info...</string>
-     <string name="loading_group_members">Laster inn gruppe medlemmer...</string>
-     <string name="loading_groups">Laster inn grupper...</string>
-     <string name="loading_recent">Laster inn nylige kontakter...</string>
+     <string name="loading_accounts">Bare et sekund…</string>
+     <string name="loading_group_members">Laster inn gruppe medlemmer…</string>
+     <string name="loading_groups">Laster inn grupper…</string>
+     <string name="loading_recent">Laster inn nylige kontakter…</string>
      <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
      <string name="loading_resource_detail_info">Laster inn element info...</string>
      <string name="local_invisible_directory">Andre</string>

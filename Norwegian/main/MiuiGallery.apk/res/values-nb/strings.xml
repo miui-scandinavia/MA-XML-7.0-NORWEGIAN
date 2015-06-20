@@ -16,7 +16,7 @@
      <string name="add_to_cloud_fail_too_many_items">Kunne ikke fullføre handlingen. Muligens for mange valgte elementer.</string>
      <string name="add_to_cloud_failed_message_with_count">%2$s element(er) kan ikke bli lagt til i skyalbum: %1$s.</string>
      <string name="add_to_cloud_file_exist_message">Bilde eksisterer allerede i valgt album.</string>
-     <string name="add_to_cloud_folder">Legg til Cloud-mappe</string>
+     <string name="add_to_cloud_folder">Legg til album</string>
      <string name="add_to_cloud_image_limit_exceeded_message">Bildegrense overskredet.</string>
      <string name="add_to_cloud_local_space_full_message">Lagringsminne er fullt eller ikke klar ennå.</string>
      <string name="add_to_cloud_reasons" />
@@ -509,17 +509,17 @@ venner."</string>
      <string name="cloud_tab_albums">Album</string>
      <string name="cloud_tab_all">Alle</string>
      <string name="cloud_tab_locations">Steder</string>
-     <string name="cloudfolder_already_exists">Cloud-mappe eksisterer allerede</string>
-     <string name="cloudfolder_cannot_start_with">"Mappenavn kan ikke starte med '%s'"</string>
-     <string name="cloudfolder_contain_invalidate_char">"Mappenavn kan ikke inneholde '%s'"</string>
-     <string name="cloudfolder_fail_to_load_data">Failed to load data for unknown reason, please retry</string>
-     <string name="cloudfolder_loading_data">(Laster data...)</string>
-     <string name="cloudfolder_name_cannot_empty">Vennligst skriv ett mappenavn.</string>
-     <string name="cloudfolder_name_reserved">Mappenavn er reservert.</string>
+     <string name="cloudfolder_already_exists">Et album med samme navnet eksistert allerede</string>
+     <string name="cloudfolder_cannot_start_with">"Albumnavn kan ikke starte med '%s'"</string>
+     <string name="cloudfolder_contain_invalidate_char">"Albumnavn kan ikke inneholde '%s'"</string>
+     <string name="cloudfolder_fail_to_load_data">Kunne ikke laste data. Vent et minutt eller to og prøv igjen.</string>
+     <string name="cloudfolder_loading_data">Laster…</string>
+     <string name="cloudfolder_name_cannot_empty">Skriv et albumnavn</string>
+     <string name="cloudfolder_name_reserved">Albumnavn er reservert</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
-     <string name="confirm_all_photo_are_this_people_face">Alle treff?</string>
+     <string name="confirm_all_photo_are_this_people_face">Assosier alle bilder med denne personen?</string>
      <string name="confirm_all_photo_not_this_people_face">Ingen treff?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
@@ -538,7 +538,7 @@ venner."</string>
      <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en WiFi-tilkobling er tilgjengelig.</string>
      <string name="confirm_download_video_title">Last ned video</string>
      <string name="confirm_face">Match</string>
-     <string name="confirm_left_photo_will_move_out">Bilder til venstre vil bli fjernet fra dette albumet.</string>
+     <string name="confirm_left_photo_will_move_out">"Inneholder bildet ikke denne personen?"</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_not_face">Ikke denne personen</string>
@@ -551,7 +551,7 @@ venner."</string>
      <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="cool">Kul</string>
      <string name="cool_portrait">Portrett</string>
-     <string name="create_new_cloud_folder">Opprett ny skymappe</string>
+     <string name="create_new_cloud_folder">Opprett nytt album</string>
      <string name="create_new_face">Bytt person</string>
      <string name="crop">Beskjær</string>
      <string name="crop_fail_to_load_image">Lastning av bilde til beskjæring mislykket.</string>
@@ -604,7 +604,7 @@ venner."</string>
      <string name="email_picker_title">Legg til delt e-post</string>
      <string name="enable">Skru på</string>
      <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
-     <string name="enabling_face_feature">Skrur på…</string>
+     <string name="enabling_face_feature">Bare et sekund…</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
      <string name="error_cloud_not_active">Ingen bilder i skyen.</string>
@@ -620,7 +620,7 @@ venner."</string>
      <string name="error_title">Feil med synk</string>
      <string name="error_unauthorized">For mange forsøk på innlogging: Synk deaktivert.</string>
      <string name="error_unknown_host">Vertsnavn ukjent, vennligst sjekk nettverkstilkoblingen!!</string>
-     <string name="event_manage_photos">Håndter bilder</string>
+     <string name="event_manage_photohome_page_tab_faces">Håndter bilder</string>
      <string name="exit">Lukk</string>
      <string name="exit_share">Lukk album</string>
      <string name="exit_share_failed">Kunne ikke lukke albumet %1$s</string>
@@ -639,7 +639,7 @@ venner."</string>
      <string name="face_albumset_empty">Tom.</string>
      <string name="face_albumset_loading_data">Laster data…</string>
      <string name="face_albumset_pending_enable_tip">Vil sortere bilder når enheten er tilkoblet Wi-Fi</string>
-     <string name="face_albumset_use_tip">"Bruk ansiktdetektering for å sortere bilder etter folk som er i dem"</string>
+     <string name="face_albumset_use_tip">"Sorter bilder etter folk som er i dem"</string>
      <string name="face_move_dialog_title">Velg et album</string>
      <string name="facelift">Ansiktsglød</string>
      <string name="facetan">Ansiktsfarge</string>
@@ -693,17 +693,17 @@ venner."</string>
      <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
      <string name="home_my_captured_items">Bilder i alt</string>
      <string name="home_page_tab_cloud">Mi Cloud</string>
-     <string name="home_page_tab_face">Ansikt</string>
+     <string name="home_page_tab_face">Folk</string>
      <string name="home_page_tab_local">Offline</string>
      <string name="home_page_tab_photo">Bilde</string>
      <string name="how_many_pics">%d Bilder</string>
      <string name="how_many_sub_folders">%d Mapper</string>
      <string name="how_many_videos">%d Videoer</string>
      <string name="hue_polymorphism">photoeditor_effect_hue</string>
-     <string name="ignore_album">Ignorer</string>
+     <string name="ignore_album">"Ikke vis"</string>
      <string name="ignore_alert_title">"Ikke vis dette albumet?"</string>
      <string name="ignore_face">Ignorer denne personen</string>
-     <string name="image_download_item_title">Last ned fil (%s)</string>
+     <string name="image_download_item_title">Last ned bilde (%s)</string>
      <string name="image_quota_fulfiled">"Kan ikke opprett bilde, bildegrense nådd."</string>
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Importering fullført</string>
@@ -718,7 +718,7 @@ venner."</string>
      <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
      <string name="initial_cloud_text">Organiser og se dine bilder, til enhver tid og sted</string>
      <string name="initializing_cloud">Initialiserer Cloud-album...</string>
-     <string name="input_cloudfolder_name">Cloud mappe navn</string>
+     <string name="input_cloudfolder_name">Albumnavn</string>
      <string name="internal_camera_folder_display_name">Kamera Bilder (Internt)</string>
      <string name="internal_miui_capture_screen_folder_display_name">Skjermbilder (Internt)</string>
      <string name="internal_sd_card">Internt SD-kort</string>
@@ -869,8 +869,8 @@ venner."</string>
      <string name="photo_saved">Bilde lagret til %s</string>
      <string name="photo_size">Størrelse</string>
      <string name="photoeditor_name">Bildestudio</string>
-     <string name="photos">Bilde(r)</string>
-     <string name="pick_from_contact">Velg fra kontakt</string>
+     <string name="photos">" bilder"</string>
+     <string name="pick_from_contact">Velg fra kontakter</string>
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="pick_too_much_tips">Maks %d elementer.</string>
      <string name="pick_with_limited_upper_bound_title">Du kan velge %d elementer</string>
@@ -992,7 +992,7 @@ venner."</string>
      <string name="show_hidden_albums">Vis skjulte album</string>
      <string name="show_images_only">Kun bilder</string>
      <string name="show_on_map">Vis på kart</string>
-     <string name="show_videos_only">Kun videoer</string>
+     <string name="show_videos_only">" videoer"</string>
      <string name="sina_weibo">Weibo</string>
      <string name="sina_weibo_save">Weibo</string>
      <string name="single_device_project_dialog_checkbox_text">Husk denne skjermen</string>
@@ -1082,7 +1082,7 @@ venner."</string>
      <string name="weixin">WeChat</string>
      <string name="where_is_barcode">Hvor er QR-koden?</string>
      <string name="white_balance">Hvitbalanse</string>
-     <string name="who_is_this">Hvem er dette?</string>
+     <string name="who_is_this">"Hvem er i dette bildet?"</string>
      <string name="widget_type">Velg bilder</string>
      <string name="widget_type_album">Velg et album</string>
      <string name="widget_type_photo">Velg et bilde</string>
