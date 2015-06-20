@@ -84,8 +84,6 @@
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt konto</string>
      <string name="resource_alarm_default">Alarm</string>
-
-     <string name="resource_alarm_default">Alarm</string>
      <string name="resource_app_name">Elementleser</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_apply_trial">Prøv nå</string>
