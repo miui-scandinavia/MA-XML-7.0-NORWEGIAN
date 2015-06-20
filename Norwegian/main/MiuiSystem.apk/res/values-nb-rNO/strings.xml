@@ -11,11 +11,11 @@
      <string name="android_ringtone_unknown">Unknown ringtone</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
      <string name="anti_aggression_day">Anti-sinnedag</string>
-     <string name="app_name_which_call">Application:%s</string>
+     <string name="app_name_which_call">Program: %s</string>
      <string name="app_no_notification">Tom</string>
      <string name="app_notificaiton_on_notificationBar">Varselskygge</string>
      <string name="app_notificaiton_on_statusBar_and_notificationBar">Låseskjerm, Varselskygge</string>
-     <string name="app_version_which_call">Application version:%s</string>
+     <string name="app_version_which_call">Programversjon: %s</string>
      <string name="arbor_day">Offisell treplantingsdag</string>
      <string name="armed_forces_day">Bevepnede styrker-dagen</string>
      <string name="autumn_begins">Høsten begynner</string>
@@ -412,10 +412,10 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="international_womens_day" />
      <string name="labour_day" />
      <string name="lantern_festival" />
-     <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
-go to %s"</string>
+     <string name="license_host_unreachable">"Kunne ikke koble til nettverket. For å vise denne informasjonen nå, 
+gå til %s"</string>
      <string name="light_snow" />
-     <string name="loading">Loading…</string>
+     <string name="loading">Laster…</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster nullstilt</string>
      <string name="lockscreen_access_pattern_detected">Mønster fullført</string>
@@ -448,7 +448,7 @@ go to %s"</string>
      <string name="maml_component_customization_title">Settings</string>
      <string name="memory_clear_nothing_result">Ingenting å tømme i mellomlageret</string>
      <string name="memory_clear_result">%1$s tømt | %2$s tilgjengelig</string>
-     <string name="mibi_license">Mi Credit Terms of Service</string>
+     <string name="mibi_license">brukervilkår for Mi Credit</string>
      <string name="minutes">%d minutter</string>
      <string name="miui_copyright_title">Opphavsrett</string>
      <string name="miui_device_name">Android</string>
@@ -491,7 +491,7 @@ go to %s"</string>
      <string name="perm_use_find_device">Finn enhet</string>
      <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til dine personlige opplysninger.</string>
      <string name="permlab_accessNote">Få tilgang til dine notater</string>
-     <string name="policy_name">Policy:%s</string>
+     <string name="policy_name">Regel: %s</string>
      <string name="presentation_payphone">Payphone</string>
      <string name="presentation_private">Private number</string>
      <string name="presentation_unknown">Unknown number</string>

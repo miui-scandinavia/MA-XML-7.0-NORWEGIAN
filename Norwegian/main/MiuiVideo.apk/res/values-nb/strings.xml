@@ -75,7 +75,7 @@
      <string name="channel_variety_choice">Utvalgte</string>
      <string name="channel_variety_hot">Populære</string>
      <string name="check_app_version">Sjekker etter nyeste versjon...</string>
-     <string name="check_network">"Kan ikke koble til nettverket. Sjekk datatilkoblingen og prøv igejn."</string>
+     <string name="check_network">"Kan ikke koble til nettverket. Sjekk datatilkoblingen og prøv igjen."</string>
      <string name="choice">Redaktørens valg</string>
      <string name="clarity_high">Høy</string>
      <string name="clarity_standard">Standard</string>

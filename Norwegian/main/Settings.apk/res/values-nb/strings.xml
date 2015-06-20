@@ -2702,8 +2702,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_carrier_summary">Bare vis på låseskjerm</string>
      <string name="status_bar_settings_show_flow_info">Vis strømdetaljer</string>
      <string name="status_bar_settings_show_home_message">App-ikon-skilt</string>
-     <string name="status_bar_settings_show_keyguard_notification">Vis flytende varsler</string>
-     <string name="status_bar_settings_show_keyguard_notification_summary">Vis flytende varsler på låseskjermen og stort sett overalt ellers</string>
+     <string name="status_bar_settings_show_keyguard_notification">Flytende varseler og låseskjerm</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_notification_icon">Vis varselikon</string>

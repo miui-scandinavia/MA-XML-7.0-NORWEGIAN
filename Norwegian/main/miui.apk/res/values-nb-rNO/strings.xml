@@ -101,7 +101,7 @@
      <string name="organization">Organisasjon</string>
      <string name="perm_payment_dspt">Tillat app å betale gjennom Mi-betalingstjeneste</string>
      <string name="perm_payment_lab">Mi-betaling</string>
-     <string name="permdesc_sendSmsNoConfirmation">Appen kan sende SMS-meldinger uten å spørre deg om tillatelse. Dette kan forårsake uventede kostnader fra operatøren din.</string>
+     <string name="permdesc_sendSmsNoConfirmation">Appen kan sende SMS-meldinger uten å spørre deg om tillatelse. Operatøren din kan belaste deg for disse meldingene.</string>
      <string name="permlab_sendSmsNoConfirmation">Tillatt SMS-meldinger i bakgrunnen</string>
      <string name="phone">Telefon</string>
      <string name="pm">PM</string>

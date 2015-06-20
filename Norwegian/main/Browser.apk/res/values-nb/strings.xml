@@ -43,7 +43,7 @@
      <string name="action_menu_text_bookmark">Legg til bokmerke</string>
      <string name="action_menu_text_exit">Avslutt</string>
      <string name="action_menu_text_fullscreen">Fullskjerm</string>
-     <string name="action_menu_text_history">Bokmerker/historikk</string>
+     <string name="action_menu_text_history">Bokmerker og historikk</string>
      <string name="action_menu_text_nightmode">Nattmodus</string>
      <string name="action_menu_text_nightmode_off">Nattmodus</string>
      <string name="action_menu_text_nightmode_on">Nattmodus</string>
@@ -433,7 +433,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="miuichromium_default_text_encoding">Latin-1</string>
      <string name="miuichromium_error_page_diagnostic">Nettverksdiagnosering</string>
      <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
-     <string name="miuichromium_error_page_reason_network">Vis lenke-URL</string>
+     <string name="miuichromium_error_page_reason_network">"Kan ikke koble til nettverket"</string>
      <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
      <string name="miuichromium_error_page_reload">Last på nytt</string>
      <string name="miuichromium_error_page_title">"Kunne ikke finne denne siden"</string>
