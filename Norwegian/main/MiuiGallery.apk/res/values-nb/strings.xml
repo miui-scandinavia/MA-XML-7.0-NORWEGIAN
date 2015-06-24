@@ -519,16 +519,8 @@ venner."</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Associate all photos with %s? -->
-     <string name="confirm_all_photo_are_this_people_face">Assosier alle bilder med denne personen?</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: No matches for %s? -->
-     <string name="confirm_all_photo_not_this_people_face">Ingen treff?</string>
+     <string name="confirm_all_photo_are_this_people_face">Assosier alle bilder med %s?</string>
+     <string name="confirm_all_photo_not_this_people_face">Ingen treff for %s?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
      <string name="confirm_delete_has_cloud_image_video">>" "&lt;Data&gt; Slett &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; elementer i &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;skyen&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
@@ -547,11 +539,8 @@ venner."</string>
      <string name="confirm_download_video_title">Last ned video</string>
      <string name="confirm_face">Match</string>
      <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: "%s isn't in any of the remaining photos?" -->
-     <string name="confirm_left_photo_will_move_out">"Inneholder bildet ikke denne personen?"</string>
+
+     <string name="confirm_left_photo_will_move_out">"er ikke %s i noen av de gjenværende bildene?"</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_not_face">Ikke denne personen</string>
@@ -975,7 +964,7 @@ venner."</string>
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: "Photos may be '%s'" -->
-     <string name="select_item_face">Bilder av \"%1"\</string>
+     <string name="select_item_face">Bilder som kan være av '%s'</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
      <string name="send">Send</string>
