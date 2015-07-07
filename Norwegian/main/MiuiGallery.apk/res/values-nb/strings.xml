@@ -960,10 +960,6 @@ venner."</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Velg elementer</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: "Photos may be '%s'" -->
      <string name="select_item_face">Bilder som kan være av '%s'</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
