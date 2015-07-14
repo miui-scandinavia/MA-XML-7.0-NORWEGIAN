@@ -37,7 +37,7 @@
      <string name="SMS_SERVICE">Tjeneste-blokkeringsliste</string>
      <string name="SMSpass">Tilatt meldinger</string>
      <string name="STRANGER_BLOCK">Blokkeringsliste for fremmede</string>
-     <string name="action_source_sms_title">Blocked SMS</string>
+     <string name="action_source_sms_title">Blokkerte SMS</string>
      <string name="ad_block_hint">%d blokkert</string>
      <string name="ad_install_monitor">Installasjonsovervåking</string>
      <string name="ad_install_monitor_hint">Sjekk etter adware under installering av apper</string>

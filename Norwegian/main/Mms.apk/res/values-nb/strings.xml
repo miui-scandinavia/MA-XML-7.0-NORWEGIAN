@@ -337,9 +337,9 @@
      <string name="found_old_messages">I alt: %1$s ble funnet på den gamle telefonkontoen. Vil du laste dem opp til din nåværende konto: %2$s?</string>
      <string name="found_old_messages_title">Last opp meldinger</string>
      <string name="found_wild_messages">Fant %s meldinger fra et annet SIM-kort på MiCloud, vil du hente dem?</string>
-     <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
-     <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
-     <string name="found_wild_messages_title">Last ned meldinger</string>
+     <string name="found_wild_messages_guide_cloud_desc">For å synke meldinger fra Mi Cloud, logg inn til din Mi-konto og aktiver synk SMS.</string>
+     <string name="found_wild_messages_guide_settings_desc">Synk SMS-meldinger fra Mi Cloud i meldingsinnstillinger.</string>
+     <string name="found_wild_messages_title">Synk SMS-meldinger fra Mi Cloud</string>
      <string name="from_label">"Fra: "</string>
      <string name="full_name">Navn</string>
      <string name="ghostData_company">Firma</string>
@@ -593,7 +593,7 @@
      <string name="pref_mms_settings_title">MMS-innstillinger</string>
      <string name="pref_notification_settings_title">meldingsinnstillinger</string>
      <string name="pref_other_title">Ekstra innstillinger</string>
-     <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
+     <string name="pref_show_blocked_messages_summary">Vis blokkerte SMS i samtaleliste</string>
      <string name="pref_show_sms_template_summary">Automatisk kopier og fyll inn verifikasjonskoder</string>
      <string name="pref_sms_settings_title">Tekstmeldinger (SMS)</string>
      <string name="pref_sms_storage_title">Lagring</string>
@@ -697,7 +697,7 @@
      <string name="remove_video">Fjern video</string>
      <string name="replace">Erstatt</string>
      <string name="replace_image">Erstatt bilde</string>
-     <string name="reply_button_msg">Reply</string>
+     <string name="reply_button_msg">Svar</string>
      <string name="resent_message">Send igjen</string>
      <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
      <string name="resource_price_free">Gratis</string>
@@ -860,7 +860,7 @@
      <string name="timed_message_to">til</string>
      <string name="title_collapse_sp_messages">Kombiner tjenestetilbydermeldinger</string>
      <string name="title_date_type">Melding tidsstempel</string>
-     <string name="title_show_blocked_messages">Show blocked SMS</string>
+     <string name="title_show_blocked_messages">Vis blokkerte SMS</string>
      <string name="title_show_sms_template">Sjekk SMS etter verifikasjonskoder</string>
      <string name="title_timed_message_dialog">Planlegg sending av melding</string>
      <string name="to_address_label">"Til: "</string>

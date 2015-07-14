@@ -158,7 +158,7 @@
      <string name="higher_quality_music_summary">Strøm og last ned filer med høyere bitrate</string>
      <string name="i_know">OK</string>
      <string name="i_know_it">OK</string>
-     <string name="impunity_declaration">"Nettinnholdet er levert av Baidu Online Musikk-tjeneste. Ved å bruke denne tjenesten, godtar du Baidu sine "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Tjenestevilkår&lt;/a&gt;.</string>
+     <string name="impunity_declaration">Denne appen krever internett-tilkobling for å vise og strømme musikk fra nettet.</string>
      <string name="impunity_declaration_ignore">Ignorer</string>
      <string name="impunity_declaration_negative_text">Avslutt</string>
      <string name="impunity_declaration_positive_text">OK og fortsett</string>

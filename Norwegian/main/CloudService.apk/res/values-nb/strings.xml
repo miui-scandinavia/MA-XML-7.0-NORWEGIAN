@@ -48,11 +48,11 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
      <string name="cloud_back_up_network_unavailable">"Kunne ikke fjerne. Koble til Wi-Fi og prøv igjen."</string>
-     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi av hjemskjerm-oppsett og apper hver %1$s når tilkoblet Wi-Fi
+     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi av  apper hver %1$s når tilkoblet Wi-Fi
 Siste sikkerhetskopi den: %2$s"</string>
-     <string name="cloud_back_up_open_info_no_backuptime">Ta sikkerhetskopi av Hjemskjerm-oppsett og apper hver %1$s når tilkoblet Wi-Fi</string>
+     <string name="cloud_back_up_open_info_no_backuptime">Ta sikkerhetskopi av apper hver %1$s når tilkoblet Wi-Fi</string>
      <string name="cloud_back_up_remove_success">Sikkerhetskopi slettet</string>
-     <string name="cloud_back_up_title">Sikkerhetskopier hjemskjerm-oppsett</string>
+     <string name="cloud_back_up_title">Sikkerhetskopier apper</string>
      <string name="cloud_backup_dialog_title">Sikkerhetskopier med Mi Cloud</string>
      <string name="cloud_find_device">Finn enhet</string>
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
@@ -134,7 +134,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
-     <string name="micloud_buy_member">Oppgrader medlemskap</string>
+     <string name="micloud_buy_member">Konto</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
@@ -208,21 +208,21 @@ Trykk på Innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_other_product_price">Sammenligne priser:</string>
      <string name="micloud_proceed">Fortsett</string>
      <string name="micloud_sec_dspt">og del ting med venner.</string>
-     <string name="micloud_setting_antispam_summary">Unntak for Ikke forstyrr og blokkerte telefonnumre.</string>
+     <string name="micloud_setting_antispam_summary">Unntak og blokkerte telefonnumre.</string>
      <string name="micloud_setting_browser_summary">Bokmerker, historikk og faner</string>
      <string name="micloud_setting_contact_summary">Kontaktinformasjon og profilbilder</string>
-     <string name="micloud_setting_deskclock_summary">Klokkeinnstillinger</string>
+     <string name="micloud_setting_deskclock_summary">Tidssone og alarm-innstillinger</string>
      <string name="micloud_setting_gallery_summary">Bilder og videoer</string>
      <string name="micloud_setting_music_summary">Spillelister og favoritter</string>
      <string name="micloud_setting_sms_summary">SMS- og MMS-meldinger</string>
      <string name="micloud_setting_wifi_summary">Wi-Fi-innstillinger</string>
      <string name="micloud_single_dspt">Bruk Mi Cloud for å synkronisere data, finn din enhet, og dele ting med andre.</string>
-     <string name="micloud_space_applist_detail">Håndter apper apps on your Home screen</string>
-     <string name="micloud_space_applist_title">Manage apps</string>
+     <string name="micloud_space_applist_detail">Håndter apper på hjemskjermen din</string>
+     <string name="micloud_space_applist_title">Hånter apper</string>
      <string name="micloud_space_duokan_detail">Håndter ditt Duokan--innhold ved hjelp av Duokan-appen.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
-     <string name="micloud_space_soundrecorder_detail">Håndter opptak lagret på din enhet/string>
+     <string name="micloud_space_soundrecorder_detail">Håndter opptak lagret på din enhet</string>
      <string name="micloud_space_soundrecorder_title">Opptak</string>
      <string name="micloud_storage">Lagring</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Du må fornye ditt abonnement.</string>
@@ -279,7 +279,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
      <string name="pref_title_sync_my_profile_title">Synk min profil</string>
      <string name="privacy_policy">Personvernspolitikk</string>
-     <string name="remind_later">Senere</string>
+     <string name="remind_later">Ikke nå</string>
      <string name="restoreSync">Synk nå</string>
      <string name="setting">Innstillinger</string>
      <string name="settings_backup_title">Sikkerhetskopier systeminnstillinger</string>
@@ -295,7 +295,7 @@ Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string
      <string name="sina_share_success">Sendt</string>
      <string name="sina_token_expired_warning">Weibo-konto har utløpt: Logg inn på nytt</string>
      <string name="sina_token_invalid_warning">Weibo-konto er ugyldig: Logg inn på nytt</string>
-     <string name="sms">SMS</string>
+     <string name="sms">Meldinger</string>
      <string name="space">Lagring</string>
      <string name="start_micloud">Start</string>
      <string name="storage">Lagring</string>

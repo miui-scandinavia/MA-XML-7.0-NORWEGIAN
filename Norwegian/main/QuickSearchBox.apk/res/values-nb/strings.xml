@@ -51,7 +51,7 @@
      <string name="searchable_lable_music">music</string>
      <string name="searchable_lable_o2o">o2o</string>
      <string name="searchable_lable_video">video</string>
-     <string name="searchable_sources">Online</string>
+     <string name="searchable_sources">Søkbare nettkilder</string>
      <string name="send_secret_code">Send sikkerhetskode</string>
      <string name="system_search_category_title">Telefon</string>
      <string name="voice_search_hint_quotation_end">”</string>
