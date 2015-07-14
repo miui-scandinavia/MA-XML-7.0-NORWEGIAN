@@ -402,7 +402,7 @@
      <string name="list_filter_single">Kontakt</string>
      <string name="loading_all_messages">Laster inn alle meldinger...</string>
      <string name="loading_conversations">Laster inn samtaler...</string>
-     <string name="loading_mms">Laster inn MMS…</string>
+     <string name="loading_mms">Bare et sekund…</string>
      <string name="local_invisible_directory">Andre</string>
      <string name="local_search_label">Alle kontakter</string>
      <string name="manage_permission_app_label">Enhethåndtering tillatelse</string>
@@ -615,7 +615,7 @@
      <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
      <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"</string>
      <string name="pref_summary_send_delivery_reports">Send leveringsbekreftelse til sender når du mottar en multimedie-melding</string>
-     <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
+     <string name="pref_summary_show_recent_contacts">Vis seneste brukte kontakter når du skriver nye meldinger</string>
      <string name="pref_summary_sms_delivery_reports">Spør om leveringsrapport for hver melding som sendes</string>
      <string name="pref_summary_sms_disabled">Trykk for å gjøre Meldinger til standard SMS-app</string>
      <string name="pref_summary_sms_enabled">Trykk for å endre standard SMS-app</string>
@@ -894,7 +894,7 @@
      <string name="unsticked_conversation">Markering allerede fjernet</string>
      <string name="unsupported_media_format">Ikke støttet %1$s format</string>
      <string name="user_agreement1">Les de gjeldende vilkårene nøye før du installerer ekstra programvare eller bruker dette produktet.</string>
-     <string name="user_agreement2">Brukervilkår</string>
+     <string name="user_agreement2">Tjenestevilkår</string>
      <string name="user_agreement3">" og "</string>
      <string name="user_agreement4">Erklæring om personvern</string>
      <string name="user_agreement5">Ved å trykke OK, godkjenner du våre tjenestevilkår og erklæring om personvern.</string>

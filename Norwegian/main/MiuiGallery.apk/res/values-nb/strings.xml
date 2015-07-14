@@ -538,7 +538,7 @@ venner."</string>
      <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en WiFi-tilkobling er tilgjengelig.</string>
      <string name="confirm_download_video_title">Last ned video</string>
      <string name="confirm_face">Match</string>
-     <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
+     <string name="confirm_left_photo_will_move_in">%s er i alle gjenværende bilder?</string>
 
      <string name="confirm_left_photo_will_move_out">"er ikke %s i noen av de gjenværende bildene?"</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -622,7 +622,7 @@ venner."</string>
      <string name="error_title">Feil med synk</string>
      <string name="error_unauthorized">For mange forsøk på innlogging: Synk deaktivert.</string>
      <string name="error_unknown_host">Vertsnavn ukjent, vennligst sjekk nettverkstilkoblingen!!</string>
-     <string name="event_create_long_photo">Creating photo…</string>
+     <string name="event_create_long_photo">Oppretter bilde…</string>
      <string name="event_manage_photohome_page_tab_faces">Håndter bilder</string>
      <string name="event_manage_photos">Manage photos</string>
      <string name="exit">Lukk</string>
@@ -649,7 +649,7 @@ venner."</string>
      <string name="facetan">Ansiktsfarge</string>
      <string name="fail_hint">Operasjon feilet.</string>
      <string name="fail_init_gallery_db_helper">Galleri lukket pga database innlastningsfeil; disken kan være full.</string>
-     <string name="fail_to_download_n_items">"Kunne ikke laste ned %s"</string>
+     <string name="fail_to_download_n_items">"Kunne ikke laste ned %s elementer"</string>
      <string name="fail_to_pick_email">Ingen gyldige e-poster valgt</string>
      <string name="fail_to_sync_album">Klarte ikke å synkronisere albumet til server. Vennligst sjekk nettverkstilkoblingen!</string>
      <string name="file_not_exist_message">Fil eksisterer ikke.</string>
@@ -730,11 +730,11 @@ venner."</string>
      <string name="internal_sdcard_root">Rot-mappe for internt SD-kort</string>
      <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
      <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
-     <string name="is">Is this %s?</string>
+     <string name="is">Er dette %s?</string>
      <string name="iso">ISO</string>
-     <string name="item_not_sync_for_origin_image">Dette bildet har ikke blitt synkronisert til skyen og orginalbildet kan ikke lastes ned</string>
-     <string name="item_not_sync_for_origin_video">Denne videoen har ikke blitt synkronisert til skyen og kan ikke lastes ned.</string>
-     <string name="item_not_sync_for_refocus_data">Dette bildet har ikke blitt synkronisert til skyen og refokus-data kan ikke lastes ned</string>
+     <string name="item_not_sync_for_origin_image">"Kan ikke laste ned bilder som ikke har blitt synkronisert med Mi Cloud."</string>
+     <string name="item_not_sync_for_origin_video">"Kan ikke laste ned videoer som ikke har blitt synkronisert med Mi Cloud."</string>
+     <string name="item_not_sync_for_refocus_data">"Kan ikke hente fokusdata for bilder som ikke har blit synkronisert med Mi Cloud."</string>
      <string name="kick_owner_user_positive_button_text">Fjern</string>
      <string name="kick_owner_user_title">Fjern dette medlemmet?</string>
      <string name="kick_sharer">Fjern deler</string>
@@ -804,7 +804,7 @@ venner."</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
-     <string name="network_connected_rescan">Koble til internett og prøv igjen</string>
+     <string name="network_connected_rescan">"Kan ikke koble til nettverket"</string>
      <string name="new_device_tips">"Trykk for å vise enhet"</string>
      <string name="new_feature">Ny funksjon</string>
      <string name="no">Nei</string>
@@ -821,7 +821,7 @@ venner."</string>
      <string name="no_thumbnail">Ingen miniatyrer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
-     <string name="not_is">Not %s?</string>
+     <string name="not_is">Ikke %s?</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
      <string name="old">Vintage</string>
@@ -829,7 +829,7 @@ venner."</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
      <string name="open">Åpne synk</string>
      <string name="open_public_message">Generer en URL og send den til venner</string>
-     <string name="open_public_title">Del offen tlig</string>
+     <string name="open_public_title">Del offentlig</string>
      <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
      <string name="open_sync_title">Synk med Mi Cloud</string>
      <string name="operation_add_picture">Legg til bilder</string>
@@ -915,7 +915,7 @@ venner."</string>
      <string name="remove_from_secret_unfinished_message_with_count">%1$s elementer ble ikke fjernet fra skjult album,</string>
      <string name="remove_hidden_album">Opphev skjuling</string>
      <string name="remove_recent_album">Fjern fra favoritt-album</string>
-     <string name="rename_event">Rename event</string>
+     <string name="rename_event">Bytt navn på hendelse</string>
      <string name="rename_face_album">Endre navn</string>
      <string name="rename_fail_msg">"Kunne ikke endre navn"</string>
      <string name="rename_failed">Endring av navn mislykkes</string>
@@ -981,7 +981,7 @@ venner."</string>
      <string name="set_screensaver_path_title">Skjermsparer-lysbildeshow</string>
      <string name="set_wallpaper">Endrer bakgrunn…</string>
      <string name="settings">Innstillinger</string>
-     <string name="settings_i_xiaomi_com">Se alle din bilder på www.mi.com/micloud</string>
+     <string name="settings_i_xiaomi_com">"Vis bilder du har synket til Mi Cloud på www.mi.com/micloud"</string>
      <string name="shadow">Skygger</string>
      <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share_album">Del album</string>
@@ -991,7 +991,7 @@ venner."</string>
      <string name="share_by_email_successfully">Deling %1$s via e-post vellykket</string>
      <string name="share_current_album">Del gjeldende album</string>
      <string name="share_public_url_text">Jeg har delt albumet %1$s. Utforsk %2$s</string>
-     <string name="share_title_more">More</string>
+     <string name="share_title_more">Mer</string>
      <string name="sharer_quota_fulfiled">"Kan ikke legge til deler, delingsgrense nådd."</string>
      <string name="sharpen">Gjør skarpere</string>
      <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -1085,7 +1085,7 @@ venner."</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>
      <string name="wechat">WeChat</string>
-     <string name="wechat_timeline_title">WeChat timeline</string>
+     <string name="wechat_timeline_title">WeChat-tidslinje</string>
      <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>

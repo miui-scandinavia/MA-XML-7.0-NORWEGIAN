@@ -190,10 +190,10 @@ Men du kan ta del neste tirsdag"</string>
      <string name="update_feedback_need_network">Koble til nettverket først</string>
      <string name="update_feedback_need_update">Du må oppdatere systemet ditt til nyeste versjon først.</string>
      <string name="update_feel">Hva synes du?</string>
-     <string name="update_general">Så som så</string>
-     <string name="update_happy">Fantastisk!</string>
+     <string name="update_general">Likegyldig</string>
+     <string name="update_happy">Fornøyd!</string>
      <string name="update_monthly_build_only">Bare oppdater med månedlige bygg</string>
-     <string name="update_sad">Meh (ikke så bra)</string>
+     <string name="update_sad">Skuffet</string>
      <string name="update_success">Enhet oppdatert</string>
      <string name="update_success_body">Versjon: %s</string>
      <string name="update_success_reboot_immediately">Enhet oppdatert</string>
