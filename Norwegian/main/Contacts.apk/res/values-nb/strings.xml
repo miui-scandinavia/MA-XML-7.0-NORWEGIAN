@@ -128,9 +128,9 @@
      <string name="callrecordview_item_op_time_short_outgoing">"Utgående:"</string>
      <string name="callrecordview_menu_add_call_note">Legg til anropsnotat</string>
      <string name="callrecordview_menu_batch_delete">Gruppeslett</string>
-     <string name="callrecordview_menu_delete">Slett anrop</string>
+     <string name="callrecordview_menu_delete">Slett</string>
      <string name="callrecordview_menu_delete_accepted">Slett svarte anrop fra anropshistorikk</string>
-     <string name="callrecordview_menu_delete_all">Slett alle anrop</string>
+     <string name="callrecordview_menu_delete_all">Slett</string>
      <string name="callrecordview_menu_delete_called">Slett utgående anrop</string>
      <string name="callrecordview_menu_delete_confirm">Bekreft %s?</string>
      <string name="callrecordview_menu_delete_missed">Slett ubesvarte anrop</string>
@@ -179,7 +179,7 @@
      <string name="close_dial_pad">lukk talltastatur</string>
      <string name="cloud_antispam_mark">Rapporter</string>
      <string name="cloud_antispam_title">Cloud-brannmur</string>
-     <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
+     <string name="cloud_recommend_msg">Trykk for å synkronisere kontakter med Mi Cloud.</string>
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
@@ -197,7 +197,7 @@
      <string name="confirm_export_message">Din kontakt liste vil bli eksportert til filen: %s.</string>
      <string name="confirm_export_title">Bekreft eksport</string>
      <string name="connections">Tilkoblinger</string>
-     <string name="contactDetailAbout">Om</string>
+     <string name="contactDetailAbout">Kontaktinfo</string>
      <string name="contactDetailCalllog">aAnropshistorikk</string>
      <string name="contactDetailUpdates">Oppdateringer</string>
      <string name="contactMultiPickerActivityTitle">Velg kontakter</string>
@@ -209,9 +209,9 @@
      <string name="contact_detail_calllog_call_record_tips">Opptak av anrop</string>
      <string name="contact_directory_description">Bibliotek %1$s</string>
      <string name="contact_edit_title_edit">Rediger kontakt</string>
-     <string name="contact_edit_title_insert">Opprett %s kontakt</string>
+     <string name="contact_edit_title_insert">Lagre til %s</string>
      <string name="contact_edit_title_readonly">Skrivebeskyttet kontakt</string>
-     <string name="contact_editor_prompt_multiple_accounts">Du kan synkronisere din nye kontakt med en av ​​følgende kontoer. Hvilken vil du bruke?</string>
+     <string name="contact_editor_prompt_multiple_accounts">Lagre kontakt til</string>
      <string name="contact_editor_prompt_one_account">Din nye kontakt vil bli synkronisert med %1$s</string>
      <string name="contact_editor_prompt_zero_accounts">"Din nye kontaktperson vil ikke bli sikkerhetskopiert. Vil du legge til en konto, så kontaktene blir sikkertskopiert online?"</string>
      <string name="contact_editor_title_existing_contact">Rediger kontakten</string>
@@ -562,11 +562,11 @@
      <string name="list_filter_single">Kontakt</string>
      <string name="loading">Laster inn...</string>
      <string name="loading_accounts">Bare et sekund…</string>
-     <string name="loading_group_members">Laster inn gruppe medlemmer…</string>
-     <string name="loading_groups">Laster inn grupper…</string>
-     <string name="loading_recent">Laster inn nylige kontakter…</string>
+     <string name="loading_group_members">Bare et sekund…</string>
+     <string name="loading_groups">Bare et sekund…</string>
+     <string name="loading_recent">Bare et sekund…</string>
      <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
-     <string name="loading_resource_detail_info">Laster inn element info...</string>
+     <string name="loading_resource_detail_info">Laster…</string>
      <string name="local_invisible_directory">Andre</string>
      <string name="local_profile_title">Min lokale profil</string>
      <string name="local_search_label">Alle kontakter</string>

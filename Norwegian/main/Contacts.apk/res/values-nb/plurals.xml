@@ -22,12 +22,12 @@
         <item quantity="one">%1$d kontakt importert</item>
      </plurals>
      <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokker disse %1$d numrene?</item>
-        <item quantity="one">Blokker dette nummeret?</item>
+        <item quantity="other">Blokker disse %1$d telefonnumrene?</item>
+        <item quantity="one">Blokker dette telefonnummeret?</item>
      </plurals>
      <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Avblokker disse %1$d numrene?</item>
-        <item quantity="one">Avblokker dette nummeret?</item>
+        <item quantity="other">Avblokker disse %1$d telefonnumrene?</item>
+        <item quantity="one">Avblokker dette telefonnummeret?</item>
      </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Kopierte %d kontakter</item>

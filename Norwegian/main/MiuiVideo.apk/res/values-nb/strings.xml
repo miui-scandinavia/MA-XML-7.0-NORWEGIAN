@@ -54,10 +54,10 @@
      <string name="back">tilbake</string>
      <string name="baodian">Peker</string>
      <string name="bestv">Bestv</string>
-     <string name="bmp_quality_mode">Picture Quality mode</string>
-     <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
-     <string name="buffering">Leser inn i buffer...</string>
-     <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
+     <string name="bmp_quality_mode">Bildekvalitet-modus</string>
+     <string name="bmp_quality_mode_desc">Hvis valgt, bruk høy bildekvalitet.</string>
+     <string name="buffering">Bufrer…</string>
+     <string name="buffering_video_netplay_label_v5">Bufrer…</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_button">Avbryt</string>
      <string name="cancel_favorite_success">Ustjernemerkede</string>
