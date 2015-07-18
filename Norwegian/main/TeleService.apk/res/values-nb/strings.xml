@@ -613,6 +613,10 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
      <string name="msim_apn_not_set">Ikke sett</string>
      <string name="msim_default_setting">Standard innstillinger</string>
+     <string name="msim_disable_sim_card_btn_text">OK</string>
+     <string name="msim_disable_sim_card_summary_default_card">"Dette kortet er for øyeblikket satt som din standard SIM. Hvis du slutter å bruke det, vil du ikke kunne utføre samtaler eller din mobildataforbindelse. Du kan stoppe dette SIM-kortet ved å sette et annet SIM-kort som ditt standard kort."</string>
+     <string name="msim_disable_sim_card_summary_non_default_card">Du kan kanskje ikke utføre samtaler eller bruke din mobildataforbindelse. Stopp bruk av %s SIM-kort?</string>
+     <string name="msim_disable_sim_card_title">Stopp bruk av SIM-kort</string>
      <string name="msim_enable_sim">Skru på</string>
      <string name="msim_general_setting">Generelle innstillinger</string>
      <string name="msim_has_been_disabled">(Deaktivert)</string>

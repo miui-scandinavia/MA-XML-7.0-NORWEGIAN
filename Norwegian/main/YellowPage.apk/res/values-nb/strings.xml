@@ -194,6 +194,8 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="expresss_inquiry_all_logistics">Alle</string>
      <string name="expresss_inquiry_frequently_used_logistics">Ofte brukte</string>
      <string name="fail_to_add_account">"Kunne ikke legge til konto"</string>
+     <string name="follow_express">Følg %1$s</string>
+     <string name="follow_express_success">Følger nå %1$s.</string>
      <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>
      <string name="general_btn_follow">Følg</string>

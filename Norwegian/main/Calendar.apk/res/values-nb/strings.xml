@@ -38,7 +38,7 @@
      <string name="adding_calendar">Legger til...</string>
      <string name="agenda_today">I DAG, %1$s</string>
      <string name="agenda_tomorrow">I MORGEN, %1$s</string>
-     <string name="agenda_view">Agenda</string>
+     <string name="agenda_view">Hendelser</string>
      <string name="agenda_yesterday">I GÅR, %1$s</string>
      <string name="alarm_label">OK</string>
      <string name="alert_title">Beskjed fra Kalender</string>
@@ -183,7 +183,7 @@
      <string name="jump_date">Gå</string>
      <string name="jump_date_full">Gå til dato</string>
      <string name="label_recent_events">Siste hendelser</string>
-     <string name="loading">Laster ...</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="local_calendar_display_name">Lokal kalender</string>
      <string name="local_owner_account_name">Lagret til denne enheten</string>
      <string name="lunar_date">Månedato</string>

@@ -52,7 +52,7 @@
      <string name="gift_present_dlg_input_hint">Mi-konto ID/Telefon</string>
      <string name="gift_present_dlg_no_fee">"Du vil ikke bli belastet av mobiloperatøren din for å sende gaver
 "</string>
-     <string name="gift_present_dlg_present_max_limit">"Tema kan ikke bli gitt som gave mer enn %$1s ganger."</string>
+     <string name="gift_present_dlg_present_max_limit">"Tema kan ikke bli gitt som gave mer enn %1$s ganger."</string>
      <string name="gift_present_dlg_share">Opprett kode og gaver</string>
      <string name="gift_present_fail_dlg_content">"Kunne ikke sende denne gaven. "</string>
      <string name="gift_present_fail_dlg_title">"Kunne ikke sende gave"</string>
@@ -203,6 +203,7 @@
      <string name="resource_menu_refresh">Oppdater</string>
      <string name="resource_mute">Ingen</string>
      <string name="resource_my">Lokal</string>
+     <string name="resource_network_diagnostics">&lt;u&gt;Network Diagnostics&lt;/u&gt;</string>
      <string name="resource_no_match_app">Ingen apper kan håndtere denne oppgaven.</string>
      <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="resource_no_result">"Finner ingenting"</string>
@@ -228,9 +229,27 @@
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
+     <string name="resource_search_color">Tap a color to search</string>
+     <string name="resource_search_color_hint_black">Black</string>
+     <string name="resource_search_color_hint_blue">Blue</string>
+     <string name="resource_search_color_hint_brown">Brown</string>
+     <string name="resource_search_color_hint_cyan">Cyan</string>
+     <string name="resource_search_color_hint_gray">Gray</string>
+     <string name="resource_search_color_hint_green">Green</string>
+     <string name="resource_search_color_hint_orange">Orange</string>
+     <string name="resource_search_color_hint_pink">Pink</string>
+     <string name="resource_search_color_hint_purple">Purple</string>
+     <string name="resource_search_color_hint_red">Red</string>
+     <string name="resource_search_color_hint_white">White</string>
+     <string name="resource_search_color_hint_yellow">Yellow</string>
      <string name="resource_search_list_empty">"Fant ingenting."</string>
      <string name="resource_see_more">Vis mer</string>
      <string name="resource_select">Velg</string>
+     <string name="resource_select_alarm_audio_confirm">Select this notification sound?</string>
+     <string name="resource_select_audio_confirm_picker">Select this sound?</string>
+     <string name="resource_select_boot_audio_confirm">Select this boot sound?</string>
+     <string name="resource_select_notification_audio_confirm">Select this alarm sound?</string>
+     <string name="resource_select_ringtone_audio_confirm">Select this ringtone?</string>
      <string name="resource_select_ringtone_confirm">Velg denne lyden?</string>
      <string name="resource_select_ringtone_confirm_picker">Velg denne lyden?</string>
      <string name="resource_selected">Utvalgte</string>
@@ -323,6 +342,7 @@
      <string name="theme_purchased_list_empty">"Du har ikke kjøpt noen temaer."</string>
      <string name="theme_purchased_non_local">Online</string>
      <string name="theme_select_others">Utforsk</string>
+     <string name="theme_setting">Settings</string>
      <string name="theme_user_agreement_allow">OK</string>
      <string name="theme_user_agreement_content1">"Ved å bruke dette produktet, godkjenner du vilkårene i vår "</string>
      <string name="theme_user_agreement_content2">Brukervilkår</string>
@@ -339,6 +359,7 @@
      <string name="title_component">Personliggjør tema</string>
      <string name="title_system_resource">Offline</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
+     <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Beskjær</string>
      <string name="wallpaper_decoded_error">Kunne ikke avkode</string>
      <string name="wallpaper_loading_text">Laster ...</string>

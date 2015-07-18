@@ -539,7 +539,6 @@ venner."</string>
      <string name="confirm_download_video_title">Last ned video</string>
      <string name="confirm_face">Match</string>
      <string name="confirm_left_photo_will_move_in">%s er i alle gjenværende bilder?</string>
-
      <string name="confirm_left_photo_will_move_out">"er ikke %s i noen av de gjenværende bildene?"</string>
      <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
      <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -597,6 +596,8 @@ venner."</string>
      <string name="download_fail">Nedlasting feilet!</string>
      <string name="download_fail_confirm_continue">Nedlastinv av %s feilet. Fortsett?</string>
      <string name="download_refocus_data">Last ned refokus data</string>
+     <string name="download_without_wifi_msg">"Using your mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+     <string name="download_without_wifi_title">Data usage warning</string>
      <string name="duotone">Dobbelt-tone</string>
      <string name="duration">Lengde</string>
      <string name="early_bird">Earlybird</string>
@@ -906,6 +907,8 @@ venner."</string>
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Gjenkjenner bilde…</string>
+     <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
+     <string name="recommanded_face_added_tip">Added to \"%s\"</string>
      <string name="redeye">Rødt øye</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>

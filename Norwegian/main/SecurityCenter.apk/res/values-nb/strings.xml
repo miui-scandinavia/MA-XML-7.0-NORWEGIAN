@@ -71,6 +71,13 @@
      <string name="battery_history_minutes">%1$dm %2$ds</string>
      <string name="battery_history_minutes_no_seconds">%1$dm</string>
      <string name="battery_history_seconds">%1$ds</string>
+     <string name="battery_stats_charging_label">Charging</string>
+     <string name="battery_stats_gps_on_label">GPS on</string>
+     <string name="battery_stats_on_battery">%1$s on battery</string>
+     <string name="battery_stats_phone_signal_label">Mobile network signal</string>
+     <string name="battery_stats_screen_on_label">Screen on</string>
+     <string name="battery_stats_wake_lock_label">Awake</string>
+     <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
      <string name="boot_day_shutdown_day">Enheten vil skru seg på om %1$dd den %2$s og skru seg på om %3$dd den %4$s</string>
      <string name="boot_reminder">Skru på enheten din på en planlagt tid</string>
      <string name="boot_reminder_day">Enheten vil skru seg på om %1$dd %2$dh %3$dm</string>
@@ -83,6 +90,7 @@
      <string name="boot_shutdown_day">Enheten vil skru på den %1$s og skru seg av om %2$dd den %3$s</string>
      <string name="boot_time">Enheten vil skru seg på den %1$s</string>
      <string name="boot_time_day">Enheten vil skru av på om %1$dd den %2$s</string>
+     <string name="boot_time_day_tomorrow">Power on tomorrow at %1$s</string>
      <string name="brightness_auto_adjust_off">Lysstyrke vil forbli konstant i alle lysforhold</string>
      <string name="brightness_auto_adjust_on">Optimaliser lysstyrke for alle tilgjengelige lys</string>
      <string name="btn_text_cleanup_all">Rydd opp</string>
@@ -349,6 +357,20 @@
      <string name="menu_text_networkassistants_remain">%s igjen</string>
      <string name="menu_text_power_manager">Batteribruk</string>
      <string name="menu_text_power_percent">%s batteri</string>
+     <string name="month_report_activity_label">Månedlig rapport</string>
+     <string name="month_report_click_reconnect_network">Prøv igjen</string>
+     <string name="month_report_disconnect_tip">"Kan ikke koble til nettverket"</string>
+     <string name="month_report_history_activity_label">Rapport-historikk</string>
+     <string name="month_report_month_report_switch">Vis månedlig rapport</string>
+     <string name="month_report_network_dialog_description">Tilat at denne appen kobler til internett for å hente rapportinfo?</string>
+     <string name="month_report_network_dialog_positive">Tillat</string>
+     <string name="month_report_network_dialog_title">"Kan ikke hente rapportinfo"</string>
+     <string name="month_report_result_share">Del</string>
+     <string name="month_report_share_img_fail">"Kunne ikke dele"</string>
+     <string name="month_report_share_loading">Bare et sekund…</string>
+     <string name="month_report_warning_dialog_description">"For å vise månedlig rapport, skru denne funksjonen i innstillinger i Sikkerhets-appen."</string>
+     <string name="month_report_warning_dialog_positive">Skru på</string>
+     <string name="month_report_warning_dialog_title">Månedlig sikkerhetsrapport</string>
      <string name="msg_cleanup_db_update_checking">Sjekker…</string>
      <string name="msg_cleanup_db_update_time_unknown">Siste oppdatering ukjent</string>
      <string name="msg_update_error_code_already_running">Oppdaterer</string>
@@ -425,7 +447,7 @@
      <string name="power_chooser_sleep_title">Dvale</string>
      <string name="power_chooser_smart_summary">Fjern kjørende prosesser i bakgrunnen på låseskjermen</string>
      <string name="power_chooser_smart_title">Standard</string>
-     <string name="power_chooser_standby_summary">Deaktiver WLAN og datatjenester</string>
+     <string name="power_chooser_standby_summary">Skru av WLAN og datatjenester</string>
      <string name="power_chooser_standby_title">Maraton</string>
      <string name="power_chooser_title">Batteriprofiler</string>
      <string name="power_chooser_user_define_summary">Legg til profil</string>
@@ -617,6 +639,7 @@
      <string name="preference_key_module_network_assistant">key_network_assistant</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_module_power_center">module_power_center</string>
+     <string name="preference_key_month_report_switch">key_month_report_switch</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
@@ -659,6 +682,7 @@
      <string name="shutdown_day_boot_day">Enhten vil skru seg av om %1$dd den %2$s og skru seg på om %3$dd den %4$s</string>
      <string name="shutdown_time">Enheten vil skru seg av den %1$s</string>
      <string name="shutdown_time_day">Enheten vil skru seg av om %1$dd den %2$s</string>
+     <string name="shutdown_time_day_tomorrow">Power off tomorrow at %1$s</string>
      <string name="st_title_mode_choose_group">Velg profil</string>
      <string name="suffix_virus_count_bottom">total</string>
      <string name="suffix_virus_count_top">risikoer</string>
@@ -683,7 +707,7 @@
      <string name="summary_miui_update">Oppdatering tilgjengelig for %s.</string>
      <string name="summary_mms">Filtrer uønskede meldinger (salg, reklame, osv.)</string>
      <string name="summary_network_switch">Tillat Sikerhets-app å koble til internett</string>
-     <string name="summary_never_flow_verify">"Denne figuren har ikke blitt verifisert hos din operatør"</string>
+     <string name="summary_never_flow_verify">"Dette numret har ikke blitt verifisert hos din operatør"</string>
      <string name="summary_optimizer">"Denne funksjonen laster opp mappenavn for å oppdatere Cheetah Mobile sin nettdatabase og krever enhetens ID."</string>
      <string name="summary_permission">Beskytt mitt personvern fra potiensielt skadelige tredjeparts apper</string>
      <string name="summary_permission_root">Enheten og personlige data er mer utsatte for angrep fra apper som har rot-tilgang</string>

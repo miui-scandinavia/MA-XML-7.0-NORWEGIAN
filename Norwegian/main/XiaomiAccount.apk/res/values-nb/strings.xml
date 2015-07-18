@@ -52,6 +52,8 @@
      <string name="account_user_using_facebook_avatar">Bruk Facebook profilbilde</string>
      <string name="account_user_using_qq_avatar">Bruk QQ profilbilde</string>
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
+     <string name="account_vip_level">Vip level</string>
+     <string name="account_vip_task">Task</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
      <string name="add_account">Koble til konto</string>
@@ -134,6 +136,7 @@ Vennligst skriv verifikasjonskoden i e-posten"</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="error_user_name">Ugyldig brukernavn</string>
      <string name="error_verify_code">Koden du skrev inn er ikke gyldig</string>
+     <string name="exceed_binded_phone_times_notice">Dette telefonnummeret er allerede assosiert med en annen Mi-konto.</string>
      <string name="facebook">Facebook</string>
      <string name="failed_dup_secure_phone_number">Dette telefonnummer er allerede assosiert med en annen Mi-konto</string>
      <string name="failed_get_mibi_info">"Kan ikke hente balanse"</string>
@@ -173,6 +176,7 @@ Vennligst skriv verifikasjonskoden i e-posten"</string>
      <string name="logout_failed">"Kan ikke logge ut"</string>
      <string name="mi_account_dspt_provision">Logg inn på Mi Cloud, MIUI tema-butikk, og andre Mi-tjenester fra hvor som helst.</string>
      <string name="mi_account_identity_title">Bekreft din identitet</string>
+     <string name="mi_pass">Mi Pass</string>
      <string name="mi_service">Støtte</string>
      <string name="mi_support_service">Støtte</string>
      <string name="mibi_balance">%s Mi Kreditter</string>
@@ -482,6 +486,7 @@ For å aktivere din konto, følg
      <string name="vcode_prompt_long">Skriv inn verifikasjonskode</string>
      <string name="verification_failed">Autentifisering feilet</string>
      <string name="verify">Bekreft</string>
+     <string name="vip_level_value">LV%d</string>
      <string name="wipe_data_dialog_msg">%s vil bli slettet om du fortsetter.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Noen elementer er ikke synkronisert"</string>

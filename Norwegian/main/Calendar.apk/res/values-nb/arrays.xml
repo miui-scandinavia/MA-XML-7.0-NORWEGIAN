@@ -18,16 +18,11 @@
         <item>Ledig</item>
         <item>Foreløpig</item>
      </string-array>
-     <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </integer-array>
      <string-array name="buttons_list">
         <item>Dag</item>
         <item>Uke</item>
         <item>Måned</item>
-        <item>Dagsorden</item>
+        <item>Hendelse</item>
      </string-array>
      <string-array name="change_response_labels">
         <item>Kun denne hendelsen</item>

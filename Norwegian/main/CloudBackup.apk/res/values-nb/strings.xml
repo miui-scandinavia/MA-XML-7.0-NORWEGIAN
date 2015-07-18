@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="about_to_recover">Bare et sekund…</string>
      <string name="app_name">Sikkerhetskopi av hjemskjerm-apper</string>
      <string name="back_up_task_in_process">tar sikkerhetskopi</string>
      <string name="back_up_task_unfinished">sikkerhetskopi uferdig</string>

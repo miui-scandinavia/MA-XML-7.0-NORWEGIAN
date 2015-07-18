@@ -50,6 +50,12 @@
         <item>Ofte brukt</item>
         <item>Navn</item>
      </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>None</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+     </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Hent meldingsmal automatisk</item>
         <item>Sett meldingsmal manuelt</item>

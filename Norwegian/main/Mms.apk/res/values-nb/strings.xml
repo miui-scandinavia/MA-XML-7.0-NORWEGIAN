@@ -134,6 +134,10 @@
      <string name="clearFrequentsConfirmation_title">Vil du fjerne ofte kontaktede personer?</string>
      <string name="clearFrequentsProgress_title">Fjerner ofte kontaktede personer ...</string>
      <string name="close">Lukk</string>
+     <string name="cloud_recommend_msg">Trykk for å synke meldinger med Mi Cloud.</string>
+     <string name="cloud_state_disabled">Synk med Mi Cloud er av</string>
+     <string name="cloud_state_sync_finished">Synket med Mi Cloud</string>
+     <string name="cloud_state_syncing">Synker med Mi Cloud…</string>
      <string name="compose_disabled_toast">Kan ikke skrive noe. Er ikke standard SMS-app.</string>
      <string name="composer_failed_to_get_database_infomation">Kunne ikke hente databaseinformasjon.</string>
      <string name="composer_has_no_exportable_contact">Du har ingen kontakter som kan eksporteres. Hvis du har kontakter på telefonen, kan det hende at dataleverandøren din ikke tillater at kontaktene eksporteres fra telefonen.</string>
@@ -475,6 +479,7 @@
      <string name="message_too_big_for_video">Meddelse for stor til å legge ved video.</string>
      <string name="message_type_label">"Type: "</string>
      <string name="messagelist_sender_self">Meg</string>
+     <string name="mipub_messaging_entry_title">Mi Messages</string>
      <string name="missing_name">(Uten navn)</string>
      <string name="mms">MMS</string>
      <string name="more_string">+%1$s</string>

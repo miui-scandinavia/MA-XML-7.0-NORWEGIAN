@@ -21,6 +21,7 @@
      <string name="call_record_folder_name">Anropsopptak</string>
      <string name="default_folder_name">Notater</string>
      <string name="dlg_desc_confirm_alarm_silent">Vekkerklokke og notater vil ikke høres i stille modus når den er avslått.</string>
+     <string name="dlg_info_creating_message">Oppretter melding…</string>
      <string name="dlg_title_confirm_alarm_silent">Ønsker du å slå alarmer i lydløs modus?</string>
      <string name="enable_sync">Synk</string>
      <string name="enable_sync_desc">Notater kan synkroniseres med din Xiaomi-konto %1$s, synk nå?</string>
@@ -99,6 +100,7 @@
      <string name="sns_title_send">Send melding</string>
      <string name="sns_toast_empty">"Kan ikke sende tomt innlegg"</string>
      <string name="sns_toast_over_limit">Send som bilde fordi tekstgrense overskredet</string>
+     <string name="sync_tips">Trykk for å synke notater med Mi Cloud.</string>
      <string name="toast_folder_privacy_mode">"Kan ikke endre mappe i vaktmodus"</string>
      <string name="toast_message_add_image_fail">Kunne ikke sette inn bilde!</string>
      <string name="toast_message_add_text_warn">"Denne filtypen er ikke støttet!"</string>

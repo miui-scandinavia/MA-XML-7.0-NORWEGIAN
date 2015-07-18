@@ -20,6 +20,8 @@
      <string name="artist_name">Artist</string>
      <string name="artist_search_title">Artist</string>
      <string name="artist_view">Artist</string>
+     <string name="atmd_copyright_info">Strømmetjeneste er tilbudt av Ultimate Inc.</string>
+     <string name="atmd_mail">service1@ultimobi.com</string>
      <string name="atmd_music">Ultimate</string>
      <string name="audio_picker_title">Velg en sang</string>
      <string name="auto_download_in_wifi">Last ned favorittsanger over Wi-Fi</string>

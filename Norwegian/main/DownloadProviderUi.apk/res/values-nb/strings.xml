@@ -42,6 +42,7 @@
      <string name="disable">Av</string>
      <string name="display_expire_netiv1">Denne måneden</string>
      <string name="doc_filter">DOKUMENT</string>
+     <string name="download">Downloads</string>
      <string name="download_complete">Fullførte</string>
      <string name="download_error">Mislykket</string>
      <string name="download_error_insufficient_space">For lite plass</string>
@@ -73,6 +74,8 @@
      <string name="download_title_sorted_by_size">nedlastinger - Sortert via størrelse</string>
      <string name="download_wait_connect">Venter på tilkobling for å laste ned</string>
      <string name="download_when_network_connected">Last ned når netverksforbindelse er tilgjengelig</string>
+     <string name="downloaded_empty">No downloaded content</string>
+     <string name="downloading_empty">No downloading content</string>
      <string name="downloads_operating">Arbeider</string>
      <string name="dredge_xunlei_account">Lag en Xunlei-konto</string>
      <string name="editmode_menu_delete">Slett</string>
@@ -142,6 +145,7 @@
      <string name="select_all">Rens valgte</string>
      <string name="select_operation_items">Velg elementer</string>
      <string name="selected_count">Valgte %1$d ut av %2$d</string>
+     <string name="show_more">More(%s)</string>
      <string name="toast_xunlei_engine_open">Xunlei-nedlastingsakselerator er på</string>
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>

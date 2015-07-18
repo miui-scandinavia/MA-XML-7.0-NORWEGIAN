@@ -72,8 +72,8 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="enable_cloud_service_notification">Du må aktivere Mi Cloud</string>
      <string name="enable_find_device_error">"Kan ikke skru på Finn enhet. %1$s"</string>
      <string name="enable_micloud">Bruk Mi Cloud</string>
-     <string name="enable_sync">Skru på</string>
-     <string name="enable_sync_dspt">Synk er av</string>
+     <string name="enable_sync">Synk</string>
+     <string name="enable_sync_dspt">"Ikke synk"</string>
      <string name="error_data_in_transfer">Dine data blir overført. Vennligst vent %s timer.</string>
      <string name="error_data_in_transfer_title">Mi Cloud er utilgjengelig.</string>
      <string name="error_forbidden">Synk har blitt deaktivert på grunn av problemer med din Mi-konto.</string>
@@ -260,7 +260,10 @@ brukt %s | gjenværende %s"</string>
 
 Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
      <string name="mx_dspt_provision_privacy">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
-Denne funksjonen krypter og laster på enhetens ID til Mi sine servere."</string>
+Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
+     <string name="mx_dspt_provision_privacy_2_sim">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for de to SMS-meldingene brukt for å aktivere denne tjenesten.
+
+Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
      <string name="mx_dspt_provision_with_voip">Ring andre MIUI-brukere gratis ved hjelp av din internett-tilkobling. Du kan skru denne funksjonen av og på når som helst i Innstillinger.</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="mx_sub_dspt_provision_with_voip">Internett-ringing</string>

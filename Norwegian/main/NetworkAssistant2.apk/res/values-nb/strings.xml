@@ -38,6 +38,7 @@
      <string name="connect_internet_by_wifi">Koble til internett ved hjelp av WLAN</string>
      <string name="current_network_state_not_need_diagnose">Normal</string>
      <string name="daily_limit_network_available_body">Trykk for å vise statistikk over mobildata.</string>
+     <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
      <string name="daily_limit_over_message">"Du har overskredet din daglige datagrense."</string>
      <string name="daily_pkg_traffic">Sett maksimum databruksgrense</string>
      <string name="data_network_blocked_notification_title">Ingen internettforbindelse</string>
@@ -144,8 +145,8 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="load_fail">"Kunne ikke laste"</string>
      <string name="local_ip_exception_summary">"Kunne ikke hente lokal IP-adresse. For å rapportere denne feilen til MIUI, gå til Rapporter feil-appen og send en logg fra enheten din."</string>
      <string name="lock_screen_setting_summary">Vis varsel på låseskjermen etter 100KB har blitt brukt</string>
-     <string name="lock_screen_traffic_guide_notification_summary">Mobildata brukt på låseskjermen.</string>
-     <string name="lock_screen_traffic_guide_notification_title">Brukt %s av mobildata</string>
+     <string name="lock_screen_traffic_guide_notification_summary">Trykk for å se dataforbruk.</string>
+     <string name="lock_screen_traffic_guide_notification_title">%s brukt på låseskjermen</string>
      <string name="lock_screen_traffic_notify_body">Låst i %2$s på %1$s, mobildata brukt %3$s</string>
      <string name="lock_screen_traffic_purchase_textview">Kjøp mobildata</string>
      <string name="lock_screen_traffic_warn_title">Varsler på låseskjermen</string>
@@ -199,7 +200,7 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="mian_page_primary_txt">Internasjonal roaming</string>
      <string name="miuishare_title_more">Mer</string>
      <string name="miuishare_title_share">Del</string>
-     <string name="miuishare_wechat_timeline_title">Wechat-tidslinje</string>
+     <string name="miuishare_wechat_timeline_title">WeChat-øyeblikk</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Berør for å begrense databruk</string>
      <string name="network_assistant_upgraded_title">Oppdatert</string>
@@ -209,17 +210,17 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="network_connected_exception_title">Test network</string>
      <string name="network_control">Vis innstillinger for app</string>
      <string name="network_diagnostics">Test nettverk</string>
-     <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+     <string name="network_mobile_exception_detail">"Enheten din kan ikke koble til internett:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 1. Sørg for at du ikke har overskredet databruksgrensen i operatørens abonnement.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+ 2. Hvis du nettopp har fylt på enhetens balanse, start enhetne på nytt og prøv igjen.
 
- 3. Your carrier's network's signal may be weak in your current location."</string>
-     <string name="network_not_available">"Can't connect to the network"</string>
-     <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
-     <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-     <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
+ 3. Signalet til operatøren kan være svakt på dette stedet."</string>
+     <string name="network_not_available">"Kan ikke koble til nettverket"</string>
+     <string name="network_operator_exception_summary">"Kunne ikke aktivere SIM-kort. Sørg for at SIM-kort er satt inn riktig og at mobilabonnementet har blitt aktivert av din operatør."</string>
+     <string name="network_permission_exception_tips">"Kunne ikke bruke mobildata for å koble til nettverket"</string>
+     <string name="network_roaming_exception_tips">"Kunne ikke bruke mobildata under roaming for å koble til nettverket."</string>
      <string name="network_route_exception_detail">"Det kan være et problem med ruteren du er koblet til:
 
  "&lt;b&gt;"1. Feil med Offentlig Wi-Fi-nettverk
@@ -253,6 +254,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="notify_daily_limit_body">%s brukt i dag. Trykk for å velge grense.</string>
      <string name="notify_daily_limit_title">Velg en daglig datagrense</string>
      <string name="notify_daily_limit_title_for_slotnum">Sett daglig datagrense for %s</string>
+     <string name="notify_daily_traffic_saving_title">%s used today</string>
      <string name="notify_month_traffic_body">%s brukt denne måneden. Trykk for å velge grense.</string>
      <string name="notify_setting_pkg_title">Velg din månedlige datagrense</string>
      <string name="notify_setting_pkg_title_for_slotnum">Sett månedlig datagrense for %s</string>
@@ -303,7 +305,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_daily_adjust">Sett maksimum datagrense</string>
      <string name="pref_daily_traffic">Maks datagrense</string>
      <string name="pref_data_usage_ignore_settings">Ignorer dataforbruk</string>
-     <string name="pref_data_usage_ignore_settings_summary">"Ikke hold styr på en valgt gruppe med apper sitt dataforbruk"</string>
+     <string name="pref_data_usage_ignore_settings_summary">"Ikke hold styr på valgte apper sitt dataforbruk"</string>
      <string name="pref_data_usage_not_set">Sett grense for databruk</string>
      <string name="pref_free_adjust">Sett minimum datagrense</string>
      <string name="pref_free_traffic_exceed_limit">Gi meg et varsel når databruket når grensen</string>
@@ -339,10 +341,15 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_title_traffic_limit_number">Størrelse</string>
      <string name="pref_title_traffic_speed_state">Vis nettverkshastighet</string>
      <string name="pref_title_update_notification">Vis databrukvarsler</string>
+     <string name="pref_traffic_saving_auto_add_whitelist">Reduce data usage for new apps</string>
+     <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically activate Data saver for newly installed apps for which data usage can be significantly reduced</string>
+     <string name="pref_traffic_saving_compressed">Compressed</string>
      <string name="pref_traffic_saving_issue">FAQ</string>
      <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Vil aktivering av datasparing påvirke mitt personvern? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Hvorfor fungerer ikke datasparing? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
+     <string name="pref_traffic_saving_no_compress">Uncompressed</string>
      <string name="pref_traffic_saving_notify_switch">Vis i varslingsskygge</string>
      <string name="pref_traffic_saving_notify_switch_hint">Vis datasparingsstatestikk i varslingsskyggen</string>
+     <string name="pref_traffic_saving_pic_compress_level">Image compression ratio</string>
      <string name="pref_traffic_saving_switch">Datasparing</string>
      <string name="pref_traffic_saving_switch_hint">Bruk proxy for å komprimere data</string>
      <string name="pref_traffic_saving_title">Innstillinger for datasparing</string>
@@ -361,6 +368,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="protocol_exception_title">Nettverksprotokoll-diagnostikk</string>
      <string name="protocol_loop_back_exception_summary">Lokal loopback-test feilet. For å rapportere feilen til MIUI, gå til Rapporter feil-appen og send en logg from enheten din.</string>
      <string name="reach_daily_limit_value_body">Reduser ditt daglige mobildataforbruk.</string>
+     <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data Saver.</string>
      <string name="reach_daily_limit_value_title">Daglig datagrense nådd</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
@@ -476,6 +484,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_protection_use_data">Data aktivert</string>
      <string name="traffic_purchase_body">Spar 50% når du fyller opp nå.</string>
      <string name="traffic_purchse_suggestion">Datagrense overskredet</string>
+     <string name="traffic_saving_button_mng">Manage Data saver apps</string>
      <string name="traffic_saving_button_sorted">Detaljer</string>
      <string name="traffic_saving_button_sorted_chose_simcard">Sorter etter</string>
      <string name="traffic_saving_button_start">Aktiver</string>
@@ -493,8 +502,19 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_msg_month">Spart denne måneden:</string>
      <string name="traffic_saving_msg_not_started">Datasparing er av</string>
      <string name="traffic_saving_msg_today">Data spart i dag:</string>
+     <string name="traffic_saving_need_optimize">Can be optimized</string>
+     <string name="traffic_saving_notification_button_start">Activate</string>
      <string name="traffic_saving_notify_start_content">%s spart denne måneden.</string>
      <string name="traffic_saving_notify_start_title">Reduser din databruk</string>
+     <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
+     <string name="traffic_saving_optimized">Already optimized</string>
+     <string name="traffic_saving_pic_compress_orig">Original</string>
+     <string name="traffic_saving_ratio">Data usage reduced %.2f%%</string>
+     <string name="traffic_saving_ratio_low">"Can't significantly reduce data usage"</string>
+     <string name="traffic_saving_recommanded_close">Turn this item off</string>
+     <string name="traffic_saving_recommanded_open">Turn this item on</string>
+     <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+     <string name="traffic_saving_start_tip_title">Activate</string>
      <string name="traffic_saving_tecsupport">Drevet av Opera</string>
      <string name="traffic_saving_title">Datasparing</string>
      <string name="traffic_saving_toast_start_mobile">Datasparing er på</string>

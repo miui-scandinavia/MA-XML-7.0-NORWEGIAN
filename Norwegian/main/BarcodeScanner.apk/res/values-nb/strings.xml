@@ -8,7 +8,7 @@
      <string name="app_details">App-detaljer:</string>
      <string name="app_name">Skanner</string>
      <string name="back">Tilbake</string>
-     <string name="barcode_into_rectangle">For å skanne, juster slik at koden havner i rammen nedenfor</string>
+     <string name="barcode_into_rectangle">Plasser koden innenfor rammen nedenfor</string>
      <string name="birthday">Bursdag:</string>
      <string name="camera_error">"Det er noe feil med kameraet"</string>
      <string name="cancel">Avbryt</string>
@@ -44,7 +44,7 @@
      <string name="open_flash_error">"Kunne ikke skru på lykt"</string>
      <string name="phone">Telefon:</string>
      <string name="picker_lable">Bilde</string>
-     <string name="place_barcode_into_rectangle">For å skanne, juster slik at koden havner i rammen nedenfor</string>
+     <string name="place_barcode_into_rectangle">Plasser koden innenfor rammen nedenfor</string>
      <string name="qq_details">QQ-detaljer:</string>
      <string name="qr_code_details">QR-kode detaljer:</string>
      <string name="recognize">Skann</string>

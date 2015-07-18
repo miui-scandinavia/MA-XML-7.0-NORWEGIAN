@@ -1,39 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Sporer ikke dataforbruket til %d apper</item>
-        <item quantity="one">Sporer ikke dataforbruket til %d app</item>
-    </plurals>
-    <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Sporer dataforbruker til %d apper</item>
-        <item quantity="one">Sporer dataforbruket til %d app</item>
-    </plurals>
-    <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d apper bruker datasparing</item>
-        <item quantity="one">%d app bruker datasparing</item>
-    </plurals>
-    <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d apper bruker ikke datasparing</item>
-        <item quantity="one">%d app bruker ikke datasparing</item>
-    </plurals>
-    <plurals name="hints_install_apps_interval">
+     <plurals name="hints_install_apps_interval">
         <item quantity="other">Brukt for %d dager siden</item>
         <item quantity="one">Brukt i går</item>
-    </plurals>
-    <plurals name="search_app_count_txt">
-        <item quantity="other">Søk %d apper</item>
-        <item quantity="one">Søk %d app</item>
-    </plurals>
-    <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d apper kan bruke mobildata under roaming</item>
-        <item quantity="one">%d app kan bruke mobildata under roaming</item>
-    </plurals>
-    <plurals name="hints_roaming_disable_title">
+     </plurals>
+     <plurals name="hints_roaming_disable_title">
         <item quantity="other">"%d apper kan ikke bruke mobildata under roaming"</item>
         <item quantity="one">"%d app kan ikke bruke mobildata under roaming"</item>
-    </plurals>
-    <plurals name="hints_roaming_found_app_count_title">
+     </plurals>
+     <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apper kan bruke mobildata under roaming</item>
+        <item quantity="one">%d app kan bruke mobildata under roaming</item>
+     </plurals>
+     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apper funnet</item>
         <item quantity="one">%d app funnet</item>
-    </plurals>
+     </plurals>
+     <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Sporer dataforbruker til %d apper</item>
+        <item quantity="one">Sporer dataforbruket til %d app</item>
+     </plurals>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Sporer ikke dataforbruket til %d apper</item>
+        <item quantity="one">Sporer ikke dataforbruket til %d app</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apper bruker ikke datasparing</item>
+        <item quantity="one">%d app bruker ikke datasparing</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apper bruker datasparing</item>
+        <item quantity="one">%d app bruker datasparing</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps can be optimized</item>
+        <item quantity="one">%d app can be optimized</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps optimized</item>
+        <item quantity="one">%d app optimized</item>
+     </plurals>
+     <plurals name="search_app_count_txt">
+        <item quantity="other">Søk %d apper</item>
+        <item quantity="one">Søk %d app</item>
+     </plurals>
 </resources>
