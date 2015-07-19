@@ -52,8 +52,8 @@
      <string name="account_user_using_facebook_avatar">Bruk Facebook profilbilde</string>
      <string name="account_user_using_qq_avatar">Bruk QQ profilbilde</string>
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
-     <string name="account_vip_level">Vip level</string>
-     <string name="account_vip_task">Task</string>
+     <string name="account_vip_level">VIP-nivå</string>
+     <string name="account_vip_task">Oppgave</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
      <string name="add_account">Koble til konto</string>

@@ -57,7 +57,7 @@
      <string name="delete">Slett</string>
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
      <string name="delete_wallpapers_message">Slett %1$d bakgrunner?</string>
-     <string name="deselect_all">Deselect all</string>
+     <string name="deselect_all">Avvvelg alle</string>
      <string name="disable_wallpaper_scroll">Skru av sideskrolling</string>
      <string name="download_action">Last ned</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -200,7 +200,7 @@
      <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature this off, touch this folder's name."</string>
      <string name="reset_scene_prompt">Layout vil bli nullstilt</string>
      <string name="scroll_tip_format_when_announce_accessibility">Side %1$d, %2$d programmer</string>
-     <string name="select_all">Select all</string>
+     <string name="select_all">Velg alle</string>
      <string name="select_frame">Ramme</string>
      <string name="select_photo">Bilde</string>
      <string name="setting_wallpaper_tip">Klyp eller sveip for å justere</string>

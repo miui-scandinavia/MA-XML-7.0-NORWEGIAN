@@ -183,9 +183,9 @@ http://zhushou.xiaomi.com"</string>
      <string name="update_downfull_no_info_title">"Kan ikke laste ned oppdatering"</string>
      <string name="update_feedback">Vurder denne oppdateringen</string>
      <string name="update_feedback_end">"Du gikk glipp av denne ukens avstemning"</string>
-     <string name="update_feedback_end_sum">Du kan delta hver tirsdag.</string>
+     <string name="update_feedback_end_sum">Du kan delta hver mandag.</string>
      <string name="update_feedback_expired">"Du gikk glipp av denne ukens avstemning.
-Men du kan ta del neste tirsdag"</string>
+Men du kan ta del neste Mandag."</string>
      <string name="update_feedback_need_account">Du må logge inn på denne Mi-kontoen først</string>
      <string name="update_feedback_need_network">Koble til nettverket først</string>
      <string name="update_feedback_need_update">Du må oppdatere systemet ditt til nyeste versjon først.</string>

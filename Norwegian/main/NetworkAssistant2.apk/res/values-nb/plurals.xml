@@ -34,12 +34,12 @@
         <item quantity="one">%d app bruker datasparing</item>
      </plurals>
      <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d apps can be optimized</item>
-        <item quantity="one">%d app can be optimized</item>
+        <item quantity="other">%d apper kan bli optimalisert</item>
+        <item quantity="one">%d app kan bli optimalisert</item>
      </plurals>
      <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d apps optimized</item>
-        <item quantity="one">%d app optimized</item>
+        <item quantity="other">%d apper optimalisert</item>
+        <item quantity="one">%d app optimalisert</item>
      </plurals>
      <plurals name="search_app_count_txt">
         <item quantity="other">Søk %d apper</item>

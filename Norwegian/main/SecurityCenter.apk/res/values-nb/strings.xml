@@ -395,7 +395,7 @@
      <string name="packages_subtitle">Inkluderte pakker</string>
      <string name="percentage">%d%%</string>
      <string name="permission_action_accept">Aksepter</string>
-     <string name="permission_action_prompt">Spør</string>
+     <string name="permission_action_prompt">Varsle</string>
      <string name="permission_action_reject">Avslå</string>
      <string name="permission_close_permission_control_dialog_msg">"Når tillatelseshåndtering av av, vil apper ikke spørre om din tillatelse før den leser dine kontakter, viser din anropshistorikk, endrer systeminnstillinger, får tilgang til kamera og andre enhetsressureser."</string>
      <string name="permission_close_permission_control_dialog_title">Skru av tillatelseshåndtering?</string>

@@ -51,10 +51,10 @@
         <item>Navn</item>
      </string-array>
      <string-array name="traffic_saving_compress_level_string_array">
-        <item>None</item>
-        <item>Low</item>
+        <item>Ingen</item>
+        <item>Lav</item>
         <item>Medium</item>
-        <item>High</item>
+        <item>Høy</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Hent meldingsmal automatisk</item>

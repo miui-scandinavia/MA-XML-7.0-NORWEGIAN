@@ -644,7 +644,8 @@ venner."</string>
      <string name="face_albumset_empty">Tom.</string>
      <string name="face_albumset_loading_data">Laster data…</string>
      <string name="face_albumset_pending_enable_tip">Vil sortere bilder når enheten er tilkoblet Wi-Fi</string>
-     <string name="face_albumset_use_tip">"Sorter bilder etter folk som er i dem"</string>
+     <string name="face_albumset_use_tip">"Sorter bilder etter folk som er i dem
+ Dette blir fullført automatisk av en datamaskin, uten menneskelig innblandelse"</string>
      <string name="face_move_dialog_title">Velg et album</string>
      <string name="facelift">Ansiktsglød</string>
      <string name="facetan">Ansiktsfarge</string>
@@ -907,8 +908,8 @@ venner."</string>
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Gjenkjenner bilde…</string>
-     <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
-     <string name="recommanded_face_added_tip">Added to \"%s\"</string>
+     <string name="recommanded_face_abandon_tip">Fjernet fra forslag</string>
+     <string name="recommanded_face_added_tip">Lagt til \"%s\"</string>
      <string name="redeye">Rødt øye</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Trykk for å fjerne røde øyne</string>

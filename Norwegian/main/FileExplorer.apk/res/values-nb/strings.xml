@@ -8,7 +8,7 @@
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
      <string name="app_name">Filutforsker</string>
-     <string name="archive_send_to">Send to…</string>
+     <string name="archive_send_to">Send til…</string>
      <string name="background">Stille nedlastning</string>
      <string name="big5_summary">Standard koding av den tradisjonelle kinesiske versjonen av Windows-system</string>
      <string name="big5_title">BIG5</string>
@@ -27,7 +27,7 @@
      <string name="category_document">Dokumenter</string>
      <string name="category_favorite">Favoritter</string>
      <string name="category_file">Files</string>
-     <string name="category_log">Logg</string>
+     <string name="category_log">Filer</string>
      <string name="category_music">Musikk</string>
      <string name="category_other">Andre</string>
      <string name="category_picture">Bilder</string>
@@ -61,7 +61,7 @@
      <string name="data_capacity">Data %1$s</string>
      <string name="decompress_cancel">Avbryt</string>
      <string name="decompress_confirm">Dekomprimer?</string>
-     <string name="decompress_destination_error">"Extraction failed: can't extract files to here."</string>
+     <string name="decompress_destination_error">"Ekstraksjon feilet: kan ikke ekstrakte filer til her."</string>
      <string name="decompress_fail">Dekomprimering mislyktes!</string>
      <string name="decompress_success">Dekomprimering fullført</string>
      <string name="decompress_to">Dekomprimer til:</string>
@@ -91,7 +91,7 @@
      <string name="error_filename_too_long">Filnavn er for langt</string>
      <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
      <string name="error_open_file_failed_no_app_found">Ingen program funnet for å åpne filen</string>
-     <string name="expand_all">All</string>
+     <string name="expand_all">Alle</string>
      <string name="fail_to_create_folder">Kan ikke opprette, mappe eksisterer allerede</string>
      <string name="fail_to_create_folder_unknown">Kan ikke opprette: ukjent feil.</string>
      <string name="fail_to_rename">Kan ikke gi nytt navn, navn på fil eller mappe eksisterer allerede</string>
@@ -127,7 +127,7 @@
      <string name="gbk_title">GBK</string>
      <string name="get_cloud_space">Legg til 500GB</string>
      <string name="gigabyteShort">GB</string>
-     <string name="group_title">%2$s from %1$s</string>
+     <string name="group_title">%2$s fra %1$s</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
      <string name="kilobyteShort">KB</string>
@@ -271,9 +271,9 @@
      <string name="sd_card_available">Tilgjengelig: %1$s</string>
      <string name="sd_card_size">SD-kort: %1$s</string>
      <string name="sd_full">SD-kort fullt</string>
-     <string name="sdcard">SD Card</string>
-     <string name="sdcard_available">Available %1$s</string>
-     <string name="sdcard_total">Total %1$s</string>
+     <string name="sdcard">SD-kort</string>
+     <string name="sdcard_available">Tilgjengelig %1$s</string>
+     <string name="sdcard_total">Totalt %1$s</string>
      <string name="search_hint">Skriv inn hele eller dele av filnavnet</string>
      <string name="search_title">Søk</string>
      <string name="send_to_midrive">KuaiPan</string>
@@ -306,13 +306,13 @@
      <string name="tab_category">Kategori</string>
      <string name="tab_expand">Utvid</string>
      <string name="tab_local">Lokal</string>
-     <string name="tab_more">more</string>
+     <string name="tab_more">mer</string>
      <string name="tab_path">MAPPER</string>
-     <string name="tab_source">APPS</string>
-     <string name="tab_storage">STORAGE</string>
+     <string name="tab_source">APPER</string>
+     <string name="tab_storage">LAGRING</string>
      <string name="terabyteShort">TB</string>
-     <string name="title_more_source">More apps</string>
-     <string name="title_recent">Recent</string>
+     <string name="title_more_source">Flere apper</string>
+     <string name="title_recent">Seneste</string>
      <string name="toast_file_not_can_read">Filen kan ikke leses.</string>
      <string name="tools">VERKTØY</string>
      <string name="trans_task">Nettverksoverføring</string>
@@ -350,7 +350,7 @@
      <string name="wait_wifi">Venter på Wi-Fi</string>
      <string name="waiting">Venter...</string>
      <string name="wangpan_root_path">Min disk</string>
-     <string name="wechat_video">Video at %s</string>
+     <string name="wechat_video">Video på %s</string>
      <string name="wifi_state">Wi-Fi-status</string>
      <string name="xiaomi_account">Mi-konto</string>
      <string name="year_month_day_format">MMM dd, yyyy</string>

@@ -10,12 +10,12 @@
         <item quantity="many">Slett %1$d filer</item>
      </plurals>
      <plurals name="delete_folders_confirm">
-        <item quantity="other">" and %1$d folders?"</item>
-        <item quantity="zero">" and %1$d folders?"</item>
-        <item quantity="one">" and %1$d folder?"</item>
-        <item quantity="two">" and %1$d folders?"</item>
-        <item quantity="few">" and %1$d folders?"</item>
-        <item quantity="many">" and %1$d folders?"</item>
+        <item quantity="other">" og %1$d mapper?"</item>
+        <item quantity="zero">" og %1$d mapper?"</item>
+        <item quantity="one">" og %1$d mappe?"</item>
+        <item quantity="two">" og %1$d mapper?"</item>
+        <item quantity="few">" og %1$d mapper?"</item>
+        <item quantity="many">" og %1$d mapper?"</item>
      </plurals>
      <plurals name="directory_item_count">
         <item quantity="other">%d elementer</item>
@@ -26,20 +26,20 @@
         <item quantity="many">%d elementer</item>
      </plurals>
      <plurals name="items_file">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
+        <item quantity="other"> (%1$d elementer)</item>
+        <item quantity="zero"> (%1$d elementer)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementer)</item>
+        <item quantity="few"> (%1$d elementer)</item>
+        <item quantity="many"> (%1$d elementer)</item>
      </plurals>
      <plurals name="items_picture">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
+        <item quantity="other"> (%1$d elementer)</item>
+        <item quantity="zero"> (%1$d elementer)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementer)</item>
+        <item quantity="few"> (%1$d elementer)</item>
+        <item quantity="many"> (%1$d elementer)</item>
      </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">%1$d valgt</item>

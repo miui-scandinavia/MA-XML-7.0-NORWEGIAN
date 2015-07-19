@@ -175,7 +175,7 @@
      <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
      <string name="contactsFavoritesLabel">Favoritter</string>
      <string name="contactsList">Kontakter</string>
-     <string name="context_menu_add_calendar">Show in Calendar</string>
+     <string name="context_menu_add_calendar">Vis i kalender</string>
      <string name="context_menu_add_contact">Legg til kontakter</string>
      <string name="context_menu_add_to_browser_favorite">Legg til i nettleserfavoritter</string>
      <string name="context_menu_browse_web">Web</string>
@@ -469,7 +469,7 @@
      <string name="message_readed">Lest</string>
      <string name="message_received">Mottatt</string>
      <string name="message_rejected">Avvist</string>
-     <string name="message_saved_as_draft">Message saved as draft.</string>
+     <string name="message_saved_as_draft">Melding lagret som utkast.</string>
      <string name="message_send_failed_title">Melding ikke sendt</string>
      <string name="message_send_read_report">Mottakerrapport vil bli sendt.</string>
      <string name="message_sent">Sendt</string>
@@ -734,7 +734,7 @@
      <string name="searching_vcard_message">Søker etter vCard-data i lagringsenheten …</string>
      <string name="secs">sek</string>
      <string name="security_alert_desc">"Denne avsenderen finnes ikke i din kontakter. "&lt;u&gt;&lt;font color="red"&gt;Rapporter dette nummeret&lt;/font&gt;&lt;/u&gt;</string>
-     <string name="security_alert_dialog_desc">Rapporter dette nummeret (%s) og meldigen ved å sende den til Xiaomi for godkjennelse.</string>
+     <string name="security_alert_dialog_desc">Send dette nummeret (%s) og meldingen til Xiaomi for godkjennelse.</string>
      <string name="security_alert_dialog_title">Rapporter</string>
      <string name="select_audio">Velg lyd</string>
      <string name="select_bottom_text">Tekst i bunnen</string>

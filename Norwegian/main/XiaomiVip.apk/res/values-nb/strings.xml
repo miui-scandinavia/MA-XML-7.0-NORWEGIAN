@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action">Vis</string>
+  <string name="already_used">Brukt</string>
+  <string name="app_name">XiaomiVip</string>
+  <string name="award_taken">Poeng samlet inn</string>
+  <string name="award_time">Samlet den %s</string>
+  <string name="awarded_package_is_expired">Utløpt</string>
+  <string name="awarded_package_was_redeemed">Innløst</string>
+  <string name="cube_ptr_hours_ago"> timer siden</string>
+  <string name="cube_ptr_last_update">siste oppdatering: </string>
+  <string name="cube_ptr_minutes_ago"> minutter siden</string>
+  <string name="cube_ptr_pull_down">Dra ned</string>
+  <string name="cube_ptr_pull_down_to_refresh">Dra ned for å oppdatere</string>
+  <string name="cube_ptr_refresh_complete">Oppdatert.</string>
+  <string name="cube_ptr_refreshing">Oppdaterer...</string>
+  <string name="cube_ptr_release_to_refresh">Slipp for å oppdatere på nytt</string>
+  <string name="cube_ptr_seconds_ago"> sekunder siden</string>
+  <string name="exp_buff">+%s%% opplevelse</string>
+  <string name="experience">Exp</string>
+  <string name="expired">Utløpt</string>
+  <string name="fail_reach_server">"Kan ikke koble til server"</string>
+  <string name="in_progress">Sender forespørsel…</string>
+  <string name="invalid_json">Forespørsel er en ugyldig JSON-strenge</string>
+  <string name="level">Level</string>
+  <string name="level_detail">Daglig oppgavegrense: %d</string>
+  <string name="level_exp_value" formatted="false">%d/%d</string>
+  <string name="level_info_format" formatted="false">"Level %d %d/%d
+%s"</string>
+  <string name="my_award">Mine belønnelser</string>
+  <string name="no_app">Vennligst installer appen først</string>
+  <string name="no_award">Ingen belønnelser</string>
+  <string name="no_network">"Kan ikke koble til nettverket"</string>
+  <string name="no_task">Alle oppgaver har blitt fullført</string>
+  <string name="passive_task">Passive oppgaver</string>
+  <string name="privilege">Privilegium</string>
+  <string name="promote">Level opp</string>
+  <string name="query_level_fail">"Kunne ikke hente oppgaveinfo"</string>
+  <string name="query_user_tasks_fail">"Kunne ikke hente oppgaveinfo"</string>
+  <string name="take_awarded_package">Løs inn</string>
+  <string name="take_awarded_package_failed">"Kunne ikke løse inn gave. Vent et minutt eller to og prøv igjen."</string>
+  <string name="task">Oppgaver</string>
+  <string name="task_begin">Pågår…</string>
+  <string name="task_completed">Fullført</string>
+  <string name="task_done">Ferdig</string>
+  <string name="task_limit">Ingen oppgaver igjen i dag, ser deg i morgen!</string>
+  <string name="task_not_completed">Not completed</string>
+  <string name="task_ongoing">Åågår</string>
+  <string name="task_score">%d poeng</string>
+  <string name="task_select_title">Velg en oppgave</string>
+  <string name="task_start">Start</string>
+  <string name="task_take_award">Motta belønninger</string>
+  <string name="today_task">"Dagens oppgaver"</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unlimited_task">Spesielle oppgaver</string>
+  <string name="upgraded">Lv opp!</string>
+  <string name="use">Bruk</string>
+  <string name="validity">Utløper den %s</string>
+</resources>
