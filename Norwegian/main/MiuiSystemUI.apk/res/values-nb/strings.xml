@@ -106,6 +106,7 @@
      <string name="ext_media_safe_unmount_notification_title">USB-lagring er trygt å fjerne</string>
      <string name="ext_media_unmountable_notification_message">USB-lagring er skadet. Den bør formatteres.</string>
      <string name="ext_media_unmountable_notification_title">USB-lagring er skadet</string>
+     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Plasseringlåst til GPS</string>
      <string name="gps_notification_searching_text">Søker etter GPS</string>
      <string name="headset_custom">Ignorer</string>
@@ -145,8 +146,14 @@
      <string name="notification_otg_unknow_in">OTG-enhet tilkoblet</string>
      <string name="notification_otg_unknow_out">OTG-enhet frakoblet</string>
      <string name="notification_template_text">" har et varsel. Trykk for å vise."</string>
+     <string name="oldman_airplane_mode_text">airplane</string>
+     <string name="oldman_incall_text">incall</string>
+     <string name="oldman_status_bar_time_format_12">h:mm</string>
+     <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Rejecting call</string>
      <string name="return_to_incall_screen">Trykk for å gå tilbake til anrop</string>
+     <string name="screen_button_notification_text">For å skru dem på, trykk på Hjem og PÅ-knappen samtidig.</string>
+     <string name="screen_button_notification_title">Navigeringsknapper er av</string>
      <string name="screenshot_failed_text">"Kunne ikke lagre skjermbilde. Lagring er muligens i bruk."</string>
      <string name="screenshot_saved_text">Trykk for å se ditt skjermbilde.</string>
      <string name="screenshot_saved_title">Skjermbilde tatt.</string>
