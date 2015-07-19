@@ -258,12 +258,12 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="background_data_dialog_message">Deaktivering av bakgrunnsdata sparer batteri og reduserer datatrafikken. Det kan hende enkelte apper fortsatt bruker tilkoblingen for bakgrunnsdata.</string>
      <string name="background_data_dialog_title">Vil du deaktivere bakgrunnsdata?</string>
      <string name="background_data_summary">Apper kan når som helst synkronisere, sende og motta data</string>
-     <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
-     <string name="background_location_control_title">Background location access</string>
+     <string name="background_location_control_summary">"Tillater eller forhindrer apper å hente enhetens plasseringsinfo i bakgrunnen"</string>
+     <string name="background_location_control_title">Plasseringstilgang i bakgrunnen</string>
      <string name="background_location_deselect_apps">Unselect all</string>
-     <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
-     <string name="background_location_requests_title">Allow background location</string>
-     <string name="background_location_select_apps">Select all</string>
+     <string name="background_location_requests_summary">"Tillater apper å bruke plasseringstjenesten når du ikker bruker dem</string>
+     <string name="background_location_requests_title">Tillat plasseringstilgang i bakgrunnen</string>
+     <string name="background_location_select_apps">Velg alle</string>
      <string name="background_process_stop_description">Dette er en gammel app-prosess som fortsatt kjører i tilfelle den trengs igjen. Det er vanligvis ingen grunn til å stoppe den.</string>
      <string name="backup_configure_account_default_summary">Ingen konto lagrer for øyeblikket sikkerhetskopierte data</string>
      <string name="backup_configure_account_title">Sikkerhetskopikonto</string>

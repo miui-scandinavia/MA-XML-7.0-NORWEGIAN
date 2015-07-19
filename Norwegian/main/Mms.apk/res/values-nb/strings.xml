@@ -479,7 +479,7 @@
      <string name="message_too_big_for_video">Meddelse for stor til å legge ved video.</string>
      <string name="message_type_label">"Type: "</string>
      <string name="messagelist_sender_self">Meg</string>
-     <string name="mipub_messaging_entry_title">Mi Messages</string>
+     <string name="mipub_messaging_entry_title">Mi-meldinger</string>
      <string name="missing_name">(Uten navn)</string>
      <string name="mms">MMS</string>
      <string name="more_string">+%1$s</string>

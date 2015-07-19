@@ -23,7 +23,9 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="handy_mode_summary">For å lukke, trykk på den tomme plassen utenfor skjermen</string>
      <string name="handy_mode_title">En-håndsmodus</string>
      <string name="key_btn_ok">OK</string>
-     <string name="key_btn_space">Mellrom</string>
+     <string name="key_btn_space">Mellomrom</string>
+     <string name="location_usage_restricted_body">Trykk for å fjerne begrensning.</string>
+     <string name="location_usage_restricted_title">Bakgrunnsplasssering begrenset</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster nullstilt</string>
      <string name="lockscreen_access_pattern_detected">Mønster fullført</string>
@@ -33,7 +35,9 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="miui">miui</string>
      <string name="paste">Lim inn</string>
      <string name="perm_send_push_dspt">Tillat Mi push-meldinger</string>
-     <string name="perm_send_push_lab">Send push-melding</string>
+     <string name="perm_send_push_lab">Send push-melding</string
+     <string name="permdesc_manageLocationPolicy">Tillater appen å håndtere plasseringsregler og definere app-spesifikke regler.</string>
+     <string name="permlab_manageLocationPolicy">hånter plasseringsregler</string>>
      <string name="reboot_confirm_title">Telefonen din vil starte på nytt.</string>
      <string name="reboot_progress">Starter på nytt…</string>
      <string name="replace">Ersatt</string>
