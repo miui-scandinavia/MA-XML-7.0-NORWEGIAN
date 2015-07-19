@@ -25,7 +25,6 @@
      <string name="input_puk_code">Skriv PUK</string>
      <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
      <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
-     <string name="lock_screen_date">EEE, MMMM dd</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
      <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>

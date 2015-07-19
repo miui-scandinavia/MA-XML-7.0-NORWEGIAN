@@ -128,7 +128,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="internet_disconnected">Ingen datatilkobling</string>
      <string name="less_flow_mode">Bruk mobildata for å synke</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. For å vise denne informasjonen nå, gå til %s."</string>
-     <string name="loading">Laster…</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="loading_hint">Laster</string>
      <string name="master_alert_notif_dspt_add">"%s elementer venter på å bli synkronisert</string>
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
@@ -219,7 +219,7 @@ Trykk på Innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_single_dspt">Bruk Mi Cloud for å synkronisere data, finn din enhet, og dele ting med andre.</string>
      <string name="micloud_space_applist_detail">Håndter apper på hjemskjermen din</string>
      <string name="micloud_space_applist_title">Hånter apper</string>
-     <string name="micloud_space_duokan_detail">Håndter ditt Duokan--innhold ved hjelp av Duokan-appen.</string>
+     <string name="micloud_space_duokan_detail">Last ned og håndter e-bøker ved hjelp av Duokan-appen.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">&lt;u&gt;Hva skjer hvis jeg går tom for plass?&lt;/u&gt;</string>
      <string name="micloud_space_soundrecorder_detail">Håndter opptak lagret på din enhet</string>

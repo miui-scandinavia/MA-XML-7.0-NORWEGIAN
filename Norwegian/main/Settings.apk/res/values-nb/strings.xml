@@ -1828,7 +1828,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_general">Generelle</string>
      <string name="music_dirac_mode_general_earbuds">Generelle</string>
      <string name="music_dirac_mode_general_inear">Generelle i-øre</string>
-     <string name="music_dirac_mode_headset">Mi Headphones</string>
+     <string name="music_dirac_mode_headset">Mi-hodetelefoner</string>
      <string name="music_dirac_mode_in_ear">Mi i-øre</string>
      <string name="music_dirac_mode_off">Dirac av</string>
      <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -1836,7 +1836,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Enkel utgave</string>
      <string name="music_dirac_mode_piston_standard">Standard-utgave</string>
-     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+     <string name="music_dirac_mode_piston_youth">Ungdomsutgave</string>
      <string name="music_dolby_dialogue_enhancer">Dialog-forbedrer</string>
      <string name="music_dolby_effects">Dolby-effekter</string>
      <string name="music_dolby_eq_enter_alert_msg">Du kan bare bruke equalizeren i Dolby musikk-modus. Aktiver det nå?</string>
@@ -1873,8 +1873,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_hifi_summary">Reduser støy og forvrenging og forbedre lydkvaliteten</string>
      <string name="music_hifi_title">Hi-Fi-lyd</string>
      <string name="music_hifi_volume">Hi-Fi-volum</string>
-     <string name="music_mi_effect_summary">Alltid bruk MiSound-forbedrer ved bruk av høytaler</string>
-     <string name="music_mi_effect_title">Bruk MiSound-forbedrer</string>
+     <string name="music_mi_effect_summary">Bruk Mi-lydforbedrer ved bruk av hodetelefoner</string>
+     <string name="music_mi_effect_title">Mi-lydforbedrer</string>
      <string name="music_title_dolby_control">DOLBY</string>
      <string name="musicfx_title">Musikkeffekter</string>
      <string name="mvno_match_data">MVNO-verdi</string>

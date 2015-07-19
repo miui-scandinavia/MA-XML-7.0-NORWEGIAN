@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="activity_not_found">"App ikke installert på din enhet"</string>
-     <string name="app_already_exist">App already exists</string>
+     <string name="app_already_exist">App eksisterer allerede</string>
      <string name="app_being_backup_message">"App blir sikkerhetskopiert"</string>
      <string name="app_being_restored_message">App blir gjenopprettet</string>
      <string name="app_category_books">Bøker</string>
@@ -111,7 +111,7 @@
      <string name="gadget_photo_24_label">Bilde 4x2</string>
      <string name="gadget_photo_44_label">Bilde 4x4</string>
      <string name="gadget_photo_label">Bilde</string>
-     <string name="gadget_power_clear_button_label">Super Cleaner</string>
+     <string name="gadget_power_clear_button_label">Super-oppryder</string>
      <string name="gadget_search_label">Søk</string>
      <string name="gadget_weather_app_not_installed">"Trykk for å installere MIUI-vær"</string>
      <string name="gadget_weather_aqi_title">Luftkvalitet</string>
@@ -122,7 +122,6 @@
      <string name="gadget_weather_loading">Ingen værdata</string>
      <string name="gadget_weather_low_temp">lav temperatur</string>
      <string name="gadget_weather_theme_type">Widget type</string>
-     <string name="gadget_weather_time_format">EEE d/M</string>
      <string name="gadget_weather_title">Vær</string>
      <string name="gadget_weather_title_14">Vær 4X1</string>
      <string name="gadget_weather_title_24">Vær 2X4</string>
@@ -193,11 +192,11 @@
      <string name="preferences_general_title">Generelle innstillinger</string>
      <string name="preferences_title">Launcher innstillinger</string>
      <string name="process" />
-     <string name="recommend_apps_default_title">Empty</string>
-     <string name="recommend_apps_notice">Recommended apps</string>
-     <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen.</string>
-     <string name="recommend_apps_switch_title">Recommended apps</string>
-     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature this off, touch this folder's name."</string>
+     <string name="recommend_apps_default_title">Tom</string>
+     <string name="recommend_apps_notice">Anbefalte apper</string>
+     <string name="recommend_apps_switch_summary">Vis anbefalte apper på bunnen av skjermen.</string>
+     <string name="recommend_apps_switch_title">Anbefalte apper</string>
+     <string name="recommend_apps_tips">"Denne funksjonen trenger å koble til Internett for å fungere normalt. For å skru av denne funksjonen, trykk på mappens navn."</string>
      <string name="reset_scene_prompt">Layout vil bli nullstilt</string>
      <string name="scroll_tip_format_when_announce_accessibility">Side %1$d, %2$d programmer</string>
      <string name="select_all">Velg alle</string>

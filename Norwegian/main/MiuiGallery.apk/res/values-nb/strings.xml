@@ -590,14 +590,13 @@ venner."</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
      <string name="doodle">Krusseduller</string>
-     <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
      <string name="doodle_tooltip">Trykk for å krussedulle</string>
      <string name="download">Last ned</string>
      <string name="download_fail">Nedlasting feilet!</string>
      <string name="download_fail_confirm_continue">Nedlastinv av %s feilet. Fortsett?</string>
      <string name="download_refocus_data">Last ned refokus data</string>
-     <string name="download_without_wifi_msg">"Using your mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
-     <string name="download_without_wifi_title">Data usage warning</string>
+     <string name="download_without_wifi_msg">"Bruk av mobildataforbindelse for å laste ned bilder vil øke ditt dataforbruk. Hvis du overskrider abonnementets datagrense, kan operatøren belaste deg ytterlige avgifter."</string>
+     <string name="download_without_wifi_title">Advarsel om dataforbruk</string>
      <string name="duotone">Dobbelt-tone</string>
      <string name="duration">Lengde</string>
      <string name="early_bird">Earlybird</string>
@@ -644,8 +643,7 @@ venner."</string>
      <string name="face_albumset_empty">Tom.</string>
      <string name="face_albumset_loading_data">Laster data…</string>
      <string name="face_albumset_pending_enable_tip">Vil sortere bilder når enheten er tilkoblet Wi-Fi</string>
-     <string name="face_albumset_use_tip">"Sorter bilder etter folk som er i dem
- Dette blir fullført automatisk av en datamaskin, uten menneskelig innblandelse"</string>
+     <string name="face_albumset_use_tip">Automatisk sorter bilder etter folkene som er i dem.</string>
      <string name="face_move_dialog_title">Velg et album</string>
      <string name="facelift">Ansiktsglød</string>
      <string name="facetan">Ansiktsfarge</string>
