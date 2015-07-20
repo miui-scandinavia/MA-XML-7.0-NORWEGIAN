@@ -35,7 +35,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="miui">miui</string>
      <string name="paste">Lim inn</string>
      <string name="perm_send_push_dspt">Tillat Mi push-meldinger</string>
-     <string name="perm_send_push_lab">Send push-melding</string
+     <string name="perm_send_push_lab">Send push-melding</string>
      <string name="permdesc_manageLocationPolicy">Tillater appen å håndtere plasseringsregler og definere app-spesifikke regler.</string>
      <string name="permlab_manageLocationPolicy">hånter plasseringsregler</string>
      <string name="reboot_confirm_title">Telefonen din vil starte på nytt.</string>
