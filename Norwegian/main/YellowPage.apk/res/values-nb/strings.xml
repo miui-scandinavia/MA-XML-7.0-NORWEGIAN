@@ -2,6 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="about_fraud_num_online_identification">Om denne funksjonen</string>
+     <string name="about_phone_event">Om tjenesteinfo</string>
      <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
      <string name="about_telephone_fraud">Om telefonsvindel</string>
      <string name="account_address">Adresser</string>
@@ -91,6 +92,7 @@
      <string name="express_addressee_info">Mottaker info</string>
      <string name="express_addressee_name">Navn på mottaker</string>
      <string name="express_addressee_region">Mottaker&gt;region</string>
+     <string name="express_banner_header">%1$s / Spooringsnummer</string>
      <string name="express_cancel_order">Avbryt</string>
      <string name="express_company_list_empty">Ingen selskaper</string>
      <string name="express_company_phone_prefix">"Kontakt: "</string>
@@ -155,6 +157,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_order_internal_id">Ordre #</string>
      <string name="express_order_ongoing">Kjøper…</string>
      <string name="express_order_result">Resultat</string>
+     <string name="express_order_state">%1$s / %2$s</string>
      <string name="express_order_state_accepted">Akseptert</string>
      <string name="express_order_state_allograph">Signert</string>
      <string name="express_order_state_cancelled">Avbrutt</string>
@@ -196,6 +199,8 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="fail_to_add_account">"Kunne ikke legge til konto"</string>
      <string name="follow_express">Følg %1$s</string>
      <string name="follow_express_success">Følger nå %1$s.</string>
+     <string name="follow_label">Follow %1$s</string>
+     <string name="follow_success">Now following %1$s.</string>
      <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>
      <string name="general_btn_follow">Følg</string>
@@ -205,9 +210,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="general_delete_recent_ok">Nyeste fjernet</string>
      <string name="general_favorite_ok">Favoritt lagt til</string>
      <string name="general_favorite_title">Favoritter</string>
-     <string name="general_follow_hint">"Når du har fulgt %1$s, kan du motta informasjon om %1$s, og få flere tjenester fra %1$s.
-
-Bekreft at du vil følge denne gule siden?"</string>
+     <string name="general_follow_hint">Følg %1$s for relevant oppdateringer</string>
      <string name="general_follow_hint_title">Hint</string>
      <string name="general_menu_delete_recent">Slett nyeste</string>
      <string name="general_menu_unfavorite">Fjern fra favoritter</string>
@@ -285,17 +288,18 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="notify_connect_title">Varsel om internett-tilkobling</string>
      <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter nettressurser</string>
-     <string name="order_date_label">Ordredato: </string>
+     <string name="order_date_label">Ordredato: %1$<</string>
      <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>
-     <string name="order_id_label">Ordre-ID:</string>
+     <string name="order_id_label">Ordrenummer: %1$s</string>
+     <string name="order_info">Order info</string>
      <string name="order_merchant_title">Mine ordre</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Ingen relaterte ordre</string>
-     <string name="order_price_label">Ordre-pris:</string>
-     <string name="order_product_name_label">Produktnavn: </string>
+     <string name="order_price_label">Ordre-pris: %1$s</string>
+     <string name="order_product_name_label">Produktnavn: %1$s</string>
      <string name="order_status">%s</string>
-     <string name="order_status_label">Ordre-status:</string>
+     <string name="order_status_label">Ordre-status: %1$s</string>
      <string name="order_type_recharge">Fyll opp</string>
      <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>
      <string name="packages_pay">Kjøp</string>
@@ -311,6 +315,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="payment_failed_common_problems">Et problem oppstod under betaling.</string>
      <string name="payment_unknown_status_summary">Kontroller nettverkstilkoblingen og prøv på nytt.</string>
      <string name="payment_unknown_status_title">"Kunne ikke bekreft betalingsstatus"</string>
+     <string name="phone_event_setting_notice_text">"Gule sider vil laste opp verifiserte tjenestenummer (som din telefonleverandør) til Mi sine servere, så du kan motta tjenesterelaterte oppdateringer."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d total</string>
      <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
@@ -321,6 +326,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="recharge_actual_price">"Pris: "</string>
      <string name="recharge_charge_range">Pris: ¥%1$s-%2$s</string>
      <string name="recharge_charge_value">Pris: ¥%s</string>
+     <string name="recharge_follow_name">Fyll opp</string>
      <string name="recharge_history">Oppfyllingshistorikk</string>
      <string name="recharge_history_empty">Ingen oppfyllingshistorikk</string>
      <string name="recharge_input_phone_title">Legg inn telefonnummer (China mobile, China Unicom eller China Telecom)</string>
@@ -339,6 +345,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="recharge_payment_result_ok_title">La til RMB%s.</string>
      <string name="recharge_payment_result_progress_summary">Sjekker betalingsresultat…</string>
      <string name="recharge_phone">Oppfyllingsnummer:</string>
+     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Telefonnummeret burde ikke være tomt</string>
      <string name="recharge_phone_number_error">Ugyldig telefonnummer.</string>
      <string name="recharge_select_money_title">Vennligst velg oppfyllingsmengde</string>
@@ -508,6 +515,7 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="resource_update">Oppdater</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Venter på nedlastning...</string>
+     <string name="rmb">RMB</string>
      <string name="scan">Skann</string>
      <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
 "</string>
@@ -534,6 +542,8 @@ Bekreft at du vil følge denne gule siden?"</string>
      <string name="toast_finish_delete_call_log">Anropshistorikk er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
      <string name="try_again">Prøv igjen</string>
+     <string name="turn_on_phone_event_summary">Last opp telefonstatus med tjenestenumre</string>
+     <string name="turn_on_phone_event_title">Motta tjenesteinfo</string>
      <string name="turn_on_smart_antispam_hint">Etter aktivering, vil numrene bli identifisert. Hvis ikke identifisert, kan du merke den for å identifisere falske samtaler.</string>
      <string name="turn_on_smart_antispam_summary_off">Bare les de lokale forhåndsinnstillte nummerene</string>
      <string name="turn_on_smart_antispam_summary_on">Identifiser ukjente numre og laste opp dine spam nummere</string>

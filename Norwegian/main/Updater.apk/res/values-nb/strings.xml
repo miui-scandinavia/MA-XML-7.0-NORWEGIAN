@@ -164,6 +164,10 @@ http://zhushou.xiaomi.com"</string>
      <string name="sina_share_success">Sending velykket!</string>
      <string name="sina_token_expired_warning">Weibo kontoen er utløpt, vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo kontoen er ugyldig, vennligst koble til på nytt</string>
+     <string name="sogou_uninstall_msg">Sogou-tastatur (Mi-utgave) er ikke lenger kompatibel med MIUI 6. Bytt tastatur eller oppdater til en nyere versjon av Sogou.</string>
+     <string name="sogou_uninstall_negative_button">Oppdater Sogou</string>
+     <string name="sogou_uninstall_positive_button">Bytt tastatur</string>
+     <string name="sogou_uninstall_title">Tastatur-kompabilitet</string>
      <string name="space_not_enough_msg">"Enheten din er for full til å laste ned denne oppdateringen. Rydd opp på enhetens lagringsplass og prøv igjen."</string>
      <string name="space_not_enough_title">Ikke nok lagringsplass</string>
      <string name="stable_build">Stabil bygg</string>

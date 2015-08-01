@@ -52,8 +52,8 @@
      <string name="account_user_using_facebook_avatar">Bruk Facebook profilbilde</string>
      <string name="account_user_using_qq_avatar">Bruk QQ profilbilde</string>
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
-     <string name="account_vip_level">VIP-nivå</string>
-     <string name="account_vip_task">Oppgave</string>
+     <string name="account_vip_level">Konto</string>
+     <string name="account_vip_task">Fremgang</string>
      <string name="account_xiaomi_service">Tjenester</string>
      <string name="activating">Aktiverer…</string>
      <string name="add_account">Koble til konto</string>
@@ -386,7 +386,7 @@ For å aktivere din konto, følg
      <string name="passport_wrong_vcode">Koden du skrev er feil</string>
      <string name="passport_xiaomi_account_dspt">Bruk din Mi-konto for å logge inn på Mi Cloud, MIUI Temabutikk, og andre Mi-tjenester, fra hvor som helst.</string>
      <string name="passport_xiaomi_account_sec_dspt" />
-     <string name="passport_xiaomi_account_sec_dspt2" />
+     <string name="passport_xiaomi_account_sec_dspt2">Innlogging til din Mi-konto krever en internettforbindelse. I tillegg vil plasseringstilgang, Mi Cloud og Mi VIP bli skrudd på automatisk.</string>
      <string name="password">Skriv inn passordet</string>
      <string name="payment_settings">Betalingsinstillinger</string>
      <string name="phone_activated">%s aktivert</string>

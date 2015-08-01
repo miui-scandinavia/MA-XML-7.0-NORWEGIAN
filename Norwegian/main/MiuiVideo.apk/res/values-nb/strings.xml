@@ -22,6 +22,7 @@
      <string name="adjust_position_prev_media_notice">Forrige</string>
      <string name="ads_control">Reklamekontroll</string>
      <string name="ads_control_desc">Når valgt, vis reklame når programmet startes</string>
+     <string name="ads_ignore">Ignorer</string>
      <string name="airkan_control_device_des">Du kan styre avspillingen via knappen i bunnen</string>
      <string name="airkan_device_xiaomi_phone">Mi-telefon</string>
      <string name="airkan_playing">spiller</string>
@@ -44,6 +45,8 @@
      <string name="app_update_background">Oppdater programmet i bakgrunnen</string>
      <string name="app_upgrade_version">Ny versjon</string>
      <string name="app_version">Programversjon</string>
+     <string name="app_wifi_mode">Autooppgrader med Wi-Fi</string>
+     <string name="app_wifi_mode_summary">Auto-oppgrader til seneste versjon når du bruker Wi-Fi.</string>
      <string name="area_colon">"Land: "</string>
      <string name="area_unknown">Ukjent</string>
      <string name="authenticated_failed">Innlogging feilet</string>

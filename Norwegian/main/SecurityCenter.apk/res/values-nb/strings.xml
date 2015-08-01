@@ -95,6 +95,7 @@
      <string name="brightness_auto_adjust_on">Optimaliser lysstyrke for alle tilgjengelige lys</string>
      <string name="btn_text_cleanup_all">Rydd opp</string>
      <string name="btn_text_done">Ferdig</string>
+     <string name="btn_text_power_cleanup">Dyprydding</string>
      <string name="btn_text_quick_cleanup">Rydd opp</string>
      <string name="btn_text_quick_optimize">Optimaliser</string>
      <string name="btn_text_quick_scan">Skann</string>
@@ -297,6 +298,7 @@
      <string name="hints_virus_lib_update_default_summary">Siste oppdateringstid ukjent</string>
      <string name="hints_virus_name_title">Virus:</string>
      <string name="hints_virus_scan_result_descx">"Denne appen er en stor sikkerhetstrussel mot telefonen din."</string>
+     <string name="history_details_title">Historikk-detaljer</string>
      <string name="info_and_call">Anrop og meldinger</string>
      <string name="item_app_permission">App-tillatelser</string>
      <string name="item_dev_mode">Utvikleralternativer</string>
@@ -426,12 +428,12 @@
      <string name="power_center_custom_summary_default">Forbedre batteritiden med tilpassede profiler</string>
      <string name="power_center_custom_title">Batteriprofiler</string>
      <string name="power_center_low_battery_summary_default">Bytt profil når batteriet er lavt</string>
-     <string name="power_center_low_battery_summary_dynamic">Ved %1$d%% batteri
- Bytt til %2$s</string>
+     <string name="power_center_low_battery_summary_dynamic">"Ved %1$d%% batteri
+ Bytt til %2$s"</string>
      <string name="power_center_low_battery_title">Batterisparer</string>
      <string name="power_center_on_time_summary_default">Bytt batteriprofil på planlagt tidspunkt</string>
-     <string name="power_center_on_time_summary_dynamic">Fra %1$s til %2$s
- Bytt til %3$s</string>
+     <string name="power_center_on_time_summary_dynamic">"Fra %1$s til %2$s
+ Bytt til %3$s"</string>
      <string name="power_center_on_time_title">Planlegg profilbytte</string>
      <string name="power_center_ontime_boot">Slå på-tid</string>
      <string name="power_center_ontime_shutdown">Slå av-tid</string>

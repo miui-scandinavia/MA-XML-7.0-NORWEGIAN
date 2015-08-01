@@ -22,6 +22,7 @@
      <string name="backup_theme_success_message">Gjeldende temainnstillinger har blitt sikkerhetskopiert</string>
      <string name="basic_info">Enkel info</string>
      <string name="change_wallpaper">Skift bakgrunnsbilde</string>
+     <string name="choose_new_themes">Ny temaer</string>
      <string name="close">Lukk</string>
      <string name="component_category_finest_title">Utvalgte</string>
      <string name="component_category_more_title">Mer</string>
@@ -89,6 +90,8 @@
      <string name="online_no_network">"Kan ikke koble til nettverket"</string>
      <string name="online_search_hint">Søk etter online elementer</string>
      <string name="payment_info">Mi Kreditter</string>
+     <string name="present_local_themes">Nedlastede</string>
+     <string name="present_online_themes">Online</string>
      <string name="purchased_list">Kjøpte</string>
      <string name="purchased_list_format">%1$s kjøpte</string>
      <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen.</string>

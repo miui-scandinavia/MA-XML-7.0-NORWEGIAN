@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="DOWNLOAD_UNIT_BIT">B</string>
+     <string name="DOWNLOAD_UNIT_GB">GB</string>
+     <string name="DOWNLOAD_UNIT_KB">KB</string>
+     <string name="DOWNLOAD_UNIT_MB">MB</string>
+     <string name="DOWNLOAD_UNIT_TB">TB</string>
      <string name="Only_the_wifi">Bare bruk Wi-Fi</string>
      <string name="add_flow_fail_haveget_msg">Prøveperiod er utløpt.</string>
      <string name="add_flow_fail_vip_msg">Xunlei-nedlastingsakselereator er på</string>
@@ -73,14 +78,16 @@
      <string name="download_title_sorted_by_date">nedlastinger - Sortert via tid</string>
      <string name="download_title_sorted_by_size">nedlastinger - Sortert via størrelse</string>
      <string name="download_wait_connect">Venter på tilkobling for å laste ned</string>
-     <string name="download_when_network_connected">Last ned når netverksforbindelse er tilgjengelig</string>
-     <string name="downloaded_empty">No downloaded content</string>
-     <string name="downloading_empty">No downloading content</string>
+     <string name="download_when_network_connected">Last ned når nettverksforbindelse er tilgjengelig</string>
+     <string name="downloaded_empty">Tom</string>
+     <string name="downloading_empty">Tom</string>
      <string name="downloads_operating">Arbeider</string>
      <string name="dredge_xunlei_account">Lag en Xunlei-konto</string>
      <string name="editmode_menu_delete">Slett</string>
      <string name="editmode_menu_share">Del</string>
      <string name="experience_xunlei_account_speed">Xunlei-medlemmer kan nyte lynkjappe nedlastninger.</string>
+     <string name="expire_notification_msg">Xunlei-medlemskap utløper snart.</string>
+     <string name="expire_today_notification_msg">Xunlei-medlemskap utløper i dag.</string>
      <string name="free_high_speed_channel">Xunlei-akselerator (gratis)</string>
      <string name="free_speedup_exp">Prøv Xunlei-nedlastningsakselerator (gratis)</string>
      <string name="get_account_dialog_msg">Henter kontoinfo…</string>
@@ -102,6 +109,9 @@
      <string name="mi_money_">Mi-kreditt</string>
      <string name="missing_title">Ukjent</string>
      <string name="no_downloads">Ingen nedlastinger.</string>
+     <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
+     <string name="no_vip_show_info">"Speed up downloads
+across all your devices with Xunlei"</string>
      <string name="one_month">En måned</string>
      <string name="open_download">Åpen</string>
      <string name="open_xunlei_speed_service">Start Xunlei-nedlastningsakelerator</string>
@@ -133,7 +143,7 @@
      <string name="recommend_installing">Installerer…</string>
      <string name="recommend_loading">Laster…</string>
      <string name="recommend_open">Åpne</string>
-     <string name="recommend_other_downloads">Populær</string>
+     <string name="recommend_other_downloads">Populære</string>
      <string name="recommend_paused">Pauset</string>
      <string name="recommend_prepare">Venter…</string>
      <string name="recommend_show_other_downloads">Vis populær</string>
@@ -145,7 +155,15 @@
      <string name="select_all">Rens valgte</string>
      <string name="select_operation_items">Velg elementer</string>
      <string name="selected_count">Valgte %1$d ut av %2$d</string>
-     <string name="show_more">More(%s)</string>
+     <string name="show_more">Vis %s mer</string>
+     <string name="start_xunlei_speedup_info">Logg inn for å akselerere dine nedlastninger.</string>
+     <string name="third_web_cancel">Avbryt</string>
+     <string name="third_web_confirm">OK</string>
+     <string name="third_web_default">Husk denne plasseringen</string>
+     <string name="third_web_filename_hint">Navn</string>
+     <string name="third_web_filesize">Størrelse</string>
+     <string name="third_web_savepath">Plassering</string>
+     <string name="third_web_title">Lagre</string>
      <string name="toast_xunlei_engine_open">Xunlei-nedlastingsakselerator er på</string>
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
@@ -154,6 +172,12 @@
      <string name="unbind_xunlei_success">Logget ut av Xunlei-konto</string>
      <string name="valid_in_this_month">bare gyldig i denne måneden</string>
      <string name="vip_auto_speedup">Xunlei-nedlastningsakselerator er på</string>
+     <string name="vip_expire_show_info">"Xunlei-medlemskap utløpt.
+Forny nå og få 5% rabatt."</string>
+     <string name="vip_expire_today_show_info">"Xunlei-medlemskap utløpt.
+Forny nå og få 5% rabatt."</string>
+     <string name="vip_show_info">"5 millioner meldemmer.
+Akselerer nedlastninger på tvers av dine enheter."</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
      <string name="xunlei_close_tips_button">Skru på</string>

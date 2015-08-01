@@ -48,7 +48,7 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
      <string name="cloud_back_up_network_unavailable">"Kunne ikke fjerne. Koble til Wi-Fi og prøv igjen."</string>
-     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi av  apper hver %1$s når tilkoblet Wi-Fi
+     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi av apper hver %1$s når tilkoblet Wi-Fi
 Siste sikkerhetskopi den: %2$s"</string>
      <string name="cloud_back_up_open_info_no_backuptime">Ta sikkerhetskopi av apper hver %1$s når tilkoblet Wi-Fi</string>
      <string name="cloud_back_up_remove_success">Sikkerhetskopi slettet</string>
@@ -264,9 +264,12 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="mx_dspt_provision_privacy_2_sim">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for de to SMS-meldingene brukt for å aktivere denne tjenesten.
 
 Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
-     <string name="mx_dspt_provision_with_voip">Ring andre MIUI-brukere gratis ved hjelp av din internett-tilkobling. Du kan skru denne funksjonen av og på når som helst i Innstillinger.</string>
+     <string name="mx_dspt_provision_with_voip">"Ring andre MIUI-brukere gratis ved hjelp av din internett-tilkobling. Du kan skru denne funksjonen av og på når som helst i Innstillinger. VOIP tilbys av Weihui
+     Vis Weihui sin personvernspolitikk"</string>
+     <string name="mx_dspt_provision_with_voip2">Personvernspolitikk</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="mx_sub_dspt_provision_with_voip">Internett-ringing</string>
+     <string name="mx_voip_dspt">Mi-kommunikasjon</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>

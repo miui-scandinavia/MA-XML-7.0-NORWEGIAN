@@ -2049,8 +2049,8 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_discharge_remaining">%1$s gjenstår</string>
      <string name="power_discharging_duration">%1$d %% – ca. %2$s gjenstår</string>
      <string name="power_flashlight">Lommelykt</string>
-     <string name="power_hide_mode_summary">Kontroller oppførselen til programmer i bakgrunn, minsker strømforbruk</string>
-     <string name="power_hide_mode_title">Skjult modus</string>
+     <string name="power_hide_mode_summary">"Spar batteri ved å begrense individuelle apper sine bakgrunnsprosesser, Wi-Fi og mobildataforbindelser, og GPS"</string>
+     <string name="power_hide_mode_title">Håndter apper sitt batteriforbruk</string>
      <string name="power_idle">Enheten ikke i bruk</string>
      <string name="power_mgr">Ytelse</string>
      <string name="power_mode">Ytelsesinnstillinger</string>
@@ -2344,6 +2344,7 @@ Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="runningservices_settings_title">Kjørende tjenester</string>
      <string name="scan_list_label">Skannresultater:</string>
      <string name="screen">Skjerm</string>
+     <string name="screen_color_and_optimize">Farger &amp; kontrast</string>
      <string name="screen_color_temperature">Farger</string>
      <string name="screen_color_temperature_and_saturation">Farger &amp; metning</string>
      <string name="screen_compatibility_label">Skjermkompatibilitet</string>
@@ -3367,6 +3368,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_eap_ca_cert">CA-sertifikat</string>
      <string name="wifi_eap_identity">Identitet</string>
      <string name="wifi_eap_method">EAP-metode</string>
+     <string name="wifi_eap_sim_simcard">Velg SIM</string>
      <string name="wifi_eap_user_cert">Klientsertifikat</string>
      <string name="wifi_empty_list_user_restricted">Du har ikke tillatelse til å endre Wi-Fi-nettverk.</string>
      <string name="wifi_empty_list_wifi_off">Hvis du vil se tilgj. nettverk, slår du på Wi-Fi.</string>

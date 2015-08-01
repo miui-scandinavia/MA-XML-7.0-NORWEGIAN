@@ -153,6 +153,8 @@
      <string name="event_info_end">Slutter\u0009\u0009\u0009</string>
      <string name="event_info_organizer">Organisator:</string>
      <string name="event_info_reminders_label">Påminnelser</string>
+     <string name="event_info_reminders_label_1">Påminnelse</string>
+     <string name="event_info_reminders_label_more">Påminnelse %d</string>
      <string name="event_info_repeat">"Gjentakelse: "</string>
      <string name="event_info_title">Vis hendelse</string>
      <string name="event_info_title_invite">Møteinvitasjon</string>

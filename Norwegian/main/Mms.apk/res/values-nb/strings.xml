@@ -479,7 +479,7 @@
      <string name="message_too_big_for_video">Meddelse for stor til å legge ved video.</string>
      <string name="message_type_label">"Type: "</string>
      <string name="messagelist_sender_self">Meg</string>
-     <string name="mipub_messaging_entry_title">Mi-meldinger</string>
+     <string name="mipub_messaging_entry_title">Mi-melding</string>
      <string name="missing_name">(Uten navn)</string>
      <string name="mms">MMS</string>
      <string name="more_string">+%1$s</string>
@@ -496,6 +496,7 @@
      <string name="multimedia_notification">Beskjed om MMS</string>
      <string name="mx2_type_description">[%s]</string>
      <string name="mx_activate_dlg_title">Aktiver Mi-melding</string>
+     <string name="mx_activate_dlg_title_ex">Aktiver Mi-melding &amp; tale</string>
      <string name="mx_activate_error_malformed_info">Du må aktivere Mi-meldinger.</string>
      <string name="mx_activate_error_server">Server nektet aktivering</string>
      <string name="mx_activate_error_sim_change">SIM-kort endret, reaktivering av Mi-meldinger kreves</string>
@@ -517,7 +518,10 @@
      <string name="mx_current_status">Innstillinger for dataforbruk</string>
      <string name="mx_dspt">Send meldinger til andre MIUI-brukere uten å pådra deg ekstra kostnader</string>
      <string name="mx_dspt_provision">Mi-melding lar deg sende meldingerr til andre MIUI-brukere uten å påløpe deg SMS-kostnader. Operatøren din kan belaste deg for en SMS-melding brukt for å aktivere tjenesten.</string>
+     <string name="mx_dspt_provision_ex">"Send meldinger og ring til andre MIUI-brukere uten løpende avgifter fra operatøren din. VoIP er støttet av Weihui. Se Weihui sin personvernspolitikk."</string>
+     <string name="mx_dspt_provision_ex2">Personvernspolitikk</string>
      <string name="mx_enable">Mi-meldinger</string>
+     <string name="mx_enable_ex">Mi-melding &amp; tale</string>
      <string name="mx_enable_popup_msg">Send meldinger via internett til andre MIUI-brukere uten ekstra å pådra deg ekstra kostnader.</string>
      <string name="mx_msg">Mi-melding</string>
      <string name="mx_offline">Offline</string>
@@ -733,7 +737,8 @@
      <string name="search_show_more_results">Vis flere</string>
      <string name="searching_vcard_message">Søker etter vCard-data i lagringsenheten …</string>
      <string name="secs">sek</string>
-     <string name="security_alert_desc">"Denne avsenderen finnes ikke i din kontakter. "&lt;u&gt;&lt;font color="red"&gt;Rapporter dette nummeret&lt;/font&gt;&lt;/u&gt;</string>
+     <string name="security_alert_desc"><u><font color="red">Denne avsenderen finnes ikke i din kontakter.</font></u></string>
+     <string name="security_alert_desc_highlight">Rapportér dette nummeret</string>
      <string name="security_alert_dialog_desc">Send dette nummeret (%s) og meldingen til Xiaomi for godkjennelse.</string>
      <string name="security_alert_dialog_title">Rapporter</string>
      <string name="select_audio">Velg lyd</string>

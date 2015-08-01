@@ -63,8 +63,8 @@
      <string name="bl_no_block_call">Ingen blokkerte anrop.</string>
      <string name="bl_no_block_sms">Ingen blokkerte SMS-er.</string>
      <string name="blacklist_prefix_add_hint">Blokker alle nummer som begynner med dette prefikset</string>
-     <string name="block_message_number">SMS: %d</string>
-     <string name="block_phone_number">Anrop: %d</string>
+     <string name="block_message_number">SMS: <font color="#5fab1b">%d</font></string>
+     <string name="block_phone_number">Anrop: <font color="#5fab1b">%d</font></string>
      <string name="button_text_delete">Slett</string>
      <string name="button_to_setting">Innstillinger</string>
      <string name="call_delete_hint">Slett alle blokkerte anrop fra dette nummeret?</string>
@@ -142,17 +142,17 @@
      <string name="log_count">(%d)</string>
      <string name="mark_agent">Agent</string>
      <string name="mark_agent_block">Rapportert som salgsagent</string>
-     <string name="mark_agent_time_setting">Blokker numre rapportet som telefonsalg mer enn noen få ganger</string>
+     <string name="mark_agent_time_setting">Blokker numre rapportet som telefonsalg mer enn spesifiserte ganger</string>
      <string name="mark_banking_insurance">Salg av forsikring</string>
      <string name="mark_banking_insurance_block">Rapportert som salg av forsikring</string>
      <string name="mark_express">Bud</string>
      <string name="mark_express_block">Rapportert som bud</string>
      <string name="mark_fraud">Svindel</string>
      <string name="mark_fraud_block">Rapportert som svindel</string>
-     <string name="mark_fraud_time_setting">Blokker numre rapportert som svindel mer enn noen få ganger</string>
+     <string name="mark_fraud_time_setting">Blokker numre rapportert som svindel mer enn spesifiserte ganger</string>
      <string name="mark_harass">Trakassering</string>
      <string name="mark_harass_block">Rapportet som trakassering</string>
-     <string name="mark_harass_time_setting">Blokker numre rapportert som trakassering mer enn noen få ganger</string>
+     <string name="mark_harass_time_setting">Blokker numre rapportert som trakassering mer enn spesifiserte ganger</string>
      <string name="mark_meal">Matleveranse</string>
      <string name="mark_meal_block">Rapportert som matleveranse</string>
      <string name="mark_number_agent">Agent</string>
@@ -169,8 +169,8 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="mark_number_setting_guide_title">Blokkér rapporterte numre</string>
      <string name="mark_sell">Salg</string>
      <string name="mark_sell_block">Rapportert som salg</string>
-     <string name="mark_sell_time_setting">Blokker numre rapportert som salg mer enn noen få ganger</string>
-     <string name="mark_time_setting_dialog_title">Innstillinger for rapportert tid</string>
+     <string name="mark_sell_time_setting">Blokker numre rapportert som salg mer enn spesifiserte ganger</string>
+     <string name="mark_time_setting_dialog_title">Innstillinger for rapporterte numre</string>
      <string name="mark_time_text">%d</string>
      <string name="marked_by_others">"%d andre brukere markerte den som "</string>
      <string name="marked_by_user">"Du markerte den som "</string>
@@ -204,12 +204,13 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="one_address_choose_hint">%s1</string>
      <string name="open_callwait">På</string>
      <string name="quiet">Demp</string>
+     <string name="quiet_group">Ikke forstyrr</string>
      <string name="quiet_important_interruptions_mode">Bare tillat unntak</string>
      <string name="quiet_mode">Demp alle forstyrrelser</string>
      <string name="quiet_off_mode">Alltid tillat forstyrrelser</string>
      <string name="read_all_sms">Marker som lest</string>
-     <string name="repeated_marked_number_summary">"Ikke blokkér anrop nr 2. fra samme person innen 3 minutter."</string>
-     <string name="repeated_marked_number_title">"Ikke blokkér repeterende rapporterte anrop"</string>
+     <string name="repeated_marked_number_summary">"Ikke blokkér anrop nr 2. fra samme rapportere nummer innen 3 minutter."</string>
+     <string name="repeated_marked_number_title">"Ikke blokkér repeterende anrop fra rapporterte numre"</string>
      <string name="report">Rapporter</string>
      <string name="report_error">"Kunne ikke rapportere melding"</string>
      <string name="report_error_not_net">"Kan ikke koble til nettverket"</string>
@@ -219,6 +220,7 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="report_warning">"Rapporter %1$s sine SMSer til Mi? Disse meldingene, samt telefonnummerne du har blitt sendt fra, vil bli lastet opp til Mi sine servere for gjennomgang. Personlig informasjon assosiert med disse meldingene vil alltid forbli anonyme."</string>
      <string name="report_warning_title">Rapporter SMS</string>
      <string name="sim_not_ready">SIM-kort ikke klart</string>
+     <string name="sim_not_ready_toast">SIM-kortet er ikke klart, endring feilet</string>
      <string name="sms_delete_hint">Slett alle blokkerte meldinger fra dette nummeret?</string>
      <string name="sms_delete_title">Fjern melding</string>
      <string name="sms_smart_engine_update">Automatisk oppdater SMS-filtre</string>

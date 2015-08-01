@@ -42,9 +42,9 @@
      <string name="account_prifix">Konto:</string>
      <string name="action">Logg inn</string>
      <string name="action_menu_text_add_bookmark">Legg til bokmerke</string>
-     <string name="action_menu_text_bandwidth">Båndbredde</string>
-     <string name="action_menu_text_bandwidth_off">Båndbredde/Av</string>
-     <string name="action_menu_text_bandwidth_on">Båndbredde/På</string>
+     <string name="action_menu_text_bandwidth">Datasparing</string>
+     <string name="action_menu_text_bandwidth_off">Datasparing av</string>
+     <string name="action_menu_text_bandwidth_on">Datasparing på</string>
      <string name="action_menu_text_bookmark">Legg til bokmerke</string>
      <string name="action_menu_text_bookmark_added">Bokmerke lagt til</string>
      <string name="action_menu_text_copy_url">Kopiér URL</string>
@@ -157,7 +157,7 @@
      <string name="bottom_bar_tabs_long_click_up_tip_txt">Sveip opp for å lukke</string>
      <string name="browserFrameFileErrorLabel">Filproblem</string>
      <string name="browserFrameFormResubmitLabel" />
-     <string name="browserFrameFormResubmitMessage">Siden du prøver å vise inneholder data som allerede er sendt (\" POSTDATA \ "). Hvis du sender dataene igjen, vil hver handling skjemaet på siden gjennomførte (som et søk eller et nettkjøp) bliv gjentattt. "</string>
+     <string name="browserFrameFormResubmitMessage">Siden du prøver å vise inneholder data som allerede er sendt. Hvis du sender dataene igjen, vil tidligere handlinger (f.eks søk eller nettkjøp) gjentas. "</string>
      <string name="browserFrameNetworkErrorLabel">Forbindelsesproblem</string>
      <string name="browser_bookmarks_page_bookmarks_text">Bokmerker</string>
      <string name="browser_history">Nylig besøkte sider</string>
@@ -267,12 +267,12 @@
      <string name="download">DLagre</string>
      <string name="download_complete">Nedlastning fullført</string>
      <string name="download_default_path_txt">Husk dette valget</string>
-     <string name="download_dialog_default_path_invalid">Ugyldig nedlastningsmappe, standard nedlastningsmappe satt</string>
+     <string name="download_dialog_default_path_invalid">"Nedlastningsplasseringen du valgte er ugyldig. Lagrer på standard plassering…</string>
      <string name="download_dialog_file_length_hint_txt">"Filstørrelse: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Mindre enn 1K</string>
-     <string name="download_dialog_file_length_nolength_error_txt">Kunne ikke kalkulere filstørrelse</string>
-     <string name="download_dialog_file_length_nolength_txt">Kalkulerer filstørrelse</string>
-     <string name="download_failed">Nedlastning feilet</string>
+     <string name="download_dialog_file_length_nolength_error_txt">"Kunne ikke laste ned"</string>
+     <string name="download_dialog_file_length_nolength_txt">Bare et sekund…</string>
+     <string name="download_failed">"Kunne ikke fullføre nedlastning"</string>
      <string name="download_no_sdcard_dlg_msg">Et SD-kort kreves for å laste ned %s.</string>
      <string name="download_no_sdcard_dlg_title">Ingen SD-kort</string>
      <string name="download_pending">Start nedlastning…</string>
@@ -317,7 +317,7 @@
      <string name="find_next">Finn neste</string>
      <string name="find_on_page">Finn på side</string>
      <string name="find_on_page_cancel">Avbryt</string>
-     <string name="find_on_page_hint">Vennligst skriv din forespørsel</string>
+     <string name="find_on_page_hint">Søk på siden</string>
      <string name="find_on_page_next">Neste</string>
      <string name="find_on_page_prev">Tilbake</string>
      <string name="find_previous">Finn forrige</string>
@@ -336,8 +336,8 @@
      <string name="geolocation_settings_page_dialog_cancel_button">Avbryt</string>
      <string name="geolocation_settings_page_dialog_message">Fjer plasseringstilgang for dette nettstedet?</string>
      <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-     <string name="geolocation_settings_page_summary_allowed">Dette nettstedet kan i øyeblikket få tilgang til din plassering</string>
-     <string name="geolocation_settings_page_summary_not_allowed">"Dette nettstedet kan i øyeblikket ikke få tilgang til din plassering"</string>
+     <string name="geolocation_settings_page_summary_allowed">Dette nettstedet kan få tilgang til din plassering</string>
+     <string name="geolocation_settings_page_summary_not_allowed">"Dette nettstedet kan ikke få tilgang til din plassering"</string>
      <string name="geolocation_settings_page_title">Fjern plasseringstilgang</string>
      <string name="go_home">Startside</string>
      <string name="google_bookmarks">"Google: "</string>
@@ -374,9 +374,9 @@
      <string name="is_page_top">Allerede ved toppen av siden</string>
      <string name="js_dialog_before_unload">"%s
 
-Er du sikker på at du vil navigere vekk fra denne siden?"</string>
-     <string name="js_dialog_before_unload_negative_button">Bli på denne siden</string>
-     <string name="js_dialog_before_unload_positive_button">Forlat denne siden</string>
+Vil du forlate denne siden?"</string>
+     <string name="js_dialog_before_unload_negative_button">Bli</string>
+     <string name="js_dialog_before_unload_positive_button">Forlat</string>
      <string name="js_dialog_before_unload_title">Bekreft navigering</string>
      <string name="js_dialog_title">Siden på \"%s\" sier:</string>
      <string name="js_dialog_title_default">JavaScript</string>
@@ -393,7 +393,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="location">Adresse</string>
      <string name="low_memory_error">Kunne ikke fullføre forrige oppgave grunnet lite minne</string>
      <string name="max_tabs_warning">"Kan ikke åpne flere faner"</string>
-     <string name="maximum_input_alert">Maks inndata 2048 tegn</string>
+     <string name="maximum_input_alert">"Kan ikke skrive mer enn 2048 tegn"</string>
      <string name="media_error_action_refresh">Last på nytt</string>
      <string name="media_error_action_replace_video_source">"Kunne ikke bytte kilde"</string>
      <string name="media_error_failure">"Kunne ikke spille av video"</string>
@@ -451,13 +451,13 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="miuichromium_default_text_encoding">Latin-1</string>
      <string name="miuichromium_error_page_diagnostic">Nettverksdiagnosering</string>
      <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
-     <string name="miuichromium_error_page_reason_network">Vis link-URL</string>
-     <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
+     <string name="miuichromium_error_page_reason_network">"Kan ikke koble til nettverket"</string>
+     <string name="miuichromium_error_page_reason_server">"Kan ikke laste denne siden"</string>
      <string name="miuichromium_error_page_reload">Last på nytt</string>
      <string name="miuichromium_error_page_title">"Kunne ikke finne denne siden"</string>
-     <string name="miuichromium_error_page_url">Vis side-URL</string>
-     <string name="miuichromium_error_page_wlan">WiFi-innstillinger</string>
-     <string name="miuichromium_save_password_message">Vil du at nettleseren skal huske dette passorder?</string>
+     <string name="miuichromium_error_page_url">"Kan ikke koble til nettverket"</string>
+     <string name="miuichromium_error_page_wlan">Wi-Fi-innstillinger</string>
+     <string name="miuichromium_save_password_message">Husk dette passordert?</string>
      <string name="miuichromium_save_password_never">Aldri</string>
      <string name="miuichromium_save_password_notnow">Ikke nå</string>
      <string name="miuichromium_save_password_remember">Husk</string>
@@ -725,7 +725,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="readmode_login">Logg inn</string>
      <string name="readmode_login_message">Du må logge inn for å lese mer.</string>
      <string name="readmode_page_load_error">"Kan ikke laste side"</string>
-     <string name="readmode_page_loading">Laster…</string>
+     <string name="readmode_page_loading">Bare et sekund…</string>
      <string name="readmode_pay">Kjøp kapittel</string>
      <string name="readmode_pay_message">Du må betale for å lese neste kapittel.</string>
      <string name="readmode_reach_last_page">Siste side nådd</string>
@@ -809,7 +809,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
      <string name="skip_current_version">Hopp over denne versjonen</string>
      <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
      <string name="snapshot_go_live">Gå Live</string>
-     <string name="snapshot_successed">Lagring for offline lesning fulllført</string>
+     <string name="snapshot_successed">Lagret for offline lesning</string>
      <string name="ssl_certificate">Sikkerhetssertifikat</string>
      <string name="ssl_certificate_is_valid">Dette sertifikatet er gyldig.</string>
      <string name="ssl_continue">Fortsett</string>

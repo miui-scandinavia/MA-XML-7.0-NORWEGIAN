@@ -10,6 +10,10 @@
      <string name="app_name">Pakkeinstallationsprogram</string>
      <string name="app_not_found_dlg_text">Appen ble ikke funnet på listen over installerte apper.</string>
      <string name="app_not_found_dlg_title">Appen ble ikke funnet</string>
+     <string name="app_store_install_hint">Installer nå</string>
+     <string name="app_store_installing_message">Installerer…</string>
+     <string name="app_store_missing_message">"Det ser ut til at du ikke har installert vår offiselle App-butikk. Installer ned nå?"</string>
+     <string name="app_store_missing_title">"App-butikk er ikke installert"</string>
      <string name="auto_startup_dialog_msg">"MIUI vil tillate appen å starte automatisk uten bekreftelse. Tillat Autostart?"</string>
      <string name="button_text_cancel">Avbryt</string>
      <string name="button_text_delete">Slett</string>
@@ -87,6 +91,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="permission_send_sms_descx">App kan sende SMS og MMS</string>
      <string name="privacyPerms">Personvern</string>
      <string name="privacy_relative">Personvern</string>
+     <string name="reboot_time">Forbereder omstart… (%1$s)</string>
      <string name="safe_guard_support">Teknisk support tilbudt av %1$s</string>
      <string name="safe_relative">Sikkerheten</string>
      <string name="security_settings_desc">Tillat at denne appen:</string>

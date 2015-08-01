@@ -498,6 +498,8 @@
      <string name="cloud_folder_chooser_move">Delete images from original album</string>
      <string name="cloud_gallery_recyclebin_full">Papirkurven er full. Tøm den på www.mi.com/micloud.</string>
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
+     <string name="cloud_gallery_space_full_buy_more">"Kan ikke synke nye bilder med din Mi Cloud. For å synke flere bilder, kjøp mer lagringsplass."</string>
+     <string name="cloud_gallery_space_full_title">Mi Cloud er full</string>
      <string name="cloud_media_set_set">Mi Cloud</string>
      <string name="cloud_owner_album_share_guide">"Del
      	dette albumet
@@ -590,6 +592,7 @@ venner."</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
      <string name="doodle">Krusseduller</string>
+     <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
      <string name="doodle_tooltip">Trykk for å krussedulle</string>
      <string name="download">Last ned</string>
      <string name="download_fail">Nedlasting feilet!</string>
@@ -637,6 +640,7 @@ venner."</string>
      <string name="external_usb_device_hm">Ekstern USB-lagring</string>
      <string name="face_album">Folk</string>
      <string name="face_album_long_tap_tip">For å velge flere folk eller endre gruppeinnstilling, trykk &amp; og hold på et profilbilde</string>
+     <string name="face_album_new_name_hint">Nytt navn</string>
      <string name="face_album_not_named">Ikke navngitt</string>
      <string name="face_album_rename_hint">Skriv navn</string>
      <string name="face_albumset_detecting_tip">Bare et sekund…</string>
@@ -644,6 +648,7 @@ venner."</string>
      <string name="face_albumset_loading_data">Laster data…</string>
      <string name="face_albumset_pending_enable_tip">Vil sortere bilder når enheten er tilkoblet Wi-Fi</string>
      <string name="face_albumset_use_tip">Automatisk sorter bilder etter folkene som er i dem.</string>
+     <string name="face_choose_tip">Velg fra eksisterende album</string>
      <string name="face_move_dialog_title">Velg et album</string>
      <string name="facelift">Ansiktsglød</string>
      <string name="facetan">Ansiktsfarge</string>
@@ -704,6 +709,16 @@ venner."</string>
      <string name="how_many_sub_folders">%d Mapper</string>
      <string name="how_many_videos">%d Videoer</string>
      <string name="hue_polymorphism">photoeditor_effect_hue</string>
+     <string name="hybrid_check_network">Nettverksinnstillinger</string>
+     <string name="hybrid_data_error">En feil oppsto</string>
+     <string name="hybrid_locating_fail">"Kunne ikke finne din plassering"</string>
+     <string name="hybrid_network_access_denied">Nettverkstilgang nektet</string>
+     <string name="hybrid_network_unavaliable">"Kan ikke koble til nettverket"</string>
+     <string name="hybrid_pull_to_refresh_pull_label">Dra for å oppdatere…</string>
+     <string name="hybrid_pull_to_refresh_refreshing_label">Bare et sekund…</string>
+     <string name="hybrid_pull_to_refresh_release_label">Slipp for å oppdatere…</string>
+     <string name="hybrid_service_unavailiable">Tjeneste utilgjengelig</string>
+     <string name="hybrid_try_again">Prøv igjen</string>
      <string name="ignore_album">"Ikke vis"</string>
      <string name="ignore_alert_title">"Ikke vis dette albumet?"</string>
      <string name="ignore_face">Ignorer denne personen</string>
@@ -857,7 +872,7 @@ venner."</string>
      <string name="paint_cancel_title">Forkast endringer</string>
      <string name="paint_crop_cancel_context">Lagre resultat av beskjæring?</string>
      <string name="paint_crop_cancel_title">Forkast endringer</string>
-     <string name="paint_crop_tips">For å få et bedre bilde, prøve å plassere de interessante delene på gitterpunktene ved å endre størrelse og flytte.</string>
+     <string name="paint_crop_tips">Plasser målområdet i bildet nær midten av gitteret.</string>
      <string name="paint_highlight">Marker</string>
      <string name="paint_highlight_cancel_context">Lagre merkede bildet?</string>
      <string name="paint_highlight_cancel_title">Forkast endringer</string>
@@ -906,7 +921,7 @@ venner."</string>
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Gjenkjenner bilde…</string>
-     <string name="recommanded_face_abandon_tip">Fjernet fra forslag</string>
+     <string name="recommanded_face_abandon_tip">Fjernet fra anbefalinger</string>
      <string name="recommanded_face_added_tip">Lagt til \"%s\"</string>
      <string name="redeye">Rødt øye</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
@@ -1075,6 +1090,7 @@ venner."</string>
      <string name="unpublish_succeeded">Album ble avpublisert!</string>
      <string name="unpublishing">Avlyser publisering, vennligst vent...</string>
      <string name="untagged">Ikke tagget</string>
+     <string name="upgrade_micloud_space">Få mer plass</string>
      <string name="user_alias_self">Meg</string>
      <string name="video_err">"Kan ikke avspille video."</string>
      <string name="video_not_exist">Video eksisterer ikke!</string>

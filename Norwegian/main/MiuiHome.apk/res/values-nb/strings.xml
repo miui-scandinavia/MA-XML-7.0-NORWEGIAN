@@ -41,6 +41,7 @@
      <string name="cant_remove_folder">Kan ikke flytte mappe som ikke er tom</string>
      <string name="cant_remove_retained_app">Behandler program. Kan ikke fjernes</string>
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
+     <string name="choose_theme">Tema</string>
      <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg bakgrunn</string>
      <string name="cloud_app_restore_title">Venter</string>
@@ -54,6 +55,7 @@
      <string name="default_folder_title_security">Sikkerhet</string>
      <string name="default_folder_title_tools">Verktøy</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
+     <string name="default_theme_name">Standard</string>
      <string name="delete">Slett</string>
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
      <string name="delete_wallpapers_message">Slett %1$d bakgrunner?</string>
@@ -122,6 +124,7 @@
      <string name="gadget_weather_loading">Ingen værdata</string>
      <string name="gadget_weather_low_temp">lav temperatur</string>
      <string name="gadget_weather_theme_type">Widget type</string>
+     <string name="gadget_weather_time_format">EEEE, MMMM dd</string>
      <string name="gadget_weather_title">Vær</string>
      <string name="gadget_weather_title_14">Vær 4X1</string>
      <string name="gadget_weather_title_24">Vær 2X4</string>
@@ -243,6 +246,7 @@
      <string name="wallpaper_failed_message">"Kan ikke bruke bakgrunn"</string>
      <string name="wallpaper_scrolling">Alle</string>
      <string name="wallpaper_settings">Bakgrunn</string>
+     <string name="wallpaper_settings_for_pad">Bakgrunn</string>
      <string name="wallpaper_success_message">Bakgrunn brukt</string>
      <string name="widget_favorite_contacts_edit">administrer grupper</string>
      <string name="widget_favorite_contacts_label">Felles Kontakter</string>
