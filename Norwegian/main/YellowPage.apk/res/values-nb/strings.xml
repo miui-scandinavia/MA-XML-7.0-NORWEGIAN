@@ -288,7 +288,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="notify_connect_title">Varsel om internett-tilkobling</string>
      <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter nettressurser</string>
-     <string name="order_date_label">Ordredato: %1$<</string>
+     <string name="order_date_label">Ordredato: %1$</string>
      <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>
      <string name="order_id_label">Ordrenummer: %1$s</string>
