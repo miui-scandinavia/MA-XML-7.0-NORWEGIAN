@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Standard modus</item>
+        <item>Skjult modus</item>
+        <item>Lesemodus</item>
+        <item>Mediamodus</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>App er i forgrunnen</item>
+        <item>Skjerm på</item>
+        <item>Skjerm av</item>
+        <item>Skjerm av i over 10 minutter</item>
+        <item>Gå i fullskjerm</item>
+        <item>Gå ut av fullskjerm</item>
+        <item>App er i bakgrunnen</item>
+        <item>Telefonen lader</item>
+        <item>Telefonen lader ikke</item>
+        <item>Telefonen er i hvilemodus</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max lysstyrke på skjermen</item>
+        <item>MAX CPU-frekvens</item>
+        <item>Skjermmodus</item>
+        <item>CPU-bruk</item>
+        <item>Dataforbindelse</item>
+        <item>Plassering</item>
+        <item>Varsel på første melding</item>
+        <item>Tastelås varsling</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Ingen operasjoner</item>
+        <item>Standard</item>
+        <item>Bilde</item>
+        <item>Film</item>
+        <item>Batterisparing</item>
+        <item>Balanse</item>
+        <item>Ytelse</item>
+        <item>Aktiver</item>
+        <item>Deaktiver</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>valgte</item>
+        <item>ikke valgte</item>
+        <item>andre valgte</item>
+    </string-array>
+</resources>
