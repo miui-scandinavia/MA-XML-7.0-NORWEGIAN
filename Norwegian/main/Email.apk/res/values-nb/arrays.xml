@@ -1,46 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="compose_modes">
+     <string-array name="compose_modes">
         <item>Svar</item>
         <item>Svar alle</item>
         <item>Videresend</item>
-    </string-array>
-    <string-array name="sync_status">
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Veldig liten</item>
+        <item>Liten</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Veldig stor</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Seneste viste</item>
+        <item>Format</item>
+        <item>Navn</item>
+        <item>Sender</item>
+        <item>Dato motatt</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Ofte brukt</item>
+        <item>Alle mapper</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Nyere</item>
+        <item>Eldre</item>
+        <item>Samtaleliste</item>
+     </string-array>
+     <string-array name="prefEntries_removal_action">
+        <item>Vis bare Arkivér</item>
+        <item>Vis bare Slett</item>
+        <item>Vis Arkivér og Slett</item>
+     </string-array>
+     <string-array name="prefEntries_snapHeader">
+        <item>Vis alltid</item>
+        <item>Kun stående visning</item>
+        <item>Ikke vis</item>
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
+        <item>Vis nyere samtaler etter at du har slettet</item>
+        <item>Vis eldre samtaler etter at du har slettet</item>
+        <item>Vis samtaleliste etter at du har slettet</item>
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
+        <item>Vis bare Arkivér</item>
+        <item>Vis bare Slett</item>
+        <item>Vis Arkivér og Slett</item>
+     </string-array>
+     <string-array name="prefSummaries_snapHeader">
+        <item>Vis alltid meldingshandlinger øverst på skjermen</item>
+        <item>Vis kun meldingalternativer øverst på skjermen når rotert til stående</item>
+        <item>Ikke vis e-postalternativer utenfor e-postoverskriften</item>
+     </string-array>
+     <string-array name="prefValues_autoAdvance">
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
+     </string-array>
+     <string-array name="prefValues_removal_action">
+        <item>archive</item>
+        <item>delete</item>
+        <item>archive-and-delete</item>
+     </string-array>
+     <string-array name="signature_normal_string_array">
+        <item>Blogg:</item>
+        <item>Side:</item>
+        <item>E-post:</item>
+        <item>Mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-post:</item>
+        <item>Tel:</item>
+        <item>Faks:</item>
+        <item>Post:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+        <item>Addresse:</item>
+        <item>Tel:</item>
+        <item>Navn:</item>
+        <item>E-post:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Postkode:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Disclaimer:</item>
+        <item>Email Disclaimer</item>
+        <item>Sendt via WPSMail</item>
+        <item>Sendt fra</item>
+        <item>Sendt med</item>
+        <item>Takk,</item>
+        <item>Med vennlig hilsen</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+        <item>Takk,</item>
+        <item>Med vennlig hilsen</item>
+        <item>Sendt fra min</item>
+        <item>Original e-post</item>
+        <item>Sendt fra min</item>
+        <item>Sendt fra</item>
+        <item>Fra</item>
+        <item>Denne e-posten</item>
+        <item>Disclaimer</item>
+        <item>Email Disclaimer</item>
+     </string-array>
+     <string-array name="sync_status">
         <item>Fullført</item>
         <item>Ingen tilkobling.</item>
         <item>Påloggingen mislyktes.</item>
         <item>Sikkerhetsfeil.</item>
         <item>Synkroniseringen mislyktes.</item>
         <item>Tjenerfeil</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Nyere</item>
-        <item>Eldre</item>
-        <item>Samtaleliste</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Vis nyere samtaler etter at du har slettet</item>
-        <item>Vis eldre samtaler etter at du har slettet</item>
-        <item>Vis samtaleliste etter at du har slettet</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Vis bare Arkivér</item>
-        <item>Vis bare Slett</item>
-        <item>Vis Arkivér og Slett</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Vis bare Arkivér</item>
-        <item>Vis bare Slett</item>
-        <item>Vis Arkivér og Slett</item>
-    </string-array>
-    <string-array name="prefSummaries_snapHeader">
-        <item>Vis alltid meldingshandlinger øverst på skjermen</item>
-        <item>Vis kun meldingalternativer øverst på skjermen når rotert til stående</item>
-        <item>Ikke vis e-postalternativer utenfor e-postoverskriften</item>
-    </string-array>
-    <string-array name="prefEntries_snapHeader">
-        <item>Vis alltid</item>
-        <item>Kun stående visning</item>
-        <item>Ikke vis</item>
-    </string-array>
+     </string-array>
 </resources>

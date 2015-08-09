@@ -5,4 +5,32 @@
         <item>Bare hjemme</item>
         <item>Automatisk</item>
      </string-array>
- </resources>
+     <string-array name="clir_display_values">
+        <item>Nettverksstandard</item>
+        <item>Skjul nummer</item>
+        <item>Vis nummer</item>
+     </string-array>
+     <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Lang</item>
+     </string-array>
+     <string-array name="ims_call_types">
+        <item>Tale</item>
+        <item>Video</item>
+     </string-array>
+     <string-array name="list_language_entries">
+        <item>Engelsk</item>
+        <item>Fransk</item>
+        <item>Spansk</item>
+        <item>Japansk</item>
+        <item>Koreansk</item>
+        <item>Kinesisk</item>
+        <item>Hebraisk</item>
+     </string-array>
+     <string-array name="tty_mode_entries">
+        <item>TTY Av</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+     </string-array>
+</resources>

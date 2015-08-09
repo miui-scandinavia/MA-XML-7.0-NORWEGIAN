@@ -100,6 +100,7 @@
      <string name="favorite_photo">Bilde</string>
      <string name="favorite_ringtone">Ringetoner</string>
      <string name="favorite_screen_cap">MIUI Skjermbilder</string>
+     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
      <string name="file_info_canread">Lesbar:</string>
      <string name="file_info_canwrite">Skrivbar:</string>

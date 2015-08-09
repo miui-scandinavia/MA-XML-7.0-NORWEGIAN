@@ -134,6 +134,8 @@ Vil du motta filen?"</string>
      <string name="notification_sent">Deling med Bluetooth: Sendt %1$s</string>
      <string name="notification_sent_complete">100 % fullført</string>
      <string name="notification_sent_fail">Deling med Bluetooth: Filen %1$s ble ikke sendt</string>
+     <string name="notify_device_lose_connection_text">%1$s mistet forbindelsen for en lengre periode, klikk for å frakoble.</string>
+     <string name="notify_device_lose_connection_title">Enheten %1$s mistet forbindelsen</string>
      <string name="notify_server">Angi TCP-server</string>
      <string name="ok_button">OK</string>
      <string name="outbound_history_title">Overføringer herfra</string>
@@ -170,6 +172,10 @@ Vil du motta filen?"</string>
      <string name="transfer_menu_clear">Fjern fra listen</string>
      <string name="transfer_menu_clear_all">Rens liste</string>
      <string name="transfer_menu_open">Åpne</string>
+     <string name="unbind_device_alert_cancel">Avbryt</string>
+     <string name="unbind_device_alert_content">Enheten %1$s mistet forbindelsen over lengre tid, å koble fra den vil øke ytelsen. Vil du koble fra den?</string>
+     <string name="unbind_device_alert_ok">OK</string>
+     <string name="unbind_device_alert_title">Koble fra enhet</string>
      <string name="unknownName">Ukjent navn</string>
      <string name="unknownNumber">Ukjent</string>
      <string name="unknown_device">Ukjent enhet</string>
@@ -180,7 +186,7 @@ Vil du motta filen?"</string>
      <string name="upload_fail_line1">Filen ble ikke sendt til \"%1$s\".</string>
      <string name="upload_fail_line1_2">Fil: %1$s</string>
      <string name="upload_fail_ok">Prøv igjen</string>
-     <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
+     <string name="upload_fail_waiting">Pågående forberedelse for sending av fil, den vil automatisk bli overført senere</string>
      <string name="upload_line1">Til: \"%1$s\"</string>
      <string name="upload_line3">Filtype: %1$s (%2$s)</string>
      <string name="upload_line5">Sender fil…</string>

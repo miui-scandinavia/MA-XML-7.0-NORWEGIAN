@@ -85,6 +85,7 @@
      <string name="account_settings_sync_email_summary">Synk. epost for denne konto</string>
      <string name="account_settings_unsupported_label">Unsupported policies</string>
      <string name="account_settings_unsupported_summary">Ingen</string>
+     <string name="account_settings_using_ringtone">Ringtone</string>
      <string name="account_settings_vibrate_when_label">Vibrer</string>
      <string name="account_setup_ab_headline">Bekreft kontotypen</string>
      <string name="account_setup_ab_instructions_format">Du har angitt at %1$s bruker %2$s, men kontoen bruker kanskje %3$s</string>
@@ -122,6 +123,7 @@
      <string name="account_setup_failed_dlg_certificate_message">Kan ikke koble sikkert til server.</string>
      <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan ikke koble sikkert til server.
 (%s)"</string>
+     <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
      <string name="account_setup_failed_dlg_edit_details_action">Rediger detaljer</string>
      <string name="account_setup_failed_dlg_server_message">Kan ikke koble til server.</string>
      <string name="account_setup_failed_dlg_server_message_fmt">"Kan ikke koble til serveren.
@@ -152,6 +154,7 @@
      <string name="account_setup_incoming_server_label">Server</string>
      <string name="account_setup_incoming_title">Kontooppsett</string>
      <string name="account_setup_incoming_username_label">Brukernavn</string>
+     <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
      <string name="account_setup_names_account_name_label">Gi kontoen et navn (valgfritt)</string>
      <string name="account_setup_names_headline">Din konto er satt opp og epost er på vei!</string>
      <string name="account_setup_names_title">Kontooppsett</string>
@@ -217,6 +220,7 @@
      <string name="add_attachment">Legg ved filer</string>
      <string name="add_authentication_label">Legg til autentisering</string>
      <string name="add_bcc_label">Legg til blindkopi</string>
+     <string name="add_calendar">Remind</string>
      <string name="add_cc_label">Legg til kopi til/blindkopi</string>
      <string name="add_file_attachment">Legg ved fil</string>
      <string name="add_label">Legg til mappe</string>
@@ -261,6 +265,8 @@
      <string name="attachment_mgr_name">Vedlegg</string>
      <string name="attachment_not_exists">Dette vedlegget er ikke tilgjengelig!</string>
      <string name="attachment_not_found">"Kunne ikke hente vedlegg."</string>
+     <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
+     <string name="attachment_open_SecurityException_title">Failed to open file</string>
      <string name="attachment_stop_all">Stopp</string>
      <string name="attachment_text">Tekst</string>
      <string name="attachment_type_blocked">"Du kan dessverre ikke lagre eller åpne denne typen vedlegg."</string>
@@ -342,6 +348,16 @@
      <string name="confirm_send_message_with_no_subject">"Denne meldingen har ikke et emne."</string>
      <string name="confirm_send_title">Send melding?</string>
      <string name="contact_content_provider">Kontakt innholdsleverandør</string>
+     <string name="contact_edit_set_black_list">Set blocklist</string>
+     <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
+     <string name="contact_edit_set_black_list_receive">Delete mail with this recipient</string>
+     <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
+     <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
+     <string name="contact_edit_set_pop_up_tips">Pop-up tips</string>
+     <string name="contact_edit_set_unread_top">Show unread emails first</string>
+     <string name="contact_edit_set_vip">Set VIP</string>
+     <string name="contact_edit_title_permission">Contacts permissions</string>
+     <string name="contact_edit_title_phone_contact">Phone contacts list</string>
      <string name="contact_info_string">Vis kontaktinformasjon for %1$s</string>
      <string name="contact_info_string_default">Vis kontaktinformasjon</string>
      <string name="contact_list_add_btn">Legg til</string>
@@ -350,13 +366,18 @@
      <string name="contact_select">Velg kontakter</string>
      <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
      <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
+     <string name="contextmenu_add">Add to Contacts</string>
      <string name="contextmenu_add_contact">Legg til Kontakt</string>
+     <string name="contextmenu_call">Call</string>
      <string name="contextmenu_copy">Kopier</string>
      <string name="contextmenu_copylink">Kopier link URL</string>
+     <string name="contextmenu_create">Create a new contact</string>
      <string name="contextmenu_dial_dot">Ring opp</string>
+     <string name="contextmenu_edit">Edit contact</string>
      <string name="contextmenu_feedback">Send tilbakemelding</string>
      <string name="contextmenu_help">Hjelp</string>
      <string name="contextmenu_map">Kart</string>
+     <string name="contextmenu_open">Open</string>
      <string name="contextmenu_openlink">Åpne i nettleseren</string>
      <string name="contextmenu_send_mail">Send epost</string>
      <string name="contextmenu_sharelink">Del link</string>
@@ -369,6 +390,7 @@
      <string name="conversation_list_net_check">"Kan ikke koble til nettverket"</string>
      <string name="conversation_overload_toast">Denne e-posten er for stor til å lastes. Vennligst se gjennom alt på en PC senere</string>
      <string name="conversation_photo_welcome_text">Velg en avsenders bilde for å velge den meldingen.</string>
+     <string name="copied">Copied</string>
      <string name="copy_email">Kopier epostadresse</string>
      <string name="copy_number">Kopier telefonnummer</string>
      <string name="copyright">©%1$d Google Inc.</string>
@@ -410,7 +432,10 @@
      <string name="device_admin_label">Epost</string>
      <string name="device_not_activiey_lint1">Enhetsadministrator er ikke aktivert</string>
      <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
+     <string name="dialog_account_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
      <string name="dialog_auto_download_failed">"Kan ikke fullføre auto-nedlasting, prøv manuell nedlastning."</string>
+     <string name="dialog_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
+     <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
      <string name="dialog_insufficient_space_for_single_account_on_internal">Ikke nok plass til %s.</string>
      <string name="dialog_insufficient_space_on_external">"Kan ikke fullføre nedlasting. Ikke nok plass på ekstern lagring."</string>
      <string name="dialog_insufficient_space_on_internal">"Det er ikke nok lagringsplass på intern lagringsplass."</string>
@@ -441,6 +466,7 @@
      <string name="download_confirm_message">Last ned %1$s vedlegg?</string>
      <string name="download_confirm_title">Last ned vedlegg</string>
      <string name="download_failed">"Kunne ikke laste ned. Trykk for å prøve igjen."</string>
+     <string name="download_message_failed_for_too_large">The message is too big to download.</string>
      <string name="download_show_image">Download and display image</string>
      <string name="downloading_message_body">Laster ned e-post…</string>
      <string name="draft_count_format"> (%1$s)</string>
@@ -505,6 +531,8 @@
      <string name="folder_junk_name_cn1">垃圾箱</string>
      <string name="folder_junk_name_en0">Junk</string>
      <string name="folder_junk_name_en1">Bulk Mail</string>
+     <string name="folder_list_display_all">Display all folders</string>
+     <string name="folder_list_display_only_import">Only display important folders</string>
      <string name="folder_picker_title">Velg mapper</string>
      <string name="folder_removed">Fjernet fra %1$s</string>
      <string name="folder_sent_name_cn0">已发送</string>
@@ -577,6 +605,7 @@
      <string name="hour_picker_description">Sirkulær glidebryter for timer</string>
      <string name="ignore_spam_warning">Ignorer, jeg stoler på denne meldingen</string>
      <string name="imap_name">IMAP</string>
+     <string name="imap_password_error">Password for incoming mail server is incorrect</string>
      <string name="inbox_folders_heading">Lokale mapper</string>
      <string name="info">Info</string>
      <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
@@ -765,6 +794,8 @@ CC: %4$s
      <string name="notification_exchange_calendar_added">Exchange calendar added</string>
      <string name="oauth_authentication_title">Ber om tillatelse …</string>
      <string name="oauth_error_description">Kunne ikke autentisere</string>
+     <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
+     <string name="oauth_login_continue">Continue</string>
      <string name="ok">OK</string>
      <string name="okay_action">OK</string>
      <string name="open_attachment">Åpne</string>
@@ -777,10 +808,13 @@ CC: %4$s
      <string name="outbox_alert_button_resend">Resend</string>
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
+     <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
      <string name="outbox_alert_description_http_error">Server provision error while syncing outbox.</string>
      <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
      <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+     <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
      <string name="outbox_alert_description_sent_failed">"Attachment's size exceeds the recipient's limit."</string>
+     <string name="outbox_alert_description_time_out">Network connection timed out</string>
      <string name="outbox_alert_duplicate_click">Still syncing…</string>
      <string name="outbox_alert_edit_resend">Edit and resend</string>
      <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
@@ -896,6 +930,16 @@ CC: %4$s
      <string name="provider_note_live">Kun enkelte \"Pluss\" kontoer inkluderer POP-adgang, som tillater dette programet å koble til. Hvis du ikke kan Logge inn med din korrekte epostadresse og passord, har du kanskje ikke betalt for \"Pluss\" konto. Start nettleseren for å få adgang til disse epostkontoene.</string>
      <string name="provider_note_t_online">Før oppsett av epostkonto, besøk vennligst T-Online-nettstedet og opprett et passord for POP3 epostadgang.</string>
      <string name="pull_to_refresh">Pull down to refresh</string>
+     <string name="push_wps_better_confirm_download">Download</string>
+     <string name="push_wps_better_confirm_exit">Not now</string>
+     <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
+     <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
+     <string name="push_wps_better_confirm_title">Try WPS Office</string>
+     <string name="push_wps_confirm_cancel">Not now</string>
+     <string name="push_wps_confirm_download">Download</string>
+     <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
+     <string name="push_wps_confirm_title">Try WPS Office</string>
+     <string name="push_wps_no_response_app">No application found to handle this action</string>
      <string name="quick_1">Thanks!</string>
      <string name="quick_2">Sounds good to me!</string>
      <string name="quick_3">"I'll read this later and get back to you."</string>
@@ -936,6 +980,8 @@ CC: %4$s
      <string name="quoted_text">Include quoted text</string>
      <string name="quoted_text_hidden_print">Sitert tekst skjult</string>
      <string name="quoted_text_label">Quote text</string>
+     <string name="re_download_message_button">Tap to download again</string>
+     <string name="re_download_message_info">"Couldn't download email"</string>
      <string name="read_string">conversation read</string>
      <string name="recent_folders_heading">Recent folders</string>
      <string name="recipient_error_dialog_title">Recipient error</string>
@@ -1037,6 +1083,7 @@ CC: %4$s
      <string name="ser_resp_err_map_or">or</string>
      <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
      <string name="ser_resp_err_map_serclosed">server closed</string>
+     <string name="ser_resp_err_map_serclosed_url_tag">How to solve?</string>
      <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
      <string name="set_end_date_dialog_title">Sluttdato (valgfritt)</string>
      <string name="set_network">Set network</string>
@@ -1059,6 +1106,7 @@ CC: %4$s
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
+     <string name="smtp_password_error">Password for outgoing mail server is incorrect</string>
      <string name="sort_attachment">Sort by</string>
      <string name="spaceChar">" "</string>
      <string name="special_text_1">写道:</string>
@@ -1122,6 +1170,8 @@ CC: %4$s
      <string name="unread_string">conversation unread</string>
      <string name="unseen_count">%d nye</string>
      <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
+     <string name="unzip_file_failed">"Couldn't unzip file"</string>
+     <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
      <string name="updated_at">Last update: %1$s</string>
      <string name="updated_just_now">Updated just now</string>
      <string name="upload_log">Upload diagnostic logs</string>

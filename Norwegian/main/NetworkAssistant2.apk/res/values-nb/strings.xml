@@ -344,8 +344,9 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_roaming_setting_gategory">Data roaming</string>
      <string name="pref_setting_operators_message">Endre meldingen enheten din sender operatøren for å synkronisere databrukstatistikk</string>
      <string name="pref_show_mobile_traffic">Hvis dataforbruk under opplåsning etter at enheten har vært låst i mer enn 5 minutter</string>
-     <string name="pref_special_traffpref_traffic_saving_auto_add_whitelistfic_exceed_limit">Gi meg et varsel når databruk når grensen</string>
+     <string name="pref_special_traffic_exceed_limit">Varsle meg når dataforbruk når grensen</string>
      <string name="pref_special_traffic_limit_warn">Sett advarsel for databruk</string>
+     <string name="pref_special_traffpref_traffic_saving_auto_add_whitelistfic_exceed_limit">Gi meg et varsel når databruk når grensen</string>
      <string name="pref_specified_adjust">Sett egendefinert datagrense</string>
      <string name="pref_specified_traffic_settings">Innstillinger for datagrense</string>
      <string name="pref_title_declaration">Viktig erklæring</string>
