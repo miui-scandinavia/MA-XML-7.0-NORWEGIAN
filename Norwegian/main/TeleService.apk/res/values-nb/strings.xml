@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="Result_title">SIM card contact</string>
+     <string name="Result_title">SIM-kort kontakt</string>
      <string name="add">Legg til</string>
      <string name="addSimEntries">Legg til SIM-kontakt</string>
      <string name="add_fdn_contact">Legg til programmert telefonnummer</string>
@@ -112,12 +112,12 @@
      <string name="callFailed_timedOut">Ingen respons – tidsavbrudd</string>
      <string name="callFailed_unobtainable_number">Ugyldig tall</string>
      <string name="callFailed_userBusy">Linjen er opptatt</string>
-     <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
+     <string name="callUnanswered_forwarded">Call ubesvart og videresendt</string>
      <string name="call_barring_sum">Innstillinger for sperring av talepost</string>
      <string name="call_description_recording">Tar opp…</string>
      <string name="call_forwarding_number_hint">Tast inn nummer å viderekoble til</string>
      <string name="call_forwarding_settings">Innstillinger for viderekobling</string>
-     <string name="call_ind_services">Call Independent Services</string>
+     <string name="call_ind_services">Ring uavhengige tjenester</string>
      <string name="call_record_add_numbers">Legg til numre</string>
      <string name="call_record_auto_always">Alle numre</string>
      <string name="call_record_auto_scenario_title">Innstillinger for auto-opptak</string>
@@ -190,7 +190,7 @@
      <string name="card_title_outgoing_barred">Utgående anrop utelukket</string>
      <string name="card_title_redialing">Prøver på nytt</string>
      <string name="card_title_unconditionalCF">Betingelsesløs anropsvideresending er på</string>
-     <string name="carrier_name">(Carrier name)</string>
+     <string name="carrier_name">(Operatørnavn)</string>
      <string name="carrier_settings" />
      <string name="carrier_settings_menu" />
      <string name="carrier_settings_title">Operatørinnstillinger</string>
@@ -300,8 +300,6 @@
      <string name="dial_pad_autocomplete">Autofullf. for talltast.</string>
      <string name="dial_related_setting_catory">Ring</string>
      <string name="dialerKeyboardHintText">Bruk tastaturet for å ringe</string>
-     <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
-     <string name="dialer_default_package">com.android.contacts</string>
      <string name="dialog_network_priority_title">Prioritet</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_0_number">0</string>
@@ -470,11 +468,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="ims_vt_call_quality_low">Low</string>
      <string name="ims_vt_call_quality_set_failed">Failed to set video quality</string>
      <string name="ims_vt_call_quality_title">VT Call Quality</string>
-     <string name="ims_vt_call_quality_unknown">Unknown</string>
-     <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-     <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-     <string name="incall_default_package">com.android.incallui</string>
-     <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
+     <string name="ims_vt_call_quality_unknown">Ukjent</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
      <string name="incall_error_missing_voicemail_number">Nummeret til talepostkassen mangler.</string>
@@ -606,9 +600,9 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="mmiCancelled">MMI-kode avbrutt</string>
      <string name="mmiStarted">MMI-kode påbegynt</string>
      <string name="mo_call_type_title">MO Call Type</string>
-     <string name="mobile_data">"Mobile Data: "</string>
-     <string name="mobile_data_off">off</string>
-     <string name="mobile_data_on">on</string>
+     <string name="mobile_data">"Mobildata: "</string>
+     <string name="mobile_data_off">av</string>
+     <string name="mobile_data_on">på</string>
      <string name="mobile_network_settings_not_available">Innstillingene for mobilnettverk er ikke tilgjengelige for denne brukeren</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
      <string name="msim_apn_not_set">Ikke sett</string>
@@ -656,7 +650,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="network_forbidden">%s (forbudt)</string>
      <string name="network_global">Global</string>
      <string name="network_id">Nettverks-ID</string>
-     <string name="network_info_message">Network message</string>
+     <string name="network_info_message">Nettverksmelding</string>
      <string name="network_lte">LTE (anbefales)</string>
      <string name="network_message">Nettverksmelding</string>
      <string name="network_query_error">Det oppsto en feil under søking etter nettverk.</string>
@@ -1153,7 +1147,6 @@ Next period starts in %2$d days (%3$s)"</string>
      <string name="tty_mode_option_title">TTY-modus</string>
      <string name="turnover_mute_summary">Når telefonen er rotert horisontalt, vend den over for å bringe ringetone til taushet</string>
      <string name="turnover_mute_title">Vend for å stilne</string>
-     <string name="ui_default_package">com.android.dialer</string>
      <string name="undefined">Ikke definert</string>
      <string name="unknown">Ukjent</string>
      <string name="unlock_failed">Fikk ikke fjerne operatørlås.</string>
@@ -1193,16 +1186,16 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="voip_setting">VOIP-innstillinger</string>
      <string name="wait_prompt_str">"Send disse tonene?
 "</string>
-     <string name="wifi_calling_call_assistant">Call assistant</string>
-     <string name="wifi_calling_call_assistant_configure">Configure</string>
-     <string name="wifi_calling_call_assistant_configure_no_selection">Call assistant off</string>
-     <string name="wifi_calling_call_assistant_none">None</string>
-     <string name="wifi_calling_do_not_use">Do not use WLAN calling</string>
-     <string name="wifi_calling_do_not_use_call_assistant">Do not use call assistant</string>
-     <string name="wifi_calling_select_call_assistant">Choose call assistant</string>
-     <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
-     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
-     <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
+     <string name="wifi_calling_call_assistant">Ringeassistent</string>
+     <string name="wifi_calling_call_assistant_configure">Konfigurer</string>
+     <string name="wifi_calling_call_assistant_configure_no_selection">Ringeassistent av</string>
+     <string name="wifi_calling_call_assistant_none">Ingen</string>
+     <string name="wifi_calling_do_not_use">Ikke bruke Wi-Fi-anrop</string>
+     <string name="wifi_calling_do_not_use_call_assistant">Ikke bruk ringeassistent</string>
+     <string name="wifi_calling_select_call_assistant">Velg ringeassistent</string>
+     <string name="wifi_calling_select_call_assistant_summary">Velg en app eller tjeneste for å adminstrere nettverkene brukt for ringing</string>
+     <string name="wifi_calling_use_call_assistant">Bruk ringeassistent</string>
+     <string name="wifi_calling_use_call_assistant_summary">La apper eller tjenester håndtere nettverk brukt for ringing</string>
      <string name="wild_prompt_str">Erstatt jokertegn med</string>
      <string name="wrong_password">Passordet du skrev er feil</string>
      <string name="xdivert_button">X-Divert-innstilling</string>
