@@ -1035,6 +1035,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dndm_vip_list_custom">Unntak</string>
      <string name="dndm_vip_list_custom_group">Unntak</string>
      <string name="dndm_vip_list_group">Unntaksliste</string>
+     <string name="dndm_vip_user_setting_title">Unntak</string>
      <string name="do_not_disturb_mode">Ikke forstyrr</string>
      <string name="dock_audio_media_disabled">All lyd</string>
      <string name="dock_audio_media_enabled">Bare medielyd</string>
@@ -1097,18 +1098,18 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="emergency_tone_vibrate">Vibrer</string>
      <string name="empty_list_msg">Du har ikke installert noen tredjepartsapper.</string>
      <string name="enableNetwork">enableNetwork</string>
-     <string name="enable_adb">USB-debugging</string>
-     <string name="enable_adb_summary">Debug-modus når USB er koblet til</string>
-     <string name="enable_adb_summary_charging">Device is in Charging mode, USB debugging is disabled</string>
+     <string name="enable_adb">USB-feilsøking</string>
+     <string name="enable_adb_summary">Feilsøkingsmodus når USB er koblet til</string>
+     <string name="enable_adb_summary_charging">Enheten lader, USB-feilsøking er deaktivert</string>
      <string name="enable_compatibility">Skalér app</string>
      <string name="enable_crypt_keeper_encrypt">Aktiver kryptering</string>
-     <string name="enable_data_string">Enable data connection</string>
+     <string name="enable_data_string">Aktiver dataforbindelse</string>
      <string name="enable_drive_mode">Bilmodus</string>
      <string name="enable_mobile_data_when_opening_hotspot">Skru på mobildatatilkobling også?</string>
      <string name="enable_opengl_traces_title">Aktiver OpenGL-spor</string>
      <string name="enable_quick_setting">Vis i hurtiginnstillingene</string>
-     <string name="enable_quickboot_summary">Put device into QuickBoot mode instead of normal power off</string>
-     <string name="enable_quickboot_title">Enable QuickBoot mode</string>
+     <string name="enable_quickboot_summary">Sett enheten i rask oppstart-modus i stedet for å skru av strømmen</string>
+     <string name="enable_quickboot_title">Aktiver rask oppstart-modus</string>
      <string name="enable_service_encryption_warning">Hvis du slår på %1$s, bruker ikke enheten skjermlåsen til å forbedre datakryptering.</string>
      <string name="enable_service_password_reason">Du må bekrefte passordet ditt for å slå på %1$s, fordi den påvirker datakryptering.</string>
      <string name="enable_service_pattern_reason">Du må bekrefte mønsteret ditt for å slå på %1$s, fordi den påvirker datakryptering.</string>
@@ -1181,6 +1182,20 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="factory_reset_summary">"Fjern alle data fra telefonen din sin sitt interne lager"</string>
      <string name="failed_to_open_app_settings_toast">Kunne ikke åpne innstillingene for %1$s</string>
      <string name="fcc_equipment_id">Utstyrs-ID</string>
+     <string name="field_info_card_label">Velg kort:</string>
+     <string name="field_info_cell_id_label">Celle-ID:</string>
+     <string name="field_info_frequency_band_label">Frekvensbånd:</string>
+     <string name="field_info_iccid_label">ICCID:</string>
+     <string name="field_info_location_area_label">Områdekode for plassering:</string>
+     <string name="field_info_mobile_country_label">Mobil landekode:</string>
+     <string name="field_info_mobile_network_label">Mobil nettverkskode:</string>
+     <string name="field_info_radio_frequency_channel_label">ARFCN:</string>
+     <string name="field_info_routing_area_label">Ruter-områdekode:</string>
+     <string name="field_info_rssi_label">RSSI:</string>
+     <string name="field_info_rx_tx_port_label">Rx/Tx-port:</string>
+     <string name="field_info_tracking_area_label">Sporingsområde-kode:</string>
+     <string name="field_info_tx_power_label">Tx-strøm:</string>
+     <string name="field_test_info_label">Felttest info</string>
      <string name="filter">Filter</string>
      <string name="filter_apps_all">Alle</string>
      <string name="filter_apps_cached">Hurtiglagret</string>
@@ -1666,6 +1681,8 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="master_clear_progress_title">Sletter</string>
      <string name="master_clear_summary">Sletter alle data på enheten</string>
      <string name="master_clear_title">Fabrikkinnstillinger</string>
+     <string name="max_cpu6_info">"Maks seks-kjerner "</string>
+     <string name="max_cpu8_info">"Maks åtte-kjerner "</string>
      <string name="media_button">Medieknapp</string>
      <string name="media_category">Medier</string>
      <string name="media_feedback_enable_title">Vibrer med rytmen</string>
@@ -1763,6 +1780,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="miui_allow_light">tillat lys</string>
      <string name="miui_allow_music">tillat musikk</string>
      <string name="miui_allow_vibrate">tillat vibrering</string>
+     <string name="miui_data_usage_menu_metered">Mobilt aksesspunkt</string>
      <string name="miui_disturb_title">aktiver forstyrrelse-modus</string>
      <string name="miui_screensaver_show_time">Varighet</string>
      <string name="miui_screensaver_show_time_select_title">Sett lysbildevarighet</string>
@@ -2392,6 +2410,10 @@ Sånn fungerer én-appsmodus:
 
 4. Trykk på knappenålsikonet."</string>
      <string name="screen_pinning_title">Én-appsmodus</string>
+     <string name="screen_resolution_confirm">Bekreft og start på nytt</string>
+     <string name="screen_resolution_summary">Reduser oppløsningen til skjermen, for å forbedre ytelse og flyt. Denne endringen krever omstart av systemet.</string>
+     <string name="screen_resolution_switch">Bytt skjermoppløsning</string>
+     <string name="screen_resolution_title">Skjermoppløsning</string>
      <string name="screen_saturation">Metning</string>
      <string name="screen_timeout">Hvilemodus</string>
      <string name="screen_timeout_summary">Etter %1$s med inaktivivitet</string>
@@ -3020,6 +3042,7 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="usb_format_summary">Sletter alle data på USB-enheten, som musikk og bilder</string>
      <string name="usb_host_mode_subtext">For bruk av spillkontrollere og annen tilleggsutstyr på USB-porten, redusere batterilevetid</string>
      <string name="usb_host_mode_text">Aktiver USB-host modus</string>
+     <string name="usb_insert_summary">Sett inn USB-lagring for montering</string>
      <string name="usb_label_installer_cd">Installer filoverføringsverktøy</string>
      <string name="usb_media_format_button_text">Slett USB-lagring</string>
      <string name="usb_media_format_desc">Slett USB-lagring? Du vil miste &lt;b&gt;alle&lt;/b&gt; data på denne lagringen!</string>
@@ -3224,6 +3247,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="vpn_dns_servers">DNS-servere</string>
      <string name="vpn_dns_servers_hint">f.eks. 8.8.8.8</string>
      <string name="vpn_edit">Endre VPN-profil</string>
+     <string name="vpn_enable">VPN</string>
      <string name="vpn_ipsec_ca_cert">IPSec CA-sertifikat</string>
      <string name="vpn_ipsec_identifier">IPSec-identifikator</string>
      <string name="vpn_ipsec_secret">Forhåndsdelt nøkkel for IPSec</string>
@@ -3674,6 +3698,7 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="yes">Ja</string>
      <string name="yes_all_caps">JA</string>
      <string name="zen_mode_alarm_info">Alarmer er alltid prioriterte forstyrrelser</string>
+     <string name="zen_mode_alarm_use">Alarm-brukerinnstilling</string>
      <string name="zen_mode_automation_category">Automatisering</string>
      <string name="zen_mode_default_option">Inntil du slår av funksjonen</string>
      <string name="zen_mode_downtime_category">Nedetid (bare prioriterte forstyrrelser)</string>

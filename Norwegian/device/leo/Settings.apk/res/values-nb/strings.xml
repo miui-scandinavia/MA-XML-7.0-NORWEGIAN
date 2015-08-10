@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="bluetooth_enter_passkey_msg">Skriv paringskoden, så trykk Retur eller Enter:</string>
+     <string name="bluetooth_enter_pin_msg">Enhet:</string>
+</resources>

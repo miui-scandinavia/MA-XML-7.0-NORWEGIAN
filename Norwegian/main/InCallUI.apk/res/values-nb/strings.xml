@@ -76,6 +76,7 @@
      <string name="callFailed_userBusy">Linjen er opptatt</string>
      <string name="callUnanswered_forwarded">Ring ubesvarte og videresendte</string>
      <string name="call_description_recording">Recording…</string>
+     <string name="call_extension_conference_mode">Konferansemodus</string>
      <string name="call_forwarding_settings">Innstillinger for viderekobling</string>
      <string name="call_lost">Anrop har blitt tapt.</string>
      <string name="call_record_button_label">Tar opp %s</string>
@@ -85,21 +86,22 @@
      <string name="call_recording_error_sd_access">"Kan ikke få tilgang til SD-kort"</string>
      <string name="call_recording_error_sd_unmounted">Opptak har blitt stoppet: SD-kort er avmontert</string>
      <string name="call_recording_error_start_failed">Opptaksfunksjonen blir brukt av en annen app</string>
-     <string name="call_recording_error_unknown">An unknown error occurred</string>
-     <string name="call_recording_notification_message">Touch to listen.</string>
-     <string name="call_recording_notification_message_low_storage">SD card is full.</string>
-     <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
-     <string name="call_recording_notification_title">Call recorded</string>
-     <string name="call_recording_notification_title_error">"Couldn't record call"</string>
+     <string name="call_recording_error_unknown">En ukjent feil oppsto</string>
+     <string name="call_recording_notification_message">Trykk for å høre.</string>
+     <string name="call_recording_notification_message_low_storage">SD-kort er fullt.</string>
+     <string name="call_recording_notification_message_sd_unmounted">SD-kort har blitt fjernet.</string>
+     <string name="call_recording_notification_title">Anrop innspilt</string>
+     <string name="call_recording_notification_title_error">"Kunne ikke spille inn anrop"</string>
+     <string name="call_recording_notification_toggle_title">Varsel om samtaleopptak</string>
      <string name="call_settings">Samtaleinnstillinger</string>
      <string name="call_title_redialing_with_times">Oppringt %d ganger</string>
      <string name="caller_manage_header">Konferanseanrop %s</string>
      <string name="calling_via_template">Ringer via %s</string>
      <string name="cancel">Cancel</string>
      <string name="card_title_call_ended">Anrop avsluttet</string>
-     <string name="card_title_callback_number">"Your call back number
+     <string name="card_title_callback_number">"Ditt nummer for tilbakeringing
  %1$s"</string>
-     <string name="card_title_callback_number_emergency">"Your emergency call back number
+     <string name="card_title_callback_number_emergency">"Ditt nødnummer for tilbakeringing
  %1$s"</string>
      <string name="card_title_conf_call">Konferanseanrop</string>
      <string name="card_title_dialing">Ringer</string>
@@ -112,9 +114,9 @@
      <string name="card_title_redialing">Prøver igjen</string>
      <string name="card_title_threeway_call">Three-way call</string>
      <string name="card_title_video_call">Video call</string>
-     <string name="card_title_video_call_connecting">Connecting video</string>
-     <string name="card_title_video_call_error">Cannot connect video call</string>
-     <string name="card_title_video_call_requesting">Requesting video</string>
+     <string name="card_title_video_call_connecting">Kobler til video</string>
+     <string name="card_title_video_call_error">Kan ikke koble til videoanrop</string>
+     <string name="card_title_video_call_requesting">Ber om video</string>
      <string name="cb_sms_settings">Innstillinger for kringkastings-SMS</string>
      <string name="cdma_activate_device">Aktiver enhet</string>
      <string name="cdma_lte_data_service">Konfigurer datatjeneste</string>
@@ -447,6 +449,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="onscreen_add_call_text">Legg til samtale</string>
      <string name="onscreen_audio_mode">Svar ved å bruke</string>
      <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+     <string name="onscreen_audio_mode_conference">Konferanse</string>
      <string name="onscreen_audio_mode_handset">Hands-free</string>
      <string name="onscreen_audio_mode_headset">Hodetelefoner</string>
      <string name="onscreen_audio_mode_speaker">Høyttaler</string>
