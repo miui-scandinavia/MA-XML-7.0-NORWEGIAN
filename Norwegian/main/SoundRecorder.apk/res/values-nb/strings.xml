@@ -4,6 +4,7 @@
      <string name="accept">Ferdig</string>
      <string name="access_error">Kan ikke ta opp gjestemodus</string>
      <string name="alert_message_delete_record">Vil du slette valgte opptak?</string>
+     <string name="alert_message_delete_record_title">Delete Record</string>
      <string name="app_name">Lydopptaker</string>
      <string name="audio_db_album_name">Lydopptak</string>
      <string name="audio_db_artist_name">Dine opptak</string>

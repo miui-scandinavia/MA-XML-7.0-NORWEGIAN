@@ -21,10 +21,13 @@
      <string name="add_2sec_pause">Legg til 2 sek. pause</string>
      <string name="add_account">Legg til konto</string>
      <string name="add_blacklist">Legg til svarteliste</string>
+     <string name="add_blacklist_dialog_message">Block this number?</string>
      <string name="add_blacklist_dialog_title">Legg til i blokkeringsliste</string>
      <string name="add_connection_button">Legg til forbindelse</string>
      <string name="add_contact_dlg_message_fmt">Legg til \"%s\" i kontakter?</string>
+     <string name="add_display_photo_entry">Add profile photo</string>
      <string name="add_field">Legg til felt</string>
+     <string name="add_incall_show_entry">Add video</string>
      <string name="add_new_account">Legg til ny konto</string>
      <string name="add_new_entry_for_section">Legg til ny</string>
      <string name="add_organization">Legg til organisasjon</string>
@@ -151,6 +154,7 @@
      <string name="callrecordview_menu_show_stranger">Vis kun ukjente anrop</string>
      <string name="callrecordview_menu_show_title">Velg type anropshistorikk som skal vises</string>
      <string name="cancel_confirmation_dialog_message">Ønsker du å forkaste dine endringer?</string>
+     <string name="cancel_confirmation_dialog_title">Cancel</string>
      <string name="cancel_export_confirmation_message">Er du sikker på at avbryte eksport av %s?</string>
      <string name="cancel_import_confirmation_message">Avbryt importering av %s?</string>
      <string name="cancel_import_dialog_message">Er du sikker på du vil stoppe importeringen av kontaker?</string>
@@ -180,6 +184,13 @@
      <string name="cloud_antispam_mark">Rapporter</string>
      <string name="cloud_antispam_title">Cloud-brannmur</string>
      <string name="cloud_recommend_msg">Trykk for å synkronisere kontakter med Mi Cloud.</string>
+     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+     <string name="cloud_state_loading">Just a sec…</string>
+     <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+     <string name="cloud_state_syncing">Synced with Mi Cloud</string>
+     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
+%2$s"</string>
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
@@ -207,6 +218,32 @@
      <string name="contact_delete_toast">Kontakt slettet</string>
      <string name="contact_detail_calllog_call_note_tips">anropsnote</string>
      <string name="contact_detail_calllog_call_record_tips">Opptak av anrop</string>
+     <string name="contact_detail_menu_delete_miprofile">Delete card</string>
+     <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
+     <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
+     <string name="contact_detail_miprofile_accept_success_toast">Exchanged contact cards</string>
+     <string name="contact_detail_miprofile_binded_label">Added</string>
+     <string name="contact_detail_miprofile_exchange_closed">"No phone number is associated with this Mi Account
+Contact cards are turned off"</string>
+     <string name="contact_detail_miprofile_privacy_settings">Contacts must get your permission to view your contact card</string>
+     <string name="contact_detail_miprofile_request">Tap to exchange cards</string>
+     <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
+     <string name="contact_detail_miprofile_request_subtitle">After recipient accepts, profile photo and contact info will be updated automatically</string>
+     <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
+     <string name="contact_detail_miprofile_save">Tap to get contact card</string>
+     <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
+     <string name="contact_detail_miprofile_save_success_toast">Received contact card</string>
+     <string name="contact_detail_miprofile_settings_header">Exchange settings</string>
+     <string name="contact_detail_miprofile_subtitle">Already exchanged cards</string>
+     <string name="contact_detail_profile_switch_fail_network_toast">"Can't connect to the network"</string>
+     <string name="contact_detail_profile_switch_fail_toast">Something went wrong with our server</string>
+     <string name="contact_detail_profile_switch_off">Contact cards are off</string>
+     <string name="contact_detail_profile_switch_off_fail_toast">"Couldn't turn off contact cards"</string>
+     <string name="contact_detail_profile_switch_off_success_toast">Contact cards turned off</string>
+     <string name="contact_detail_profile_switch_on">"View contacts' profile photo"</string>
+     <string name="contact_detail_profile_switch_on_fail_toast">"Couldn't turn on contact cards"</string>
+     <string name="contact_detail_profile_switch_on_subtitle">Tap to turn this feature on.</string>
+     <string name="contact_detail_profile_switch_on_success_toast">Contact cards are already on</string>
      <string name="contact_directory_description">Bibliotek %1$s</string>
      <string name="contact_edit_title_edit">Rediger kontakt</string>
      <string name="contact_edit_title_insert">Lagre til %s</string>
@@ -228,6 +265,7 @@
      <string name="contactsGroupsLabel">Grupper</string>
      <string name="contactsJoinedMessage">Kontakter flettet</string>
      <string name="contactsList">kontakter</string>
+     <string name="contacts_in_call_show">"%s's video"</string>
      <string name="contacts_unavailable_add_account">Log inn på en konto</string>
      <string name="contacts_unavailable_create_contact">Opprett en ny kontaktperson</string>
      <string name="contacts_unavailable_import_contacts">Importer kontakter fra en fil</string>
@@ -254,6 +292,7 @@
      <string name="deleteConfirmation">Denne kontakt vil bli slettet</string>
      <string name="deleteConfirmationDetail">Slett \"%s\"?</string>
      <string name="deleteConfirmation_title">Slett</string>
+     <string name="delete_call_log_message">Delete call history?</string>
      <string name="delete_call_log_selected_title">Slett valgte anropshistorikk?</string>
      <string name="delete_call_log_title">Velg anropshistorikk til sletting</string>
      <string name="delete_contact_calllog_title">Slett anropshistorikk?</string>
@@ -319,6 +358,8 @@
      <string name="description_view_contact_detail">Vis kontakt</string>
      <string name="description_voicemail_button">Voicemail</string>
      <string name="deselect_all">Fjern alle</string>
+     <string name="details_list_group_header_more_action">More</string>
+     <string name="details_list_group_header_other">Other</string>
      <string name="device_bluetooth_title">innledende behandling</string>
      <string name="device_brand_title">Velg telefonmerke</string>
      <string name="device_import_account_dialog_title">Velg konto til import</string>
@@ -532,6 +573,24 @@
      <string name="importing_vcard_canceled_title">Importering av %s ble avbrutt</string>
      <string name="importing_vcard_description">Importerer %s</string>
      <string name="importing_vcard_finished_title">Ferdig med å importere vCard %s</string>
+     <string name="in_call_show">Video</string>
+     <string name="in_call_show_camera_open_error">Error happens when opening camera, please retry</string>
+     <string name="in_call_show_delete_message">Delete your video?</string>
+     <string name="in_call_show_delete_title">Delete video?</string>
+     <string name="in_call_show_demo_present">Preview</string>
+     <string name="in_call_show_guide_start_recording">Record now</string>
+     <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
+     <string name="in_call_show_pick_video">Choose</string>
+     <string name="in_call_show_preview">Preview</string>
+     <string name="in_call_show_recording">Recording…</string>
+     <string name="in_call_show_reshoot">Retry</string>
+     <string name="in_call_show_save_completed">Profile video saved</string>
+     <string name="in_call_show_save_failed">"Couldn't save video"</string>
+     <string name="in_call_show_tap_to_show_demo">Tap display to preview</string>
+     <string name="in_call_show_too_short">Too short. Try recording a longer video.</string>
+     <string name="in_call_show_video_pick">Choose video</string>
+     <string name="in_call_show_video_pick_filter">"Video must be smaller than 3 MB and shorter than 20 seconds. "</string>
+     <string name="in_call_show_view_play_error">Error happens when playing video, please retry</string>
      <string name="incall_error_missing_voicemail_number">Nummeret til talepostkassen mangler.</string>
      <string name="insertContactDescription">Opprett ny Kontakt</string>
      <string name="insertGroupDescription">Opprett gruppe</string>
@@ -640,11 +699,52 @@
      <string name="merge_contact_message">%1$d kontakter med delvis identiske data</string>
      <string name="messageShortcutActivityTitle">Velg en snarvei</string>
      <string name="message_from_you_prefix">Du: %s</string>
+     <string name="miprofile_account_type">Mi Account</string>
+     <string name="miprofile_alertdialog_edit">Enter name</string>
+     <string name="miprofile_alertdialog_message">Show this name to contacts when you ask to exchange cards.</string>
+     <string name="miprofile_alertdialog_title">Enter name</string>
+     <string name="miprofile_bind_account_alertdialog_message">"You need to add this device's phone number to your Mi Account to use this feature."</string>
+     <string name="miprofile_bind_account_alertdialog_positive">Add number</string>
+     <string name="miprofile_bind_account_alertdialog_title">Add phone number</string>
+     <string name="miprofile_edit_title">Edit card</string>
+     <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
+     <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
+     <string name="miprofile_error_not_opened">Contact cards are off</string>
+     <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
+     <string name="miprofile_error_unknown">Unknown error</string>
+     <string name="miprofile_name">My card</string>
+     <string name="miprofile_notice_text">"Tap to view contact's profile photo"</string>
+     <string name="miprofile_request_agenda_date">%1$s wants to exchange contact cards</string>
+     <string name="miprofile_request_agenda_today">%1$s wants to exchange contact cards</string>
+     <string name="miprofile_request_agenda_yesterday">%1$s wants to exchange contact cards</string>
+     <string name="miprofile_request_agree">Accept</string>
+     <string name="miprofile_request_agree_exchange_profile">Exchanged contact cards</string>
+     <string name="miprofile_request_agreed">%1$sAgreed to exchange contact card with me</string>
+     <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
+     <string name="miprofile_request_alertdialog_title">Exchange contacts card</string>
+     <string name="miprofile_request_clear_alertdialog_message">Clear contact card exchange history?</string>
+     <string name="miprofile_request_clear_alertdialog_title">Clear history</string>
+     <string name="miprofile_request_deleted">Card deleted</string>
+     <string name="miprofile_request_empty_request">No exchange requests</string>
+     <string name="miprofile_request_exchange_title">Contact card request</string>
+     <string name="miprofile_request_menu_clear_request">Clear history</string>
+     <string name="miprofile_request_message">%1$s people want to exchange contact cards</string>
+     <string name="miprofile_request_notification_message">Accept to view profile photo and more info</string>
+     <string name="miprofile_request_notification_title">%1$s people want to exchange contact cards</string>
+     <string name="miprofile_request_notification_title_name">%1$s wants to exchange contact cards</string>
+     <string name="miprofile_request_time_expired_deleted">Requests older than 1 week will be deleted automatically.</string>
+     <string name="miprofile_save_alertdialog_message">Your card will be sent to this contact automatically.</string>
+     <string name="miprofile_save_alertdialog_title">Contact card received</string>
+     <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people. Your contacts won't be able to see your profile video."</string>
+     <string name="miprofile_switch_on_alertdialog_message">Exchange contact cards to view updated profile photo.</string>
+     <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
+     <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
      <string name="missing_app">Kunne ikke finne noen app som kan håndtere denne handlingen.</string>
      <string name="missing_name">ukjent</string>
      <string name="move_and_resize">Flytt og skaler</string>
      <string name="multipleContactDeleteConfirmation">sletting av denne kontakten vil slette opplysninger fra flere kontoer.</string>
      <string name="multipleContactDeleteConfirmationDetail">sletting av \"%s\" vil slette informasjon fra flere kontoer.</string>
+     <string name="my_in_call_show">My video</string>
      <string name="my_phone_not_provider_bluetooth">Telefon støtter ikke Bluetooth</string>
      <string name="my_phone_provider_bluetooth">Telefon støtter Bluetooth</string>
      <string name="nameLabelsGroup">Navn</string>
@@ -737,6 +837,8 @@ for å legge til kontakt til favoritter:
      <string name="phone_info_divider">"  |  "</string>
      <string name="phone_primary">Primær</string>
      <string name="photoPickerNotFoundText">Ingen bilder er tilgjengelige</string>
+     <string name="photo_fragment">Photo</string>
+     <string name="photo_load_failed">"Couldn't load photo"</string>
      <string name="photo_package_activity_title">Bildepakke</string>
      <string name="pick_new_photo">Velg nytt bilde fra Galleri</string>
      <string name="pick_photo">Velg bilde fra Galleri</string>
@@ -752,6 +854,7 @@ for å legge til kontakt til favoritter:
      <string name="picker_postal_title">Velg postnummer</string>
      <string name="picker_recent_list_empty">Ingen nylige kontakter</string>
      <string name="pkgLabel">Kontakter og telefon</string>
+     <string name="play_incall_show_entry">Play video</string>
      <string name="postalLabelsGroup">Adresse</string>
      <string name="postal_address">Adresse</string>
      <string name="postal_city">By</string>
@@ -812,6 +915,7 @@ for å legge til kontakt til favoritter:
      <string name="preference_tone_title">Tone</string>
      <string name="prepare_import">Importer kontakter</string>
      <string name="preview_contact_card_title">Importerer kontakter…</string>
+     <string name="preview_incall_show_entry">Preview video</string>
      <string name="previous">Forrige</string>
      <string name="private_num">Hemmelig nummer</string>
      <string name="profile_display_name">Sett opp min profil</string>
@@ -827,6 +931,7 @@ for å legge til kontakt til favoritter:
      <string name="quickcontact_add_phone_number">Legg til telefonnummer</string>
      <string name="quickcontact_missing_app">Ingen program funnet til å håndtere denne handling</string>
      <string name="quickcontact_transparent_view_description">Klikk for å gå tilbake til den forrige skjermen</string>
+     <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
      <string name="quit_dialog_confirm_title">Er du sikker på du vil avslutte fletning av kontakter?</string>
      <string name="readOnlyContactDeleteConfirmation">Denne kontakt inneholder informasjon fra flere kontoer. Info fra skrivebeskyttede kontoer vil bli skjult i dine kontakters lister, ikke slettet.</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" Denne kontakt inneholder information fra flere kontoer. Info fra skrivebeskyttede kontoer vil bli skjult i dine kontakters lister, ikke slettet.</string>
@@ -855,6 +960,7 @@ for å legge til kontakt til favoritter:
      <string name="relationLabelsGroup">Forhold</string>
      <string name="removePhoto">Fjern bilde</string>
      <string name="remove_blacklist">Fjern blokkering</string>
+     <string name="remove_blacklist_dialog_message">Unblock this number?</string>
      <string name="remove_blacklist_dialog_title">Fjern fra blokkeringsliste</string>
      <string name="remove_duplicate">"MIUI hjelper deg med å finne og flette dupliserte kontakter.
 
@@ -1207,6 +1313,10 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="user_profile_contacts_list_header">Meg</string>
      <string name="vcard_export_request_rejected_message">vCard eksport forespørselen er avvist. Vennligst prøv igjen senere.</string>
      <string name="vcard_export_will_start_message">%s vil bli eksporteret innen kort tid.</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: "Couldn't import vCard %s." -->
      <string name="vcard_import_failed">"Kunne ikke importere vCard"</string>
      <string name="vcard_import_request_rejected_message">vCard import forespørselen er avvist. Vennligst prøv igjen senere.</string>
      <string name="vcard_import_will_start_message">%s vil bli importert kort tid.</string>

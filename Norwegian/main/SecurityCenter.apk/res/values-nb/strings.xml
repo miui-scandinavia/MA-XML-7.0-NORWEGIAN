@@ -327,6 +327,7 @@
      <string name="manual_item_white_list_title">Unntak</string>
      <string name="manual_white_list_header">%d unntak</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
+     <string name="memory_check_content_none">None</string>
      <string name="menu_item_about_content">Versjon %s</string>
      <string name="menu_item_about_summary">Versjon %s</string>
      <string name="menu_item_about_title">Om</string>

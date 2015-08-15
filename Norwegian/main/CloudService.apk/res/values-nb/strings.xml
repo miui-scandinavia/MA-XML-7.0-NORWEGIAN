@@ -84,7 +84,7 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="error_unauthorized">Synk har blitt deaktivert på grunn av for mange innloggingsforsøk.</string>
      <string name="error_unknown">"Kan ikke logge inn"</string>
      <string name="find_device">Finn enhet</string>
-     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen innstillingene til Mi Cloud</string>
+     <string name="find_device_disabled_notice">Du kan aktivere Finn enhet-funksjonen i innstillingene til Mi Cloud</string>
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
@@ -140,6 +140,7 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
      <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
+     <string name="micloud_detail_download_syncing">Laster ned %s</string>
      <string name="micloud_detail_fail">"Kan ikke synke"</string>
      <string name="micloud_detail_lastest">Synket</string>
      <string name="micloud_detail_pending">Venter</string>
@@ -147,6 +148,7 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_detail_preference_wlan">Synk på Wi-Fi</string>
      <string name="micloud_detail_success">Synket</string>
      <string name="micloud_detail_syncing">Synker</string>
+     <string name="micloud_detail_upload_syncing">Laster opp %s</string>
      <string name="micloud_detail_wlan">%d venter på synk</string>
      <string name="micloud_detail_wlan_contact">%d kontaktbilder venter på synk</string>
      <string name="micloud_detail_wlan_mms">%d MMS venter på synk</string>
@@ -269,7 +271,7 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="mx_dspt_provision_with_voip2">Personvernspolitikk</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="mx_sub_dspt_provision_with_voip">Internett-ringing</string>
-     <string name="mx_voip_dspt">Mi-kommunikasjon</string>
+     <string name="mx_voip_dspt">Mi-tale</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
@@ -281,9 +283,11 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="phone_number_required_dspt_provision">"Denne tjenestne krever ditt telfonnummer. "</string>
      <string name="photo">Bilder</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Reduserer databruk</string>
+     <string name="pref_summary_sync_video_on_wifi_only">"Bare synk kontakters profilvideoer når du er tilkoblet et Wi-Fi-nettverk"</string>
      <string name="pref_title_sync_contacts_title">Synk kontakt</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
      <string name="pref_title_sync_my_profile_title">Synk min profil</string>
+     <string name="pref_title_sync_video_on_wifi_only">Bare bruk Wi-Fi for å synke video</string>
      <string name="privacy_policy">Personvernspolitikk</string>
      <string name="remind_later">Ikke nå</string>
      <string name="restoreSync">Synk nå</string>

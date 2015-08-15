@@ -79,6 +79,7 @@
      <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
      <string name="delete">Slett</string>
      <string name="delete_backup_process">Sletter…</string>
+     <string name="delete_backup_title">Slett backup</string>
      <string name="delete_failed_backup_confirm">"Denne backupen inneholder feil."</string>
      <string name="deselect_all">Avvelg alle</string>
      <string name="digit_percent">%</string>

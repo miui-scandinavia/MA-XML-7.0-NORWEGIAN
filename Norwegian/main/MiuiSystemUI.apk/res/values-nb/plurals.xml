@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Block %d apps</item>
+        <item quantity="one">Block %d app</item>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d nylige apper</item>
         <item quantity="one">1 nylig app</item>
-    </plurals>
+     </plurals>
 </resources>

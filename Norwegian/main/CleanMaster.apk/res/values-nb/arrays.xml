@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="apk_clean_menu">
+        <item>Rydd opp</item>
+        <item>Fil</item>
+        <item>Unntak</item>
+        <item>Installer</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Details</item>
+        <item>File</item>
+        <item>Back up and uninstall</item>
+        <item>Uninstall</item>
+     </string-array>
      <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>
@@ -19,9 +31,14 @@
         <item>Aldri</item>
      </string-array>
      <string-array name="auto_process_mode">
-        <item>Spørr med varsling</item>
-        <item>Rydd i bakgrunnen</item>
-        <item>Vis varsel etter opprydding</item>
+        <item>Vis</item>
+        <item>"Ikke vis"</item>
+        <item>Vis etter</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
+        <item>Rydd opp</item>
+        <item>Fil</item>
+        <item>Unntak</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Størrelse</item>

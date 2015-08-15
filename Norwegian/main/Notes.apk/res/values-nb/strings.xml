@@ -6,12 +6,15 @@
      <string name="alert_action_edit_anyway">Fortsett endring</string>
      <string name="alert_edit_action_delete">Fjern</string>
      <string name="alert_edit_action_update">Rediger</string>
+     <string name="alert_message_delete">Delete %1$s?</string>
      <string name="alert_message_delete_folders">Slett %1$s?</string>
      <string name="alert_message_delete_folders_notes">Slett %1$sog %2$s?</string>
      <string name="alert_message_delete_note">Er du sikker på du vil slette dette notatet?</string>
      <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s?</string>
      <string name="alert_message_edit_anyway">Dette notatet har innhold som ikke er støttet, endring av notatet kan føre til datatap.</string>
+     <string name="alert_title_delete">Delete note</string>
      <string name="alert_title_edit_anyway">Bekreft endring av notatet, dette kan føre til datatap, er du sikker?</string>
+     <string name="all_terms">%1$s and %2$s</string>
      <string name="app_name">Notater</string>
      <string name="app_widget">Notater</string>
      <string name="attachment_camera">Kamera</string>
@@ -50,6 +53,7 @@
      <string name="menu_stick">Prioriter</string>
      <string name="menu_title_select_folder">Velg mappe</string>
      <string name="menu_unstick">Deprioriter</string>
+     <string name="micloud_state_total_count">%1$s</string>
      <string name="not_now">Ikke nå</string>
      <string name="note_alert_expired">Utløpt</string>
      <string name="note_link_email">Send epost</string>

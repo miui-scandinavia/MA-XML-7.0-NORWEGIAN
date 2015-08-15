@@ -20,7 +20,7 @@
      <string name="bugreport_tool_log">Opprett feilrapport</string>
      <string name="bugreport_tool_log_toast">Logg lagret til %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Oppretter feilrapport (tar rundt et minutt)</string>
-     <string name="button_feedback">Andre</string>
+     <string name="button_feedback">Opprett</string>
      <string name="button_plus">+1</string>
      <string name="camera_problem1">Dårlig bildekvalitet</string>
      <string name="camera_problem2">"Kan ikke koble til kamera via USB"</string>

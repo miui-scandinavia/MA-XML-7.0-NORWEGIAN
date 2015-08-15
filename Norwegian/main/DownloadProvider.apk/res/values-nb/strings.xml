@@ -17,6 +17,8 @@
      <string name="download_running">Pågår</string>
      <string name="download_running_percent">Pågår, %d%%</string>
      <string name="download_unknown_title">Ikke navngitt</string>
+     <string name="enter_garbage_clean">Rydd opp i intern lagring.</string>
+     <string name="insufficient_space">"Ikke nok plass på enhetens interne lagring"</string>
      <string name="notif_text_engine_off">Xunlei-akselerator er av.</string>
      <string name="notif_text_engine_on">Akselerer…</string>
      <string name="notif_title_file_size">%1$d totalt</string>

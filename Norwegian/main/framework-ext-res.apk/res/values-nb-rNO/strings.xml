@@ -10,6 +10,8 @@
      <string name="caller_info_name_delimiter">" eller "</string>
      <string name="copy">Kopier</string>
      <string name="cut">Kutt</string>
+     <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+     <string name="fc_dialog_jump_to_preview">View the summary</string>
      <string name="first_back_long_press_message">"Trykk og hold Tilbake-knappen for å drepe den gjeldende prosessen og dens bakgrunnstjenester.
 
 For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper"</string>
@@ -20,6 +22,8 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="global_actions_reboot">Omstart</string>
      <string name="global_actions_shutdown">Skru av</string>
      <string name="global_actions_silent_mode">Stillemodus</string>
+     <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
+     <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
      <string name="handy_mode_summary">For å lukke, trykk på den tomme plassen utenfor skjermen</string>
      <string name="handy_mode_title">En-håndsmodus</string>
      <string name="key_btn_ok">OK</string>

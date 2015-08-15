@@ -290,6 +290,7 @@
      <string name="body_inline_pic_text">[Picture]</string>
      <string name="bottom_bar_more_delete">Slett</string>
      <string name="bottom_bar_more_quickreply">Hurtigsvar</string>
+     <string name="bottom_bar_more_share">Share</string>
      <string name="bottom_bar_more_unread">Merk som ulest</string>
      <string name="bottom_bar_no_quickreply_toast">Ingen hurtigsvar</string>
      <string name="bytes">%s B</string>
@@ -578,6 +579,7 @@
      <string name="general_preference_text_zoom_tiny">Meget liten</string>
      <string name="general_preferences_title">Generelle innstillinger</string>
      <string name="generic_attachment_problem">"Kunne ikke legge ved fil."</string>
+     <string name="get_database_exception">Database abnormal, please clear data in App info of Mail</string>
      <string name="getting_messages">Henter e-posten din …</string>
      <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
      <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
@@ -1087,7 +1089,9 @@ CC: %4$s
      <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
      <string name="set_end_date_dialog_title">Sluttdato (valgfritt)</string>
      <string name="set_network">Set network</string>
+     <string name="setting_default_lable" />
      <string name="settings_activity_title">Innstillinger</string>
+     <string name="share_choose">Please choose</string>
      <string name="sharing">Share</string>
      <string name="shortcut_name_title">Name folder shortcut</string>
      <string name="show_elided">▶ Show quoted text</string>

@@ -469,6 +469,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="ims_vt_call_quality_set_failed">Failed to set video quality</string>
      <string name="ims_vt_call_quality_title">VT Call Quality</string>
      <string name="ims_vt_call_quality_unknown">Ukjent</string>
+     <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
      <string name="incall_error_missing_voicemail_number">Nummeret til talepostkassen mangler.</string>
@@ -486,6 +487,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_error_supp_service_unknown">Ustøttet tjeneste.</string>
      <string name="incall_error_turn_off_airplane_mode">Skru av flymodus</string>
      <string name="incall_status_dialed_mmi">Begynner MMI-sekvens…</string>
+     <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
+     <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
      <string name="international_disable">Verdensnyheter er av</string>
      <string name="international_enable">Verdensnyheter er på</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
@@ -762,6 +765,7 @@ Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).
 Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
      <string name="other_settings_category">Andre</string>
+     <string name="overseas_roaming_setting">Overseas roaming</string>
      <string name="password">Password</string>
      <string name="password_changed">Passord endret</string>
      <string name="password_title">Passord</string>

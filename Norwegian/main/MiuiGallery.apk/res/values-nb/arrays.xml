@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="baby_sexy">
+        <item>Boy</item>
+        <item>Girl</item>
+     </string-array>
+     <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>female</item>
+     </string-array>
+     <string-array name="owner_relation">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Paternal Grandfather</item>
+        <item>Paternal Grandmother</item>
+        <item>Maternal Grandfather</item>
+        <item>Maternal Grandmother</item>
+     </string-array>
+     <string-array name="owner_relation_value">
+        <item>father</item>
+        <item>mother</item>
+        <item>grandfather</item>
+        <item>grandmother</item>
+        <item>maternalGrandfather</item>
+        <item>maternalGrandmother</item>
+     </string-array>
      <string-array name="slideshow_time_entries">
         <item>5 minutter</item>
         <item>15 minutter</item>

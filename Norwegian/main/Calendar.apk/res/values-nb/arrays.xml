@@ -443,6 +443,13 @@
         <item>Pacific/Fiji</item>
         <item>Pacific/Tongatapu</item>
      </string-array>
+     <string-array name="travel_reminder_minutes_labels">
+        <item>3 timer</item>
+        <item>4 timer</item>
+        <item>5 timer</item>
+        <item>6 timer</item>
+        <item>1 dag</item>
+     </string-array>
      <string-array name="visibility">
         <item>Standard</item>
         <item>Privat</item>
