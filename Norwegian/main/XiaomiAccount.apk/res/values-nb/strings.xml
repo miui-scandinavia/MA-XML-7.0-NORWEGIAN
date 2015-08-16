@@ -262,7 +262,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="passport_active_email_visit">Sjekk innboksen din på %s</string>
      <string name="passport_activing_account">Aktiverer…</string>
      <string name="passport_app_name">Mi-konto</string>
-     <string name="passport_area_code_hot">Ofte brukt</string>
+     <string name="passport_area_code_hot">OFTE BRUKT</string>
      <string name="passport_area_code_title">Landekode</string>
      <string name="passport_bad_authentication">Ugyldig brukernavn eller passord</string>
      <string name="passport_btn_return">Tilbake</string>
@@ -320,7 +320,7 @@ For å aktivere din konto, følg
      <string name="passport_input_verify_code_hint">Skriv verifiseringskode</string>
      <string name="passport_license_host_unreachable">"Kan ikke koble til nettverket. Du kan vise denne siden på %s."</string>
      <string name="passport_loading">Laster…</string>
-     <string name="passport_login">Logg inn</string>
+     <string name="passport_login">Logg inn til en eksisterende konto</string>
      <string name="passport_login_failed">"Kan ikke logge inn"</string>
      <string name="passport_login_instead_reg">Bruk dette nummeret</string>
      <string name="passport_login_instead_reg_with_email">Bruk denne eposten</string>
@@ -334,7 +334,7 @@ For å aktivere din konto, følg
      <string name="passport_phone_num_hint_text">Telefonnummer</string>
      <string name="passport_prev">Tilbake</string>
      <string name="passport_privacy_policy">Personvernspolitikk</string>
-     <string name="passport_provision_skip_login"><u>Hopp over</u></string>
+     <string name="passport_provision_skip_login"><u>Hopp over dette trinnet</u></string>
      <string name="passport_quick_login_dialog_step2_title">2-trinn verifikasjon</string>
      <string name="passport_quick_login_dialog_title">Verifiser passord</string>
      <string name="passport_quick_login_step2_title">2-trinn verifikasjon</string>
@@ -342,7 +342,7 @@ For å aktivere din konto, følg
      <string name="passport_re_get_verify_code">Hent kode igjen</string>
      <string name="passport_re_register">Registrer deg på nytt</string>
      <string name="passport_reg_failed">"Kan ikke sette opp konto"</string>
-     <string name="passport_reg_new">Opprett Mi-konto</string>
+     <string name="passport_reg_new">Opprett en Mi-konto helt gratis</string>
      <string name="passport_reg_sms_send_prompt">Send verifiseringskode til %s</string>
      <string name="passport_reg_success">Konto opprettet</string>
      <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>

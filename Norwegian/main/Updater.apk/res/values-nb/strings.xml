@@ -164,7 +164,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="sina_share_success">Sending velykket!</string>
      <string name="sina_token_expired_warning">Weibo kontoen er utløpt, vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo kontoen er ugyldig, vennligst koble til på nytt</string>
-     <string name="sogou_uninstall_msg">Sogou-tastatur (Mi-utgave) er ikke lenger kompatibel med MIUI 6. Bytt tastatur eller oppdater til en nyere versjon av Sogou.</string>
+     <string name="sogou_uninstall_msg">Sogou-tastatur (Mi-utgave) er ikke lenger kompatibel med MIUI 7. Bytt tastatur eller oppdater til en nyere versjon av Sogou.</string>
      <string name="sogou_uninstall_negative_button">Oppdater Sogou</string>
      <string name="sogou_uninstall_positive_button">Bytt tastatur</string>
      <string name="sogou_uninstall_title">Tastatur-kompabilitet</string>
@@ -235,6 +235,6 @@ Kunne ikke sende tilbakemelding"</string>
      <string name="weekly_build">Ukentlig bygg</string>
      <string name="welcom_button">OK</string>
      <string name="welcom_message">"Du er klart til å rocke"</string>
-     <string name="welcom_title">Velkommen til MIUI 6</string>
+     <string name="welcom_title">Velkommen til MIUI 7</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>

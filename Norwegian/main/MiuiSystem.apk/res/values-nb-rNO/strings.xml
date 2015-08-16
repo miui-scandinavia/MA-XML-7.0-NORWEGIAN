@@ -30,9 +30,9 @@
      <string name="chinese_youth_day">Ungdommens dag</string>
      <string name="christmas_day">Juledag</string>
      <string name="clear_and_bright">Klart og lyst</string>
-     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
-     <string name="cloud_state_finished">Synced with Mi Cloud</string>
-     <string name="cloud_state_syncing">Synced with Mi Cloud</string>
+     <string name="cloud_state_disabled">Synk med Mi Cloud er av</string>
+     <string name="cloud_state_finished">Synket med Mi Cloud</string>
+     <string name="cloud_state_syncing">Synket med Mi Cloud</string>
      <string name="cold_dews">Kalde dugg</string>
      <string name="country_name_ac">AC</string>
      <string name="country_name_ad">AD</string>

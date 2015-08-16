@@ -23,7 +23,7 @@
      <string name="arrearage_exception_summary">"Operatøren sitt regnskap viser at du trenger å fylle opp nå"</string>
      <string name="arrearage_exception_title">Balansen din er for lav</string>
      <string name="background_traffic">Bakgrunn %s</string>
-     <string name="begin_date">Dato for nullstilling av brukssyklus</string>
+     <string name="begin_date">Dato for nullstilling</string>
      <string name="btn_finish_diagnostic">OK</string>
      <string name="btn_start_diagnostic">Start</string>
      <string name="btn_stop_diagnostic">Stopp</string>
@@ -37,11 +37,11 @@
      <string name="connect_internet_by_usbshare">Koble til internett ved hjelp av USB</string>
      <string name="connect_internet_by_wifi">Koble til internett ved hjelp av WLAN</string>
      <string name="current_network_state_not_need_diagnose">Normal</string>
-     <string name="daily_limit_and_lock_screen">Daglig databruk &amp; varsler</string>
+     <string name="daily_limit_and_lock_screen">Datagrense &amp; varsler</string>
      <string name="daily_limit_network_available_body">Trykk for å vise statistikk over mobildata.</string>
      <string name="daily_limit_network_available_body_open_traffic_saving">Trykk for å skru på mobildata.</string>
      <string name="daily_limit_over_message">"Du har overskredet din daglige datagrense."</string>
-     <string name="daily_pkg_traffic">Sett maksimum databruksgrense</string>
+     <string name="daily_pkg_traffic">maksimum databruksgrense</string>
      <string name="data_network_blocked_notification_title">Ingen internettforbindelse</string>
      <string name="data_usage_correction_timeout_body">Trykk for å oppdatere manuellt</string>
      <string name="data_usage_correction_timeout_title">Synking av databruk ble tidsavbrutt</string>
@@ -55,8 +55,8 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="data_usage_limit_snoozed_body">"Du har overskredet din databruksgrense"</string>
      <string name="data_usage_mobile_limit_snoozed_title">Databruksgrense nådd</string>
      <string name="data_usage_mobile_limit_title">Mobildata har blitt deaktivert</string>
-     <string name="data_usage_no_total_package_body">Vil du sette en grense for databruk?</string>
-     <string name="data_usage_no_total_package_body_dual">Vil du sette en databruksgrense for %s?</string>
+     <string name="data_usage_no_total_package_body">Trykk for å sette en datagrense</string>
+     <string name="data_usage_no_total_package_body_dual">Ingen databruksgrense for %s</string>
      <string name="data_usage_no_total_package_title">Ingen databruksgrense</string>
      <string name="data_usage_restricted_body">Trykk for å aktivere bakgrunnsdata</string>
      <string name="data_usage_restricted_title">Bakgrunnsdata begrenset</string>
@@ -90,8 +90,8 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
 For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="datausage_purchase_time_in">" den "</string>
      <string name="datausage_purchase_title_confirm">Detaljer om kjøp</string>
-     <string name="datausage_purchase_title_order">Kjøp ekstra datatrafikk</string>
-     <string name="datausage_purchase_title_pkglist">Kjøp mer datatrafikk</string>
+     <string name="datausage_purchase_title_order">Fyll opp</string>
+     <string name="datausage_purchase_title_pkglist">Fyll opp</string>
      <string name="datausage_purchase_view_detail">Vis detaljer</string>
      <string name="declaration_dialog_msg">Denne funksjonen kan hjelpe deg med å holde styr på din bruk, men er ikke garantert å unngå ekstra kostnader. For best mulig resultat angi en konservativ grense.</string>
      <string name="deleted_apps">Slettede apper</string>
@@ -193,9 +193,9 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s data brukt | ingen data om natten gjenstående</string>
      <string name="main_secondary_message_traffic_used_normal">%s data brukt</string>
      <string name="main_toolbar_firewall">Begrens dataforbruk</string>
-     <string name="main_toolbar_internet_by_mobiledata">Connect to internet using Mobile data network</string>
-     <string name="main_toolbar_internet_by_pc_brige">Connect to internet using USB</string>
-     <string name="main_toolbar_internet_by_wifi">Connect to internet using WLAN</string>
+     <string name="main_toolbar_internet_by_mobiledata">Koble til internett med mobilt nettverk</string>
+     <string name="main_toolbar_internet_by_pc_brige">Koble til internett med USB</string>
+     <string name="main_toolbar_internet_by_wifi">Koble til internett med Wi-Fi</string>
      <string name="main_toolbar_purchase">Oppfylling</string>
      <string name="main_toolbar_saving">Datasparer</string>
      <string name="main_toolbar_statistic">Statistikk</string>
@@ -217,10 +217,10 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Berør for å begrense databruk</string>
      <string name="network_assistant_upgraded_title">Oppdatert</string>
-     <string name="network_blocked_connected_open_wifi">Connected to public network</string>
-     <string name="network_blocked_notification_summary">Tap to view details.</string>
-     <string name="network_blocked_switch_wifi">Switch networks</string>
-     <string name="network_connected_exception_title">Test network</string>
+     <string name="network_blocked_connected_open_wifi">Koblet til offentlig nettverk</string>
+     <string name="network_blocked_notification_summary">Test nettverk.</string>
+     <string name="network_blocked_switch_wifi">Bytt nettverk</string>
+     <string name="network_connected_exception_title">Test nettverk</string>
      <string name="network_control">Vis innstillinger for app</string>
      <string name="network_diagnostics">Test nettverk</string>
      <string name="network_mobile_exception_detail">"Enheten din kan ikke koble til internett:
@@ -269,40 +269,20 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="none_mi_service_app_detail">Tom</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
      <string name="notification_title">%1$s-%2$s: rundt %3$s brukt</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: To limit data usage automatically, set up your monthly data plan. -->
-     <string name="notify_daily_data_usage_body">%s brukt i dag. Trykk for å velge grense.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tap to set data limit. -->
-     <string name="notify_daily_limit_body">%s brukt i dag. Trykk for å velge grense.</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Used %s today -->
-     <string name="notify_daily_limit_title">Velg en daglig datagrense</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 2
-	%s: 1 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$s used %2$s today -->
-     <string name="notify_daily_limit_title_for_slotnum">Sett daglig datagrense for %s</string>
+     <string name="notify_daily_data_usage_body">For å begrense dataforbruket automatisk, velg månedlig dataabonnement.</string>
+     <string name="notify_daily_limit_body">Trykk for å velge datagrense.</string>
+     <string name="notify_daily_limit_title">Brukt %s i dag</string>
+     <string name="notify_daily_limit_title_for_slotnum">1$s brukt %2$s i dag</string>
      <string name="notify_daily_traffic_saving_title">%s brukt i dag</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Set a data usage limit to prevent going over your monthly data plan. -->
-     <string name="notify_month_traffic_body">%s brukt denne måneden. Trykk for å velge grense.</string>
-     <string name="notify_month_traffic_title">Used %s this month</string>
-     <string name="notify_month_traffic_title_for_slotnum">%1$s used %2$s this month</string>
+     <string name="notify_month_traffic_body">Sett en dataforbruksgrense for å hindre at du overskrider ditt månedlige databonnement.</string>
+     <string name="notify_month_traffic_title">Brukt %s denne måneden</string>
+     <string name="notify_month_traffic_title_for_slotnum">%1$s brukt %2$s denne måneden</string>
      <string name="notify_setting_pkg_title">Velg din månedlige datagrense</string>
      <string name="notify_setting_pkg_title_for_slotnum">Sett månedlig datagrense for %s</string>
      <string name="notify_weekly_pkg_body">%s brukt denne uken. Trykk for å velge grense.</string>
      <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
-     <string name="notify_weekly_traffic_title">Used %s this week</string>
-     <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
+     <string name="notify_weekly_traffic_title">Brukt %s denne uka</string>
+     <string name="notify_weekly_traffic_title_for_slotnum">%1$s brukt %2$s denne uka</string>
      <string name="ok_button">OK</string>
      <string name="online_chat">Samtale</string>
      <string name="online_read">Nyheter</string>
@@ -323,7 +303,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="per_month_pkg_traffic_settings">Sett datagrense</string>
      <string name="permission_exception_summary">"Noen apper har tillatelse til å koble til Internett"</string>
      <string name="permission_exception_title">Vis nettverkstillatelser</string>
-     <string name="permit_running_network">Tillat bakgrunnsdata</string>
+     <string name="permit_running_network">Bakgrunnsdata</string>
      <string name="person_hotpot">Mobile aksesspunkt</string>
      <string name="pkg_traffic">Sett databruksgrense</string>
      <string name="power_save_on_time_default_time">00:00</string>
@@ -363,8 +343,8 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_leisure_no_overlay">På</string>
      <string name="pref_leisure_not_opened">Av</string>
      <string name="pref_manual_adjust">Sett databrukstatistikk manuellt</string>
-     <string name="pref_month_begin_date">Dato for nullstilling av brukssyklus</string>
-     <string name="pref_month_first_day">Første dagen i måneden</string>
+     <string name="pref_month_begin_date">Dato for nullstilling av bruk</string>
+     <string name="pref_month_first_day">1</string>
      <string name="pref_more_traffic_settings">Ekstra innstillinger</string>
      <string name="pref_new_installed_preconfig_title">Standard innstillinger for nye apper</string>
      <string name="pref_open_adjust_traffic">Oppdater databruksbalanse hver dag med statistikk fra operatøren din</string>
@@ -372,7 +352,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_package_traffic_normal">Maksimum: %s</string>
      <string name="pref_package_traffic_overlay">%1$s | Ekstra: %2$s</string>
      <string name="pref_package_traffic_settings">Mobildatagrense</string>
-     <string name="pref_pkg_begin_date">Dato for nullstilling av brukssyklus</string>
+     <string name="pref_pkg_begin_date">Dato for nullstilling av bruk</string>
      <string name="pref_roaming_daily_limit_setting">Daglig datagrense for roaming</string>
      <string name="pref_roaming_setting_gategory">Data roaming</string>
      <string name="pref_setting_operators_message">Endre meldingen enheten din sender operatøren for å synkronisere databrukstatistikk</string>
@@ -399,7 +379,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_traffic_saving_no_compress">Ukomprimert</string>
      <string name="pref_traffic_saving_notify_switch">Vis i varslingsskygge</string>
      <string name="pref_traffic_saving_notify_switch_hint">Vis dataforbruksstatistikk i varslingsskyggen</string>
-     <string name="pref_traffic_saving_pic_compress_level">Bildekompresjonsforhold</string>
+     <string name="pref_traffic_saving_pic_compress_level">Komprimering</string>
      <string name="pref_traffic_saving_switch">Datasparing</string>
      <string name="pref_traffic_saving_switch_hint">Bruk proxy for å komprimere data</string>
      <string name="pref_traffic_saving_title">Innstillinger for datasparing</string>
@@ -409,12 +389,12 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_warning_values">Grense for databruk</string>
      <string name="pref_whitelist_setting">Håndter unntak</string>
      <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine &lt;a href=%s&gt; Vilkår for bruk&lt;/a&gt;."</string>
-     <string name="privacy_declare_dialog_title">Terms and Conditions</string>
+     <string name="privacy_declare_dialog_title">Vilkår for bruk</string>
      <string name="privacy_prompt_purchase_history_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for å hente  historikk over din mobildatabruk."</string>
      <string name="privacy_prompt_tc_sms_report_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for oppdatere din databruksinformasjono."</string>
      <string name="privacy_prompt_traffic_adjust_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for å oppdatere SMS-spørringsmaler og for å sjekke om denne funksjonen er tilgjengelig i ditt område."</string>
      <string name="privacy_prompt_traffic_purchase_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for å hente mer informasjon om muligheter for kjøp av data."</string>
-     <string name="privacy_prompt_upload">Personvernsvarsel</string>
+     <string name="privacy_prompt_upload">Last opp</string>
      <string name="protocol_exception_title">Nettverksprotokoll-diagnostikk</string>
      <string name="protocol_loop_back_exception_summary">Lokal loopback-test feilet. For å rapportere feilen til MIUI, gå til Rapporter feil-appen og send en logg from enheten din.</string>
      <string name="reach_daily_limit_value_body">Reduser ditt daglige mobildataforbruk.</string>
@@ -454,7 +434,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="spinner_title">%1$s - Mobildata: %2$s</string>
      <string name="stop_app_button">Stopp</string>
      <string name="system_app">Systemapper</string>
-     <string name="tc_sms_report_direction">Forespørselkode (kommandoen i SMS til operatøren)</string>
+     <string name="tc_sms_report_direction">SMS-forespørselkode</string>
      <string name="tc_sms_report_do_report">Send</string>
      <string name="tc_sms_report_get_default">"Du vil ikke få belastet ekstra gebyrer for SMS-meldinger brukt til mottak av databruksbalanse fra operatøren din."</string>
      <string name="tc_sms_report_get_sms">Hent SMS</string>
@@ -479,7 +459,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="tc_sms_report_send_num">Operatørens telefonnummer</string>
      <string name="tc_sms_report_summary">Hjelp oss med å forbedre denne funksjonen ved å sende en rapport når ditt informasjonen om ditt databruk ikke er korrekt eller ikke oppdateres</string>
      <string name="tc_sms_report_tips_dialog_message">"Databruk bruker en spesielt formatert SMS for å hente ditt seneste databruk fra operatøren din. Hvis denne funksjonen ikke fungerer normalt, prøv å oppdatere SMS-formatet til databruk. Det nye formatet vil så bli lastet opp til våre servere."</string>
-     <string name="tc_sms_report_tips_dialog_title">Databruk SMS-rapport</string>
+     <string name="tc_sms_report_tips_dialog_title">Dataforbruk-SMS</string>
      <string name="tc_sms_report_title">Rapporter databrukfeil</string>
      <string name="tc_sms_report_toast_text">Henter info…</string>
      <string name="tc_sms_report_upload_success">"Databruk SMS-rapport. Vi jobber med det!"</string>
@@ -512,7 +492,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_config_alert_ok">OK</string>
      <string name="traffic_config_alert_setted">Innstillinger brukt</string>
      <string name="traffic_config_alert_title">%s korreksjon</string>
-     <string name="traffic_correction_failed">"Kan ikke hente informasjon om databruk"</string>
+     <string name="traffic_correction_failed">"Kan ikke hente info"</string>
      <string name="traffic_correction_start_correction">"Snakker med operatøren sine servere…"</string>
      <string name="traffic_correction_start_correction_failed">Spørring feilet, vennligst sjekk dine operatørinnstillinger</string>
      <string name="traffic_correction_success">Databruk oppdatert</string>
@@ -534,7 +514,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_protection_use_data">Data aktivert</string>
      <string name="traffic_purchase_body">Spar 50% når du fyller opp nå.</string>
      <string name="traffic_purchse_suggestion">Datagrense overskredet</string>
-     <string name="traffic_saving_button_mng">Håndter Datasparing-apper</string>
+     <string name="traffic_saving_button_mng">Håndter apper</string>
      <string name="traffic_saving_button_sorted">Detaljer</string>
      <string name="traffic_saving_button_sorted_chose_simcard">Sorter etter</string>
      <string name="traffic_saving_button_start">Aktiver</string>
@@ -587,7 +567,8 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_setting_extra_pkg_title">Flere innstillinger</string>
      <string name="traffic_setting_extra_traffic_title">Flere innstillinger</string>
      <string name="traffic_setting_fragment_area">Lokal</string>
-     <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+     <string name="traffic_setting_fragment_area_dual">%s lokal
+     </string>
      <string name="traffic_setting_fragment_brand">Merke</string>
      <string name="traffic_setting_fragment_button1_text">Avbryt</string>
      <string name="traffic_setting_fragment_button2_text">Lagre</string>

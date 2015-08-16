@@ -301,10 +301,10 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_error_supp_service_separate">Unable to separate call.</string>
      <string name="incall_error_supp_service_switch">Unable to switch calls.</string>
      <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
-     <string name="incall_error_supp_service_unknown">Unsupported service.</string>
+     <string name="incall_error_supp_service_unknown">Ustøttet tjeneste.</string>
      <string name="incall_status_dialed_mmi">Begynner MMI-sekvens…</string>
      <string name="incoming_call_forwarded_title">Viderekobl innkommende samtaler</string>
-     <string name="incoming_via_template">Incoming via %s</string>
+     <string name="incoming_via_template">Innkommende via %s</string>
      <string name="international_disable">Verdensnyheter deaktivert</string>
      <string name="international_enable">Verdensnyheter aktivert</string>
      <string name="internet_phone">Internett-anrop</string>
@@ -366,7 +366,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="messageCFU">Alltid bruk dette nummeret</string>
      <string name="mhh_disable">Helse og sykehus deaktivert</string>
      <string name="mhh_enable">Helse og sykehus aktivert</string>
-     <string name="miprofile_stranger_card">Stranger card</string>
+     <string name="miprofile_stranger_card">Fremmedkort</string>
      <string name="mismatchPin">"PIN-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mismatchPin2">"PIN2-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
