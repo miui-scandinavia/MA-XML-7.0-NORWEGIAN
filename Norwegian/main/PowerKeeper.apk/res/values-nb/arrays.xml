@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Standard modus</item>
+        <item>Standard</item>
         <item>Skjult modus</item>
         <item>Lesemodus</item>
         <item>Mediamodus</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>App er i forgrunnen</item>
+        <item>App kjører i forgrunnen</item>
         <item>Skjerm på</item>
         <item>Skjerm av</item>
         <item>Skjerm av i over 10 minutter</item>
-        <item>Gå i fullskjerm</item>
-        <item>Gå ut av fullskjerm</item>
-        <item>App er i bakgrunnen</item>
+        <item>Fullskjerm</item>
+        <item>Avslutt fullskjerm</item>
+        <item>App kjører i bakgrunnen</item>
         <item>Telefonen lader</item>
         <item>Telefonen lader ikke</item>
         <item>Telefonen er i hvilemodus</item>
@@ -25,11 +25,12 @@
         <item>CPU-bruk</item>
         <item>Dataforbindelse</item>
         <item>Plassering</item>
-        <item>Varsel på første melding</item>
-        <item>Tastelås varsling</item>
+        <item>Første varsel</item>
+        <item>Låseskjerm-varsling</item>
+        <item>Forhindre bakgrunnsdatatilkoblinger</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Ingen operasjoner</item>
+        <item>Ingen</item>
         <item>Standard</item>
         <item>Bilde</item>
         <item>Film</item>
@@ -38,6 +39,12 @@
         <item>Ytelse</item>
         <item>Aktiver</item>
         <item>Deaktiver</item>
+        <item>På</item>
+        <item>Av</item>
+        <item>Umiddelbart</item>
+        <item>Etter 10 min</item>
+        <item>Etter 30 min</item>
+        <item>Når skjermen er av</item>
     </string-array>
     <string-array name="app_groups">
         <item>valgte</item>

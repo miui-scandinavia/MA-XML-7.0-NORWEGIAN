@@ -21,13 +21,13 @@
      <string name="add_2sec_pause">Legg til 2 sek. pause</string>
      <string name="add_account">Legg til konto</string>
      <string name="add_blacklist">Legg til svarteliste</string>
-     <string name="add_blacklist_dialog_message">Block this number?</string>
+     <string name="add_blacklist_dialog_message">Blokker dette nummeret?</string>
      <string name="add_blacklist_dialog_title">Legg til i blokkeringsliste</string>
      <string name="add_connection_button">Legg til forbindelse</string>
      <string name="add_contact_dlg_message_fmt">Legg til \"%s\" i kontakter?</string>
-     <string name="add_display_photo_entry">Add profile photo</string>
+     <string name="add_display_photo_entry">Legg til profilbilde</string>
      <string name="add_field">Legg til felt</string>
-     <string name="add_incall_show_entry">Add video</string>
+     <string name="add_incall_show_entry">Legg til video</string>
      <string name="add_new_account">Legg til ny konto</string>
      <string name="add_new_entry_for_section">Legg til ny</string>
      <string name="add_organization">Legg til organisasjon</string>
@@ -154,7 +154,7 @@
      <string name="callrecordview_menu_show_stranger">Vis kun ukjente anrop</string>
      <string name="callrecordview_menu_show_title">Velg type anropshistorikk som skal vises</string>
      <string name="cancel_confirmation_dialog_message">Ønsker du å forkaste dine endringer?</string>
-     <string name="cancel_confirmation_dialog_title">Cancel</string>
+     <string name="cancel_confirmation_dialog_title">Avbryt</string>
      <string name="cancel_export_confirmation_message">Er du sikker på at avbryte eksport av %s?</string>
      <string name="cancel_import_confirmation_message">Avbryt importering av %s?</string>
      <string name="cancel_import_dialog_message">Er du sikker på du vil stoppe importeringen av kontaker?</string>
@@ -182,12 +182,12 @@
      <string name="clip_dialog_title">Ring kopiert nummer?</string>
      <string name="close_dial_pad">lukk talltastatur</string>
      <string name="cloud_antispam_mark">Rapporter</string>
-     <string name="cloud_antispam_title">Cloud-brannmur</string>
+     <string name="cloud_antispam_title">Sky-brannmur</string>
      <string name="cloud_recommend_msg">Trykk for å synkronisere kontakter med Mi Cloud.</string>
-     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
-     <string name="cloud_state_loading">Just a sec…</string>
-     <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
-     <string name="cloud_state_syncing">Synced with Mi Cloud</string>
+     <string name="cloud_state_disabled">Synk med Mi Cloud er av</string>
+     <string name="cloud_state_loading">Bare et sekund…</string>
+     <string name="cloud_state_sync_finished">Synket med Mi Cloud</string>
+     <string name="cloud_state_syncing">Synket med Mi Cloud</string>
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
      <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -218,11 +218,11 @@
      <string name="contact_delete_toast">Kontakt slettet</string>
      <string name="contact_detail_calllog_call_note_tips">anropsnote</string>
      <string name="contact_detail_calllog_call_record_tips">Opptak av anrop</string>
-     <string name="contact_detail_menu_delete_miprofile">Delete card</string>
-     <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
-     <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
-     <string name="contact_detail_miprofile_accept_success_toast">Exchanged contact cards</string>
-     <string name="contact_detail_miprofile_binded_label">Added</string>
+     <string name="contact_detail_menu_delete_miprofile">Slett kort</string>
+     <string name="contact_detail_miprofile_accept">Utveksle kontaktkort</string>
+     <string name="contact_detail_miprofile_accept_fail_toast">"Kunne ikke utveksle kontaktkort"</string>
+     <string name="contact_detail_miprofile_accept_success_toast">Utvekslet kontaktkort</string>
+     <string name="contact_detail_miprofile_binded_label">Lagt til</string>
      <string name="contact_detail_miprofile_exchange_closed">"No phone number is associated with this Mi Account
 Contact cards are turned off"</string>
      <string name="contact_detail_miprofile_privacy_settings">Contacts must get your permission to view your contact card</string>
