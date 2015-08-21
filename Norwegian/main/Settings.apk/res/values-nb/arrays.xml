@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+    <string-array name="alarm_repeat_type">
+        <item>Hverdager</item>
+        <item>Ukedager</item>
+        <item>Egendefinert</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Hverdager</item>
+        <item>Ukedager</item>
+        <item>Egendefinert</item>
+    </string-array>
      <string-array name="agps_network_entries">
         <item>Hjemmenettverk</item>
         <item>Alle nettverk</item>
@@ -183,11 +193,6 @@
         <item>Omriss</item>
         <item>Bakgrunnsskygge</item>
      </string-array>
-     <integer-array name="captioning_edge_type_selector_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </integer-array>
      <string-array name="captioning_font_size_selector_titles">
         <item>Veldig liten</item>
         <item>Liten</item>
@@ -195,25 +200,6 @@
         <item>Stor</item>
         <item>Veldig stor</item>
      </string-array>
-     <string-array name="captioning_font_size_selector_values">
-        <item>0.25</item>
-        <item>0.5</item>
-        <item>1.0</item>
-        <item>1.5</item>
-        <item>2.0</item>
-     </string-array>
-     <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-     </string-array>
-     <integer-array name="captioning_opacity_selector_values">
-        <item>0x40ffffff</item>
-        <item>0x80ffffff</item>
-        <item>0xc0ffffff</item>
-        <item>0xffffffff</item>
-     </integer-array>
      <string-array name="captioning_preset_selector_titles">
         <item>Hvitt på svart</item>
         <item>Svart på hvitt</item>
@@ -269,7 +255,8 @@
         <item>Liten</item>
         <item>Normal</item>
         <item>Stor</item>
-        <item>Meget stor</item>
+        <item>Veldig stor</item>
+        <item>Mega</item>
      </string-array>
      <string-array name="entries_zen_mode">
         <item>Av</item>
@@ -886,7 +873,7 @@ OBS: Bare for Ubuntu 8.04!"</item>
      <string-array name="wifi_sleep_policy_entries">
         <item>Alltid</item>
         <item>Bare når tilkoblet strøm</item>
-        <item>Aldri (økt databruk)</item>
+        <item>Aldri (bruker mer data)</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Alltid</item>

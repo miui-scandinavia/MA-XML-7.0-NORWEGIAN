@@ -49,8 +49,8 @@
      <string name="automatic_home_clock">Klokkeslett hjemme</string>
      <string name="automatic_home_clock_summary">Når du reiser utenfor den vanlige tidssonen din, kan du legge til en klokke for hjemmetidssonen</string>
      <string name="battery_charging_level">%d%%</string>
-     <string name="birthday_alarm">Birthday alarm</string>
-     <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
+     <string name="birthday_alarm">Bursdagsalarm</string>
+     <string name="birthday_alarm_summary">Spill \"Happy Birthday\" istedet for standard alarmlyd på din bursdag</string>
      <string name="button_alarms">Legg til alarm</string>
      <string name="button_cities">Byer</string>
      <string name="button_menu">Flere alternativer</string>

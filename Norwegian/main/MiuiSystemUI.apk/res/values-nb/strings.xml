@@ -58,9 +58,9 @@
      <string name="battery_low_title">Koble til lader</string>
      <string name="battery_low_why">Batteriforbruk</string>
      <string name="battery_profiles">Bruk batteriprofiler</string>
-     <string name="block_record_notification_more_text">%1$s %2$d apps. Touch to view</string>
-     <string name="block_record_notification_text">%1$s. Touch to view</string>
-     <string name="block_record_notification_title">Block record</string>
+     <string name="block_record_notification_more_text">%1$s %2$d apper. Trykk for å vise</string>
+     <string name="block_record_notification_text">%1$s. Trykk for å vise</string>
+     <string name="block_record_notification_title">Blokkér</string>
      <string name="bluetooth_tethered">Bluetooth internettdeling</string>
      <string name="call_status_dialing">Ringer</string>
      <string name="call_status_ringing">Ringing</string>
@@ -85,7 +85,7 @@
      <string name="description_direction_left">Trekk til venstre for %s.</string>
      <string name="description_direction_up">Trekk opp for %s.</string>
      <string name="description_target_search">Søk</string>
-     <string name="disable_notification_summary">Aldri vis varsler fra denne appen.</string>
+     <string name="disable_notification_summary">"Skjul apper sine varsler"</string>
      <string name="disable_notification_title">Blokkér varsler</string>
      <string name="dismount_storage">Nei</string>
      <string name="dlg_confirm_kill_storage_users_text">Hvis du aktiverer USB-lagring, vil pågående applikationer muligens stoppe og/eller bli utilgjengelige, inntil USB-lagring slås av.</string>
@@ -93,7 +93,7 @@
      <string name="dlg_error_title">USB-operasjon fullført</string>
      <string name="dlg_ok">OK</string>
      <string name="drive_mode_tip">Kjøremodus aktivert - Kjør forsiktig!</string>
-     <string name="expanded_confirm_disable_notification">Confirm</string>
+     <string name="expanded_confirm_disable_notification">Bekreft</string>
      <string name="expanded_notification_manager">Håndter varsler</string>
      <string name="ext_media_badremoval_notification_message">Avmonter USB-lagring før deb fjernes for å unngå datatap.</string>
      <string name="ext_media_badremoval_notification_title">USB-lagring fjernet uventet</string>

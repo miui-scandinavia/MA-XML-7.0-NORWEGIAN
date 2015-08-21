@@ -193,7 +193,7 @@
      <string name="converting_to_picture_message">Konverterer til MMS...</string>
      <string name="converting_to_text_message">Konverterer til SMS...</string>
      <string name="copy_email">Kopiér e-postadressen</string>
-     <string name="copy_message_text">Kopier meldingtekst</string>
+     <string name="copy_message_text">Kopiér</string>
      <string name="copy_message_text_success">Meldingen ble kopiert!</string>
      <string name="copy_number">Kopiér telefonnummeret</string>
      <string name="copy_to_sdcard">Kopiér det vedlagte til SD-kort</string>
@@ -488,7 +488,7 @@
      <string name="msg_type_hint_mms">MMS</string>
      <string name="msg_type_hint_mms_omit">MMS</string>
      <string name="msg_type_hint_mx">Mi-melding</string>
-     <string name="msg_type_hint_mx_omit">Mi Msg</string>
+     <string name="msg_type_hint_mx_omit">Mi Mld</string>
      <string name="msg_type_hint_sms">SMS</string>
      <string name="msg_type_hint_sms_omit">SMS</string>
      <string name="msglist_continue_to_pull_for_more">Dra ned for å vise mer</string>
@@ -606,7 +606,7 @@
      <string name="pref_notification_settings_title">meldingsinnstillinger</string>
      <string name="pref_other_title">Ekstra innstillinger</string>
      <string name="pref_show_blocked_messages_summary">Vis blokkerte SMS i samtaleliste</string>
-     <string name="pref_show_sms_template_in_summary">Automatically detect OTP in SMS messages</string>
+     <string name="pref_show_sms_template_in_summary">Automatisk detekter OTP i SMS-meldinger</string>
      <string name="pref_show_sms_template_summary">Automatisk kopier og fyll inn verifikasjonskoder</string>
      <string name="pref_sms_settings_title">Tekstmeldinger (SMS)</string>
      <string name="pref_sms_storage_title">Lagring</string>
@@ -634,7 +634,7 @@
      <string name="pref_summary_sms_enabled">Trykk for å endre standard SMS-app</string>
      <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
      <string name="pref_system_title">System</string>
-     <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
+     <string name="pref_time_auto_group_disabled_summary">"Dette støttes ikke i gjeldende skriftstørrelse"</string>
      <string name="pref_time_auto_group_summary">Gruppér meldinger på tid</string>
      <string name="pref_time_auto_group_title">Gruppér</string>
      <string name="pref_title_allow_si_sl_push">Tillat WAP push</string>
@@ -716,7 +716,7 @@
      <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
      <string name="resource_price_free">Gratis</string>
      <string name="restore_all_button_msg">Gjenopprett alle meldinger fra dette nummeret</string>
-     <string name="restore_blocked_message">Gjenopprett blokkert melding</string>
+     <string name="restore_blocked_message">Gjenopprett</string>
      <string name="restore_default">Gjennopprett standardinnstillinger</string>
      <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
      <string name="restored_to_phone_memory">"Gjenopprettet til telefonminne"</string>
@@ -877,7 +877,7 @@
      <string name="title_date_type">Melding tidsstempel</string>
      <string name="title_show_blocked_messages">Vis blokkerte SMS</string>
      <string name="title_show_sms_template">Sjekk SMS etter verifikasjonskoder</string>
-     <string name="title_show_sms_template_in">Check SMS for OTP</string>
+     <string name="title_show_sms_template_in">Sjekk SMS for OTP</string>
      <string name="title_timed_message_dialog">Planlegg sending av melding</string>
      <string name="to_address_label">"Til: "</string>
      <string name="to_count">%d i alt</string>

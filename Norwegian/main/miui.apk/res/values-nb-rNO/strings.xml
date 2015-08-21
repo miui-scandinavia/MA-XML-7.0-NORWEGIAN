@@ -3,7 +3,7 @@
 <resources>
      <string name="abc_action_bar_home_description">Naviger hjem</string>
      <string name="abc_action_bar_up_description">Naviger opp</string>
-     <string name="action_mode_deselect_all">Avvelg alle</string>
+     <string name="action_mode_deselect_all">Avvelg</string>
      <string name="action_mode_select_all">Velg alle</string>
      <string name="action_mode_title_empty">Velg elementer</string>
      <string name="activate">Aktiver</string>
@@ -25,7 +25,7 @@
      <string name="date_picker_label_year" />
      <string name="date_time_done">Ferdig</string>
      <string name="date_time_picker_dialog_title">Sett dato og tid</string>
-     <string name="deselect_all">Avvelg alle</string>
+     <string name="deselect_all">Avvelg</string>
      <string name="early_morning">AM</string>
      <string name="email">E-post</string>
      <string name="error_forbidden">Synk har blitt skrudd av på grunn av problemer med din Mi-konto.</string>
