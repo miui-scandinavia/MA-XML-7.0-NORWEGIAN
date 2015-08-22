@@ -22,20 +22,20 @@
         <item quantity="one">Slett %1$s album (%2$s totalt)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
-        <item quantity="one">Slett %s bilde i &amp;lt;b>skyen&amp;lt;/b>?</item>
+        <item quantity="other">Slett %s bilder i skyen?</item>
+        <item quantity="one">Slett %s bilde i skyen?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
-        <item quantity="one">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilde både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
+        <item quantity="other">Slett %s bilder både lokalt og i skyen?</item>
+        <item quantity="one">Slett %s bilde både lokalt og i skyen?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
-        <item quantity="one">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video både &amp;lt;font color=#323232>&amp;lt;b>lokalt og i skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
+        <item quantity="other">Slett %s videoer både lokalt og i skyen?</item>
+        <item quantity="one">Slett %s video både lokalt og i skyen?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">>" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?</Data>" "</item>
-        <item quantity="one">" "<Data> Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer i &amp;lt;font color=#323232>&amp;lt;b>skyen&amp;lt;/b>&amp;lt;/font>?</Data>" </item>
+        <item quantity="other">>Slett %s video i skyen?</item>
+        <item quantity="one">Slett %s videoer iskyen?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Slett %s bilder?</item>
@@ -46,12 +46,12 @@
         <item quantity="one">Slett %s video?</item>
      </plurals>
      <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other"><Data>Slett <xliff:g id=ITEM>%1$d bilder</xliff:g> fra %2$d album?</Data></item>
-        <item quantity="one"><Data>Delete <xliff:g id=ITEM>%1$d bilde</xliff:g> fra %2$d album?</Data></item>
+        <item quantity="other">Slett %1$d bilder fra %2$d album?</item>
+        <item quantity="one">Delete %1$d bilde fra %2$d album?</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "<Data> Slett <xliff:g id=ITEM>%1$d videoer</xliff:g> fra %2$d album?</Data>" "</item>
-        <item quantity="one">" "<Data> Slett <xliff:g id=ITEM>%1$d video</xliff:g> fra %2$d album?</Data>" "</item>
+        <item quantity="other">Slett %1$d videoer fra %2$d album?</item>
+        <item quantity="one">Slett %1$d video fra %2$d album?</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d bilder</item>
