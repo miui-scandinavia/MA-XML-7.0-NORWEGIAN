@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Ingen påminnelse</item>
+        <item>0 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>1 dag</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+    </string-array>
      <string-array name="availability">
         <item>Opptatt</item>
         <item>Ledig</item>

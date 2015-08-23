@@ -4,8 +4,10 @@
      <string name="app_label">Nedlastingshåndtering</string>
      <string name="auto_restart_under_wifi">Gjenoppta nedlasting med Wi-Fi når tilgjengelig</string>
      <string name="button_cancel_download">Avbryt</string>
+     <string name="button_download_now">Last ned nå</string>
      <string name="button_queue_for_wifi">Sett i kø</string>
      <string name="button_start_now">Start nå</string>
+     <string name="button_wait_for_wifi">Vent</string>
      <string name="dialog_insufficient_space_on_cache">Ikke nok plass på intern lagring</string>
      <string name="dialog_insufficient_space_on_external">Ikke nok plass på ekstern lagring</string>
      <string name="dialog_not_show_again">Ikke vis igjen</string>
@@ -51,6 +53,12 @@
      <string name="privacy_tip_content">"Bruk Xunlei-akselerator for å øke nedlastningshastigheten? URLen til nedlastningens vert vil bli lastet opp til Xunlei sine servere. Dine Mi-konto-detaljer vil bli lastet opp for å sjekke om du har noen aktive abonnement til denne tjenesten."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
+     <string name="recommended_file_more_in_mobile" formatted="false">Bruk av mobildataforbindelsen for å laste ned disse %s filene (%s ) vil øke ditt mobildataforbruk.</string>
+     <string name="recommended_file_one_in_mobile">Bruk av mobildataforbindelsen for å laste ned denne filen (%s ) vil øke ditt mobildataforbruk.</string>
+     <string name="recommended_file_size_download_in_mobile" formatted="false">"Du er ikke tilkoblet Wi-Fi for øyeblikket. %s
+
+Kan ikke hente informasjon om filstørrelse. For å bruke mobildataforbindelsen til å laste den denne filen, trykk %s. For å vente med å laste ned denne filen til du er tilkoblet Wi-Fi, trykk %s."</string>
+     <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kan ikke hent informasjon om filstørrelse. For å bruke din mobildataforbindelse til å late ned denne filen, trykk %s. FOr å vente og laste ned denne filen når du er tilkoblet Wi-Fi, trykk %s."</string>
      <string name="root_downloads">Nedlastninger</string>
      <string name="task_already_exist">Oppgave eksisterer allerede</string>
      <string name="warning_tip_cancel">Last ned</string>

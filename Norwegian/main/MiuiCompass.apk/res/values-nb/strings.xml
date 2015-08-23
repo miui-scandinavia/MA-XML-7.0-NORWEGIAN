@@ -3,6 +3,10 @@
 <resources>
      <string name="altitude">%.1f</string>
      <string name="altitude_title">Høyde</string>
+     <string name="altitude_uncalibrate_cancel">Avbryt</string>
+     <string name="altitude_uncalibrate_msg">"Kan ikke kalibrere høyden nøyaktig uten GPS eller mobildataforbindelse."</string>
+     <string name="altitude_uncalibrate_refresh">Prøv igjen</string>
+     <string name="altitude_uncalibrate_tip">"Kan ikke kalibrere høyden"</string>
      <string name="altitude_unit">m</string>
      <string name="app_label">Kompass</string>
      <string name="calibrate_altitude">Kalibrerer…</string>

@@ -41,6 +41,8 @@
      <string name="cant_remove_folder">Kan ikke flytte mappe som ikke er tom</string>
      <string name="cant_remove_retained_app">Behandler program. Kan ikke fjernes</string>
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
+     <string name="children_folder_title">Kids</string>
+     <string name="children_mode_exit">Exit</string>
      <string name="choose_theme">Tema</string>
      <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg bakgrunn</string>
@@ -243,6 +245,7 @@
      <string name="unknown_artist_name">Ukjent kunstner</string>
      <string name="unnamed_folder_name">Navnløs</string>
      <string name="wallpaper">Bakgrunn</string>
+     <string name="wallpaper_auto_change_title">Lock screen</string>
      <string name="wallpaper_failed_message">"Kan ikke bruke bakgrunn"</string>
      <string name="wallpaper_scrolling">Alle</string>
      <string name="wallpaper_settings">Bakgrunn</string>

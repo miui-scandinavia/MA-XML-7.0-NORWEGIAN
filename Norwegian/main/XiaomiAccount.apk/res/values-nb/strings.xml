@@ -30,15 +30,15 @@
      <string name="account_none_binded_secure_phone">Ingen gjenopprettingstelefon</string>
      <string name="account_none_user_name">Ingen</string>
      <string name="account_not_activated">"Kontoen er ikke aktivert"</string>
-     <string name="account_sec_dspt">Mi Cloud , Mi-telefon , MIUI , Mi Talk</string>
+     <string name="account_sec_dspt">Mi Cloud, Mi-telefon, MIUI, Mi Talk</string>
      <string name="account_sec_dspt2" />
      <string name="account_settings">Konto</string>
      <string name="account_user_avatar">Profilbilde</string>
      <string name="account_user_avatar_from_album">Velg bilde</string>
      <string name="account_user_avatar_from_camera">Ta bilde</string>
-     <string name="account_user_base_info">Brukerinfo</string>
+     <string name="account_user_base_info">Personlig info</string>
      <string name="account_user_birthday">Bursdag</string>
-     <string name="account_user_details">Bruker-info</string>
+     <string name="account_user_details">Personlig info</string>
      <string name="account_user_email">E-post</string>
      <string name="account_user_gender">Kjønn</string>
      <string name="account_user_gender_female">Jente</string>
@@ -48,7 +48,7 @@
      <string name="account_user_name_dialog_title">Skriv brukernavn</string>
      <string name="account_user_phone">Telefonnummer</string>
      <string name="account_user_recovery_phone">Gjenopprettingstelefon</string>
-     <string name="account_user_secure_info">Sikkerhetsinfo</string>
+     <string name="account_user_secure_info">Telefon og e-post</string>
      <string name="account_user_using_facebook_avatar">Bruk Facebook profilbilde</string>
      <string name="account_user_using_qq_avatar">Bruk QQ profilbilde</string>
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
@@ -162,7 +162,7 @@ Vennligst skriv verifikasjonskoden i e-posten"</string>
      <string name="internet_comm">Meldingstjenester</string>
      <string name="just_a_second">Bare et sekund…</string>
      <string name="license_host_unreachable">"Kan ikke koble til nettverket. Du kan vise denne siden på %s."</string>
-     <string name="loading">Laster…</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="loading_micloud_sync_data">Laster…</string>
      <string name="loading_mili_center">Laster…</string>
      <string name="login">Logg inn</string>
@@ -256,6 +256,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="other_devices">Andre enheter</string>
      <string name="passport_access_denied">Tilgang nektet</string>
      <string name="passport_account_hint_text">E-post eller telefonnummer</string>
+     <string name="passport_account_identity_title">Verifiser din identitet</string>
      <string name="passport_account_name">Konto: %1$s</string>
      <string name="passport_account_not_activated">"Kontoen har ikke blitt aktivert"</string>
      <string name="passport_account_not_actived">"Kontoen din har ikke blitt aktivert"</string>
@@ -269,6 +270,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="passport_button_cancel">Avbryt</string>
      <string name="passport_captcha">Skriv kode</string>
      <string name="passport_change_account"><u>Endre konto</u></string>
+     <string name="passport_change_phone_number">Switch numbers</string>
      <string name="passport_checking_account">Sjekker passord…</string>
      <string name="passport_checking_input">Sjekker inndata…</string>
      <string name="passport_choose_which_one_sim">Velg et telefonnummer</string>
@@ -278,6 +280,7 @@ For å aktivere din konto, følg
  linken i meldingen vi har sendt til din innboks."</string>
      <string name="passport_completed">Fullført</string>
      <string name="passport_confirm">Bekreft</string>
+     <string name="passport_confirm_recycle_account">Yes</string>
      <string name="passport_delete_account">Logg ut</string>
      <string name="passport_dspt_provision">"Bruk din Mi-konto for å logge inn til Mi Cloud, MIUI Tema Butikk og andre Mi-tjenster, fra hvor som helst. "</string>
      <string name="passport_dspt_provision2">Lær mer</string>
@@ -313,7 +316,9 @@ For å aktivere din konto, følg
      <string name="passport_get_back_pwd">Hent kontopassord</string>
      <string name="passport_get_verify_code">Hent kode</string>
      <string name="passport_getting_verify_code">Henter</string>
+     <string name="passport_identitfication_expired">Verification code expired, start over</string>
      <string name="passport_input_captcha_hint">Skriv kode</string>
+     <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
      <string name="passport_input_password_hint">Skriv passord</string>
      <string name="passport_input_phone_hint">Skriv telefonnummer</string>
      <string name="passport_input_vcode_hint">Skriv verifiseringskode</string>
@@ -341,6 +346,7 @@ For å aktivere din konto, følg
      <string name="passport_quick_login_title">Skriv passordet ditt</string>
      <string name="passport_re_get_verify_code">Hent kode igjen</string>
      <string name="passport_re_register">Registrer deg på nytt</string>
+     <string name="passport_recycle_account_prompt">Is this your Mi Account?</string>
      <string name="passport_reg_failed">"Kan ikke sette opp konto"</string>
      <string name="passport_reg_new">Opprett en Mi-konto helt gratis</string>
      <string name="passport_reg_sms_send_prompt">Send verifiseringskode til %s</string>
@@ -358,11 +364,22 @@ For å aktivere din konto, følg
      <string name="passport_register_account_goto_email">Gå til din innboks</string>
      <string name="passport_register_account_verified_confirm">"Du har allerede verifisert kontoen din"</string>
      <string name="passport_register_by_email"><u>Opprett en konto med en e-post-adresse</u></string>
+     <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+     <string name="passport_register_restricted_title">"Can't use this phone number"</string>
+     <string name="passport_reject_recycle_account">Nope</string>
      <string name="passport_relogin">Logg inn igjen</string>
      <string name="passport_relogin_notice">Du må logge inn igjen</string>
      <string name="passport_remove_confirm">Logg ut</string>
      <string name="passport_remove_unactivated_account_notice">"Kontoen din har ikke blitt aktivert."</string>
      <string name="passport_resend_active_email">Send aktiveringsepost på nytt</string>
+     <string name="passport_reset_fail_title">"Kunne ikke tilbakestille"</string>
+     <string name="passport_reset_password_prompt">Passord er feil</string>
+     <string name="passport_reset_password_title">Tilbakestill passord</string>
+     <string name="passport_restart">Start på nytt</string>
+     <string name="passport_restart_register_prompt">En verifikasjonsmelding kan være nødvendig for å opprette din konto.</string>
+     <string name="passport_restart_register_title">Opprett en Mi-konto</string>
+     <string name="passport_send_too_many_code">For mange verifikasjonskoder har blitt sendt til dette nummeret. Vent 24 timer og prøv igjen.</string>
+     <string name="passport_setting">Setter opp…</string>
      <string name="passport_sim_index_info">SIM-kort %1$d - %2$s</string>
      <string name="passport_skip_login">Hopp over innlogging</string>
      <string name="passport_skip_register">Hopp over registerering</string>
@@ -380,8 +397,10 @@ For å aktivere din konto, følg
      <string name="passport_vcode_prompt_long">Skriv verifiseringskode</string>
      <string name="passport_verification_failed">Autentisering mislyktes</string>
      <string name="passport_verify">Verifiser</string>
+     <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
      <string name="passport_welcome_skip_login"><u>Hopp over dette steget</u></string>
      <string name="passport_wrong_captcha">Koden du skrev er feil</string>
+     <string name="passport_wrong_password">Password is incorrect</string>
      <string name="passport_wrong_phone_number_format">Formatet på telefonnummeret du skrev er ugyldig</string>
      <string name="passport_wrong_vcode">Koden du skrev er feil</string>
      <string name="passport_xiaomi_account_dspt">Bruk din Mi-konto for å logge inn på Mi Cloud, MIUI Temabutikk, og andre Mi-tjenester, fra hvor som helst.</string>

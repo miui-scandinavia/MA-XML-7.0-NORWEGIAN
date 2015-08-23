@@ -617,8 +617,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="msim_enable_sim">Skru på</string>
      <string name="msim_general_setting">Generelle innstillinger</string>
      <string name="msim_has_been_disabled">(Deaktivert)</string>
-     <string name="msim_info_editor_name">Endre SIM-kort navn</string>
-     <string name="msim_info_editor_number">Endre SIM-kort nummer</string>
+     <string name="msim_info_editor_name">Navn på SIM-kort</string>
+     <string name="msim_info_editor_number">SIM-kort-nummer</string>
      <string name="msim_info_editor_set_name_error">Kan ikke lagre navn</string>
      <string name="msim_mode_progress_activating_message">Skrur på</string>
      <string name="msim_mode_progress_deactivating_message">Skrur av</string>

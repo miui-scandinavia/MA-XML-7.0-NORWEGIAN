@@ -145,6 +145,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_trace_user_notice_content">"Vi vil gi deg beskjed når ordrestatusen din endrer seg."</string>
      <string name="express_inquiry_untrace">Ikke sporet</string>
      <string name="express_inquiry_untrace_success">"Ikke spor"</string>
+     <string name="express_location_failed">"Kunne ikke plassere deg. Skriv din adresse."</string>
      <string name="express_no_address">Sporing stoppet</string>
      <string name="express_no_order">Ingen ordre</string>
      <string name="express_no_order_info">Ingen ordreinfo</string>
@@ -288,6 +289,10 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="notify_connect_title">Varsel om internett-tilkobling</string>
      <string name="online_no_network">"Kunne ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter nettressurser</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Order date: %1$s -->
      <string name="order_date_label">Ordredato: %1$</string>
      <string name="order_detail">Detalj</string>
      <string name="order_empty_hint">Ingen ordre</string>

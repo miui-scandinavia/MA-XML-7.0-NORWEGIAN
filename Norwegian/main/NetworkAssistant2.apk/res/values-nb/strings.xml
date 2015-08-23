@@ -101,6 +101,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="dialog_roaming_apps_sorted_title">Sorter etter</string>
      <string name="dialog_roaming_message">Tillatt denne appen å bruke mobildata når du roamer internasjonalt?</string>
      <string name="dialog_roaming_title">Internasjonal roaming</string>
+     <string name="dialog_title_attention">Attention</string>
      <string name="disable_air_mode">Skru av flymodus</string>
      <string name="dns_exception_summary">"Sjekk ruterens DNS-innstillinger"</string>
      <string name="dns_exception_title">Sjekk DNS-innstillinger</string>
@@ -146,16 +147,8 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="load_fail">"Kunne ikke laste"</string>
      <string name="local_ip_exception_summary">"Kunne ikke hente lokal IP-adresse. For å rapportere denne feilen til MIUI, gå til Rapporter feil-appen og send en logg fra enheten din."</string>
      <string name="lock_screen_setting_summary">Vis varsel på låseskjermen etter 100KB har blitt brukt</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: %s used at lock screen -->
-     <string name="lock_screen_traffic_guide_notification_summary">Trykk for å se dataforbruk.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tap to manage data usage. -->
-     <string name="lock_screen_traffic_guide_notification_title">%s brukt på låseskjermen</string>
+     <string name="lock_screen_traffic_guide_notification_summary">%s brukt på låseskjermen</string>
+     <string name="lock_screen_traffic_guide_notification_title">Trykk for å håndtere dataforbruk</string>
      <string name="lock_screen_traffic_notify_body">Låst i %2$s på %1$s, mobildata brukt %3$s</string>
      <string name="lock_screen_traffic_purchase_textview">Kjøp mobildata</string>
      <string name="lock_screen_traffic_warn_title">Varsler på låseskjermen</string>
@@ -272,7 +265,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="notify_daily_data_usage_body">For å begrense dataforbruket automatisk, velg månedlig dataabonnement.</string>
      <string name="notify_daily_limit_body">Trykk for å velge datagrense.</string>
      <string name="notify_daily_limit_title">Brukt %s i dag</string>
-     <string name="notify_daily_limit_title_for_slotnum">1$s brukt %2$s i dag</string>
+     <string name="notify_daily_limit_title_for_slotnum">%1$s brukt %2$s i dag</string>
      <string name="notify_daily_traffic_saving_title">%s brukt i dag</string>
      <string name="notify_month_traffic_body">Sett en dataforbruksgrense for å hindre at du overskrider ditt månedlige databonnement.</string>
      <string name="notify_month_traffic_title">Brukt %s denne måneden</string>
@@ -406,6 +399,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="repair">Reparer</string>
      <string name="repair_loading_text">Laster…</string>
      <string name="replace_dns">Bytt DNS automatisk</string>
+     <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
      <string name="right_precent">100%</string>
      <string name="roaming_limit_dialog_message">Nådd daglig roaming-datagrense.</string>
      <string name="roaming_limit_network_notification_body">Trykk for å vise tilgjengelige datanettverk</string>
@@ -416,6 +410,10 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="roaming_start_body">Trykk for å vise unntakslisten for dataroaming.</string>
      <string name="roaming_start_title">Internasjonal roaming</string>
      <string name="root">Rot-tilgang</string>
+     <string name="saving_conflict_dialog_cancel">Cancel</string>
+     <string name="saving_conflict_dialog_ok">OK</string>
+     <string name="saving_conflict_dialog_title">Attention</string>
+     <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
      <string name="sc_allow_network_dialog_message">Du må tillate denne appen å koble til internett for å fungere normalt.</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
      <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
@@ -567,8 +565,8 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_setting_extra_pkg_title">Flere innstillinger</string>
      <string name="traffic_setting_extra_traffic_title">Flere innstillinger</string>
      <string name="traffic_setting_fragment_area">Lokal</string>
-     <string name="traffic_setting_fragment_area_dual">%s lokal
-     </string>
+     <string name="traffic_setting_fragment_area_dual">"%s lokal
+     "</string>
      <string name="traffic_setting_fragment_brand">Merke</string>
      <string name="traffic_setting_fragment_button1_text">Avbryt</string>
      <string name="traffic_setting_fragment_button2_text">Lagre</string>

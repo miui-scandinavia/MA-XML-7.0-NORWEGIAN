@@ -44,7 +44,7 @@
      <string name="first_program">Program</string>
      <string name="get_channel_failed">Henting av kanaldetaljer feilet</string>
      <string name="has_no_program_now">Tom</string>
-     <string name="high_quality">Høyere (48 bps)</string>
+     <string name="high_quality">Høyere (48 kbps)</string>
      <string name="hotlist_name">Utvalgte</string>
      <string name="impunity_declaration">Radio trenger å koble til Internett og posisjoneringstjenester for å fungere normalt.</string>
      <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
@@ -80,7 +80,7 @@
      <string name="no_network_button_refresh">Oppdater</string>
      <string name="no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="no_program">Tom</string>
-     <string name="normal_quality">Normal (24 bps)</string>
+     <string name="normal_quality">Normal (24 kbps)</string>
      <string name="not_login">Ikke logget inn</string>
      <string name="notification_description_from_radio">Radio</string>
      <string name="ok">OK</string>
@@ -117,7 +117,7 @@
      <string name="title_tone_quality">Radio lydkvalitet</string>
      <string name="tone_high_quality">Alltid høykvalitetsstrømming</string>
      <string name="tone_high_quality_summary">Bruk mobildataforbindelse for å strømme høykvalitetslyd</string>
-     <string name="ultra_high_quality">Bra (64 bps)</string>
+     <string name="ultra_high_quality">Bra (64 kbps)</string>
      <string name="unfavorite">Fjern favoritt</string>
      <string name="updated">" oppdatert"</string>
      <string name="use_fm_radio_failed">"Denne enheten kan ikke bruke FM-radio"</string>

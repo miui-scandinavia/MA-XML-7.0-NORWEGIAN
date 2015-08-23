@@ -290,6 +290,7 @@
      <string name="ex_type_mx">Mi-melding</string>
      <string name="ex_type_sms">SMS</string>
      <string name="exceed_message_size_limitation">Max meldingstørrelse nådd.</string>
+     <string name="exceed_message_text_limitation">Maksgrense for tekstlengde i melding nådd.</string>
      <string name="expand_collapse_name_fields_description">Vis eller skjul navnefelt</string>
      <string name="expire_on">Utløper: %s</string>
      <string name="export_to_sdcard">Eksporter til lagring</string>
@@ -511,6 +512,9 @@
      <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for Mi-meldinger, en internasjonal SMS kreves for å reaktivere Mi-meldinger. Vil du aktivere det nå?</string>
      <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere Mi-meldinger. Vil du aktivere det nå?</string>
      <string name="mx_activate_user_agreement_p1">"Ved å bruke denne tjenesten, godtar du til Mi-melding sine "</string>
+     <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+     <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+     <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
      <string name="mx_auto_resend_mms">Auto resend MMS</string>
      <string name="mx_auto_resend_mms_summary">Send multimedia-meldinger som MMS over mobildataforbindelsen når du ikke er tilkoblet Wi-Fi. Kostnad på meldinger fra operatør er gjeldende</string>
      <string name="mx_auto_resend_sms">Send som SMS</string>
@@ -931,6 +935,9 @@
      <string name="view_more_conversations">Se flere samtaler</string>
      <string name="view_slideshow">Vis bildeserie</string>
      <string name="view_updates_from_group">Se oppdateringer</string>
+     <string name="voip_enable">Mi Message and Voice</string>
+     <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+     <string name="voip_enable_popup_msg2">Privacy Policy</string>
      <string name="wap_push_title">"[WAP Push] "</string>
      <string name="warning_show">Send om %ds</string>
      <string name="websiteLabelsGroup">Nettsted</string>

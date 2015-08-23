@@ -14,6 +14,7 @@
      <string name="button_delete">Slett</string>
      <string name="button_next">Neste</string>
      <string name="cancel_recover_settings">&lt;u&gt;Avbryt&lt;/u&gt;</string>
+     <string name="click_try_to_restore_again">Trykk for å prøve igjen</string>
      <string name="cloud_app_backup_success">App-sikkerhetskopi ferdig</string>
      <string name="cloud_app_check_data">Snakker med Mi Cloud…</string>
      <string name="cloud_app_current_device">Gjeldende enhet</string>

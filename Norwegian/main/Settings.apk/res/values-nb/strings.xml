@@ -105,6 +105,7 @@ Administratoren din kan overvåke og administrere innstillinger, tilgang, apper 
      <string name="advanced_security_title">Avansert</string>
      <string name="advanced_settings">Avanserte innstillinger</string>
      <string name="advanced_settings_summary">Aktiver flere innstillingsalternativer</string>
+     <string name="advanced_text_layout">Enable advanced text layouts</string>
      <string name="agps_roaming">A-GPS under roaming</string>
      <string name="agps_roaming_dia">"Bruk av A-GPS når du roaming kan øke ditt mobildataforbruk. Hvis du overskrider abonnementets datagrense, kan oepratøren din belaste deg ytterlige avgifter."</string>
      <string name="agps_roaming_dia_title">Bruk A-GPS under roaming</string>
@@ -1020,6 +1021,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dndm_auto_button_title">Repeter Ikke forstyrr-tid</string>
      <string name="dndm_auto_setting_group">Planlagt</string>
      <string name="dndm_auto_time_setting">Sett tid</string>
+     <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
      <string name="dndm_auto_time_turn_off">Til</string>
      <string name="dndm_auto_time_turn_off_title">Skru av Ikke forstyrr automatisk</string>
      <string name="dndm_auto_time_turn_on">Fra</string>
@@ -1048,9 +1050,10 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dndm_vip_list_custom_group">Unntak</string>
      <string name="dndm_vip_list_group">Unntaksliste</string>
      <string name="dndm_vip_user_setting_title">Unntak</string>
-     <string name="dndm_wristband">Smart-armbånd</string>
+     <string name="dndm_wristband">Mi Band</string>
      <string name="dndm_wristband_detailed">"Skru på Ikke forstyrr om Mi Band detekterer at du sover en time før valgte start-tid"</string>
      <string name="dndm_wristband_detailed2">"Skru av Ikke forstyrr om Mi Band detekterer at du våkner en time før valgte slutt-tid</string>
+      <string name="dndm_alarm_content_not_all">Alle tillatt</string>
      <string name="do_not_disturb_mode">Ikke forstyrr</string>
      <string name="dock_audio_media_disabled">All lyd</string>
      <string name="dock_audio_media_enabled">Bare medielyd</string>
@@ -1187,6 +1190,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="error_name_empty">Navnefeltet kan ikke være tomt.</string>
      <string name="error_title" />
      <string name="every_day">Hver dag</string>
+     <string name="experience_optimization_category">Optimization</string>
      <string name="experimental_build">(Eksperimentell)</string>
      <string name="experimental_preference">(Eksperimentell)</string>
      <string name="external_code_size_label">USB-lagringsvolum for app</string>
@@ -1475,6 +1479,10 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="launching_pho">Åpner telefoninformasjon, vennligst vent.</string>
      <string name="launching_rep">Rapporterer…</string>
      <string name="layout_size_exhuge">Stor</string>
+     <string name="layout_size_huge">XL</string>
+     <string name="layout_size_large">L</string>
+     <string name="layout_size_medium">M</string>
+     <string name="layout_size_normal">S</string>
      <string name="layout_size_small">Liten</string>
      <string name="led_colors_summary">Varslinger</string>
      <string name="led_frequence_summary">Sett mellomrom mellom LED-blinking</string>
@@ -2110,6 +2118,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Knappelys</string>
      <string name="pref_button_light_summary">Meny, Hjem og Tilbake-knapp indikator</string>
+     <string name="pref_edge_handgrip">Edge handgrip</string>
      <string name="pref_operational_key">Betjeningsknapper</string>
      <string name="pref_volume_wake_summary">Trykk på Volum-knappene vekker enheten</string>
      <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>

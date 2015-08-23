@@ -41,6 +41,8 @@
      <string name="agenda_view">Hendelser</string>
      <string name="agenda_yesterday">I GÅR, %1$s</string>
      <string name="alarm_label">OK</string>
+     <string name="alert_reminder_divider">|</string>
+     <string name="alert_reminder_expired">Utløpt</string>
      <string name="alert_title">Beskjed fra Kalender</string>
      <string name="anniversary_metric" />
      <string name="anniversary_term">jubileum</string>
@@ -51,6 +53,7 @@
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_metric" />
+     <string name="birthday_notice_message">Henting av bursdagsdetaljer krever nettverkstilkobling. Vil du fortsette?</string>
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_text_three_days_later">3 dager til %3$s (%4$s)</string>
      <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
@@ -230,8 +233,11 @@
      <string name="not_exist_topic_list">Kunne ikke hente liste over abonnerte kalendere</string>
      <string name="not_synced">ikke synkronisert</string>
      <string name="notice_button_ok">Godta</string>
+     <string name="notice_button_ok_and_go_on">同意并继续</string>
+     <string name="notice_title_agreement">声明与条款</string>
      <string name="notice_title_request">Be om</string>
      <string name="online_calendar_activity_label">Abonner på kalender</string>
+     <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
      <string name="online_reminder_change_text">Endre påminnelse</string>
      <string name="online_reminder_header_text">Påminn</string>
      <string name="online_reminder_minutes_text">Tidspåminnelse</string>
@@ -275,7 +281,7 @@
      <string name="preferences_reminders_responded_dialog">Hopp over påminnelser</string>
      <string name="preferences_reminders_responded_label">Hopp over påminnelser</string>
      <string name="preferences_show_week_num_title">Vis ukenummer</string>
-     <string name="preferences_title">Innstillinger</string>
+     <string name="preferences_title">Kalender</string>
      <string name="preferences_use_home_tz_descrip">Viser kalenderhendelseer i din tidssone, når du reiser</string>
      <string name="preferences_use_home_tz_title">Bruk egen tidssone</string>
      <string name="preferences_week_start_day_default">-1</string>

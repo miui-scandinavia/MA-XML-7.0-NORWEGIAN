@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="activity_title_ad">Reklamer</string>
@@ -51,7 +51,7 @@
      <string name="button_text_select_all">Velg</string>
      <string name="button_text_select_pic">Velg</string>
      <string name="button_text_uninstall">Avinstaller</string>
-     <string name="button_text_uninstall_only">Avinstaller</string>
+     <string name="button_text_uninstall_only">Avinstaller %s</string>
      <string name="button_text_unselect_all">Avvelg</string>
      <string name="button_text_unselect_pic">Avvelg</string>
      <string name="button_text_view_detail">Detaljer</string>
@@ -137,7 +137,6 @@
      <string name="hints_quick_cleanning">Rydder…</string>
      <string name="hints_quick_cleanuping">Optimaliserer…</string>
      <string name="hints_quick_scanning">Skanner…</string>
-     <!-- Original string: Residuals -->
      <string name="hints_residual_header_left">Rester</string>
      <string name="hints_scanfinish">Ingen søppel funnet, prøv dyprydding</string>
      <string name="hints_storage_clean_size">Frigjorde %s intern plass</string>
@@ -147,6 +146,7 @@
      <string name="hints_title_garbage">søppel</string>
      <string name="item_title_process_mode">Velg en handling</string>
      <string name="last_check_canceled">Forrige skanning ble avbrutt</string>
+     <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
      <string name="msg_cleanup_db_update_time_unknown">Siste oppdatering: ukjent</string>
      <string name="msg_update_error_code_already_running">Oppdaterer…</string>

@@ -92,6 +92,7 @@
      <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s delte %5$s's album med deg"</string>
      <string name="baby_album_sharer_recommand_face">Legg til eksisterende bilder av %1$s?</string>
+     <string name="baby_album_sharers_page_title">Del med famillier</string>
      <string name="baby_birthday">Bursdag</string>
      <string name="baby_lock_wallpaper">Låseskjerm-bakgrunn</string>
      <string name="baby_lock_wallpaper_at_least_one_selected">Velg et album</string>
@@ -642,7 +643,7 @@ venner."</string>
      <string name="effect">Filtrer</string>
      <string name="email_picker_title">Legg til delt e-post</string>
      <string name="enable">Skru på</string>
-     <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
+     <string name="enable_cloud_for_sharing">Skru på skyalbum for å vise delte bilder.</string>
      <string name="enabling_face_feature">Bare et sekund…</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
@@ -699,18 +700,25 @@ venner."</string>
      <string name="finish_create_baby_album_toast">Opprettet album for \"%s\" i Mi Cloud</string>
      <string name="finish_fill_baby">Opprett</string>
      <string name="fisheye">Fiskeøye</string>
+     <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
      <string name="flash">Blis</string>
      <string name="flash_off">Ingen blits</string>
      <string name="flash_on">Blits utløst</string>
      <string name="flip">Snu</string>
+     <string name="flip_polymorphism">photoeditor_effect_flip</string>
      <string name="flip_tooltip">Trekk bilde for at snu det</string>
      <string name="focal_length">Brennvidde</string>
      <string name="frame_black">Sort</string>
+     <string name="frame_black_tooltip">photoeditor_frame_black</string>
      <string name="frame_button">Ramme</string>
      <string name="frame_classic">Klassisk</string>
+     <string name="frame_classic_tooltip">photoeditor_frame_classic</string>
      <string name="frame_movie">Film</string>
+     <string name="frame_movie_tooltip">photoeditor_frame_movie</string>
      <string name="frame_semicircle">Semisirkel</string>
+     <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
      <string name="frame_white">Hvit</string>
+     <string name="frame_white_tooltip">photoeditor_frame_white</string>
      <string name="free">Lediig</string>
      <string name="gallery_cloud_provider_name">Mi Cloud-bilder</string>
      <string name="gallery_setting">Galleri</string>
@@ -792,10 +800,10 @@ venner."</string>
      <string name="item_not_sync_for_origin_video">"Kan ikke laste ned videoer som ikke har blitt synkronisert med Mi Cloud."</string>
      <string name="item_not_sync_for_refocus_data">"Kan ikke hente fokusdata for bilder som ikke har blit synkronisert med Mi Cloud."</string>
      <string name="kick_owner_user_positive_button_text">Fjern</string>
-     <string name="kick_owner_user_title">Fjern dette medlemmet?</string>
-     <string name="kick_sharer">Fjern deler</string>
-     <string name="kick_sharer_failed">Fjerning av deler feilet</string>
-     <string name="kick_sharer_successfully">Fjerning av deler vellykket</string>
+     <string name="kick_owner_user_title">Fjern denne personen?</string>
+     <string name="kick_sharer">Fjern delt seer</string>
+     <string name="kick_sharer_failed">"Kunne ikke fjerne denne personen"</string>
+     <string name="kick_sharer_successfully">Denne personen ble fjernet</string>
      <string name="last_chinese_new_year">Siste kinesiske nyttår</string>
      <string name="last_new_year">Siste nyttår</string>
      <string name="last_valentine_day">Siste valentinsdag</string>
@@ -909,7 +917,7 @@ venner."</string>
      <string name="original">Original</string>
      <string name="original_scale">Original skala</string>
      <string name="other_category">Andre innstillinger</string>
-     <string name="owner_album_subtitle">Delt med %1$s medlemmer</string>
+     <string name="owner_album_subtitle">Delt med %1$s folk</string>
      <string name="paint_brush">Malingspensel</string>
      <string name="paint_cancel_context">"Forkast endringene du har gjort med dette bildet?"</string>
      <string name="paint_cancel_title">Forkast endringer</string>
@@ -1000,6 +1008,7 @@ venner."</string>
      <string name="return_to_top">Trykk \"Foto\" for å retunere til toppen</string>
      <string name="rise">Varm</string>
      <string name="rotate">Roter</string>
+     <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Trekk foto for å rotere det</string>
      <string name="same_name_album_exist_and_toast">"Et album med det samme navnet eksisterer allerede. Opprettet '%s' istedet."</string>
      <string name="same_name_album_exists_alert">Bilder vil bli lagt til i et eksistrende album med det samme navnet.</string>
@@ -1064,7 +1073,7 @@ venner."</string>
      <string name="share_current_album">Del gjeldende album</string>
      <string name="share_public_url_text">Jeg har delt albumet %1$s. Utforsk %2$s</string>
      <string name="share_title_more">Mer</string>
-     <string name="sharer_quota_fulfiled">"Kan ikke legge til deler, delingsgrense nådd."</string>
+     <string name="sharer_quota_fulfiled">"Du har allerede delt dette albumet med maksimum mengde folk."</string>
      <string name="sharpen">Gjør skarpere</string>
      <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
      <string name="show_all">Bilder og videoer</string>
@@ -1152,6 +1161,7 @@ venner."</string>
      <string name="video_err">"Kan ikke avspille video."</string>
      <string name="video_not_exist">Video eksisterer ikke!</string>
      <string name="videos">Videoer</string>
+     <string name="view_baby_album">Vis babyalbum</string>
      <string name="view_face_album">Vis album</string>
      <string name="view_sharers">Vis delere</string>
      <string name="vignette">Vignette</string>

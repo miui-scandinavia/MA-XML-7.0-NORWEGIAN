@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Opprett kontakt</string>
-  <string name="call_log_provider_label">Anropslister</string>
+  <string name="call_log_provider_label">Anropshistorikk</string>
   <string name="create_contact">Ny kontakt</string>
   <string name="debug_dump_database_message">Du er i ferd med 1) lage en kopi av databasen som inneholder all kontakt-relatert informarsjon og anropslogg-relatert informasjon til den interne lagringen, og 2) sende den på epost. Husk å slette kopien så snart du har kopiert det av enheten eller e-posten er mottatt.</string>
   <string name="debug_dump_delete_button">Slett nå</string>
