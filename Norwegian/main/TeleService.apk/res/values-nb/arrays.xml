@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="cdma_system_select_choices">
+        <item>Kun hjemmenett</item>
+        <item>Automatisk</item>
+     </string-array>
      <string-array name="clir_display_values">
         <item>Nettverksstandard</item>
         <item>Skjul nummer</item>
         <item>Vis nummer</item>
-     </string-array>
-     <string-array name="cdma_system_select_choices">
-        <item>Kun hjemmenett</item>
-        <item>Automatisk</item>
      </string-array>
      <string-array name="cs_call_type">
         <item>CSVoice</item>
@@ -42,6 +42,13 @@
         <item>Koreansk</item>
         <item>Kinesisk</item>
         <item>Hebraisk</item>
+     </string-array>
+     <string-array name="livetalk_about_info_array">
+        <item>- Støtter nasjonale og internasjonale telefonnumre.</item>
+        <item>"- Hver samtale bruker 1KB av mobildata (bruker vanlig mobilnettverk når du ikke har en mobildatatilkobling)."</item>
+        <item>- Operatøren din kan belaste deg for roaming mens du bruker denne tjenesten.</item>
+        <item>- Du må slå på gratis lytting for å bruke denne tjenesten, ellers kan operatøren kan belaste deg under roaming.</item>
+        <item>- Kundestøtte: YunZhiXun, RonLianYunTongXun, LTSC</item>
      </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>

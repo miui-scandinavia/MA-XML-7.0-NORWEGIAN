@@ -228,6 +228,9 @@
      <string name="nowplaying_menu_item_delete">Slett</string>
      <string name="ok">OK</string>
      <string name="online_music">Oppdag</string>
+     <string name="online_music_enabled_subtitle">Trykk for å strømme dine favorittsanger.</string>
+     <string name="online_music_enabled_summary">Hør og last ned dine favorittsanger. Vis billboard-listene og utvalgte spillelister hvor enn du går!</string>
+     <string name="online_music_enabled_title">Gratis strømminger er her</string>
      <string name="online_playlist_is_empty">Spillelisten er tom</string>
      <string name="only_online_can_select_quality">Du kan bare velge kvaltiet for musikk du strømmer.</string>
      <string name="order_process_fail">"Kunne ikke autorisere kontoen din. Vent noen minutter og prøv igjen."</string>

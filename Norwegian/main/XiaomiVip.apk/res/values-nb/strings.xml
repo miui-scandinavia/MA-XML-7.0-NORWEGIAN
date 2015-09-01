@@ -8,6 +8,7 @@
      <string name="award_time">Samlet den %s</string>
      <string name="awarded_package_is_expired">Utløpt</string>
      <string name="awarded_package_was_redeemed">Innløst</string>
+     <string name="browse">Vis</string>
      <string name="buff_enable">[ enable ]</string>
      <string name="cube_ptr_hours_ago"> timer siden</string>
      <string name="cube_ptr_last_update">siste oppdatering: </string>

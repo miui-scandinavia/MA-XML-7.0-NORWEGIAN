@@ -22,7 +22,7 @@
      <string name="backup_theme_success_message">Gjeldende temainnstillinger har blitt sikkerhetskopiert</string>
      <string name="basic_info">Enkel info</string>
      <string name="change_wallpaper">Skift bakgrunnsbilde</string>
-     <string name="choose_new_themes">Nye temaer</string>
+     <string name="choose_new_themes">Temaer</string>
      <string name="close">Lukk</string>
      <string name="component_category_finest_title">Utvalgte</string>
      <string name="component_category_more_title">Mer</string>
@@ -350,6 +350,8 @@
      <string name="theme_multiple_button_title_customize">Tilpass</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Nei</string>
+     <string name="theme_precast_create_notification_content">Trykk for å vise nye temaer.</string>
+     <string name="theme_precast_create_notification_title">Oppdater til MIUI 7</string>
      <string name="theme_precast_update_notification_content">Trykk for å vise nye temaer.</string>
      <string name="theme_precast_update_notification_title">Oppdatert til MIUI 7</string>
      <string name="theme_provision_default_theme_title">Standard</string>
@@ -373,7 +375,7 @@
      <string name="theme_yes">Ja</string>
      <string name="third_party_pickers_activity_title">Sett %1$s</string>
      <string name="title_component">Personliggjør tema</string>
-     <string name="title_system_resource">Offline</string>
+     <string name="title_system_resource">Lastet ned</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Beskjær</string>

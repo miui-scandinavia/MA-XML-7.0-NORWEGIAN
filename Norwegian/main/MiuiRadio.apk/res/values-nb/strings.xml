@@ -24,6 +24,7 @@
      <string name="click_to_play">Tom</string>
      <string name="confirm_delete_history_text">Slett valgte elementer?</string>
      <string name="continue_play">Spill av</string>
+     <string name="default_cp_name">Qingting FM</string>
      <string name="device_connected">Tilkoblet</string>
      <string name="device_not_connected">Ikke tilkoblet</string>
      <string name="dialog_title_download_quality">Nedlastingskvalitet</string>
@@ -91,15 +92,13 @@
      <string name="priority_storage">Bruk eksternt SD-kort</string>
      <string name="priority_storage_summary">Automatisk last ned til eksternt SD-kort hvis tilgjengelig</string>
      <string name="project_device">Mi-telefon</string>
-     <string name="qingting_logo"> | Qingting FM</string>
      <string name="remaining_time">"Tid gjenstående: "</string>
      <string name="search_hint">Søk</string>
      <string name="section">utvalg</string>
      <string name="select_device">Velg enhet</string>
      <string name="share">Del</string>
      <string name="share_button">Del</string>
-     <string name="share_in_development" />
-     <string name="share_text">fra Radio</string>
+     <string name="share_text">fra Xiaomi Radio [%1$s]</string>
      <string name="share_text_other">Hør på %1$s den %2$s.</string>
      <string name="similar_programs">Lignende programmer</string>
      <string name="sleep_mode_canceled">Sovemodus skrudd av</string>

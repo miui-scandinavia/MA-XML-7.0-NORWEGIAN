@@ -134,6 +134,8 @@
      <string name="cannot_send_message_reason">Meldingen din har ingen gyldige mottakere.</string>
      <string name="cant_delete_cloud_album">Kunne ikke slette %s fordi det er et systemalbum.</string>
      <string name="cant_delete_system_album">"Kan ikke slette %s fordi det er et systemalbum."</string>
+     <string name="change_to_face_mode">Sorter etter folk</string>
+     <string name="change_to_photo_mode">Sorter etter album</string>
      <string name="choose_baby_sexy">Gender</string>
      <string name="choose_cloud_album">Velg album</string>
      <string name="choose_owner_relation">Relasjon</string>
@@ -587,6 +589,7 @@ venner."</string>
      <string name="cool_portrait">Portrett</string>
      <string name="create_baby_album">Lag ett baby album</string>
      <string name="create_baby_album_dialog_msg">Lag ett album for \"%s\"?</string>
+     <string name="create_baby_album_later_toast">Opprett ett babyalbum når som helst i Innstillinger</string>
      <string name="create_new_cloud_folder">Opprett nytt album</string>
      <string name="create_new_face">Bytt person</string>
      <string name="create_quick_icon_on_desk">Lag snarveier</string>
@@ -888,6 +891,7 @@ venner."</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
      <string name="not_is">ikke</string>
      <string name="not_now">Ikke nå</string>
+     <string name="not_remind_any_more">"Ikke vis igjen"</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
      <string name="old">Vintage</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
@@ -908,6 +912,7 @@ venner."</string>
      <string name="operation_remove_from_face_album">Fjern fra album</string>
      <string name="operation_remove_secret">Fjern fra skjult album</string>
      <string name="operation_rename">Gi nytt navn</string>
+     <string name="operation_rename_baby">Skriv babynavn</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
      <string name="operation_share">Del</string>
      <string name="operation_successful">Delt vellykket!</string>

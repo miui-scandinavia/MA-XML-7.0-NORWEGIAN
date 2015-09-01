@@ -469,7 +469,7 @@
      <string name="video_info_resolution_label">Oppløsning</string>
      <string name="video_info_video_coding_label">Videokoding:</string>
      <string name="video_plugin">Video-tillegg</string>
-     <string name="video_plugin_downloading">Last ned...</string>
+     <string name="video_plugin_downloading">Later ned (%1$s), vennligst vent en stund.</string>
      <string name="video_plugin_prepare">Forbereder video-tillegg, vennligst vent en stund.</string>
      <string name="video_version">Versjon %s</string>
      <string name="video_xiaomi">Mi Video</string>
@@ -514,6 +514,7 @@
      <string name="vp_low_definition">LOW</string>
      <string name="vp_maintitlearea">Last ned og nyt HD-video</string>
      <string name="vp_media_info">Vis video info</string>
+     <string name="vp_media_type_banned">Denne typen media støttes ikke</string>
      <string name="vp_milink">Mi Link</string>
      <string name="vp_milink_function">Kast for å vise</string>
      <string name="vp_mobile_network_using_negative">Avbryt</string>

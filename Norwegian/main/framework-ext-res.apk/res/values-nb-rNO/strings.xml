@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="all_call_livetalk_enable">Bruk oppfyllingspakker for nasjonale og internasjonale samtaler</string>
+     <string name="all_call_livetalk_remain_mins">Minutter gjenstående: (%1$s nasjonalt) | %2$s (%3$s)</string>
      <string name="alwaysUsePrompt">Husk mitt valg</string>
      <string name="auto_start_warning_allow">Tillat</string>
      <string name="auto_start_warning_deny">Nekt</string>
@@ -26,6 +28,10 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="handy_mode_enter_dlg_title">Gå inn i enhåndsmodus</string>
      <string name="handy_mode_summary">For å lukke, trykk på den tomme plassen utenfor skjermen</string>
      <string name="handy_mode_title">En-håndsmodus</string>
+     <string name="internal_livetalk_enable">Bruk oppfyllingspakker for nasjonale samtaler</string>
+     <string name="internal_remain_mins">%1$s minutter gjenstående (nasjonale samtaler)</string>
+     <string name="international_livetalk_enable">Bruk oppfyllingspakker for internasjonale samtaler</string>
+     <string name="international_remain_mins">%1$s minutter gjenstående (%2$s samtaler)</string>
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Mellomrom</string>
      <string name="location_usage_restricted_body">Trykk for å fjerne begrensning.</string>

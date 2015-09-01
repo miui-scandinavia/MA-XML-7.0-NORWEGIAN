@@ -70,6 +70,7 @@
      <string name="delete_dialog_button">Slett</string>
      <string name="delete_failed">Sletting mislyktes</string>
      <string name="delete_file">Slett denne filen?</string>
+     <string name="delete_file_error">"Kunne ikke slette fil"</string>
      <string name="delete_files">Slett %1$d filer?</string>
      <string name="delete_folder">Slett denne mappen?</string>
      <string name="delete_folders">Slett %1$d?</string>
@@ -234,6 +235,7 @@
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Varsle når nye filer er lagt til i %1$s</string>
+     <string name="online_not_support">"Kunne ikke vise denne filen på nettet for øyeblikket."</string>
      <string name="open_changed_file_message">"Filen du prøver å endre har blitt modifisert,  du kan:
 1. Laste ned (oppdatere den lokale filen)
 2. Laste opp (oppdatere den eksterne filen)"</string>
@@ -343,6 +345,7 @@
      <string name="signin_error">Nettverk utilgjengelig, vennligst prøv igjen</string>
      <string name="signin_success">"Innlogging fullført!
 +Få gratis diskplass %1$s"</string>
+     <string name="smb_loading">Bare et sekund…</string>
      <string name="space_info">Lagringsplass: %1$s tilgjengelig， totalt: %2$s</string>
      <string name="space_usage">Forbruk</string>
      <string name="start_server">Start</string>

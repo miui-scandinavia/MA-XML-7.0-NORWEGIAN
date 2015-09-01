@@ -2,8 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Blokkér %d apper</item>
-        <item quantity="one">Blokkér %d app</item>
+        <item quantity="other">Skjul %d apper sine varsler?</item>
+        <item quantity="one">Skjul denne appens varsler?</item>
      </plurals>
      <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d nylige apper</item>

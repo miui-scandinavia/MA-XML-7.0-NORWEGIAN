@@ -1,8 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-  <string name="app_name">com.securitycore.miui_t</string>
-  <string name="default_sdcard_volume_path"/>
-  <string name="hello_world">Hallo Verden!</string>
-  <string name="menu_settings">Innstillinger</string>
-  <string name="title_activity_main">Hovedaktivitet</string>
+     <string name="AVL">AVL</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">com.securitycore.miui_t</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"Denne funksjonen krypterer og laster opp din enhets-ID til AVL sine servere (%s)."</string>
+     <string name="avl_dialog_policy">vis vilkår for personvern</string>
+     <string name="avl_dialog_title">"AVL sine vilkår for personvern"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+     <string name="default_sdcard_volume_path" />
+     <string name="hello_world">Hallo Verden!</string>
+     <string name="menu_settings">Innstillinger</string>
+     <string name="tencent_dialog_cloudscan">Last opp og skann appnavn og detaljer ved hjelp av nettbaserte virusdefinisjoner.</string>
+     <string name="tencent_dialog_dbupdate">Oppdater virusdefinisjoner automatisk</string>
+     <string name="tencent_dialog_header">"Denne funksjonen krypterer og laster opp din enhets-ID til Tencent sine servere (%s)."</string>
+     <string name="tencent_dialog_policy">vis vilkår for personvern</string>
+     <string name="tencent_dialog_title">Tencent sine vis vilkår for personvern</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="title_activity_main">Hovedaktivitet</string>
 </resources>

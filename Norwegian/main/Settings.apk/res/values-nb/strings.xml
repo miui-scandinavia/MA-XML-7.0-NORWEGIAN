@@ -1018,6 +1018,7 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dlg_error_unmount_title" />
      <string name="dlg_error_usb_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="dlg_ok">OK</string>
+     <string name="dndm_alarm_content_not_all">Alle tillatt</string>
      <string name="dndm_auto_button_title">Repeter Ikke forstyrr-tid</string>
      <string name="dndm_auto_setting_group">Planlagt</string>
      <string name="dndm_auto_time_setting">Sett tid</string>
@@ -1053,7 +1054,6 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dndm_wristband">Mi Band</string>
      <string name="dndm_wristband_detailed">"Skru på Ikke forstyrr om Mi Band detekterer at du sover en time før valgte start-tid"</string>
      <string name="dndm_wristband_detailed2">"Skru av Ikke forstyrr om Mi Band detekterer at du våkner en time før valgte slutt-tid</string>
-      <string name="dndm_alarm_content_not_all">Alle tillatt</string>
      <string name="do_not_disturb_mode">Ikke forstyrr</string>
      <string name="dock_audio_media_disabled">All lyd</string>
      <string name="dock_audio_media_enabled">Bare medielyd</string>
@@ -1881,6 +1881,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Enkel utgave</string>
+     <string name="music_dirac_mode_piston_color">Fargeutgave</string>
      <string name="music_dirac_mode_piston_standard">Standard-utgave</string>
      <string name="music_dirac_mode_piston_youth">Ungdomsutgave</string>
      <string name="music_dolby_dialogue_enhancer">Dialog-forbedrer</string>
@@ -2118,7 +2119,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Knappelys</string>
      <string name="pref_button_light_summary">Meny, Hjem og Tilbake-knapp indikator</string>
-     <string name="pref_edge_handgrip">Edge handgrip</string>
+     <string name="pref_edge_handgrip">Kant-kontroller</string>
      <string name="pref_operational_key">Betjeningsknapper</string>
      <string name="pref_volume_wake_summary">Trykk på Volum-knappene vekker enheten</string>
      <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>
@@ -2573,7 +2574,7 @@ Sånn fungerer én-appsmodus:
      <string name="service_stop_description">Denne tjenesten ble startet av appen den tilhører. Hvis du stopper tjenesten, kan det føre til at appen ikke fungerer slik den skal.</string>
      <string name="services_subtitle">Tjenester</string>
      <string name="set_password_action">Velg passord</string>
-     <string name="set_password_message">Velg et passord for å skru av barnemodus og for å låse opp enheten</string>
+     <string name="set_password_message">Velg et passord for å skru av barnemodus og for å låse opp enheten.</string>
      <string name="set_password_title">Velg passord</string>
      <string name="settings_backup">Sikkerhetskopier innstillinger</string>
      <string name="settings_backup_summary">Sikkerhetskopier innstillingene</string>

@@ -167,6 +167,7 @@ en mobildataforbindelse"</string>
      <string name="main_button_usage_adjust_manual">Sett mobildatabruk</string>
      <string name="main_button_usage_adjusting">Endrer…</string>
      <string name="main_button_usage_package_setting">Sett mobildatabruk</string>
+     <string name="main_message_no_package_by_dual">Sett datagrense for %s</string>
      <string name="main_primary_message_traffic_cur_leisure">Natt-databruk</string>
      <string name="main_primary_message_traffic_cur_normal">Under datagrense</string>
      <string name="main_primary_message_traffic_cur_normal_overlimit">Datagrense nådd</string>

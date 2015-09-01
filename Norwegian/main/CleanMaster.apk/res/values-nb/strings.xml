@@ -176,6 +176,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Planlegg en rutineopprydding</string>
      <string name="pref_summary_garbage_process_mode">Sett varseler for når opprydder kjøres</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Last opp og sammenlign ukjente filnavn med nettdefinisjoner</string>
+     <string name="pref_summary_open_optimizer_memory_scan">Automatisk sjekk og rydd opp minnet</string>
      <string name="pref_title_auto_clean_and_alert">Rydd opp automatisk</string>
      <string name="pref_title_auto_clean_content_choose">Velg elementer å rydde</string>
      <string name="pref_title_auto_update_cleanup_db">Oppdater automatisk</string>
@@ -188,6 +189,7 @@
      <string name="pref_title_garbage_process_mode">Varsler</string>
      <string name="pref_title_manual_check_cleanup_db_update">Sjekk etter oppdateringer</string>
      <string name="pref_title_open_optimizer_cloud_scan">Bruk nettanalyse</string>
+     <string name="pref_title_open_optimizer_memory_scan">Minneopprydding</string>
      <string name="privacy_app_desc">Kontoer og passord</string>
      <string name="privacy_app_desc_message">Kontoer, passord og meldinger</string>
      <string name="privacy_app_desc_search">Kontoer, passord og søkehistorikk</string>
@@ -232,6 +234,7 @@
      <string name="toast_resolve_apk_error">Løs apk-feil</string>
      <string name="toast_scaning_similar_image">Sjekker bilder…</string>
      <string name="toast_select_image_need_delete">Velg bilder å sjekke</string>
+     <string name="toast_select_white_need_remove">Velg elemeneter å fjerne</string>
      <string name="toast_selecte_group_restore_succeed">Bilder gjenopprettet</string>
      <string name="toast_uninstall_success">Avinstallering fullført</string>
      <string name="white_list_ad_header">Reklame-filer: %d</string>
