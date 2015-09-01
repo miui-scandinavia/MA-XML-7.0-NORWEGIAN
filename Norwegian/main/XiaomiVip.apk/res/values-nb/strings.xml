@@ -35,7 +35,7 @@
      <string name="level_info_format" formatted="false">"Level %d %d/%d
 %s"</string>
      <string name="millis">%d millis</string>
-     <string name="minutes">%d minuteter</string>
+     <string name="minutes">%d minutter</string>
      <string name="my_award">Mine belønnelser</string>
      <string name="no_app">Vennligst installer Mi VIP-appen først</string>
      <string name="no_award">Ingen belønnelser</string>
