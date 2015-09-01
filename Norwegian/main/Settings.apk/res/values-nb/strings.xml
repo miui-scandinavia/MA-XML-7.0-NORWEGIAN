@@ -2021,7 +2021,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="owner_info_settings_summary" />
      <string name="owner_info_settings_title">Eierinformasjon</string>
      <string name="packages_subtitle">Pakker</string>
-     <string name="page_layout_1">Lør 28/12</string>
+     <string name="page_layout_1">Lørdag, 14 mars</string>
      <string name="page_layout_10">Innstillinger</string>
      <string name="page_layout_11">Vær</string>
      <string name="page_layout_12">Sikkerhet</string>
@@ -2031,7 +2031,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="page_layout_2">Kamera</string>
      <string name="page_layout_20">Katalog</string>
      <string name="page_layout_21">182 kontakter</string>
-     <string name="page_layout_22">Sett opp min profil</string>
+     <string name="page_layout_22">Min profil</string>
      <string name="page_layout_23">Mine grupper</string>
      <string name="page_layout_24">FAVORITTER</string>
      <string name="page_layout_25">Far</string>
@@ -2426,11 +2426,11 @@ Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="screen_paper_mode_turn_off">Av</string>
      <string name="screen_paper_mode_turn_on">På</string>
      <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Ikke vis igjen"</string>
-     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Samtykk og fortsett</string>
-     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Du må koble til internett for å oppdatere listen over programmer som kan bruke lesemodus</string>
-     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Vilkår for bruk</string>
-     <string name="screen_paper_mode_update_white_pkg_list_summary">Oppdater listen over programmer som bruker leselisten over nettverket</string>
-     <string name="screen_paper_mode_update_white_pkg_list_title">Nettverksoppdatering-liste</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Tillatt</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">For å oppdatere listen over apper som kan bruke lesemodus, må du koble til internett.</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internett-forbindelse</string>
+     <string name="screen_paper_mode_update_white_pkg_list_summary">Oppdater listen over apper som bruker automatisk bruker Lesemodus</string>
+     <string name="screen_paper_mode_update_white_pkg_list_title">Oppdater automatisk</string>
      <string name="screen_pinning_description">"Når én-appsmodus er slått på, kan du låse den gjeldende skjermen til én side, helt til du avslutter modusen.
 
 Sånn fungerer én-appsmodus:
@@ -2784,7 +2784,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_show_keyguard_notification_summary" />
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
-     <string name="status_bar_settings_show_notification_icon">Vis varselikon</string>
+     <string name="status_bar_settings_show_notification_icon">Vis varselikoner</string>
      <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
      <string name="status_bar_settings_show_statusBar_notification">Vis flytende varsler</string>
      <string name="status_bar_settings_show_statusBar_notification_summary">Vis flytende varsler på låseskjermen og omtrent overalt ellers</string>

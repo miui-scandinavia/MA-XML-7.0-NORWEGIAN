@@ -40,8 +40,8 @@
      <string name="download_preview_failed">Kunne ikke laste eksempel</string>
      <string name="download_success">Nedlastning fullført</string>
      <string name="fail_to_add_account">"Kan ikke legge til konto"</string>
-     <string name="favorite_list">Favoritter</string>
-     <string name="favorite_list_format">Favorittmerk %1$s</string>
+     <string name="favorite_list">Stjernemerket</string>
+     <string name="favorite_list_format">Stjernemerk %1$s</string>
      <string name="gift_anonymous">Anonym</string>
      <string name="gift_count_format">%1$s+</string>
      <string name="gift_operation_fail_dlg_abandon">Avbryt</string>
@@ -81,10 +81,10 @@
      <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
      <string name="loading_resource_detail_info">Laster...</string>
      <string name="lockscreen_magazine_subscribe">%1$s følgere</string>
-     <string name="lockscreen_magazine_summary">Få nye bakgrunner sendt direkte til låseskjermen din</string>
-     <string name="lockscreen_magazine_system_subscribe">%1$s valgte</string>
+     <string name="lockscreen_magazine_summary">Få nye bakgrunner sendt direkte til låseskjermen din hver dag</string>
+     <string name="lockscreen_magazine_system_subscribe">%1$s bakgrunner</string>
      <string name="lockscreen_magazine_system_title">Standard</string>
-     <string name="lockscreen_magazine_title">Utvalgte låseskjermer</string>
+     <string name="lockscreen_magazine_title">Daglige låseskjermer</string>
      <string name="lockscreen_wallpaper">Låseskjerm</string>
      <string name="lockstyle_personal_settings">Tilpasning</string>
      <string name="long_ringtone_resource">Lang (&gt;5sek)</string>
@@ -378,7 +378,7 @@
      <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Beskjær</string>
      <string name="wallpaper_decoded_error">Kunne ikke avkode</string>
-     <string name="wallpaper_loading_text">Laster ...</string>
+     <string name="wallpaper_loading_text">Bare ett sekund…</string>
      <string name="wallpaper_set_as_both">Sett begge</string>
      <string name="wallpaper_set_as_destop">Sett på skrivebord</string>
      <string name="wallpaper_set_as_lockscreen">Sett på låseskjerm</string>

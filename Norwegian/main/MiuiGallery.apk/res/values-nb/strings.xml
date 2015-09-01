@@ -92,7 +92,7 @@
      <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s delte %5$s's album med deg"</string>
      <string name="baby_album_sharer_recommand_face">Legg til eksisterende bilder av %1$s?</string>
-     <string name="baby_album_sharers_page_title">Del med famillier</string>
+     <string name="baby_album_sharers_page_title">Del med familier</string>
      <string name="baby_birthday">Bursdag</string>
      <string name="baby_lock_wallpaper">Låseskjerm-bakgrunn</string>
      <string name="baby_lock_wallpaper_at_least_one_selected">Velg et album</string>

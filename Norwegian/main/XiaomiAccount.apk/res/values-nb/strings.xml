@@ -270,7 +270,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
      <string name="passport_button_cancel">Avbryt</string>
      <string name="passport_captcha">Skriv kode</string>
      <string name="passport_change_account"><u>Endre konto</u></string>
-     <string name="passport_change_phone_number">Switch numbers</string>
+     <string name="passport_change_phone_number">Bytt nummer</string>
      <string name="passport_checking_account">Sjekker passord…</string>
      <string name="passport_checking_input">Sjekker inndata…</string>
      <string name="passport_choose_which_one_sim">Velg et telefonnummer</string>
@@ -280,7 +280,7 @@ For å aktivere din konto, følg
  linken i meldingen vi har sendt til din innboks."</string>
      <string name="passport_completed">Fullført</string>
      <string name="passport_confirm">Bekreft</string>
-     <string name="passport_confirm_recycle_account">Yes</string>
+     <string name="passport_confirm_recycle_account">Ja</string>
      <string name="passport_delete_account">Logg ut</string>
      <string name="passport_dspt_provision">"Bruk din Mi-konto for å logge inn til Mi Cloud, MIUI Tema Butikk og andre Mi-tjenster, fra hvor som helst. "</string>
      <string name="passport_dspt_provision2">Lær mer</string>
@@ -316,9 +316,9 @@ For å aktivere din konto, følg
      <string name="passport_get_back_pwd">Hent kontopassord</string>
      <string name="passport_get_verify_code">Hent kode</string>
      <string name="passport_getting_verify_code">Henter</string>
-     <string name="passport_identitfication_expired">Verification code expired, start over</string>
+     <string name="passport_identitfication_expired">Verfikasjonskode utløpt, start på nytt</string>
      <string name="passport_input_captcha_hint">Skriv kode</string>
-     <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
+     <string name="passport_input_password_for_login">Dette nummeret er assosiert med en annen konto, skriv ditt passord</string>
      <string name="passport_input_password_hint">Skriv passord</string>
      <string name="passport_input_phone_hint">Skriv telefonnummer</string>
      <string name="passport_input_vcode_hint">Skriv verifiseringskode</string>
@@ -346,7 +346,7 @@ For å aktivere din konto, følg
      <string name="passport_quick_login_title">Skriv passordet ditt</string>
      <string name="passport_re_get_verify_code">Hent kode igjen</string>
      <string name="passport_re_register">Registrer deg på nytt</string>
-     <string name="passport_recycle_account_prompt">Is this your Mi Account?</string>
+     <string name="passport_recycle_account_prompt">Er dette din Mi-konto?</string>
      <string name="passport_reg_failed">"Kan ikke sette opp konto"</string>
      <string name="passport_reg_new">Opprett en Mi-konto helt gratis</string>
      <string name="passport_reg_sms_send_prompt">Send verifiseringskode til %s</string>
@@ -364,9 +364,9 @@ For å aktivere din konto, følg
      <string name="passport_register_account_goto_email">Gå til din innboks</string>
      <string name="passport_register_account_verified_confirm">"Du har allerede verifisert kontoen din"</string>
      <string name="passport_register_by_email"><u>Opprett en konto med en e-post-adresse</u></string>
-     <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
-     <string name="passport_register_restricted_title">"Can't use this phone number"</string>
-     <string name="passport_reject_recycle_account">Nope</string>
+     <string name="passport_register_restricted">For mange kontoer har blitt assosiert med dette nummeret, prøv ett annet</string>
+     <string name="passport_register_restricted_title">"Kan ikke bruke dette telefonnummeret"</string>
+     <string name="passport_reject_recycle_account">Nei</string>
      <string name="passport_relogin">Logg inn igjen</string>
      <string name="passport_relogin_notice">Du må logge inn igjen</string>
      <string name="passport_remove_confirm">Logg ut</string>
@@ -397,10 +397,10 @@ For å aktivere din konto, følg
      <string name="passport_vcode_prompt_long">Skriv verifiseringskode</string>
      <string name="passport_verification_failed">Autentisering mislyktes</string>
      <string name="passport_verify">Verifiser</string>
-     <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
+     <string name="passport_wait_for_sms_prompt">"Start på nytt nå? Verifikasjonsmeldinger kan ta opp til 10 minutter å motta når telefonen er innenfor operatørens rekkevidde."</string>
      <string name="passport_welcome_skip_login"><u>Hopp over dette steget</u></string>
      <string name="passport_wrong_captcha">Koden du skrev er feil</string>
-     <string name="passport_wrong_password">Password is incorrect</string>
+     <string name="passport_wrong_password">Passord er feil</string>
      <string name="passport_wrong_phone_number_format">Formatet på telefonnummeret du skrev er ugyldig</string>
      <string name="passport_wrong_vcode">Koden du skrev er feil</string>
      <string name="passport_xiaomi_account_dspt">Bruk din Mi-konto for å logge inn på Mi Cloud, MIUI Temabutikk, og andre Mi-tjenester, fra hvor som helst.</string>

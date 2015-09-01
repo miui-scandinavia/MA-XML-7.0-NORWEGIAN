@@ -33,7 +33,7 @@
      <string name="privacy_policy">Erklæring om personvern</string>
      <string name="provision_finish">OK</string>
      <string name="provision_finish_restart">Start på nytt</string>
-     <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sitt"</string>
+     <string name="provision_inputmethod_policy_description">"Vis det valgte tastaturet sin erklæring om personvern."</string>
      <string name="provision_inputmethod_policy_description1">Erklæring om personvern</string>
      <string name="setting_locale">Setter plassering…</string>
      <string name="shut_down">Skru av</string>

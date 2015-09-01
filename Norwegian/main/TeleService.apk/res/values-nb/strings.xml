@@ -264,7 +264,7 @@
      <string name="corporate_unlock_success">SIM-bedriftsopplåsning mislykket.</string>
      <string name="cursorError">Pekerfeil</string>
      <string name="data_enable_summary">Aktiver datatilgang i mobilnettverk</string>
-     <string name="data_enabled">Data aktivert</string>
+     <string name="data_enabled">Mobildata</string>
      <string name="deactivate_all">Avbryt alle</string>
      <string name="default_call_type">CSVoice</string>
      <string name="default_notification_description">Standardlyd (%1$s)</string>

@@ -251,13 +251,13 @@
         <item>Systrace (grafikk)</item>
         <item>Ring stabel på glGetError</item>
      </string-array>
-     <string-array name="entries_font_size">
+    <!-- <string-array name="entries_font_size">
         <item>Liten</item>
         <item>Normal</item>
         <item>Stor</item>
         <item>Veldig stor</item>
         <item>Mega</item>
-     </string-array>
+     </string-array>-->
      <string-array name="entries_zen_mode">
         <item>Av</item>
         <item>Begrensede forstyrrelser</item>
@@ -272,8 +272,8 @@
         <item>Vis systemanimasjoner</item>
      </string-array>
      <string-array name="fluency_mode_summaries">
-        <item>"For å øke enhetens ytelse, kan du skjule systemanimasjoner"</item>
-        <item>"Systemanimasjoner kan gjøre enheten tregere"</item>
+        <item>"Øker enhetens ytelse"</item>
+        <item>"Kan gjøre enheten tregere"</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5-tommer</item>

@@ -18,14 +18,14 @@
      <string name="cube_ptr_refreshing">Oppdaterer...</string>
      <string name="cube_ptr_release_to_refresh">Slipp for å oppdatere på nytt</string>
      <string name="cube_ptr_seconds_ago"> sekunder siden</string>
-     <string name="days">%d days</string>
+     <string name="days">%d dager</string>
      <string name="exp_buff">+%s%% opplevelse</string>
      <string name="experience">Exp</string>
      <string name="expired">Utløpt</string>
      <string name="fail_reach_server">"Kan ikke koble til server"</string>
      <string name="giveup">Gi opp</string>
-     <string name="hello">Hello</string>
-     <string name="hours">%d hours</string>
+     <string name="hello">Hallo</string>
+     <string name="hours">%d timer</string>
      <string name="in_progress">Sender forespørsel…</string>
      <string name="invalid_json">Noe gikk galt</string>
      <string name="level">Level</string>
@@ -34,7 +34,7 @@
      <string name="level_info_format" formatted="false">"Level %d %d/%d
 %s"</string>
      <string name="millis">%d millis</string>
-     <string name="minutes">%d minutes</string>
+     <string name="minutes">%d minuteter</string>
      <string name="my_award">Mine belønnelser</string>
      <string name="no_app">Vennligst installer Mi VIP-appen først</string>
      <string name="no_award">Ingen belønnelser</string>
@@ -45,7 +45,7 @@
      <string name="promote">Level opp</string>
      <string name="query_level_fail">"Kunne ikke hente oppgaveinfo"</string>
      <string name="query_user_tasks_fail">"Kunne ikke hente oppgaveinfo"</string>
-     <string name="seconds">%d seconds</string>
+     <string name="seconds">%d sekunder</string>
      <string name="take_awarded_package">Løs inn</string>
      <string name="take_awarded_package_failed">"Kunne ikke løse inn gave. Vent et minutt eller to og prøv igjen."</string>
      <string name="task">Oppgaver</string>
@@ -54,7 +54,7 @@
      <string name="task_done">Ferdig</string>
      <string name="task_limit">Ingen oppgaver igjen i dag. Sees i morgen!</string>
      <string name="task_not_completed">Not completed</string>
-     <string name="task_ongoing">Åågår</string>
+     <string name="task_ongoing">Pågår</string>
      <string name="task_score">%d poeng</string>
      <string name="task_select_title">Velg en oppgave</string>
      <string name="task_start">Start</string>
