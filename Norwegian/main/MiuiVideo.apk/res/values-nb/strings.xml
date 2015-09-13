@@ -531,6 +531,8 @@
      <string name="vp_offline_status_wait">Vent</string>
      <string name="vp_offline_title">Offline</string>
      <string name="vp_offline_title_name">Episode %d</string>
+     <string name="vp_play_youku_failed_get_video_info">"Kunne ikke hente videoinfo"</string>
+     <string name="vp_play_youku_time_out">Forbindelse avbrutt</string>
      <string name="vp_player_plugin_dlg_neg_btn">Avbryt</string>
      <string name="vp_player_plugin_dlg_no_content">Ingen videoavspiller-tillegg</string>
      <string name="vp_player_plugin_dlg_title">Videoavspiller-tillegg</string>

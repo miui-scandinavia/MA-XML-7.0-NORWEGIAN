@@ -205,7 +205,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>
      <string name="general_btn_follow">Følg</string>
-     <string name="general_btn_follow_ok">Følger</string>
+     <string name="general_btn_follow_ok">Fulgt</string>
      <string name="general_cancel_favorite_ok">Favoritt fjernet</string>
      <string name="general_cancel_followed_ok">Avfulgt</string>
      <string name="general_delete_recent_ok">Nyeste fjernet</string>

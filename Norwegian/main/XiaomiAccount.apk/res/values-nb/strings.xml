@@ -279,7 +279,7 @@ For å aktivere kontoen, følg linken i meldingen vi har sendt til deg."</string
 For å aktivere din konto, følg 
  linken i meldingen vi har sendt til din innboks."</string>
      <string name="passport_completed">Fullført</string>
-     <string name="passport_confirm">Bekreft</string>
+     <string name="passport_confirm">OK</string>
      <string name="passport_confirm_recycle_account">Ja</string>
      <string name="passport_delete_account">Logg ut</string>
      <string name="passport_dspt_provision">"Bruk din Mi-konto for å logge inn til Mi Cloud, MIUI Tema Butikk og andre Mi-tjenster, fra hvor som helst. "</string>
@@ -298,7 +298,7 @@ For å aktivere din konto, følg
      <string name="passport_error_empty_username">Skriv brukernavnet ditt</string>
      <string name="passport_error_empty_vcode">Tast verifiseringskode</string>
      <string name="passport_error_illegal_pwd">Ugyldig passord</string>
-     <string name="passport_error_invalid_dev_id">Ugyldig enhets-ID</string>
+     <string name="passport_error_invalid_dev_id">Enhetens ID er ugyldig</string>
      <string name="passport_error_invalid_phone_num">Ugyldig telefonnummer</string>
      <string name="passport_error_login">"Kunne ikke logge inn"</string>
      <string name="passport_error_network">"Kan ikke koble til nettverket"</string>
@@ -308,11 +308,12 @@ For å aktivere din konto, følg
      <string name="passport_error_sim_not_ready">"Kan ikke finne SIM-kort"</string>
      <string name="passport_error_ssl_hand_shake">Feil med servertilkoblingen. Prøv å stille systemdato- og tid til gjeldende tid.</string>
      <string name="passport_error_unknown">"Kan ikke logge inn"</string>
-     <string name="passport_error_user_name">Ugyldig brukernavn</string>
-     <string name="passport_error_verify_code">Koden du skrev inn er ikke gyldig</string>
+     <string name="passport_error_user_name">Brukernavnet du skrev inn er ugyldig.</string>
+     <string name="passport_error_verify_code">Koden du skrev inn er ugyldig.</string>
      <string name="passport_failed_to_send_activate_email">"Kunne ikke sende aktiveringsepost"</string>
      <string name="passport_find_password_on_web_msg">Besøk account.mi.com for å tilbakestille passordet.</string>
      <string name="passport_forget_password"><u>Glemt passord</u></string>
+     <string name="passport_forget_password_no_underline">Glemt passord</string>
      <string name="passport_get_back_pwd">Hent kontopassord</string>
      <string name="passport_get_verify_code">Hent kode</string>
      <string name="passport_getting_verify_code">Henter</string>
@@ -330,6 +331,7 @@ For å aktivere din konto, følg
      <string name="passport_login_instead_reg">Bruk dette nummeret</string>
      <string name="passport_login_instead_reg_with_email">Bruk denne eposten</string>
      <string name="passport_login_notice">Logger inn…</string>
+     <string name="passport_login_short">Logg inn</string>
      <string name="passport_login_title">Logg inn til din Mi-konto</string>
      <string name="passport_login_with_email_or_id"><u>Logg inn med e-post-adresse eller Mi-konto ID</u></string>
      <string name="passport_next">Neste</string>
@@ -352,12 +354,12 @@ For å aktivere din konto, følg
      <string name="passport_reg_sms_send_prompt">Send verifiseringskode til %s</string>
      <string name="passport_reg_success">Konto opprettet</string>
      <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
-     <string name="passport_reg_type_email">Opprett konto ved hjelp av e-post</string>
-     <string name="passport_reg_type_other_ways"><u>Opprett konto med annen methode</u></string>
-     <string name="passport_reg_type_other_ways_title">Opprett konto med annen metode</string>
+     <string name="passport_reg_type_email">Bruk e-post-adresse</string>
+     <string name="passport_reg_type_other_ways"><u>Bruk e-post-adress eller et annet telefonnummer</u></string>
+     <string name="passport_reg_type_other_ways_title">Opprett en Mi-konto</string>
      <string name="passport_reg_using_other_phone">Opprett ved hjelp av annet telefonnummer</string>
-     <string name="passport_reg_using_other_phone_number_prompt">Opprett ved hjelp av annet telefonnummer</string>
-     <string name="passport_reg_using_phone_number_prompt">Opprett med telefonnummer</string>
+     <string name="passport_reg_using_other_phone_number_prompt">Bruk et annet telefonnummer</string>
+     <string name="passport_reg_using_phone_number_prompt">"Opprett en ny konto ved hjelp av "</string>
      <string name="passport_reg_via_sms_alert">Operatøren din kan belaste deg for SMS-meldingen brukt til å aktivere denne tjenesten.</string>
      <string name="passport_reging">Oppretter konto…</string>
      <string name="passport_register">Opprett en konto</string>

@@ -8,8 +8,26 @@
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
      <string name="app_name">Filutforsker</string>
+     <string name="app_name_bluetooth">Bluetooth</string>
+     <string name="app_name_camera">Kamera</string>
+     <string name="app_name_downloadedrom">Pakker</string>
+     <string name="app_name_downloads">Nedlastning</string>
+     <string name="app_name_market">App-butikk</string>
+     <string name="app_name_midrop">Mi Drop</string>
+     <string name="app_name_miui">MIUI</string>
+     <string name="app_name_miuimusic">Musikk</string>
+     <string name="app_name_miuiringtone">Ringetone</string>
+     <string name="app_name_miuiwallpaper">Bakgrunner</string>
+     <string name="app_name_screenshot">Skjermbilder<</string>
      <string name="archive_send_to">Send til…</string>
      <string name="background">Stille nedlastning</string>
+     <string name="backup_cancel">Nei takk</string>
+     <string name="backup_confirm">Sikkerhetskopiér nå</string>
+     <string name="backup_success_cancel">OK</string>
+     <string name="backup_success_confirm">Vis</string>
+     <string name="backup_success_message">Sikkerhetskopiert til %1$s</string>
+     <string name="backup_success_title">Sikkerhetskopiert</string>
+     <string name="backup_title">Sikkerhetskopier av WeChat Video</string>
      <string name="big5_summary">Standard koding av den tradisjonelle kinesiske versjonen av Windows-system</string>
      <string name="big5_title">BIG5</string>
      <string name="bind_account">Knytt til kuaipan-konto</string>
@@ -26,7 +44,7 @@
      <string name="category_default_number_text">(0)</string>
      <string name="category_document">Dokumenter</string>
      <string name="category_favorite">Favoritter</string>
-     <string name="category_file">Files</string>
+     <string name="category_file">Filer</string>
      <string name="category_log">Filer</string>
      <string name="category_music">Musikk</string>
      <string name="category_other">Andre</string>
@@ -52,6 +70,7 @@
      <string name="confirm">OK</string>
      <string name="confirm_know">OK</string>
      <string name="connect_network_setting_des">Påminn meg når jeg bruker nettverk</string>
+     <string name="connection_error">"Kunne ikke koble til"</string>
      <string name="copy_failed">Kopiering mislykkes</string>
      <string name="copy_file_to_kuaipan">Kopier filer til Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
@@ -133,6 +152,9 @@
      <string name="get_cloud_space">Legg til 500GB</string>
      <string name="gigabyteShort">GB</string>
      <string name="group_title">%2$s fra %1$s</string>
+     <string name="group_title_extra_backup">Sikkerhetskopier</string>
+     <string name="group_title_extra_expire">I ferd med å utløpe</string>
+     <string name="group_title_extra_new">Ny</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
      <string name="just_now">Akkurat nå</string>
@@ -229,12 +251,14 @@
      <string name="no_wifi_hint">Ingen Wi-Fi-forbindelse funnet, trykk for å kontrollere innstillinger</string>
      <string name="notif_server_starting">FTP-Server startet</string>
      <string name="notif_title">FTP-Server kjører</string>
+     <string name="notification_content_hint">Trykk for å vise</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Varsle når nye filer er lagt til i %1$s</string>
+     <string name="notification_wechat_title">Varsle meg når en WeChat-video er i ferd med å utløpe</string>
      <string name="online_not_support">"Kunne ikke vise denne filen på nettet for øyeblikket."</string>
      <string name="open_changed_file_message">"Filen du prøver å endre har blitt modifisert,  du kan:
 1. Laste ned (oppdatere den lokale filen)
@@ -368,6 +392,7 @@
      <string name="tab_source">Apper</string>
      <string name="tab_storage">LAGRING</string>
      <string name="terabyteShort">TB</string>
+     <string name="title_expire_video">I ferd med å utløpe</string>
      <string name="title_more_source">Flere apper</string>
      <string name="title_recent">Seneste</string>
      <string name="toast_file_not_can_read">Filen kan ikke leses.</string>

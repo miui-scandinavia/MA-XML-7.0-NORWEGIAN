@@ -33,7 +33,7 @@
      <string name="alert_dialog_yes">Ja</string>
      <string name="antispam_marked_count">Rapportert avy %1$d MIUI brukere</string>
      <string name="antispam_marked_title">%1$s</string>
-     <string name="antispam_notification_title">Unknown number</string>
+     <string name="antispam_notification_title">Ukjent nummer</string>
      <string name="antispam_provider">Identifisert av %s</string>
      <string name="apn_settings">Navn på aksesspunkt</string>
      <string name="atr_disable">Lokale trafikkmeldinger deaktivert</string>
@@ -75,7 +75,7 @@
      <string name="callFailed_unobtainable_number">Ugyldig nummer</string>
      <string name="callFailed_userBusy">Linjen er opptatt</string>
      <string name="callUnanswered_forwarded">Ring ubesvarte og videresendte</string>
-     <string name="call_description_recording">Recording…</string>
+     <string name="call_description_recording">Tar opp…</string>
      <string name="call_extension_conference_mode">Konferansemodus</string>
      <string name="call_forwarding_settings">Innstillinger for viderekobling</string>
      <string name="call_lost">Anrop har blitt tapt.</string>
@@ -88,16 +88,16 @@
      <string name="call_recording_error_start_failed">Opptaksfunksjonen blir brukt av en annen app</string>
      <string name="call_recording_error_unknown">En ukjent feil oppsto</string>
      <string name="call_recording_notification_message">Trykk for å høre.</string>
-     <string name="call_recording_notification_message_low_storage">SD-kort er fullt.</string>
-     <string name="call_recording_notification_message_sd_unmounted">SD-kort har blitt fjernet.</string>
+     <string name="call_recording_notification_message_low_storage">SD-kortet er fullt.</string>
+     <string name="call_recording_notification_message_sd_unmounted">SD-kortet har blitt fjernet.</string>
      <string name="call_recording_notification_title">Anrop innspilt</string>
      <string name="call_recording_notification_title_error">"Kunne ikke spille inn anrop"</string>
      <string name="call_recording_notification_toggle_title">Varsel om samtaleopptak</string>
-     <string name="call_settings">Samtaleinnstillinger</string>
+     <string name="call_settings">Telefon</string>
      <string name="call_title_redialing_with_times">Oppringt %d ganger</string>
      <string name="caller_manage_header">Konferanseanrop %s</string>
      <string name="calling_via_template">Ringer via %s</string>
-     <string name="cancel">Cancel</string>
+     <string name="cancel">Avbryt</string>
      <string name="card_title_call_ended">Anrop avsluttet</string>
      <string name="card_title_callback_number">"Ditt nummer for tilbakeringing
  %1$s"</string>
@@ -405,14 +405,14 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534.</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
      <string name="not_voice_capable">Taleanrop støttes ikke</string>
-     <string name="notification_action_accept">Accept</string>
+     <string name="notification_action_accept">Aksepter</string>
      <string name="notification_action_answer_video">Video</string>
-     <string name="notification_action_answer_voice">Voice</string>
-     <string name="notification_action_dismiss">Dismiss</string>
+     <string name="notification_action_answer_voice">Tale</string>
+     <string name="notification_action_dismiss">Avvis</string>
      <string name="notification_action_end_call">Legg på</string>
      <string name="notification_dialing">Ringer</string>
      <string name="notification_incoming_call">Innkommende anrop</string>
-     <string name="notification_incoming_video_call">Incoming video call</string>
+     <string name="notification_incoming_video_call">Innkommende videosamtale</string>
      <string name="notification_missedCallTicker">Tapt anrop fra %s</string>
      <string name="notification_missedCallTitle">Tapt anrop</string>
      <string name="notification_missedCall_call_back">Ring tilbake</string>
@@ -423,7 +423,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="notification_network_selection_title">Ingen tjeneste</string>
      <string name="notification_on_hold">På vent</string>
      <string name="notification_ongoing_call">Pågående anrop</string>
-     <string name="notification_requesting_video_call">Incoming video request</string>
+     <string name="notification_requesting_video_call">Ïnnkommende videoforespørsel</string>
      <string name="notification_voicemail_no_vm_number">Mangler nummer til telefonsvarer</string>
      <string name="notification_voicemail_text_format">Ring %s</string>
      <string name="notification_voicemail_title">Nye beskjeder på telefonsvarer</string>
@@ -440,7 +440,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="onscreenAddCallText">Legg til samtale</string>
      <string name="onscreenAddParticipant">Legg til deltaker</string>
      <string name="onscreenAudioText">Lyd</string>
-     <string name="onscreenChangeToVoiceText">Change to voice call</string>
+     <string name="onscreenChangeToVoiceText">Bytt til talesamtale</string>
      <string name="onscreenEndCallText">Legg på</string>
      <string name="onscreenHoldText">Vent</string>
      <string name="onscreenManageCallsText">Administrer anrop</string>
@@ -607,7 +607,7 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="selectContact">velg kontakt</string>
      <string name="select_account_dialog_title">Select Account</string>
      <string name="select_automatically">Velg automatisk</string>
-     <string name="select_voice_call_sim">Choose SIM card</string>
+     <string name="select_voice_call_sim">Velg SIM-kort</string>
      <string name="send_button">Send</string>
      <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Send hold-aktiv-meldinger</string>
@@ -730,6 +730,6 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
 "</string>
      <string name="wait_prompt_str">"Sende følgende toner?
 "</string>
-     <string name="waiting_close_airplane_mode">Waiting to close airplane mode ...</string>
+     <string name="waiting_close_airplane_mode">Bare et sekund…</string>
      <string name="wild_prompt_str">Bytt ut stjerne med</string>
 </resources>

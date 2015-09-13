@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="zero">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="one">%1$d fil med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="two">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="few">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="many">%1$dfiler med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">%1$d dager siden</item>
         <item quantity="zero">%1$d dager siden</item>
@@ -40,6 +48,22 @@
         <item quantity="two">Mottok %1$d filer av app %2$s</item>
         <item quantity="few">Mottok %1$d filer av app %2$s</item>
         <item quantity="many">Mottok %1$d filer av app %2$s</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Mottok %1$d filer av WeChat</item>
+        <item quantity="zero">Mottok %1$d filer av WeChat</item>
+        <item quantity="one">Mottok %1$d fil av WeChat</item>
+        <item quantity="two">Mottok %1$d filer av WeChat</item>
+        <item quantity="few">Mottok %1$d filer av WeChat</item>
+        <item quantity="many">Mottok %1$d filer av WeChat</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="zero">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="one">%1$d fil med WeChat Video will expire</item>
+        <item quantity="two">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="few">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="many">%1$d filer med WeChat Video vil utløpe</item>
      </plurals>
      <plurals name="found_new_files">
         <item quantity="other">funnet %1$d nye filer</item>

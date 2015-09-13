@@ -43,7 +43,7 @@
      <string name="no_task">Alle oppgaver har blitt fullført</string>
      <string name="passive_task">Bakgrunnsoppgaver</string>
      <string name="privilege">Privilegier</string>
-     <string name="promote">Level opp</string>
+     <string name="promote">Fullfør oppdrag for å tjene poeng</string>
      <string name="query_level_fail">"Kunne ikke hente oppgaveinfo"</string>
      <string name="query_user_tasks_fail">"Kunne ikke hente oppgaveinfo"</string>
      <string name="seconds">%d sekunder</string>
@@ -66,4 +66,5 @@
      <string name="upgraded">Lvl opp!</string>
      <string name="use">Bruk</string>
      <string name="validity">Utløper den %s</string>
+     <string name="validity_unknown">Ukjent utløpsdato</string>
 </resources>

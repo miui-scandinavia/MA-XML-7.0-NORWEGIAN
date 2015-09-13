@@ -223,7 +223,7 @@
      <string name="contact_detail_miprofile_accept">Utveksle kontaktkort</string>
      <string name="contact_detail_miprofile_accept_fail_toast">"Kunne ikke utveksle kontaktkort"</string>
      <string name="contact_detail_miprofile_accept_success_toast">Utvekslet kontaktkort</string>
-     <string name="contact_detail_miprofile_binded_label">Lagt til</string>
+     <string name="contact_detail_miprofile_binded_label">Verifisert</string>
      <string name="contact_detail_miprofile_exchange_closed">"Ingen telefonnummer er assosiert med denne Mi-kontoen
 Kontaktkort er slått av"</string>
      <string name="contact_detail_miprofile_privacy_settings">Krev tillatelse for å se</string>
@@ -929,7 +929,7 @@ for å legge til kontakt til favoritter:
      <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
      <string name="pull_to_refresh_refreshing_label">Laster…</string>
      <string name="pull_to_refresh_release_label">Slipp for å oppdatere…</string>
-     <string name="qr_card_card">Min QR-kode</string>
+     <string name="qr_card_card">QR-kode</string>
      <string name="qrcode_card_title">QR-kode</string>
      <string name="quickcontact_add_email">Legg til e-post</string>
      <string name="quickcontact_add_phone_number">Legg til telefonnummer</string>

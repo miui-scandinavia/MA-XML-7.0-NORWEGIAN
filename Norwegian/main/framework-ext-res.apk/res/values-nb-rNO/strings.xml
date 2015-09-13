@@ -49,8 +49,10 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="permdesc_manageLocationPolicy">Tillater appen å håndtere plasseringsregler og definere app-spesifikke regler.</string>
      <string name="permlab_manageLocationPolicy">hånter plasseringsregler</string>
      <string name="reboot_confirm_title">Telefonen din vil starte på nytt.</string>
+     <string name="reboot_info_auto_boot">Telefonen din vil starte den %s på grunn av tidsplanen for auto-oppstart</string>
+     <string name="reboot_info_shutdown_alarm">Telefonen din vil start og gi alarm den %s</string>
      <string name="reboot_progress">Starter på nytt…</string>
-     <string name="replace">Ersatt</string>
+     <string name="replace">Erstatt</string>
      <string name="screen_button_disabled_message">Navigeringsknapper deaktivert. For å aktivere de på nytt, trykk Hjem og På-knappen samtidig.</string>
      <string name="screen_button_enabled_message">Navigeringsknapper aktivert.</string>
      <string name="screen_button_notification_text">For å slå dem på, trykk Hjem og PÅ-knappene samtidig.</string>

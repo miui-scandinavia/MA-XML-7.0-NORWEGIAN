@@ -69,10 +69,15 @@
      <string name="apply">Bruk</string>
      <string name="appwidget_empty_text">Ingen bilder.</string>
      <string name="appwidget_title">Bildegalleri</string>
+     <string name="associate_face_album">Velg ett album</string>
      <string name="auto">Auto</string>
      <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
      <string name="auto_create_recent_album_confirm">"Galleri vil tømme favoritt-albumdata. Albumer du har favorittmerket manuelt vil ikke bli påvirket."</string>
      <string name="auto_create_recent_album_over_ten_times">Et album vil bli markest som favoritt når du åpner den mer en 10 ganger</string>
+     <string name="auto_update_face">Legg til bilder automatisk</string>
+     <string name="auto_update_face_summary">Automatisk match og legg til bilder i babyalbum</string>
+     <string name="auto_update_off">Av</string>
+     <string name="auto_update_on">På</string>
      <string name="auto_upload_album_comfirm_to_share">Dette albumet blir synket opp automatisk.</string>
      <string name="auto_upload_face">Legg til bilder automatisk</string>
      <string name="auto_upload_face_summary">Automatiskm match og legg til bilder i babyalbum</string>
@@ -870,6 +875,7 @@ venner."</string>
      <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
+     <string name="need_to_turn_on_sync">Skru på synk med Mi Cloud nå.</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
      <string name="network_connected_rescan">"Kan ikke koble til nettverket"</string>
@@ -1121,6 +1127,7 @@ venner."</string>
      <string name="sync_album_summary">Synk med Mi Cloud</string>
      <string name="sync_history_power_on">Synk kun bilder under ladning</string>
      <string name="sync_in_progress_message">Laster ned album…</string>
+     <string name="sync_ok">Synk</string>
      <string name="sync_only_in_wifi">Bruk bare Wi-Fi til synking av bilder</string>
      <string name="sync_only_in_wifi_alert">Slår du av denne funksjonen kan mobildataforbruket øke, er du sikker på at du vil slå den av?</string>
      <string name="sync_only_in_wifi_summary">"Aldri bruk mobildata for å laste opp bilder"</string>
