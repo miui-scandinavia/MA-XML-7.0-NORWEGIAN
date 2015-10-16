@@ -101,7 +101,9 @@
      <string name="record_loading">Laster inn opptak, vennligst vent.</string>
      <string name="record_mark_point">Marker %s</string>
      <string name="record_name_hour">.</string>
+     <string name="record_name_minute" />
      <string name="record_picker_title">Velg et opptak</string>
+     <string name="record_quliaty_preference_title">Recording quality</string>
      <string name="record_saving">Lagrer opptak, vennligst vent.</string>
      <string name="record_your_message">Ta opp en melding</string>
      <string name="recording">opptaker</string>

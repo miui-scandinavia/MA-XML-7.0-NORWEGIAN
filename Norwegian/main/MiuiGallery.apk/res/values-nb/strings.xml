@@ -101,6 +101,7 @@
      <string name="baby_birthday">Bursdag</string>
      <string name="baby_lock_wallpaper">Låseskjerm-bakgrunn</string>
      <string name="baby_lock_wallpaper_at_least_one_selected">Velg et album</string>
+     <string name="baby_lock_wallpaper_cancelled">Gjenopprettet standard låseskjerm-bakgrunn</string>
      <string name="baby_lock_wallpaper_save_settings_msg">Bruk gjeldende innstillinger?</string>
      <string name="baby_lock_wallpaper_title">"Bruk babybilder som bakgrunn på låseskjerm"</string>
      <string name="baby_name_cannot_empty">Skriv navn</string>
@@ -132,6 +133,7 @@
      <string name="camera_setas_wallpaper">Bakgrunn</string>
      <string name="camera_view_none_message">Bilder vil bli vist her.</string>
      <string name="cancel">Avbryt</string>
+     <string name="cancel_baby_lock_wallpaper_confirm_msg">Gjenopprett standard låseskjerm-bakgrunn?</string>
      <string name="cancel_hint">Operasjon avbrutt</string>
      <string name="cannot_delete_sharer_photo">Kan ikke slette %s element(er) lagt til av andre brukere.</string>
      <string name="cannot_remove_creator">Kan ikke fjerne eier</string>
@@ -743,6 +745,7 @@ venner."</string>
      <string name="group_by_time">Via tidspunkt</string>
      <string name="has_invalid_recipient">Ugyldige mottaker(e): %1$s</string>
      <string name="height">Høyde</string>
+     <string name="hidden_album_display_name">Skjult album</string>
      <string name="highlight">Høydepunkter</string>
      <string name="highlight_abbr">H</string>
      <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -875,7 +878,9 @@ venner."</string>
      <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
-     <string name="need_to_turn_on_sync">Skru på synk med Mi Cloud nå.</string>
+     <string name="need_to_turn_on_network">Koble til Internett</string>
+     <string name="need_to_turn_on_sync">"Skru på synk med Mi Cloud "</string>
+     <string name="need_to_turn_on_wlan">Koble til Wi-Fi</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
      <string name="network_connected_rescan">"Kan ikke koble til nettverket"</string>
@@ -899,6 +904,7 @@ venner."</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_remind_any_more">"Ikke vis igjen"</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
+     <string name="number_of_uploading_finish">All files uploaded to Mi Cloud</string>
      <string name="old">Vintage</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
@@ -1059,6 +1065,10 @@ venner."</string>
      <string name="send_public_url">Send album-URL</string>
      <string name="sepia">Sepia</string>
      <string name="set_as_baby_lock_wallpaper">Sett som bakgrunn på låseskjerm</string>
+     <string name="set_baby_icon_picker_default_title">Sett minatyrbilde</string>
+     <string name="set_bg_file_exist_message">Dette elementet eksister allerede</string>
+     <string name="set_bg_picker_default_title">Sett cover-bilde</string>
+     <string name="set_bg_unknow_reasons">Ukjent feil</string>
      <string name="set_hidden_album">Skjul</string>
      <string name="set_image">Sett bilde som</string>
      <string name="set_label_all_albums">Alle album</string>
@@ -1075,7 +1085,6 @@ venner."</string>
      <string name="settings">Innstillinger</string>
      <string name="settings_i_xiaomi_com">"Vis bilder du har synket til Mi Cloud på www.mi.com/micloud"</string>
      <string name="shadow">Skygger</string>
-     <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share_album">Del album</string>
      <string name="share_album_owner">Eier</string>
      <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
@@ -1125,6 +1134,8 @@ venner."</string>
      <string name="sync_album_in_proecess">Dette albumet blir synkronisert, vennligst vent...</string>
      <string name="sync_album_set_error">"Kan ikke synke bilder. Sjekk din dataforbindelse og prøv igjen."</string>
      <string name="sync_album_summary">Synk med Mi Cloud</string>
+     <string name="sync_battery_low">Low battery</string>
+     <string name="sync_cloud_space_full">Skylagring fullt</string>
      <string name="sync_history_power_on">Synk kun bilder under ladning</string>
      <string name="sync_in_progress_message">Laster ned album…</string>
      <string name="sync_ok">Synk</string>

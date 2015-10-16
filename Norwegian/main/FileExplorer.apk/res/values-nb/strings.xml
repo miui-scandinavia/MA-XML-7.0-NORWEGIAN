@@ -64,10 +64,11 @@
      <string name="clean_trash_box">Tøm papirkurv</string>
      <string name="cleaning">Rydder...</string>
      <string name="close">Lukk</string>
-     <string name="compress_fail">Komprimering feilet, destinasjonen finnes allerede</string>
+     <string name="compress_fail">"Kunne ikke komprimere. En fil med det samme navnet eksisterer allerede."</string>
      <string name="compress_message">Komprimer til:</string>
      <string name="compress_title">Komprimer</string>
      <string name="confirm">OK</string>
+     <string name="confirm_clean">Rydd opp</string>
      <string name="confirm_know">OK</string>
      <string name="connect_network_setting_des">Påminn meg når jeg bruker nettverk</string>
      <string name="connection_error">"Kunne ikke koble til"</string>
@@ -79,13 +80,22 @@
      <string name="create_share_link_description">Oppretter delingslink…</string>
      <string name="cution">Tips</string>
      <string name="data_capacity">Data %1$s</string>
+     <string name="data_consumption_cancel">Exit</string>
+     <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+     <string name="data_consumption_confirm">OK</string>
+     <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
+     <string name="data_consumption_title">Internet connection</string>
      <string name="decompress_cancel">Avbryt</string>
      <string name="decompress_confirm">Dekomprimer?</string>
-     <string name="decompress_destination_error">"Ekstraksjon feilet: kan ikke ekstrakte filer til her."</string>
-     <string name="decompress_fail">Dekomprimering mislyktes!</string>
-     <string name="decompress_success">Dekomprimering fullført</string>
-     <string name="decompress_to">Dekomprimer til:</string>
-     <string name="decompress_to_here">Dekomprimer her</string>
+     <string name="decompress_destination_error">Kan ikke pakke ut filer til denne plasseringen</string>
+     <string name="decompress_encrypted_rar_not_supported">Krypterte rar-filer er ikke støttet.</string>
+     <string name="decompress_fail">"Kunne ikke pakke ut filer. En fil med det samme navnet eksisterer eller arkivet er korrupt."</string>
+     <string name="decompress_input_password">Skriv passord</string>
+     <string name="decompress_password_error">Passordet du skrev er ikke korrekt.</string>
+     <string name="decompress_success">Utpakking fullført</string>
+     <string name="decompress_title">Pakk ut</string>
+     <string name="decompress_to">Pakk ut filer til…</string>
+     <string name="decompress_to_here">Pakk ut her</string>
      <string name="delete_dialog_button">Slett</string>
      <string name="delete_failed">Sletting mislyktes</string>
      <string name="delete_file">Slett denne filen?</string>
@@ -138,10 +148,10 @@
      <string name="folder_name_empty">Mappenavn kan ikke være tomt</string>
      <string name="folder_name_illegal">Ugyldig mappenavn</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Trykk her&lt;/a&gt;for å gå til papirkurven</string>
-     <string name="ftp_account_req_notice">Brukernavn og passord, 4~16 tegn, skal inneholde sifre, bokstaver, store/små bokstaver</string>
-     <string name="ftp_anonymous_login">Anonym FTP</string>
-     <string name="ftp_invalid_username_or_password">Godkjennelsesfeil</string>
-     <string name="ftp_open_port_error">Kan ikke åpne FTP-port, kontroller forbindelse og prøv igjen.</string>
+     <string name="ftp_account_req_notice">4-16 tegn, sifre, forskjell på store/små bokstaver</string>
+     <string name="ftp_anonymous_login">Anonym innlogging</string>
+     <string name="ftp_invalid_username_or_password">Brukernavnet eller passordet du skrev er feil.</string>
+     <string name="ftp_open_port_error">"Kunne ikke åpne port. Sjekk din nettverksforbindelse eller tilbakestill portnummeret."</string>
      <string name="ftp_password_hint">Passord</string>
      <string name="ftp_port_number">Port</string>
      <string name="ftp_transfer_secure">Sikker FTP-overføring</string>
@@ -178,7 +188,9 @@
      <string name="kuaipan_photo_locate">Lokalisert %1$s</string>
      <string name="kuaipan_photo_more_folder_count">%1$s</string>
      <string name="kuaipan_prompt">Varsel</string>
-     <string name="kuaipan_prompt_message">"Serveren er utilgjengelig, prøv igjen senere."</string>
+     <string name="kuaipan_prompt_message">"
+Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
+"</string>
      <string name="kuaipan_root_fooder">Hjem</string>
      <string name="kuaipan_tech_support">Teknisk support tilbudt av Kingsoft Kuaipan</string>
      <string name="load_err">Innlasting mislyktes</string>
@@ -255,6 +267,7 @@
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
+     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Varsle når nye filer er lagt til i %1$s</string>
@@ -363,7 +376,7 @@
      <string name="share_box">Delt</string>
      <string name="share_box_receive">Mottatt</string>
      <string name="share_box_send">Sendt</string>
-     <string name="share_link_failed">Opprettelse av link mislyktes, prøv igjen!</string>
+     <string name="share_link_failed">"Kunne ikke generere link."</string>
      <string name="show_message">Fil kan ikke åpnes uten å bli lastet ned</string>
      <string name="sign_description">Logger inn...</string>
      <string name="signin_error">Nettverk utilgjengelig, vennligst prøv igjen</string>
@@ -378,6 +391,7 @@
      <string name="stay_awake_title">Hold våken</string>
      <string name="stop_server">Stopp</string>
      <string name="storage_info">%1$s tilgjengelig</string>
+     <string name="storage_info_detail">Tilgjengelig:%1$s Totalt:%1$s</string>
      <string name="storage_internal">Intern lagring</string>
      <string name="storage_sd_card">SD-kort</string>
      <string name="storage_usb">USB-lagring</string>
@@ -395,6 +409,7 @@
      <string name="title_expire_video">I ferd med å utløpe</string>
      <string name="title_more_source">Flere apper</string>
      <string name="title_recent">Seneste</string>
+     <string name="title_select_volume">Velg volum</string>
      <string name="toast_file_not_can_read">Filen kan ikke leses.</string>
      <string name="tools">VERKTØY</string>
      <string name="trans_task">Nettverksoverføring</string>

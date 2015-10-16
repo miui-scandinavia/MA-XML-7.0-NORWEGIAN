@@ -277,6 +277,7 @@
      <string name="deactivate_all">Avbryt alle</string>
      <string name="default_area_code_setting">Standard områdekode</string>
      <string name="default_areacode">Standard områdekode</string>
+     <string name="default_call_type">CSVoice</string>
      <string name="default_notification_description">Standardlyd (%1$s)</string>
      <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Ikke angitt&gt;</string>
@@ -812,7 +813,7 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="oldPin2Label">Gammel PIN2-kode</string>
      <string name="oldPinLabel">Gammel PIN-kode</string>
      <string name="old_password_label">Gjeldende 4-sifret passord</string>
-     <string name="old_pin2_label">Gammel PIN2</string>
+     <string name="old_pin2_label">PIN2</string>
      <string name="old_pin_label">Gammel PIN</string>
      <string name="onHold">Parkert</string>
      <string name="onscreenAddCallText">Tilføy anrop</string>
@@ -828,9 +829,9 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="onscreenVideoCallText">Videosamtale</string>
      <string name="open_miui">Åpne</string>
      <string name="optional_summary">&lt;Valgfritt&gt;</string>
-     <string name="order_by_name">Alphabetical</string>
-     <string name="order_by_recent">Frequently used</string>
-     <string name="order_id">"Order ID: "</string>
+     <string name="order_by_name">Alfabetisk</string>
+     <string name="order_by_recent">Ofte brukt</string>
+     <string name="order_id">Ordre-ID: %1$s</string>
      <string name="order_price">¥ %1$s</string>
      <string name="order_status_fail">Order status: failed</string>
      <string name="order_status_successful">Order status: complete</string>
@@ -1299,7 +1300,7 @@ Neste periode starter om %2$d dager (%3$s)"</string>
      <string name="uplmn_list_setting_title">Foretrukkede nettverk</string>
      <string name="uplmn_numeric_is_empty">Skriv en nettverks-ID</string>
      <string name="use_history">Aktivitet</string>
-     <string name="use_history_duration_hour">%1$h</string>
+     <string name="use_history_duration_hour">%1$s time</string>
      <string name="use_history_duration_min">%1$smin</string>
      <string name="use_history_endtime">Avsluttet: %1$s</string>
      <string name="use_history_starttime">Startet: %1$s</string>

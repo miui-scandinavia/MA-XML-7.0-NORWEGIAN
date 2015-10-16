@@ -152,7 +152,7 @@
      <string name="notification_otg_trackball_out">Trackball frakoblet</string>
      <string name="notification_otg_unknow_in">OTG-enhet tilkoblet</string>
      <string name="notification_otg_unknow_out">OTG-enhet frakoblet</string>
-     <string name="notification_template_text">" har et varsel. Trykk for å vise."</string>
+     <string name="notification_template_text">Nytt varsel. Trykk for å vise.</string>
      <string name="oldman_airplane_mode_text">airplane</string>
      <string name="oldman_incall_text">incall</string>
      <string name="oldman_status_bar_time_format_12">h:mm</string>

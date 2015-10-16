@@ -66,7 +66,7 @@
      <string name="clean_content_two">2 elementer</string>
      <string name="clean_content_zero">"Ikke rydd noenting"</string>
      <string name="confirm_auto_cleaner">OK</string>
-     <string name="deepclean_app_content">Avinstaller apper du ikke har brukt i 7 dager</string>
+     <string name="deepclean_app_content">Avinstaller apper du ikke har brukt i 30 dager</string>
      <string name="deepclean_cache_content">Tøm data generert av apper</string>
      <string name="deepclean_cache_header_left">Mellomlagrinsfiler: %d</string>
      <string name="deepclean_large_content">Slett filer større enn 10MB</string>
@@ -115,6 +115,7 @@
      <string name="hints_garbage_handle_item_content">%1$d elementer，%2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Tomt</string>
      <string name="hints_header_left">%d</string>
+     <string name="hints_install_apps_else">Brukt %s</string>
      <string name="hints_install_apps_interval">Brukt for %d dager siden</string>
      <string name="hints_install_apps_new">Aldri åpnet</string>
      <string name="hints_install_apps_risk">Risiko oppdaget</string>
@@ -176,7 +177,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Planlegg en rutineopprydding</string>
      <string name="pref_summary_garbage_process_mode">Sett varseler for når opprydder kjøres</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Last opp og sammenlign ukjente filnavn med nettdefinisjoner</string>
-     <string name="pref_summary_open_optimizer_memory_scan">Automatisk sjekk og rydd opp minnet</string>
+     <string name="pref_summary_open_optimizer_memory_scan">Automatisk velg apper å rydde</string>
      <string name="pref_title_auto_clean_and_alert">Rydd opp automatisk</string>
      <string name="pref_title_auto_clean_content_choose">Velg elementer å rydde</string>
      <string name="pref_title_auto_update_cleanup_db">Oppdater automatisk</string>
@@ -190,6 +191,7 @@
      <string name="pref_title_manual_check_cleanup_db_update">Sjekk etter oppdateringer</string>
      <string name="pref_title_open_optimizer_cloud_scan">Bruk nettanalyse</string>
      <string name="pref_title_open_optimizer_memory_scan">Minneopprydding</string>
+     <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
      <string name="privacy_app_desc">Kontoer og passord</string>
      <string name="privacy_app_desc_message">Kontoer, passord og meldinger</string>
      <string name="privacy_app_desc_search">Kontoer, passord og søkehistorikk</string>

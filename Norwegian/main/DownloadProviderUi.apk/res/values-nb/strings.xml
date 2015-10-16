@@ -160,6 +160,8 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="privacy_tip_content">"Bruk Xunlei-akselerator for å øke nedlastningshastigheten? URLen til nedlastningens vert vil bli lastet opp til Xunlei sine servere. Dine Mi-konto-detaljer vil bli lastet opp for å sjekke om du har noen aktive abonnement til denne tjenesten."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
+     <string name="quit_btn">Avslutt</string>
+     <string name="rebind_btn">Legg til igjen</string>
      <string name="recommend_downloading">Laster ned…</string>
      <string name="recommend_failed">Feilet</string>
      <string name="recommend_install">Installer</string>
@@ -199,6 +201,8 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="third_web_filesize">Størrelse</string>
      <string name="third_web_savepath">Plassering</string>
      <string name="third_web_title">Lagre</string>
+     <string name="title_tips">OBS</string>
+     <string name="title_unbind_xunlei">Fjern din Xunlei-konto</string>
      <string name="toast_xunlei_engine_open">Xunlei-nedlastingsakselerator er på</string>
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
@@ -214,6 +218,8 @@ Forny nå og få 5% rabatt."</string>
 Forny nå og få 5% rabatt."</string>
      <string name="vip_show_info">"5 millioner meldemmer.
 Akselerer nedlastninger på tvers av dine enheter."</string>
+     <string name="xiaomi_account_not_exist_message">"Denne Mi-kontoen eksisterer ikke"</string>
+     <string name="xunlei_account_has_unbind_message">Xunlei-konto fjernet</string>
      <string name="xunlei_brand">Drevet av Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
      <string name="xunlei_close_tips_button">Skru på</string>

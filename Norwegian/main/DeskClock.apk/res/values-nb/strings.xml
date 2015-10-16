@@ -204,6 +204,8 @@
      <string name="time_picker_set">OK</string>
      <string name="time_picker_time_seperator">:</string>
      <string name="timer_add_timer">Legg til stoppeklokke</string>
+     <string name="timer_alarm_alert_pad">%s</string>
+     <string name="timer_alarm_cancel_pad">click on screen to stop ringing</string>
      <string name="timer_alert_alert_silenced">Tidtaker stoppet etter %d minutter.</string>
      <string name="timer_cancel">Avbryt</string>
      <string name="timer_continue">Fortsett</string>

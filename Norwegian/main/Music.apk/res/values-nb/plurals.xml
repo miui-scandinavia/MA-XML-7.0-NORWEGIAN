@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Slett %d spillelister?</item>
+        <item quantity="one">Slett %d spillelister?</item>
+     </plurals>
      <plurals name="NTrackstoDownload">
         <item quantity="other">%d sanger vil bli lastet ned</item>
         <item quantity="one">1 sang vil bli lastet ned</item>
      </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">%d artister</item>
+        <item quantity="one">%d artist</item>
+     </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">%d dager igjen</item>
         <item quantity="one">%d dag igjen</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d band</item>
+        <item quantity="one">%d band</item>
      </plurals>
      <plurals name="Nnew_local_audios">
         <item quantity="other">%d sanger lagt til</item>
@@ -16,6 +28,10 @@
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nye</item>
         <item quantity="one">1 ny</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Avspiller vil stoppe om %d minutter</item>
+        <item quantity="one">Avspiller vil stoppe om %d minutt</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d sanger lagt til i spilleliste</item>
@@ -41,12 +57,28 @@
         <item quantity="other">%d sanger</item>
         <item quantity="one">1 sang</item>
      </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Slett %d sanger?</item>
+        <item quantity="one">Slett %d sang?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Fjern %d sanger?</item>
+        <item quantity="one">Fjern %d sang?</item>
+     </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">%d sanger</item>
         <item quantity="one">1 sang</item>
      </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">%d elementer valgt</item>
+        <item quantity="one">%d element valgt</item>
+     </plurals>
      <plurals name="send_songs_toast">
         <item quantity="other">%d sanger vil bli sendt</item>
         <item quantity="one">1 sang vil bli sendt</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Sanger har blitt favorittmerket.</item>
+        <item quantity="one">Sang har blitt favorittmerket.</item>
      </plurals>
 </resources>

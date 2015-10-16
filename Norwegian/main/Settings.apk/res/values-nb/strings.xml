@@ -2013,6 +2013,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="oldman_mode_entry_title">Forenklet modus</string>
      <string name="oldman_mode_settings_caption">Innstillinger for forenklet modus</string>
      <string name="oldman_mode_summary">Bruk forenklet startskjerm og menyer</string>
+     <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
      <string name="online_resource_entry">Nettressurser</string>
      <string name="only_one_home_message">Startsideinnstillingene skjules inntil du installerer en annen startsideapp.</string>
      <string name="only_when_charging">Bruk bare under lading</string>
@@ -2152,6 +2153,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="preferred_app_settings">Standard</string>
      <string name="preferred_app_settings_default">Standard</string>
      <string name="preferred_app_settings_reset">Gjenopprett standarder</string>
+     <string name="preferred_app_settings_reset_button">Reset</string>
      <string name="preferred_app_settings_reset_message">Standard app-innstillinger vil bli gjenopprettet til MIUI sine fabrikkinnstillinger</string>
      <string name="preferred_application_title">Foretrukket %s</string>
      <string name="preferred_application_warning_message">Å bytte ut din standard %1$s kan øke strømforbruketn, redusere ytelse, og sette enheten din sitt innhold i fare. Bruk %2$s istedet.</string>

@@ -200,7 +200,8 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="fail_to_add_account">"Kunne ikke legge til konto"</string>
      <string name="follow_express">Følg %1$s</string>
      <string name="follow_express_success">Følger nå %1$s.</string>
-     <string name="follow_label">Follow %1$s</string>
+     <string name="follow_label">Følg %1$s</string>
+     <string name="follow_processing">prosesserer</string>
      <string name="follow_success">Now following %1$s.</string>
      <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>

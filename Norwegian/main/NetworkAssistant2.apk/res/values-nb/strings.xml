@@ -115,6 +115,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_fragment_tab_title_nonsys">Nedlastede</string>
      <string name="firewall_fragment_tab_title_sys">Apper</string>
      <string name="firewall_network_restrict_notify_message">Trykk for å endre innstillinger.</string>
+     <string name="firewall_network_restrict_notify_mobile">mobile data</string>
      <string name="firewall_network_restrict_notify_title">"%1$s har ikke lov til å koble til %2$s."</string>
      <string name="firewall_rule_group_title_mobile">Data</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>

@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="all_call_livetalk_enable">Bruk oppfyllingspakker for nasjonale og internasjonale samtaler</string>
-     <string name="all_call_livetalk_remain_mins">Minutter gjenstående: (%1$s nasjonalt) | %2$s (%3$s)</string>
+     <string name="all_call_livetalk_remain_mins">Minutter gjenstående: (%1$s Nasjonalt) | (%2$s %3$s)</string>
      <string name="alwaysUsePrompt">Husk mitt valg</string>
      <string name="auto_start_warning_allow">Tillat</string>
      <string name="auto_start_warning_deny">Nekt</string>
@@ -88,7 +88,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_quiet_mode">DND</string>
      <string name="status_bar_toggle_reboot">Omstart</string>
      <string name="status_bar_toggle_rotate">Rotering av</string>
-     <string name="status_bar_toggle_screen_button">Deaktiver</string>
+     <string name="status_bar_toggle_screen_button">Knapper</string>
      <string name="status_bar_toggle_screenshot">Skjermskudd</string>
      <string name="status_bar_toggle_shutdown">Skru av</string>
      <string name="status_bar_toggle_sync">Synk</string>

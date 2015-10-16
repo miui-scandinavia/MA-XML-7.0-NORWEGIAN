@@ -25,21 +25,21 @@
         <item quantity="other">Vil du slette de valgte alarmene?</item>
         <item quantity="one">Vil du slette den valgte alarmen?</item>
      </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Alarmer vil bli stille etter %d minutter</item>
+        <item quantity="one">Alarmer vil bli stille etter %d minutt</item>
+     </plurals>
      <plurals name="snooze_duration">
         <item quantity="other">%d minutter</item>
-        <item quantity="one">Ett minutt</item>
-     </plurals>
-     <plurals name="snooze_picker_label">
-        <item quantity="other">minutter</item>
-        <item quantity="one">minutt</item>
-     </plurals>
-     <plurals name="timers_num">
-        <item quantity="other">%d tidstakere</item>
         <item quantity="one">Ett minutt</item>
      </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Slumre i %d min</item>
         <item quantity="one">Slumre i %d min</item>
+     </plurals>
+     <plurals name="snooze_picker_label">
+        <item quantity="other">minutter</item>
+        <item quantity="one">minutt</item>
      </plurals>
      <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d minutter</item>
@@ -68,5 +68,9 @@
      <plurals name="timer_message_with_seconds">
         <item quantity="other">%1$d sekunder</item>
         <item quantity="one">%1$d sekund</item>
+     </plurals>
+     <plurals name="timers_num">
+        <item quantity="other">%d tidstakere</item>
+        <item quantity="one">Ett minutt</item>
      </plurals>
 </resources>
