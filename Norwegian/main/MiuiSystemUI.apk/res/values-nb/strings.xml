@@ -206,6 +206,7 @@
      <string name="status_bar_settings_signal_meter_disconnected">Ingen Internett-forbindelse</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi tilkoblet</string>
      <string name="status_bar_style_settings">Statuslinje innnstillinger</string>
+     <string name="task_access_locked_app_msg">"Appens innhold er skjult."</string>
      <string name="title_usb_accessory">USB-tilbehør</string>
      <string name="torch_activity_hint">Hold [icon] for å aktivere lykt på låseskjermen</string>
      <string name="torch_activity_name">Lykt</string>

@@ -92,6 +92,14 @@
      <string name="app_new_version">Du har allerede den nyeste versjonen nedlastet</string>
      <string name="app_update_install">Klar til å installere oppdatering.</string>
      <string name="application_name">Nettleser</string>
+     <string name="aqi_quality_index_break">AQI %1$s</string>
+     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+     <string name="aqi_quality_index_good">AQI %1$s</string>
+     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+     <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+     <string name="aqi_quality_index_moderate">AQI %1$s</string>
+     <string name="aqi_quality_index_pure">AQI %1$s</string>
+     <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="autofill_profile_editor_address_line_1">Adresselinje 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
      <string name="autofill_profile_editor_address_line_2">Adresselinje 2:</string>
@@ -169,6 +177,7 @@
      <string name="clear_history">Tøm historikk</string>
      <string name="clear_history_by_group_alert">Tøm historikk fra %s?</string>
      <string name="clear_history_group">Tøm all %s historikk</string>
+     <string name="clear_most_visited">Seneste historikk</string>
      <string name="clear_search_history">Tøm søkehistorikk</string>
      <string name="clip_dialog_title">Åpne kopiert link?</string>
      <string name="close_ads_choice_no">Tillat</string>
@@ -349,7 +358,14 @@
      <string name="history_saved_webpage">Lagre side</string>
      <string name="history_track">Historikk</string>
      <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+     <string name="homepage_delete_card_menu">Slett</string>
+     <string name="homepage_get_location">Hent plassering</string>
+     <string name="homepage_get_location_failed">"Kunne ikke hente info, velg by"</string>
+     <string name="homepage_more_cards">Flere tjenester</string>
+     <string name="homepage_more_sites">Flere nettsteder</string>
+     <string name="homepage_search_hint">Søk</string>
      <string name="homepage_set">Sett som startside</string>
+     <string name="homepage_top_card_menu">Topp</string>
      <string name="http">http://</string>
      <string name="import_bookmarks_dialog_add">Legg til bokmerker i en Google-konto</string>
      <string name="import_bookmarks_dialog_confirm_add">Vil du legge til bokmerkene som er på enheten nå, og starte synkronisering av bokmerker med %s?</string>
@@ -437,6 +453,7 @@ Vil du forlate denne siden?"</string>
      <string name="miui_bookmark_menu_moveout_group_txt">Flytt ut</string>
      <string name="miui_content_copy">Kopier</string>
      <string name="miui_content_cut">Klipp ut</string>
+     <string name="miui_content_extent_select">Select more</string>
      <string name="miui_content_open_url">Åpne URL</string>
      <string name="miui_content_paste">Lim inn</string>
      <string name="miui_content_select">Velg</string>
@@ -464,14 +481,14 @@ Vil du forlate denne siden?"</string>
      <string name="miuishare_account_activate_confirmation">Aktivering kreves</string>
      <string name="miuishare_account_activate_ok">Aktiver</string>
      <string name="miuishare_account_login_cancel">Avbryt</string>
-     <string name="miuishare_account_login_confirmation">Innlogging kreves</string>
+     <string name="miuishare_account_login_confirmation">Logg inn førsts</string>
      <string name="miuishare_account_login_ok">Logg inn</string>
-     <string name="miuishare_account_need_activate">Weibo-deling krever at din Weibo-konto er knyttet til din Xiaomi-konto. Vil du knytte kontoene nå?</string>
-     <string name="miuishare_account_need_login">Weibo-deling krever at din Weibo-konto er knyttet til din Xiaomi-konto. Logg inn for å dele nå?</string>
+     <string name="miuishare_account_need_activate">Weibo-kontoen bør være koblet med din Mi-konto. Vil du logge inn med din Mi-konto?</string>
+     <string name="miuishare_account_need_login">Weibo-kontoen bør være koblet med din Mi-konto. Logg inn for å dele nå?</string>
      <string name="miuishare_app_name">MiuiShare</string>
-     <string name="miuishare_no_network">Ingen nettverk for deling</string>
+     <string name="miuishare_no_network">"Kunne ikke koble til nettverket"</string>
      <string name="miuishare_publish">Send</string>
-     <string name="miuishare_share_done">Innholdet ble delt.</string>
+     <string name="miuishare_share_done">Delt.</string>
      <string name="miuishare_share_editor_title">Del</string>
      <string name="miuishare_title_more">Mer</string>
      <string name="miuishare_title_share">Del</string>
@@ -481,7 +498,12 @@ Vil du forlate denne siden?"</string>
      <string name="month_picker_dialog_title">Sett måned</string>
      <string name="move_to_up_folder">Gå et nivå opp</string>
      <string name="name">Navn</string>
-     <string name="network_show_wifi_setting_tip_dialog_description">WiFi-tilkobling funnet, vil du koble til??</string>
+     <string name="nav_bottom_bar_back">Tilbake</string>
+     <string name="nav_bottom_bar_close_all">Lukk alle</string>
+     <string name="nav_bottom_bar_new_tab">Ny fane</string>
+     <string name="nav_screen_container_tab_incognito">Inkognito-fane</string>
+     <string name="nav_screen_container_tab_normal">Vanlig fane</string>
+     <string name="network_show_wifi_setting_tip_dialog_description">WiFi-tilkobling funnet, vil du koble til?</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WiFi-nettverk tilgjengelig</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_title">"Hvis du bruker mobildata for å få tilgang til internettet, vil MIUI varsle deg hvis et tilgjengelig WiFi-nettverk er i nærheten"</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Åpent Wi-Fi-nettverk tilgjengelig</string>
@@ -523,6 +545,7 @@ Vil du forlate denne siden?"</string>
      <string name="pref_autologin_progress">Logger inn på Google-nettsteder ved hjelp av %s</string>
      <string name="pref_autologin_progress_in_background">Logger inn på Google sites i bakgrunnen med %s.</string>
      <string name="pref_autologin_title">Automatisk Google innlogging</string>
+     <string name="pref_category_hint">Kategori</string>
      <string name="pref_category_title_version">Versjon</string>
      <string name="pref_check_security_url_summary">"Send nettsted-URLer til Mi sine servere for godkjenning"</string>
      <string name="pref_check_security_url_title">Sjekk URL-sikkerhet</string>
@@ -579,6 +602,9 @@ Vil du forlate denne siden?"</string>
      <string name="pref_development_viewport">Bruk bred viewport</string>
      <string name="pref_development_visual_indicator">Aktivér visuel indikator</string>
      <string name="pref_enable_adblock_notification">Vis varsler for annonseblokkering</string>
+     <string name="pref_enable_news">Nyheter</string>
+     <string name="pref_enable_novels">Bøker</string>
+     <string name="pref_enable_videos">Videoer</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Avslutt ved lukking av siste fane</string>
      <string name="pref_extras_reset_default">Tilbakestill til standard</string>
      <string name="pref_extras_reset_default_dlg">Vil du tilbakestille til standard verdier?</string>
@@ -633,7 +659,10 @@ Vil du forlate denne siden?"</string>
      <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_min_font_size">Minste skriftstørrelse</string>
      <string name="pref_min_font_size_value">%d pkt</string>
-     <string name="pref_other_title">Other</string>
+     <string name="pref_notifications_hint">Varsler</string>
+     <string name="pref_notifications_receive">Varsler</string>
+     <string name="pref_notifications_title">Varsler</string>
+     <string name="pref_other_title">Andre</string>
      <string name="pref_privacy_clear_cache">Tøm cache</string>
      <string name="pref_privacy_clear_cache_dlg">slett lokalt cachelagret innhold og databaser?</string>
      <string name="pref_privacy_clear_cache_summary">Tøm lokalt cachelagret innhold og databaser</string>
@@ -692,6 +721,8 @@ Vil du forlate denne siden?"</string>
      <string name="pref_volume_key_action">¨Skroll ved bruk av volum-knapper</string>
      <string name="pref_volume_key_enabled">Lydstyrke knapper</string>
      <string name="pref_volume_key_operation">Handling for lydstyrke knapper</string>
+     <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
+     <string name="pref_weather_location_title">Weather location</string>
      <string name="pref_webapp_settings_fontsize">Skriftstørrelse</string>
      <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
      <string name="pref_webapp_settings_hidebottombar">Alltid skjul bunnlinjen</string>
@@ -784,6 +815,7 @@ Vil du forlate denne siden?"</string>
      <string name="search_s139">139</string>
      <string name="search_settings_description">Bokmerker og weboversikt</string>
      <string name="search_shipin">Video</string>
+     <string name="search_sm">SM</string>
      <string name="search_sogou">Sogou</string>
      <string name="search_taobao">Taobao</string>
      <string name="search_the_web">Søk på nettet</string>
@@ -804,6 +836,8 @@ Vil du forlate denne siden?"</string>
      <string name="shortcut_bookmark_title">Velg et bokmerke</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Dette nettstedets URL vil bli sendt til Xiaomi sine servere for å verifisere dens sikkerhet. Du kan skru av denne funksjonen når som helst i Innstillinger."</string>
      <string name="show_check_security_url_check_tip_dialog_title">URL-sikkerhet</string>
+     <string name="show_security_tip_dialog_title">Terms of Service</string>
+     <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
      <string name="sign_in_to" formatted="false">Logg inn til %s1 \"%s2\"</string>
      <string name="skip_button_label">Hopp over</string>
      <string name="skip_current_version">Hopp over denne versjonen</string>
@@ -884,6 +918,7 @@ Vil du forlate denne siden?"</string>
      <string name="url_find_on_page_result">Vis i nettleser</string>
      <string name="url_find_on_page_result_item">Vis hele teksten for \"%s\"</string>
      <string name="url_hint">Skriv en URL eller søk på nettet</string>
+     <string name="url_hint_from_search">Skriv nøkkelordet</string>
      <string name="url_opened_in_background">Åpne i bakgrunnsfanse</string>
      <string name="url_suggest_indicator_bookmark">Bokmerker/Historikk</string>
      <string name="url_suggest_indicator_hoturl">Populær</string>

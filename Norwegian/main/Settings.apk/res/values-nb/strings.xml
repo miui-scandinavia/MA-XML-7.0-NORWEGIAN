@@ -75,7 +75,7 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="accessibility_toggle_speak_password_preference_title">Les inn passord</string>
      <string name="account_add">Legg til</string>
      <string name="account_autostar_label">Auto-kjøring</string>
-     <string name="account_list">Alle</string>
+     <string name="account_list">Andre kontoer</string>
      <string name="account_settings">Kontoer</string>
      <string name="account_settings_menu_auto_sync">Synkroniser data automatisk</string>
      <string name="account_settings_menu_auto_sync_personal">Auto-synkr. av personlige data</string>
@@ -95,6 +95,19 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="add_auto_startup_application">Legg til auto-start apper</string>
      <string name="add_device_admin">Aktiver</string>
      <string name="add_device_admin_msg">Aktiver enhetsadministrator?</string>
+     <string name="add_fingerprint_done_msg">Du kan nå låse opp enheten ved hjelp av fingeravtrykket ditt.</string>
+     <string name="add_fingerprint_done_title">Ferdig!</string>
+     <string name="add_fingerprint_finished_button_text">Ferdig</string>
+     <string name="add_fingerprint_instruction_dialog_msg">"For å legge til fingeravtrykksinfo, vennligst plasser fingeren på sensoren.
+Sørg for at fingeren dekker den indre kanten av sensoren"</string>
+     <string name="add_fingerprint_instruction_msg">Lås opp enheten eller bekreft betaling ved hjelp av fingeravtrykket ditt</string>
+     <string name="add_fingerprint_instruction_title">Plasser fingeren på fingerprint-skanneren</string>
+     <string name="add_fingerprint_move_finger_title">Fjern finger</string>
+     <string name="add_fingerprint_put_finger_edge_msg">Etter at du har trykket på sensoren, fjern fingeren, og repetér igjen.</string>
+     <string name="add_fingerprint_put_finger_msg">Etter du har trykket på sensoren, fjern fingeren, og repetér igjen.</string>
+     <string name="add_fingerprint_put_finger_title">Plassér fingeren</string>
+     <string name="add_fingerprint_text">Legg till fingeravtrykk</string>
+     <string name="add_fingerprint_toast_text">Plasser fingeren din på skanneren nå</string>
      <string name="adding_profile_owner_warning">"Hvis du fortsetter, kommer brukeren din til å styres av administratoren din, som kanskje kan lagre tilknyttede data, i tillegg til de private dataene dine.
 
 Administratoren din kan overvåke og administrere innstillinger, tilgang, apper og data tilknyttet denne brukeren, herunder nettverksaktivitet og posisjonsinformasjonen for enhetene dine."</string>
@@ -224,7 +237,9 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="applications_settings">Installerte apper</string>
      <string name="applications_settings_header">Innstillinger for app</string>
      <string name="applications_settings_summary">Administrer apper, angi snarveier for hurtigstart</string>
+     <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
      <string name="apply_now_button_text">Oppdater</string>
+     <string name="apply_password_to_category_title">Apply password to…</string>
      <string name="apply_update_fail">Systemoppdatering feilet.</string>
      <string name="apps_with_restrictions_header">Apper med begrensninger</string>
      <string name="apps_with_restrictions_settings_button">Utvidelsesinnstillinger for appen</string>
@@ -922,6 +937,10 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="default_sound">Standardlyd</string>
      <string name="default_usb_mode">USB-tilkobling</string>
      <string name="delete">Slett</string>
+     <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+     <string name="delete_fingerprint_text">Remove fingerprint</string>
+     <string name="delete_legacy_fingerprint">Delete</string>
+     <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
      <string name="deny">Avslå</string>
      <string name="deny_sms_message">"Ikke tillat installerte apper å sende SMS"</string>
      <string name="deny_sms_title">Lås SMS</string>
@@ -1224,6 +1243,11 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="filter_apps_running">Kjører</string>
      <string name="filter_apps_third_party">Tredjeparts</string>
      <string name="filter_dlg_title">Velg filteralternativer</string>
+     <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
+     <string name="fingerprint_identificating_msg">Scanning fingerprint…</string>
+     <string name="fingerprint_identify_input_password_msg">Enter password</string>
+     <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+     <string name="fingerprint_list_title">Fingerprint</string>
      <string name="finish_application">Tving avslutning</string>
      <string name="finish_button_label">Fullfør</string>
      <string name="firmware_version">Android-versjon</string>
@@ -1381,6 +1405,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="incoming_call_breathing_light_color_title">Lysfarge for anrop</string>
      <string name="incoming_call_breathing_light_freq_title">LED-frekvens for anrop</string>
      <string name="incoming_call_volume_title">Ringetone</string>
+     <string name="information_dialog_button_text">Got it</string>
      <string name="input_method">Inndatametode</string>
      <string name="input_method_selector">Valg av inndatametode</string>
      <string name="input_method_selector_always_hide_title">Skjul alltid</string>
@@ -1428,6 +1453,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="join_many_items_last">%1$s og %2$s</string>
      <string name="join_many_items_middle">%1$s, %2$s</string>
      <string name="join_two_items">%1$s og %2$s</string>
+     <string name="keep_legacy_fingerprint">Keep</string>
      <string name="keep_screen_on">Forbli våken</string>
      <string name="keep_screen_on_summary">Skjermen blir aldri svart under lading</string>
      <string name="kernel_version">Kjerneversjon</string>
@@ -1717,6 +1743,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="master_clear_title">Fabrikkinnstillinger</string>
      <string name="max_cpu6_info">"Maks seks-kjerner "</string>
      <string name="max_cpu8_info">"Maks åtte-kjerner "</string>
+     <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
      <string name="media_button">Medieknapp</string>
      <string name="media_category">Medier</string>
      <string name="media_feedback_enable_title">Vibrer med rytmen</string>
@@ -2013,7 +2040,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="oldman_mode_entry_title">Forenklet modus</string>
      <string name="oldman_mode_settings_caption">Innstillinger for forenklet modus</string>
      <string name="oldman_mode_summary">Bruk forenklet startskjerm og menyer</string>
-     <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
+     <string name="oldman_mode_summary_cta">Lite-modus krever tilkobling til internett og tilgang til å lese dine kontakter, meldinger og plasseringsinformasjon for å fungere normalt.</string>
      <string name="online_resource_entry">Nettressurser</string>
      <string name="only_one_home_message">Startsideinnstillingene skjules inntil du installerer en annen startsideapp.</string>
      <string name="only_when_charging">Bruk bare under lading</string>
@@ -2080,6 +2107,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="page_layout_page2_title">Forhåndsvis</string>
      <string name="page_layout_small_title">Ekstra liten</string>
      <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
+     <string name="password_entrance_title">Password</string>
      <string name="password_guard">Passord</string>
      <string name="percentage">%d%%</string>
      <string name="performance_category">Ytelse</string>
@@ -2152,7 +2180,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="preference_change_password_title">Endre passord</string>
      <string name="preferred_app_settings">Standard</string>
      <string name="preferred_app_settings_default">Standard</string>
-     <string name="preferred_app_settings_reset">Gjenopprett standarder</string>
+     <string name="preferred_app_settings_reset">Gjenopprett til standard</string>
      <string name="preferred_app_settings_reset_button">Reset</string>
      <string name="preferred_app_settings_reset_message">Standard app-innstillinger vil bli gjenopprettet til MIUI sine fabrikkinnstillinger</string>
      <string name="preferred_application_title">Foretrukket %s</string>
@@ -2562,6 +2590,7 @@ Sånn fungerer én-appsmodus:
      <string name="search_wallpaper">bakgrunn</string>
      <string name="search_wifi">wifi</string>
      <string name="search_wifi_display">wifi-skjerm</string>
+     <string name="secure_keyguard_business_title">Lock screen password</string>
      <string name="secure_lock_encryption_warning">Fordi du har slått på en tilgjengelighetstjeneste, bruker ikke enheten skjermlåsen til å forbedre datakryptering.</string>
      <string name="security_enable_widgets_disabled_summary">Deaktivert av administratoren</string>
      <string name="security_enable_widgets_title">Aktiver moduler</string>
@@ -3015,9 +3044,11 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="tts_status_ok">%1$s støttes fullt ut</string>
      <string name="tts_status_requires_network">%1$s krever nettverkstilkobling</string>
      <string name="tts_status_title">Standardspråkstatus</string>
+     <string name="turn_off_common_password_confirm_msg">The password will be turned of as well.</string>
      <string name="turn_off_radio">Slå av radio</string>
      <string name="turn_off_security_lock">Skru av lås</string>
      <string name="turn_on_radio">Slå på radio</string>
+     <string name="turn_on_security_lock">Add security password</string>
      <string name="uicc_eject">Unmount UICC storage</string>
      <string name="uicc_eject_summary">Unmount the UICC storage so you can safely remove it</string>
      <string name="uicc_format">Erase UICC storage</string>
@@ -3351,6 +3382,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="vpn_username">Brukernavn</string>
      <string name="wait_for_debugger">Vent på feilsøkingsappen</string>
      <string name="wait_for_debugger_summary">Feilsøkt app venter til feilsøkingsapp er lagt til før den kjører</string>
+     <string name="wakeup_for_keyguard_notification_title">Våkne låseskjerm for varsler</string>
      <string name="wallpaper_attributions">Bakgrunner</string>
      <string name="wallpaper_attributions_values">"Leverandører av satellittbilder:
 ©2014 CNES / Astrium, Digitalglobe, Bluesky"</string>
@@ -3406,6 +3438,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_band_5ghz">5GHz</string>
      <string name="wifi_cancel">Avbryt</string>
      <string name="wifi_certificate">Sertifikat</string>
+     <string name="wifi_click_share_wlan">Tap to share password</string>
      <string name="wifi_config_info">WLAN-konfig</string>
      <string name="wifi_configured_ap_list">Tidligere konfigurerte aksesspunkt</string>
      <string name="wifi_connect">Koble til</string>

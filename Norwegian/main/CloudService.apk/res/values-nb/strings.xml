@@ -134,6 +134,11 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
+     <string name="micloud_all_sub_1_intl_sms">"International SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+     <string name="micloud_all_sub_1_sms">"Regular SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+     <string name="micloud_all_sub_1_sms_1_intl_sms">"2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+     <string name="micloud_all_sub_2_intl_sms">"2 international text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+     <string name="micloud_all_sub_2_sms">"2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
      <string name="micloud_buy_member">Konto</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
@@ -195,7 +200,7 @@ Trykk på Innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_member_advantage">Få mer lagringsplass.</string>
      <string name="micloud_member_buy_content" formatted="false">"Gyldig for %s-%s-%s
 
-%s Mi Credits per år"</string>
+%s Mi Credits"</string>
      <string name="micloud_member_buy_title">Bekreft ordre</string>
      <string name="micloud_member_net_error_alert_message">"Du har ikke en internettforbindelse."</string>
      <string name="micloud_member_net_error_alert_title">"Kan ikke koble til nettverket"</string>
@@ -329,6 +334,7 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="sync_dspt_provision3">". Du kan skru funksjonen av og på når som helst i Innstillinger.
 "</string>
+     <string name="sync_dspt_provision_header">Synk</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
      <string name="sync_item_calllog_title">Synk anropshistorikk</string>

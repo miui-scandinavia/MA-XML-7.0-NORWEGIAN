@@ -21,6 +21,7 @@
      <string name="download_unknown_title">Ikke navngitt</string>
      <string name="enter_garbage_clean">Rydd opp i intern lagring.</string>
      <string name="insufficient_space">"Ikke nok plass på enhetens interne lagring"</string>
+     <string name="mobile_recommended_title">Mobildataforbruk</string>
      <string name="notif_text_engine_off">Xunlei-akselerator er av.</string>
      <string name="notif_text_engine_on">Akselerer…</string>
      <string name="notif_title_file_size">%1$d totalt</string>
@@ -55,10 +56,8 @@
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="recommended_file_more_in_mobile" formatted="false">Bruk av mobildataforbindelsen for å laste ned disse %s filene (%s ) vil øke ditt mobildataforbruk.</string>
      <string name="recommended_file_one_in_mobile">Bruk av mobildataforbindelsen for å laste ned denne filen (%s ) vil øke ditt mobildataforbruk.</string>
-     <string name="recommended_file_size_download_in_mobile" formatted="false">"Du er ikke tilkoblet Wi-Fi for øyeblikket. %s
-
-Kan ikke hente informasjon om filstørrelse. For å bruke mobildataforbindelsen til å laste den denne filen, trykk %s. For å vente med å laste ned denne filen til du er tilkoblet Wi-Fi, trykk %s."</string>
-     <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kan ikke hente informasjon om filstørrelse. For å bruke din mobildataforbindelse til å late ned denne filen, trykk %s. FOr å vente og laste ned denne filen når du er tilkoblet Wi-Fi, trykk %s."</string>
+     <string name="recommended_file_size_download_in_mobile" formatted="false">Bruk %s av mobildata for å laste ned denne filen?</string>
+     <string name="recommended_no_file_size_download_in_mobile" formatted="false">Bruk din mobildataforbindelsen for å laste ned denne filen?</string>
      <string name="root_downloads">Nedlastninger</string>
      <string name="task_already_exist">Oppgave eksisterer allerede</string>
      <string name="warning_tip_cancel">Last ned</string>

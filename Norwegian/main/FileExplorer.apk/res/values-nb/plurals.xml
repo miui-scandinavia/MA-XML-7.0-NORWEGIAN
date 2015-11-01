@@ -41,6 +41,14 @@
         <item quantity="few">%d elementer</item>
         <item quantity="many">%d elementer</item>
      </plurals>
+     <plurals name="file_count">
+        <item quantity="other"> %1$d elementer</item>
+        <item quantity="zero"> %1$d elementer</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementer</item>
+        <item quantity="few"> %1$d elementer</item>
+        <item quantity="many"> %1$d elementer</item>
+     </plurals>
      <plurals name="file_notify_title">
         <item quantity="other">Mottok %1$d filer av app %2$s</item>
         <item quantity="zero">Mottok %1$d file av app %2$s</item>

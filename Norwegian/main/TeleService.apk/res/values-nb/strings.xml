@@ -150,7 +150,7 @@
      <string name="call_recording_notification_toggle_title">Call recording notification</string>
      <string name="call_recording_setting">Ta opp anrop</string>
      <string name="call_remove_exception_numbers_confirm">%d numre vil bli slettet.</string>
-     <string name="call_settings">Samtaleinnstillinger</string>
+     <string name="call_settings">Telefon</string>
      <string name="call_settings_category">Anrop</string>
      <string name="call_settings_title_font_family">sans-serif-light</string>
      <string name="call_type">CallType</string>
@@ -311,8 +311,8 @@
      <string name="dial_pad_autocomplete">Autofullf. for talltast.</string>
      <string name="dial_related_setting_catory">Ring</string>
      <string name="dialerKeyboardHintText">Bruk tastaturet for å ringe</string>
-     <string name="dialog_activate_livetalk">Aktiver oppfyllingspakke</string>
-     <string name="dialog_call_ordinary_telephone">Bruk vanlig SIM i stedet</string>
+     <string name="dialog_activate_livetalk">Verifiser</string>
+     <string name="dialog_call_ordinary_telephone">Bruk SIM</string>
      <string name="dialog_hang_up">Avslutt samtale</string>
      <string name="dialog_network_priority_title">Prioritet</string>
      <string name="dialog_no">Nei</string>
@@ -431,6 +431,7 @@
      <string name="error_type_account_301">Koden du skrev er ikke korrekt</string>
      <string name="error_type_account_302">Koden du skrev er allerede brukt</string>
      <string name="error_type_account_500">"Kunne ikke koble til mobilnettverket"</string>
+     <string name="error_type_account_inner">Internal error</string>
      <string name="error_type_network">Nettverksfeil</string>
      <string name="error_type_unknown">Ukjent feil</string>
      <string name="error_updating_title">Feil ved samtaleinnstillinger</string>
@@ -457,6 +458,7 @@
      <string name="fdn_enable_puk2_requested">Passordet er feil og PIN2 er sperret. Endre PIN2 og prøv på nytt.</string>
      <string name="fdn_enabled">Kun faste nummer kan ringes</string>
      <string name="fdn_failed">FDN-handlingen mislyktes.</string>
+     <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
      <string name="fdn_invalid_number">FDN ble ikke oppdatert fordi tallet ikke kan overstige 20 sifre.</string>
      <string name="fdn_service_unavailable">FDN service is not available.</string>
      <string name="fdn_summary">Begrens utgående anrop til noterte FDNs eller til tall med visse prefikser</string>
@@ -610,8 +612,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_complete_title">Call to complete top-up</string>
      <string name="livetalk_continue_button">Continue</string>
      <string name="livetalk_creat_account_fialed">Account error</string>
-     <string name="livetalk_dial_direct">Dial direct</string>
-     <string name="livetalk_experience_button">Try now</string>
+     <string name="livetalk_dial_direct">Ring direkte</string>
+     <string name="livetalk_experience_button">Prøv nå</string>
      <string name="livetalk_introduction_text">Low cost international calls</string>
      <string name="livetalk_last_step">Back</string>
      <string name="livetalk_login_experience_button">Sign in</string>
@@ -632,9 +634,9 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_setting">Top up settings</string>
      <string name="livetalk_sim_card_not_activated">"This card isn't activated"</string>
      <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
-     <string name="livetalk_user_config_title">Activate SIM card</string>
+     <string name="livetalk_user_config_title">Aktiver SIM-kort</string>
      <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
-     <string name="livetalk_white_list_number_title">Call without using top-up package</string>
+     <string name="livetalk_white_list_number_title">Ring direkte uten å bruke oppfyllingspakke</string>
      <string name="load_networks_progress">Søker…</string>
      <string name="load_rates_failed">"Kunne ikke laste"</string>
      <string name="loading">Baree et sekund…</string>
@@ -784,10 +786,14 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="no_wifi_available_title">Ingen Wi-Fi-tilkobling</string>
      <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534.</string>
      <string name="not_activate_sim_card_content">"Refueling Package hasn't been activated for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
+     <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
+     <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
      <string name="not_change_default_data">"Ikke endre"</string>
      <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
+     <string name="not_sufficient_funds_content_title">Insufficient funds</string>
      <string name="not_supported_number_content">"Top-up package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
+     <string name="not_supported_number_content_title">Ikke støttet</string>
      <string name="not_voice_capable">Taleanrop støttes ikke</string>
      <string name="notification_action_end_call">Legg på</string>
      <string name="notification_dialing">Slår nummeret</string>
@@ -1228,7 +1234,7 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
      <string name="technology_news_disable">Teknologinyheter er av</string>
      <string name="technology_news_enable">Teknologinyheter er på</string>
-     <string name="telephony_setting">Anropsinnstillinger</string>
+     <string name="telephony_setting">Telefon</string>
      <string name="telocation_auto_country_code">Legg til landkode</string>
      <string name="telocation_auto_country_code_summary">Legg til landkode automatisk før ringing til kontakter</string>
      <string name="telocation_call_assistant">Ringeassistent</string>
@@ -1301,7 +1307,7 @@ Neste periode starter om %2$d dager (%3$s)"</string>
      <string name="uplmn_numeric_is_empty">Skriv en nettverks-ID</string>
      <string name="use_history">Aktivitet</string>
      <string name="use_history_duration_hour">%1$s time</string>
-     <string name="use_history_duration_min">%1$smin</string>
+     <string name="use_history_duration_min">%1$s min</string>
      <string name="use_history_endtime">Avsluttet: %1$s</string>
      <string name="use_history_starttime">Startet: %1$s</string>
      <string name="username">UserName</string>

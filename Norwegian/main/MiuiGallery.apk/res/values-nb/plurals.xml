@@ -13,6 +13,10 @@
         <item quantity="other">"%1$d år "</item>
         <item quantity="one">"%1$d år "</item>
      </plurals>
+     <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d følgere</item>
+        <item quantity="one">%1$d følger</item>
+     </plurals>
      <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d bilder av %2$s vil bli lagt til</item>
         <item quantity="one">%1$d bilde av %2$s vil bli lagt til</item>

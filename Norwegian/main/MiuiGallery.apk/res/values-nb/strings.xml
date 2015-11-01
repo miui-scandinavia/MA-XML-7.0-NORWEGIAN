@@ -65,6 +65,7 @@
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
      <string name="aperture">Blender</string>
      <string name="app_name">Galleri</string>
+     <string name="app_name_edit_picture">Edit picture</string>
      <string name="app_name_view_picture">Vis bilde</string>
      <string name="apply">Bruk</string>
      <string name="appwidget_empty_text">Ingen bilder.</string>
@@ -88,10 +89,11 @@
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Synk automatisk</string>
      <string name="autofix">Auto-fiks</string>
-     <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baby_album">Baby album</string>
      <string name="baby_album_new_photo_page_title">"%1$s sitt album"</string>
+     <string name="baby_album_new_photo_remind">Det er nye bilder i ditt babyalbum.</string>
+     <string name="baby_album_no_share_user_tip">Ingen følgere foreløpig</string>
      <string name="baby_album_picker_default_title">"Velg %1$s sitt ansikt"</string>
      <string name="baby_album_setting_title">Baby info</string>
      <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -122,9 +124,14 @@
      <string name="black_white">Flat &amp; hvitt</string>
      <string name="brannan">Brannan</string>
      <string name="browse_category">Bla gjennom bilder</string>
+     <string name="buy_member_tip">become a member.</string>
      <string name="by_email">E-post</string>
      <string name="by_others">Av andre</string>
      <string name="by_sms">SMS</string>
+     <string name="byteShort">B</string>
+     <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
+     <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
+     <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
      <string name="camera_black_white">Svart &amp; hvitt</string>
      <string name="camera_connected">Kamera tilkoblet.</string>
      <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
@@ -536,6 +543,7 @@
      <string name="cloud_be_shared_guide_title">Dette albumet ble delt av en venn</string>
      <string name="cloud_camera_display_name">Usortert</string>
      <string name="cloud_folder_chooser_move">Delete images from original album</string>
+     <string name="cloud_full_tip_str">Ikke nok plass i skyen</string>
      <string name="cloud_gallery_recyclebin_full">Papirkurven er full. Tøm den på www.mi.com/micloud.</string>
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
      <string name="cloud_gallery_space_full_buy_more">"Kan ikke synke nye bilder med din Mi Cloud. For å synke flere bilder, kjøp mer lagringsplass."</string>
@@ -565,8 +573,8 @@ venner."</string>
      <string name="confirm_all_photo_not_this_people_face">Ingen treff for %s?</string>
      <string name="confirm_delete">Slett %s bilder?</string>
      <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
-     <string name="confirm_delete_has_cloud_image_video">>" "&lt;Data&gt; Slett &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; elementer i &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;skyen&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
-     <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Slett &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; elementer både &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;lokalt og i skyen&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
+     <string name="confirm_delete_has_cloud_image_video">>Slett %s elementer fra <b>skyen</b>?</string>
+     <string name="confirm_delete_has_cloud_local_image_video">Slett %s elementer både fra  &lt;b>telefonen og skyen&lt;/b>?</string>
      <string name="confirm_delete_has_local_image_video">Slett %s elementer?</string>
      <string name="confirm_delete_home_merge_item">Slett %s bilde(r) lokalt og i skyen?</string>
      <string name="confirm_delete_init_message">Bildet vil bli slettet fra denne enheten og fra MiCloud i tilegg. Hvis du bare vil slette lokalt, vennligst gå til mappen Lokal.</string>
@@ -582,16 +590,19 @@ venner."</string>
      <string name="confirm_face">Match</string>
      <string name="confirm_left_photo_will_move_in">%s er i alle gjenværende bilder?</string>
      <string name="confirm_left_photo_will_move_out">"er ikke %s i noen av de gjenværende bildene?"</string>
-     <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-     <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-     <string name="confirm_not_face">Ikke denne personen</string>
+     <string name="confirm_merge_face_albums">" "<Data> Slå sammen dette albumet med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+     <string name="confirm_merge_many_face_albums">" "<Data> Flett disse albumene med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+     <string name="confirm_not_face">Ingne match</string>
+     <string name="confirm_recommandation_face_is">" "<Data> Er du sikker på at dette er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>? Dette ansiktet vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
+     <string name="confirm_recommandation_face_not">" "<Data> Er du sikker på at dette ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>? Dette ansiktet vil bli flytte til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
+     <string name="confirm_recommandation_multiple_faces_are">" "<Data> Er du sikker på at disse er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
+     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Er du sikker på at disse ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til\"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
      <string name="contact_photo">Kontaktbilde</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
      <string name="context_menu_copy">Kopiér</string>
      <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
      <string name="contrast">Kontrast</string>
      <string name="contrast_abbr">C</string>
-     <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="cool">Kul</string>
      <string name="cool_portrait">Portrett</string>
      <string name="create_baby_album">Lag ett baby album</string>
@@ -649,6 +660,7 @@ venner."</string>
      <string name="duration">Lengde</string>
      <string name="early_bird">Earlybird</string>
      <string name="edit">Rediger</string>
+     <string name="edit_baby_info">Vis babyinformasjon</string>
      <string name="edited_photo_bucket_name">Redigert</string>
      <string name="effect">Filtrer</string>
      <string name="email_picker_title">Legg til delt e-post</string>
@@ -660,6 +672,7 @@ venner."</string>
      <string name="error_cloud_not_active">Ingen bilder i skyen.</string>
      <string name="error_forbidden">Det er problemer med din konto: Synk deaktivert.</string>
      <string name="error_invalid_link">Linken er ugyldig eller utløpt, vennligst spør album-eieren om å lage en ny link.</string>
+     <string name="error_link_has_expired">Linken er utløpt</string>
      <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
      <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
      <string name="error_share_not_support">"Denne funksjonen er ikke støttet enda"</string>
@@ -703,6 +716,7 @@ venner."</string>
      <string name="fail_to_pick_email">Ingen gyldige e-poster valgt</string>
      <string name="fail_to_sync_album">Klarte ikke å synkronisere albumet til server. Vennligst sjekk nettverkstilkoblingen!</string>
      <string name="family_member_invitation_text">Annet familiemedlem</string>
+     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_not_exist_message">Fil eksisterer ikke.</string>
      <string name="file_size">Filstørrelse</string>
      <string name="filllight">Lys fyld</string>
@@ -733,6 +747,7 @@ venner."</string>
      <string name="gallery_cloud_provider_name">Mi Cloud-bilder</string>
      <string name="gallery_setting">Galleri</string>
      <string name="get_album_info_in_process">"Ber om felles-albumets info, vennligst vent..."</string>
+     <string name="gigabyteShort">GB</string>
      <string name="global_setting">Innstillinger</string>
      <string name="go_setting">Vis innstillinger</string>
      <string name="grain">Film Korn</string>
@@ -776,7 +791,8 @@ venner."</string>
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Importering fullført</string>
      <string name="import_fail">Importering mislykkes</string>
-     <string name="impunity_declaration">"By using this service, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>     <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
+     <string name="impunity_declaration">"Ved å bruke denne tjenesten, godtar du Xiaomi sine %1$s og %2$s. Noen funksjoner krever en internettforbindelse for å fungere normalt."</string>
+     <string name="impunity_declaration_ignore">"Ikke vis igjen"</string>
      <string name="impunity_declaration_positive_text">OK</string>
      <string name="impunity_declaration_settings">Vis nettverksvarsel</string>
      <string name="impunity_declaration_summary">Vis nettverksvarsel hver gang jeg åpner Galleri-appenp</string>
@@ -804,7 +820,7 @@ venner."</string>
      <string name="invite_sharer_title">"Inviter %1$s's %2$s"</string>
      <string name="invite_tip">"Del babyens bilder"</string>
      <string name="invited_tip">Invitert</string>
-     <string name="is">Er</string>
+     <string name="is">Ja</string>
      <string name="iso">ISO</string>
      <string name="item_not_sync_for_origin_image">"Kan ikke laste ned bilder som ikke har blitt synkronisert med Mi Cloud."</string>
      <string name="item_not_sync_for_origin_video">"Kan ikke laste ned videoer som ikke har blitt synkronisert med Mi Cloud."</string>
@@ -814,6 +830,7 @@ venner."</string>
      <string name="kick_sharer">Fjern delt seer</string>
      <string name="kick_sharer_failed">"Kunne ikke fjerne denne personen"</string>
      <string name="kick_sharer_successfully">Denne personen ble fjernet</string>
+     <string name="kilobyteShort">KB</string>
      <string name="last_chinese_new_year">Siste kinesiske nyttår</string>
      <string name="last_new_year">Siste nyttår</string>
      <string name="last_valentine_day">Siste valentinsdag</string>
@@ -835,6 +852,7 @@ venner."</string>
      <string name="maker">Forfatter</string>
      <string name="manual">Manuel</string>
      <string name="me">Meg</string>
+     <string name="megabyteShort">MB</string>
      <string name="menu_item_sort">Sorter</string>
      <string name="menu_item_sort_date">Date</string>
      <string name="menu_item_sort_date_asc">Dato stigende</string>
@@ -877,9 +895,9 @@ venner."</string>
      <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
-     <string name="need_to_turn_on_network">Koble til Internett</string>
-     <string name="need_to_turn_on_sync">"Skru på synk med Mi Cloud "</string>
-     <string name="need_to_turn_on_wlan">Koble til Wi-Fi</string>
+     <string name="need_to_turn_on_network">"Du har ingen internettforbindelse"</string>
+     <string name="need_to_turn_on_sync">Skru på synk med Mi Cloud først</string>
+     <string name="need_to_turn_on_wlan">Koble til Wi-Fi først</string>
      <string name="negative">Negativ</string>
      <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
      <string name="network_connected_rescan">"Kan ikke koble til nettverket"</string>
@@ -898,12 +916,13 @@ venner."</string>
      <string name="no_such_item">"Kunne ikke finne element."</string>
      <string name="no_thumbnail">Ingen miniatyrer</string>
      <string name="none_picture">Ingen bilder funnet i Galleri</string>
+     <string name="not_ask_any_more">"Ikke spørr igjen for \"%s\" svar"</string>
      <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album</string>
-     <string name="not_is">ikke</string>
+     <string name="not_is">Nei</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_remind_any_more">"Ikke vis igjen"</string>
      <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
-     <string name="number_of_uploading_finish">All files uploaded to Mi Cloud</string>
+     <string name="number_of_uploading_finish">Alle filer lastet opp til Mi Cloud</string>
      <string name="old">Vintage</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
@@ -923,7 +942,7 @@ venner."</string>
      <string name="operation_remove_from_face_album">Fjern fra album</string>
      <string name="operation_remove_secret">Fjern fra skjult album</string>
      <string name="operation_rename">Gi nytt navn</string>
-     <string name="operation_rename_baby">Skriv babynavn</string>
+     <string name="operation_rename_baby">Skriv navn</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
      <string name="operation_share">Del</string>
      <string name="operation_successful">Delt vellykket!</string>
@@ -946,6 +965,7 @@ venner."</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
      <string name="pet_album_display_name">Dyrebilder</string>
+     <string name="petabyteShort">PB</string>
      <string name="phone_number_empty_alert">Legg til telefonnummer</string>
      <string name="photo_page_always_rotate">Auto-roter bilder</string>
      <string name="photo_page_detail_show_in_the_map">Vis meg denne plasseringen på kartet</string>
@@ -1055,7 +1075,7 @@ venner."</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>
      <string name="select_image">Velg bilde</string>
      <string name="select_item">Velg elementer</string>
-     <string name="select_item_face">Bilder som kan være av %s</string>
+     <string name="select_item_face">"Er dette '%s'?"</string>
      <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
      <string name="select_video">Velg video</string>
      <string name="send">Send</string>
@@ -1064,8 +1084,8 @@ venner."</string>
      <string name="send_public_url">Send album-URL</string>
      <string name="sepia">Sepia</string>
      <string name="set_as_baby_lock_wallpaper">Sett som bakgrunn på låseskjerm</string>
-     <string name="set_baby_icon_picker_default_title">Sett minatyrbilde</string>
-     <string name="set_bg_file_exist_message">Dette elementet eksister allerede</string>
+     <string name="set_baby_icon_picker_default_title">Sett babyikon</string>
+     <string name="set_bg_file_exist_message">Dette elementet eksisterer allerede</string>
      <string name="set_bg_picker_default_title">Sett cover-bilde</string>
      <string name="set_bg_unknow_reasons">Ukjent feil</string>
      <string name="set_hidden_album">Skjul</string>
@@ -1084,6 +1104,7 @@ venner."</string>
      <string name="settings">Innstillinger</string>
      <string name="settings_i_xiaomi_com">"Vis bilder du har synket til Mi Cloud på www.mi.com/micloud"</string>
      <string name="shadow">Skygger</string>
+     <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share_album">Del album</string>
      <string name="share_album_owner">Eier</string>
      <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
@@ -1133,8 +1154,8 @@ venner."</string>
      <string name="sync_album_in_proecess">Dette albumet blir synkronisert, vennligst vent...</string>
      <string name="sync_album_set_error">"Kan ikke synke bilder. Sjekk din dataforbindelse og prøv igjen."</string>
      <string name="sync_album_summary">Synk med Mi Cloud</string>
-     <string name="sync_battery_low">Low battery</string>
-     <string name="sync_cloud_space_full">Skylagring fullt</string>
+     <string name="sync_battery_low">Lavt batteri</string>
+     <string name="sync_cloud_space_full">Ikke nok plass i skyen</string>
      <string name="sync_history_power_on">Synk kun bilder under ladning</string>
      <string name="sync_in_progress_message">Laster ned album…</string>
      <string name="sync_ok">Synk</string>
@@ -1152,6 +1173,7 @@ venner."</string>
      <string name="tencent_mobile_qq_img_save">QQ2012</string>
      <string name="tencent_qq_hd_pic">QQ HD</string>
      <string name="tencent_qzonepic">Qzone</string>
+     <string name="terabyteShort">TB</string>
      <string name="there_is_no_image">Det finnes ingen bilde.</string>
      <string name="tieba">Tie Ba</string>
      <string name="time">Tidspunkt</string>
@@ -1179,15 +1201,18 @@ venner."</string>
      <string name="unpublishing">Avlyser publisering, vennligst vent...</string>
      <string name="untagged">Ikke tagget</string>
      <string name="upgrade_micloud_space">Få mer plass</string>
+     <string name="user_agreement">" Tjenestevilkår"</string>
      <string name="user_alias_self">Meg</string>
+     <string name="user_policy">Personvernspolitikk</string>
      <string name="video_err">"Kan ikke avspille video."</string>
      <string name="video_not_exist">Video eksisterer ikke!</string>
      <string name="videos">Videoer</string>
      <string name="view_baby_album">Vis babyalbum</string>
+     <string name="view_baby_info">Edit baby information</string>
      <string name="view_face_album">Vis album</string>
+     <string name="view_queuing_status">Check status</string>
      <string name="view_sharers">Vis delere</string>
      <string name="vignette">Vignette</string>
-     <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
      <string name="wallpaper">Skrivebordsbakgrunn</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>

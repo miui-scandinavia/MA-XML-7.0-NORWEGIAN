@@ -22,6 +22,8 @@
      <string name="auth_activity_title">Xunlei-konto</string>
      <string name="auth_fail">"Kunne ikke godkjenne"</string>
      <string name="bind_xunlei_account">Legg til Xunlei-konto</string>
+     <string name="bt_download">Last ned</string>
+     <string name="bt_xunlei_open_info">Bruk Xunlei-motor for å åpne slike linker?</string>
      <string name="button_sort_by_date">Sortér via dato</string>
      <string name="button_sort_by_size">Sortér via størrelse</string>
      <string name="cancel">Avbryt</string>
@@ -32,10 +34,12 @@
      <string name="confirm_delete_downloads_message">%d nedlastinger vil bli slettet.</string>
      <string name="confirm_delete_the_download_item_message">Slett disse nedlastingene?</string>
      <string name="create_task">Lag oppgave</string>
+     <string name="delete">Slett</string>
      <string name="delete_download">Slett</string>
      <string name="delete_downloads_records">Slett nedlastinger</string>
      <string name="delete_the_downloaded_file">Slett nedlastede filer</string>
      <string name="deselect_all">Fjern merking</string>
+     <string name="deselect_subfile_all">Avvelg alle</string>
      <string name="determine">OK</string>
      <string name="dialog_cannot_resume">Nedlasting avbrutt. Den kan ikke gjenopptas.</string>
      <string name="dialog_confirm_delete_checkbox_message">Slett lokale filer også</string>
@@ -94,12 +98,15 @@
      <string name="downloading_empty">Tom</string>
      <string name="downloads_operating">Arbeider</string>
      <string name="dredge_xunlei_account">Lag en Xunlei-konto</string>
-     <string name="edit_hint"> Skriv en URL (http eller https)</string>
+     <string name="edit_hint">Skriv http, torrent eller eMule-adresse</string>
      <string name="editmode_menu_delete">Slett</string>
      <string name="editmode_menu_share">Del</string>
+     <string name="engine_open">Åpne</string>
      <string name="experience_xunlei_account_speed">Xunlei-medlemmer kan nyte lynkjappe nedlastninger.</string>
      <string name="expire_notification_msg">Xunlei-medlemskap utløper snart.</string>
      <string name="expire_today_notification_msg">Xunlei-medlemskap utløper i dag.</string>
+     <string name="extract_file">Pakker ut fil…</string>
+     <string name="file_exist_hint">Filen eksisterer allerede</string>
      <string name="file_picker">Velg en plassering</string>
      <string name="free_high_speed_channel">Xunlei-akselerator (gratis)</string>
      <string name="free_speedup_exp">Prøv Xunlei-nedlastningsakselerator (gratis)</string>
@@ -107,6 +114,7 @@
      <string name="get_order_dialog_msg">Henter ordreinformasjon…</string>
      <string name="get_order_fail_msg">"Kunne ikke opprette ordre"</string>
      <string name="high_speed_channel">Xunlei-akselerator (betalt)</string>
+     <string name="hint">OBS</string>
      <string name="immediately_a_renewal">Forny nå</string>
      <string name="input_valid_address">Velg en filsti</string>
      <string name="install">Installer</string>
@@ -126,14 +134,18 @@
      <string name="mi_money_">Mi-kreditt</string>
      <string name="missing_title">Ukjent</string>
      <string name="network_error">"Kunne ikke koble til nettverket"</string>
-     <string name="new_add">Ny</string>
+     <string name="new_add">Ny nedlasting</string>
+     <string name="new_add_bt">Legg til torrent</string>
      <string name="no_downloads">Ingen nedlastinger.</string>
+     <string name="no_file_hint">Nedlastningsoppgave for denne filen eksisterer allerede</string>
      <string name="no_vip_info">Hent Xunlei-medlemskap for å gjøre nedlastninger raskere</string>
      <string name="no_vip_show_info">"Gjør nedlastninger raskere
 på tvers av dine enheter med Xunlei"</string>
      <string name="one_month">En måned</string>
+     <string name="only_support_torrent">Bare torrent-filer er støttet</string>
      <string name="open">Åpne</string>
      <string name="open_download">Åpen</string>
+     <string name="open_vip_hint">Trykk for å bli Xunlei-medlem</string>
      <string name="open_xunlei_speed_service">Start Xunlei-nedlastningsakelerator</string>
      <string name="original_price">Pris</string>
      <string name="other_filter">ANNET</string>
@@ -147,6 +159,7 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="paused_waiting_for_network">Venter på data-forbindelse</string>
      <string name="paused_waiting_to_retry">Venter på å prøve igjen</string>
      <string name="period_of_validity">Gyldighetsperiode:</string>
+     <string name="play">Spill av</string>
      <string name="pref_download_revert_default">Standard</string>
      <string name="pref_download_settings_title">Beskjed om dataforburk</string>
      <string name="pref_download_storage_path">Opprett en ny mappe for nedlastninger</string>
@@ -182,6 +195,8 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="save_path">"Lagre nedlastninger til: "</string>
      <string name="select_all">Rens valgte</string>
      <string name="select_operation_items">Velg elementer</string>
+     <string name="select_sub_file_download">Velg en fil å laste ned</string>
+     <string name="select_subfile_all">Velg alle</string>
      <string name="selected_count">Valgte %1$d ut av %2$d</string>
      <string name="setting_close_debug">Skrudde av feilsøkingsmodus</string>
      <string name="setting_debug_fail">"Kunne ikke gå inn i feilsøkingsmodus"</string>
@@ -194,6 +209,12 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="storage_internal">Intern lagring</string>
      <string name="storage_sd_card">SD-kort</string>
      <string name="storage_usb">USB-lagring</string>
+     <string name="subbt_downloading">Laster ned…</string>
+     <string name="subbt_fail">Feilet</string>
+     <string name="subbt_pause">Pauset</string>
+     <string name="subbt_wait">Venter…</string>
+     <string name="task_detail">Oppgaver</string>
+     <string name="task_detail_notfound_confirm">OK</string>
      <string name="third_web_cancel">Avbryt</string>
      <string name="third_web_confirm">OK</string>
      <string name="third_web_default">Husk denne plasseringen</string>
@@ -204,6 +225,8 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="title_tips">OBS</string>
      <string name="title_unbind_xunlei">Fjern din Xunlei-konto</string>
      <string name="toast_xunlei_engine_open">Xunlei-nedlastingsakselerator er på</string>
+     <string name="torrent_file_error">"Kunne ikke lese denne torrent-filen"</string>
+     <string name="torrent_no_subfile">Ingen underfiler i denne torrenten</string>
      <string name="turn_off_xunlei_message">Du kan oppleve tregere nedlastningshastigheter.</string>
      <string name="turn_off_xunlei_tips">Xunlei nedlastingsakselerasjon er av</string>
      <string name="turn_off_xunlei_title">Skru av Xunlei-nedlastningsmotor</string>
@@ -228,6 +251,7 @@ Akselerer nedlastninger på tvers av dine enheter."</string>
      <string name="xunlei_gaosu">Xunlei-nedlastningsakselerator</string>
      <string name="xunlei_member_annual_fee">Årlig</string>
      <string name="xunlei_member_one_month">Månedlig</string>
+     <string name="xunlei_open_info">Bruk Xunlei-motor for å åpne slike linker?</string>
      <string name="xunlei_speed_service">Xunlei-nedlastningsakselerator</string>
      <string name="xunlei_switch">Xunlei-nedlastningsmotor</string>
 </resources>

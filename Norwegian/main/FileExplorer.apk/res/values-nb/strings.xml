@@ -37,6 +37,8 @@
      <string name="byteShort">B</string>
      <string name="can_not_send_with_too_many">"Kan ikke sende så mange elementer"</string>
      <string name="cancel">Avbryt</string>
+     <string name="cancel_error">"Couldn't remove, try again"</string>
+     <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>
      <string name="category">Kategorier</string>
      <string name="category_all">Alle</string>
      <string name="category_apk">APKer</string>
@@ -80,11 +82,11 @@
      <string name="create_share_link_description">Oppretter delingslink…</string>
      <string name="cution">Tips</string>
      <string name="data_capacity">Data %1$s</string>
-     <string name="data_consumption_cancel">Exit</string>
-     <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+     <string name="data_consumption_cancel">Avbryt</string>
+     <string name="data_consumption_checkbox_hint">"Ikke vis igjen"</string>
      <string name="data_consumption_confirm">OK</string>
-     <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
-     <string name="data_consumption_title">Internet connection</string>
+     <string name="data_consumption_message">Denne appen trenger å koble til Internett med Wi-Fi for å fungere normalt.</string>
+     <string name="data_consumption_title">Internettforbindelse</string>
      <string name="decompress_cancel">Avbryt</string>
      <string name="decompress_confirm">Dekomprimer?</string>
      <string name="decompress_destination_error">Kan ikke pakke ut filer til denne plasseringen</string>
@@ -96,7 +98,11 @@
      <string name="decompress_title">Pakk ut</string>
      <string name="decompress_to">Pakk ut filer til…</string>
      <string name="decompress_to_here">Pakk ut her</string>
+     <string name="decrypt">Remove from private</string>
+     <string name="decrypt_error">"Couldn't decrypt"</string>
+     <string name="decrypting">Decrypting…</string>
      <string name="delete_dialog_button">Slett</string>
+     <string name="delete_error">"Couldn't delete files, try again"</string>
      <string name="delete_failed">Sletting mislyktes</string>
      <string name="delete_file">Slett denne filen?</string>
      <string name="delete_file_error">"Kunne ikke slette fil"</string>
@@ -111,6 +117,7 @@
      <string name="dialog_type_image">Bilde</string>
      <string name="dialog_type_text">Tekst</string>
      <string name="dialog_type_video">Video</string>
+     <string name="dir_not_support">"This folder can't be made private."</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Tom mappe</string>
      <string name="dlg_error_unmount_text">"Kunne ikke koble fra USB-lagring. Prøv igjen senere."</string>
@@ -120,10 +127,14 @@
      <string name="downloading">Laster ned…</string>
      <string name="downloading_in_3g">Laster ned med 3G…</string>
      <string name="enable_sd_card">Ingen SD-kort tilgjengelig. Vennligst sett inn, eller avmonter fra USB-lagring</string>
+     <string name="encrypt_error">"Couldn't make files private, try again"</string>
+     <string name="encrypt_success">All files made private</string>
+     <string name="encrypting">Encrypting…</string>
      <string name="error_filename_too_long">Filnavn er for langt</string>
      <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
      <string name="error_open_file_failed_no_app_found">Ingen program funnet for å åpne filen</string>
      <string name="expand_all">Alle</string>
+     <string name="extract">Pakk ut</string>
      <string name="fail_to_create_folder">Kan ikke opprette, mappe eksisterer allerede</string>
      <string name="fail_to_create_folder_unknown">Kan ikke opprette: ukjent feil.</string>
      <string name="fail_to_rename">Kan ikke gi nytt navn, navn på fil eller mappe eksisterer allerede</string>
@@ -196,8 +207,13 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="load_err">Innlasting mislyktes</string>
      <string name="load_more">Vis mer</string>
      <string name="loading">Laster inn</string>
+     <string name="local_image">Bilder</string>
+     <string name="local_music">Musikk</string>
+     <string name="local_sticker_str">Lastet ned</string>
+     <string name="local_video">Video</string>
      <string name="login_reg_content">Oppbevar filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">Bruk Kuaipan fra hvorsomhelst.</string>
+     <string name="make_private">Gjør privat</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Filopprydding</string>
      <string name="menu_item_ftp">FTP</string>
@@ -215,6 +231,8 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="mobile_photo_desc" />
      <string name="month_day_format">MMM dd</string>
      <string name="move_failed">Flytting mislyktes</string>
+     <string name="move_to">Flytt til…</string>
+     <string name="msg_set_password">Sett passord først</string>
      <string name="multi_select_title">%1$s valgt</string>
      <string name="my_app">App data</string>
      <string name="my_app_desc" />
@@ -248,15 +266,29 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="net_lose_connected">Nettverk ikke tilgjengelig, kan ikke få størrelse</string>
      <string name="networkView_notConnected">Ingen nettverk tilgjengelig</string>
      <string name="network_connect_confirm_des">Vi vil bruke nettverk for å få tilgang til kuaipan, tilat?</string>
+     <string name="network_spent_reminding">Åpning av denne siden krever noe datatrafikk fra abonnementet.</string>
+     <string name="network_spent_reminding_title">Dataforbruksvarsel</string>
      <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
      <string name="new_folder_name">Ny mappe</string>
+     <string name="new_function">Om private mapper</string>
+     <string name="new_function_info">"Privat mappe er en ny MIUI-funksjon.
+Du kan kryptere filene dine
+og lagre dem på et trygt sted.
+
+Trekk ned på hjemmesiden for å sjekke det ut."</string>
+     <string name="new_function_str">"WeChat-klistremerker kan nå hentes automatisk.
+Last dem når du vil
+og aldri glipp av de kule nye!"</string>
+     <string name="new_function_title_str">Om WeChat-klistremerker</string>
      <string name="no">Nei</string>
      <string name="no_app_tags">Tom</string>
      <string name="no_display_file">"Kan ikke vise %1$s"</string>
      <string name="no_enough_storage_indication">Ikke nok lagringsplass tilgjengelig, kopering mislykkes. Vennligst slett unødvendige filer og prøv igjen, eller bruke Filopprydding for å frigjøre plass.</string>
      <string name="no_enough_storage_title">Ikke nok lagringsplass tilgjengelig</string>
      <string name="no_file">Ingen filer</string>
+     <string name="no_local_sticker_tip">"Kunne ikke finne nedlastede klistremerker. Sjekk ut klistremerker delt av Mi fans."</string>
      <string name="no_more_space">Ikke mer plass</string>
+     <string name="no_network_str">"unne ikke koble til nettverket. Sjekk nettverkstilkoblingen, og prøv igjen."</string>
      <string name="no_recent_files">Ingen nylige filer</string>
      <string name="no_tasks">Ingen oppgaver</string>
      <string name="no_wifi">Wi-Fi ikke koblet til</string>
@@ -278,6 +310,7 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
 2. Laste opp (oppdatere den eksterne filen)"</string>
      <string name="open_changed_file_title">Fil modifisert</string>
      <string name="open_file_failed">Åpning av fil feilet</string>
+     <string name="open_private_folder">Oppretter en privat mappe…</string>
      <string name="operate_confirm_in_3g">Vil du bruke mobildataforbindelsen for å laste ned denne store filen?</string>
      <string name="operating">Behandler…</string>
      <string name="operation_add_fav">Legger til i stjernemerkede…</string>
@@ -288,7 +321,7 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="operation_copy">Kopier</string>
      <string name="operation_copying">Kopierer...</string>
      <string name="operation_copying_detail">Kopierer filer (%1$d/%2$d)</string>
-     <string name="operation_create_folder">Ny ,appe</string>
+     <string name="operation_create_folder">Ny mappe</string>
      <string name="operation_create_folder_message">Skriv inn navn</string>
      <string name="operation_decompressing">Dekomprimerer...</string>
      <string name="operation_del_fav">Fjerner fra stjernemerkede…</string>
@@ -318,15 +351,27 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="operation_show_sys">Vis skjulte</string>
      <string name="operation_unfavorite">Fjern fra Favoritter</string>
      <string name="pan_settting">KuaiPan-innstillinger</string>
+     <string name="partial_cancel_successful">"Kunne ikke fjerne noen filer. Resten av filene erflyttet til sdcard/fileexplorer/decryption"</string>
+     <string name="partial_delete_failure">"Klarte ikke å slette noen filer, prøv igjen"</string>
+     <string name="partial_encrypt_success">"Kunne ikke gjøre noen filer private, prøv igjen"</string>
+     <string name="partial_repair_done">Noen filer ble gjenopprettet</string>
      <string name="paused">På pause</string>
      <string name="petabyteShort">PB</string>
      <string name="phone">Telefon</string>
      <string name="port_range">Port må være mellom 1024–65535</string>
+     <string name="private_files">Privat</string>
+     <string name="private_folder">Privat mappe</string>
+     <string name="promot_enctypt_password">Skriv inn passordet som brukes til å låse opp enheten, eller for å slå av barnemodus</string>
      <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
      <string name="release_to_signin">Slipp for å logge inn</string>
      <string name="rename_alert">"Hvis du endrer filtypen til denne filen, kan du miste mulighet til å åpne den."</string>
      <string name="rename_description">Gir nytt navn, vennligst vent…</string>
      <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
+     <string name="repair_done">Gjenopprettet</string>
+     <string name="repair_error">"Kunne ikke gjenopprette"</string>
+     <string name="repair_file">Gjenopprett krypterte filer</string>
+     <string name="reset_password">Reset passord</string>
+     <string name="restoring">Gjenoppretter…</string>
      <string name="rlv_last_refreshing_time">Sist skannet %1$s</string>
      <string name="rlv_loading_more">Bare et sekund…</string>
      <string name="rlv_pull_to_refresh">Dra for å oppdatere</string>
@@ -368,6 +413,9 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="search_result_more">Mer</string>
      <string name="search_title">Søk</string>
      <string name="search_title_hint">Søk</string>
+     <string name="select_image">Velg bilder</string>
+     <string name="select_music">Velg sanger</string>
+     <string name="select_video">Velg videoer</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Denne filtypen støttes ikke</string>
      <string name="server_control_advanced_settings">Avanserte innstilinger</string>
@@ -377,6 +425,14 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="share_box_receive">Mottatt</string>
      <string name="share_box_send">Sendt</string>
      <string name="share_link_failed">"Kunne ikke generere link."</string>
+     <string name="shared_sticker_network_permission_tip">"Kunne ikke koble til nettverket. Kontroller nettverkstilkoblingen og prøv igjen."</string>
+     <string name="shared_sticker_page_no_file">"Kunne ikke koble til nettverket. Kontroller nettverkstilkoblingen og prøv igjen."</string>
+     <string name="shared_sticker_str">Delt av Mi fans</string>
+     <string name="shared_sticker_suffix">Klistremerke %s</string>
+     <string name="shared_sticker_use_tip">"Du kan sende klistremerkene du lagrer i WeChat-dialoger akkurat som du sender bilder.
+(GIFer kan bli lagt til i Egendefinert i WeChat-klistremekrer)."</string>
+     <string name="shared_sticker_use_tip_title">Hvordan bruke klistremerker</string>
+     <string name="shared_str">Delt av %s</string>
      <string name="show_message">Fil kan ikke åpnes uten å bli lastet ned</string>
      <string name="sign_description">Logger inn...</string>
      <string name="signin_error">Nettverk utilgjengelig, vennligst prøv igjen</string>
@@ -393,8 +449,11 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="storage_info">%1$s tilgjengelig</string>
      <string name="storage_info_detail">Tilgjengelig:%1$s Totalt:%1$s</string>
      <string name="storage_internal">Intern lagring</string>
+     <string name="storage_internal_description">Intern lagring</string>
      <string name="storage_sd_card">SD-kort</string>
+     <string name="storage_sd_card_description">SD-kort</string>
      <string name="storage_usb">USB-lagring</string>
+     <string name="storage_usb_description">USB-lagring</string>
      <string name="storage_warning">Ekstern lagring ikke tilgjengelig</string>
      <string name="sys_size_enable">" tilgjengelig"</string>
      <string name="system_alert">Påminnelse</string>
@@ -413,7 +472,9 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="toast_file_not_can_read">Filen kan ikke leses.</string>
      <string name="tools">VERKTØY</string>
      <string name="trans_task">Nettverksoverføring</string>
-     <string name="transing">Overfører...</string>
+     <string name="transfer_done">Filer flyttet.</string>
+     <string name="transfer_private_data">Flytter private filer fra SD-kort…</string>
+     <string name="transing">Overfører…</string>
      <string name="trash_box_capacity">Papirkurv %1$s</string>
      <string name="trash_box_link">For å tømme papirkurven, besøk &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
      <string name="trash_box_message1">"Du kan slette unødvendige filer for å frigjøre plass</string>
@@ -440,6 +501,7 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="user_guide_save_file">Lagre dine filer hos KuaiPan</string>
      <string name="user_guide_summary">En rask oppsummering</string>
      <string name="user_guide_upload_to_kuaipan">"Kopier og lim inn filer til MiDrive"</string>
+     <string name="user_not_login">Logg inn først</string>
      <string name="utf8_summary">Standard-koding</string>
      <string name="utf8_title">UTF-8</string>
      <string name="wait_net">Venter på nettverk</string>
@@ -448,6 +510,7 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="waiting">Venter...</string>
      <string name="wangpan_root_path">Min disk</string>
      <string name="wechat_video">Video på %s</string>
+     <string name="weixin_sticker_tag_str">WeChat-klistremerker</string>
      <string name="wifi_state">Wi-Fi-status</string>
      <string name="xiaomi_account">Mi-konto</string>
      <string name="year_month_day_format">MMM dd, yyyy</string>

@@ -115,8 +115,8 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_fragment_tab_title_nonsys">Nedlastede</string>
      <string name="firewall_fragment_tab_title_sys">Apper</string>
      <string name="firewall_network_restrict_notify_message">Trykk for å endre innstillinger.</string>
-     <string name="firewall_network_restrict_notify_mobile">mobile data</string>
-     <string name="firewall_network_restrict_notify_title">"%1$s har ikke lov til å koble til %2$s."</string>
+     <string name="firewall_network_restrict_notify_mobile">mobildata</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s kan ikke bruke %2$s."</string>
      <string name="firewall_rule_group_title_mobile">Data</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -294,6 +294,10 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="operator_setted_error_notify_title">Feil med SIM-kort</string>
      <string name="other_exception_summary">"Du har ingen internettforbindelse"</string>
      <string name="other_exception_title">Se etter andre feil</string>
+     <string name="package_change_notification_summary">Trykk for å lære mer.</string>
+     <string name="package_change_notification_title">Juster datagrense automatisk</string>
+     <string name="package_setted_error_notification_summary">Trykk for å vise detaljer over dataforbruk.</string>
+     <string name="package_setted_error_notification_titile">"Kan ikke velge dataabonnement"</string>
      <string name="pay_charge">Kjøp mer data</string>
      <string name="per_month_pkg_traffic_settings">Sett datagrense</string>
      <string name="permission_exception_summary">"Noen apper har tillatelse til å koble til Internett"</string>
@@ -520,6 +524,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_button_start">Aktiver</string>
      <string name="traffic_saving_button_stop">Deaktiver</string>
      <string name="traffic_saving_can_optimized">Optimaliser</string>
+     <string name="traffic_saving_detail">Detaljer</string>
      <string name="traffic_saving_history_title">Historikk</string>
      <string name="traffic_saving_history_total_money">Totalt spart</string>
      <string name="traffic_saving_history_total_money_unit">¥</string>
@@ -530,11 +535,14 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>
+     <string name="traffic_saving_mobile_usage">Mobilforbruk</string>
      <string name="traffic_saving_msg_month">Spart denne måneden:</string>
      <string name="traffic_saving_msg_not_started">Datasparing er av</string>
      <string name="traffic_saving_msg_today">Data spart i dag:</string>
      <string name="traffic_saving_need_optimize">Kan bli optimalisert</string>
      <string name="traffic_saving_notification_button_start">Aktiver</string>
+     <string name="traffic_saving_notify_no_apps_saving">Ingen apper bruker datasparing</string>
+     <string name="traffic_saving_notify_no_apps_saving_content">Trykk for å skru på datasparer.</string>
      <string name="traffic_saving_notify_start_content">%s spart denne måneden.</string>
      <string name="traffic_saving_notify_start_title">Reduser din databruk</string>
      <string name="traffic_saving_one_key_optimize">Optimaliser for å spare data</string>
@@ -547,6 +555,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatisk aktiver Datasparing for å redusere apper sitt mobildataforbruk&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Hvis du har et månedlig dataabonnement, husk å skru av Datasparing for individuelle apper for å unngå ekstra kostnader fra din operatør.&lt;/font&gt;"</string>
      <string name="traffic_saving_start_tip_title">Aktiver</string>
      <string name="traffic_saving_tecsupport">Drevet av Opera</string>
+     <string name="traffic_saving_tecsupport_international">Drevet av Opera Max</string>
      <string name="traffic_saving_title">Datasparing</string>
      <string name="traffic_saving_toast_start_mobile">Datasparing er på</string>
      <string name="traffic_saving_toast_start_none_mobile">Datasparing vil starte hver gang du bruker mobildata</string>
@@ -559,6 +568,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_whitelist_btn_removed">App fjernet fra liste</string>
      <string name="traffic_saving_whitelist_count">"%d apper sitt databruk blir ikke begrenset"</string>
      <string name="traffic_saving_whitelist_no_app">Ingen apper</string>
+     <string name="traffic_saving_wifi_usage">Wi-Fi forbruk</string>
      <string name="traffic_setting_app_count">%d apper</string>
      <string name="traffic_setting_completed">OK</string>
      <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>

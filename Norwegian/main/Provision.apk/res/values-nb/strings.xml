@@ -3,6 +3,8 @@
 <resources>
      <string name="agree">Samtykk</string>
      <string name="congratulation_label" />
+     <string name="desc_extra_fingerprint" />
+     <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
      <string name="disagree">Avbryt</string>
      <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
@@ -20,6 +22,7 @@
      <string name="multisim_settings_title">Oppdaget 2 SIM-kort</string>
      <string name="network_access_warning">Du må koble til internett for å aktivere Mi-tjenester.</string>
      <string name="next">Neste</string>
+     <string name="next_fingerprint">Next</string>
      <string name="other_settings">Ekstra innstillinger</string>
      <string name="other_settings_location">Tilgang til plassering</string>
      <string name="other_settings_location_summary">La apper finne din plassering</string>
@@ -55,6 +58,7 @@
 
      Du må godkjenne våre tjenestevilkår og erklæringen om personvern før du kan bruke MIUI."</string>
      <string name="title_congratulation">"Du er klar til å rocke!"</string>
+     <string name="title_fingerprint">Add your fingerprint</string>
      <string name="user_agreement">Vilkår for bruk</string>
      <string name="welcome">Velkommen</string>
 </resources>

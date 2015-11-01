@@ -92,9 +92,11 @@
      <string name="menu_title_pick_rom_file">Velg oppdateringspakke</string>
      <string name="menu_title_recovery">Omstart til recovery-modus</string>
      <string name="miui_BBS">" "<a href="http://bbs.miui.com">Gå til MIUI forum</a>" "</string>
-     <string name="miui_summary_has_new_version">Oppdatering tilgjengelig</string>
+     <string name="miui_summary_has_new_version">""  Oppdatering tilgjengelig"</string>
      <string name="miui_summary_no_new_version">Ingen oppdatering tilgjengelig</string>
      <string name="miui_summary_now_version">"Kan ikke koble til nettverket"</string>
+     <string name="miui_summary_slogan">"  Designet av deg  "</string>
+     <string name="miui_summary_updating">"  Oppdaterer…  "</string>
      <string name="monthly_build">Månedlig Build</string>
      <string name="my_best_update">Beste oppdateringen</string>
      <string name="my_expect_update">Forventinger</string>
@@ -142,6 +144,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="recovery_failed_notification_msg">"Kan ikke bruke gjenopprettingsmodus"</string>
      <string name="recovery_failed_title">Bruk Mi PC Suite for å oppdatere systemet</string>
      <string name="recovery_power_not_enough_msg">Koble til lader for å oppdatere når mindre enn 30% av batteri er igjen</string>
+     <string name="recovery_power_not_enough_msg_plugged">Batteri må være over 15% før en enhet kan oppdatere</string>
      <string name="recovery_power_not_enough_title">Lavt batteri</string>
      <string name="repeat">Prøv igjen</string>
      <string name="set_auto">Se etter oppdateringer automatisk</string>

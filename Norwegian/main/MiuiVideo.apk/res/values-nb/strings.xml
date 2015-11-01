@@ -6,7 +6,9 @@
      <string name="about_title">Om</string>
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Versjon:</string>
+     <string name="actor">Actor</string>
      <string name="actor_colon">Skuespiller:</string>
+     <string name="actor_intro">About</string>
      <string name="ad_countdown">%ss gjenstående</string>
      <string name="ad_moredetail">Detaljer</string>
      <string name="add_favorite_success">Stjernemerket</string>
@@ -33,6 +35,7 @@
      <string name="alert_dialog_download_btn_hide">Skjul</string>
      <string name="alert_dialog_download_dup_task">Nedlastning foregår, vennligst vent...</string>
      <string name="alert_dialog_download_error">Nedlastningsfeil</string>
+     <string name="alertdialog_downapp_btn_back">Back</string>
      <string name="all">Alle</string>
      <string name="all_comment">Alle kommentarer</string>
      <string name="all_ep">Alle ep</string>
@@ -57,6 +60,7 @@
      <string name="back">tilbake</string>
      <string name="baodian">Peker</string>
      <string name="bestv">Bestv</string>
+     <string name="birthday">Birthday</string>
      <string name="bmp_quality_mode">Bildekvalitet-modus</string>
      <string name="bmp_quality_mode_desc">Hvis valgt, bruk høy bildekvalitet.</string>
      <string name="buffering">Bufrer…</string>
@@ -152,6 +156,7 @@
      <string name="dlna_name">Delt enhet</string>
      <string name="done">OK</string>
      <string name="douban_score">Duoban-score</string>
+     <string name="download">Download</string>
      <string name="download_add_success">Nedlastningoppgave ble lagt til</string>
      <string name="download_error">"Kan ikke laste ned fil"</string>
      <string name="download_fail">Offline-feil</string>
@@ -206,12 +211,14 @@
      <string name="good">OK</string>
      <string name="guess_you_like">Anbefalt</string>
      <string name="hint_apk_download">Installer dette programmet</string>
+     <string name="hint_apk_download_format">Install \"%1$s\" application</string>
      <string name="hint_apk_install">Last ned program</string>
      <string name="hint_apk_text_update">Ny versjon av %1$s tilgjengelig, vil du oppdatere?</string>
      <string name="hint_apk_title_update">Ny versjon av %1$s</string>
      <string name="hint_can_not_get_source_info">"Kunne ikke hente videoinformasjon"</string>
      <string name="hint_without_selected_set">Finn innholdskilde automatisk</string>
      <string name="hollywood">Hollywood</string>
+     <string name="hometown">Hometown</string>
      <string name="hot">Populære</string>
      <string name="hot_recommend">Ny</string>
      <string name="i_will_write_comments">Jeg vile skrive kommentarer ...</string>
@@ -292,6 +299,10 @@
      <string name="offline_alert_title">Optimaliser databruk</string>
      <string name="offline_alert_wifi">"For å redusere ditt dataforbruk, har nedlastningene blitt pauset og vil fortsette når du er tilkoblet Wi-Fi".</string>
      <string name="offline_already_in">\"%1$s\" eksisterer i nedlastningskøen</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 1
+	%s: 2 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Added \"%1$s\" is already waiting to download -->
      <string name="offline_created_order">La til \"%1$s\" i nedlastningskøen, plassering: %2$s</string>
      <string name="offline_loaded">Offline video</string>
      <string name="offline_loading">Offline</string>
@@ -316,6 +327,7 @@
      <string name="online_video_oneweek_ago">En uke siden</string>
      <string name="operator_test">Operatørinnstillinger</string>
      <string name="operator_test_summary">Hvis valgt, gå inn i operatørmodus</string>
+     <string name="other_info">Other</string>
      <string name="other_setting">Flere innstillinger</string>
      <string name="partner_specials">Innhold fra partner</string>
      <string name="pause">Pause</string>
@@ -362,6 +374,7 @@
      <string name="router_update">Du må oppgradere Xiaomi Ruter-applikasjonen.</string>
      <string name="score">Score </string>
      <string name="score_by">Score: %s</string>
+     <string name="score_douban">Douban Score %1$s</string>
      <string name="sdcard_storage">Internminne</string>
      <string name="search">"Søk"</string>
      <string name="search_hint">Søk online video</string>
@@ -558,6 +571,7 @@
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">Høyere</string>
      <string name="vp_support_by">Brukerstøtte av %1$s</string>
+     <string name="vp_time_separator">/</string>
      <string name="vp_toast_downloadapk">Laster ned app i bakgrunnen…</string>
      <string name="vp_unknown_source">Ukjent kilde</string>
      <string name="vp_using_16_9">Tving 16:9</string>

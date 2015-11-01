@@ -3,7 +3,7 @@
 <resources>
      <string name="account">Konto</string>
      <string name="account_and_cloud">Konto</string>
-     <string name="action_item_add">Legg til</string>
+     <string name="action_item_add">Legg til i spilleliste</string>
      <string name="action_item_add_song">Legg til i spilleliste</string>
      <string name="action_item_add_to_current_playlist">Gjeldende spilleliste</string>
      <string name="action_item_add_to_favorite_playlist">Favorittspilleliste</string>
@@ -38,11 +38,14 @@
      <string name="audio_picker_title">Velg en sang</string>
      <string name="auto_download_in_wifi">Last ned favorittsanger over Wi-Fi</string>
      <string name="auto_payment">Forny automatisk</string>
+     <string name="auto_payment_date">Next payment: %s</string>
      <string name="avail_services">Tilgjengelig</string>
      <string name="available_playlist_name_format">Ny spilleliste %d</string>
      <string name="avoid_to_use_traffic_summary">"Ikke bruk mobilt nettverk for å strømme musikk"</string>
      <string name="avoid_to_use_traffic_title">Bruk bare Wi-Fi for å strømme musikk</string>
      <string name="baidu_music">Baidu-musikk</string>
+     <string name="being_disable_auto_payment">Turning off…</string>
+     <string name="being_enable_auto_payment">Turning on…</string>
      <string name="bill_list_fragment_title">Hitlister</string>
      <string name="bluetooth_device">Bluetooth-lydenhet</string>
      <string name="buffering">Bufrer</string>
@@ -61,6 +64,7 @@
      <string name="close_music_time">"Minutter: "</string>
      <string name="cloud_enable">Synk musikk med Mi Cloud</string>
      <string name="cloud_settings">Synk innstillinger</string>
+     <string name="confirm_to_renew">Renew</string>
      <string name="cp_info_first">Strømmetjeneste er tilbudt av  Ultimate Inc.</string>
      <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="create_playlist">Lag spilleliste</string>
@@ -69,7 +73,7 @@
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til strømming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
      <string name="delete">Slett</string>
-     <string name="delete_file_as_well">Slett lokal fil også</string>
+     <string name="delete_file_as_well">Permanent slett denne sangen</string>
      <string name="delete_file_end">Slett permanent</string>
      <string name="delete_file_start">Slett valgte filer</string>
      <string name="desc_online_personal_radio">Bare for deg</string>
@@ -90,6 +94,10 @@
      <string name="dialog_title_name_playlist">Navn på spilleliste</string>
      <string name="dialog_title_remove_tracks">Fjern</string>
      <string name="dialog_title_track_picker">Valg sanger</string>
+     <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
+     <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
+     <string name="disable_auto_payment_success">Turned off</string>
+     <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
      <string name="disallow_add_to_personal_radio">Personlig radio er kun lesbar</string>
      <string name="done">Ferdig</string>
      <string name="download">Hent</string>
@@ -122,6 +130,10 @@
      <string name="empty_page_no_artist">Ingen artister.</string>
      <string name="empty_page_no_document">Ingen lydfiler.</string>
      <string name="empty_page_no_track">Ingen sanger.</string>
+     <string name="enable_auto_payment_fail">"Couldn't turn on"</string>
+     <string name="enable_auto_payment_fail_message">"Couldn't turn on automatic renewal"</string>
+     <string name="enable_auto_payment_success">Renew automatically</string>
+     <string name="enable_auto_payment_success_message">Turned on automatic renewal. Next payment due on %s.</string>
      <string name="enabled">Aktivert</string>
      <string name="english_female">Kvinnelige artister (US/Europa)</string>
      <string name="english_group">Band (US/Europa)</string>
@@ -318,7 +330,7 @@
      <string name="one_month">1 måned</string>
      <string name="online_music">Oppdag</string>
      <string name="online_music_enabled_subtitle">Trykk for å strømme dine favorittsanger.</string>
-     <string name="online_music_enabled_summary">Hør og last ned dine favorittsanger. Vis billboard-listene og utvalgte spillelister hvor enn du går!</string>
+     <string name="online_music_enabled_summary">Hør og last ned dine favorittsanger. Vis populære sanger og utvalgte spillelister hvor enn du går!</string>
      <string name="online_music_enabled_title">Gratis strømminger er her</string>
      <string name="online_playlist_is_empty">Spillelisten er tom</string>
      <string name="only_online_can_select_quality">Du kan bare velge kvaltiet for musikk du strømmer.</string>
@@ -353,6 +365,8 @@
      <string name="renew">Forny:</string>
      <string name="renew_1">Forny</string>
      <string name="renew_period">"Utløper: "</string>
+     <string name="repeat_all_notif">Repeating all songs.</string>
+     <string name="repeat_current_notif">Repeating current song.</string>
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
      <string name="search_album">Søk album</string>
@@ -392,6 +406,8 @@
      <string name="share_end_note">From Mi Musikk</string>
      <string name="share_text_list">"Spilleliste fra Mi Musikk: "</string>
      <string name="share_text_song">"Sang i Mi Musikk: "</string>
+     <string name="shuffle_off_notif">Shuffle is off.</string>
+     <string name="shuffle_on_notif">Shuffle is on.</string>
      <string name="similar_songs">Lignende sanger</string>
      <string name="sleep_mode">Sovetimer</string>
      <string name="sleep_mode_canceled">Sovemodus skrudd av</string>
@@ -435,6 +451,7 @@
      <string name="title_online_suggest">Du liker kanskje</string>
      <string name="title_search_history">Søkehistorikk</string>
      <string name="title_search_hot">Populær</string>
+     <string name="to_mi_pay">Mi Credits</string>
      <string name="today_update">Musikk oppdatert</string>
      <string name="too_freq">For mange forespørsler sendt fra denne enheten.</string>
      <string name="tos">Tjenestevilkår</string>
@@ -462,9 +479,21 @@
      <string name="upgrade_suggest">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
      <string name="upgrade_to">Upgrade to</string>
      <string name="upgrade_waringing">"Du vil bare ha mulighet til å høre på musikk lagret offline."</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Valid: %s -->
      <string name="valid_period">"Gyldig fra: "</string>
+     <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+     <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
+     <string name="vip_auto_renew_notification_title">Subscription payment</string>
+     <string name="vip_auto_renew_title">Subscription renewal</string>
      <string name="vip_expiration_message">"Etter at medlemskapet utløper, vil du bare kunne strømme musikk med 128 kbps. På grunn av juridiske begrensninger, er noen sanger ikke tilgjengelig for nedlasting."</string>
      <string name="vip_expiration_title">Medlemskapet utløper snart</string>
      <string name="vip_recommend_title">Høyere kvalitet-musikk</string>
+     <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+     <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
+     <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
+     <string name="vip_renew_title">Subscription expired</string>
      <string name="vip_required">Beklager, VIP er nødvendig</string>
 </resources>

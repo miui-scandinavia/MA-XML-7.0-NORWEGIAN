@@ -77,9 +77,9 @@
      <string name="gift_use_fail_dlg_title">Noe gikk galt</string>
      <string name="gift_used">Sendt</string>
      <string name="live_wallpaper">Livebakgrunn</string>
-     <string name="loading">Laster...</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
-     <string name="loading_resource_detail_info">Laster...</string>
+     <string name="loading_resource_detail_info">Bare et sekund…</string>
      <string name="lockscreen_magazine_subscribe">%1$s følgere</string>
      <string name="lockscreen_magazine_summary">Få nye bakgrunner sendt direkte til låseskjermen din hver dag</string>
      <string name="lockscreen_magazine_system_subscribe">%1$s bakgrunner</string>
@@ -127,13 +127,13 @@
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
      <string name="resource_comment_edit_comment_waiting">Sjekker historikk…</string>
      <string name="resource_comment_edit_text_default">Skriv kommentar</string>
-     <string name="resource_comment_edit_title">Rediger kommentar: %1$s</string>
+     <string name="resource_comment_edit_title">Kommentér om %1$s</string>
      <string name="resource_comment_entry_tips">Anmeldelser (%1$s)</string>
      <string name="resource_comment_expand_full_text">Utvid</string>
      <string name="resource_comment_footer">Tomme kommentarer vises ikke.</string>
      <string name="resource_comment_good_comments">Positive kommentarer</string>
      <string name="resource_comment_invalid">Trykk på stjerner for å bedømme</string>
-     <string name="resource_comment_loading_list">Laster kommentarer…</string>
+     <string name="resource_comment_loading_list">Bare et sekund…</string>
      <string name="resource_comment_name_default">Bruker %1$s</string>
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
@@ -142,7 +142,7 @@
      <string name="resource_comment_rating_star_tips">Trykk på stjernene for å stemme:</string>
      <string name="resource_comment_score_count">%1$s brukere</string>
      <string name="resource_comment_sending">Sender kommentar...</string>
-     <string name="resource_comment_title">Kommentarer: %1$s</string>
+     <string name="resource_comment_title">Kommentarer om %1$s</string>
      <string name="resource_comment_upload_data_invalid">Beklager, ugyldig kommentar</string>
      <string name="resource_comment_upload_failed">Sending mislykkes</string>
      <string name="resource_comment_upload_hint">Kommentarer vil bli vist etter at de er godkjent.</string>
@@ -151,7 +151,7 @@
      <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
      <string name="resource_default">Standard ringetone</string>
      <string name="resource_default_name">Element</string>
-     <string name="resource_delete">Delete</string>
+     <string name="resource_delete">Slett</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
      <string name="resource_delta_update_failed">Laster ned tema igjen…</string>
@@ -356,6 +356,7 @@
      <string name="theme_precast_update_notification_title">Oppdatert til MIUI 7</string>
      <string name="theme_provision_default_theme_title">Standard</string>
      <string name="theme_provision_loading_tips">Bare et sekund…</string>
+     <string name="theme_provision_oper_button_next">Neste</string>
      <string name="theme_provision_title">Velg et tema</string>
      <string name="theme_purchased_list_empty">"Du har ikke kjøpt noen temaer."</string>
      <string name="theme_purchased_non_local">Online</string>

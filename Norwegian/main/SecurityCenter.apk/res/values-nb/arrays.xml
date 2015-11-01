@@ -23,6 +23,7 @@
         <item>Om 1 minutt</item>
         <item>Om 5 minutter</item>
         <item>Om 10 minutter</item>
+        <item>Om 30 minutter</item>
         <item>Aldri</item>
      </string-array>
      <string-array name="auto_process_mode">
