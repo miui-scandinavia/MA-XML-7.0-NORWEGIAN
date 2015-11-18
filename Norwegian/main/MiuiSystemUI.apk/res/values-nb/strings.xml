@@ -161,8 +161,8 @@
      <string name="return_to_incall_screen">Trykk for å gå tilbake til anrop</string>
      <string name="screen_button_notification_text">For å skru dem på, trykk på Hjem og PÅ-knappen samtidig.</string>
      <string name="screen_button_notification_title">Navigeringsknapper er av</string>
-     <string name="screen_pinning_description">Dette holder den synlig til du løsner. Trykk og hold Tilbake og Oversikt samtidig for å løsne.</string>
-     <string name="screen_pinning_description_accessible">Dette holder den synlig til du løsner. Trykk og hold Oversikt for å løsne.</string>
+     <string name="screen_pinning_description">Dette holder den synlig til du løsner. Trykk og hold Hjem og På-knappen samtidig for å løsne.</string>
+     <string name="screen_pinning_description_accessible">Dette holder den synlig til du løsner. Trykk og hold Hjem og På-knappen samtidig for å løsne.</string>
      <string name="screen_pinning_negative">Nei takk</string>
      <string name="screen_pinning_positive">Skjønner</string>
      <string name="screen_pinning_title">Skjerm er festet</string>

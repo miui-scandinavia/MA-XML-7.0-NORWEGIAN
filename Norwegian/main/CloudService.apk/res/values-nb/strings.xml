@@ -102,9 +102,7 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
 Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
-     <string name="find_device_send_sms_alert">"
-
->Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen."</string>
+     <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen.</string>
      <string name="find_device_status_ok">Finn enheten din fra hvor som heslt på i.mi.com</string>
      <string name="find_device_status_ok_international">Finn din enhet fra hvor som helst på www.mi.com/micloud</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
@@ -134,11 +132,11 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Sist synket %s dager siden</string>
      <string name="micloud">Mi Cloud</string>
-     <string name="micloud_all_sub_1_intl_sms">"International SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-     <string name="micloud_all_sub_1_sms">"Regular SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-     <string name="micloud_all_sub_1_sms_1_intl_sms">"2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-     <string name="micloud_all_sub_2_intl_sms">"2 international text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-     <string name="micloud_all_sub_2_sms">"2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+     <string name="micloud_all_sub_1_intl_sms">"En internasjonal og innenlands SMS vil bli sendt for å aktivere ditt SIM-kort  Du vil bli belastet av din operatør. Når du skrur på "Finn enhet", kan en aktiverings-SMS bli sendt etter at du bytter SIM-kort."</string>
+     <string name="micloud_all_sub_1_sms">"En vanlig SMS vil bli sendt for å aktivere ditt SIM-kort. Du vil bli belastet av din operatør. Når du skrur på "Finn enhet", kan en aktiverings-SMS bli sendt etter at du bytter SIM-kort."</string>
+     <string name="micloud_all_sub_1_sms_1_intl_sms">"2 tekstmeldinger (en vanlig og en internasjonal) vil bli sendt for å aktivere ditt SIM-kort. Du vil bli belastet av din operatør. Når du skrur på "Finn enhet", kan en aktiverings-SMS bli sendt etter at du bytter SIM-kort.."</string>
+     <string name="micloud_all_sub_2_intl_sms">"2 internasjonale tekstmeldinger vil bli sendt for å aktivere ditt SIM-kort. Du vil bli belastet av din operatør. Når du skrur på "Finn enhet", kan en aktiverings-SMS bli sendt etter at du bytter SIM-kort."</string>
+     <string name="micloud_all_sub_2_sms">"2 tekstmeldinger vil bli sendt for å aktivere ditt SIM-kort. Du vil bli belastet av din operatør. Når du skrur på "Finn enhet", vil en aktiverings-SMS bli sendt etter at du bytter SIM-kort."</string>
      <string name="micloud_buy_member">Konto</string>
      <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
 på din Mi-konto for å aktivere Mi Cloud på nytt."</string>

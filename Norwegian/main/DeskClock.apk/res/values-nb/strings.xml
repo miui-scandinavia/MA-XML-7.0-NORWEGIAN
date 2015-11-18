@@ -175,8 +175,7 @@
      <string name="shutdown_alarm_enable_summary">Aktiver Avslåingsalarm</string>
      <string name="shutdown_alarm_title">Slå av Alarm</string>
      <string name="silent_alarm_summary">Lydløs</string>
-     <string name="skip_alarm_date_format">%1$s(%2$s)</string>
-     <string name="skip_alarm_once_hint">Turn off once on %s</string>
+     <string name="skip_alarm_once_hint">Skru av når på %s</string>
      <string name="slash">/</string>
      <string name="slider_text">Dra opp for å lukke</string>
      <string name="snooze_confirm_cancel">Avbryt snooze</string>
@@ -243,10 +242,10 @@
      <string name="timers_max_count_reached">Du kan ha maksimalt fire tidtakere</string>
      <string name="timers_stopped">%d nedtellinger ble stoppet</string>
      <string name="timezone_exist_error_message">Kunne ikke legge til tidssone, da den eksisterer allerede. Vennligst velg en ny.</string>
-     <string name="today">Today</string>
-     <string name="tomorrow">Tomorrow</string>
-     <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
-     <string name="turn_off_this_repeat_alarm">Turn off this repeating alarm</string>
+     <string name="today">I dag</string>
+     <string name="tomorrow">I går</string>
+     <string name="turn_off_a_repeat_alarm">Skru av en repeterende alarm</string>
+     <string name="turn_off_this_repeat_alarm">Skru av denne repeterende alarmen</string>
      <string name="vibrate_pref_summary">Vibrer under alarmering</string>
      <string name="vibrate_when_ringing">Vibrer under ringing</string>
      <string name="volume_button_dialog_title">Knappefunksjon</string>

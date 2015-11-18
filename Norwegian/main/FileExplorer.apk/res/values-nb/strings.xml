@@ -37,8 +37,8 @@
      <string name="byteShort">B</string>
      <string name="can_not_send_with_too_many">"Kan ikke sende så mange elementer"</string>
      <string name="cancel">Avbryt</string>
-     <string name="cancel_error">"Couldn't remove, try again"</string>
-     <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>
+     <string name="cancel_error">"Kunne ikke fjerne, prøv igjen"</string>
+     <string name="cancel_success">Fjerning vellykket, alle filer flyttet til sdcard/fileexplorer/decryption</string>
      <string name="category">Kategorier</string>
      <string name="category_all">Alle</string>
      <string name="category_apk">APKer</string>
@@ -98,11 +98,11 @@
      <string name="decompress_title">Pakk ut</string>
      <string name="decompress_to">Pakk ut filer til…</string>
      <string name="decompress_to_here">Pakk ut her</string>
-     <string name="decrypt">Remove from private</string>
-     <string name="decrypt_error">"Couldn't decrypt"</string>
-     <string name="decrypting">Decrypting…</string>
+     <string name="decrypt">Fjern fra privat</string>
+     <string name="decrypt_error">"Kunne ikke dekryptere"</string>
+     <string name="decrypting">Dekrypterer…</string>
      <string name="delete_dialog_button">Slett</string>
-     <string name="delete_error">"Couldn't delete files, try again"</string>
+     <string name="delete_error">"Kunne ikke slette filer, prøv igjen"</string>
      <string name="delete_failed">Sletting mislyktes</string>
      <string name="delete_file">Slett denne filen?</string>
      <string name="delete_file_error">"Kunne ikke slette fil"</string>

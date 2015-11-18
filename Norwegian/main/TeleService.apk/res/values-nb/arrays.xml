@@ -10,9 +10,6 @@
         <item>Skjul nummer</item>
         <item>Vis nummer</item>
      </string-array>
-     <string-array name="cs_call_type">
-        <item>CSVoice</item>
-     </string-array>
      <string-array name="dtmf_tone_entries">
         <item>Vanlig</item>
         <item>Lang</item>

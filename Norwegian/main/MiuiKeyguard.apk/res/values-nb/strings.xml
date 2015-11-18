@@ -15,9 +15,9 @@
      <string name="experimental_validate_username">Brukernavn</string>
      <string name="experimental_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
      <string name="find_device_turn_off_flight_mode">Skru av flymodus</string>
-     <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
-     <string name="fingerprint_not_identified_title">"Can't read fingerprint"</string>
-     <string name="fingerprint_try_again_text">Try again</string>
+     <string name="fingerprint_not_identified_msg">For å låse opp enheten, skriv ditt passord.</string>
+     <string name="fingerprint_not_identified_title">"Kan ikke lese fingeravtrykk"</string>
+     <string name="fingerprint_try_again_text">Prøv igjen</string>
      <string name="forget_password_string">Glemt passord</string>
      <string name="incorrect_pincode">Ukorrekt PIN-kode</string>
      <string name="incorrect_pincode_remaining_attempts">Ukorrekt PIN-kode, %d forsøk igjen</string>

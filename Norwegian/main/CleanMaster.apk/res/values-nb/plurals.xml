@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minutter siden</item>
+        <item quantity="zero">%1$d minutter siden</item>
+        <item quantity="one">%1$d minutt siden</item>
+        <item quantity="two">%1$d minutter siden</item>
+        <item quantity="few">%1$d minutter siden</item>
+        <item quantity="many">%1$d minutter siden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d timer siden</item>
+        <item quantity="zero">%1$d timer siden</item>
+        <item quantity="one">%1$d time siden</item>
+        <item quantity="two">%1$d timer siden</item>
+        <item quantity="few">%1$d timer siden</item>
+        <item quantity="many">%1$d timer siden</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dager siden</item>
+        <item quantity="zero">%1$d dager siden</item>
+        <item quantity="one">%1$d dag siden</item>
+        <item quantity="two">%1$d dager siden</item>
+        <item quantity="few">%1$d dager siden</item>
+        <item quantity="many">%1$d dager siden</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Lastet ned av %1$d folk</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Lastet ned av %1$d folk</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Lastet ned av %1$d folk</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grupper</item>
+        <item quantity="one">%d gruppe</item>
+    </plurals>
+</resources>

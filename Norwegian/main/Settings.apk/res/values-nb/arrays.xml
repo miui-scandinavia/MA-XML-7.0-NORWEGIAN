@@ -905,4 +905,8 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Animasjonsskala 5 x</item>
         <item>Animasjonsskala 10 x</item>
      </string-array>
+    <string-array name="common_password_business_names">
+        <item>Skjermlås</item>
+        <item>Barnemodus</item>
+    </string-array>
 </resources>

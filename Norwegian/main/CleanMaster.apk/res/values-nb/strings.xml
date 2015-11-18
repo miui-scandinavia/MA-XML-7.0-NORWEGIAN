@@ -159,13 +159,13 @@
      <string name="hints_quick_prepare">Forbereder…</string>
      <string name="hints_quick_scanning">Skanner…</string>
      <string name="hints_residual_header_left">Rester</string>
-     <string name="hints_scanfinish">Ingen søppel funnet, prøv dyprydding</string>
+     <string name="hints_scanfinish">Ingen søppel funnet</string>
      <string name="hints_storage_clean_size">Frigjorde %s intern plass</string>
      <string name="hints_storage_free">Ledig</string>
      <string name="hints_storage_free_size">%s tilgjengelig, flere elementer kan ryddes</string>
      <string name="hints_storage_news">Sikkerhetsnyheter</string>
      <string name="hints_title_garbage">søppel</string>
-     <string name="hot">Popular</string>
+     <string name="hot">Populært</string>
      <string name="installed">Installert</string>
      <string name="installing">Installerer</string>
      <string name="item_title_process_mode">Velg en handling</string>

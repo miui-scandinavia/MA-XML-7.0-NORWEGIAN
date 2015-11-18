@@ -458,7 +458,7 @@
      <string name="fdn_enable_puk2_requested">Passordet er feil og PIN2 er sperret. Endre PIN2 og prøv på nytt.</string>
      <string name="fdn_enabled">Kun faste nummer kan ringes</string>
      <string name="fdn_failed">FDN-handlingen mislyktes.</string>
-     <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
+     <string name="fdn_full">"FDN ble ikke oppdatert fordi lista er full."</string>
      <string name="fdn_invalid_number">FDN ble ikke oppdatert fordi tallet ikke kan overstige 20 sifre.</string>
      <string name="fdn_service_unavailable">FDN service is not available.</string>
      <string name="fdn_summary">Begrens utgående anrop til noterte FDNs eller til tall med visse prefikser</string>

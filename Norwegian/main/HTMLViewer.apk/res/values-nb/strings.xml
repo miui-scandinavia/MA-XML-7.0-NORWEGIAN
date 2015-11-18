@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">HTML-fremviser</string>
+  <string name="app_name_which_call">Program: %s</string>
+  <string name="app_version_which_call">Programversjon: %s</string>
+  <string name="license_host_unreachable">"Kunne ikke koble til nettverket. For å vise denne informasjonen nå, 
+  gå til %s"</string>
+  <string name="loading">Laster…</string>
+  <string name="mibi_license">Tjenestevilkår for Mi-kreditter</string>
+  <string name="policy_name">Vilkår: %s</string>
+</resources>

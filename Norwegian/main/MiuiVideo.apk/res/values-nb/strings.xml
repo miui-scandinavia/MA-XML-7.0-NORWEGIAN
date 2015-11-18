@@ -6,9 +6,9 @@
      <string name="about_title">Om</string>
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Versjon:</string>
-     <string name="actor">Actor</string>
+     <string name="actor">Skuespiller</string>
      <string name="actor_colon">Skuespiller:</string>
-     <string name="actor_intro">About</string>
+     <string name="actor_intro">Om</string>
      <string name="ad_countdown">%ss gjenstående</string>
      <string name="ad_moredetail">Detaljer</string>
      <string name="add_favorite_success">Stjernemerket</string>
@@ -35,7 +35,7 @@
      <string name="alert_dialog_download_btn_hide">Skjul</string>
      <string name="alert_dialog_download_dup_task">Nedlastning foregår, vennligst vent...</string>
      <string name="alert_dialog_download_error">Nedlastningsfeil</string>
-     <string name="alertdialog_downapp_btn_back">Back</string>
+     <string name="alertdialog_downapp_btn_back">Tilbake</string>
      <string name="all">Alle</string>
      <string name="all_comment">Alle kommentarer</string>
      <string name="all_ep">Alle ep</string>
@@ -48,8 +48,8 @@
      <string name="app_update_background">Oppdater programmet i bakgrunnen</string>
      <string name="app_upgrade_version">Ny versjon</string>
      <string name="app_version">Programversjon</string>
-     <string name="app_wifi_mode">Autooppgrader med Wi-Fi</string>
-     <string name="app_wifi_mode_summary">Auto-oppgrader til seneste versjon når du bruker Wi-Fi.</string>
+     <string name="app_wifi_mode">Oppdater automatisk</string>
+     <string name="app_wifi_mode_summary">Oppdater appen automatisk når tilkoblet Wi-Fi.</string>
      <string name="area_colon">"Land: "</string>
      <string name="area_unknown">Ukjent</string>
      <string name="authenticated_failed">Innlogging feilet</string>
@@ -60,9 +60,9 @@
      <string name="back">tilbake</string>
      <string name="baodian">Peker</string>
      <string name="bestv">Bestv</string>
-     <string name="birthday">Birthday</string>
-     <string name="bmp_quality_mode">Bildekvalitet-modus</string>
-     <string name="bmp_quality_mode_desc">Hvis valgt, bruk høy bildekvalitet.</string>
+     <string name="birthday">Bursdag</string>
+     <string name="bmp_quality_mode">Forbedre videokvalitet</string>
+     <string name="bmp_quality_mode_desc">"Forbedre videoens bildekvalitet"</string>
      <string name="buffering">Bufrer…</string>
      <string name="buffering_video_netplay_label_v5">Bufrer…</string>
      <string name="cancel">Avbryt</string>
@@ -82,7 +82,7 @@
      <string name="channel_variety_choice">Utvalgte</string>
      <string name="channel_variety_hot">Populære</string>
      <string name="check_app_version">Sjekker etter nyeste versjon...</string>
-     <string name="check_network">"Kan ikke koble til nettverket. Sjekk datatilkoblingen og prøv igjen."</string>
+     <string name="check_network">"Kan ikke koble til nettverket."</string>
      <string name="choice">Redaktørens valg</string>
      <string name="clarity_high">Høy</string>
      <string name="clarity_standard">Standard</string>
@@ -124,7 +124,7 @@
      <string name="datastream_alert_title">Databruksvarsel</string>
      <string name="day">Dag</string>
      <string name="debug_mode">Feilsøkingsmodus</string>
-     <string name="debug_mode_desc">Når valgt, kjør i feilsøkingsmodus og vis video-ID i venstre hjørne på toppen av skjermen.</string>
+     <string name="debug_mode_desc">Kjøper app i feilsøkingsmodus og vis video-ID i venstre hjørne på toppen av skjermen.</string>
      <string name="declaration">Vilkår for bruk</string>
      <string name="declaration_allow">Godkjenn</string>
      <string name="declaration_content">"1. Ved å bruke denne tjenesten, godkjenner du Sohu Video, iQiyi og andre tjenestetilbydere sine "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt;
@@ -181,7 +181,7 @@
      <string name="elipsis">…</string>
      <string name="empty_data">Feil ved lasting</string>
      <string name="empty_keyword_hint">Kodeord kan ikke være tomt</string>
-     <string name="empty_tv_exiting">Exiting ...</string>
+     <string name="empty_tv_exiting">Avslutter…</string>
      <string name="episode">Episode</string>
      <string name="episode_name_format">Episode: %1$s</string>
      <string name="episode_suffix">Ep. %d</string>
@@ -211,14 +211,14 @@
      <string name="good">OK</string>
      <string name="guess_you_like">Anbefalt</string>
      <string name="hint_apk_download">Installer dette programmet</string>
-     <string name="hint_apk_download_format">Install \"%1$s\" application</string>
+     <string name="hint_apk_download_format">Installer programmet \"%1$s\"</string>
      <string name="hint_apk_install">Last ned program</string>
      <string name="hint_apk_text_update">Ny versjon av %1$s tilgjengelig, vil du oppdatere?</string>
      <string name="hint_apk_title_update">Ny versjon av %1$s</string>
      <string name="hint_can_not_get_source_info">"Kunne ikke hente videoinformasjon"</string>
      <string name="hint_without_selected_set">Finn innholdskilde automatisk</string>
      <string name="hollywood">Hollywood</string>
-     <string name="hometown">Hometown</string>
+     <string name="hometown">Hjemby</string>
      <string name="hot">Populære</string>
      <string name="hot_recommend">Ny</string>
      <string name="i_will_write_comments">Jeg vile skrive kommentarer ...</string>
@@ -261,16 +261,16 @@
      <string name="memory_mode_desc">Lagre minnebruk</string>
      <string name="menu_item_disable_audio_enhance">Skru av lydforbedring</string>
      <string name="menu_item_enable_audio_enhance">Forbedre lyd</string>
-     <string name="menu_name">Meny</string>
+     <string name="menu_name">Innstillinger</string>
      <string name="mine_info_account_summary_none">Ikke innlogget</string>
      <string name="mine_info_account_title">Kontoinformasjon</string>
      <string name="minute"> Minutt</string>
      <string name="mipush_setting">Innholdsvarsler</string>
-     <string name="miwifi_app_download_content">Laster ned...</string>
-     <string name="miwifi_app_download_title">Xiaomi Ruter</string>
+     <string name="miwifi_app_download_content">Laster ned…</string>
+     <string name="miwifi_app_download_title">Mi-ruter</string>
      <string name="miwifi_app_update_button">Oppdater</string>
-     <string name="miwifi_app_update_content">OBS: Denne funksjonen krever en ruter med versjon 2.0 eller høyere</string>
-     <string name="miwifi_app_update_title">Du må oppdatere ruter-appen for å bruke denne funksjonen. Oppdater nå?</string>
+     <string name="miwifi_app_update_content">Oppdater Mi-ruter-appen for å bruke denne funksjonen.</string>
+     <string name="miwifi_app_update_title">Oppdater ruter?</string>
      <string name="month">Måned</string>
      <string name="more">Gå til %s</string>
      <string name="my">Local</string>
@@ -281,9 +281,9 @@
      <string name="mycamera">Mine videoer</string>
      <string name="myfavorite">Stjernemerkede</string>
      <string name="myfavorite_onlylocal">Stjernemerkede</string>
-     <string name="need_upgrade_button">Check</string>
-     <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
-     <string name="need_upgrade_title">Available in new version</string>
+     <string name="need_upgrade_button">Oppdater</string>
+     <string name="need_upgrade_summary">Oppdater for å bruke denne funksjonen</string>
+     <string name="need_upgrade_title">Oppdatering tilgjengelig</string>
      <string name="negative_comment">Negativ</string>
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Logg inn med din Xiaomi-konto for å sende kommentar.</string>
@@ -298,12 +298,8 @@
      <string name="offline_add_queue_fail">Kunne ikke laste ned \"%1$s\", vennligst prøv igjen senere</string>
      <string name="offline_alert_title">Optimaliser databruk</string>
      <string name="offline_alert_wifi">"For å redusere ditt dataforbruk, har nedlastningene blitt pauset og vil fortsette når du er tilkoblet Wi-Fi".</string>
-     <string name="offline_already_in">\"%1$s\" eksisterer i nedlastningskøen</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 1
-	%s: 2 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Added \"%1$s\" is already waiting to download -->
-     <string name="offline_created_order">La til \"%1$s\" i nedlastningskøen, plassering: %2$s</string>
+     <string name="offline_already_in">\"%1$s\" venter allerede i nedlastningskøen</string>
+     <string name="offline_created_order">\"%1$s\" venter allerede i nedlastningskøen</string>
      <string name="offline_loaded">Offline video</string>
      <string name="offline_loading">Offline</string>
      <string name="offline_max_promote">Venter på at de andre oppgavene blir ferdig…</string>
@@ -326,14 +322,14 @@
      <string name="online_video_oneweek">I løp av forrige uke</string>
      <string name="online_video_oneweek_ago">En uke siden</string>
      <string name="operator_test">Operatørinnstillinger</string>
-     <string name="operator_test_summary">Hvis valgt, gå inn i operatørmodus</string>
-     <string name="other_info">Other</string>
+     <string name="operator_test_summary">Kjør app i Operatør-testmodus</string>
+     <string name="other_info">Andre</string>
      <string name="other_setting">Flere innstillinger</string>
      <string name="partner_specials">Innhold fra partner</string>
      <string name="pause">Pause</string>
      <string name="percent_status">%.1f%%</string>
-     <string name="performance_mode">Kjøremodus</string>
-     <string name="performance_mode_desc">Ytelsesprioritet</string>
+     <string name="performance_mode">Forbedre avspillerytelse</string>
+     <string name="performance_mode_desc">"Maksimer videoavspillerens ytelse"</string>
      <string name="personal_center">Personlig senter</string>
      <string name="pick_addon_to_delete">Velg element(er)</string>
      <string name="place_at">Nr.%d</string>
@@ -371,7 +367,7 @@
      <string name="retry">Prøv igjen</string>
      <string name="router">Kontroller offline</string>
      <string name="router_download_task_with">%d oppgaver</string>
-     <string name="router_update">Du må oppgradere Xiaomi Ruter-applikasjonen.</string>
+     <string name="router_update">Oppdater Mi-ruter-appen nå.</string>
      <string name="score">Score </string>
      <string name="score_by">Score: %s</string>
      <string name="score_douban">Douban Score %1$s</string>
@@ -394,7 +390,7 @@
      <string name="select_none">Avvelg alle</string>
      <string name="select_offline_media">Vis nedlastinger</string>
      <string name="select_tv">Velg kanal</string>
-     <string name="select_tv_empty_hint">Tom</string>
+     <string name="select_tv_empty_hint">Ingen kanaler.</string>
      <string name="select_tvs">Velg enhet</string>
      <string name="send">Send</string>
      <string name="series_ep">Ep. %d</string>
@@ -436,10 +432,10 @@
      <string name="tudou">Tudou</string>
      <string name="tv">Live</string>
      <string name="tv_channel_empty_hint">Ingen kanaler</string>
-     <string name="tv_cp_info_format">tilbudt av %1$s</string>
+     <string name="tv_cp_info_format">Tilbudt av %1$s</string>
      <string name="tv_series">TV serier</string>
      <string name="type_colon">Sjanger: </string>
-     <string name="ui_style">UI-stil</string>
+     <string name="ui_style">Innholdsvisning</string>
      <string name="ui_style_summary">Standard er listevisning</string>
      <string name="unfavorite">Fjern stjernemerke</string>
      <string name="unknown_source">Ukjent kilde</string>
@@ -471,7 +467,7 @@
      <string name="vertical_line"><CDATA> | </CDATA></string>
      <string name="video">Video</string>
      <string name="video_app_update">Oppdater</string>
-     <string name="video_bbs">Bli med</string>
+     <string name="video_bbs">Bli med i forum</string>
      <string name="video_bbs_url">Bli med og hjelp å utvikle denne video-appen</string>
      <string name="video_count">%d videoer</string>
      <string name="video_declare">Copyright   |   Ansvarsfraskrivelse</string>
@@ -483,7 +479,7 @@
      <string name="video_info_resolution_label">Oppløsning</string>
      <string name="video_info_video_coding_label">Videokoding:</string>
      <string name="video_plugin">Video-tillegg</string>
-     <string name="video_plugin_downloading">Later ned (%1$s), vennligst vent en stund.</string>
+     <string name="video_plugin_downloading">Laster ned (%1$s) </string>
      <string name="video_plugin_prepare">Forbereder video-tillegg, vennligst vent en stund.</string>
      <string name="video_version">Versjon %s</string>
      <string name="video_xiaomi">Mi Video</string>

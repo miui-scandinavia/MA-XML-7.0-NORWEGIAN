@@ -16,7 +16,7 @@
      <string name="apn_exception_summary">"Test operatørens aksesspunktnavn-konfigurasjon"</string>
      <string name="apn_exception_title">Sjekk APN-konfigurasjon</string>
      <string name="app_detail">Detaljer</string>
-     <string name="app_mobile">Mobildata</string>
+     <string name="app_mobile">Mobil</string>
      <string name="app_name">Databruk</string>
      <string name="app_version">Versjon</string>
      <string name="app_wifi">Wi-Fi</string>
@@ -73,7 +73,7 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="datausage_purchase_goto_monthsetting">Endre pakkeinfo</string>
      <string name="datausage_purchase_none_history">Tom</string>
      <string name="datausage_purchase_order_failure">Kjøp feilet</string>
-     <string name="datausage_purchase_order_failure_cause">Kjøpet ditt feilet fordi…</string>
+     <string name="datausage_purchase_order_failure_cause">Kjøp feilet…</string>
      <string name="datausage_purchase_order_history">Historikk</string>
      <string name="datausage_purchase_ordering">Kjøper…</string>
      <string name="datausage_purchase_pay_captcha_hint">Skriv koden du mottokk her</string>
@@ -117,7 +117,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_network_restrict_notify_message">Trykk for å endre innstillinger.</string>
      <string name="firewall_network_restrict_notify_mobile">mobildata</string>
      <string name="firewall_network_restrict_notify_title">"%1$s kan ikke bruke %2$s."</string>
-     <string name="firewall_rule_group_title_mobile">Data</string>
+     <string name="firewall_rule_group_title_mobile">Mobil</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">%1$s har blitt begrenset fra å bruke %2$s nettverk</string>
@@ -568,7 +568,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_whitelist_btn_removed">App fjernet fra liste</string>
      <string name="traffic_saving_whitelist_count">"%d apper sitt databruk blir ikke begrenset"</string>
      <string name="traffic_saving_whitelist_no_app">Ingen apper</string>
-     <string name="traffic_saving_wifi_usage">Wi-Fi forbruk</string>
+     <string name="traffic_saving_wifi_usage">Wi-Fi-forbruk</string>
      <string name="traffic_setting_app_count">%d apper</string>
      <string name="traffic_setting_completed">OK</string>
      <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>

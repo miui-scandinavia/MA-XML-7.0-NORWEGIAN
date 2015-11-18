@@ -25,12 +25,12 @@
         <item quantity="one">Vil du forkaste e-posten?</item>
      </plurals>
      <plurals name="contact_num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">%d selected</item>
-        <item quantity="one">%d selected</item>
-        <item quantity="two">%d selected</item>
-        <item quantity="few">%d selected</item>
-        <item quantity="many">%d selected</item>
+        <item quantity="other">%d valgt</item>
+        <item quantity="zero">%d valgt</item>
+        <item quantity="one">%d valgt</item>
+        <item quantity="two">%d valgt</item>
+        <item quantity="few">%d valgt</item>
+        <item quantity="many">%d valgt</item>
      </plurals>
      <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> er arkivert.</item>
@@ -116,12 +116,12 @@
         <item quantity="one">%1$d e-post</item>
      </plurals>
      <plurals name="num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">%d selected</item>
-        <item quantity="one">%d selected</item>
-        <item quantity="two">%d selected</item>
-        <item quantity="few">%d selected</item>
-        <item quantity="many">%d selected</item>
+        <item quantity="other">%d valgt</item>
+        <item quantity="zero">%d valgt</item>
+        <item quantity="one">%d valgt</item>
+        <item quantity="two">%d valgt</item>
+        <item quantity="few">%d valgt</item>
+        <item quantity="many">%d valgt</item>
      </plurals>
      <plurals name="show_messages_read">
         <item quantity="other">%1$d eldre e-poster</item>

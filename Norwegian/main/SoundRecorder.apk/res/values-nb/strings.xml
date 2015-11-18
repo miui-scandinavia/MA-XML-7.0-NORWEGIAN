@@ -15,12 +15,12 @@
      <string name="button_start_now">Last ned</string>
      <string name="call_record">Opptavk av anrop (%d)</string>
      <string name="cloud_record">%d synket</string>
-     <string name="cloud_record_open">Sync recordings</string>
-     <string name="cloud_record_tip">Sync recordings with Mi Cloud.</string>
-     <string name="cloud_status_full_dialog_cancel">Not now</string>
-     <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
-     <string name="cloud_status_full_dialog_ok">Upgrade</string>
-     <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
+     <string name="cloud_record_open">Synk opptak</string>
+     <string name="cloud_record_tip">Synk opptak med Mi Cloud.</string>
+     <string name="cloud_status_full_dialog_cancel">Ikke nå</string>
+     <string name="cloud_status_full_dialog_msg">"Din skylagring er full, kan ikke synke opptak. Oppgrader kontoen din for å få mer lagringsplass."</string>
+     <string name="cloud_status_full_dialog_ok">Oppgrader</string>
+     <string name="cloud_status_full_dialog_title">Mi Cloud-lagring full</string>
      <string name="data_connection_body">"Å bruke din mobildataforbindelse for å laste ned denne filen vil forårsake økt dataforbruk.
      Hvis du overskrider abonnementet sin datagrense, kan operatøren belaste deg for ytterlige avgifter."</string>
      <string name="data_connection_button_text">OK</string>

@@ -65,7 +65,7 @@
      <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
      <string name="aperture">Blender</string>
      <string name="app_name">Galleri</string>
-     <string name="app_name_edit_picture">Edit picture</string>
+     <string name="app_name_edit_picture">Endre bilde</string>
      <string name="app_name_view_picture">Vis bilde</string>
      <string name="apply">Bruk</string>
      <string name="appwidget_empty_text">Ingen bilder.</string>
@@ -124,14 +124,14 @@
      <string name="black_white">Flat &amp; hvitt</string>
      <string name="brannan">Brannan</string>
      <string name="browse_category">Bla gjennom bilder</string>
-     <string name="buy_member_tip">become a member.</string>
+     <string name="buy_member_tip">Bli medlem.</string>
      <string name="by_email">E-post</string>
      <string name="by_others">Av andre</string>
      <string name="by_sms">SMS</string>
      <string name="byteShort">B</string>
-     <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
-     <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
-     <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
+     <string name="calculated_pictures_time_tip">Sorterte bilder fra %1$s til nå. Gjenværende bilder vil bli sortert gradvis.  For å gjøre dette raskere, %2$s</string>
+     <string name="calculated_pictures_time_tip_for_no_vip">Sorterte bilder fra %1$s til nå. Gjenværende bilder vil bli sortert gradvis.</string>
+     <string name="calculated_pictures_time_tip_for_vip">Sorterte bilder fra %1$s til nå. Gjenværende bilder vil bli sortert snart.</string>
      <string name="camera_black_white">Svart &amp; hvitt</string>
      <string name="camera_connected">Kamera tilkoblet.</string>
      <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
@@ -959,8 +959,8 @@ venner."</string>
      <string name="paint_crop_cancel_context">Lagre resultat av beskjæring?</string>
      <string name="paint_crop_cancel_title">Forkast endringer</string>
      <string name="paint_crop_tips">Plasser målområdet i bildet nær midten av gitteret.</string>
-     <string name="paint_highlight">Marker</string>
-     <string name="paint_highlight_cancel_context">Lagre merkede bildet?</string>
+     <string name="paint_highlight">Tegnede</string>
+     <string name="paint_highlight_cancel_context">Lagre tegnede bildet?</string>
      <string name="paint_highlight_cancel_title">Forkast endringer</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
@@ -1210,7 +1210,7 @@ venner."</string>
      <string name="view_baby_album">Vis babyalbum</string>
      <string name="view_baby_info">Edit baby information</string>
      <string name="view_face_album">Vis album</string>
-     <string name="view_queuing_status">Check status</string>
+     <string name="view_queuing_status">Sjekk status</string>
      <string name="view_sharers">Vis delere</string>
      <string name="vignette">Vignette</string>
      <string name="wallpaper">Skrivebordsbakgrunn</string>

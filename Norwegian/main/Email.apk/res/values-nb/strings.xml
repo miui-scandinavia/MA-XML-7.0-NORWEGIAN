@@ -217,7 +217,7 @@
      <string name="activity_mailbox_selection">Velg konto</string>
      <string name="activity_preferences">Innstillinger</string>
      <string name="add_account">Legg til konto</string>
-     <string name="add_attachment">Legg ved filer</string>
+     <string name="add_attachment">Legg ved vedlegg</string>
      <string name="add_authentication_label">Legg til autentisering</string>
      <string name="add_bcc_label">Legg til blindkopi</string>
      <string name="add_calendar">Remind</string>
@@ -244,7 +244,7 @@
      <string name="archived">Arkiverte</string>
      <string name="att_download_failed_content">"Kunne ikke laste ned vedlegget i denne meldingen"</string>
      <string name="att_download_failed_title">"Kan ikke laste ned vedlegg"</string>
-     <string name="att_file_not_exists">Fil %s ble ikke funnet!</string>
+     <string name="att_file_not_exists">Kunne ikke finne %s!</string>
      <string name="att_mgr_no_attachment">Tom</string>
      <string name="att_mgr_title_order_mime">Format</string>
      <string name="att_mgr_title_order_name">Navn</string>
@@ -259,14 +259,12 @@
      <string name="attachment_audio">Lyd</string>
      <string name="attachment_bar_title">Vedlegg</string>
      <string name="attachment_canceling">Avbryter nå...</string>
-     <string name="attachment_decoding">Dette vedlegget blir dekodet, vennligst vent.</string>
+     <string name="attachment_decoding">Pakker ut vedlegg.</string>
      <string name="attachment_download_all">Last ned alle</string>
      <string name="attachment_image">Bilde</string>
      <string name="attachment_mgr_name">Vedlegg</string>
      <string name="attachment_not_exists">Dette vedlegget er ikke tilgjengelig!</string>
      <string name="attachment_not_found">"Kunne ikke hente vedlegg."</string>
-     <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
-     <string name="attachment_open_SecurityException_title">Failed to open file</string>
      <string name="attachment_stop_all">Stopp</string>
      <string name="attachment_text">Tekst</string>
      <string name="attachment_type_blocked">"Du kan dessverre ikke lagre eller åpne denne typen vedlegg."</string>
