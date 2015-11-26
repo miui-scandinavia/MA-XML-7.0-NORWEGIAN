@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="all_call_livetalk_enable">Bruk oppfyllingspakker for nasjonale og internasjonale samtaler</string>
-     <string name="all_call_livetalk_remain_mins">Minutter gjenstående: (%1$s Nasjonalt) | (%2$s %3$s)</string>
+     <string name="all_call_livetalk_remain_mins">Minutter gjenstående: %1$s nasjonalt eller %2$s internasjonalt</string>
      <string name="alwaysUsePrompt">Husk mitt valg</string>
      <string name="apply_password_action">Sett passord</string>
      <string name="apply_password_confirm_dlg_msg">Krev passord for %s​?</string>
@@ -16,6 +16,9 @@
      <string name="cancel_action">Avbryt</string>
      <string name="copy">Kopier</string>
      <string name="cut">Kutt</string>
+     <string name="default_name">Standard</string>
+     <string name="enable_livetalk_summary">¥ 0.05 per minutt for nasjonale samtaler</string>
+     <string name="enable_livetalk_title">Turn on Top-up package</string>
      <string name="fc_dialog_body">Send feilrapport til Mi for analyse? Denne rapportern kan inneholde personlig identifiserbar informasjon. Rapporten vil bli brukt til å hjelpe fiksing av denne feilen og vil ikke bli delt i noen kommersiell sammenheng.</string>
      <string name="fc_dialog_jump_to_preview">Vis sammendraget</string>
      <string name="first_back_long_press_message">"Trykk og hold Tilbake-knappen for å drepe den gjeldende prosessen og dens bakgrunnstjenester.
@@ -28,22 +31,29 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="global_actions_reboot">Omstart</string>
      <string name="global_actions_shutdown">Skru av</string>
      <string name="global_actions_silent_mode">Stillemodus</string>
+     <string name="group_name_contacts">Kontakter</string>
+     <string name="group_name_coworkers">Kollegaer</string>
+     <string name="group_name_family">Familie</string>
+     <string name="group_name_friends">Venner</string>
      <string name="handy_mode_enter_dlg_msg">Gå inn i enhåndsmodus?</string>
      <string name="handy_mode_enter_dlg_title">Gå inn i enhåndsmodus</string>
      <string name="handy_mode_summary">For å lukke, trykk på den tomme plassen utenfor skjermen</string>
      <string name="handy_mode_title">En-håndsmodus</string>
+     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasser fingeren på hjemknappen</string>
      <string name="internal_livetalk_enable">Bruk oppfyllingspakker for nasjonale samtaler</string>
      <string name="internal_remain_mins">%1$s minutter gjenstående (nasjonale samtaler)</string>
      <string name="international_livetalk_enable">Bruk oppfyllingspakker for internasjonale samtaler</string>
      <string name="international_remain_mins">%1$s minutter gjenstående (%2$s samtaler)</string>
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Mellomrom</string>
+     <string name="livetalk_not_enable">Oppfyllingspakke er skrudd av</string>
      <string name="location_usage_restricted_body">Trykk for å fjerne begrensning.</string>
      <string name="location_usage_restricted_title">Bakgrunnsplasssering begrenset</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster nullstilt</string>
      <string name="lockscreen_access_pattern_detected">Mønster fullført</string>
      <string name="lockscreen_access_pattern_start">Mønster start</string>
+     <string name="maml_component_customization_title">Innstillinger</string>
      <string name="memory_clear_nothing_result">Ingenting å tømme i mellomlageret</string>
      <string name="memory_clear_result">%1$sB tømt | %2$sB tilgjengelig</string>
      <string name="miui">miui</string>
@@ -57,6 +67,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="reboot_info_shutdown_alarm">Telefonen din vil start og gi alarm den %s</string>
      <string name="reboot_progress">Starter på nytt…</string>
      <string name="replace">Erstatt</string>
+     <string name="resource_select">Velg</string>
      <string name="screen_button_disabled_message">Navigeringsknapper deaktivert. For å aktivere de på nytt, trykk Hjem og På-knappen samtidig.</string>
      <string name="screen_button_enabled_message">Navigeringsknapper aktivert.</string>
      <string name="screen_button_notification_text">For å slå dem på, trykk Hjem og PÅ-knappene samtidig.</string>
@@ -67,7 +78,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="screen_paper_mode_enter_toast">Lesemodus er på. Du kan skru denne funksjonen av og på når som helst i in Flere innstillinger &gt; Lesemodus.</string>
      <string name="screen_rotation_freeze_message">Auto-rotering deaktivert.</string>
      <string name="select">Velg</string>
-     <string name="select_all">Avvelg alle</string>
+     <string name="select_all">Velg alle</string>
      <string name="set_password_action">Sett passord</string>
      <string name="set_password_message">Sett et nytt passord?</string>
      <string name="set_password_title">Sett passord</string>
@@ -107,5 +118,6 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_vibrate">Vibrer</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+     <string name="subinfo_default_name">SIM %d</string>
      <string name="unknown_caller">Ukjent nummer</string>
 </resources>
