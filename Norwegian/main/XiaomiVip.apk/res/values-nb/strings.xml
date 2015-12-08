@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string name="achieve_condition">Belønnet for:</string>
+     <string name="achieved">TJENT</string>
+     <string name="achieved_time">Tjent den %s</string>
+     <string name="achievement_progress" formatted="false">Fremgang: %d/%d</string>
+     <string name="achievements">Utmerkelser</string>
+     <string name="acquired_time_x">Received on %s</string>
      <string name="action">Vis</string>
      <string name="already_used">Brukt</string>
      <string name="app_name">Mi VIP</string>
@@ -8,8 +14,10 @@
      <string name="award_time">Samlet den %s</string>
      <string name="awarded_package_is_expired">Utløpt</string>
      <string name="awarded_package_was_redeemed">Innløst</string>
+     <string name="awards">Premier</string>
      <string name="browse">Vis</string>
      <string name="buff_enable">[ enable ]</string>
+     <string name="copy_and_use">Løs inn</string>
      <string name="cube_ptr_hours_ago"> timer siden</string>
      <string name="cube_ptr_last_update">siste oppdatering: </string>
      <string name="cube_ptr_minutes_ago"> minutter siden</string>
@@ -19,24 +27,32 @@
      <string name="cube_ptr_refreshing">Oppdaterer...</string>
      <string name="cube_ptr_release_to_refresh">Slipp for å oppdatere på nytt</string>
      <string name="cube_ptr_seconds_ago"> sekunder siden</string>
+     <string name="daily_task">Daglige utfordringer</string>
      <string name="days">%d dager</string>
+     <string name="device_answer_phone_times">Anrop besvart</string>
+     <string name="device_charge_times">Ganger ladet</string>
+     <string name="device_unlock_screen_times">Skjerm låst opp</string>
+     <string name="device_usage_data">Statistikk over telefonbruk</string>
+     <string name="download_message">Last ned %s?</string>
+     <string name="download_title">Last ned denne appen?</string>
+     <string name="downloading">Laster ned…</string>
      <string name="exp_buff">+%s%% opplevelse</string>
      <string name="experience">Exp</string>
      <string name="expired">Utløpt</string>
      <string name="fail_reach_server">"Kan ikke koble til server"</string>
      <string name="giveup">Gi opp</string>
+     <string name="go">Vis fremgang</string>
      <string name="hello">Hallo</string>
      <string name="hours">%d timer</string>
      <string name="in_progress">Sender forespørsel…</string>
      <string name="invalid_json">Noe gikk galt</string>
      <string name="level">Level</string>
      <string name="level_detail">Daglig oppgavegrense: %d</string>
-     <string name="level_exp_value" formatted="false">%d/%d</string>
-     <string name="level_info_format" formatted="false">"Level %d %d/%d
-%s"</string>
+     <string name="limit_task">Begrensede utfordringer</string>
      <string name="millis">%dms</string>
      <string name="minutes">%d minutter</string>
      <string name="my_award">Mine belønnelser</string>
+     <string name="no_achievements">Tom.</string>
      <string name="no_app">Vennligst installer Mi VIP-appen først</string>
      <string name="no_award">Ingen belønnelser</string>
      <string name="no_network">"Kan ikke koble til nettverket"</string>
@@ -46,6 +62,7 @@
      <string name="promote">Fullfør oppdrag for å tjene poeng</string>
      <string name="query_level_fail">"Kunne ikke hente oppgaveinfo"</string>
      <string name="query_user_tasks_fail">"Kunne ikke hente oppgaveinfo"</string>
+     <string name="redeem">Løs inn</string>
      <string name="seconds">%d sekunder</string>
      <string name="start_activity_error">"Kan ikke starte app: %s"</string>
      <string name="take_awarded_package">Løs inn</string>
@@ -55,7 +72,7 @@
      <string name="task_completed">Fullført</string>
      <string name="task_done">Ferdig</string>
      <string name="task_limit">Ingen oppgaver igjen i dag. Sees i morgen!</string>
-     <string name="task_not_completed">Not completed</string>
+     <string name="task_not_completed">Ikke ferdig</string>
      <string name="task_ongoing">Pågår</string>
      <string name="task_score">%d poeng</string>
      <string name="task_select_title">Velg en oppgave</string>
@@ -63,9 +80,11 @@
      <string name="task_take_award">Motta belønninger</string>
      <string name="today_task">"Dagens oppgaver"</string>
      <string name="today_task_format" formatted="false">%d/%d</string>
+     <string name="unachieved">TILGJENGELIG</string>
      <string name="unlimited_task">Spesielle oppgaver</string>
      <string name="upgraded">Lvl opp!</string>
      <string name="use">Bruk</string>
+     <string name="use_immediately">Bruk nå</string>
      <string name="validity">Utløper den %s</string>
      <string name="validity_unknown">Ukjent utløpsdato</string>
 </resources>

@@ -101,7 +101,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="dialog_roaming_apps_sorted_title">Sorter etter</string>
      <string name="dialog_roaming_message">Tillatt denne appen å bruke mobildata når du roamer internasjonalt?</string>
      <string name="dialog_roaming_title">Internasjonal roaming</string>
-     <string name="dialog_title_attention">Attention</string>
+     <string name="dialog_title_attention">OBS</string>
      <string name="disable_air_mode">Skru av flymodus</string>
      <string name="dns_exception_summary">"Sjekk ruterens DNS-innstillinger"</string>
      <string name="dns_exception_title">Sjekk DNS-innstillinger</string>
@@ -116,7 +116,9 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_fragment_tab_title_sys">Apper</string>
      <string name="firewall_network_restrict_notify_message">Trykk for å endre innstillinger.</string>
      <string name="firewall_network_restrict_notify_mobile">mobildata</string>
-     <string name="firewall_network_restrict_notify_title">"%1$s kan ikke bruke %2$s."</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s kan ikke bruke %2$s"</string>
+     <string name="firewall_restrict_android_dialog_content">"Hvis du ikke tillater Android å koble til Internett, vil noen funksjoner, som f.eks. WLAN-hotspot bli berørt."</string>
+     <string name="firewall_restrict_android_dialog_title">Attention</string>
      <string name="firewall_rule_group_title_mobile">Mobil</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -143,6 +145,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
      <string name="international_roaming_whitelist_count">%d apper kan bruke mobildata når du roamer internasjonalt</string>
      <string name="ip_address_exception_summary">"Kunne ikke hente IP-adresse. Hvis du støter på dette problemet igjen, vennligst prøv en statisk IP-adresse."</string>
+     <string name="kilobyte_per_second">K/s</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Tom</string>
      <string name="load_fail">"Kunne ikke laste"</string>
@@ -201,7 +204,8 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="main_traffic_used_text">brukt</string>
      <string name="manual_input_free_traffic">Sett minimum databruk</string>
      <string name="manual_input_traffic">Sett databruk</string>
-     <string name="mi_service_app_detail">Data usage details</string>
+     <string name="megabyte_per_second">M/s</string>
+     <string name="mi_service_app_detail">Statistikk over dataforbruk</string>
      <string name="mi_service_framework">Mi tjenesterammeverk</string>
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Rammeverkdetaljer</string>
@@ -231,20 +235,20 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="network_roaming_exception_tips">"Kunne ikke bruke mobildata under roaming for å koble til nettverket."</string>
      <string name="network_route_exception_detail">"Det kan være et problem med ruteren du er koblet til:
 
- "&lt;b&gt;"1. Feil med Offentlig Wi-Fi-nettverk
-"&lt;/b&gt;"Hvis du er koblet til et offentlig Wi-Fi-nettverk, kan antall brukere som er koblet til dette nettverket skape hastighets- eller tilkoblingsproblemer. Bytt til et annet nettverk og prøv igjen.
+ "<b>"1. Feil med Offentlig Wi-Fi-nettverk
+"</b>"Hvis du er koblet til et offentlig Wi-Fi-nettverk, kan antall brukere som er koblet til dette nettverket skape hastighets- eller tilkoblingsproblemer. Bytt til et annet nettverk og prøv igjen.
 
- 2."&lt;b&gt;" Feil med internettleverandør
-S"&lt;/b&gt;"ørg for at kontoen din er i orden med din internettleverandør.
+ 2."<b>" Feil med internettleverandør
+S"</b>"ørg for at kontoen din er i orden med din internettleverandør.
 
- 3."&lt;b&gt;" Feil med ruterens maskinvare
-P"&lt;/b&gt;"røv å starte ruteren på nytt eller sjekke innstillingene til ruteren.
+ 3."<b>" Feil med ruterens maskinvare
+P"</b>"røv å starte ruteren på nytt eller sjekke innstillingene til ruteren.
 
- 4."&lt;b&gt;" Andre ruterfeil
-L"&lt;/b&gt;"es instruksjonene som fulgte med ruteren og prøv å gjenopprette ruteren til fabrikkinnstillinger
+ 4."<b>" Andre ruterfeil
+L"</b>"es instruksjonene som fulgte med ruteren og prøv å gjenopprette ruteren til fabrikkinnstillinger
 
- 5."&lt;b&gt;" Sørg for at ruteren er korrekt tilkoblet
-P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis du frytker at det er et problem med tilkoblingen i huset ditt, kontakt internettleverandøren din."</string>
+ 5."<b>" Sørg for at ruteren er korrekt tilkoblet
+P"</b>"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis du frytker at det er et problem med tilkoblingen i huset ditt, kontakt internettleverandøren din."</string>
      <string name="network_sim_exception_detail">"Det kan være et problem med SIM-kortet:
 
  1. Sørg for at din konto er i orden med din operatør. Prøv å bruke en SIM-kortet til en venn, og se om du klarer å koble til normalt.
@@ -256,7 +260,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="network_speed_for_apps_close_app_dlg_msg">Tving avslutning av denne appen?</string>
      <string name="network_speed_for_apps_close_system_app_dlg_msg">"Kan ikke tvinge avslutning av systemapper."</string>
      <string name="network_speed_for_apps_others">Andre</string>
-     <string name="network_speed_for_apps_title">Tilkoblinghastighet-detaljer</string>
+     <string name="network_speed_for_apps_title">Tilkobling</string>
      <string name="network_speed_for_apps_total">Tilkoblingshastighet</string>
      <string name="networkchanged_exception_summary">Nettverkstilkoblingen har blitt endret. Prøv igjen.</string>
      <string name="networkchanged_exception_title">Tilkobling endret</string>
@@ -374,7 +378,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatisk legg til apper med mulighet for datasparing til unntak</string>
      <string name="pref_traffic_saving_compressed">Komprimert</string>
      <string name="pref_traffic_saving_issue">FAQ</string>
-     <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Vil aktivering av datasparing påvirke mitt personvern? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Hvorfor fungerer ikke datasparing? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
+     <string name="pref_traffic_saving_issue_content">"<b> 1. Vil aktivering av datasparing påvirke mitt personvern? </b><br /><br />Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. <br /><br /><br /><b> 2. Hvorfor fungerer ikke datasparing? </b><br /><br /> Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
      <string name="pref_traffic_saving_no_compress">Ukomprimert</string>
      <string name="pref_traffic_saving_notify_switch">Vis i varslingsskygge</string>
      <string name="pref_traffic_saving_notify_switch_hint">Vis dataforbruksstatistikk i varslingsskyggen</string>
@@ -387,7 +391,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="pref_version">Versjon %s</string>
      <string name="pref_warning_values">Grense for databruk</string>
      <string name="pref_whitelist_setting">Håndter unntak</string>
-     <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine &lt;a href=%s&gt; Vilkår for bruk&lt;/a&gt;."</string>
+     <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine <a href=%s> Vilkår for bruk</a>."</string>
      <string name="privacy_declare_dialog_title">Vilkår for bruk</string>
      <string name="privacy_prompt_purchase_history_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for å hente  historikk over din mobildatabruk."</string>
      <string name="privacy_prompt_tc_sms_report_message">"Telefonnummeret ditt og operatørdetaljer vil bli sendt til Mi sine servere for oppdatere din databruksinformasjono."</string>
@@ -422,11 +426,11 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
      <string name="sc_allow_network_dialog_message">Du må tillate denne appen å koble til internett for å fungere normalt.</string>
      <string name="sc_allow_network_dialog_tiltle">"Kan ikke bruke datasparing"</string>
-     <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+     <string name="search_input_txt">"<font color='#ff0000'>%s</font>"</string>
      <string name="see_detail">Detaljer</string>
      <string name="setting_traffic_pkg">Velg datapakke</string>
      <string name="settings">Innstillinger for databruk</string>
-     <string name="show_traffic_dialog_message">Informasjon om ditt databruk vil bli vist i varslingskyggen. Du kan denne funksjonen av og på når som helst i Databruk &gt; Innstillinger</string>
+     <string name="show_traffic_dialog_message">Informasjon om ditt databruk vil bli vist i varslingskyggen. Du kan denne funksjonen av og på når som helst i Databruk > Innstillinger</string>
      <string name="show_traffic_dialog_title">Vis bruk i varslingsskyggen</string>
      <string name="signal_exception_summary">"Kan ikke koble til nettverket i dette området"</string>
      <string name="signal_exception_title">Svakt nettverkssignal</string>
@@ -458,7 +462,7 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="tc_sms_report_notify_get_timeout_body">Prosessen avbrutt. Bekreft med din operatør at SMS -henvendelsekoden du tastet inn er korrekt.</string>
      <string name="tc_sms_report_notify_get_timeout_title">"Kan ikke hente databruksrapport"</string>
      <string name="tc_sms_report_receive_content">Innholdet i databruk SMS-rapport (Bekreft dataforbruksstatistikk)</string>
-     <string name="tc_sms_report_receive_content_null">"Hjelp oss å forbedre denne funksjonen!&lt;br/&gt;Her er hvordan:&lt;br/&gt;1. Gå til \"Sjekk kommando-sms\" and \"Mottaksnummer\"&lt;br/&gt;2. Trykk \"Hent SMS-mal\"&lt;br/&gt;3. Vent på mottatt SMS-melding fra din operatør &lt;br/&gt;4. Trykk \"Last opp til MIUI\"​"</string>
+     <string name="tc_sms_report_receive_content_null">"Hjelp oss å forbedre denne funksjonen!<br/>Her er hvordan:<br/>1. Gå til \"Sjekk kommando-sms\" and \"Mottaksnummer\"<br/>2. Trykk \"Hent SMS-mal\"<br/>3. Vent på mottatt SMS-melding fra din operatør <br/>4. Trykk \"Last opp til MIUI\"​"</string>
      <string name="tc_sms_report_receive_num">Mottakerens telefonnummer</string>
      <string name="tc_sms_report_send_num">Operatørens telefonnummer</string>
      <string name="tc_sms_report_summary">Hjelp oss med å forbedre denne funksjonen ved å sende en rapport når ditt informasjonen om ditt databruk ikke er korrekt eller ikke oppdateres</string>
@@ -507,14 +511,14 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_limit_error_alert_title">Datagrense påminnelse %s</string>
      <string name="traffic_none">Ingen</string>
      <string name="traffic_over_purchase_body">Trykk for å vise detaljer.</string>
-     <string name="traffic_over_purchase_link">"Du har nådd mobilabonnementets dataforbruksgrense.&lt;br/&gt;Hvis du overskrider abonnementets databruksgrense, kan operatøren din belaste deg ytterlige avgifter.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Fyll opp nå og spar 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+     <string name="traffic_over_purchase_link">"Du har nådd mobilabonnementets dataforbruksgrense.<br/>Hvis du overskrider abonnementets databruksgrense, kan operatøren din belaste deg ytterlige avgifter.<br/><br/><font color='#0000ff'><U>Fyll opp nå og spar 50%.</U></font>"</string>
      <string name="traffic_over_purchase_title">Datagrense overskredet</string>
      <string name="traffic_protection_data_usage_summary">"Bruk som overskrider grensen i operatøren din sitt dataabonnement kan resultere i høye ekstrakostnader."</string>
      <string name="traffic_protection_label">Advarsel for databruk</string>
      <string name="traffic_protection_next">Neste</string>
      <string name="traffic_protection_summary">Lag alarm for når databruk når et visst nivå</string>
      <string name="traffic_protection_text_hint">Sett databruksgrense for %s</string>
-     <string name="traffic_protection_unknown">&lt;u&gt;Sett opp senere&lt;/u&gt;</string>
+     <string name="traffic_protection_unknown"><u>Sett opp senere</u></string>
      <string name="traffic_protection_use_data">Data aktivert</string>
      <string name="traffic_purchase_body">Spar 50% når du fyller opp nå.</string>
      <string name="traffic_purchse_suggestion">Datagrense overskredet</string>
@@ -530,8 +534,8 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_history_total_money_unit">¥</string>
      <string name="traffic_saving_history_total_month">"Spart denne måneden: "</string>
      <string name="traffic_saving_history_total_month_default">"Gjennomsnittlig spart denne måneden:"</string>
-     <string name="traffic_saving_history_total_month_value">"Hør på &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
-     <string name="traffic_saving_history_total_month_value_default">"Hør på &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
+     <string name="traffic_saving_history_total_month_value">"Hør på <font color='#45c487'><b><big>%1$s</big></b></font> sanger / Chat i <font color='#45c487'><b><big>%2$s</big></b></font> timer / Les <font color='#45c487'><b><big>%3$s</big></b></font> artikler"</string>
+     <string name="traffic_saving_history_total_month_value_default">"Hør på <font color='#45c487'><b><big>18</big></b></font> sanger / Chat i <font color='#45c487'><b><big>10</big></b></font> timer / Les <font color='#45c487'><b><big>86</big></b></font> artikler"</string>
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>
@@ -549,10 +553,10 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_optimized">Allerede optimalisert</string>
      <string name="traffic_saving_pic_compress_orig">Original</string>
      <string name="traffic_saving_ratio">Dataforbruk redusert %.2f%%</string>
-     <string name="traffic_saving_ratio_low">"Kan ikke betydlig redusere dataforbruk"</string>
-     <string name="traffic_saving_recommanded_close">Skru av dette valget</string>
-     <string name="traffic_saving_recommanded_open">Skru på dette valget</string>
-     <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatisk aktiver Datasparing for å redusere apper sitt mobildataforbruk&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Hvis du har et månedlig dataabonnement, husk å skru av Datasparing for individuelle apper for å unngå ekstra kostnader fra din operatør.&lt;/font&gt;"</string>
+     <string name="traffic_saving_ratio_low">"Kan ikke betydelig redusere dataforbruk"</string>
+     <string name="traffic_saving_recommanded_close">Skru av</string>
+     <string name="traffic_saving_recommanded_open">Skru på</string>
+     <string name="traffic_saving_start_tip_context">"<big><font color='#7F000000'>Automatisk aktiver Datasparing for å redusere apper sitt mobildataforbruk</font></big><br /><br /><font color='#FF000000'>Hvis du har et månedlig dataabonnement, husk å skru av Datasparing for individuelle apper for å unngå ekstra kostnader fra din operatør.</font>"</string>
      <string name="traffic_saving_start_tip_title">Aktiver</string>
      <string name="traffic_saving_tecsupport">Drevet av Opera</string>
      <string name="traffic_saving_tecsupport_international">Drevet av Opera Max</string>

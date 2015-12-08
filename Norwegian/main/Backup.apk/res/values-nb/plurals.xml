@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="edit_mode_title">
+     <plurals name="edit_mode_title">
         <item quantity="other">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>
-    </plurals>
+     </plurals>
+     <plurals name="trans_time_format_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+     </plurals>
+     <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minutt</item>
+     </plurals>
 </resources>

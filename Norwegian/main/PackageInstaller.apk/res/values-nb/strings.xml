@@ -15,6 +15,12 @@
      <string name="app_store_missing_message">"Det ser ut til at du ikke har installert vår offiselle App-butikk. Installer ned nå?"</string>
      <string name="app_store_missing_title">"App-butikk er ikke installert"</string>
      <string name="auto_startup_dialog_msg">"MIUI vil tillate appen å starte automatisk uten bekreftelse. Tillat Autostart?"</string>
+     <string name="btn_text_install_new_version">Seneste versjon</string>
+     <string name="btn_text_install_origin">Original versjon</string>
+     <string name="btn_text_install_security_version_in_appstore">Bytt ut med sikker versjon</string>
+     <string name="btn_text_scaning">Skanner…</string>
+     <string name="btn_text_security_install">Bytt ut med sikker versjon</string>
+     <string name="btn_text_security_scan">Full skann</string>
      <string name="button_text_cancel">Avbryt</string>
      <string name="button_text_delete">Slett</string>
      <string name="button_text_delete_timer">Slett (%d)</string>
@@ -28,7 +34,7 @@ Alle brukerinnstillingenr vil bli overskrevet."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).
 Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="dlg_app_replacement_title">Erstatt appen</string>
-     <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+     <string name="dlg_appstore_notice">Hent denne appen fra vår offisielle <u><font color=#91c727>App Store</font></u></string>
      <string name="dlg_ok">OK</string>
      <string name="dlg_sys_app_replacement_statement">"Dette er en systemapp. Ønsker du fortsatt å erstatte det? Alle tidligere brukerdata lagres."</string>
      <string name="done">Utfør</string>
@@ -52,6 +58,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="install_failed_system_incompatible">Dette programmet er ikke kompatibelt med MIUI ROM!</string>
      <string name="install_failed_verify_failed">Pakken kunne ikke bekreftes, og kan derfor ikke installeres.</string>
      <string name="install_failed_verify_timeout">Det oppsto timeout under forsøk på å bekrefte denne pakken. Prøv å installere den igjen senere.</string>
+     <string name="install_from_appstore_hint">Vi anbefaler at du installer appen fra <u><font color=#91c727>App-butikk</font></u></string>
      <string name="installing">Installerer ...</string>
      <string name="launch">Åpne</string>
      <string name="lift_ban">Tillat</string>
@@ -59,6 +66,12 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="low_risk_perms">Lavrisiko-tillatelser</string>
      <string name="manage_applications">Administrer apper</string>
      <string name="manage_device_administrators">Administrer enhetsadministratorer</string>
+     <string name="message_apk_checking">Rask skanning…</string>
+     <string name="message_appstore_verify_has_new_version">En nyere versjon av denne appen er tilgjengelig i vår App-butikk. Vil du installere den?</string>
+     <string name="message_appstore_verify_inconsistent">"Signaturen til denne appen er forskjellig fra den i App-butikke, det vil være tryggere å installere appen derfra."</string>
+     <string name="message_appstore_verify_ok">Denne versjonen av denne appen i App-butikken har bestått våre sikkerhesttester, vi anbefaler at du installerer appen derfra.</string>
+     <string name="message_install_in_market">Vi anbefaler at du installer appen fra App-butikken</string>
+     <string name="message_security_scaning">Full skanning…</string>
      <string name="newPerms">Nye</string>
      <string name="next">Neste</string>
      <string name="no_new_perms">Denne oppdateringen krever ingen nye tillatelser.</string>
@@ -122,4 +135,5 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
      <string name="virus_scan_is_risk">Dette programmet utgjør en risiko!</string>
      <string name="virus_scan_is_virus">Dette programmet er et virus, vennligst fjern det øyeblikkelig!</string>
+     <string name="waiting_tip">Dette kan ta en stund, men det er verdt det</string>
 </resources>

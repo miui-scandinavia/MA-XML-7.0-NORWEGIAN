@@ -153,6 +153,7 @@
      <string name="callrecordview_menu_show_sim">%s anrop</string>
      <string name="callrecordview_menu_show_stranger">Vis kun ukjente anrop</string>
      <string name="callrecordview_menu_show_title">Velg type anropshistorikk som skal vises</string>
+     <string name="calls_voip_prompt">VOIP</string>
      <string name="cancel_confirmation_dialog_message">Ønsker du å forkaste dine endringer?</string>
      <string name="cancel_confirmation_dialog_title">Avbryt</string>
      <string name="cancel_export_confirmation_message">Er du sikker på at avbryte eksport av %s?</string>
@@ -246,6 +247,7 @@ Kontaktkort er slått av"</string>
      <string name="contact_detail_profile_switch_on_subtitle">Trykk for å skru på kontaktkort.</string>
      <string name="contact_detail_profile_switch_on_success_toast">Kontaktkort er allerede på</string>
      <string name="contact_directory_description">Bibliotek %1$s</string>
+     <string name="contact_edit_save_error_empty">Kontakt er tom</string>
      <string name="contact_edit_title_edit">Rediger kontakt</string>
      <string name="contact_edit_title_insert">Lagre til %s</string>
      <string name="contact_edit_title_readonly">Skrivebeskyttet kontakt</string>
@@ -281,6 +283,7 @@ Kontaktkort er slått av"</string>
      <string name="create_group_dialog_title">Opprett ny gruppe</string>
      <string name="create_group_item_label">Opprett ny gruppe</string>
      <string name="create_qrcode_fail_message">"Kunne ikke opprette QR-kode"</string>
+     <string name="create_voip_shortcut_success">Snarvei opprettet</string>
      <string name="customLabelPickerTitle">Brukerdefinert etikettnavn</string>
      <string name="custom_list_filter">Definer brukerdefinert visning</string>
      <string name="custom_nickname_hint">Skriv kallenavn</string>
@@ -541,6 +544,7 @@ Kontaktkort er slått av"</string>
      <string name="import_all_vcard_string">Importer alle vCard-filer</string>
      <string name="import_contact_card_button">Importer kontakt</string>
      <string name="import_failure_no_vcard_file">Ingen vCard-filer funnet.</string>
+     <string name="import_from_onekey_migrate">Importer med overføring</string>
      <string name="import_from_other_phone">Importer fra annen telefon</string>
      <string name="import_from_sdcard">Importer fra lager</string>
      <string name="import_from_sim">Importer fra SIM-kort</string>
@@ -558,7 +562,7 @@ Kontaktkort er slått av"</string>
      <string name="import_to_xiaomi_account_progress_finish">Kontakt importert</string>
      <string name="import_to_xiaomi_account_progress_message">Importerer…</string>
      <string name="import_to_xiaomi_account_progress_title">Importer kontakter til Mi-konto</string>
-     <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
+     <string name="import_to_xiaomi_account_title">Importer til Mi-konto</string>
      <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
      <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
      <string name="import_weibo_error_no_matched_contacts">Ferdig med å oppdatere kontakter: ingen matchede kontakter</string>
@@ -580,6 +584,15 @@ Kontaktkort er slått av"</string>
      <string name="in_call_show_delete_message">Slett din video?</string>
      <string name="in_call_show_delete_title">Slett video?</string>
      <string name="in_call_show_demo_present">Forhåndsvis</string>
+     <string name="in_call_show_filter_brannan">Daggry</string>
+     <string name="in_call_show_filter_earlybird">Høst</string>
+     <string name="in_call_show_filter_jstyle">Japansk</string>
+     <string name="in_call_show_filter_mono">Mono</string>
+     <string name="in_call_show_filter_nashvile">Indigo</string>
+     <string name="in_call_show_filter_none">Normal</string>
+     <string name="in_call_show_filter_process_error">En feil oppsto, vennligst prøv igjen.</string>
+     <string name="in_call_show_filter_processing">Behandler...</string>
+     <string name="in_call_show_filter_vivid">Levende</string>
      <string name="in_call_show_guide_intro">"Ta opp en profilvideo
  som vil bli spilt på andre MIUI-brukere sine enheter når du ringer"</string>
      <string name="in_call_show_guide_start_recording">Ta opp nå</string>
@@ -705,7 +718,7 @@ Kontaktkort er slått av"</string>
      <string name="merge_contact_message">%1$d kontakter med delvis identiske data</string>
      <string name="messageShortcutActivityTitle">Velg en snarvei</string>
      <string name="message_from_you_prefix">Du: %s</string>
-     <string name="miprofile_account_type">Mi-konto</string>
+     <string name="miprofile_account_type">Kontaktkort</string>
      <string name="miprofile_alertdialog_edit">Skriv navn</string>
      <string name="miprofile_alertdialog_message">Vis dette navnet til kontaktene når du ber om å utveksle kort.</string>
      <string name="miprofile_alertdialog_title">Skriv navn</string>
@@ -732,7 +745,7 @@ Kontaktkort er slått av"</string>
      <string name="miprofile_request_clear_alertdialog_title">Tøm historikk</string>
      <string name="miprofile_request_deleted">Kort slettet</string>
      <string name="miprofile_request_empty_request">Ingen utvekslingsforespørsler</string>
-     <string name="miprofile_request_exchange_title">Forespørsel om kontaktkort</string>
+     <string name="miprofile_request_exchange_title">Spørr om kontaktkort</string>
      <string name="miprofile_request_menu_clear_request">Tøm historikk</string>
      <string name="miprofile_request_message">%1$s folk vil utveksle kontaktkort</string>
      <string name="miprofile_request_notification_message">Aksepter visning av dette profilbildet og annen info</string>
@@ -747,7 +760,7 @@ Kontaktkort er slått av"</string>
      <string name="miprofile_switch_on_alertdialog_title">Oppdater profilbilde</string>
      <string name="missing_app">Kunne ikke finne noen app som kan håndtere denne handlingen.</string>
      <string name="missing_name">ukjent</string>
-     <string name="more_call_logs">Mer anropshistorikk på i.mi.com</string>
+     <string name="more_call_logs">Vis detaljer anropshistorikk på i.mi.com</string>
      <string name="move_and_resize">Flytt og skaler</string>
      <string name="multipleContactDeleteConfirmation">sletting av denne kontakten vil slette opplysninger fra flere kontoer.</string>
      <string name="multipleContactDeleteConfirmationDetail">sletting av \"%s\" vil slette informasjon fra flere kontoer.</string>
@@ -808,6 +821,7 @@ for å legge til kontakt til favoritter:
      <string name="no_contacts_dialog_title">Kunne ikke finne kontakter</string>
      <string name="no_contacts_selected">Ingen kontakter funnet.</string>
      <string name="no_sdcard_message">Ingen lagring funnet.</string>
+     <string name="no_voip_contacts">Ingen Mi-tale kontakter</string>
      <string name="non_phone_add_to_contacts">Legg til kontaktpersoner</string>
      <string name="non_phone_caption">Telefonnummer</string>
      <string name="non_phone_close">Lukk</string>
@@ -815,7 +829,7 @@ for å legge til kontakt til favoritter:
      <string name="none_paired">Ingen enheter parret</string>
      <string name="not_applied">Ikke støttet</string>
      <string name="notification_action_voicemail_play">Avspill</string>
-     <string name="notification_new_voicemail_ticker">Ny voicemail fra %1$s</string>
+     <string name="notification_new_voicemail_ticker">Ny talepost fra %1$s</string>
      <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
      <string name="online_no_network">"Kan ikke koble til nettverk"</string>
      <string name="online_search_hint">Søk etter online ressurser</string>
@@ -840,7 +854,7 @@ for å legge til kontakt til favoritter:
      <string name="percent_sign">%</string>
      <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Telefon</string>
-     <string name="phone_call_type_voip">VOIP</string>
+     <string name="phone_call_type_voip">Mi-tale</string>
      <string name="phone_info_divider">"  |  "</string>
      <string name="phone_primary">Primær</string>
      <string name="photoPickerNotFoundText">Ingen bilder er tilgjengelige</string>
@@ -880,8 +894,8 @@ for å legge til kontakt til favoritter:
      <string name="pref_key_sim_manage1">Konfigurer SIM-kort 1</string>
      <string name="pref_key_sim_manage2">Konfigurer SIM-kort 2</string>
      <string name="pref_summary_import_from_account">Overfør kontakter fra Google og Exchange-kontoer til min Mi-konto</string>
-     <string name="pref_title_account_import">Importer fra konto</string>
-     <string name="pref_title_import_from_account">Importer fra Mi-konto</string>
+     <string name="pref_title_account_import">Importer kontakter</string>
+     <string name="pref_title_import_from_account">Importer til Mi-konto</string>
      <string name="preference_auto_ip_summary_disable">Av</string>
      <string name="preference_auto_ip_summary_on">"Leverandørs IP prefiks: %s"</string>
      <string name="preference_auto_ip_title">Automatisk IP</string>
@@ -1297,6 +1311,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="today_at_time_fmt">I dag kl. %s</string>
      <string name="tomorrow">I morgen</string>
      <string name="tomorrow_at_time_fmt">I morgen kl.%s</string>
+     <string name="transfer_accounts">Overfør kontoer</string>
      <string name="type_incoming">Innkommende anrop</string>
      <string name="type_missed">Tapte anrop</string>
      <string name="type_mx_msg">Skymeldinger</string>
@@ -1345,7 +1360,12 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="voicemail_status_configure_voicemail">Konfigurer din telefonsvarer.</string>
      <string name="voicemail_status_messages_waiting">Kan ikke opprette forbindelse med telefonsvareren. Nye voicemails venter.</string>
      <string name="voicemail_status_voicemail_not_available">Kan ikke opprette forbindelse med telefonsvareren.</string>
+     <string name="voip_contact_label">Mi-tale</string>
+     <string name="voip_contacts_entry">Mi-tale</string>
+     <string name="voip_loading_contact">Bare et sekund…</string>
      <string name="voip_name">Mi-tale</string>
+     <string name="voip_recommend_msg">Trykk for å bruke Mi-tale</string>
+     <string name="voip_shortcut_name">Mi-tale</string>
      <string name="websiteLabelsGroup">Hjemmeside</string>
      <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Slett kontakter</string>

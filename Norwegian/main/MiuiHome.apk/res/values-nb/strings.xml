@@ -28,6 +28,7 @@
      <string name="apply_as_lock_wallpaper_message">Bruk bakgrunnen på låseskjermen også?</string>
      <string name="apply_as_wallpaper">Hjemskjerm</string>
      <string name="apply_both">Sett begge</string>
+     <string name="apply_negative_action">"Ikke bruk"</string>
      <string name="aqi_quality_index_dangerous">Veldig farlig</string>
      <string name="aqi_quality_index_good">God</string>
      <string name="aqi_quality_index_hazardous">Farlig</string>
@@ -38,6 +39,7 @@
      <string name="buffering">Leser inn i buffer...</string>
      <string name="cancel_action">Avbryt</string>
      <string name="cancel_btn_label">Avbryt</string>
+     <string name="cant_edit_lock_screen">"Kan ikke endre låseskjermstil."</string>
      <string name="cant_remove_folder">Kan ikke flytte mappe som ikke er tom</string>
      <string name="cant_remove_retained_app">Behandler program. Kan ikke fjernes</string>
      <string name="cant_remove_system_app">Systemprogram. Kan ikke fjernes.</string>
@@ -127,7 +129,6 @@
      <string name="gadget_weather_loading">Ingen værdata</string>
      <string name="gadget_weather_low_temp">lav temperatur</string>
      <string name="gadget_weather_theme_type">Widget type</string>
-     <string name="gadget_weather_time_format">EEEE, MMMM dd</string>
      <string name="gadget_weather_title">Vær</string>
      <string name="gadget_weather_title_14">Vær 4X1</string>
      <string name="gadget_weather_title_24">Vær 2X4</string>
@@ -200,7 +201,7 @@
      <string name="process" />
      <string name="recommend_apps_default_title">Tom</string>
      <string name="recommend_apps_notice">Anbefalte apper</string>
-     <string name="recommend_apps_switch_summary">Vis anbefalte apper på bunnen av skjermen.</string>
+     <string name="recommend_apps_switch_summary">Vis anbefalte apper på bunnen av skjermen</string>
      <string name="recommend_apps_switch_title">Anbefalte apper</string>
      <string name="recommend_apps_tips">"Denne funksjonen trenger å koble til Internett for å fungere normalt. For å skru av denne funksjonen, trykk på mappens navn."</string>
      <string name="reset_scene_prompt">Layout vil bli nullstilt</string>

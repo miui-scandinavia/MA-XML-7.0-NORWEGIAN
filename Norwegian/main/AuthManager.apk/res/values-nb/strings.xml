@@ -85,6 +85,8 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_Bluetooth_Connectivity">Endre Bluetooth-tilkobling</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">skru Bluetooth av eller på</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s apper kan slå på Bluetooth</string>
+     <string name="HIPS_Perm_Body_Sensors">Kroppssensorer</string>
+     <string name="HIPS_Perm_Body_Sensors_Desc">Kroppssensorer (f.eks. Pulssensor)</string>
      <string name="HIPS_Perm_Calendar">Lese kalenderhendelser</string>
      <string name="HIPS_Perm_Calendar_Desc">lese din kalendehendelser</string>
      <string name="HIPS_Perm_Calendar_Hint">%1$s apper kan lese dine kalenderhendelser</string>
@@ -111,6 +113,8 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_DisableKeyguard_Desc">deaktivere skjermlåsen din</string>
      <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apper kan slå av skjermlåsen din</string>
      <string name="HIPS_Perm_EndCall">avslutte anrop</string>
+     <string name="HIPS_Perm_External_Storage">Få tilgang til og endre filer på intern lagring</string>
+     <string name="HIPS_Perm_External_Storage_Desc">"Legg til og slett filer på enhetens interne lagring"</string>
      <string name="HIPS_Perm_GetCallState">få tilgang til presis telefontilstand</string>
      <string name="HIPS_Perm_ListenCallState">lese presis telefontilstand</string>
      <string name="HIPS_Perm_Location">Hente plasseringsinfo</string>
@@ -144,8 +148,8 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_Notification">Vise varsler</string>
      <string name="HIPS_Perm_Notification_Desc">vise varsler i varselskyggen</string>
      <string name="HIPS_Perm_Notification_Hint">%1$s apper kan vise varsler</string>
-     <string name="HIPS_Perm_PhoneID">Lese enhetsidentitet</string>
-     <string name="HIPS_Perm_PhoneID_Desc">"lese enhetens IMEI og IMSI"</string>
+     <string name="HIPS_Perm_PhoneID">Hente enhetsinfo</string>
+     <string name="HIPS_Perm_PhoneID_Desc">Få tilgang til telefonnummer, IMEI og IMSI</string>
      <string name="HIPS_Perm_PhoneID_Hint">"%1$s apper kan lese enhetens IMEI og IMSI"</string>
      <string name="HIPS_Perm_PhoneID_ICCID">"lese enhetens ICCID"</string>
      <string name="HIPS_Perm_PhoneID_IMEI">"lese enhetens IMEI-nummer"</string>
@@ -215,6 +219,14 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_Xiaomi_Account">Mi-konto</string>
      <string name="HIPS_Perm_Xiaomi_Account_Desc">få tilgang til din Mi-konto</string>
      <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apper kan få tilgang til din Mi-konto</string>
+     <string name="HIPS_Perm_add_voicemail">Talemeldinger</string>
+     <string name="HIPS_Perm_add_voicemail_Desc">Legge til system-talemeldinger</string>
+     <string name="HIPS_Perm_get_accounts">Få tilgang til kontoer på enheten</string>
+     <string name="HIPS_Perm_get_accounts_Desc">Få tilgang til alle kontoer lagret på enheten</string>
+     <string name="HIPS_Perm_process_outgoing_calls">Få tilgang til telefon-app</string>
+     <string name="HIPS_Perm_process_outgoing_calls_Desc">Overvåke og avslutte anrop</string>
+     <string name="HIPS_Perm_use_sip">Videotjenester</string>
+     <string name="HIPS_Perm_use_sip_Desc">Bruk Session Initiation Protocol for å streame video</string>
      <string name="HIPS_SecurityPrompt_Accept">Tillat (%d)</string>
      <string name="HIPS_SecurityPrompt_AcceptRoot">Tillat</string>
      <string name="HIPS_SecurityPrompt_Accept_Once">Tillat en gang (%d)</string>
@@ -253,5 +265,23 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="SysOpt_Boost_Boot">Oppstart</string>
      <string name="SysOpt_Boost_Receiver">Bakgrunn</string>
      <string name="app_name">Tillatelsebehandling</string>
+     <string name="current_permission_template">%1$s of %2$s</string>
+     <string name="default_permission_description">utføre en ukjent handling</string>
+     <string name="grant_confirm_question">Ønsker du å gi følgende tillatelser? Det vil gi tilgang til:</string>
+     <string name="grant_dialog_button_allow">Tillat</string>
+     <string name="grant_dialog_button_deny">Nekt</string>
+     <string name="location_settings">Plasseringsinnstillinger</string>
+     <string name="location_warning">%1$s er en tilbyder av plasseringstjenester for denne enheten. Plaseringstilgang kan endres fra Plasseringsinnstillinger.</string>
+     <string name="never_ask_again">Ikke spørr igjen</string>
+     <string name="ok">OK</string>
+     <string name="permission_group_title_charges_related">Kostnader</string>
+     <string name="permission_group_title_media_related">Multimedia</string>
+     <string name="permission_group_title_privacy_related">Personvern</string>
+     <string name="permission_group_title_settings_related">Innstillinger</string>
+     <string name="permission_request_title">Tilgangsforespørsel</string>
+     <string name="permission_warning_template">Tillat %1$s til %2$s ?</string>
      <string name="permisson_reject_notice_toast_text">"\"%1$s\" har ikke tilgang til %2$s. Du kan endre app-tilganger når som helst i Sikkerhet &gt; Tillatelser."</string>
+     <string name="screen_overlay_button">Åpne innstillinger</string>
+     <string name="screen_overlay_message">For å endre denne tillatelsesinnstillingen, først skru av skjermoverlegg fra Innstillinger &gt; apper</string>
+     <string name="screen_overlay_title">Skjermoverlegg oppdaget</string>
 </resources>

@@ -33,6 +33,8 @@
      <string name="button_text_update">Oppdater</string>
      <string name="cancel_download">Stopp nedlasting av oppdateringen?</string>
      <string name="cancel_download_buton_text">Avbryt</string>
+     <string name="check_local_package_validate_error_button">OK</string>
+     <string name="check_local_package_validate_error_msg">"Kunne ikke verifisere oppdateringspakke."</string>
      <string name="check_new_version">Sjekk</string>
      <string name="check_update_policy">Oppdateringsinnstillinger</string>
      <string name="check_update_when_wifi_available">Sjekk kun ved bruk av Wi-Fi</string>
@@ -134,6 +136,17 @@
      <string name="open_now">Skru på</string>
      <string name="particular_build">Bestemt</string>
      <string name="pause">Pause</string>
+     <string name="pm_root_acquired_button">Rottilgang</string>
+     <string name="pm_root_acquired_notification_title">Får rottilgang</string>
+     <string name="pm_root_acquired_rooting">Får rottilgang %s</string>
+     <string name="pm_root_checking">Sjekker systeminfo…</string>
+     <string name="pm_root_fail_button_retry">Prøv på nytt</string>
+     <string name="pm_root_fail_msg">"Denne appen kan ikke få rotilgang. Prøv igjen."</string>
+     <string name="pm_root_fail_service_busy">Vent til enheten er ferdig med å oppdatere og prøv igjen.</string>
+     <string name="pm_root_fail_title">"Kunne ikke få rottilgang"</string>
+     <string name="pm_root_notification_download_title">Laster ned</string>
+     <string name="pm_root_success_msg">Start enheten på nytt får å fullføre siste steget.</string>
+     <string name="pm_root_success_title">Rottilgang aktivert</string>
      <string name="previous">Forrige</string>
      <string name="progress_title_checking">Ser etter oppdateringer…</string>
      <string name="reboot">Start på nytt</string>
@@ -147,6 +160,9 @@ http://zhushou.xiaomi.com"</string>
      <string name="recovery_power_not_enough_msg_plugged">Batteri må være over 15% før en enhet kan oppdatere</string>
      <string name="recovery_power_not_enough_title">Lavt batteri</string>
      <string name="repeat">Prøv igjen</string>
+     <string name="root_acquired">Tillat rottilgang</string>
+     <string name="root_agree_check_box_title">Jeg forstår risikoene med å ha rottilgang</string>
+     <string name="root_dangerous_msg">Å tillate rottilgang er ekstremt risikofylt og kan gjøre enheten og dine personlige data sårbare for angrep fra ondsinnede apper. Du godtar at du selv er ansvarlig for eventuelle skader på enheten eller tap av data som kan oppstå fra å tillate rottilgang.</string>
      <string name="set_auto">Se etter oppdateringer automatisk</string>
      <string name="set_auto_msg">Last ned oppdateringer automatisk når tilkoblet Wi-Fi.</string>
      <string name="set_auto_update_title">Last ned oppdateringer automatisk</string>
@@ -155,6 +171,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="set_installfail_title">Prøv å laste ned oppdatering igjen?</string>
      <string name="set_installfail_title_full">"Kan ikke oppdatere"</string>
      <string name="set_network_msg">For å laste ned denne oppdateringen, koble til et Wi-Fi-nettverk.</string>
+     <string name="set_network_root_msg">TFor å få rottilgang, koble til et Wi-Fi-nettverk.</string>
      <string name="set_network_title">Koble til Wi-Fi</string>
      <string name="set_only_wifi">Bare Wi-Fi</string>
      <string name="share">Del</string>
@@ -210,6 +227,8 @@ Men du kan ta del neste Mandag."</string>
      <string name="updater_nolog">Ingen oppdateringssammendrag.</string>
      <string name="updater_nonetwork">"Kan ikke koble til nettverket"</string>
      <string name="updater_nonetwork_clause">"Kan ikke koble til nettverket"</string>
+     <string name="updater_service_busy_msg">Denne appen bruker Oppdatering-tjenesten for å få rottilgang til nødvendige kildefiler.</string>
+     <string name="updater_service_busy_title">Oppdatering-tjenesten er opptatt</string>
      <string name="updater_wait_for_unzip">Pakker ut oppdatering…</string>
      <string name="upgrade_close">Lukk</string>
      <string name="upgrade_kernel">Systemkjernen er utdatert</string>

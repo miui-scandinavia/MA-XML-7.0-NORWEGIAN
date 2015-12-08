@@ -14,8 +14,8 @@
         <item quantity="one">Ringte %d gang</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d kontakter har ikke blitt synkronisert"</item>
-        <item quantity="one">"1 kontakt har blitt synkronisert"</item>
+        <item quantity="other">"%d kontakter eller bilder har ikke blitt synkronisert"</item>
+        <item quantity="one">"1 kontakt  eller bilde har blitt synkronisert"</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Slett %d kontakter fra SIM-kort?</item>
@@ -129,5 +129,9 @@
      <plurals name="smart_group_member_count">
         <item quantity="other">%d personer</item>
         <item quantity="one">1 person</item>
+     </plurals>
+     <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d personer</item>
+        <item quantity="one">%1$d person</item>
      </plurals>
 </resources>

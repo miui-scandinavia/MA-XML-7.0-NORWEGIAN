@@ -97,6 +97,9 @@
      <string name="menu_new_contact">Ny kontakt</string>
      <string name="menu_unlock">Fjern stjerne</string>
      <string name="menu_yellowpage">Vis %s</string>
+     <string name="message_block_confirmation">Bekreft blokkering?</string>
+     <string name="message_block_processing">behandler</string>
+     <string name="message_block_reminder">Påminnelse</string>
      <string name="message_failed">Feilet</string>
      <string name="message_pending">Sender</string>
      <string name="message_readed">Lest</string>
@@ -187,6 +190,7 @@
      <string name="restore_blocked_message">Gjenopprett melding</string>
      <string name="retrive_hms_tips">Henter…</string>
      <string name="save">Lagre</string>
+     <string name="scan_result">skann resultat</string>
      <string name="search_empty">Ingen treff</string>
      <string name="search_hint">Søk i meldinger</string>
      <string name="search_label">Meldinger</string>

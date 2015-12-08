@@ -306,12 +306,12 @@
         <item>always</item>
      </string-array>
      <string-array name="install_non_market_app_contents">
-        <item>Spørr om tillatelse</item>
-        <item>Tillat</item>
+        <item>Skru på</item>
+        <item>"Ikke bruk"</item>
      </string-array>
      <string-array name="install_non_market_app_entries">
-        <item>Spørr om tillatelse for risky apper</item>
-        <item>Tillat</item>
+        <item>Skru på (anbefalt)</item>
+        <item>"Ikke bruk (farlig)"</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Blå</item>

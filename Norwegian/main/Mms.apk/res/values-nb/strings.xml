@@ -290,6 +290,7 @@
      <string name="ex_type_mx">Mi-melding</string>
      <string name="ex_type_sms">SMS</string>
      <string name="exceed_message_size_limitation">Max meldingstørrelse nådd.</string>
+     <string name="exceed_message_size_limitation_add_slide">Meldingsstørrelsen er ikke nok for å legge til lysbilde</string>
      <string name="exceed_message_text_limitation">Maksgrense for tekstlengde i melding nådd.</string>
      <string name="expand_collapse_name_fields_description">Vis eller skjul navnefelt</string>
      <string name="expire_on">Utløper: %s</string>
@@ -343,8 +344,8 @@
      <string name="found_old_messages_title">Last opp meldinger</string>
      <string name="found_wild_messages">Fant %s meldinger fra et annet SIM-kort på MiCloud, vil du hente dem?</string>
      <string name="found_wild_messages_guide_cloud_desc">For å synke meldinger fra Mi Cloud, logg inn til din Mi-konto og aktiver synk SMS.</string>
-     <string name="found_wild_messages_guide_settings_desc">Synk SMS-meldinger fra Mi Cloud i meldingsinnstillinger.</string>
-     <string name="found_wild_messages_title">Synk SMS-meldinger fra Mi Cloud</string>
+     <string name="found_wild_messages_guide_settings_desc">Synk meldinger fra Mi Cloud i meldingsinnstillinger.</string>
+     <string name="found_wild_messages_title">Synk meldinger fra Mi Cloud</string>
      <string name="from_label">"Fra: "</string>
      <string name="full_name">Navn</string>
      <string name="ghostData_company">Firma</string>
@@ -489,6 +490,8 @@
      <string name="msg_type_hint_mms">MMS</string>
      <string name="msg_type_hint_mms_omit">MMS</string>
      <string name="msg_type_hint_mx">Mi-melding</string>
+     <string name="msg_type_hint_mx_b2c">Nettverksvarsel</string>
+     <string name="msg_type_hint_mx_b2c_omit">Nettverksvarsel</string>
      <string name="msg_type_hint_mx_omit">Mi Mld</string>
      <string name="msg_type_hint_sms">SMS</string>
      <string name="msg_type_hint_sms_omit">SMS</string>
@@ -499,6 +502,7 @@
      <string name="multimedia_message">Multimediamelding</string>
      <string name="multimedia_notification">Beskjed om MMS</string>
      <string name="mx2_type_description">[%s]</string>
+     <string name="mx_activate_allow_notice">Operatøren din kan belaste deg for en SMS-melding brukt for å aktivere gratis tekstmeldinger og taletjenester.</string>
      <string name="mx_activate_dlg_title">Aktiver Mi-melding</string>
      <string name="mx_activate_dlg_title_ex">Aktiver Mi-melding &amp; tale</string>
      <string name="mx_activate_error_malformed_info">Du må aktivere Mi-meldinger.</string>
@@ -520,6 +524,8 @@
      <string name="mx_auto_resend_sms">Send som SMS</string>
      <string name="mx_auto_resend_sms_summary">Send meldinger som SMS over mobildataforbindelsen når du ikke er tilkoblet Wi-Fi. Kostnad på meldinger fra operatør er gjeldende</string>
      <string name="mx_b2c_message_desc">Nettverksvarsler</string>
+     <string name="mx_b2c_message_resend_not_online">"Kunne ikke sende melding på nytt. Mi-melding er offline."</string>
+     <string name="mx_b2c_message_server">Server</string>
      <string name="mx_btn_enable">Aktiver</string>
      <string name="mx_btn_enable_now">Aktiver</string>
      <string name="mx_count_dspt">%1$d og %2$d MMS sendt</string>
@@ -550,6 +556,9 @@
      <string name="name_prefix">Første del av navnet</string>
      <string name="name_suffix">Siste del av navnet</string>
      <string name="need_download">Venter på synk...</string>
+     <string name="networking_allow_continue">OK</string>
+     <string name="networking_allow_desc">"Smartmeldinger lar deg sende gratis tekstmeldinger og tale, gjenkjenne ukjente numre, filtrere spam osv. Ved å bruke denne tjenesten, godtar du Xiaomi sine %1$s and %2$s. Du må skru på Gule sider og koble til Internett for å bruke denne tjenesten."</string>
+     <string name="networking_allow_title">OBS</string>
      <string name="new_message">Ny melding</string>
      <string name="new_message_arrived">Du har en ny melding</string>
      <string name="new_phrase">Ny setning</string>
@@ -600,6 +609,7 @@
      <string name="prefDefault_vibrate_false">never</string>
      <string name="prefDefault_vibrate_true">always</string>
      <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
+     <string name="pref_allow_network_access_summary">Skru på for å få seneste informasjon om levering og andre tjenester.</string>
      <string name="pref_collapse_sp_messages_summary">Kombiner tjenestetilbydermelding i samme innlegg</string>
      <string name="pref_edit_smsc_address">SMS-senter nummer</string>
      <string name="pref_forward_title">Videresend</string>
@@ -878,6 +888,7 @@
      <string name="timed_message_expired_title_2">Vil du sende dem nå?</string>
      <string name="timed_message_in_total">... (%d i alt)</string>
      <string name="timed_message_to">til</string>
+     <string name="title_allow_network_access">Oppdater info automatisk</string>
      <string name="title_collapse_sp_messages">Kombiner tjenestetilbydermeldinger</string>
      <string name="title_date_type">Melding tidsstempel</string>
      <string name="title_show_blocked_messages">Vis blokkerte SMS</string>
@@ -943,5 +954,6 @@
      <string name="warning_show">Send om %ds</string>
      <string name="websiteLabelsGroup">Nettsted</string>
      <string name="xiaomi_service_number">Servicenummer</string>
+     <string name="yellowpage_recommend_msg">"Prøv ut MIUI sine SMS-meldingfunksjoner"</string>
      <string name="yes">OK</string>
 </resources>

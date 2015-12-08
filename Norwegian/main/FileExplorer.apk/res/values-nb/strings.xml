@@ -4,8 +4,10 @@
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
      <string name="action_mode_select_all">Velg alle</string>
+     <string name="add_private_files">Legg til filer</string>
      <string name="add_task">Legg til oppgaver</string>
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
+     <string name="already_liked">"Du har alleredet favorisert denne tingen"</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
      <string name="app_name">Filutforsker</string>
      <string name="app_name_bluetooth">Bluetooth</string>
@@ -38,7 +40,9 @@
      <string name="can_not_send_with_too_many">"Kan ikke sende så mange elementer"</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_error">"Kunne ikke fjerne, prøv igjen"</string>
-     <string name="cancel_success">Fjerning vellykket, alle filer flyttet til sdcard/fileexplorer/decryption</string>
+     <string name="cancel_operation">Avbryt operasjon</string>
+     <string name="cancel_success">Fjerning vellykket, alle filer flyttet til %s</string>
+     <string name="cancelled_by_user">Operasjon feilet</string>
      <string name="category">Kategorier</string>
      <string name="category_all">Alle</string>
      <string name="category_apk">APKer</string>
@@ -61,6 +65,7 @@
      <string name="category_zip">Arkiv</string>
      <string name="choose_send_type">Velg forsendelsetype</string>
      <string name="choose_upload_location">Velg opplastingsplassering</string>
+     <string name="clean_hint">Trykk for å frigjøre plass</string>
      <string name="clean_message">%1$s plass frigjort</string>
      <string name="clean_title">Slett filer fra papirkurven som er eldre enn 30 dager</string>
      <string name="clean_trash_box">Tøm papirkurv</string>
@@ -80,6 +85,12 @@
      <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
      <string name="create_new_folder_failed">Kunne ikke opprette mappe</string>
      <string name="create_share_link_description">Oppretter delingslink…</string>
+     <string name="create_shortcut_cancel">Nei takk</string>
+     <string name="create_shortcut_checkbox_hint">"Ikke vis igjen"</string>
+     <string name="create_shortcut_confirm">Opprett</string>
+     <string name="create_shortcut_message">Du bruker Filutforsker veldig ofte. Vil du opprette en snarvei på hjemskjermen for å administere filer raskere?</string>
+     <string name="create_shortcut_success">Snarvei opprettet</string>
+     <string name="create_shortcut_title">Opprett en snarvei</string>
      <string name="cution">Tips</string>
      <string name="data_capacity">Data %1$s</string>
      <string name="data_consumption_cancel">Avbryt</string>
@@ -117,19 +128,21 @@
      <string name="dialog_type_image">Bilde</string>
      <string name="dialog_type_text">Tekst</string>
      <string name="dialog_type_video">Video</string>
-     <string name="dir_not_support">"This folder can't be made private."</string>
+     <string name="dir_not_support">"Denne mappen kan ikke skjules."</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Tom mappe</string>
      <string name="dlg_error_unmount_text">"Kunne ikke koble fra USB-lagring. Prøv igjen senere."</string>
      <string name="download_current_progress">%1$d/100</string>
      <string name="download_failed">Nedlasting mislyktes</string>
      <string name="download_link_completed">Jeg har delt %1$s via KuaiPan. Klikk på linken under for å se: </string>
+     <string name="downloaded_sticker_str">Lastet ned</string>
      <string name="downloading">Laster ned…</string>
      <string name="downloading_in_3g">Laster ned med 3G…</string>
      <string name="enable_sd_card">Ingen SD-kort tilgjengelig. Vennligst sett inn, eller avmonter fra USB-lagring</string>
-     <string name="encrypt_error">"Couldn't make files private, try again"</string>
-     <string name="encrypt_success">All files made private</string>
-     <string name="encrypting">Encrypting…</string>
+     <string name="encrypt_error">"Kunne ikke skjule filer, prøv igjen"</string>
+     <string name="encrypt_prefix">SKJULT</string>
+     <string name="encrypt_success">Alle filer skjult</string>
+     <string name="encrypting">Krypterer…</string>
      <string name="error_filename_too_long">Filnavn er for langt</string>
      <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
      <string name="error_open_file_failed_no_app_found">Ingen program funnet for å åpne filen</string>
@@ -176,6 +189,8 @@
      <string name="group_title_extra_backup">Sikkerhetskopier</string>
      <string name="group_title_extra_expire">I ferd med å utløpe</string>
      <string name="group_title_extra_new">Ny</string>
+     <string name="if_cancel">Avbryt denne handlingen?</string>
+     <string name="image_loading_error">"Kunne ikke laste bilde"</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
      <string name="just_now">Akkurat nå</string>
@@ -209,16 +224,18 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="loading">Laster inn</string>
      <string name="local_image">Bilder</string>
      <string name="local_music">Musikk</string>
-     <string name="local_sticker_str">Lastet ned</string>
+     <string name="local_sticker_str">Offline</string>
      <string name="local_video">Video</string>
      <string name="login_reg_content">Oppbevar filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">Bruk Kuaipan fra hvorsomhelst.</string>
-     <string name="make_private">Gjør privat</string>
+     <string name="make_private">Skjul</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Filopprydding</string>
      <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Søk</string>
      <string name="menu_item_sort">Sorter på</string>
+     <string name="menu_item_sort_add_time">"Opprettet "</string>
+     <string name="menu_item_sort_by_added_time">Lagt til</string>
      <string name="menu_item_sort_date">Dato</string>
      <string name="menu_item_sort_name">Navn</string>
      <string name="menu_item_sort_size">Størrelse</string>
@@ -270,12 +287,9 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="network_spent_reminding_title">Dataforbruksvarsel</string>
      <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
      <string name="new_folder_name">Ny mappe</string>
-     <string name="new_function">Om private mapper</string>
-     <string name="new_function_info">"Privat mappe er en ny MIUI-funksjon.
-Du kan kryptere filene dine
-og lagre dem på et trygt sted.
-
-Trekk ned på hjemmesiden for å sjekke det ut."</string>
+     <string name="new_function">Skjule mapper</string>
+     <string name="new_function_info">For å opprette en skjult mappe, dra ned til bunnen av skjermen
+fra den første linja med ikoner på startskjermen.</string>
      <string name="new_function_str">"WeChat-klistremerker kan nå hentes automatisk.
 Last dem når du vil
 og aldri glipp av de kule nye!"</string>
@@ -283,6 +297,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="no">Nei</string>
      <string name="no_app_tags">Tom</string>
      <string name="no_display_file">"Kan ikke vise %1$s"</string>
+     <string name="no_downloaded_sticker_tip">"Kunne ikke finne nedlastede klistremerker. Sjekk ut klistemerkene delt av Mi fans."</string>
      <string name="no_enough_storage_indication">Ikke nok lagringsplass tilgjengelig, kopering mislykkes. Vennligst slett unødvendige filer og prøv igjen, eller bruke Filopprydding for å frigjøre plass.</string>
      <string name="no_enough_storage_title">Ikke nok lagringsplass tilgjengelig</string>
      <string name="no_file">Ingen filer</string>
@@ -295,15 +310,19 @@ og aldri glipp av de kule nye!"</string>
      <string name="no_wifi_hint">Ingen Wi-Fi-forbindelse funnet, trykk for å kontrollere innstillinger</string>
      <string name="notif_server_starting">FTP-Server startet</string>
      <string name="notif_title">FTP-Server kjører</string>
-     <string name="notification_content_hint">Trykk for å vise</string>
+     <string name="notification_content_hint">Trykk for å vise WeChat-videoer som er i ferd med å utløpe</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
-     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
-     <string name="notification_title">Varsle når nye filer er lagt til i %1$s</string>
+     <string name="notification_title">Når %1$s oppretter en fil</string>
+     <string name="notification_wechat_expired_empty">WeChat har allerede slettet disse videoklippene.</string>
+     <string name="notification_wechat_sticker_hint">Vis varsel når nye WeChat-klistremerker er tilgjengelig</string>
+     <string name="notification_wechat_sticker_switch_title">Daglig varsel for nytt klistremerke</string>
      <string name="notification_wechat_title">Varsle meg når en WeChat-video er i ferd med å utløpe</string>
+     <string name="notify_private_folder_msg">Trykk for å lære mer.</string>
+     <string name="notify_private_folder_title">Opprett skjult mappe</string>
      <string name="online_not_support">"Kunne ikke vise denne filen på nettet for øyeblikket."</string>
      <string name="open_changed_file_message">"Filen du prøver å endre har blitt modifisert,  du kan:
 1. Laste ned (oppdatere den lokale filen)
@@ -334,9 +353,11 @@ og aldri glipp av de kule nye!"</string>
      <string name="operation_favorite">Favoritter</string>
      <string name="operation_hide_sys">"Ikke vis skjulte"</string>
      <string name="operation_info">Detaljer</string>
+     <string name="operation_like">Favoritt</string>
      <string name="operation_move">Klipp ut</string>
      <string name="operation_moving">Flytter...</string>
      <string name="operation_moving_detail">Klipper ut filer (%1$d/%2$d)</string>
+     <string name="operation_other_apps">Åpne i annen app</string>
      <string name="operation_paste">Lim inn</string>
      <string name="operation_pasting">Kopierer...</string>
      <string name="operation_pause">Pause</string>
@@ -351,18 +372,23 @@ og aldri glipp av de kule nye!"</string>
      <string name="operation_show_sys">Vis skjulte</string>
      <string name="operation_unfavorite">Fjern fra Favoritter</string>
      <string name="pan_settting">KuaiPan-innstillinger</string>
-     <string name="partial_cancel_successful">"Kunne ikke fjerne noen filer. Resten av filene erflyttet til sdcard/fileexplorer/decryption"</string>
+     <string name="partial_cancel_successful">"Kunne ikke fjerne noen filer. Flyttet resten av filene til %s."</string>
      <string name="partial_delete_failure">"Klarte ikke å slette noen filer, prøv igjen"</string>
-     <string name="partial_encrypt_success">"Kunne ikke gjøre noen filer private, prøv igjen"</string>
+     <string name="partial_encrypt_success">"Kunne ikke gjøre skjule noen filer, prøv igjen"</string>
      <string name="partial_repair_done">Noen filer ble gjenopprettet</string>
      <string name="paused">På pause</string>
      <string name="petabyteShort">PB</string>
      <string name="phone">Telefon</string>
+     <string name="pick_folder">Velg mappe</string>
      <string name="port_range">Port må være mellom 1024–65535</string>
-     <string name="private_files">Privat</string>
-     <string name="private_folder">Privat mappe</string>
+     <string name="private_files">Skjult</string>
+     <string name="private_folder">Skjult mappe</string>
+     <string name="private_toast_hint1">Trykk for å legge til filer i skjulte mapper</string>
+     <string name="private_toast_hint2">For å skjule filer, trykk og hold på den, så legg til i skjult mappe.</string>
+     <string name="private_toast_hint3">Dra ned for å åpne skjulte mapper</string>
      <string name="promot_enctypt_password">Skriv inn passordet som brukes til å låse opp enheten, eller for å slå av barnemodus</string>
-     <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
+     <string name="pull_to_signin">Dra ned for å logge inn.</string>
+     <string name="qq_not_installed">"QQ er ikke installert"</string>
      <string name="release_to_signin">Slipp for å logge inn</string>
      <string name="rename_alert">"Hvis du endrer filtypen til denne filen, kan du miste mulighet til å åpne den."</string>
      <string name="rename_description">Gir nytt navn, vennligst vent…</string>
@@ -377,6 +403,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="rlv_pull_to_refresh">Dra for å oppdatere</string>
      <string name="rlv_refreshing">Skanner filer…</string>
      <string name="rlv_release_to_refresh">Slipp for å oppdatere</string>
+     <string name="save_to_local">Last ned</string>
      <string name="sd_card_available">Tilgjengelig: %1$s</string>
      <string name="sd_card_size">SD-kort: %1$s</string>
      <string name="sd_full">SD-kort fullt</string>
@@ -387,6 +414,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="search_app">Kilde</string>
      <string name="search_app_more">Mer</string>
      <string name="search_category">Type</string>
+     <string name="search_description">Søk i alle filer på enheten</string>
      <string name="search_empty_view_hint">Ingen resultater</string>
      <string name="search_error_hint">Skriv søkeord for å søke</string>
      <string name="search_file_type_apk">Apk</string>
@@ -403,6 +431,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="search_keyword_messge">Ekspress</string>
      <string name="search_keyword_news">Nyheter</string>
      <string name="search_keyword_wallet">Lommebok</string>
+     <string name="search_result">Resultater</string>
      <string name="search_result_hint1">Relatert</string>
      <string name="search_result_hint2">Alle</string>
      <string name="search_result_hint3">" "</string>
@@ -413,11 +442,14 @@ og aldri glipp av de kule nye!"</string>
      <string name="search_result_more">Mer</string>
      <string name="search_title">Søk</string>
      <string name="search_title_hint">Søk</string>
+     <string name="select_dest_folder">Select folder</string>
      <string name="select_image">Velg bilder</string>
      <string name="select_music">Velg sanger</string>
      <string name="select_video">Velg videoer</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Denne filtypen støttes ikke</string>
+     <string name="send_to_qq">Send til QQ</string>
+     <string name="send_to_weixin">Send til WeChat</string>
      <string name="server_control_advanced_settings">Avanserte innstilinger</string>
      <string name="server_control_charset">Overføringskoding</string>
      <string name="server_control_settings">Innstillinger</string>
@@ -473,17 +505,19 @@ og aldri glipp av de kule nye!"</string>
      <string name="tools">VERKTØY</string>
      <string name="trans_task">Nettverksoverføring</string>
      <string name="transfer_done">Filer flyttet.</string>
-     <string name="transfer_private_data">Flytter private filer fra SD-kort…</string>
+     <string name="transfer_private_data">Flytter skjulte mapper fra SD-kort…</string>
      <string name="transing">Overfører…</string>
      <string name="trash_box_capacity">Papirkurv %1$s</string>
      <string name="trash_box_link">For å tømme papirkurven, besøk &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
      <string name="trash_box_message1">"Du kan slette unødvendige filer for å frigjøre plass</string>
      <string name="trash_box_message2">"Du kan slette unødvendige filer eller tømme papirkurven for å frigjøre plass</string>
+     <string name="type_not_support">"Dette filformatet er ikke støttet. Pakk ut filen og prøv igejn."</string>
      <string name="ui_filechange_btn_download">Last ned filer</string>
      <string name="ui_filechange_btn_upload">Last opp filer</string>
      <string name="ui_main_menu_option_sign_in">Logg inn</string>
      <string name="ui_main_menu_option_task_manage">Håndtering av overføringer</string>
      <string name="ui_main_progress_txt_open_file">Laster ned...</string>
+     <string name="ui_main_toast_favorite_added">Favorittmerket</string>
      <string name="ui_main_toast_favorite_removed">Favoritter fjernet</string>
      <string name="ui_main_toast_operation_failed">Fjerning av %1$s mislyktes.</string>
      <string name="unmount_inform_text">USB-lagring vil bli avmontert.</string>
@@ -510,7 +544,8 @@ og aldri glipp av de kule nye!"</string>
      <string name="waiting">Venter...</string>
      <string name="wangpan_root_path">Min disk</string>
      <string name="wechat_video">Video på %s</string>
-     <string name="weixin_sticker_tag_str">WeChat-klistremerker</string>
+     <string name="weixin_not_installed">"WeChat er ikke installert"</string>
+     <string name="weixin_sticker_tag_str">Klistremerker</string>
      <string name="wifi_state">Wi-Fi-status</string>
      <string name="xiaomi_account">Mi-konto</string>
      <string name="year_month_day_format">MMM dd, yyyy</string>

@@ -238,6 +238,8 @@
      <string name="china_mobile">China Mobile</string>
      <string name="china_telecom">China Telecom</string>
      <string name="china_unicom">China Unicom</string>
+     <string name="chose_product_summary">Call cheaper</string>
+     <string name="chose_product_title">Top-up package</string>
      <string name="clir_choices_hide_number">Skjul nummer</string>
      <string name="clir_choices_network_default">Nettverk standard</string>
      <string name="clir_choices_show_number">Vis nummer</string>
@@ -593,6 +595,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="list_language_dtitle">Språk</string>
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
+     <string name="livetalk_about">About</string>
      <string name="livetalk_about_info">About</string>
      <string name="livetalk_about_info_content">"V0.9 beta (Service number short codes aren't supported at the moment. You need to connect to the internet to use this feature. Each call uses 1Kb of mobile data. Turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.)"</string>
      <string name="livetalk_activate">Activate top-up package</string>
@@ -603,6 +606,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_activate_summary">Your carrier may charge for an SMS message used to verify this service.</string>
      <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
      <string name="livetalk_avaiable_minute">%1$s minutes remaining</string>
+     <string name="livetalk_before_provision">"I've read and accepted"</string>
      <string name="livetalk_charge_now">Top up</string>
      <string name="livetalk_complete">Done</string>
      <string name="livetalk_complete_domestic_phone">Make domestic calls using top-up package.</string>
@@ -611,6 +615,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_complete_name">Switch to top-up package</string>
      <string name="livetalk_complete_title">Call to complete top-up</string>
      <string name="livetalk_continue_button">Continue</string>
+     <string name="livetalk_continue_button_creat_account">Create account</string>
      <string name="livetalk_creat_account_fialed">Account error</string>
      <string name="livetalk_dial_direct">Ring direkte</string>
      <string name="livetalk_experience_button">Prøv nå</string>
@@ -627,7 +632,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_nsufficient_balance">Insufficient balance</string>
      <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
      <string name="livetalk_package_name">Top up balance</string>
-     <string name="livetalk_provision">Terms of Service</string>
+     <string name="livetalk_provider">Provided by %1$s</string>
+     <string name="livetalk_provision">Vilkår for bruk</string>
      <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
      <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
      <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
@@ -636,10 +642,15 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
      <string name="livetalk_user_config_title">Aktiver SIM-kort</string>
      <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
+     <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minute for domestic calls and ¥ 0.3 for international.
+• Call any phone in the world, there are no carrier restrictions.
+• Top up and start calling, there are no complicated settings."</string>
+     <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
      <string name="livetalk_white_list_number_title">Ring direkte uten å bruke oppfyllingspakke</string>
      <string name="load_networks_progress">Søker…</string>
      <string name="load_rates_failed">"Kunne ikke laste"</string>
      <string name="loading">Baree et sekund…</string>
+     <string name="loading_product">Just a sec…</string>
      <string name="loading_recent_failed">"Kunne ikke laste"</string>
      <string name="local_disable">Lokalnyheter er av</string>
      <string name="local_enable">Lokalnyheter er på</string>
@@ -775,6 +786,7 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="no_internet_available_title">Ingen Internett-tilkobling</string>
      <string name="no_more">Ikke flere</string>
      <string name="no_product_list">Tom</string>
+     <string name="no_sim_card">Sett inn SIM-kort</string>
      <string name="no_sip_account_found">Det er ingen konto for Internett-anrop på denne telefonen. Vil du legge til en nå?</string>
      <string name="no_sip_account_found_title">Ingen konto for Internett-anrop</string>
      <string name="no_vm_number">Mangler nummer til telefonsvarer</string>
@@ -836,7 +848,7 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="open_miui">Åpne</string>
      <string name="optional_summary">&lt;Valgfritt&gt;</string>
      <string name="order_by_name">Alfabetisk</string>
-     <string name="order_by_recent">Ofte brukt</string>
+     <string name="order_by_recent">Frekvens</string>
      <string name="order_id">Ordre-ID: %1$s</string>
      <string name="order_price">¥ %1$s</string>
      <string name="order_status_fail">Order status: failed</string>
@@ -1026,12 +1038,19 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="puk_unlocked">SIM-kortet er blitt avblokkert. Telefonen låses opp…</string>
      <string name="purchase">Purchase</string>
      <string name="purchase_confirm">Purchase</string>
+     <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
+- No conflicts with your current plan.
+- Top up and start calling.
+- There are no complicated settings."</string>
+     <string name="purchase_description_title">About</string>
      <string name="purchase_limit">You reached the top up limit</string>
      <string name="purchase_list">Purchase history</string>
+     <string name="purchase_notes">"Note: It can be used for international calls. Top-up package allows you to pay the same amount of money for 50 minutes of calls as you would've paid for 8 minutes without using this service."</string>
      <string name="purchase_notification">"Prices above are for domestic calls. For international calls see the "</string>
      <string name="purchase_notification_title">Check supported regions</string>
      <string name="purchase_rates_title">Rates</string>
      <string name="query">Query</string>
+     <string name="quickly_verify">Verify</string>
      <string name="radio_off_error">Slå på radioen før du ser på disse innstillingene.</string>
      <string name="rates_correspond">Corresponding rates.</string>
      <string name="rc_unlock_failed">RUIM Erhverv opplåsingsforespørsel mislykket.</string>
@@ -1062,6 +1081,10 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="reject_via_sms">Hurtigsvar</string>
      <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-meldinger</string>
      <string name="reject_via_sms_title">Hurtigsvar</string>
+     <string name="remain_mins_divider">or</string>
+     <string name="remain_mins_domestic">Remaining (domestic)</string>
+     <string name="remain_mins_international">Remaining (international)</string>
+     <string name="remain_mins_unit">min</string>
      <string name="remember_my_choice">Standardvalg for Internett-anrop</string>
      <string name="remind_another_time">"Ikke vis igjen"</string>
      <string name="remove">Slett</string>
@@ -1283,6 +1306,7 @@ Neste periode starter om %2$d dager (%3$s)"</string>
      <string name="title_rates">Priser</string>
      <string name="title_user_config">Aktiver SIM-kort</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
+     <string name="top_up_first">Top-up first</string>
      <string name="transport">Protocol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_entries_full">TTY Full</string>
@@ -1310,10 +1334,14 @@ Neste periode starter om %2$d dager (%3$s)"</string>
      <string name="use_history_duration_min">%1$s min</string>
      <string name="use_history_endtime">Avsluttet: %1$s</string>
      <string name="use_history_starttime">Startet: %1$s</string>
+     <string name="use_range">Features</string>
      <string name="username">UserName</string>
      <string name="username_title">Brukernavn</string>
      <string name="ussdRunning">USSD-kode kjører…</string>
      <string name="ussd_dialog_sep">----------</string>
+     <string name="verified">Verifisert</string>
+     <string name="verify_fialed">"Kunne ikke verifisere"</string>
+     <string name="verifying">Verifiserer</string>
      <string name="vibrate_on_ring_title">Vibrering når det ringer</string>
      <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.
 Kontakt operatøren din hvis dette problemet vedvarer."</string>

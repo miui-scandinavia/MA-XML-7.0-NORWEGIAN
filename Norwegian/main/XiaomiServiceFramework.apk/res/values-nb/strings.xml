@@ -3,13 +3,23 @@
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Aktiver</string>
+     <string name="activate_auto_sms_notification_desc_1_card">SMS sendt for å aktivere \"Finn enhet\"</string>
+     <string name="activate_auto_sms_notification_desc_2_cards">SMS sendt fra SIM-kort %s for å aktivere \"Finn enhet\"</string>
+     <string name="activate_auto_sms_notification_title">Aktivering av SIM-kort</string>
      <string name="activate_feature_call_log_sync">Synk anropshisstorikk</string>
      <string name="activate_feature_find_device">Finn enhet</string>
+     <string name="activate_feature_live_talk">Telefonoppfyllingspakke</string>
      <string name="activate_feature_mms_sync">Synk SMS meldinger</string>
      <string name="activate_feature_mx">Mi-melding</string>
      <string name="activate_feature_mx_and_voip">Mi-melding og tale</string>
+     <string name="activate_feature_register_xiaomi_account">Oppsett av Mi-konto</string>
+     <string name="activate_feature_verify_mx_token">Mi-kontoverifisering</string>
+     <string name="activate_phone_cancel_notif_title">Aktivering av SIM-kort avbrutt</string>
+     <string name="activate_phone_cancel_notif_title_msim">Aktivering av SIM-kort %s avbrutt</string>
      <string name="activate_phone_failed_notif_title">"Kan ikke aktivere SIM-kort"</string>
      <string name="activate_phone_failed_notif_title_msim">"Kan ikke aktivere SIM-kort %s"</string>
+     <string name="activate_phone_success_notif_title">SIM-kort aktivert</string>
+     <string name="activate_phone_success_notif_title_msim">SIM-kort %s aktivert</string>
      <string name="activate_popup_confirm_all_gateway_failed_query_info">Prøv på nytt</string>
      <string name="activate_popup_confirm_all_gateway_failed_send_sms">Prøv på nytt</string>
      <string name="activate_popup_confirm_failed_phone_error">Prøv på nytt</string>
@@ -29,6 +39,7 @@ Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</
      <string name="activate_popup_desc_failed_receive_sms">Vær sikker på at telefonnummeret du skrev er korrekt og at SIM-kortet ditt er aktivert.</string>
      <string name="activate_popup_desc_failed_send_sms">"Kunne ikke sende aktiveringsmelding. Sørg for at SIM-kortet har blitt aktivert."</string>
      <string name="activate_popup_desc_failed_server">Sjekk nettverksforbindelsen og prøv igjen.</string>
+     <string name="activate_popup_desc_find_device_postfix">En aktiverings-SMS vil bli sendt etter at du bytter SIM-kort.</string>
      <string name="activate_popup_desc_intl_sim_card">Operatøren din kan belaste deg for den internasjonale SMS-meldingen brukt for å aktivere %s.</string>
      <string name="activate_popup_desc_mixed_sim_cards">Operatøren din kan belaste deg for 1 innenlands og 1 internasjonal SMS-melding brukt for å aktivere %s.</string>
      <string name="activate_popup_desc_new_2_intl_sim_cards">"Ser ut til at du har byttet SIM-kort. Operatøren din kan belaste deg for de 2 internasjonale SMS-meldingene brukt for å aktivere %s på nytt."</string>
@@ -64,6 +75,7 @@ Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</
      <string name="activate_status_desc_acquire_phone_number_server_no_info">"Kunne ikke hente telefonnummer"</string>
      <string name="activate_status_desc_checking_xiaomi_account">Sjekker etter Mi-konto…</string>
      <string name="activate_status_desc_checking_xiaomi_account_server_error">serverfeil oppsto under sjekking av Mi-konto</string>
+     <string name="activate_status_desc_completed_with_sms_sent">Sendt SMS for å aktivere SIM</string>
      <string name="activate_status_desc_failed_getting_gateway">"Kunne ikke hente SMS-gateway"</string>
      <string name="activate_status_desc_getting_gateway">Henter SMS-gateway…</string>
      <string name="activate_status_desc_getting_sim_info">Henter SIM-kort-info</string>

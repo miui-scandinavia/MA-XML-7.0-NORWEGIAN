@@ -75,7 +75,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="screen_on_proximity_sensor_hint">For å slå av denne funksjonen, trykk Tilbake og Volum Opp-knappene samtidig.</string>
      <string name="screen_on_proximity_sensor_summary">"Ikke dekk til det oransje området på skjermen"</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
-     <string name="screen_paper_mode_enter_toast">Lesemodus er på. Du kan skru denne funksjonen av og på når som helst i in Flere innstillinger &gt; Lesemodus.</string>
+     <string name="screen_paper_mode_enter_toast">Lesemodus er på. Du kan skru denne funksjonen av og på når som helst i in Skjerminnstillinger &gt; Lesemodus.</string>
      <string name="screen_rotation_freeze_message">Auto-rotering deaktivert.</string>
      <string name="select">Velg</string>
      <string name="select_all">Velg alle</string>

@@ -57,6 +57,14 @@
         <item quantity="few">Mottok %1$d filer av app %2$s</item>
         <item quantity="many">Mottok %1$d filer av app %2$s</item>
      </plurals>
+     <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="zero">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="one">%1$d nye WeChat-klistremerke i dag</item>
+        <item quantity="two">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="few">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="many">%1$d nye WeChat-klistremerker i dag</item>
+     </plurals>
      <plurals name="file_notify_title_wechat_video">
         <item quantity="other">Mottok %1$d filer av WeChat</item>
         <item quantity="zero">Mottok %1$d filer av WeChat</item>

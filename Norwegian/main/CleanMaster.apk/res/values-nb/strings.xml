@@ -10,7 +10,7 @@
      <string name="activity_title_ignored_image">Ignorert</string>
      <string name="activity_title_image_gallery">Slett duplikater</string>
      <string name="activity_title_large_file">Store filer</string>
-     <string name="activity_title_news">Nyherer</string>
+     <string name="activity_title_news">Nyheter</string>
      <string name="activity_title_privacy_cache">Mellomlager for personvern</string>
      <string name="activity_title_residual">Rester</string>
      <string name="activity_title_scanfinish">Skann fullført</string>
@@ -64,6 +64,7 @@
      <string name="cache_title_empty_folder">Tom mappe (%d)</string>
      <string name="cache_title_empty_folder2">Tom mappe</string>
      <string name="cache_title_system_cache">System-mellomlagring</string>
+     <string name="cached_garbage">Cache</string>
      <string name="cancel">Avbryt</string>
      <string name="clean_content_all">Alt</string>
      <string name="clean_content_one">1 element</string>
@@ -109,11 +110,13 @@
      <string name="empty_title_installed_apps">Tomt</string>
      <string name="empty_title_large_files">Tomt</string>
      <string name="empty_title_residual">Ingen rester funnet</string>
+     <string name="flow_rank_title">Dataforbruk</string>
      <string name="garbage_clean_detail">Detaljer</string>
      <string name="garbage_cleanup_detail">%1$d ganger, ryddet %2$s</string>
      <string name="garbage_month">Ryddet %s denne måneden</string>
      <string name="go_to">Fortsett</string>
      <string name="goto_set">Sett</string>
+     <string name="grabage_rank_title">Ryddet i dag</string>
      <string name="harass_detail">Blokkert %1$d SMS og %2$d anrop</string>
      <string name="header_optimizer">Ved å bruke denne funksjonen, godtar du %s.</string>
      <string name="hint_bar_select_image">%d valgt</string>
@@ -173,6 +176,7 @@
      <string name="last_check_canceled">Forrige skanning ble avbrutt</string>
      <string name="login_immediately">Logg inn</string>
      <string name="mainbtn_text_quick_cleanup">Rydd opp %s</string>
+     <string name="mainbtn_text_quick_cleanup_default">Rydd opp</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
      <string name="month_day_format">MMM dd</string>
      <string name="msg_cleanup_db_update_checking">Sjekker etter oppdateringer...</string>
@@ -249,7 +253,7 @@
      <string name="privacy_clipboard_type">Utklippstavle</string>
      <string name="privacy_search_desc">Søkehistorikk</string>
      <string name="privacy_search_type">Google-søk</string>
-     <string name="promotion">"Redaktørens valg"</string>
+     <string name="promotion">Reklame</string>
      <string name="recommended">Utvalgte</string>
      <string name="safety_check_detail">%1$d ganger, tjent %2$d poeng</string>
      <string name="safety_rank">Foran %d%% MIUI-brukere med tanke på sikkerhet</string>
@@ -262,7 +266,7 @@
      <string name="similar_image_empty">Ingen duplikater funnet</string>
      <string name="similar_image_scaning">Sjekker…</string>
      <string name="similar_image_title">Bilder</string>
-     <string name="start_install">Start installasjon</string>
+     <string name="start_install">Installer nå</string>
      <string name="summary_auto_cleaner">Rydd systemet automatisk hver 3. dag?</string>
      <string name="summary_delete_cache">"Alle dataene til denne appen vil bli sletter permanent (dette inkluderer alle filer, innstillinger og kontoer)."</string>
      <string name="summary_delete_large_file">"Noen store filer kan være nyttige når du har ikke en internettforbindelse (f.eks. kart, planer osv). Vær sikker på at du ikke trenger denne filen."</string>
@@ -314,7 +318,9 @@
      <string name="toast_selecte_group_restore_succeed">Bilder gjenopprettet</string>
      <string name="toast_uninstall_success">Avinstallering fullført</string>
      <string name="total_clean">Total ryddet: %s</string>
+     <string name="total_clean_text">Clear</string>
      <string name="traffic_top">Topp 5 dataforbrukende apper</string>
+     <string name="unlike">No thanks</string>
      <string name="virus_scan">Virus-skann</string>
      <string name="white_list_ad_header">Reklame-filer: %d</string>
      <string name="white_list_apk_header">Installasjonspakker: %d</string>

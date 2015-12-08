@@ -41,11 +41,11 @@
         <item>Hebraisk</item>
      </string-array>
      <string-array name="livetalk_about_info_array">
-        <item>- Støtter nasjonale og internasjonale telefonnumre.</item>
-        <item>"- Hver samtale bruker 1KB av mobildata (bruker vanlig mobilnettverk når du ikke har en mobildatatilkobling)."</item>
-        <item>- Operatøren din kan belaste deg for roaming mens du bruker denne tjenesten.</item>
-        <item>- Du må slå på gratis lytting for å bruke denne tjenesten, ellers kan operatøren kan belaste deg under roaming.</item>
-        <item>- Kundestøtte: YunZhiXun, RonLianYunTongXun, LTSC</item>
+        <item>• Priser: ¥ 0.05 per minutt for nasjonale samtaler og ¥ 0.03 for internasjonale;</item>
+        <item>• Bruk: Ring en hvilken som helst telefon i verden, det er ingen operatørbegrensninger;</item>
+        <item>• Krav: Hvert anrop krever 1KB med mobildata;</item>
+        <item>• Annet: Fyll opp og start ringing, det er ingen kompliserte innstillinger;</item>
+        <item>• Hvis du trenger hjelp, vennligst ring 400-100-5678.</item>
      </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>

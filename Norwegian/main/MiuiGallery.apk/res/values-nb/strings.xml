@@ -84,7 +84,7 @@
      <string name="auto_upload_face_summary">Automatiskm match og legg til bilder i babyalbum</string>
      <string name="auto_upload_face_summary_with_people_name_when_off">Legg til bilder av \"%1$s\" til dette albumet automatisk</string>
      <string name="auto_upload_face_summary_with_people_name_when_on">Legg til bilder av \"%1$s\" til dette albumet automatisk</string>
-     <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatisk synk dine bilder fra andre apper til Mi Cloud. Vis innstillinger i &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Galleri&amp;gt;Synk med Mi Cloud&amp;gt;Synk automatisk&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+     <string name="auto_upload_guide_msssage">" "<Data> Automatisk synk dine bilder fra andre apper til Mi Cloud. Vis innstillinger i &lt;font color=#323232>&lt;b>Galleri > Synk med Mi Cloud > Synk automatisk&lt;/b>&lt;/font>. </Data>" "</string>
      <string name="auto_upload_guide_title">Synk bilder med Mi Cloud</string>
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Synk automatisk</string>
@@ -598,6 +598,7 @@ venner."</string>
      <string name="confirm_recommandation_multiple_faces_are">" "<Data> Er du sikker på at disse er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
      <string name="confirm_recommandation_multiple_faces_not">" "<Data> Er du sikker på at disse ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til\"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
      <string name="contact_photo">Kontaktbilde</string>
+     <string name="contact_tip">Kontakter</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
      <string name="context_menu_copy">Kopiér</string>
      <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
@@ -801,10 +802,12 @@ venner."</string>
      <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
      <string name="initial_cloud_text">Organiser og se dine bilder, til enhver tid og sted</string>
      <string name="initializing_cloud">Initialiserer Cloud-album...</string>
+     <string name="input_a_name">Skriv navn</string>
      <string name="input_baby_name">Skriv navn</string>
      <string name="input_baby_nick_name">Skriv kallenavn</string>
      <string name="input_cloudfolder_name">Albumnavn</string>
      <string name="input_nickname_toast">"Skriv babyens navn"</string>
+     <string name="input_or_select_a_name">Velg eller skriv navn</string>
      <string name="internal_camera_folder_display_name">Kamerabilder (Internt)</string>
      <string name="internal_miui_capture_screen_folder_display_name">Skjermbilder (Internt)</string>
      <string name="internal_sd_card">Internt SD-kort</string>
@@ -1069,7 +1072,7 @@ venner."</string>
      <string name="sd_not_available">SD Kort demonteret eller utilgjengelig</string>
      <string name="sdcard_root">Rotmappe til SD-kortet</string>
      <string name="seconds">sekunder</string>
-     <string name="secret_album_display_name">Secret album</string>
+     <string name="secret_album_display_name">Skjult album</string>
      <string name="select_album">Rediger</string>
      <string name="select_all">Velg alle</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>

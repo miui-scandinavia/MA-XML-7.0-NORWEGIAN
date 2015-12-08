@@ -239,7 +239,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="applications_settings_summary">Administrer apper, angi snarveier for hurtigstart</string>
      <string name="apply_fingerprint_to_category_title">Bruk fingeravtrykket for…</string>
      <string name="apply_now_button_text">Oppdater</string>
-     <string name="apply_password_to_category_title">Bruk passordet for…</string>
+     <string name="apply_password_to_category_title">Krev passord</string>
      <string name="apply_update_fail">Systemoppdatering feilet.</string>
      <string name="apps_with_restrictions_header">Apper med begrensninger</string>
      <string name="apps_with_restrictions_settings_button">Utvidelsesinnstillinger for appen</string>
@@ -673,8 +673,10 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="cellular_data_title">Mobildata</string>
      <string name="change_password">Bytt passord</string>
      <string name="change_security_lock">Prøv andre måter å låse opp</string>
+     <string name="check_find_device_status_failure_confirm">OK</string>
      <string name="check_update">Se etter oppdateringer</string>
      <string name="checkbox_notification_same_as_incoming_call">Bruk volum for innkommende anrop også for varslinger</string>
+     <string name="checking_find_device_status">Sjekker Finn enhet-status…</string>
      <string name="checking_for_updates">Ser etter oppdateringer…</string>
      <string name="children_mode_enable_title">Barnemodus</string>
      <string name="children_mode_set_apps_title">Tilgjengelige apper</string>
@@ -729,6 +731,7 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="confirm_action">OK</string>
      <string name="confirm_download_cancelation_dialog_message">Avbryt nedlasting?</string>
      <string name="confirm_erase">Tøm</string>
+     <string name="confirm_fingerprint_msg">Plasser fingeren på fingeravtrykksskanneren</string>
      <string name="confirm_new_backup_pw_prompt">Skriv inn det nye fullstendige passordet for sikkerhetskopiering her</string>
      <string name="connect_to_internet">Koble til nettverk</string>
      <string name="connected_wifi">Tilkoblet</string>
@@ -1219,7 +1222,11 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="extreme_threats_summary">Motta varsler for ekstreme trusler mot liv og eiendom</string>
      <string name="extreme_threats_title">Ekstreme trusler</string>
      <string name="factory_reset_summary">"Fjern alle data fra telefonen din sin sitt interne lager"</string>
+     <string name="failed_to_check_find_device_status_content">"Kunne ikke sjekke Finn enhet-status. Vent et minutt eller to og prøv igjen."</string>
+     <string name="failed_to_check_find_device_status_title">"Kunne ikke sjekke Finn enhet-status"</string>
      <string name="failed_to_open_app_settings_toast">Kunne ikke åpne innstillingene for %1$s</string>
+     <string name="failed_to_shut_down_find_device_content">"Kunne ikke skru av Finn enhet. Vent et minutt eller to og prøv igjen."</string>
+     <string name="failed_to_shut_down_find_device_title">"Kunne ikke skru av Finn enhet"</string>
      <string name="fcc_equipment_id">Utstyrs-ID</string>
      <string name="field_info_card_label">Velg kort:</string>
      <string name="field_info_cell_id_label">Celle-ID:</string>
@@ -1253,7 +1260,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="firmware_version">Android-versjon</string>
      <string name="floating_window_switch_label">Skru på flytende vinduer</string>
      <string name="floating_window_switch_label_disable">Skru av flytende vinduer</string>
-     <string name="fluency_mode">Optimaliser systemytelse</string>
+     <string name="fluency_mode">Systemanimasjoner</string>
      <string name="fluency_mode_confirm_and_reboot">Start på nytt nå</string>
      <string name="fluency_mode_confirm_title">Omstart nå?</string>
      <string name="fluency_mode_confirm_will_fluency_mode_text">Enheten din må startes på nytt for at disse endringene skal trå i kraft.</string>
@@ -1390,7 +1397,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="hidden_ssid_label">Skjult SSID:</string>
      <string name="high_performance_notif_summary">Ytelsemodus er på.</string>
      <string name="high_performance_notif_title">Advarsel om batteribruk</string>
-     <string name="high_performance_title">"Det ser ut til at du kjører en benchmark. Sett strømmodus til \"Ytelse\" for de beste resultatene."</string>
+     <string name="high_performance_title">Enheten kan bli varm under tung bruk.</string>
      <string name="history_details_title">Logg detaljer</string>
      <string name="home_app_uninstall_button">Avinstaller denne appen</string>
      <string name="home_key">Home</string>
@@ -1424,8 +1431,8 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="install_all_warning">Nettbrettet og personopplysningene dine er mer sårbare for angrep fra apper fra ukjente kilder. Du godtar at du alene er ansvarlig for enhver skade på nettbrettet eller tap av data som kan oppstå fra bruk av disse appene.</string>
      <string name="install_applications">Ukjente kilder</string>
      <string name="install_applications_title">Tillat alle appkilder</string>
-     <string name="install_no_market_app_summary">Tillat installasjon av apper fra andre kilder enn App-butikken</string>
-     <string name="install_no_market_app_title">Ukjente kilder</string>
+     <string name="install_no_market_app_summary">Skann tredjeparts apper for virus før du installerer</string>
+     <string name="install_no_market_app_title">Skann tredjeparts apper</string>
      <string name="install_preinstall_app">Laster apper…</string>
      <string name="install_text">Installer</string>
      <string name="install_unknown_applications">Tillat installasjon av apper fra andre kilder enn Play-butikken</string>
@@ -1618,6 +1625,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="lock_settings_picker_settings">Sett skjermlås</string>
      <string name="lock_settings_picker_title">Velg skjermlås</string>
      <string name="lock_settings_title">Skjermsikkerhet</string>
+     <string name="lock_settings_with_fingerprint">Låseskjerm &amp; passord</string>
      <string name="lock_setup">Oppsettet er fullført.</string>
      <string name="lock_sounds_enable_title">Skjermlåslyder</string>
      <string name="lockpassword_cancel_label">Avbryt</string>
@@ -2041,6 +2049,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="oldman_mode_settings_caption">Innstillinger for forenklet modus</string>
      <string name="oldman_mode_summary">Bruk forenklet startskjerm og menyer</string>
      <string name="oldman_mode_summary_cta">Lite-modus krever tilkobling til internett og tilgang til å lese dine kontakter, meldinger og plasseringsinformasjon for å fungere normalt.</string>
+     <string name="onekey_migrate">Overfør</string>
      <string name="online_resource_entry">Nettressurser</string>
      <string name="only_one_home_message">Startsideinnstillingene skjules inntil du installerer en annen startsideapp.</string>
      <string name="only_when_charging">Bruk bare under lading</string>
@@ -2153,7 +2162,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="power_discharge_remaining">%1$s gjenstår</string>
      <string name="power_discharging_duration">%1$d %% – ca. %2$s gjenstår</string>
      <string name="power_flashlight">Lommelykt</string>
-     <string name="power_hide_mode_summary">"Spar batteri ved å begrense individuelle apper sine bakgrunnsprosesser, Wi-Fi og mobildataforbindelser, og GPS"</string>
+     <string name="power_hide_mode_summary">"Spar batteri ved å begrense individuelle apper sine bakgrunnsprosesser, Wi-Fi og mobildataforbindelser, og GPS-bruk"</string>
      <string name="power_hide_mode_title">Håndter apper sitt batteriforbruk</string>
      <string name="power_idle">Enheten ikke i bruk</string>
      <string name="power_mgr">Ytelse</string>
@@ -2586,6 +2595,7 @@ Sånn fungerer én-appsmodus:
      <string name="search_sync">synk</string>
      <string name="search_tether">tether</string>
      <string name="search_unlock_set">opplåsning satt</string>
+     <string name="search_virtual_sim">virtual sim</string>
      <string name="search_vpn">vpn</string>
      <string name="search_wallpaper">bakgrunn</string>
      <string name="search_wifi">wifi</string>
@@ -2597,6 +2607,7 @@ Sånn fungerer én-appsmodus:
      <string name="security_keyguard_category_name">Låseskjerm</string>
      <string name="security_password_category_name">Passord</string>
      <string name="security_passwords_title">Passord</string>
+     <string name="security_patch">Nivå for patch (feilretting) av sikkerhet på Android</string>
      <string name="security_privacy_settings_title">Personvern</string>
      <string name="security_relative">Sikkerhet</string>
      <string name="security_settings_billing_desc">Den appen kan belaste deg for penger:</string>
@@ -2675,6 +2686,10 @@ Sånn fungerer én-appsmodus:
      <string name="show_touches">Vis berøringer</string>
      <string name="show_touches_summary">Vis visuelle tilbakemeldinger for berøringer</string>
      <string name="show_user_info_on_lockscreen_label">Vis brukerinformasjon på låseskjermen</string>
+     <string name="shut_down_find_device_failure_confirm">OK</string>
+     <string name="shut_down_find_device_network_failure_content">"Kunne ikke skru av Finn enhet. sørg for at enhetne er koblet til Internett."</string>
+     <string name="shut_down_find_device_network_failure_title">"Kan ikke koble til nettverket"</string>
+     <string name="shuting_down_find_device">Skrur av Finn enhet…</string>
      <string name="silent_mode_title">Stillemodus</string>
      <string name="sim_absent">No SIM/RUIM</string>
      <string name="sim_bad_pin">Skriv en PIN som er mellom 4 og 8 tall</string>
@@ -2804,7 +2819,10 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_awaiting_tap">Trykk på en brikke for å skrive</string>
      <string name="status_awake_time">Våken tid</string>
      <string name="status_bar_and_notification_bar">Varselskygge og statuslinje</string>
-     <string name="status_bar_app_disable_notification">Tom</string>
+     <string name="status_bar_app_disable_notification">Varsler skjult</string>
+     <string name="status_bar_app_enable_floating">Flytende varsler</string>
+     <string name="status_bar_app_enable_keyguard">Låseskjerm</string>
+     <string name="status_bar_app_enable_message">Emblemer</string>
      <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Låseskjerm, varselskygge</string>
      <string name="status_bar_app_enable_on_notificationBar">Varslingsskygge</string>
      <string name="status_bar_filter_item_description">For å konfigurere varsler, gå til Generelle innstillinger &gt; Varsler &gt; Administrer varsler</string>
@@ -2835,9 +2853,11 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_bar_settings_notification_sound_vibrate">Lyd &amp; vibrering</string>
      <string name="status_bar_settings_show_carrier">Vis tjenestetilbyer</string>
      <string name="status_bar_settings_show_carrier_summary">Bare vis på låseskjerm</string>
+     <string name="status_bar_settings_show_floating_notification">Flytende varsler</string>
+     <string name="status_bar_settings_show_floating_notification_summary">"Flytende varsler vil bli borte automatisk etter at de er vist på toppen av skjermen"</string>
      <string name="status_bar_settings_show_flow_info">Vis strømdetaljer</string>
      <string name="status_bar_settings_show_home_message">App-ikon-skilt</string>
-     <string name="status_bar_settings_show_keyguard_notification">Flytende og låseskjerm</string>
+     <string name="status_bar_settings_show_keyguard_notification">Låseskjerm-varsler</string>
      <string name="status_bar_settings_show_keyguard_notification_summary">"Flytende varsler vill forsvinne automatisk når de har blitt vist på toppen av skjermen"</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
@@ -3278,6 +3298,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="vibrate_when_ringing_title">Vibrer når det ringer</string>
      <string name="virtual_sim_category_title">Virtuell SIM</string>
      <string name="virtual_sim_description">Pålitelig internasjonal roaamingtjeneste</string>
+     <string name="virtual_sim_search_title">Virtuell SIM</string>
      <string name="virtual_sim_title">Roaming datanettverk</string>
      <string name="virus_scan">Virusskann</string>
      <string name="virus_scan_app_continue">Fortsett skann</string>
@@ -3298,7 +3319,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="virus_scanner_auto_update">Oppdater automatisk</string>
      <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
      <string name="virus_scanner_lib_already_latest">Du bruker allerede de nyeste definisjonene :)</string>
-     <string name="virus_scanner_lib_update_failed">Oppdatering feilet</string>
+     <string name="virus_scanner_lib_update_failed">"Kunne ikke oppdatere"</string>
      <string name="virus_scanner_lib_updating">Oppdaterer definisjonene…</string>
      <string name="virus_scanner_manual_update">Oppdatert %s</string>
      <string name="virus_scanner_provider">Definisjoner tilbudt av  %s</string>

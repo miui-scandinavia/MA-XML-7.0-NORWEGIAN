@@ -41,6 +41,8 @@
      <string name="all_ep">Alle ep</string>
      <string name="all_episode">Alle episoder</string>
      <string name="all_media">Alle media</string>
+     <string name="app_charging_wifi_mode">Oppdater app under lading</string>
+     <string name="app_charging_wifi_mode_summary">Automatisk oppdater appen når tilkoblet Wi-Fi og under lading</string>
      <string name="app_latest_version">Denne programmet er allerede oppdatert</string>
      <string name="app_name">Video</string>
      <string name="app_plugin_ready">%1$s-komponent er klar</string>
@@ -65,6 +67,7 @@
      <string name="bmp_quality_mode_desc">"Forbedre videoens bildekvalitet"</string>
      <string name="buffering">Bufrer…</string>
      <string name="buffering_video_netplay_label_v5">Bufrer…</string>
+     <string name="buy_vip">kjøp vip</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_button">Avbryt</string>
      <string name="cancel_favorite_success">Ustjernemerkede</string>
@@ -94,6 +97,9 @@
      <string name="clear_search_history">Clear search history</string>
      <string name="click_star_rate">Trykk på stjernene for å stemme</string>
      <string name="click_to_login">Trykk for logge inn</string>
+     <string name="clubber">clubber</string>
+     <string name="clubber_center">clubber center</string>
+     <string name="clubber_info">clubber information</string>
      <string name="cnlive">cnlive</string>
      <string name="comment">Kommentarer</string>
      <string name="comment_count_less_tip">Kommentaren må være på minst %1$s tegn</string>
@@ -156,7 +162,7 @@
      <string name="dlna_name">Delt enhet</string>
      <string name="done">OK</string>
      <string name="douban_score">Duoban-score</string>
-     <string name="download">Download</string>
+     <string name="download">Last ned</string>
      <string name="download_add_success">Nedlastningoppgave ble lagt til</string>
      <string name="download_error">"Kan ikke laste ned fil"</string>
      <string name="download_fail">Offline-feil</string>
@@ -187,6 +193,7 @@
      <string name="episode_suffix">Ep. %d</string>
      <string name="error_empty_filter_title">Ingen resultater</string>
      <string name="error_empty_title">Noe gikk galt</string>
+     <string name="expire_time">Utløpstid</string>
      <string name="favorite">Merk med stjerne</string>
      <string name="feature">Utvalgt</string>
      <string name="feature_list_empty_hint">Tom</string>
@@ -262,6 +269,7 @@
      <string name="menu_item_disable_audio_enhance">Skru av lydforbedring</string>
      <string name="menu_item_enable_audio_enhance">Forbedre lyd</string>
      <string name="menu_name">Innstillinger</string>
+     <string name="mibi">mibi</string>
      <string name="mine_info_account_summary_none">Ikke innlogget</string>
      <string name="mine_info_account_title">Kontoinformasjon</string>
      <string name="minute"> Minutt</string>
@@ -288,7 +296,10 @@
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Logg inn med din Xiaomi-konto for å sende kommentar.</string>
      <string name="no_longer_tips">"Ikke vis igjen"</string>
+     <string name="no_pay_record">ingen betaling</string>
      <string name="no_sdcard_no_download">Kunne ikke laste ned, for lite lagringsplass tilgjengelig.</string>
+     <string name="not_buy_vip">ingen vip</string>
+     <string name="not_exist_openid">henter kontoinformasjon, vennligst vent...</string>
      <string name="not_login">Logg inn</string>
      <string name="nowifi_alert_dialog_continue">Fortsett</string>
      <string name="nowifi_alert_dialog_exit">Avslutt</string>
@@ -323,10 +334,12 @@
      <string name="online_video_oneweek_ago">En uke siden</string>
      <string name="operator_test">Operatørinnstillinger</string>
      <string name="operator_test_summary">Kjør app i Operatør-testmodus</string>
+     <string name="original_price">original pris</string>
      <string name="other_info">Andre</string>
      <string name="other_setting">Flere innstillinger</string>
      <string name="partner_specials">Innhold fra partner</string>
      <string name="pause">Pause</string>
+     <string name="pay_record">pay record</string>
      <string name="percent_status">%.1f%%</string>
      <string name="performance_mode">Forbedre avspillerytelse</string>
      <string name="performance_mode_desc">"Maksimer videoavspillerens ytelse"</string>
@@ -483,6 +496,7 @@
      <string name="video_plugin_prepare">Forbereder video-tillegg, vennligst vent en stund.</string>
      <string name="video_version">Versjon %s</string>
      <string name="video_xiaomi">Mi Video</string>
+     <string name="vip_package">VIP-pakke</string>
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">"Kunne ikke koble til nettverket"</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Beklager, det valgte videoformatet er ikke gyldig til streaming på denne enhet</string>
@@ -490,6 +504,7 @@
      <string name="vp_VideoView_error_title">Noe gikk galt…</string>
      <string name="vp_adapt_height">Tilpass høyde</string>
      <string name="vp_adapt_width">Tilpass bredde</string>
+     <string name="vp_app_download">Programnedlastning</string>
      <string name="vp_app_name">Videoavspiller</string>
      <string name="vp_audio">Volum</string>
      <string name="vp_auto_select">Autovelg</string>
@@ -506,6 +521,7 @@
      <string name="vp_datastream_alert_positive_button">Fortsett</string>
      <string name="vp_datastream_alert_title">Dataforbruksadvarsel</string>
      <string name="vp_device_list">Enheter</string>
+     <string name="vp_download_apk_from_video_ad">Installer</string>
      <string name="vp_download_connect_fail">"Kunne ikke finne URL. Sjekk datatilkoblingen og prøv igjen</string>
      <string name="vp_download_file_fail">"Kunne ikke laste ned fil. Vær sikker på at du har nok lagringsplass på enhetens internlager eller SD-kort."</string>
      <string name="vp_exit">Avslutt</string>

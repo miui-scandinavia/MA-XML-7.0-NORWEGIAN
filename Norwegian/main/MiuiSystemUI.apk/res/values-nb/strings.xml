@@ -166,7 +166,7 @@
      <string name="screen_pinning_negative">Nei takk</string>
      <string name="screen_pinning_positive">Skjønner</string>
      <string name="screen_pinning_title">Skjerm er festet</string>
-     <string name="screenshot_failed_text">"Kunne ikke lagre skjermbilde. Lagring er muligens i bruk."</string>
+     <string name="screenshot_failed_text">"Kan ikke ta skjermbilde grunnet lite lagringsplass, eller at det ikke er tillatt av denne appen eller av ditt firma."</string>
      <string name="screenshot_saved_text">Trykk for å se ditt skjermbilde.</string>
      <string name="screenshot_saved_title">Skjermbilde tatt.</string>
      <string name="screenshot_saving_text">Lagrer skjermbilde.</string>

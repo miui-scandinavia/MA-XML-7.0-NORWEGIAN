@@ -3,7 +3,7 @@
 <resources>
      <string name="app_name">Søk</string>
      <string name="apps_search_activity" />
-     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+     <string name="clear_history">Tøm historikk</string>
      <string name="clear_shortcuts">Fjern snarveier</string>
      <string name="clear_shortcuts_agree">Fjern snarveier</string>
      <string name="clear_shortcuts_disagree">"Ikke fjern snarveier"</string>
@@ -33,13 +33,15 @@
      <string name="google_search_label">Google</string>
      <string name="google_settings_category_title">Google Søking</string>
      <string name="google_suggest_base">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+     <string name="hot_search">Populær</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="menu_help">Hjelp</string>
      <string name="menu_settings">Søkeinnstillinger</string>
      <string name="recently_shortcut_label">Seneste snarveier</string>
      <string name="remove_from_history">Fjern fra søkehistorikk</string>
      <string name="remove_from_history_failed">"Kunne ikke fjerne fra historikk"</string>
-     <string name="search_in_app_store">Søk i marked</string>
+     <string name="search_history">Historikk</string>
+     <string name="search_in_app_store">Søk Mi app-butikk</string>
      <string name="search_in_web">Søk på nett</string>
      <string name="search_settings">Søkeinnstillinger</string>
      <string name="search_sources">Søkbare elementer</string>
@@ -53,10 +55,13 @@
      <string name="searchable_lable_video">video</string>
      <string name="searchable_sources">Nett</string>
      <string name="send_secret_code">Send kode</string>
+     <string name="show_more">Vis mer</string>
      <string name="system_search_category_title">Telefon</string>
-     <string name="voice_search_hint_quotation_end">”</string>
-     <string name="voice_search_hint_quotation_start">“</string>
-     <string name="voice_search_hint_title">Prøv å si:</string>
+     <string name="voice_search_hint_quotation_end">\"</string>
+     <string name="voice_search_hint_quotation_start">\"</string>
+     <string name="voice_search_hint_title">"Prøv å si "</string>
+     <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+     <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
      <string name="xiaomi_search_label">Resultater</string>
-     <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+     <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v2/sug</string>
 </resources>

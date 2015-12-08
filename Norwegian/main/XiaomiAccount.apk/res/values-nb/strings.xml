@@ -23,7 +23,7 @@
      <string name="account_error_user_birthday">Bursdagen du skrev er ugyldig</string>
      <string name="account_hint_text">Epostadresse eller telefnnummer</string>
      <string name="account_learn_more_title">Opprett en Mi-konto</string>
-     <string name="account_limit_update_birthday">sorry, we are unable to process your request at this time.</string>
+     <string name="account_limit_update_birthday">Beklager, vi kan ikke prosessere denne forespørselen for øyeblikket.</string>
      <string name="account_name">Konto: %1$s</string>
      <string name="account_no_set">Ingen</string>
      <string name="account_none">Ingen</string>
@@ -328,7 +328,10 @@ For å aktivere din konto, følg
      <string name="passport_license_host_unreachable">"Kan ikke koble til nettverket. Du kan vise denne siden på %s."</string>
      <string name="passport_loading">Laster…</string>
      <string name="passport_login">Logg inn til en eksisterende konto</string>
+     <string name="passport_login_check_find_device">Sjekker Finn enhet-status…</string>
+     <string name="passport_login_check_find_device_failed">"Kunne ikke sjekke Finn enhet-status. Sjekk nettverksforbindelsen."</string>
      <string name="passport_login_failed">"Kan ikke logge inn"</string>
+     <string name="passport_login_find_device_bind">Denne enheten er assosiert med en eksisterende Mi-konto-ID (%s). Logg inn for å aktivere denne enheten.</string>
      <string name="passport_login_instead_reg">Bruk dette nummeret</string>
      <string name="passport_login_instead_reg_with_email">Bruk denne eposten</string>
      <string name="passport_login_notice">Logger inn…</string>
@@ -354,7 +357,7 @@ For å aktivere din konto, følg
      <string name="passport_reg_new">Opprett en Mi-konto helt gratis</string>
      <string name="passport_reg_sms_send_prompt">Send verifiseringskode til %s</string>
      <string name="passport_reg_success">Konto opprettet</string>
-     <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+     <string name="passport_reg_success_summary">%1$s har blitt koblet til din konto. DU kan bruke den for å logge inn elelr tilbakestille ditt passord.</string>
      <string name="passport_reg_type_email">Bruk e-post-adresse</string>
      <string name="passport_reg_type_other_ways"><u>Bruk e-post-adress eller et annet telefonnummer</u></string>
      <string name="passport_reg_type_other_ways_title">Opprett en Mi-konto</string>
@@ -406,7 +409,7 @@ For å aktivere din konto, følg
      <string name="passport_wrong_password">Passord er feil</string>
      <string name="passport_wrong_phone_number_format">Formatet på telefonnummeret du skrev er ugyldig</string>
      <string name="passport_wrong_vcode">Koden du skrev er feil</string>
-     <string name="passport_xiaomi_account_dspt">Bruk din Mi-konto for å logge inn på Mi Cloud, MIUI Temabutikk, og andre Mi-tjenester, fra hvor som helst.</string>
+     <string name="passport_xiaomi_account_dspt">Bruk din Mi-konto for å logge inn på Mi Cloud, MIUI Temabutikk, og Mi-butikk, fra hvor som helst.</string>
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2">Innlogging til din Mi-konto krever en internettforbindelse. I tillegg vil plasseringstilgang, Mi Cloud og Mi VIP bli skrudd på automatisk.</string>
      <string name="password">Skriv inn passordet</string>
@@ -509,6 +512,7 @@ For å aktivere din konto, følg
      <string name="vcode_prompt_long">Skriv inn verifikasjonskode</string>
      <string name="verification_failed">Autentifisering feilet</string>
      <string name="verify">Bekreft</string>
+     <string name="vip_level_value">%d</string>
      <string name="wipe_data_dialog_msg">%s vil bli slettet om du fortsetter.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Noen elementer er ikke synkronisert"</string>
