@@ -4,6 +4,7 @@
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
      <string name="action_mode_select_all">Velg alle</string>
+     <string name="add_private">Hide files now</string>
      <string name="add_private_files">Legg til filer</string>
      <string name="add_task">Legg til oppgaver</string>
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
@@ -24,6 +25,7 @@
      <string name="archive_send_to">Send til…</string>
      <string name="background">Stille nedlastning</string>
      <string name="backup_cancel">Nei takk</string>
+     <string name="backup_checkbox_msg">Always back up and show notifications</string>
      <string name="backup_confirm">Sikkerhetskopiér nå</string>
      <string name="backup_success_cancel">OK</string>
      <string name="backup_success_confirm">Vis</string>
@@ -142,6 +144,7 @@
      <string name="encrypt_error">"Kunne ikke skjule filer, prøv igjen"</string>
      <string name="encrypt_prefix">SKJULT</string>
      <string name="encrypt_success">Alle filer skjult</string>
+     <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on Explorer's start page."</string>
      <string name="encrypting">Krypterer…</string>
      <string name="error_filename_too_long">Filnavn er for langt</string>
      <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
@@ -288,8 +291,8 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
      <string name="new_folder_name">Ny mappe</string>
      <string name="new_function">Skjule mapper</string>
-     <string name="new_function_info">For å opprette en skjult mappe, dra ned til bunnen av skjermen
-fra den første linja med ikoner på startskjermen.</string>
+     <string name="new_function_info">"For å opprette en skjult mappe, dra ned til bunnen av skjermen
+fra den første linja med ikoner på startskjermen."</string>
      <string name="new_function_str">"WeChat-klistremerker kan nå hentes automatisk.
 Last dem når du vil
 og aldri glipp av de kule nye!"</string>
@@ -314,9 +317,12 @@ og aldri glipp av de kule nye!"</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
+     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Når %1$s oppretter en fil</string>
+     <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
+     <string name="notification_wechat_auto_backup_switch_title">Back up WeChat videos</string>
      <string name="notification_wechat_expired_empty">WeChat har allerede slettet disse videoklippene.</string>
      <string name="notification_wechat_sticker_hint">Vis varsel når nye WeChat-klistremerker er tilgjengelig</string>
      <string name="notification_wechat_sticker_switch_title">Daglig varsel for nytt klistremerke</string>
@@ -383,6 +389,8 @@ og aldri glipp av de kule nye!"</string>
      <string name="port_range">Port må være mellom 1024–65535</string>
      <string name="private_files">Skjult</string>
      <string name="private_folder">Skjult mappe</string>
+     <string name="private_folder_no_file_hints">No hidden files.</string>
+     <string name="private_folder_update">Updating hidden files…</string>
      <string name="private_toast_hint1">Trykk for å legge til filer i skjulte mapper</string>
      <string name="private_toast_hint2">For å skjule filer, trykk og hold på den, så legg til i skjult mappe.</string>
      <string name="private_toast_hint3">Dra ned for å åpne skjulte mapper</string>

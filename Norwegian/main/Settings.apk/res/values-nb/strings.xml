@@ -1290,6 +1290,7 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="force_stop_dlg_text">Hvis du tvangsstopper en app, kan den oppføre seg uventet.</string>
      <string name="force_stop_dlg_title">Vil du tvinge avslutning?</string>
      <string name="forget">GLEM</string>
+     <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
      <string name="forget_wifi_message">Din enhet vil slutte å koble til dette nettverket automatisk.</string>
      <string name="found_new_version">Fant ny versjon</string>
      <string name="free_wifi_agreement_remind_never">"Ikke vis igjen"</string>
@@ -2399,6 +2400,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
  Du kommer ikke til &amp;#229; miste noe appdata."</string>
      <string name="reset_app_preferences_title">Vil du tilbakestille app-innstillingene?</string>
      <string name="reset_legacy_password_settings_preface_text">Du må tilbakestille låseskjerm-passordet ditt.</string>
+     <string name="resolver_settings_label">Sort</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
      <string name="restore_default_apn">Gjenoppretter standard APN-innstillinger.</string>
      <string name="restore_default_apn_completed">Tilbakestilling av standard APN-innstillinger er fullført.</string>
@@ -2819,6 +2821,7 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="status_awaiting_tap">Trykk på en brikke for å skrive</string>
      <string name="status_awake_time">Våken tid</string>
      <string name="status_bar_and_notification_bar">Varselskygge og statuslinje</string>
+     <string name="status_bar_app_des_separator">", "</string>
      <string name="status_bar_app_disable_notification">Varsler skjult</string>
      <string name="status_bar_app_enable_floating">Flytende varsler</string>
      <string name="status_bar_app_enable_keyguard">Låseskjerm</string>

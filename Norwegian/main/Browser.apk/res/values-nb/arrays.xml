@@ -48,6 +48,10 @@
         <item>Bare på Wi-Fi</item>
         <item>Alltid</item>
      </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Phone</item>
+        <item>Pad</item>
+     </string-array>
      <string-array name="pref_text_size_choices">
         <item>Veldig liten</item>
         <item>Liten</item>
@@ -61,6 +65,12 @@
         <item>Normal</item>
         <item>Stor</item>
         <item>Veldig stor</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
      </string-array>
      <string-array name="pref_video_preload_choices">
         <item>Aldri</item>

@@ -15,6 +15,7 @@
      <string name="app_store_missing_message">"Det ser ut til at du ikke har installert vår offiselle App-butikk. Installer ned nå?"</string>
      <string name="app_store_missing_title">"App-butikk er ikke installert"</string>
      <string name="auto_startup_dialog_msg">"MIUI vil tillate appen å starte automatisk uten bekreftelse. Tillat Autostart?"</string>
+     <string name="btn_text_full_scan">Full scan</string>
      <string name="btn_text_install_new_version">Seneste versjon</string>
      <string name="btn_text_install_origin">Original versjon</string>
      <string name="btn_text_install_security_version_in_appstore">Bytt ut med sikker versjon</string>
@@ -26,7 +27,7 @@
      <string name="button_text_delete_timer">Slett (%d)</string>
      <string name="button_text_next_step">Neste</string>
      <string name="button_text_next_step_timer">Neste (%d)</string>
-     <string name="caller_app">Tilatelsesforespøresel fra %1$s</string>
+     <string name="caller_app">Tilatelsesforespørsel fra %1$s</string>
      <string name="cancel">Avbryt</string>
      <string name="devicePerms">Enhetstilgang</string>
      <string name="dlg_app_replacement_statement">"Appen du installerer vil overskrive en annen app
@@ -34,7 +35,7 @@ Alle brukerinnstillingenr vil bli overskrevet."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).
 Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="dlg_app_replacement_title">Erstatt appen</string>
-     <string name="dlg_appstore_notice">Hent denne appen fra vår offisielle <u><font color=#91c727>App Store</font></u></string>
+     <string name="dlg_appstore_notice">Hent denne appen fra &lt;u&gt;&lt;font color=#91c727&gt;Google Play&lt;/font&gt;</u></string>
      <string name="dlg_ok">OK</string>
      <string name="dlg_sys_app_replacement_statement">"Dette er en systemapp. Ønsker du fortsatt å erstatte det? Alle tidligere brukerdata lagres."</string>
      <string name="done">Utfør</string>
@@ -58,7 +59,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="install_failed_system_incompatible">Dette programmet er ikke kompatibelt med MIUI ROM!</string>
      <string name="install_failed_verify_failed">Pakken kunne ikke bekreftes, og kan derfor ikke installeres.</string>
      <string name="install_failed_verify_timeout">Det oppsto timeout under forsøk på å bekrefte denne pakken. Prøv å installere den igjen senere.</string>
-     <string name="install_from_appstore_hint">Vi anbefaler at du installer appen fra <u><font color=#91c727>App-butikk</font></u></string>
+     <string name="install_from_appstore_hint">Vi anbefaler at du installer appen fra &lt;u&gt;&lt;font color=#91c727>Google Play&lt;/font>&lt;/u></string>
      <string name="installing">Installerer ...</string>
      <string name="launch">Åpne</string>
      <string name="lift_ban">Tillat</string>
@@ -70,7 +71,9 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="message_appstore_verify_has_new_version">En nyere versjon av denne appen er tilgjengelig i vår App-butikk. Vil du installere den?</string>
      <string name="message_appstore_verify_inconsistent">"Signaturen til denne appen er forskjellig fra den i App-butikke, det vil være tryggere å installere appen derfra."</string>
      <string name="message_appstore_verify_ok">Denne versjonen av denne appen i App-butikken har bestått våre sikkerhesttester, vi anbefaler at du installerer appen derfra.</string>
+     <string name="message_full_scanning">Full scanning…</string>
      <string name="message_install_in_market">Vi anbefaler at du installer appen fra App-butikken</string>
+     <string name="message_quick_scanning">Quick scanning…</string>
      <string name="message_security_scaning">Full skanning…</string>
      <string name="newPerms">Nye</string>
      <string name="next">Neste</string>
@@ -112,7 +115,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="trust_switch_dialog_msg">"MIUI vil ikke spørre om bekreftelse rundt sikkerhetsrelaterte handlinger fra denne appen. Tillat denne App？"</string>
      <string name="uninstall_activity_text">%1$s er en del av følgende appen:</string>
      <string name="uninstall_application_text">Denne appen avinstalleres.</string>
-     <string name="uninstall_application_text_all_users">Vil du avinstallere denne appen for <b>alle</b> brukere? Appen og tilhørende data blir fjernet fra <b>alle</b> brukere på enheten.</string>
+     <string name="uninstall_application_text_all_users">Vil du avinstallere denne appen for &lt;b>alle&lt;/b> brukere? Appen og tilhørende data blir fjernet fra <b>alle</b> brukere på enheten.</string>
      <string name="uninstall_application_text_user">Ønsker du å avinstallere denne appen for brukeren %1$s?</string>
      <string name="uninstall_application_title">Avinstaller applikasjon</string>
      <string name="uninstall_blocked_device_owner">Denne appen kreves av enhetsadministratoren din og kan ikke avinstalleres.</string>
@@ -132,7 +135,6 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="unknown_installer">Ukjent installeringsverktøy</string>
      <string name="virus_scan_caller_unknown">Ukjent</string>
      <string name="virus_scan_clear">Fjern</string>
-     <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
      <string name="virus_scan_is_risk">Dette programmet utgjør en risiko!</string>
      <string name="virus_scan_is_virus">Dette programmet er et virus, vennligst fjern det øyeblikkelig!</string>
      <string name="waiting_tip">Dette kan ta en stund, men det er verdt det</string>

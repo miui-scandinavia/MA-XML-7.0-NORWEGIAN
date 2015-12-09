@@ -60,4 +60,9 @@
         <item>Størrelse</item>
         <item>Navn</item>
      </string-array>
+     <string-array name="trash_clean_menu">
+        <item>Clean up</item>
+        <item>File</item>
+        <item>Add file to exceptions</item>
+     </string-array>
 </resources>

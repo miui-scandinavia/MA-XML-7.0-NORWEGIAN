@@ -515,6 +515,13 @@
      <string name="mx_activate_int_hint_malformed_info">Feil ved behandling av forespørselen. En internasjonal SMS kreves for å reaktivere Mi-meldinger. Vil du aktivere det nå?</string>
      <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for Mi-meldinger, en internasjonal SMS kreves for å reaktivere Mi-meldinger. Vil du aktivere det nå?</string>
      <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere Mi-meldinger. Vil du aktivere det nå?</string>
+     <string name="mx_activate_status_desc_activating_now">Activating…</string>
+     <string name="mx_activate_status_desc_check_net_connection">"Couldn't connect to the network"</string>
+     <string name="mx_activate_status_desc_fail">"Couldn't activate Mi Message"</string>
+     <string name="mx_activate_status_desc_prepare_sending_sms">Sending activation message…</string>
+     <string name="mx_activate_status_desc_query_activte_info">Checking SIM card info…</string>
+     <string name="mx_activate_status_desc_request_activation_sms_phone_error">The phone number you entered is invalid</string>
+     <string name="mx_activate_status_desc_wait_for_sms_fail">"Couldn't activate Mi Message"</string>
      <string name="mx_activate_user_agreement_p1">"Ved å bruke denne tjenesten, godtar du til Mi-melding sine "</string>
      <string name="mx_and_voip_enable">Mi-melding &amp; stemme</string>
      <string name="mx_and_voip_enable_popup_msg">"Send meldinger og ring til andre MIUI-brukere uten påløpende avgifter fra din operatør. VOIP tilbys av Weihui. Vis weihui' sine personvernsvilkår."</string>
@@ -537,6 +544,10 @@
      <string name="mx_enable">Mi-meldinger</string>
      <string name="mx_enable_ex">Mi-melding &amp; tale</string>
      <string name="mx_enable_popup_msg">Send meldinger via internett til andre MIUI-brukere uten ekstra å pådra deg ekstra kostnader.</string>
+     <string name="mx_filter_message_from_stranger">Block Mi Messages from unknown numbers</string>
+     <string name="mx_filter_message_from_stranger_dialog_desc">"You'll still be able to receive regular SMS from unknown numbers. You can turn this feature on or off anytime in Messages &gt; Settings."</string>
+     <string name="mx_filter_message_from_stranger_dialog_title">Block Mi Messages from unknown numbers</string>
+     <string name="mx_filter_message_from_stranger_summary">"You'll still be able to receive regular SMS from unknown numbers"</string>
      <string name="mx_msg">Mi-melding</string>
      <string name="mx_offline">Offline</string>
      <string name="mx_on_sim_1">Mi-melding SIM-spor 1</string>
@@ -614,6 +625,7 @@
      <string name="pref_edit_smsc_address">SMS-senter nummer</string>
      <string name="pref_forward_title">Videresend</string>
      <string name="pref_key_mx_feedback">Tilbakemelding</string>
+     <string name="pref_message_recovery_introduction_title">Recover message</string>
      <string name="pref_messages_to_save">Sett antall meldinger som kan lagres</string>
      <string name="pref_mms_clear_search_history_summary">Slett listen over tidligere meldingssøk så de ikke vises i søkefeltet</string>
      <string name="pref_mms_clear_search_history_title">Tøm søkeloggen</string>

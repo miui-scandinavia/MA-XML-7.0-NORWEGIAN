@@ -115,7 +115,7 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="find_device_success_title">Finn enhet</string>
      <string name="finish">OK</string>
      <string name="flight_mode">Flymodus</string>
-     <string name="forget_password"><u>Glemt passord&</u></string>
+     <string name="forget_password">Glemt passord</string>
      <string name="free_space_has_received">Du har allerede lagt til gratis plass denne måneden</string>
      <string name="free_space_receive_fail">"Kan ikke oppgradere"</string>
      <string name="full_space">Ikke nok plass</string>

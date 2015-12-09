@@ -73,6 +73,14 @@
         <item quantity="few">Mottok %1$d filer av WeChat</item>
         <item quantity="many">Mottok %1$d filer av WeChat</item>
      </plurals>
+     <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Backed up %1$d WeChat videos.</item>
+        <item quantity="zero">Backed up %1$d WeChat videos.</item>
+        <item quantity="one">Backed up 1 WeChat video.</item>
+        <item quantity="two">Backed up %1$d WeChat videos.</item>
+        <item quantity="few">Backed up %1$d WeChat videos.</item>
+        <item quantity="many">Backed up %1$d WeChat videos.</item>
+     </plurals>
      <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d filer med WeChat Video vil utløpe</item>
         <item quantity="zero">%1$d filer med WeChat Video vil utløpe</item>

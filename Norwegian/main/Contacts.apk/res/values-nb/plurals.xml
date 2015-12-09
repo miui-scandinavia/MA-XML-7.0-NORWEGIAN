@@ -102,6 +102,10 @@
         <item quantity="other">%0$d grupper</item>
         <item quantity="one">1 gruppe</item>
      </plurals>
+     <plurals name="number_of_items_available">
+        <item quantity="other">%1$d remaining</item>
+        <item quantity="one">%1$d remaining</item>
+     </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>

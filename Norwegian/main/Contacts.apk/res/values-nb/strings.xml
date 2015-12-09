@@ -129,8 +129,10 @@
      <string name="callrecordview_item_op_time_rejected">Avvist anrop</string>
      <string name="callrecordview_item_op_time_short_incoming">"Inngående:"</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Utgående:"</string>
+     <string name="callrecordview_item_op_video">Video</string>
      <string name="callrecordview_menu_add_call_note">Legg til anropsnotat</string>
      <string name="callrecordview_menu_batch_delete">Gruppeslett</string>
+     <string name="callrecordview_menu_conference">Call conference</string>
      <string name="callrecordview_menu_delete">Slett</string>
      <string name="callrecordview_menu_delete_accepted">Slett svarte anrop fra anropshistorikk</string>
      <string name="callrecordview_menu_delete_all">Slett</string>
@@ -762,6 +764,11 @@ Kontaktkort er slått av"</string>
      <string name="missing_name">ukjent</string>
      <string name="more_call_logs">Vis detaljer anropshistorikk på i.mi.com</string>
      <string name="move_and_resize">Flytt og skaler</string>
+     <string name="multi_number_menu_call">Call</string>
+     <string name="multi_number_menu_delete">Delete</string>
+     <string name="multi_number_menu_group">New Group</string>
+     <string name="multi_number_menu_message">Message</string>
+     <string name="multi_number_title">Call conference</string>
      <string name="multipleContactDeleteConfirmation">sletting av denne kontakten vil slette opplysninger fra flere kontoer.</string>
      <string name="multipleContactDeleteConfirmationDetail">sletting av \"%s\" vil slette informasjon fra flere kontoer.</string>
      <string name="my_in_call_show">Min video</string>
@@ -1186,6 +1193,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="searching_vcard_message">Søker etter vCard data på SD-kort</string>
      <string name="select_all">Velg alle</string>
      <string name="select_device">Velg enhet</string>
+     <string name="select_done">No more to select</string>
      <string name="select_groups">Velg grupper</string>
      <string name="select_new_photo_from_photo_package">Velg nytt bilde fra bildepakken</string>
      <string name="select_none">Intet valgt, handlingen er ugyldig</string>
@@ -1340,6 +1348,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="vcard_import_will_start_message">%s vil bli importert kort tid.</string>
      <string name="vcard_import_will_start_message_with_default_name">Filen vil bli importert innen kort tid.</string>
      <string name="vcard_unknown_filename">kontakt</string>
+     <string name="video_call">Video call</string>
      <string name="video_chat">Videochat</string>
      <string name="viewContactDesription">Vis Kontakt</string>
      <string name="viewContactTitle">Kontakt detaljer</string>
