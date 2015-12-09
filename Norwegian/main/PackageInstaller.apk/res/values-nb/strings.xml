@@ -35,7 +35,7 @@ Alle brukerinnstillingenr vil bli overskrevet."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).
 Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="dlg_app_replacement_title">Erstatt appen</string>
-     <string name="dlg_appstore_notice">Hent denne appen fra &lt;u&gt;&lt;font color=#91c727&gt;Google Play&lt;/font&gt;</u></string>
+     <string name="dlg_appstore_notice">Hent denne appen fra Google Play</string>
      <string name="dlg_ok">OK</string>
      <string name="dlg_sys_app_replacement_statement">"Dette er en systemapp. Ønsker du fortsatt å erstatte det? Alle tidligere brukerdata lagres."</string>
      <string name="done">Utfør</string>
