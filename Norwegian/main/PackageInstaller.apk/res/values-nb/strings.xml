@@ -115,7 +115,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="trust_switch_dialog_msg">"MIUI vil ikke spørre om bekreftelse rundt sikkerhetsrelaterte handlinger fra denne appen. Tillat denne App？"</string>
      <string name="uninstall_activity_text">%1$s er en del av følgende appen:</string>
      <string name="uninstall_application_text">Denne appen avinstalleres.</string>
-     <string name="uninstall_application_text_all_users">Vil du avinstallere denne appen for &lt;b>alle&lt;/b> brukere? Appen og tilhørende data blir fjernet fra <b>alle</b> brukere på enheten.</string>
+     <string name="uninstall_application_text_all_users">Vil du avinstallere denne appen for &lt;b>alle&lt;/b> brukere? Appen og tilhørende data blir fjernet fra &lt;b>alle&lt;/b> brukere på enheten.</string>
      <string name="uninstall_application_text_user">Ønsker du å avinstallere denne appen for brukeren %1$s?</string>
      <string name="uninstall_application_title">Avinstaller applikasjon</string>
      <string name="uninstall_blocked_device_owner">Denne appen kreves av enhetsadministratoren din og kan ikke avinstalleres.</string>
