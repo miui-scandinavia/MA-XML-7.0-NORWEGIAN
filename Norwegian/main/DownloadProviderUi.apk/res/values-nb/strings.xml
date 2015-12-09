@@ -228,7 +228,7 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="sniff_result_num_prefix">Funnet</string>
      <string name="sniff_result_num_video_suffix">elementer</string>
      <string name="sniff_result_num_website_suffix">nettsteder</string>
-     <string name="sniff_result_website_intro">Totalt <font color=\"#6699ff\">%1$d</font> elementer | Kilde: %2$s</string>
+     <string name="sniff_result_website_intro">Totalt %1$d elementer | Kilde: %2$s</string>
      <string name="sniff_search_assoicate_sizeinfo">Størrelse: %1$s</string>
      <string name="sniff_search_install">Installer</string>
      <string name="sniff_shortcut_cloudconfig_btn">Skjønner</string>
