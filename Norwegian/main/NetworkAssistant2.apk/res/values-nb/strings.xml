@@ -117,7 +117,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="firewall_network_restrict_notify_message">Trykk for å endre innstillinger.</string>
      <string name="firewall_network_restrict_notify_mobile">mobildata</string>
      <string name="firewall_network_restrict_notify_title">"%1$s kan ikke bruke %2$s"</string>
-     <string name="firewall_restrict_android_dialog_content">"Hvis du ikke tillater Android å koble til Internett, vil noen funksjoner, som f.eks. WLAN-hotspot bli berørt."</string>
+     <string name="firewall_restrict_android_dialog_content">For å sørge for at enheten fungerer normalt, vil enkelte Android-systemapper fortsatt koble til Internett. Disse appene vil bruke din mobildataforbindelse og kan forårsake små kostnader.</string>
      <string name="firewall_restrict_android_dialog_title">Attention</string>
      <string name="firewall_rule_group_title_mobile">Mobil</string>
      <string name="firewall_rule_group_title_roaming">Internasjonal roaming</string>
@@ -207,7 +207,6 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="megabyte_per_second">M/s</string>
      <string name="mi_service_app_detail">Statistikk over dataforbruk</string>
      <string name="mi_service_framework">Mi tjenesterammeverk</string>
-     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Rammeverkdetaljer</string>
      <string name="mian_page_primary_txt">Internasjonal roaming</string>
      <string name="miuishare_title_more">Mer</string>
@@ -545,10 +544,10 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_msg_today">Data spart i dag:</string>
      <string name="traffic_saving_need_optimize">Kan bli optimalisert</string>
      <string name="traffic_saving_notification_button_start">Aktiver</string>
-     <string name="traffic_saving_notify_no_apps_saving">Ingen apper bruker datasparing</string>
+     <string name="traffic_saving_notify_no_apps_saving">Reduser dataforbruk</string>
      <string name="traffic_saving_notify_no_apps_saving_content">Trykk for å skru på datasparer.</string>
      <string name="traffic_saving_notify_start_content">%s spart denne måneden.</string>
-     <string name="traffic_saving_notify_start_title">Reduser din databruk</string>
+     <string name="traffic_saving_notify_start_title">Dataforbruk redusert</string>
      <string name="traffic_saving_one_key_optimize">Optimaliser for å spare data</string>
      <string name="traffic_saving_optimized">Allerede optimalisert</string>
      <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -562,7 +561,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_saving_tecsupport_international">Drevet av Opera Max</string>
      <string name="traffic_saving_title">Datasparing</string>
      <string name="traffic_saving_toast_start_mobile">Datasparing er på</string>
-     <string name="traffic_saving_toast_start_none_mobile">Datasparing vil starte hver gang du bruker mobildata</string>
+     <string name="traffic_saving_toast_start_none_mobile">Datasparing vil aktiveres når du bruker mobildata</string>
      <string name="traffic_saving_toast_start_unreachable">"Kan ikke starte datasparing"</string>
      <string name="traffic_saving_toast_stop">Datasparing er av</string>
      <string name="traffic_saving_whitelist_btn_add">Legg til</string>

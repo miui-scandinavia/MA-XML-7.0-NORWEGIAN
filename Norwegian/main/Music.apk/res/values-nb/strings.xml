@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account">Konto</string>
      <string name="account_and_cloud">Konto</string>
@@ -147,6 +147,9 @@
      <string name="download_while_playing_no_vip_summary">Automatisk last ned sangene du hører på (unntatt betalt innhold)</string>
      <string name="download_while_playing_summary">"Automatisk last ned sanger du hører på nettet"</string>
      <string name="download_while_playing_title">Hør på under nedlastning</string>
+     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+     <string name="durationformatshort">%2$d:%5$02d</string>
+     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="empty_page_no_album">Ingen album.</string>
      <string name="empty_page_no_artist">Ingen artister.</string>
      <string name="empty_page_no_document">Ingen lydfiler.</string>
@@ -245,8 +248,7 @@
      <string name="in_searching_please_wait">Søker…</string>
      <string name="is_loading_data">Laster sanger. Vent ett minutt eller to og prøv igjen.</string>
      <string name="is_scanning">Sjekker lagring…</string>
-     <string name="is_scanning_support_online">"Sjekker lagring…
-(I mellomtiden kan du strømme musikk fra nettet)"</string>
+     <string name="is_scanning_support_online">"Sjekker lagring…(I mellomtiden kan du strømme musikk fra nettet)"</string>
      <string name="japan_korea_female">Kvinnelige artister (Japan/Korea)</string>
      <string name="japan_korea_group">Band (Japan/Korea)</string>
      <string name="japan_korea_male">Mannelige artister (Japan/Korea)</string>

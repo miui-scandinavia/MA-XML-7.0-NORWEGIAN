@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="achieve_condition">Belønnet for:</string>
      <string name="achieved">TJENT</string>
@@ -34,6 +34,7 @@
      <string name="device_unlock_screen_times">Skjerm låst opp</string>
      <string name="device_usage_data">Statistikk over telefonbruk</string>
      <string name="download_message">Last ned %s?</string>
+     <string name="download_progress">%d%%</string>
      <string name="download_title">Last ned denne appen?</string>
      <string name="downloading">Laster ned…</string>
      <string name="exp_buff">+%s%% opplevelse</string>
@@ -48,7 +49,10 @@
      <string name="invalid_json">Noe gikk galt</string>
      <string name="level">Level</string>
      <string name="level_detail">Daglig oppgavegrense: %d</string>
+     <string name="level_exp_value" formatted="false">Points: %d/%d</string>
+     <string name="level_info_format" formatted="false">"Level %d %d/%d%s"</string>
      <string name="limit_task">Begrensede utfordringer</string>
+     <string name="limit_task_format" formatted="false">%d/%d</string>
      <string name="millis">%dms</string>
      <string name="minutes">%d minutter</string>
      <string name="my_award">Mine belønnelser</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Parse_error_dlg_text">Det oppsto et problem under lesing av pakken.</string>
      <string name="Parse_error_dlg_title">Lesefeil</string>
@@ -30,10 +30,8 @@
      <string name="caller_app">Tilatelsesforespørsel fra %1$s</string>
      <string name="cancel">Avbryt</string>
      <string name="devicePerms">Enhetstilgang</string>
-     <string name="dlg_app_replacement_statement">"Appen du installerer vil overskrive en annen app
-Alle brukerinnstillingenr vil bli overskrevet."</string>
-     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).
-Alle brukerinnstillinger vil bli tatt vare på."</string>
+     <string name="dlg_app_replacement_statement">"Appen du installerer vil overskrive en annen appAlle brukerinnstillingenr vil bli overskrevet."</string>
+     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="dlg_app_replacement_title">Erstatt appen</string>
      <string name="dlg_appstore_notice">Hent denne appen fra Google Play</string>
      <string name="dlg_ok">OK</string>
@@ -135,6 +133,7 @@ Alle brukerinnstillinger vil bli tatt vare på."</string>
      <string name="unknown_installer">Ukjent installeringsverktøy</string>
      <string name="virus_scan_caller_unknown">Ukjent</string>
      <string name="virus_scan_clear">Fjern</string>
+     <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
      <string name="virus_scan_is_risk">Dette programmet utgjør en risiko!</string>
      <string name="virus_scan_is_virus">Dette programmet er et virus, vennligst fjern det øyeblikkelig!</string>
      <string name="waiting_tip">Dette kan ta en stund, men det er verdt det</string>

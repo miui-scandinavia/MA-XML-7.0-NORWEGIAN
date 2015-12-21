@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_add_attendee">Legg til deltager</string>
      <string name="accessibility_add_reminder">Legg til påminnelse</string>
@@ -86,10 +86,7 @@
      <string name="copy_db">Send database</string>
      <string name="copy_email">Kopier epostadresse</string>
      <string name="copy_number">Kopier telefonnummer</string>
-     <string name="create_an_account_desc">"Kalender fungerer bedre med en Mi-konto.
-
-• Få adgang til den fra enhver nettleser
-• Sikkerhetskopier dine hendelser på sikkert vis"</string>
+     <string name="create_an_account_desc">"Kalender fungerer bedre med en Mi-konto.• Få adgang til den fra enhver nettleser• Sikkerhetskopier dine hendelser på sikkert vis"</string>
      <string name="create_event_dialog_save">Lagre</string>
      <string name="creating_event">Hendelsen er opprettet.</string>
      <string name="creating_event_with_guest">Invitasjonene er sendt.</string>
@@ -321,6 +318,7 @@
      <string name="repeat_end_label">Stopp gjentakelse etter</string>
      <string name="repeat_end_times_unit">" ganger"</string>
      <string name="repeat_interval_dialog_title">Hver %1$s</string>
+     <string name="repeat_interval_frequency">%1$d %2$s</string>
      <string name="repeat_interval_frequency_single">%1$s</string>
      <string name="repeat_label_choose_day">Velg dag</string>
      <string name="repeat_label_choose_month">Velg måned</string>
@@ -330,6 +328,7 @@
      <string name="repeat_label_frequency">Hyppighet</string>
      <string name="repeat_label_interval">Every</string>
      <string name="repeat_label_week">Week</string>
+     <string name="repeat_lunar_yearly" />
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">Gjentakelse</string>

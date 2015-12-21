@@ -10,7 +10,7 @@
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
      <string name="already_liked">"Du har alleredet favorisert denne tingen"</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
-     <string name="app_name">Filutforsker</string>
+     <string name="app_name">Utforsker</string>
      <string name="app_name_bluetooth">Bluetooth</string>
      <string name="app_name_camera">Kamera</string>
      <string name="app_name_downloadedrom">Pakker</string>
@@ -24,14 +24,14 @@
      <string name="app_name_screenshot">Skjermbilder</string>
      <string name="archive_send_to">Send til…</string>
      <string name="background">Stille nedlastning</string>
-     <string name="backup_cancel">Nei takk</string>
-     <string name="backup_checkbox_msg">Always back up and show notifications</string>
+     <string name="backup_cancel">"Ikke sikkerhetskopiér"</string>
+     <string name="backup_checkbox_msg">Alltid sikkerhetskopiér og vis varsler</string>
      <string name="backup_confirm">Sikkerhetskopiér nå</string>
      <string name="backup_success_cancel">OK</string>
      <string name="backup_success_confirm">Vis</string>
      <string name="backup_success_message">Sikkerhetskopiert til %1$s</string>
      <string name="backup_success_title">Sikkerhetskopiert</string>
-     <string name="backup_title">Sikkerhetskopier av WeChat Video</string>
+     <string name="backup_title">Sikkerhetskopiér WeChat-videoer?</string>
      <string name="big5_summary">Standard koding av den tradisjonelle kinesiske versjonen av Windows-system</string>
      <string name="big5_title">BIG5</string>
      <string name="bind_account">Knytt til kuaipan-konto</string>
@@ -87,12 +87,12 @@
      <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
      <string name="create_new_folder_failed">Kunne ikke opprette mappe</string>
      <string name="create_share_link_description">Oppretter delingslink…</string>
-     <string name="create_shortcut_cancel">Nei takk</string>
+     <string name="create_shortcut_cancel">Nei</string>
      <string name="create_shortcut_checkbox_hint">"Ikke vis igjen"</string>
      <string name="create_shortcut_confirm">Opprett</string>
-     <string name="create_shortcut_message">Du bruker Filutforsker veldig ofte. Vil du opprette en snarvei på hjemskjermen for å administere filer raskere?</string>
+     <string name="create_shortcut_message">Opprett en snarvei på hjemskjermen?</string>
      <string name="create_shortcut_success">Snarvei opprettet</string>
-     <string name="create_shortcut_title">Opprett en snarvei</string>
+     <string name="create_shortcut_title">Opprett en snarvei?</string>
      <string name="cution">Tips</string>
      <string name="data_capacity">Data %1$s</string>
      <string name="data_consumption_cancel">Avbryt</string>
@@ -285,7 +285,7 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="name_illegal">Du må skrive et navn.</string>
      <string name="net_lose_connected">Nettverk ikke tilgjengelig, kan ikke få størrelse</string>
      <string name="networkView_notConnected">Ingen nettverk tilgjengelig</string>
-     <string name="network_connect_confirm_des">Vi vil bruke nettverk for å få tilgang til kuaipan, tilat?</string>
+     <string name="network_connect_confirm_des">Utforsker trenger en Internett-forbindelse for å fungere normalt.</string>
      <string name="network_spent_reminding">Åpning av denne siden krever noe datatrafikk fra abonnementet.</string>
      <string name="network_spent_reminding_title">Dataforbruksvarsel</string>
      <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
@@ -317,12 +317,11 @@ og aldri glipp av de kule nye!"</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
-     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Når %1$s oppretter en fil</string>
-     <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
-     <string name="notification_wechat_auto_backup_switch_title">Back up WeChat videos</string>
+     <string name="notification_wechat_auto_backup_hint">Trykk for å vise mer.</string>
+     <string name="notification_wechat_auto_backup_switch_title">Sikkerhetskopiér WeChat-videoer</string>
      <string name="notification_wechat_expired_empty">WeChat har allerede slettet disse videoklippene.</string>
      <string name="notification_wechat_sticker_hint">Vis varsel når nye WeChat-klistremerker er tilgjengelig</string>
      <string name="notification_wechat_sticker_switch_title">Daglig varsel for nytt klistremerke</string>
@@ -384,7 +383,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="partial_repair_done">Noen filer ble gjenopprettet</string>
      <string name="paused">På pause</string>
      <string name="petabyteShort">PB</string>
-     <string name="phone">Telefon</string>
+     <string name="phone">Intern lagring</string>
      <string name="pick_folder">Velg mappe</string>
      <string name="port_range">Port må være mellom 1024–65535</string>
      <string name="private_files">Skjult</string>

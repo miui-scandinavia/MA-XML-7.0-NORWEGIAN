@@ -48,8 +48,7 @@
      <string name="app_plugin_ready">%1$s-komponent er klar</string>
      <string name="app_recommend">Utvalgte</string>
      <string name="app_update_background">Oppdater programmet i bakgrunnen</string>
-     <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
-     <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
+     <string name="app_upgrade_title">Mi Video er alleeredeo oppgradert til nyeste versjon.</string>
      <string name="app_upgrade_version">Ny versjon</string>
      <string name="app_version">Programversjon</string>
      <string name="app_wifi_mode">Oppdater automatisk</string>
@@ -304,9 +303,9 @@
      <string name="not_exist_openid">henter kontoinformasjon, vennligst vent...</string>
      <string name="not_login">Logg inn</string>
      <string name="notification_default_title">Offline video</string>
-     <string name="notification_sub_title">Total %d download task(s) completed</string>
-     <string name="notification_ticker_text">Offline video download completion</string>
-     <string name="notification_title">\"%s\" download completion</string>
+     <string name="notification_sub_title">Totalt %d nedlastingsoppgave(r) fullført</string>
+     <string name="notification_ticker_text">Nedlasting av offline video fullført</string>
+     <string name="notification_title">\"%s\"-nedlasting fullført</string>
      <string name="nowifi_alert_dialog_continue">Fortsett</string>
      <string name="nowifi_alert_dialog_exit">Avslutt</string>
      <string name="nowifi_alert_dialog_message">Spiller av video på mobilnettverk, fortsett?</string>

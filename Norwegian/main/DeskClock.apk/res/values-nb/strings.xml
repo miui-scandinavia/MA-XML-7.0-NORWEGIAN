@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="add_alarm">Ny alarm</string>
      <string name="alarm_alert">Alarmtone</string>
@@ -175,6 +175,7 @@
      <string name="shutdown_alarm_enable_summary">Aktiver Avslåingsalarm</string>
      <string name="shutdown_alarm_title">Slå av Alarm</string>
      <string name="silent_alarm_summary">Lydløs</string>
+     <string name="skip_alarm_date_format">%1$s(%2$s)</string>
      <string name="skip_alarm_once_hint">Skru av når på %s</string>
      <string name="slash">/</string>
      <string name="slider_text">Dra opp for å lukke</string>

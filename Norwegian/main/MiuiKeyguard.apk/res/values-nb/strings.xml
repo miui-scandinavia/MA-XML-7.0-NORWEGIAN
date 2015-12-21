@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="click_to_enter_text">Trykk for å vise</string>
      <string name="confirm_pin_msg">Skriv PIN igjen</string>
@@ -28,15 +28,14 @@
      <string name="input_puk_code">Skriv PUK</string>
      <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
      <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
+     <string name="lock_screen_date_12">EEEE, MMMM d</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
      <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>
      <string name="lockscreen_access_pattern_start">Mønster startet</string>
      <string name="lockscreen_charging_msg">Lader</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har prøvd å låse opp enheten din uriktig %d ganger. Etter %d flere mislykkede forsøk, vil enheten din bli tilbakestilt til fabrikkinnstillinger og alle brukerdata vil bli slettet.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved hjelp av din Mi-konto.
-
- Prøv igjen om %d sekunder."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrevet passordet ditt feil %d ganger. Etter %d flere mislykkede forsøk, vil du bli spurt om å låse opp enheten din ved hjelp av din Mi-konto. Prøv igjen om %d sekunder."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Du har uriktig prøvd å låse opp enheten din %d ganger. Denne enheten vil nå bli tilbakestilt til fabrikkinnstillinger.</string>
      <string name="lockscreen_glogin_checking_password">Sjekker…</string>
      <string name="lockscreen_glogin_invalid_input">Ugyldig brukernavn eller passord.</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_not_found_uri">Ingen app ble funnet for å håndtere denne handlingen</string>
      <string name="add_attachment">Legg til vedlegg</string>
@@ -9,6 +9,7 @@
      <string name="add_smiley">Smiley</string>
      <string name="add_timing">Nedtelling</string>
      <string name="already_followed">"Du følger allerede dette numret"</string>
+     <string name="app_name">com.miui.mipub</string>
      <string name="attach_image">Bilder</string>
      <string name="attach_slideshow">Lysbildeshow</string>
      <string name="attach_sound">Lydfil</string>
@@ -85,6 +86,7 @@
      <string name="hms_uri_param_err">"URLen kan ikke være tom"</string>
      <string name="invalid_conversation">Ugyldig samtale</string>
      <string name="left_cancel">Sveip til venstre for å avbryte</string>
+     <string name="low_memory">low_memory!</string>
      <string name="menu_add_black">Blokker dette nummeret</string>
      <string name="menu_add_contact">Legg til eksisterende kontakt</string>
      <string name="menu_call">Ring</string>

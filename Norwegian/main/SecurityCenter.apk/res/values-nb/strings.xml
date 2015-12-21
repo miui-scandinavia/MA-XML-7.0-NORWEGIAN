@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS og MMS</string>
      <string name="Settings_title_anti_spam">Blokkeringsliste-innstillinger</string>
@@ -43,6 +43,7 @@
      <string name="activity_title_virus_detail">Virusdetaljer</string>
      <string name="activity_title_virus_settings">Innstillinger</string>
      <string name="activity_title_white_list">Unntak</string>
+     <string name="antivirus_choose_engine">%s</string>
      <string name="antivirus_choose_engine_dialog_title">Velg definisjoner</string>
      <string name="antivirus_choose_engine_disable_toast">"Kan ikke bytte definisjoner samtidig som en skann pågår</string>
      <string name="antivirus_choose_engine_settings">Innstillinger for virusdefinisjoner</string>
@@ -456,8 +457,7 @@
      <string name="power_center_low_battery_summary_dynamic">"Ved %1$d%% bytt til %2$s"</string>
      <string name="power_center_low_battery_title">Batterisparer</string>
      <string name="power_center_on_time_summary_default">Bytt batteriprofil på planlagt tidspunkt</string>
-     <string name="power_center_on_time_summary_dynamic">"%1$s - %2$s
- bytt til %3$s""</string>
+     <string name="power_center_on_time_summary_dynamic">"%1$s - %2$s bytt til %3$s""</string>
      <string name="power_center_on_time_title">Planlegg profilbytte</string>
      <string name="power_center_ontime_boot">Slå på-tid</string>
      <string name="power_center_ontime_shutdown">Slå av-tid</string>

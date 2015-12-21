@@ -252,20 +252,20 @@
      <string name="trans_detail_category_sysdata">Systemdata</string>
      <string name="trans_detail_category_userdata">Apper</string>
      <string name="trans_device_disconnected">Enhet frakoblet</string>
-     <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
+     <string name="trans_generate_qr_code_failed">"Kunne ikke opprette QR-kode"</string>
      <string name="trans_main_tutor">Overfør kontakter, anropshistorikk, meldinger, hjemskjerm, apper, innstillinger osv til en ny enhet</string>
      <string name="trans_my_device">Min enhet</string>
      <string name="trans_one_key_migrate">Overfør</string>
-     <string name="trans_operate_new_phone_tips">"Scan QR code using new device
-Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a recipient] to create a QR code"</string>
-     <string name="trans_operate_old_phone_tips1">"Method A
-1. Install the Transfer app on your old device
-2. Open the app and select [I'm a sender]
-3. Scan the QR code with your old device"</string>
+     <string name="trans_operate_new_phone_tips">"Skann QR-kode med ny enhet
+Gå til Innstillinger &gt; Flere innstillinger &gt; Overfør
+ Trykk [Jeg er en mottaker] for å opprette en QR-kode"</string>
+     <string name="trans_operate_old_phone_tips1">"Metode A
+1. Installer Overfør-appen på din gamle enhet
+2. Åpne appen og velg [Jeg er en sender]
+3. Skann QR-koden med din gamle enhet"</string>
      <string name="trans_operate_old_phone_tips2">"Method B
-Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a sender]"</string>
+Gå til Innstillinger &gt; Flere innstillinger &gt; Overfør
+ Velg [Jeg er en sender]"</string>
      <string name="trans_progress_subdescript_br_receiver">Mottar %s</string>
      <string name="trans_progress_subdescript_br_sender">Sikkerhetskopierer %s</string>
      <string name="trans_progress_subdescript_transing_receiver">Mottar %s</string>
@@ -277,8 +277,8 @@ Go to Settings &gt; Additional Settings &gt; Transfer
      <string name="trans_receiving_completed">Data mottatt</string>
      <string name="trans_restoring">Gjenoppretter…</string>
      <string name="trans_restoring_no_items">Synker elementer</string>
-     <string name="trans_scan_invalid_qrcode">QR code invalid</string>
-     <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+     <string name="trans_scan_invalid_qrcode">Ugyldig QR-kode</string>
+     <string name="trans_scan_qr_code_tips">Skann QR-kode med ny enhet</string>
      <string name="trans_select_device_receive">Velg en enhet til å motta data.</string>
      <string name="trans_select_device_send">Velg en enhet til å overføre data.</string>
      <string name="trans_sender">"Jeg er en sender"</string>
@@ -287,10 +287,10 @@ Go to Settings &gt; Additional Settings &gt; Transfer
      <string name="trans_sender_searching_ensurance">"Sørg for at gammel enhet er på
 Venter på at den gamle enheten kobler seg til…"</string>
      <string name="trans_sending_completed">Data sendt</string>
-     <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
+     <string name="trans_show_qr_code_tips">Skann QR-kode med gammel enhet</string>
      <string name="trans_time_format_second">mindre enn ett minutt</string>
      <string name="trans_time_remained">, klar om</string>
-     <string name="trans_waiting_ensurance">"Sørg for at gammel enhet er på 
+     <string name="trans_waiting_ensurance">"Sørg for at gammel enhet er på
 og Overføring er aktivert"</string>
      <string name="trans_waiting_for_sender">Venter på at den gamle enheten kobler seg til…</string>
      <string name="unit_byte">B</string>

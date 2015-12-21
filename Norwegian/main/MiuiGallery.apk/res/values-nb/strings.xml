@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Importer</string>
      <string name="abandon">Avbryt</string>
@@ -89,6 +89,7 @@
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Synk automatisk</string>
      <string name="autofix">Auto-fiks</string>
+     <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baby_album">Baby album</string>
      <string name="baby_album_new_photo_page_title">"%1$s sitt album"</string>
@@ -96,8 +97,7 @@
      <string name="baby_album_no_share_user_tip">Ingen følgere foreløpig</string>
      <string name="baby_album_picker_default_title">"Velg %1$s sitt ansikt"</string>
      <string name="baby_album_setting_title">Baby info</string>
-     <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
-%3$s's %4$s delte %5$s's album med deg"</string>
+     <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,%3$s's %4$s delte %5$s's album med deg"</string>
      <string name="baby_album_sharer_recommand_face">Legg til eksisterende bilder av %1$s?</string>
      <string name="baby_album_sharers_page_title">Del med familier</string>
      <string name="baby_birthday">Bursdag</string>
@@ -549,12 +549,9 @@
      <string name="cloud_gallery_space_full_buy_more">"Kan ikke synke nye bilder med din Mi Cloud. For å synke flere bilder, kjøp mer lagringsplass."</string>
      <string name="cloud_gallery_space_full_title">Mi Cloud er full</string>
      <string name="cloud_media_set_set">Sky</string>
-     <string name="cloud_owner_album_share_guide">"Del
-     	dette albumet
-     	med venner"</string>
+     <string name="cloud_owner_album_share_guide">"Del     	dette albumet     	med venner"</string>
      <string name="cloud_screenshots_display_name">Skjermbilder</string>
-     <string name="cloud_share_guide_message">"Du kan dele ditt MiCloud-album med
-venner."</string>
+     <string name="cloud_share_guide_message">"Du kan dele ditt MiCloud-album medvenner."</string>
      <string name="cloud_share_guide_title">MiCloud Sharing!</string>
      <string name="cloud_tab_albums">Album</string>
      <string name="cloud_tab_all">Alle</string>
@@ -604,6 +601,7 @@ venner."</string>
      <string name="context_menu_copy_notice">Kopiert til utklippstavlen</string>
      <string name="contrast">Kontrast</string>
      <string name="contrast_abbr">C</string>
+     <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
      <string name="cool">Kul</string>
      <string name="cool_portrait">Portrett</string>
      <string name="create_baby_album">Lag ett baby album</string>
@@ -936,14 +934,16 @@ venner."</string>
      <string name="open_sync_title">Synk med Mi Cloud</string>
      <string name="operation_add_picture">Legg til elementer</string>
      <string name="operation_add_secret">Legg til i skjult album</string>
-     <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slettet på samme tid.
-"</string>
+     <string name="operation_add_secret_button">Skjul</string>
+     <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slettet på samme tid."</string>
      <string name="operation_failed">Operasjon feilet!</string>
      <string name="operation_give_name">Navn</string>
      <string name="operation_in_process">Behandler...</string>
      <string name="operation_refresh">Oppdater</string>
      <string name="operation_remove_from_face_album">Fjern fra album</string>
+     <string name="operation_remove_from_face_album_button">Fjern</string>
      <string name="operation_remove_secret">Fjern fra skjult album</string>
+     <string name="operation_remove_secret_button">Vis</string>
      <string name="operation_rename">Gi nytt navn</string>
      <string name="operation_rename_baby">Skriv navn</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
@@ -1216,6 +1216,7 @@ venner."</string>
      <string name="view_queuing_status">Sjekk status</string>
      <string name="view_sharers">Vis delere</string>
      <string name="vignette">Vignette</string>
+     <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
      <string name="wallpaper">Skrivebordsbakgrunn</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advarsel</string>

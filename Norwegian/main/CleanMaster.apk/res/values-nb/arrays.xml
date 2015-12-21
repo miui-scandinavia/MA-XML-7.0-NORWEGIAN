@@ -8,9 +8,6 @@
         <item>Installer</item>
      </string-array>
      <string-array name="app_clean_menu">
-        <item>Detaljer</item>
-        <item>Fil</item>
-        <item>Sikkerhetskopier og avinstaller</item>
         <item>Avinstaller</item>
      </string-array>
      <string-array name="auto_alert_apps_time">
@@ -43,7 +40,8 @@
      <string-array name="cache_clean_menu">
         <item>Rydd opp</item>
         <item>Fil</item>
-        <item>Unntak</item>
+        <item>Legg fil i unntak</item>
+        <item>Legg app i unntak</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Størrelse</item>
@@ -61,8 +59,8 @@
         <item>Navn</item>
      </string-array>
      <string-array name="trash_clean_menu">
-        <item>Clean up</item>
-        <item>File</item>
-        <item>Add file to exceptions</item>
+        <item>Rydd opp</item>
+        <item>Fil</item>
+        <item>Legg fil i unntak</item>
      </string-array>
 </resources>

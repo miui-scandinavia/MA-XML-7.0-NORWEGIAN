@@ -26,6 +26,6 @@
      <string name="upgrade_out_of_memory_notification_text">Velg for å ferdigstille oppgraderingen.</string>
      <string name="upgrade_out_of_memory_notification_ticker">Kontaktoppgradering har bruk for mer minne</string>
      <string name="upgrade_out_of_memory_notification_title">Oppgraderer kontaktminne</string>
-     <string name="video_call">Video call</string>
+     <string name="video_call">Videosamtale</string>
      <string name="voicemail_from_column">"Talebeskjed fra "</string>
 </resources>
