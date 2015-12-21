@@ -4,7 +4,7 @@
      <string name="app_label">HTML-fremviser</string>
      <string name="app_name_which_call">Program: %s</string>
      <string name="app_version_which_call">Programversjon: %s</string>
-     <string name="license_host_unreachable">"Kunne ikke koble til nettverket. For å vise denne informasjonen nå, 
+     <string name="license_host_unreachable">"Kunne ikke koble til nettverket. For å vise denne informasjonen nå,
   gå til %s"</string>
      <string name="loading">Laster…</string>
      <string name="mibi_license">Tjenestevilkår for Mi-kreditter</string>
@@ -12,11 +12,11 @@
      <string name="open_wifi_connect_title">Koble til %1$s</string>
      <string name="permdesc_accessDrm">Tillat programmer å få tilgang til DRM-beskyttet innhold.</string>
      <string name="policy_name">Vilkår: %s</string>
-     <string name="settings_license_activity_loading">Loading…</string>
-     <string name="settings_license_activity_title">Open source licenses</string>
-     <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
-     <string name="settings_safetylegal_activity_loading">Loading…</string>
-     <string name="settings_safetylegal_activity_title">Safety information</string>
-     <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
-     <string name="settings_safetylegal_title">Safety information</string>
+     <string name="settings_license_activity_loading">Laster…</string>
+     <string name="settings_license_activity_title">Åpen kilde-lisenser</string>
+     <string name="settings_license_activity_unavailable">Det oppsto et problem med lasting av lisenser.</string>
+     <string name="settings_safetylegal_activity_loading">Laster…</string>
+     <string name="settings_safetylegal_activity_title">Sikkerhetsinformasjon</string>
+     <string name="settings_safetylegal_activity_unreachable">"Du har ingen dataforbindelse. For å vise denne informasjonen nå, gå til %s fra en annen PC tilkoblet internett."</string>
+     <string name="settings_safetylegal_title">Sikkerhetsinformasjon</string>
 </resources>

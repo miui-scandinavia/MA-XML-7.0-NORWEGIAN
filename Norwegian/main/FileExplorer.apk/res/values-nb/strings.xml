@@ -4,7 +4,7 @@
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
      <string name="action_mode_select_all">Velg alle</string>
-     <string name="add_private">Hide files now</string>
+     <string name="add_private">Skjul filer nå</string>
      <string name="add_private_files">Legg til filer</string>
      <string name="add_task">Legg til oppgaver</string>
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
@@ -81,7 +81,7 @@
      <string name="confirm_know">OK</string>
      <string name="connect_network_setting_des">Påminn meg når jeg bruker nettverk</string>
      <string name="connection_error">"Kunne ikke koble til"</string>
-     <string name="copy_failed">Kopiering mislykkes</string>
+     <string name="copy_failed">"Kunne ikke kopiere, det ser ut til at lagringsplassen er full"</string>
      <string name="copy_file_to_kuaipan">Kopier filer til Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
      <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
@@ -144,7 +144,7 @@
      <string name="encrypt_error">"Kunne ikke skjule filer, prøv igjen"</string>
      <string name="encrypt_prefix">SKJULT</string>
      <string name="encrypt_success">Alle filer skjult</string>
-     <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on Explorer's start page."</string>
+     <string name="encrypt_success_first_five">"Filen ble kryptet og flyttet. Du kan vise skjulte filer ved å dra ned på startsiden til Filutforsker."</string>
      <string name="encrypting">Krypterer…</string>
      <string name="error_filename_too_long">Filnavn er for langt</string>
      <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
@@ -389,8 +389,8 @@ og aldri glipp av de kule nye!"</string>
      <string name="port_range">Port må være mellom 1024–65535</string>
      <string name="private_files">Skjult</string>
      <string name="private_folder">Skjult mappe</string>
-     <string name="private_folder_no_file_hints">No hidden files.</string>
-     <string name="private_folder_update">Updating hidden files…</string>
+     <string name="private_folder_no_file_hints">Ingen skjulte filer.</string>
+     <string name="private_folder_update">Oppdaterer skjulte filer…</string>
      <string name="private_toast_hint1">Trykk for å legge til filer i skjulte mapper</string>
      <string name="private_toast_hint2">For å skjule filer, trykk og hold på den, så legg til i skjult mappe.</string>
      <string name="private_toast_hint3">Dra ned for å åpne skjulte mapper</string>
@@ -404,7 +404,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="repair_done">Gjenopprettet</string>
      <string name="repair_error">"Kunne ikke gjenopprette"</string>
      <string name="repair_file">Gjenopprett krypterte filer</string>
-     <string name="reset_password">Reset passord</string>
+     <string name="reset_password">Endre passord</string>
      <string name="restoring">Gjenoppretter…</string>
      <string name="rlv_last_refreshing_time">Sist skannet %1$s</string>
      <string name="rlv_loading_more">Bare et sekund…</string>

@@ -105,7 +105,7 @@ Sørg for at fingeren dekker den indre kanten av sensoren"</string>
      <string name="add_fingerprint_move_finger_title">Fjern finger</string>
      <string name="add_fingerprint_put_finger_edge_msg">Etter at du har trykket på sensoren, fjern fingeren, og repetér igjen.</string>
      <string name="add_fingerprint_put_finger_msg">Etter du har trykket på sensoren, fjern fingeren, og repetér igjen.</string>
-     <string name="add_fingerprint_put_finger_title">Plassér fingeren</string>
+     <string name="add_fingerprint_put_finger_title">Plassér fingeren, og fjern fingeren</string>
      <string name="add_fingerprint_text">Legg till fingeravtrykk</string>
      <string name="add_fingerprint_toast_text">Plasser fingeren din på skanneren nå</string>
      <string name="adding_profile_owner_warning">"Hvis du fortsetter, kommer brukeren din til å styres av administratoren din, som kanskje kan lagre tilknyttede data, i tillegg til de private dataene dine.
@@ -769,7 +769,7 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="crypt_keeper_confirm_encrypt">Du må tegne opplåsingsmønsteret ditt for å bekrefte krypteringen av enheten din.</string>
      <string name="crypt_keeper_confirm_title">Vil du kryptere?</string>
      <string name="crypt_keeper_cooldown">Prøv på nytt om ^1 sekunder.</string>
-     <string name="crypt_keeper_data_corrupt_summary">"Passordet du skrev inn er korrekt, men dessverre er dataene dine skadet. 
+     <string name="crypt_keeper_data_corrupt_summary">"Passordet du skrev inn er korrekt, men dessverre er dataene dine skadet.
 
 Hvis du vil bruke telefonen din, må du tilbakestille den til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, kan du gjenopprette eventuelle data som ble sikkerhetskopiert på Google-kontoen din."</string>
      <string name="crypt_keeper_data_corrupt_title">Dekrypteringen mislyktes</string>
@@ -1174,13 +1174,13 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="encrypt_talkback_dialog_require_pin">Vil du kreve PIN-kode?</string>
      <string name="encryption_continue_button">Fortsett</string>
      <string name="encryption_interstitial_header">Kryptering</string>
-     <string name="encryption_interstitial_message_password">"Du kan beskytte denne enheten ved å kreve et passord ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer. 
+     <string name="encryption_interstitial_message_password">"Du kan beskytte denne enheten ved å kreve et passord ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
 
 Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
-     <string name="encryption_interstitial_message_pattern">"Du kan beskytte denne enheten ved å kreve et mønster ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer. 
+     <string name="encryption_interstitial_message_pattern">"Du kan beskytte denne enheten ved å kreve et mønster ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
 
 Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
-     <string name="encryption_interstitial_message_pin">"Du kan beskytte denne enheten ved å kreve en PIN-kode ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer. 
+     <string name="encryption_interstitial_message_pin">"Du kan beskytte denne enheten ved å kreve en PIN-kode ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
 
 Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
      <string name="enforce_read_external_confirm_message">"Når USB-lagring er beskyttet, må apper be om tillatelse til å lese data fra ekstern lagring.

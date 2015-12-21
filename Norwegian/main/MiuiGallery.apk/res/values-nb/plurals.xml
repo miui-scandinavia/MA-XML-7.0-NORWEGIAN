@@ -27,67 +27,67 @@
      </plurals>
      <plurals name="confirm_delete_album">
         <item quantity="other">Slett %1$s album (%2$s totalt)?</item>
-        <item quantity="one">Slett %1$s album (%2$s totalt)?</item>
+        <item quantity="one">Slett dette albumet (%s totalt)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Slett %s bilder i skyen?</item>
-        <item quantity="one">Slett %s bilde i skyen?</item>
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> bilder fra dette albumet?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra dette albumet?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer er bilder i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder fra Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Valgte element er bilde i Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> slett fra Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder fra Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra Mi Cloud??&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
         <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementer fra dette albumet?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer er bilder eller videoer i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementer fra Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementer fra Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
         <item quantity="other">Slett %s bilder både lokalt og i skyen?</item>
-        <item quantity="one">Slett %s bilde både lokalt og i skyen?</item>
+        <item quantity="one">Slett %d bilde både lokalt og i skyen?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer inkluderer bilder i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder både fra denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Valgte elementer inkluderer bilder i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilder fra både denne enheten og Mi Cloud?&lt;/Data></item>
         <item quantity="one">&lt;Data>Valgte element inkluderer bilde i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> bilde fra både denne enheten og Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer inkluderer bilder eller videoer i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementer både fra denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> elementer fra både denne enheten og Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Slett %s videoer både lokalt og i skyen?</item>
-        <item quantity="one">Slett %s video både lokalt og i skyen?</item>
+        <item quantity="other">Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra både denne enheten og fra Mi Cloud?</item>
+        <item quantity="one">Slett denne videoen både fra enhetens interne lager og fra Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer inneholder videoer i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer fra både denne enheten og Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Valgte element inneholder video i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video fra både denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer både fra denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett en video både fra denne enheten og Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">>Slett %s video fra dette albumet?</item>
-        <item quantity="one">Slett %s videoer fra dette albumet?</item>
+       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra dette albumet?&lt;/Data></item>
+       <item quantity="one">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video fra dette albumet?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Valgte elementer er videoer i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videor fra Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Valgte element er video i Mi Cloud, slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video fra Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videoer fra Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video fra Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Slett %s bilder?</item>
-        <item quantity="one">Slett %s bilder?</item>
+        <item quantity="one">Slett dette bildet?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Slett %s elementer?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Slett %s videoer?</item>
-        <item quantity="one">Slett %s video?</item>
+        <item quantity="one">Slett denne videoen?</item>
      </plurals>
      <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Slett %1$d bilder fra %2$d album?</item>
-        <item quantity="one">Delete %1$d bilde fra %2$d album?</item>
+       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d bilder&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+       <item quantity="one">&lt;Data>Slett dette bildet fra %2$d album?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">Slett %1$d videoer fra %2$d album?</item>
-        <item quantity="one">Slett %1$d video fra %2$d album?</item>
+       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d videoer&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+       <item quantity="one">&lt;Data>Slett denne videoen fra %2$d album?&lt;/Data></item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d bilder</item>
@@ -143,19 +143,19 @@
      </plurals>
      <plurals name="number_of_uploading_images">
         <item quantity="other">Synker %1$d bilder…</item>
-        <item quantity="one">Synker 1 bilde…</item>
+        <item quantity="one">Synker bilde…</item>
      </plurals>
      <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Synker %1$d elementer…</item>
-        <item quantity="one">Synker 1 element…</item>
+        <item quantity="one">Synker element…</item>
      </plurals>
      <plurals name="number_of_uploading_videos">
         <item quantity="other">Synker %1$d videoer…</item>
-        <item quantity="one">Synker 1 video…</item>
+        <item quantity="one">Synker video…</item>
      </plurals>
      <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videoer venter på sync</item>
-        <item quantity="one">1 video to upload</item>
+        <item quantity="other">%1$d videoer venter på synk</item>
+        <item quantity="one">1 video venter på synk</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Du kan velge %d elementer</item>

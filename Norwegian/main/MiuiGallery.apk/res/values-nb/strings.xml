@@ -51,7 +51,7 @@
      <string name="alert">Kunngjøring</string>
      <string name="alert_init_merged_message">"Nå vil lokale bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen i Bilder-fanen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
-     <string name="alert_message_open_sync">Du må skru på synk først.</string>
+     <string name="alert_message_open_sync">Synk med din Mi Cloud først.</string>
      <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjulte album.</string>
      <string name="alert_secret_album_set_pattern">Sett opplåsningsmønster</string>
      <string name="alert_secret_album_title">Lagt til i skjulte album</string>
@@ -563,7 +563,7 @@ venner."</string>
      <string name="cloudfolder_cannot_start_with">"Albumnavn kan ikke starte med '%s'"</string>
      <string name="cloudfolder_contain_invalidate_char">"Albumnavn kan ikke inneholde '%s'"</string>
      <string name="cloudfolder_fail_to_load_data">Kunne ikke laste data. Vent et minutt eller to og prøv igjen.</string>
-     <string name="cloudfolder_loading_data">Laster…</string>
+     <string name="cloudfolder_loading_data">Bare et sekund…</string>
      <string name="cloudfolder_name_cannot_empty">Skriv et albumnavn</string>
      <string name="cloudfolder_name_reserved">Albumnavn er reservert</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
@@ -577,7 +577,7 @@ venner."</string>
      <string name="confirm_delete_has_cloud_local_image_video">Slett %s elementer både fra  &lt;b>telefonen og skyen&lt;/b>?</string>
      <string name="confirm_delete_has_local_image_video">Slett %s elementer?</string>
      <string name="confirm_delete_home_merge_item">Slett %s bilde(r) lokalt og i skyen?</string>
-     <string name="confirm_delete_init_message">Bildet vil bli slettet fra denne enheten og fra MiCloud i tilegg. Hvis du bare vil slette lokalt, vennligst gå til mappen Lokal.</string>
+     <string name="confirm_delete_init_message">"Bilde vil bli slettet fra enhetens interne lagring og fra Mi Cloud. For å slette bilde fra enhetens interne lagring og beholde bilder i Mi Cloud, gå til Offline-fanen."</string>
      <string name="confirm_delete_init_title">Hint</string>
      <string name="confirm_delete_pictures">Slett %s bilder</string>
      <string name="confirm_delete_system_album">%s er et systemalbum.</string>
@@ -929,7 +929,7 @@ venner."</string>
      <string name="old">Vintage</string>
      <string name="only_show_camera_in_first_page">Bare vis bildene fra Kamera-albumet på førstesiden</string>
      <string name="only_show_camera_in_first_page_summary">Når skrudd av, vil bildene fra alle skyalbumene bli vist på førstesiden.</string>
-     <string name="open">Åpne synk</string>
+     <string name="open">Synk</string>
      <string name="open_public_message">Generer en URL og send den til venner</string>
      <string name="open_public_title">Del offentlig</string>
      <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
