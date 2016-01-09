@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="add_miservice_dialog_content">"%s krever at du legger MIUI-tjenesterammeverk til unntakslista. Du kan motta varsler fra MIUI sine innebygde apper og andre tredjepartsapper."</string>
      <string name="add_miservice_dialog_title">MIUI-tjenesterammeverk</string>
@@ -45,9 +45,7 @@
      <string name="data_network_blocked_notification_title">Ingen internettforbindelse</string>
      <string name="data_usage_correction_timeout_body">Trykk for å oppdatere manuellt</string>
      <string name="data_usage_correction_timeout_title">Synking av databruk ble tidsavbrutt</string>
-     <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.
-
-Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for overbruk."</string>
+     <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for overbruk."</string>
      <string name="data_usage_disabled_dialog_enable">Skru på mobildata</string>
      <string name="data_usage_leisure_warning_body">Trykk for å vise detaljer for databruk</string>
      <string name="data_usage_leisure_warning_title">Minimum databruksgrense</string>
@@ -81,13 +79,10 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
      <string name="datausage_purchase_pay_confirm">Kjøp</string>
      <string name="datausage_purchase_pay_hint">For å avbryte, ring %s</string>
      <string name="datausage_purchase_pkglist_networkerror">"Kunne ikke koble til nettverket. Sjekk din dataforbindelse og prøv igjen."</string>
-     <string name="datausage_purchase_pkglist_nodata">"Det er en konflikt mellom din gjeldende datapakke og datapakken du prøver å kjøpe.
- Sjekk med operatøren din for mer info."</string>
+     <string name="datausage_purchase_pkglist_nodata">"Det er en konflikt mellom din gjeldende datapakke og datapakken du prøver å kjøpe. Sjekk med operatøren din for mer info."</string>
      <string name="datausage_purchase_pkglist_servererror">Noe gikk galt med vår server.</string>
-     <string name="datausage_purchase_result_failed">"Kunne ikke kjøpe datatrafikk.
-     Sjekk med operatøren din for med informasjon om feilen. "</string>
-     <string name="datausage_purchase_result_ok">"Du kjøpte %s
-For mer info sjekk meldingen du motokk fra operatøren din."</string>
+     <string name="datausage_purchase_result_failed">"Kunne ikke kjøpe datatrafikk.     Sjekk med operatøren din for med informasjon om feilen. "</string>
+     <string name="datausage_purchase_result_ok">"Du kjøpte %sFor mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="datausage_purchase_time_in">" den "</string>
      <string name="datausage_purchase_title_confirm">Detaljer om kjøp</string>
      <string name="datausage_purchase_title_order">Fyll opp</string>
@@ -163,8 +158,7 @@ For mer info sjekk meldingen du motokk fra operatøren din."</string>
      <string name="main_alert_message_month_limit_error">Datagrense  er feil</string>
      <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
      <string name="main_alert_message_no_mobile_package">Ingen datagrense satt</string>
-     <string name="main_alert_message_slot_no_data_connection">"Dette SIM-kort-sporet støtter ikke
-en mobildataforbindelse"</string>
+     <string name="main_alert_message_slot_no_data_connection">"Dette SIM-kort-sporet støtter ikkeen mobildataforbindelse"</string>
      <string name="main_button_idel_traffic">Lav</string>
      <string name="main_button_normal_traffic">Topp</string>
      <string name="main_button_usage_adjust">Sett mobildatabruk</string>
@@ -181,10 +175,8 @@ en mobildataforbindelse"</string>
      <string name="main_primary_message_traffic_overlimit_purchase">Du må fylle opp</string>
      <string name="main_primary_message_traffic_purchase">Du må fylle opp</string>
      <string name="main_primary_message_traffic_warning">Nærmer seg datagrense</string>
-     <string name="main_secondary_message_traffic_detail_leisure">"
-Lav-trafikk: %1$s | %2$s brukt"</string>
-     <string name="main_secondary_message_traffic_detail_normal">"
-Topp: %1$s%2$s remaining | %3$s brukt"</string>
+     <string name="main_secondary_message_traffic_detail_leisure">"Lav-trafikk: %1$s | %2$s brukt"</string>
+     <string name="main_secondary_message_traffic_detail_normal">"Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="main_secondary_message_traffic_over">"over "</string>
      <string name="main_secondary_message_traffic_remain">"gjenstående "</string>
      <string name="main_secondary_message_traffic_used_leisure">%s data brukt om natten</string>
@@ -221,40 +213,13 @@ Topp: %1$s%2$s remaining | %3$s brukt"</string>
      <string name="network_connected_exception_title">Test nettverk</string>
      <string name="network_control">Vis innstillinger for app</string>
      <string name="network_diagnostics">Test nettverk</string>
-     <string name="network_mobile_exception_detail">"Enheten din kan ikke koble til internett:
-
- 1. Sørg for at du ikke har overskredet databruksgrensen i operatørens abonnement.
-
- 2. Hvis du nettopp har fylt på enhetens balanse, start enhetne på nytt og prøv igjen.
-
- 3. Signalet til operatøren kan være svakt på dette stedet."</string>
+     <string name="network_mobile_exception_detail">"Enheten din kan ikke koble til internett: 1. Sørg for at du ikke har overskredet databruksgrensen i operatørens abonnement. 2. Hvis du nettopp har fylt på enhetens balanse, start enhetne på nytt og prøv igjen. 3. Signalet til operatøren kan være svakt på dette stedet."</string>
      <string name="network_not_available">"Kan ikke koble til nettverket"</string>
      <string name="network_operator_exception_summary">"Kunne ikke aktivere SIM-kort. Sørg for at SIM-kort er satt inn riktig og at mobilabonnementet har blitt aktivert av din operatør."</string>
      <string name="network_permission_exception_tips">"Kunne ikke bruke mobildata for å koble til nettverket"</string>
      <string name="network_roaming_exception_tips">"Kunne ikke bruke mobildata under roaming for å koble til nettverket."</string>
-     <string name="network_route_exception_detail">"Det kan være et problem med ruteren du er koblet til:
-
- "&lt;b>"1. Feil med Offentlig Wi-Fi-nettverk
-"&lt;/b&gt;"Hvis du er koblet til et offentlig Wi-Fi-nettverk, kan antall brukere som er koblet til dette nettverket skape hastighets- eller tilkoblingsproblemer. Bytt til et annet nettverk og prøv igjen.
-
- 2."&lt;b>" Feil med internettleverandør
-S"&lt;/b&gt;"ørg for at kontoen din er i orden med din internettleverandør.
-
- 3."&lt;b>" Feil med ruterens maskinvare
-P"&lt;/b&gt;"røv å starte ruteren på nytt eller sjekke innstillingene til ruteren.
-
- 4."&lt;b>" Andre ruterfeil
-L"&lt;/b&gt;"es instruksjonene som fulgte med ruteren og prøv å gjenopprette ruteren til fabrikkinnstillinger
-
- 5."&lt;b>" Sørg for at ruteren er korrekt tilkoblet
-P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis du frytker at det er et problem med tilkoblingen i huset ditt, kontakt internettleverandøren din."</string>
-     <string name="network_sim_exception_detail">"Det kan være et problem med SIM-kortet:
-
- 1. Sørg for at din konto er i orden med din operatør. Prøv å bruke en SIM-kortet til en venn, og se om du klarer å koble til normalt.
-
- 2. Hvis du bruker to SIM-kort, prøv å bytt til det andre kortet og se om du klarer å koble til normalt.
-
- 3. Sørg for at SIM-kortet og enhetens SIM-spor ikke er skadet. Bekreft at SIM-kortet du bruker er korrekt satt inn i enhetens SIM-spor."</string>
+     <string name="network_route_exception_detail">"Det kan være et problem med ruteren du er koblet til: "&lt;b>"1. Feil med Offentlig Wi-Fi-nettverk"&lt;/b&gt;"Hvis du er koblet til et offentlig Wi-Fi-nettverk, kan antall brukere som er koblet til dette nettverket skape hastighets- eller tilkoblingsproblemer. Bytt til et annet nettverk og prøv igjen. 2."&lt;b>" Feil med internettleverandørS"&lt;/b&gt;"ørg for at kontoen din er i orden med din internettleverandør. 3."&lt;b>" Feil med ruterens maskinvareP"&lt;/b&gt;"røv å starte ruteren på nytt eller sjekke innstillingene til ruteren. 4."&lt;b>" Andre ruterfeilL"&lt;/b&gt;"es instruksjonene som fulgte med ruteren og prøv å gjenopprette ruteren til fabrikkinnstillinger 5."&lt;b>" Sørg for at ruteren er korrekt tilkobletP"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis du frytker at det er et problem med tilkoblingen i huset ditt, kontakt internettleverandøren din."</string>
+     <string name="network_sim_exception_detail">"Det kan være et problem med SIM-kortet: 1. Sørg for at din konto er i orden med din operatør. Prøv å bruke en SIM-kortet til en venn, og se om du klarer å koble til normalt. 2. Hvis du bruker to SIM-kort, prøv å bytt til det andre kortet og se om du klarer å koble til normalt. 3. Sørg for at SIM-kortet og enhetens SIM-spor ikke er skadet. Bekreft at SIM-kortet du bruker er korrekt satt inn i enhetens SIM-spor."</string>
      <string name="network_speed_for_apps_close">Tving avslutning</string>
      <string name="network_speed_for_apps_close_app_dlg_msg">Tving avslutning av denne appen?</string>
      <string name="network_speed_for_apps_close_system_app_dlg_msg">"Kan ikke tvinge avslutning av systemapper."</string>
@@ -483,20 +448,21 @@ P"&lt;/b&gt;"røv å koble til en Ethernet-kabel for å koble til ruteren. Hvis 
      <string name="tips_dialog_title">"Vet du ikke din grense?"</string>
      <string name="tips_message">"For å se detaljene rundt ditt dataabonnement, ring %2$s (%1$s)."</string>
      <string name="title_limit_traffic_per_day">Daglig grense for mobildataforbruk</string>
-     <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser: %s.
-Vil du bruke dette?"</string>
-     <string name="traffic_config_alert_body_extra">"
-Du har kjøpt %1$s ekstra data denne måneden. Dette er forskjellig fra de %2$s du har lagt til manuelt."</string>
-     <string name="traffic_config_alert_body_extra_notset">"
-Du har kjøpt %1$s ekstra data denne måneden. Dette vises ikke i den månedlige datagrensen du satt manuelt."</string>
+     <string name="traffic_alert_auto_modify_notification_sumarry">Månedlig abonnement endret til %s.</string>
+     <string name="traffic_alert_auto_modify_notification_titile">Oppdatert dataabonnement</string>
+     <string name="traffic_alert_auto_modify_package_summary">"Automatisk juster dataabonnement i henhold til operatørens informasjon"</string>
+     <string name="traffic_config_alert_auto_modify">Oppdater dataabonnement automatisk</string>
+     <string name="traffic_config_alert_body">"Regnskapet til operatøren din viser: %s.Vil du bruke dette?"</string>
+     <string name="traffic_config_alert_body_extra">"Du har kjøpt %1$s ekstra data denne måneden. Dette er forskjellig fra de %2$s du har lagt til manuelt."</string>
+     <string name="traffic_config_alert_body_extra_notset">"Du har kjøpt %1$s ekstra data denne måneden. Dette vises ikke i den månedlige datagrensen du satt manuelt."</string>
      <string name="traffic_config_alert_body_leisure">"Abonnementet ditt sin nattlige databrukgrense er %1$s. Dette er forskjellig fra %2$s-grensen du satte manuelt."</string>
-     <string name="traffic_config_alert_body_leisure_notset">"
-Abonnementet ditt sin nattlige databruksgrense er %1$s. Du har ikke satt en nattlig databrukgrense."</string>
-     <string name="traffic_config_alert_body_normal">"
-Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne måneden, dette er forskjellig fra de %2$s du har satt manuelt."</string>
+     <string name="traffic_config_alert_body_leisure_notset">"Abonnementet ditt sin nattlige databruksgrense er %1$s. Du har ikke satt en nattlig databrukgrense."</string>
+     <string name="traffic_config_alert_body_normal">"Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne måneden, dette er forskjellig fra de %2$s du har satt manuelt."</string>
      <string name="traffic_config_alert_cancel">Avbryt</string>
      <string name="traffic_config_alert_nomore">"Ikke vis igjen"</string>
      <string name="traffic_config_alert_ok">OK</string>
+     <string name="traffic_config_alert_package">"
+Rullet over ekstra data</string>
      <string name="traffic_config_alert_setted">Innstillinger brukt</string>
      <string name="traffic_config_alert_title">%s korreksjon</string>
      <string name="traffic_correction_failed">"Kan ikke hente info"</string>
@@ -504,8 +470,9 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_correction_start_correction_failed">Spørring feilet, vennligst sjekk dine operatørinnstillinger</string>
      <string name="traffic_correction_success">Databruk oppdatert</string>
      <string name="traffic_correction_success_notify_message">Trykk for å vise detaljer.</string>
-     <string name="traffic_limit_error_alert_body">"Operatørens regnskap viser at du har %1$s gjenstående denne måneden. Det er mer enn %2$s-grensen du har satt manuelt."</string>
+     <string name="traffic_limit_error_alert_body">"Gjenstående data for denne månden (%1$s) er mer enn ditt månedlige abonnement (%2$s). Vil du markere ekstra data som en oppfyllingspakke?"</string>
      <string name="traffic_limit_error_alert_iknow">OK</string>
+     <string name="traffic_limit_error_alert_package">"Gjenstående data inkluderer data som er til overs fra forrige måned"</string>
      <string name="traffic_limit_error_alert_reset">Tilbakestill grense</string>
      <string name="traffic_limit_error_alert_title">Datagrense påminnelse %s</string>
      <string name="traffic_none">Ingen</string>
@@ -580,8 +547,7 @@ Abonnementet ditt viser at du har brukt %1$s av ditt dataforbruket denne månede
      <string name="traffic_setting_extra_pkg_title">Flere innstillinger</string>
      <string name="traffic_setting_extra_traffic_title">Flere innstillinger</string>
      <string name="traffic_setting_fragment_area">Lokal</string>
-     <string name="traffic_setting_fragment_area_dual">"%s lokal
-     "</string>
+     <string name="traffic_setting_fragment_area_dual">"%s lokal     "</string>
      <string name="traffic_setting_fragment_brand">Merke</string>
      <string name="traffic_setting_fragment_button1_text">Avbryt</string>
      <string name="traffic_setting_fragment_button2_text">Lagre</string>

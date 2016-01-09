@@ -37,6 +37,8 @@
      <string name="download_progress">%d%%</string>
      <string name="download_title">Last ned denne appen?</string>
      <string name="downloading">Laster ned…</string>
+     <string name="earn_x_points">Tjent %s poeng</string>
+     <string name="exp">Points</string>
      <string name="exp_buff">+%s%% opplevelse</string>
      <string name="experience">Exp</string>
      <string name="expired">Utløpt</string>
@@ -49,25 +51,51 @@
      <string name="invalid_json">Noe gikk galt</string>
      <string name="level">Level</string>
      <string name="level_detail">Daglig oppgavegrense: %d</string>
-     <string name="level_exp_value" formatted="false">Points: %d/%d</string>
-     <string name="level_info_format" formatted="false">"Level %d %d/%d%s"</string>
+     <string name="level_exp_value" formatted="false">Poeng: %d/%d</string>
+     <string name="level_info_format" formatted="false">"Nivå %d %d/%d%s"</string>
      <string name="limit_task">Begrensede utfordringer</string>
      <string name="limit_task_format" formatted="false">%d/%d</string>
      <string name="millis">%dms</string>
      <string name="minutes">%d minutter</string>
+     <string name="miuishare_account_activate_confirmation">Aktivering påkrevd</string>
+     <string name="miuishare_account_activate_ok">Aktiver</string>
+     <string name="miuishare_account_login_cancel">Avbryt</string>
+     <string name="miuishare_account_login_confirmation">Innlogging kreves</string>
+     <string name="miuishare_account_login_ok">Logg inn</string>
+     <string name="miuishare_account_need_activate">Weibo-deling krever at din Weibo-konto er koblet til din Xiaomi-konto, som ikke er aktivert. Aktiver din konto?</string>
+     <string name="miuishare_account_need_login">Weibo-deling krever at din Weibo-konto er koblet til din Xiaomi-konto, som du er logget inn med. Logg inn for å dele nå?</string>
+     <string name="miuishare_app_name">MiuiShare</string>
+     <string name="miuishare_no_network">Ingen nettverk for deling</string>
+     <string name="miuishare_publish">Send</string>
+     <string name="miuishare_share_done">Innhold delt.</string>
+     <string name="miuishare_share_editor_title">Del</string>
+     <string name="miuishare_title_more">Mer</string>
+     <string name="miuishare_title_share">Del</string>
+     <string name="miuishare_wechat_timeline_title">Wechat-tidslinje</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="my_award">Mine belønnelser</string>
+     <string name="my_rank">Min oppnåelse</string>
+     <string name="my_rank_not_ready">N/A</string>
      <string name="no_achievements">Tom.</string>
      <string name="no_app">Vennligst installer Mi VIP-appen først</string>
      <string name="no_award">Ingen belønnelser</string>
      <string name="no_network">"Kan ikke koble til nettverket"</string>
      <string name="no_task">Alle oppgaver har blitt fullført</string>
      <string name="passive_task">Bakgrunnsoppgaver</string>
+     <string name="personal_info">Profil</string>
      <string name="privilege">Privilegier</string>
+     <string name="privilege_description">Beskrivelse</string>
+     <string name="privilege_detail">Detaljer</string>
+     <string name="privilege_eligibility">Kvalifisering</string>
+     <string name="privilege_prize">Belønninger</string>
      <string name="promote">Fullfør oppdrag for å tjene poeng</string>
      <string name="query_level_fail">"Kunne ikke hente oppgaveinfo"</string>
      <string name="query_user_tasks_fail">"Kunne ikke hente oppgaveinfo"</string>
+     <string name="rank">Oppnåelser</string>
+     <string name="rank_keeps">Same</string>
      <string name="redeem">Løs inn</string>
      <string name="seconds">%d sekunder</string>
+     <string name="share_button">Share</string>
      <string name="start_activity_error">"Kan ikke starte app: %s"</string>
      <string name="take_awarded_package">Løs inn</string>
      <string name="take_awarded_package_failed">"Kunne ikke løse inn gave. Vent et minutt eller to og prøv igjen."</string>

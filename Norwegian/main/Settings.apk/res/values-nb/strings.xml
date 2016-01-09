@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Kontoer</string>
      <string name="about_settings">Om enheten</string>
@@ -13,8 +13,7 @@
      <string name="accelerometer_title">Roter skjerm automatisk</string>
      <string name="access_control_app_entry_multiple">Åpne %s</string>
      <string name="access_control_app_entry_single">Åpne app</string>
-     <string name="access_control_need_password">"%s har blitt beskyttet
-"</string>
+     <string name="access_control_need_password">"%s har blitt beskyttet"</string>
      <string name="access_control_need_to_unlock">Password kreves:</string>
      <string name="access_control_no_back_footer">Trykk [icon] for å avslutte</string>
      <string name="access_control_password_title">Passord</string>
@@ -31,13 +30,7 @@
      <string name="accessibility_feature_or_input_method_not_allowed">Ikke tillatt av organisasjonen din</string>
      <string name="accessibility_feature_state_off">Av</string>
      <string name="accessibility_feature_state_on">På</string>
-     <string name="accessibility_global_gesture_preference_description">"Når denne funksjonen er slått på, kan du raskt aktivere tilgjengelighetsfunksjoner i to trinn:
-
-Trinn 1: Trykk og hold inne av/på-knappen til du hører en lyd eller føler en vibrasjon.
-
-Trinn 2: Trykk og hold to fingre på skjermen til du hører en bekreftelse.
-
-Hvis enheten har flere brukere, får du midlertidig aktivert tilgjengelighet til enheten låses opp."</string>
+     <string name="accessibility_global_gesture_preference_description">"Når denne funksjonen er slått på, kan du raskt aktivere tilgjengelighetsfunksjoner i to trinn:Trinn 1: Trykk og hold inne av/på-knappen til du hører en lyd eller føler en vibrasjon.Trinn 2: Trykk og hold to fingre på skjermen til du hører en bekreftelse.Hvis enheten har flere brukere, får du midlertidig aktivert tilgjengelighet til enheten låses opp."</string>
      <string name="accessibility_global_gesture_preference_summary_off">Av</string>
      <string name="accessibility_global_gesture_preference_summary_on">På</string>
      <string name="accessibility_global_gesture_preference_title">Snarvei for tilgjengelighet</string>
@@ -46,15 +39,7 @@ Hvis enheten har flere brukere, får du midlertidig aktivert tilgjengelighet til
      <string name="accessibility_no_services_installed">Ingen tjenester er installert</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Legg på med På-/Av-knappen</string>
      <string name="accessibility_screen_magnification_enable">Forstørringsgester</string>
-     <string name="accessibility_screen_magnification_summary">"Når denne funksjonen er aktivert, kan du zoome inn og ut ved å trykke tre ganger på skjermen.
-
-Når du har zoomet inn kan du:
-"&lt;li&gt;&lt;ul&gt;"Panorere: Dra to eller flere fingre over skjermen.
-"&lt;li&gt;Tilpasse innzoomingen: Knip sammen eller spre fra hverandre to eller flere fingre.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-Du kan ogs&amp;#229; mildertidig forst&amp;#248;rre det som er under fingeren din ved &amp;#229; trykke tre ganger og holde fingeren nede. Mens du forst&amp;#248;rrer p&amp;#229; denne m&amp;#229;ten kan du dra fingeren rundt for &amp;#229; se p&amp;#229; forskjellige deler av skjermen. L&amp;#248;ft fingeren din for &amp;#229; g&amp;#229; tilbake til den forrige visningen.
-
-Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer overalt unntatt p&amp;#229; tastaturet og navigasjonsraden."</string>
+     <string name="accessibility_screen_magnification_summary">"Når denne funksjonen er aktivert, kan du zoome inn og ut ved å trykke tre ganger på skjermen.Når du har zoomet inn kan du:"&lt;li&gt;&lt;ul&gt;"Panorere: Dra to eller flere fingre over skjermen."&lt;li&gt;Tilpasse innzoomingen: Knip sammen eller spre fra hverandre to eller flere fingre.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"Du kan ogs&amp;#229; mildertidig forst&amp;#248;rre det som er under fingeren din ved &amp;#229; trykke tre ganger og holde fingeren nede. Mens du forst&amp;#248;rrer p&amp;#229; denne m&amp;#229;ten kan du dra fingeren rundt for &amp;#229; se p&amp;#229; forskjellige deler av skjermen. L&amp;#248;ft fingeren din for &amp;#229; g&amp;#229; tilbake til den forrige visningen.Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer overalt unntatt p&amp;#229; tastaturet og navigasjonsraden."</string>
      <string name="accessibility_screen_magnification_title">Forstørrelsesbevegelser</string>
      <string name="accessibility_service_default_description">Beskrivelse ble ikke oppgitt.</string>
      <string name="accessibility_service_no_apps_message">Talkback gir muntlig tilbakemelding for å hjelpe blinde og svaksynte brukere. Vil du installere denne appen gratis fra Google Play?</string>
@@ -98,8 +83,7 @@ Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer ov
      <string name="add_fingerprint_done_msg">Du kan nå låse opp enheten ved hjelp av fingeravtrykket ditt.</string>
      <string name="add_fingerprint_done_title">Ferdig!</string>
      <string name="add_fingerprint_finished_button_text">Ferdig</string>
-     <string name="add_fingerprint_instruction_dialog_msg">"For å legge til fingeravtrykksinfo, vennligst plasser fingeren på sensoren.
-Sørg for at fingeren dekker den indre kanten av sensoren"</string>
+     <string name="add_fingerprint_instruction_dialog_msg">"For å legge til fingeravtrykksinfo, vennligst plasser fingeren på sensoren.Sørg for at fingeren dekker den indre kanten av sensoren"</string>
      <string name="add_fingerprint_instruction_msg">Lås opp enheten eller bekreft betaling ved hjelp av fingeravtrykket ditt</string>
      <string name="add_fingerprint_instruction_title">Plasser fingeren på fingerprint-skanneren</string>
      <string name="add_fingerprint_move_finger_title">Fjern finger</string>
@@ -108,9 +92,7 @@ Sørg for at fingeren dekker den indre kanten av sensoren"</string>
      <string name="add_fingerprint_put_finger_title">Plassér fingeren, og fjern fingeren</string>
      <string name="add_fingerprint_text">Legg till fingeravtrykk</string>
      <string name="add_fingerprint_toast_text">Plasser fingeren din på skanneren nå</string>
-     <string name="adding_profile_owner_warning">"Hvis du fortsetter, kommer brukeren din til å styres av administratoren din, som kanskje kan lagre tilknyttede data, i tillegg til de private dataene dine.
-
-Administratoren din kan overvåke og administrere innstillinger, tilgang, apper og data tilknyttet denne brukeren, herunder nettverksaktivitet og posisjonsinformasjonen for enhetene dine."</string>
+     <string name="adding_profile_owner_warning">"Hvis du fortsetter, kommer brukeren din til å styres av administratoren din, som kanskje kan lagre tilknyttede data, i tillegg til de private dataene dine.Administratoren din kan overvåke og administrere innstillinger, tilgang, apper og data tilknyttet denne brukeren, herunder nettverksaktivitet og posisjonsinformasjonen for enhetene dine."</string>
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Ytterligere systemoppdateringer</string>
@@ -143,9 +125,7 @@ Administratoren din kan overvåke og administrere innstillinger, tilgang, apper 
      <string name="amber_alerts_summary">Motta nyhetsbrev om barnebortføringer</string>
      <string name="amber_alerts_title">AMBER Alerts</string>
      <string name="android_beam_disabled_summary">NFC-innholdsdeling krever at NFC er på</string>
-     <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du overføre appinnhold til en annen enhet som støtter nærfeltskommunikasjon (NFC). Du gjør dette ved å holde enhetene tett sammen. Du kan for eksempel trådløst overføre nettsider, YouTube-videoer, kontakter fra Personer og mye mer.
-
-Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skjermen. Appen avgjør hva som blir overført."</string>
+     <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du overføre appinnhold til en annen enhet som støtter nærfeltskommunikasjon (NFC). Du gjør dette ved å holde enhetene tett sammen. Du kan for eksempel trådløst overføre nettsider, YouTube-videoer, kontakter fra Personer og mye mer.Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skjermen. Appen avgjør hva som blir overført."</string>
      <string name="android_beam_label">Android Beam</string>
      <string name="android_beam_off_summary">NFC-innholdsdeling er av</string>
      <string name="android_beam_on_summary">>NFC-innholdsdeling er på</string>
@@ -405,9 +385,7 @@ Du bare holder enhetene mot hverandre (helst rygg mot rygg), og trykker på skje
      <string name="bluetooth_ask_start_broadcast">%1$s ønsker å slå på Bluetooth-kringkasting for å kommunisere med andre enheter i nærheten. Du kan endre dette senere i Bluetooth-innstillingene.</string>
      <string name="bluetooth_auto_connect">Automatisk tilkobling</string>
      <string name="bluetooth_broadcasting">Kringkasting</string>
-     <string name="bluetooth_broadcasting_explaination">"Når denne funksjonen er aktivert, kan telefonen kommunisere med andre enheter i nærheten.
-
-Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
+     <string name="bluetooth_broadcasting_explaination">"Når denne funksjonen er aktivert, kan telefonen kommunisere med andre enheter i nærheten.Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="bluetooth_confirm_passkey_msg">Sånn kobler du til:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kontroller at dette passordet vises:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
      <string name="bluetooth_connect_specific_profiles_title">Koble til…</string>
      <string name="bluetooth_connected">Tilkoblet</string>
@@ -455,16 +433,16 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="bluetooth_dock_settings_headset">Som høyttalertelefon</string>
      <string name="bluetooth_dock_settings_remember">Husk innstillinger</string>
      <string name="bluetooth_dock_settings_title">Bruk forankring til lyd</string>
-     <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
-     <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network Access</string>
+     <string name="bluetooth_dun_profile_summary_connected">Tilkoblet DUN-server</string>
+     <string name="bluetooth_dun_profile_summary_use_for">Bruk for nettverkstilgang via dial-up</string>
      <string name="bluetooth_empty_list_bluetooth_off">Hvis du vil se enheter, slår du på Bluetooth.</string>
      <string name="bluetooth_empty_list_user_restricted">Du har ikke tillatelse til å endre Bluetooth-innstillingene.</string>
      <string name="bluetooth_enable">Bluetooth</string>
      <string name="bluetooth_enable_alphanumeric_pin">Personlig kode inneholder bokstaver eller symboler</string>
-     <string name="bluetooth_enter_passkey_msg">Sånn kobler du til: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Skriv inn passordet for enheten:</string>
+     <string name="bluetooth_enter_passkey_msg">Skriv inn paringskoden, så trykk Return eller Enter</string>
      <string name="bluetooth_enter_passkey_other_device">Det er mulig at du må oppgi dette passordet også på den andre enheten.</string>
-     <string name="bluetooth_enter_pin_msg">Sånn kobler du til: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Skriv inn enhetens personlige kode:</string>
-     <string name="bluetooth_enter_pin_msg_hs">Device requires High Security 16 character passkey</string>
+     <string name="bluetooth_enter_pin_msg">Enhet </string>
+     <string name="bluetooth_enter_pin_msg_hs">Enheten krever en høysikkerhets 16-tegns passkode</string>
      <string name="bluetooth_enter_pin_other_device">Det er mulig at du må skrive inn denne PIN-koden også på den andre enheten.</string>
      <string name="bluetooth_error_title" />
      <string name="bluetooth_headset_profile_summary_connected">Koblet til telefonlyd</string>
@@ -769,22 +747,16 @@ Kringkasting bruker Bluetooth-signaler med lavt strømforbruk."</string>
      <string name="crypt_keeper_confirm_encrypt">Du må tegne opplåsingsmønsteret ditt for å bekrefte krypteringen av enheten din.</string>
      <string name="crypt_keeper_confirm_title">Vil du kryptere?</string>
      <string name="crypt_keeper_cooldown">Prøv på nytt om ^1 sekunder.</string>
-     <string name="crypt_keeper_data_corrupt_summary">"Passordet du skrev inn er korrekt, men dessverre er dataene dine skadet.
-
-Hvis du vil bruke telefonen din, må du tilbakestille den til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, kan du gjenopprette eventuelle data som ble sikkerhetskopiert på Google-kontoen din."</string>
+     <string name="crypt_keeper_data_corrupt_summary">"Passordet du skrev inn er korrekt, men dessverre er dataene dine skadet.Hvis du vil bruke telefonen din, må du tilbakestille den til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, kan du gjenopprette eventuelle data som ble sikkerhetskopiert på Google-kontoen din."</string>
      <string name="crypt_keeper_data_corrupt_title">Dekrypteringen mislyktes</string>
-     <string name="crypt_keeper_desc">"Du kan kryptere kontoene dine, innstillinger, nedlastede apper og tilhørende data, mediefiler og andre filer. Når du krypterer telefonen din, må du skrive inn en numerisk PIN-kode eller et passord for å dekryptere telefonen hver gang du slår den på. Du kan ikke fjerne krypteringen av telefonen uten å gjennomføre en tilbakestilling til fabrikkinnstillingene, noe som fører til at alle dataene blir slettet.
-
-Det tar minst én time å gjennomføre krypteringen. Du må starte med fulladet batteri og sørge for at telefonen er koblet til et strømuttak helt til krypteringen er fullført. Hvis du avbryter krypteringsprosessen, mister du deler av eller alle dataene dine."</string>
+     <string name="crypt_keeper_desc">"Du kan kryptere kontoene dine, innstillinger, nedlastede apper og tilhørende data, mediefiler og andre filer. Når du krypterer telefonen din, må du skrive inn en numerisk PIN-kode eller et passord for å dekryptere telefonen hver gang du slår den på. Du kan ikke fjerne krypteringen av telefonen uten å gjennomføre en tilbakestilling til fabrikkinnstillingene, noe som fører til at alle dataene blir slettet.Det tar minst én time å gjennomføre krypteringen. Du må starte med fulladet batteri og sørge for at telefonen er koblet til et strømuttak helt til krypteringen er fullført. Hvis du avbryter krypteringsprosessen, mister du deler av eller alle dataene dine."</string>
      <string name="crypt_keeper_dialog_need_password_message">Du må angi en PIN-kode eller et passord for skjermlås før du kan starte krypteringen.</string>
      <string name="crypt_keeper_dialog_need_password_title">Ingen personlig kode eller passord for å låse skjermen.</string>
      <string name="crypt_keeper_encrypt_summary">Numerisk personlig kode eller passord kreves for å dekryptere telefonen hver gang du slår den på</string>
      <string name="crypt_keeper_encrypt_title">Krypter telefon</string>
      <string name="crypt_keeper_encrypted_summary">Kryptert</string>
      <string name="crypt_keeper_enter_password">Skriv inn passordet</string>
-     <string name="crypt_keeper_failed_summary">"Krypteringen ble avbrutt og kan ikke fullføres. Dette betyr at dataene på telefonen din ikke lenger er tilgjengelige.
-
-For å fortsette å bruke telefonen, må du gjennomføre en tilbakestilling til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, får du mulighet til å gjenopprette data som ble sikkerhetskopiert til Google-kontoen din."</string>
+     <string name="crypt_keeper_failed_summary">"Krypteringen ble avbrutt og kan ikke fullføres. Dette betyr at dataene på telefonen din ikke lenger er tilgjengelige.For å fortsette å bruke telefonen, må du gjennomføre en tilbakestilling til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, får du mulighet til å gjenopprette data som ble sikkerhetskopiert til Google-kontoen din."</string>
      <string name="crypt_keeper_failed_title">Kryptering mislykket</string>
      <string name="crypt_keeper_final_desc">Krypteringshandlingen kan ikke angres, og hvis du avbryter den, risikerer du å miste data. Krypteringsprosessen tar minst én time, og telefonen kommer til å starte på nytt flere ganger underveis.</string>
      <string name="crypt_keeper_low_charge_text">Lad batteriet og prøv på nytt.</string>
@@ -817,20 +789,14 @@ For å fortsette å bruke telefonen, må du gjennomføre en tilbakestilling til 
      <string name="data_usage_app_restrict_background">Begrensning av bakgrunnsdata</string>
      <string name="data_usage_app_restrict_background_summary">Slå av bakgrunnsdata på mobilnettverk. Wi-Fi brukes hvis tilgj.</string>
      <string name="data_usage_app_restrict_background_summary_disabled">Hvis du ønsker å begrense bakgrunnsdata for denne appen, må du først angi en grense for bruk av mobildata.</string>
-     <string name="data_usage_app_restrict_dialog">"Denne funksjonen kan gjøre at apper som er avhengig av bakgrunnsdata slutter å fungere når bare  mobilnettverk er tilgjengelige.
-
-Du finner bedre egnede alternativer for databruk i appens innstillinger."</string>
+     <string name="data_usage_app_restrict_dialog">"Denne funksjonen kan gjøre at apper som er avhengig av bakgrunnsdata slutter å fungere når bare  mobilnettverk er tilgjengelige.Du finner bedre egnede alternativer for databruk i appens innstillinger."</string>
      <string name="data_usage_app_restrict_dialog_title">Vil du begrense bruken av bakgrunnsdata?</string>
      <string name="data_usage_app_restricted">begrenset</string>
      <string name="data_usage_app_settings">Vis innstillinger for app</string>
      <string name="data_usage_app_summary_title">Appens databruk</string>
      <string name="data_usage_auto_sync_off_dialog">Dette bevarer data- og batteribruk, men du må synkronisere hver konto manuelt for å samle ny informasjon. Du kommer ikke til å motta varsler når det gjøres oppdateringer.</string>
      <string name="data_usage_auto_sync_off_dialog_title">Vil du slå av auto-synkronisering?</string>
-     <string name="data_usage_auto_sync_on_dialog">"Eventuelle endringer du gjør i kontoene dine på nettet kopieres automatisk til telefonen din.
-
-For noen kontoer kopieres også alle endringene du gjør på telefonen automatisk til nettet. Google-kontoer fungerer på denne måten.
-
-For å velge hvilke typer informasjon du vil synkronisere innenfor hver konto, går du til Innstillinger &gt; Kontoer."</string>
+     <string name="data_usage_auto_sync_on_dialog">"Eventuelle endringer du gjør i kontoene dine på nettet kopieres automatisk til telefonen din.For noen kontoer kopieres også alle endringene du gjør på telefonen automatisk til nettet. Google-kontoer fungerer på denne måten.For å velge hvilke typer informasjon du vil synkronisere innenfor hver konto, går du til Innstillinger &gt; Kontoer."</string>
      <string name="data_usage_auto_sync_on_dialog_title">Vil du slå på auto-synkronisering?</string>
      <string name="data_usage_background_label">Bakgrunn:</string>
      <string name="data_usage_cellular_data">Mobildata</string>
@@ -853,9 +819,7 @@ For å velge hvilke typer informasjon du vil synkronisere innenfor hver konto, g
      <string name="data_usage_forground_label">Forgrunn:</string>
      <string name="data_usage_label_background">Bakgrunn</string>
      <string name="data_usage_label_foreground">Forgrunn</string>
-     <string name="data_usage_limit_dialog_mobile">"Mobildatatilkoblingen din blir deaktivert når angitt grense nås.
-
-Ettersom databruken måles av telefonen din, som muligens bruker andre metoder for registrering av forbruk enn operatøren din, bør du angi en moderat grense."</string>
+     <string name="data_usage_limit_dialog_mobile">"Mobildatatilkoblingen din blir deaktivert når angitt grense nås.Ettersom databruken måles av telefonen din, som muligens bruker andre metoder for registrering av forbruk enn operatøren din, bør du angi en moderat grense."</string>
      <string name="data_usage_limit_dialog_title">Begrensning av databruk</string>
      <string name="data_usage_limit_editor_title">Angi grense for databruk</string>
      <string name="data_usage_list_mobile">Mobil</string>
@@ -880,16 +844,12 @@ Ettersom databruken måles av telefonen din, som muligens bruker andre metoder f
      <string name="data_usage_pick_cycle_day">Dag i måneden for å tilbakestille databruksyklusen:</string>
      <string name="data_usage_received_sent">%1$s mottatt, %2$s sendt</string>
      <string name="data_usage_restrict_background">Hvis du begrenser bakgrunnsmobildata, kan det hende at enkelte apper og tjenester ikke fungerer med mindre du er koblet til et Wi-Fi-nettverk.</string>
-     <string name="data_usage_restrict_background_multiuser">"Hvis du begrenser mobildatabruk i bakgrunnen, fungerer ikke enkelte apper og tjenester med mindre du er tilkoblet Wi-Fi-nettverk.
-
-Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
+     <string name="data_usage_restrict_background_multiuser">"Hvis du begrenser mobildatabruk i bakgrunnen, fungerer ikke enkelte apper og tjenester med mindre du er tilkoblet Wi-Fi-nettverk.Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="data_usage_restrict_background_title">Vil du begrense bruken av bakgrunnsdata?</string>
      <string name="data_usage_restrict_denied_dialog">Du kan begrense bakgrunnsdata, men bare hvis du har angitt en grense for bruk av mobildata.</string>
      <string name="data_usage_summary_title">Databruk</string>
-     <string name="data_usage_sweep_limit">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;grense&lt;/font&gt;"</string>
-     <string name="data_usage_sweep_warning">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;advarsel&lt;/font&gt;"</string>
+     <string name="data_usage_sweep_limit">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;""&lt;font size="12"&gt;grense&lt;/font&gt;"</string>
+     <string name="data_usage_sweep_warning">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;""&lt;font size="12"&gt;advarsel&lt;/font&gt;"</string>
      <string name="data_usage_tab_3g">2G-3G</string>
      <string name="data_usage_tab_4g">4G</string>
      <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1040,7 +1000,15 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="dlg_error_unmount_title" />
      <string name="dlg_error_usb_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="dlg_ok">OK</string>
+     <string name="dndm_alarm_content">Sounds</string>
+     <string name="dndm_alarm_content_all">Allow all</string>
+     <string name="dndm_alarm_content_call">Calls</string>
+     <string name="dndm_alarm_content_call_sms">Calls &amp; messages</string>
+     <string name="dndm_alarm_content_event">Notifications</string>
+     <string name="dndm_alarm_content_event_and_call">Notifications &amp; calls</string>
+     <string name="dndm_alarm_content_event_and_sms">Notifications &amp; messages</string>
      <string name="dndm_alarm_content_not_all">Alle tillatt</string>
+     <string name="dndm_alarm_content_sms">Messages</string>
      <string name="dndm_auto_button_title">Repeter Ikke forstyrr-tid</string>
      <string name="dndm_auto_setting_group">Planlagt</string>
      <string name="dndm_auto_time_setting">Sett tid</string>
@@ -1131,6 +1099,17 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="drive_mode_title">Bilmodus</string>
      <string name="drive_mode_voice_report">Tekst-til-tale resultat</string>
      <string name="dtmf_tone_enable_title">Tastetoner for tastatur</string>
+     <string name="edge_mode_back">Go back</string>
+     <string name="edge_mode_back_summary">Double tap the edge of your phone to go back</string>
+     <string name="edge_mode_clean">Clear system cache</string>
+     <string name="edge_mode_clean_summary">Slide on both edges simultaneously to clear system cache</string>
+     <string name="edge_mode_guide_title">Touch the highlighted area to use edge controls</string>
+     <string name="edge_mode_notification_summary">Tap to learn more.</string>
+     <string name="edge_mode_notification_title">Use edge controls</string>
+     <string name="edge_mode_photo">Take a photo</string>
+     <string name="edge_mode_photo_summary">While in Camera app, tap the edge of your phone to trigger shutter, and tap again to take a photo</string>
+     <string name="edge_mode_screenshot">Screenshot</string>
+     <string name="edge_mode_screenshot_summary">Double tap both edges to take a screenshot</string>
      <string name="emergency_tone_alert">Varsel</string>
      <string name="emergency_tone_silent">Stille</string>
      <string name="emergency_tone_summary">Velg oppførsel når en nødsamtale opprettes</string>
@@ -1174,18 +1153,10 @@ Denne innstillingen påvirker alle brukerne på denne telefonen."</string>
      <string name="encrypt_talkback_dialog_require_pin">Vil du kreve PIN-kode?</string>
      <string name="encryption_continue_button">Fortsett</string>
      <string name="encryption_interstitial_header">Kryptering</string>
-     <string name="encryption_interstitial_message_password">"Du kan beskytte denne enheten ved å kreve et passord ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
-
-Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
-     <string name="encryption_interstitial_message_pattern">"Du kan beskytte denne enheten ved å kreve et mønster ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
-
-Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
-     <string name="encryption_interstitial_message_pin">"Du kan beskytte denne enheten ved å kreve en PIN-kode ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.
-
-Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
-     <string name="enforce_read_external_confirm_message">"Når USB-lagring er beskyttet, må apper be om tillatelse til å lese data fra ekstern lagring.
-
-Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
+     <string name="encryption_interstitial_message_password">"Du kan beskytte denne enheten ved å kreve et passord ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
+     <string name="encryption_interstitial_message_pattern">"Du kan beskytte denne enheten ved å kreve et mønster ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
+     <string name="encryption_interstitial_message_pin">"Du kan beskytte denne enheten ved å kreve en PIN-kode ved oppstart. Frem til enheten starter kan den ikke motta oppringninger, meldinger eller varsler, inkludert alarmer.Dette beskytter informasjonen på enheter som er mistet eller stjålet."</string>
+     <string name="enforce_read_external_confirm_message">"Når USB-lagring er beskyttet, må apper be om tillatelse til å lese data fra ekstern lagring.Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="enforce_read_external_confirm_title">Vil du beskytte USB-lagringen?</string>
      <string name="enforce_read_external_summary">Apper må be om tillatelse til å lese USB-lagring</string>
      <string name="enforce_read_external_title">Beskytt USB-lagring</string>
@@ -1277,8 +1248,7 @@ Enkelte apper fungerer ikke før utviklerne har oppdatert dem."</string>
      <string name="font_size_save">OK</string>
      <string name="font_size_small">Liten</string>
      <string name="font_size_summary">Endre skriftstørrelsen for tekst på hjemskjermen, varslingsskyggen, telefon, og de fleste andre steder</string>
-     <string name="font_size_summary1">"
-Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</string>
+     <string name="font_size_summary1">"Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</string>
      <string name="font_size_summary2">Lett-modus</string>
      <string name="force_hw_ui">Tving GPU-gjengivelse</string>
      <string name="force_hw_ui_summary">Tving bruk av GPU for 2D-tegning</string>
@@ -1715,27 +1685,19 @@ Hvis systemet sin skriftstørrelse fortsatt er for liten, prøv å bruke "</stri
      <string name="manageapplications_settings_title">Administrer apper</string>
      <string name="managed_device_admin_title">Jobb</string>
      <string name="managed_profile_device_admin_info">Hvis du vil sørge for at %1$s ikke får tilgang til arbeidsprofilen, kan du fjerne den under Innstillinger > Kontoer.</string>
+     <string name="managed_profile_location_category">Work profile</string>
+     <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+     <string name="managed_profile_location_switch_title">Location for work profile</string>
      <string name="managed_profile_not_available_label">Arbeidsprofilen er ikke tilgjengelig ennå</string>
      <string name="managed_user_title">Jobbprofil</string>
      <string name="manually_add_network">Add network</string>
-     <string name="master_clear_accounts">"
-
-Du er for øyeblikket pålogget følgende kontoer:
-"</string>
+     <string name="master_clear_accounts">"Du er for øyeblikket pålogget følgende kontoer:"</string>
      <string name="master_clear_all">"Slett alle data fra enheten din sin interne lagring? Du kan ikke reversere denne handlingen!"</string>
      <string name="master_clear_button_text">Tilbakestill enheten</string>
      <string name="master_clear_confirm_title">Vil du tilbakestille?</string>
-     <string name="master_clear_desc">"Dette kommer til å slette alle data fra nettbrettets &lt;b&gt;interne lagringsplass&lt;/b&gt;", herunder:
-
-"&lt;li&gt;Google-kontoen din&lt;/li&gt;"
-"&lt;li&gt;Data og innstillinger for system og apper&lt;/li&gt;"
-"&lt;li&gt;Nedlastede apper&lt;/li&gt;"</string>
-     <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Musikk&lt;/li&gt;"
-"&lt;li&gt;Bilder&lt;/li&gt;"
-"&lt;li&gt;Andre brukerdata&lt;/li&gt;"</string>
-     <string name="master_clear_desc_erase_external_storage">""
-
-For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b&gt; t&amp;#248;mmes."</string>
+     <string name="master_clear_desc">"Dette kommer til å slette alle data fra nettbrettets &lt;b&gt;interne lagringsplass&lt;/b&gt;", herunder:"&lt;li&gt;Google-kontoen din&lt;/li&gt;""&lt;li&gt;Data og innstillinger for system og apper&lt;/li&gt;""&lt;li&gt;Nedlastede apper&lt;/li&gt;"</string>
+     <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Musikk&lt;/li&gt;""&lt;li&gt;Bilder&lt;/li&gt;""&lt;li&gt;Andre brukerdata&lt;/li&gt;"</string>
+     <string name="master_clear_desc_erase_external_storage">""For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b&gt; t&amp;#248;mmes."</string>
      <string name="master_clear_erase_application_progress">Sletter apper…</string>
      <string name="master_clear_failed">Tilbakestilling ble ikke utført fordi tilbakestillingstjenesten ikke er tilgjengelig.</string>
      <string name="master_clear_final_button_text">Fjern alt</string>
@@ -1883,8 +1845,7 @@ For å slette musikk, bilder og andre brukerdata må "&lt;b&gt;USB-lageret&lt;/b
      <string name="msd_driver_download_mac_url">Hent driveren hos http://www.android.com/filetransfer/</string>
      <string name="msd_driver_download_xp">Windows: Last ned Mi Phone Manager for å bruke telefonen din som en USB-lagringsenhet.</string>
      <string name="msd_driver_download_xp_url">Hent driveren hos http://zhushou.mi.com/</string>
-     <string name="msd_help_summary">"Kan du ikke koble til enheten din?
-Velg ditt operativsystem:"</string>
+     <string name="msd_help_summary">"Kan du ikke koble til enheten din?Velg ditt operativsystem:"</string>
      <string name="msd_help_title">Hjelp</string>
      <string name="msd_install">Installer driver på nytt?</string>
      <string name="msd_install_download_zhushou">"Jeg har lastet ned Mi Phone Manager"</string>
@@ -1898,8 +1859,7 @@ Velg ditt operativsystem:"</string>
      <string name="msd_install_status_undo">Installer driver</string>
      <string name="msd_install_succeed">Driver installert</string>
      <string name="msd_pc_system_install_finish_summary_vista">I Windows Vista og nyere, vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin.</string>
-     <string name="msd_pc_system_install_finish_summary_xp">"Etter at du har installert driveren
-vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</string>
+     <string name="msd_pc_system_install_finish_summary_xp">"Etter at du har installert driverenvil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</string>
      <string name="msd_pc_system_install_summary_xp">1. Kjør setup.exe for å installere</string>
      <string name="msg_wlan_signal_found">Koble til %s?</string>
      <string name="msim_sim_radio_off">Off</string>
@@ -1918,6 +1878,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="music_dirac_mode_general_inear">Generelle i-øre</string>
      <string name="music_dirac_mode_headset">Mi-hodetelefoner</string>
      <string name="music_dirac_mode_in_ear">Mi i-øre</string>
+     <string name="music_dirac_mode_in_ear_pro">Mi i-øre Pro</string>
      <string name="music_dirac_mode_off">Dirac av</string>
      <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -2209,15 +2170,15 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="preferred_sms_title">Standard meldingsapp</string>
      <string name="preferred_sms_warning_message">Bruk av \"%1$s\" som standard meldingsapp kan forårsake høyere datakostnader eller kompromittere ditt personvern.</string>
      <string name="preferred_sms_warning_use_system">"Ikke bruk"</string>
-     <string name="primary_sub_select_title">Default 4G/3G Subscription</string>
+     <string name="primary_sub_select_title">Standard 4G/3G-abonnement</string>
      <string name="print_blocked_state_title_template">Skriveren blokkerte %1$s</string>
      <string name="print_cancel">Avbryt</string>
      <string name="print_cancelling_state_title_template">Avbryter %1$s</string>
+     <string name="print_enable">Aktiver utskrift</string>
      <string name="print_failed_state_title_template">Skriverfeil %1$s</string>
      <string name="print_feature_state_off">Av</string>
      <string name="print_feature_state_on">På</string>
-     <string name="print_job_summary">"%1$s
-%2$s"</string>
+     <string name="print_job_summary">"%1$s%2$s"</string>
      <string name="print_menu_item_add_printer">Legg til skriver</string>
      <string name="print_menu_item_add_printers">Legg til skrivere</string>
      <string name="print_menu_item_add_service">Legg til tjeneste</string>
@@ -2228,6 +2189,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="print_print_job">Utskriftsjobber</string>
      <string name="print_print_jobs">Utskriftsjobber</string>
      <string name="print_printing_state_title_template">Skriver ut %1$s</string>
+     <string name="print_remind">Aktiver utskrift først</string>
      <string name="print_restart">Start på nytt</string>
      <string name="print_search_box_hidden_utterance">Søkefeltet er skjult</string>
      <string name="print_search_box_shown_utterance">Søkefeltet vises</string>
@@ -2312,6 +2274,11 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="quick_launch_shortcut">Søk + %1$s</string>
      <string name="quick_launch_summary">Angi hurtigtaster for å starte apper</string>
      <string name="quick_launch_title">Hurtigtaster</string>
+     <string name="quiet">Do not disturb</string>
+     <string name="quiet_group">Do not disturb</string>
+     <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
+     <string name="quiet_mode">Silence all disturbances</string>
+     <string name="quiet_off_mode">Always allow disturbances</string>
      <string name="radioInfo_cid">CID</string>
      <string name="radioInfo_data_connected">Tilkoblet</string>
      <string name="radioInfo_data_connecting">Kobler til</string>
@@ -2389,15 +2356,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="repeat_title">Gjenta</string>
      <string name="reset_app_preferences">Tilbakestill app-innstillingene</string>
      <string name="reset_app_preferences_button">Tilbakestill apper</string>
-     <string name="reset_app_preferences_desc">"Dette tilbakestiller alle innstillinger for:
-
-"&lt;li&gt;deaktiverte apper&lt;/li&gt;"
-"&lt;li&gt;deaktiverte appvarsler&lt;/li&gt;"
-"&lt;li&gt;standardapper for handlinger&lt;/li&gt;"
-"&lt;li&gt;begrensninger for bakgrunnsdata for apper&lt;/li&gt;"
-"&lt;li&gt;eventuelle tillatelsesbegrensninger&lt;/li&gt;"
-
- Du kommer ikke til &amp;#229; miste noe appdata."</string>
+     <string name="reset_app_preferences_desc">"Dette tilbakestiller alle innstillinger for:"&lt;li&gt;deaktiverte apper&lt;/li&gt;""&lt;li&gt;deaktiverte appvarsler&lt;/li&gt;""&lt;li&gt;standardapper for handlinger&lt;/li&gt;""&lt;li&gt;begrensninger for bakgrunnsdata for apper&lt;/li&gt;""&lt;li&gt;eventuelle tillatelsesbegrensninger&lt;/li&gt;" Du kommer ikke til &amp;#229; miste noe appdata."</string>
      <string name="reset_app_preferences_title">Vil du tilbakestille app-innstillingene?</string>
      <string name="reset_legacy_password_settings_preface_text">Du må tilbakestille låseskjerm-passordet ditt.</string>
      <string name="resolver_settings_label">Sorter</string>
@@ -2435,9 +2394,7 @@ vil %1$s dukke opp som en USB-lagringsenhet når tilkoblet en datamaskin."</stri
      <string name="roaming_reenable_title">Vil du tillate roaming?</string>
      <string name="roaming_turn_it_on_button">Slå på</string>
      <string name="roaming_warning">Å tillate roaming kan medføre høye datakostnader.</string>
-     <string name="roaming_warning_multiuser">"Når du tillater roaming, kan dette føre til høye datakostnader.
-
-Denne innstillingen påvirker alle brukerne på denne enheten."</string>
+     <string name="roaming_warning_multiuser">"Når du tillater roaming, kan dette føre til høye datakostnader.Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="rssi_label">RSSI:</string>
      <string name="running_process_item_removed_user_label">Brukeren ble fjernet</string>
      <string name="running_process_item_user_label">Bruker:%1$s</string>
@@ -2498,17 +2455,7 @@ Denne innstillingen påvirker alle brukerne på denne enheten."</string>
      <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internett-forbindelse</string>
      <string name="screen_paper_mode_update_white_pkg_list_summary">Oppdater listen over apper som bruker automatisk bruker Lesemodus</string>
      <string name="screen_paper_mode_update_white_pkg_list_title">Oppdater automatisk</string>
-     <string name="screen_pinning_description">"Når én-appsmodus er slått på, kan du låse den gjeldende skjermen til én side, helt til du avslutter modusen.
-
-Sånn fungerer én-appsmodus:
-
-1. Sørg for at én-appsmodus er slått på.
-
-2. Åpne skjermen du vil låse.
-
-3. Trykk på Oversikt.
-
-4. Trykk på knappenålsikonet."</string>
+     <string name="screen_pinning_description">"Når én-appsmodus er slått på, kan du låse den gjeldende skjermen til én side, helt til du avslutter modusen.Sånn fungerer én-appsmodus:1. Sørg for at én-appsmodus er slått på.2. Åpne skjermen du vil låse.3. Trykk på Oversikt.4. Trykk på knappenålsikonet."</string>
      <string name="screen_pinning_title">Én-appsmodus</string>
      <string name="screen_resolution_confirm">Bekreft og start på nytt</string>
      <string name="screen_resolution_summary">Reduser oppløsningen til skjermen, for å forbedre ytelse og flyt. Denne endringen krever omstart av systemet.</string>
@@ -2704,8 +2651,7 @@ Sånn fungerer én-appsmodus:
      <string name="sim_cards_changed_message_summary">Trykk for å angi aktiviteter</string>
      <string name="sim_cellular_data_unavailable">Mobildata er ikke tilgjengelig</string>
      <string name="sim_cellular_data_unavailable_summary">Trykk for å velge et SIM-kort for databruk</string>
-     <string name="sim_change_failed">"Kan ikke endre personlig kode.
-Muligens feil kode."</string>
+     <string name="sim_change_failed">"Kan ikke endre personlig kode.Muligens feil kode."</string>
      <string name="sim_change_failed_enable_sim_lock">Skru på SIM-lås nå.</string>
      <string name="sim_change_pin">SIM-kode for PIN-kort</string>
      <string name="sim_change_succeeded">PIN-koden for SIM-kortet ble endret.</string>
@@ -2717,48 +2663,44 @@ Muligens feil kode."</string>
      <string name="sim_editor_num_format">Vis numre</string>
      <string name="sim_editor_number">Nummer</string>
      <string name="sim_editor_title">SIM-kort</string>
-     <string name="sim_enable_disable_lock_not_supported">"Unable to Change SIM/RUIM Lock.
- SIM/RUIM doesn't support it."</string>
+     <string name="sim_enable_disable_lock_not_supported">"Kunne ikke endre SIM/RUIM-lås. SIM/RUIM støtter det ikke."</string>
      <string name="sim_enable_sim_lock">Lås SIM-kortet</string>
-     <string name="sim_enabled">enabled</string>
-     <string name="sim_enabler_airplane_on">ERROR, airplane mode is on!</string>
-     <string name="sim_enabler_both_inactive">"Error, can't disable all the SIMs"</string>
-     <string name="sim_enabler_disabling">Deactivating...</string>
-     <string name="sim_enabler_enabling">Activating...</string>
-     <string name="sim_enabler_in_call">ERROR, in call!</string>
-     <string name="sim_enabler_need_disable_sim">Deactivating the SIM, are you sure?</string>
-     <string name="sim_enabler_need_enable_sim">Activating the SIM, are you sure?</string>
-     <string name="sim_enabler_summary">SIM is %1$s</string>
-     <string name="sim_enabler_title">SIM Enablers</string>
+     <string name="sim_enabled">Aktivert</string>
+     <string name="sim_enabler_airplane_on">Feil, flymodus er på!</string>
+     <string name="sim_enabler_both_inactive">"Feil, kan ikke deaktivere alle SIM-kort"</string>
+     <string name="sim_enabler_disabling">Deaktiverer...</string>
+     <string name="sim_enabler_enabling">Aktiverer...</string>
+     <string name="sim_enabler_in_call">Feil, er i samtale!</string>
+     <string name="sim_enabler_need_disable_sim">Er du sikker på at du vil deaktivere SIM-kortet?</string>
+     <string name="sim_enabler_need_enable_sim">Er du sikker på at du vil aktivere SIM-kortet?</string>
+     <string name="sim_enabler_summary">SIM er %1$s</string>
+     <string name="sim_enabler_title">SIM-aktivering</string>
      <string name="sim_enter_cancel">Avbryt</string>
      <string name="sim_enter_new">Ny PIN-kode for SIM-kort</string>
      <string name="sim_enter_ok">OK</string>
      <string name="sim_enter_old">Gammel PIN-kode for SIM-kort</string>
      <string name="sim_enter_pin">PIN-kode for SIM-kort</string>
-     <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock.</string>
-     <string name="sim_lock_failed">"Kan ikke endre SIM-kortlåsens tilstand.
-Muligens feil personlig kode."</string>
+     <string name="sim_lock_change_not_supported">"Kan ikke endre SIM-lås.</string>
+     <string name="sim_lock_failed">"Kan ikke endre SIM-kortlåsens tilstand.Muligens feil personlig kode."</string>
      <string name="sim_lock_off">Personlig kode kreves for å bruke enheten</string>
      <string name="sim_lock_on">Personlig kode kreves for å bruke enheten</string>
      <string name="sim_lock_settings">Innstillinger for SIM-kort-lås</string>
      <string name="sim_lock_settings_category">Sett opp SIM-kort-lås</string>
      <string name="sim_lock_settings_title">SIM-kort-lås</string>
-     <string name="sim_management_title">SIM management</string>
-     <string name="sim_missing">missing or error</string>
+     <string name="sim_management_title">SIM-håndtering</string>
+     <string name="sim_missing">Mangler eller feil</string>
      <string name="sim_multi_sims_summary">Velg SIM-kortet du foretrekker for mobildata.</string>
      <string name="sim_multi_sims_title">Flere SIM-kort er funnet</string>
      <string name="sim_no_inserted_msg">Det er ikke satt inn noe SIM-kort</string>
      <string name="sim_other_call_settings">Andre anropsinnstillinger</string>
      <string name="sim_outgoing_call_title">SIM-kort for utgående anrop</string>
-     <string name="sim_pin_attempts">"
-Attempts Remaining :"</string>
+     <string name="sim_pin_attempts">"Forsøk igjen :"</string>
      <string name="sim_pin_change">Endre SIM-PIN-kode</string>
-     <string name="sim_pin_change_failed_enable_sim_lock">"Unable to Change SIM/RUIM PIN.
- Enable SIM/RUIM Lock."</string>
-     <string name="sim_pin_disable_failed">"Can't disable PIN."</string>
-     <string name="sim_pin_disabled">PIN1 Disabled!</string>
-     <string name="sim_pin_enable_failed">"Can't enable PIN."</string>
-     <string name="sim_pin_enabled">PIN1 Enabled!</string>
+     <string name="sim_pin_change_failed_enable_sim_lock">"Kan ikke endre IM/RUIM PIN. Aktiver SIM/RUIM-lås."</string>
+     <string name="sim_pin_disable_failed">"Kan ikke deaktivere PIN."</string>
+     <string name="sim_pin_disabled">PIN1 deaktivert!</string>
+     <string name="sim_pin_enable_failed">"Kan ikke aktivere PIN."</string>
+     <string name="sim_pin_enabled">PIN1 aktivert!</string>
      <string name="sim_pin_toggle">Lås SIM-kortet</string>
      <string name="sim_pins_dont_match">De personlige kodene samsvarer ikke</string>
      <string name="sim_pref_divider">Aktiviteter</string>
@@ -2800,23 +2742,17 @@ Attempts Remaining :"</string>
      <string name="sound_category_system_title">System</string>
      <string name="sound_effects_enable_title">Berøringslyder</string>
      <string name="sound_settings">Lyd</string>
+     <string name="sound_vibrate_settings">Lyd &amp; vibrering</string>
      <string name="spellchecker_language">Språk</string>
      <string name="spellchecker_quick_settings">Innstillinger</string>
      <string name="spellchecker_security_warning">Denne stavekontrollen kan være i stand til å samle all tekst du skriver, herunder personlige opplysninger som passord og kredittkortnumre. Den kommer fra appen %1$s. Vil du bruke denne stavekontrollen?</string>
      <string name="spellcheckers_settings_title">Stavekontroll</string>
      <string name="ssid_label">SSID:</string>
      <string name="ssl_ca_cert_dialog_title">Nettverksovervåking</string>
-     <string name="ssl_ca_cert_info_message">"Denne enheten administreres av:
-%s
-
-Administratoren din kan overvåke nettverksaktiviteten din, inkludert e-poster, apper og sikre nettsteder.
-
-For mer informasjon kan du kontakte administratoren din."</string>
+     <string name="ssl_ca_cert_info_message">"Denne enheten administreres av:%sAdministratoren din kan overvåke nettverksaktiviteten din, inkludert e-poster, apper og sikre nettsteder.For mer informasjon kan du kontakte administratoren din."</string>
      <string name="ssl_ca_cert_settings_button">Sjekk pålitelig legitimasjon</string>
      <string name="ssl_ca_cert_warning">Nettverket blir muligens overvåket</string>
-     <string name="ssl_ca_cert_warning_message">"En utenforstående kan overvåke nettverksaktiviteten din, inkludert e-poster, apper og sikre nettsteder.
-
-Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."</string>
+     <string name="ssl_ca_cert_warning_message">"En utenforstående kan overvåke nettverksaktiviteten din, inkludert e-poster, apper og sikre nettsteder.Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."</string>
      <string name="stable_build">" | Stabil"</string>
      <string name="status_awaiting_tap">Trykk på en brikke for å skrive</string>
      <string name="status_awake_time">Våken tid</string>
@@ -2953,10 +2889,8 @@ Pålitelig legitimasjon, som er installert på enheten din, gjør dette mulig."<
      <string name="sync_item_title">%s</string>
      <string name="sync_menu_sync_cancel">Avbryt synkronisering</string>
      <string name="sync_menu_sync_now">Synkroniser nå</string>
-     <string name="sync_one_time_sync">"Berør for å synkronisere nå
-%1$s"</string>
-     <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Velkommen til Google-synkronisering!&lt;/font&gt;"
-Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontaktene dine, avtalene dine og mye mer &amp;#8211; uansett hvor du befinner deg.""</string>
+     <string name="sync_one_time_sync">"Berør for å synkronisere nå%1$s"</string>
+     <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Velkommen til Google-synkronisering!&lt;/font&gt;"Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontaktene dine, avtalene dine og mye mer &amp;#8211; uansett hvor du befinner deg.""</string>
      <string name="sync_settings">Synk</string>
      <string name="sync_wifi_label">Wi-Fi</string>
      <string name="sync_wifi_only">Bare Wi-Fi</string>
@@ -3206,14 +3140,8 @@ Synkroniser p&amp;#229; Google-m&amp;#229;ten, slik at du har tilgang til kontak
      <string name="user_add_user_item_summary">Brukere har sine egne apper og eget innhold</string>
      <string name="user_add_user_item_title">Bruker</string>
      <string name="user_add_user_menu">Legg til en bruker eller profil</string>
-     <string name="user_add_user_message_long">"Du kan dele denne enheten med andre personer ved å opprette flere brukere. Hver bruker får sitt eget område som de kan tilpasse med egne apper, bakgrunner osv. Brukere kan også tilpasse innstillinger på nettbrettet som påvirker alle, for eksempel for Wi-Fi.
-
-Når du oppretter nye brukere, må de gå gjennom en konfigurasjonsprosess.
-
-Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne."</string>
-     <string name="user_add_user_message_short">"Når du oppretter nye brukere, må de gå gjennom en konfigureringsprosess.
-
-Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne."</string>
+     <string name="user_add_user_message_long">"Du kan dele denne enheten med andre personer ved å opprette flere brukere. Hver bruker får sitt eget område som de kan tilpasse med egne apper, bakgrunner osv. Brukere kan også tilpasse innstillinger på nettbrettet som påvirker alle, for eksempel for Wi-Fi.Når du oppretter nye brukere, må de gå gjennom en konfigurasjonsprosess.Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne."</string>
+     <string name="user_add_user_message_short">"Når du oppretter nye brukere, må de gå gjennom en konfigureringsprosess.Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne."</string>
      <string name="user_add_user_or_profile_menu">Legg til en bruker eller profil</string>
      <string name="user_add_user_title">Legg til ny bruker</string>
      <string name="user_add_user_type_title">Legg til</string>
@@ -3408,8 +3336,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wait_for_debugger_summary">Feilsøkt app venter til feilsøkingsapp er lagt til før den kjører</string>
      <string name="wakeup_for_keyguard_notification_title">Våkne låseskjerm for varsler</string>
      <string name="wallpaper_attributions">Bakgrunner</string>
-     <string name="wallpaper_attributions_values">"Leverandører av satellittbilder:
-©2014 CNES / Astrium, Digitalglobe, Bluesky"</string>
+     <string name="wallpaper_attributions_values">"Leverandører av satellittbilder:©2014 CNES / Astrium, Digitalglobe, Bluesky"</string>
      <string name="wallpaper_desktop">Hjemskjerm</string>
      <string name="wallpaper_live">Live bakgrunnsbilde</string>
      <string name="wallpaper_lockscreen">Låseskjerm</string>
@@ -3446,8 +3373,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_and_mobile_skipped_message">ADVARSEL: Enheten kan ikke bekrefte at programvaren din er oppdatert uten Internett-tilkobling.</string>
      <string name="wifi_api_test">WLAN API</string>
      <string name="wifi_assistant_card_message">Koble deg automatisk til tilgjengelige nettverk med en Wi-Fi-assistent.</string>
-     <string name="wifi_assistant_intro_setup">"Wi-Fi-assistent
-"</string>
+     <string name="wifi_assistant_intro_setup">"Wi-Fi-assistent"</string>
      <string name="wifi_assistant_no_thanks">NEI TAKK</string>
      <string name="wifi_assistant_open_app">ÅPNE APPEN</string>
      <string name="wifi_assistant_setup">KONFIGURER</string>
@@ -3462,7 +3388,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_band_5ghz">5GHz</string>
      <string name="wifi_cancel">Avbryt</string>
      <string name="wifi_certificate">Sertifikat</string>
-     <string name="wifi_click_share_wlan">Tap to share password</string>
+     <string name="wifi_click_share_wlan">Trykk for å dele passord</string>
      <string name="wifi_config_info">WLAN-konfig</string>
      <string name="wifi_configured_ap_list">Tidligere konfigurerte aksesspunkt</string>
      <string name="wifi_connect">Koble til</string>
@@ -3477,6 +3403,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_context_menu_connect">Koble til</string>
      <string name="wifi_context_menu_forget">Glem</string>
      <string name="wifi_datanetwork_switch_not_remind">"Ikke vis igjen"</string>
+     <string name="wifi_dialog_remind_type_title">Mobile data network</string>
      <string name="wifi_disabled_generic">Deaktivert</string>
      <string name="wifi_disabled_help">Wi-Fi ble frakoblet på grunn av dårlig forbindelse</string>
      <string name="wifi_disabled_network_failure">Unngikk dårlig internettforbindelse</string>
@@ -3619,9 +3546,7 @@ Alle brukere kan godta oppdaterte apptillatelser på vegne av de andre brukerne.
      <string name="wifi_scan_always_confirm_allow">Tillat</string>
      <string name="wifi_scan_always_confirm_deny">Avvis</string>
      <string name="wifi_scan_always_turnoff_message">For å slå dette av går du til Avansert i overflytsmenyen.</string>
-     <string name="wifi_scan_always_turnon_message">"%1$s ønsker å bruke nettverksskanning, også når Wi-Fi er slått av, for bedre posisjonsnøyaktighet og andre formål.
-
-Vil du tillate dette for alle apper som prøver å skanne?"</string>
+     <string name="wifi_scan_always_turnon_message">"%1$s ønsker å bruke nettverksskanning, også når Wi-Fi er slått av, for bedre posisjonsnøyaktighet og andre formål.Vil du tillate dette for alle apper som prøver å skanne?"</string>
      <string name="wifi_scan_notify_remember_choice">Ikke vis igjen</string>
      <string name="wifi_scan_notify_text_location_off">Apper kan søke etter nettverk i nærheten, selv når Wi-Fi er slått av. Hvis du ikke vil at dette skal skje, går du til Avansert &gt; Skanning alltid tilgjengelig.</string>
      <string name="wifi_scan_notify_text_location_on">For å forbedre posisjonsnøyaktigheten, og for andre formål, kan Google og andre apper søke etter nettverk i nærheten, selv når Wi-Fi er slått av. Hvis du ikke vil at dette skal skje, går du til Avansert &gt; Skanning alltid tilgjengelig.</string>
@@ -3659,9 +3584,7 @@ Vil du tillate dette for alle apper som prøver å skanne?"</string>
      <string name="wifi_setup_back">Tilbake</string>
      <string name="wifi_setup_cancel">Avbryt</string>
      <string name="wifi_setup_connect">Koble til</string>
-     <string name="wifi_setup_description_connected">"Trykk på &lt;b&gt;Neste&lt;/b&gt;" for &amp;#229; fortsette konfigurasjonen.
-
-Trykk p&amp;#229; "&lt;b&gt;Tilbake&lt;/b&gt; for &amp;#229; koble til et annet Wi-Fi-nettverk."</string>
+     <string name="wifi_setup_description_connected">"Trykk på &lt;b&gt;Neste&lt;/b&gt;" for &amp;#229; fortsette konfigurasjonen.Trykk p&amp;#229; "&lt;b&gt;Tilbake&lt;/b&gt; for &amp;#229; koble til et annet Wi-Fi-nettverk."</string>
      <string name="wifi_setup_description_connecting">Tilkoblingen kan ta noen minutter</string>
      <string name="wifi_setup_detail">Nettverksdetaljer</string>
      <string name="wifi_setup_eap_not_supported">Du kan ikke konfigurere en EAP Wi-Fi-tilkobling under konfigurasjonen. Etter konfigurasjonen kan dette gjøres i Innstillinger &gt; Trådløst og nettverk.</string>
@@ -3692,8 +3615,7 @@ Trykk p&amp;#229; "&lt;b&gt;Tilbake&lt;/b&gt; for &amp;#229; koble til et annet 
      <string name="wifi_share_action_turn_on">Del Wi-Fi</string>
      <string name="wifi_share_action_turn_on_summary">Logg inn på din Mi-konto for å dele</string>
      <string name="wifi_share_add">Del mine offentlige nettvekr</string>
-     <string name="wifi_share_add_summary">"Når du deler din offentlige nettverk,
-kan du også bruke andre brukeres nettverk"</string>
+     <string name="wifi_share_add_summary">"Når du deler din offentlige nettverk,kan du også bruke andre brukeres nettverk"</string>
      <string name="wifi_share_connect">Koble til</string>
      <string name="wifi_share_connected_summary">"Du er tilkoblet et Wi-Fi nettverk som har blitt delt av en annen bruker"</string>
      <string name="wifi_share_connected_title">MIUI delt Wi-Fi</string>
@@ -3702,8 +3624,7 @@ kan du også bruke andre brukeres nettverk"</string>
      <string name="wifi_share_know">OK</string>
      <string name="wifi_share_list_empty">Ingen delte nettverk funnet.</string>
      <string name="wifi_share_login">Del Wi-Fi-nettverk</string>
-     <string name="wifi_share_login_summary">"Hvis dette er et offentlig nettverk, kan du dele det med andre MIUI-brukere
-  ."</string>
+     <string name="wifi_share_login_summary">"Hvis dette er et offentlig nettverk, kan du dele det med andre MIUI-brukere  ."</string>
      <string name="wifi_share_notification_summary">MIUI har koblet deg til et offentlig Wi-Fi nettverk.</string>
      <string name="wifi_share_other_network">Andre nettverk</string>
      <string name="wifi_share_qrcode_finish">OK</string>
@@ -3723,9 +3644,7 @@ kan du også bruke andre brukeres nettverk"</string>
      <string name="wifi_signal">Signalstyrke</string>
      <string name="wifi_signal_found_msg">Ett WiFi-aksesspunkt er tilgjengelig, koble til?</string>
      <string name="wifi_skip_anyway">Hopp over uansett</string>
-     <string name="wifi_skipped_message">"ADVARSEL: Du kan pådra deg ekstra datakostnader fra operatøren.
-
-Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
+     <string name="wifi_skipped_message">"ADVARSEL: Du kan pådra deg ekstra datakostnader fra operatøren.Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wifi_speed">Linkhastighet</string>
      <string name="wifi_ssid">SSID</string>
      <string name="wifi_ssid_hint">Skriv SSIDen</string>
@@ -3734,15 +3653,17 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="wifi_state_disabling">Deaktivert</string>
      <string name="wifi_state_enabled">Aktivert</string>
      <string name="wifi_state_enabling">Aktiverer</string>
-     <string name="wifi_state_label">WLAN-tilstand:</string>
+     <string name="wifi_state_label">Wi-Fi-modus:</string>
      <string name="wifi_state_unknown">Ukjent</string>
      <string name="wifi_status">Status</string>
-     <string name="wifi_status_test">WLAN-status</string>
+     <string name="wifi_status_test">Wi-Fi-status</string>
      <string name="wifi_stopping">Slår av Wi-Fi…</string>
      <string name="wifi_subnet_mask">Subnett-maske</string>
      <string name="wifi_suspend_efficiency_title">Forbedre effektiviteten</string>
      <string name="wifi_suspend_optimizations">Optimalisering av Wi-Fi</string>
      <string name="wifi_suspend_optimizations_summary">Minimer batteribruk når Wi-Fi er på</string>
+     <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
+     <string name="wifi_switch_to_gsm_title">Use GSM?</string>
      <string name="wifi_tether_checkbox_text">Flyttbar Wi-Fi-sone</string>
      <string name="wifi_tether_configure_ap_text">Konfigurer Wi-Fi-sone</string>
      <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
@@ -3840,10 +3761,10 @@ Oppsettet på enheten kan kreve betydelig nettverksaktivitet."</string>
      <string name="zen_mode_important_category">Prioriterte forstyrrelser</string>
      <string name="zen_mode_messages">Meldinger</string>
      <string name="zen_mode_miui_disturb_category">disturb mode</string>
-     <string name="zen_mode_miui_silent_category">silent mode</string>
+     <string name="zen_mode_miui_silent_category">stillemodus</string>
      <string name="zen_mode_option_important_interruptions">Tillat bare prioriterte forstyrrelser</string>
-     <string name="zen_mode_option_miui_silent">Allow miui vibrate interrupt</string>
-     <string name="zen_mode_option_miui_vibrate">Do Not Disturb</string>
+     <string name="zen_mode_option_miui_silent">Tillat MIUI-vibreringsavbrytelse</string>
+     <string name="zen_mode_option_miui_vibrate">Ikke forstyrr</string>
      <string name="zen_mode_option_no_interruptions">Ikke forstyrr</string>
      <string name="zen_mode_option_off">Forstyrr alltid</string>
      <string name="zen_mode_option_title">Ved innkommende anrop og varsler</string>

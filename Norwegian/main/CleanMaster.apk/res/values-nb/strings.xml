@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_title_ad">Reklamer</string>
      <string name="activity_title_apk">Pakker</string>
+     <string name="activity_title_brightness_image">Under- og overeksponert</string>
      <string name="activity_title_cache">Mellomlager</string>
      <string name="activity_title_cache_data">App data</string>
      <string name="activity_title_deep_clean">Dyprensing</string>
-     <string name="activity_title_garbage_cleanup">Cleaner</string>
+     <string name="activity_title_garbage_cleanup">Opprydder</string>
      <string name="activity_title_ignored_image">Ignorert</string>
      <string name="activity_title_image_gallery">Slett duplikater</string>
      <string name="activity_title_large_file">Store filer</string>
@@ -14,8 +15,11 @@
      <string name="activity_title_privacy_cache">Mellomlager for personvern</string>
      <string name="activity_title_residual">Rester</string>
      <string name="activity_title_scanfinish">Skann fullført</string>
+     <string name="activity_title_screenshot">Skjermskudd</string>
      <string name="activity_title_settings">Innstillinger</string>
+     <string name="activity_title_similar_image">Dupliserte bilder</string>
      <string name="activity_title_similar_image_group">Slett duplikater</string>
+     <string name="activity_title_tedious_image">Tilfeldige bilcer</string>
      <string name="activity_title_uninstall_apps">Apper</string>
      <string name="activity_title_white_list">Unntak</string>
      <string name="apk_status_damage">Skadet</string>
@@ -42,6 +46,7 @@
      <string name="button_text_cleanup">Rydd opp</string>
      <string name="button_text_delete_from_white_list">Fjern</string>
      <string name="button_text_delete_pic">Slett</string>
+     <string name="button_text_deselect_all_photos">Avvelg alle</string>
      <string name="button_text_group_ignore">Ignorer</string>
      <string name="button_text_group_unlike">Ikke duplikater</string>
      <string name="button_text_install">Installer</string>
@@ -50,8 +55,10 @@
      <string name="button_text_known">OK</string>
      <string name="button_text_let_me_select">OK</string>
      <string name="button_text_not_prompt_again">"Ikke vis igjen"</string>
+     <string name="button_text_photo_selected">Valgte</string>
      <string name="button_text_restore_ignore">Andre</string>
      <string name="button_text_select_all">Velg</string>
+     <string name="button_text_select_all_photos">Velg alle</string>
      <string name="button_text_select_pic">Velg</string>
      <string name="button_text_uninstall">Avinstaller</string>
      <string name="button_text_uninstall_only">Avinstaller %s</string>
@@ -74,19 +81,29 @@
      <string name="clear_bigfiles">Slett store filer, dupliserte bilder og andre ubrukelige ting</string>
      <string name="clear_immediately">Rydd nå</string>
      <string name="clear_safe_notify">Sikkerhetsvarsling-linje</string>
+     <string name="close">Lukk</string>
      <string name="confirm_auto_cleaner">OK</string>
      <string name="conn_of_function_safe">Nettverksforbindelse for sikkerhet</string>
      <string name="connecting">Kobler til…</string>
      <string name="deepclean_app_content">Avinstaller apper du ikke har brukt i 30 dager</string>
+     <string name="deepclean_app_summary_empty">Alt ser bra ut, ingen apper å slette</string>
      <string name="deepclean_cache_content">Tøm data generert av apper</string>
      <string name="deepclean_cache_header_left">Mellomlagrinsfiler: %d</string>
+     <string name="deepclean_cache_summary_empty">Alt ser bra ut, ingen data å tømme</string>
      <string name="deepclean_large_content">Slett filer større enn 10MB</string>
+     <string name="deepclean_large_summary_empty">Alt ser bra ut, ingen filer å slette</string>
      <string name="deepclean_list_item_from_app">App-butikk</string>
      <string name="deepclean_list_item_from_dcim_thumbnails">Miniatyrer</string>
      <string name="deepclean_list_item_from_download">Nedlastninger</string>
      <string name="deepclean_list_item_from_gallery">Galleri</string>
+     <string name="deepclean_list_item_from_miui">MIUI</string>
+     <string name="deepclean_list_item_from_music">Musikk</string>
      <string name="deepclean_list_item_from_sdcard">SD-kort</string>
      <string name="deepclean_similar_ignore">Ignorer</string>
+     <string name="deepclean_similar_summary_empty">Alt ser bra ut, ingen bilder å slette</string>
+     <string name="deepclean_size_summary_less">Ikke nok plass</string>
+     <string name="deepclean_size_summary_more">Nok lagringslass tilgjengelig</string>
+     <string name="deepclean_size_summary_normal">Lagringsplass tilgjengelig</string>
      <string name="deepclean_title_large_file">Slett store filer</string>
      <string name="deepclean_title_uninstall_apps">Sjeldent brukte apper</string>
      <string name="default_cache_type">Datafiler</string>
@@ -107,7 +124,7 @@
      <string name="empty">" "</string>
      <string name="empty_content_no_ignore_image">Tomt</string>
      <string name="empty_content_no_privacy">Tomt</string>
-     <string name="empty_content_no_similar_image">Ingen duplikater</string>
+     <string name="empty_content_no_similar_image">Ingen bilder</string>
      <string name="empty_title_ad">Ingen reklamefiler funnet</string>
      <string name="empty_title_apk">Ingen installasjonfiler funnet</string>
      <string name="empty_title_garbage_cache">Ingenting å tømme</string>
@@ -162,23 +179,29 @@
      <string name="hints_loading_text">Laster…</string>
      <string name="hints_memory_header_left">Minne</string>
      <string name="hints_num">0</string>
-     <string name="hints_privacy_header_left">Personvenr: %d</string>
+     <string name="hints_privacy_header_left">Personvern: %d</string>
      <string name="hints_quick_cleanning">Rydder…</string>
      <string name="hints_quick_cleanuping">Optimaliserer…</string>
+     <string name="hints_quick_deep_clean">Rydd nå</string>
+     <string name="hints_quick_deep_scanning">Skanner</string>
+     <string name="hints_quick_deep_uninstall">Slett nå</string>
      <string name="hints_quick_prepare">Forbereder…</string>
      <string name="hints_quick_scanning">Skanner…</string>
      <string name="hints_residual_header_left">Rester</string>
      <string name="hints_scanfinish">Ingen søppel funnet</string>
      <string name="hints_storage_clean_size">Frigjorde %s intern plass</string>
      <string name="hints_storage_free">Ledig</string>
-     <string name="hints_storage_free_size">%s tilgjengelig, flere elementer kan ryddes</string>
+     <string name="hints_storage_free_size">Totalt %1$s, %2$s tilgjengelig</string>
      <string name="hints_storage_news">Sikkerhetsnyheter</string>
      <string name="hints_title_garbage">søppel</string>
      <string name="hot">Populært</string>
+     <string name="hot_today">Populært i dag</string>
      <string name="installed">Installert</string>
      <string name="installing">Installerer</string>
      <string name="item_title_process_mode">Velg en handling</string>
      <string name="just_now">Akkurat nå</string>
+     <string name="label_image_list_none">Ingen</string>
+     <string name="label_preserve_the_best_image">Lagre de skarpeste bildene</string>
      <string name="last_check_canceled">Forrige skanning ble avbrutt</string>
      <string name="login_immediately">Logg inn</string>
      <string name="mainbtn_text_quick_cleanup">Rydd opp %s</string>
@@ -265,6 +288,7 @@
      <string name="safety_rank">Foran %d%% MIUI-brukere med tanke på sikkerhet</string>
      <string name="sc_allow_network_dialog_button">Tillat</string>
      <string name="sc_allow_network_dialog_message">Tillat denne appen å koble til Internett for å motta oppdateringer?</string>
+     <string name="see_more">Mer</string>
      <string name="set_immediately">Sett</string>
      <string name="seton_immediately">Skru på</string>
      <string name="share">Del</string>
@@ -272,6 +296,7 @@
      <string name="similar_image_empty">Ingen duplikater funnet</string>
      <string name="similar_image_scaning">Sjekker…</string>
      <string name="similar_image_title">Bilder</string>
+     <string name="sponsored">Sponset</string>
      <string name="start_install">Installer nå</string>
      <string name="summary_auto_cleaner">Rydd systemet automatisk hver 3. dag?</string>
      <string name="summary_delete_cache">"Alle dataene til denne appen vil bli sletter permanent (dette inkluderer alle filer, innstillinger og kontoer)."</string>

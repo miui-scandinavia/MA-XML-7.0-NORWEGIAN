@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="about_fraud_num_online_identification">Om denne funksjonen</string>
-     <string name="about_phone_event">Om tjenesteinfo</string>
-     <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
+     <string name="about_fraud_num_online_identification">Om identifisering av phishing-numre</string>
+     <string name="about_phone_event">Om tjenestemeldinger</string>
+     <string name="about_smart_antispam_summary">Om Inteligent nummeridentifisering</string>
      <string name="about_telephone_fraud">Om telefonsvindel</string>
      <string name="account_address">Adresser</string>
      <string name="account_order">Ordrehistorikk</string>
@@ -17,6 +17,8 @@
      <string name="account_yellowpage_followed">Verifiserte kontoer</string>
      <string name="account_yellowpage_recent">Vis historikk</string>
      <string name="agree">Samtykk</string>
+     <string name="agree_to_continue">Fortsett</string>
+     <string name="agree_to_turn_on">Godkjenn</string>
      <string name="all_resources">Alle</string>
      <string name="all_services">Alle</string>
      <string name="allow">Tillat</string>
@@ -112,8 +114,7 @@
      <string name="express_field_empty">Tom</string>
      <string name="express_go_back">Tilbake</string>
      <string name="express_info_divider">" / "</string>
-     <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.
-Vennligst sjekk ditt sproingsnummer"</string>
+     <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inqiury_select_logistics">Kurertjeneste</string>
      <string name="express_inquiry">Sporer</string>
      <string name="express_inquiry_button_text">Spor</string>
@@ -127,16 +128,14 @@ Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inquiry_history">Historikk</string>
      <string name="express_inquiry_history_remark">Bemerkning</string>
      <string name="express_inquiry_history_remark_hint">Kommentarer</string>
-     <string name="express_inquiry_internal_failure">"En feil oppsto.
-Sjekk trackingnummer."</string>
+     <string name="express_inquiry_internal_failure">"En feil oppsto.Sjekk trackingnummer."</string>
      <string name="express_inquiry_logistics">Velg en kurertjeneste</string>
      <string name="express_inquiry_logistics_prefix">Kurertjeneste: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Andre</string>
      <string name="express_inquiry_no_history">Ingen historikk</string>
      <string name="express_inquiry_no_result">Ingen resultater.</string>
      <string name="express_inquiry_number_empty">Skriv ditt trackingnummer.</string>
-     <string name="express_inquiry_number_invalid">"Inntastingen er ugyldig.
-Vennligst sjekk ditt trackingnummer."</string>
+     <string name="express_inquiry_number_invalid">"Inntastingen er ugyldig.Vennligst sjekk ditt trackingnummer."</string>
      <string name="express_inquiry_provider_info">"Drevet av "</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
@@ -235,6 +234,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="group_name_title" />
      <string name="hms_no_subject_view">(Ingen emne)</string>
      <string name="hms_notification">Meldinger</string>
+     <string name="homepage_barcode_prompt">Skan for å åpne hjemmeside.</string>
      <string name="info_divider">|</string>
      <string name="loading">Laster…</string>
      <string name="loading_resource_detail_fail">"Kan ikke laste ressurs"</string>
@@ -319,9 +319,9 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="payment_failed_common_problems">Et problem oppstod under betaling.</string>
      <string name="payment_unknown_status_summary">Kontroller nettverkstilkoblingen og prøv på nytt.</string>
      <string name="payment_unknown_status_title">"Kunne ikke bekreft betalingsstatus"</string>
-     <string name="phone_event_setting_notice_text">"Gule sider vil laste opp verifiserte tjenestenummer (som din telefonleverandør) til Mi sine servere, så du kan motta tjenesterelaterte oppdateringer."</string>
+     <string name="phone_event_setting_notice_text">"Identifisering av ukjente numre hjelper deg med å forstå hvilke tjenestetilbydere som ringer eller tekster deg. En melding som inneholder informasjon om tjenestetilbyderens informasjon vil bli sendt til din telefon etter at den har blitt verifisert av Xiaomi. Du bør lese og godkjenne %1$s og %2$s for å bruke denne funksjonen"</string>
      <string name="phone_info_divider">" ｜ "</string>
-     <string name="photo_count">%d total</string>
+     <string name="photo_count">%d totalt</string>
      <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
      <string name="pull_to_refresh_refreshing_label">Laster…</string>
      <string name="pull_to_refresh_release_label">Slipp for å oppdatere…</string>
@@ -356,9 +356,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="recharge_status_description">Status:</string>
      <string name="recharge_title">Oppfylling</string>
      <string name="recharge_unknown_number">Ukjent</string>
-     <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s
-
-  Total beløp: RMB%3$s"</string>
+     <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s  Total beløp: RMB%3$s"</string>
      <string name="recharge_user_confirm_title">Bekreft oppfylling</string>
      <string name="refresh">Last på nytt</string>
      <string name="remember_preference">Husk foretrukket valg</string>
@@ -521,8 +519,7 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="resource_waiting_download">Venter på nedlastning...</string>
      <string name="rmb">RMB</string>
      <string name="scan">Skann</string>
-     <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
-"</string>
+     <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå."</string>
      <string name="sdcard_not_mounted_dialog_title">Ingen SD-kort oppdaget</string>
      <string name="select_package_before_buy">Vennligst velg pakken du vil kjøpe</string>
      <string name="selected_category_format">%1$s(%2$d folk har merket, klikk hvis du er enig)</string>
@@ -546,6 +543,10 @@ Vennligst sjekk ditt trackingnummer."</string>
      <string name="toast_finish_delete_call_log">Anropshistorikk er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
      <string name="try_again">Prøv igjen</string>
+     <string name="turn_off_hint_title">Hint</string>
+     <string name="turn_off_phone_event_hint">"Hvis du skrur av denne funksjonen, vil du ikke kunne bruke den etter at du legger på."</string>
+     <string name="turn_off_smart_antispam_hint">Skru av beskyttelse mot anrop fra ukjente?</string>
+     <string name="turn_on_phone_event_dialog_title">Oppdater nummeridentifikasjondatabase</string>
      <string name="turn_on_phone_event_summary">Last opp telefonstatus med tjenestenumre</string>
      <string name="turn_on_phone_event_title">Motta tjenesteinfo</string>
      <string name="turn_on_smart_antispam_hint">Etter aktivering, vil numrene bli identifisert. Hvis ikke identifisert, kan du merke den for å identifisere falske samtaler.</string>

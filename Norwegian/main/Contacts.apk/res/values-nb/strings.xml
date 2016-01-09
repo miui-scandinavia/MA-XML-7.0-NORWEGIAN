@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_card_title">Info</string>
      <string name="accessibility_calllog_detail">Detaljer om anropshistorikk</string>
@@ -192,8 +192,7 @@
      <string name="cloud_state_sync_finished">Synket med Mi Cloud</string>
      <string name="cloud_state_syncing">Synket med Mi Cloud</string>
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
+     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s%2$s"</string>
      <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
      <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
      <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
@@ -227,8 +226,7 @@
      <string name="contact_detail_miprofile_accept_fail_toast">"Kunne ikke utveksle kontaktkort"</string>
      <string name="contact_detail_miprofile_accept_success_toast">Utvekslet kontaktkort</string>
      <string name="contact_detail_miprofile_binded_label">Verifisert</string>
-     <string name="contact_detail_miprofile_exchange_closed">"Ingen telefonnummer er assosiert med denne Mi-kontoen
-Kontaktkort er slått av"</string>
+     <string name="contact_detail_miprofile_exchange_closed">"Ingen telefonnummer er assosiert med denne Mi-kontoenKontaktkort er slått av"</string>
      <string name="contact_detail_miprofile_privacy_settings">Krev tillatelse for å se</string>
      <string name="contact_detail_miprofile_request">Utveksle kontaktkort</string>
      <string name="contact_detail_miprofile_request_fail_toast">"Kunne ikke sende forespørsel"</string>
@@ -468,8 +466,7 @@ Kontaktkort er slått av"</string>
      <string name="export_to_sim2">Eksporter til SIM-kort 2</string>
      <string name="export_to_sim_title">Eksporterer til SIM-kort…</string>
      <string name="export_vcard_description">"Eksporter vCard til telefonens interne lagring"</string>
-     <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktopplysninger.
- Årsak: \"%s\" "</string>
+     <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktopplysninger. Årsak: \"%s\" "</string>
      <string name="exporting_contact_failed_title">"Kunne ikke eksportere kontakt data"</string>
      <string name="exporting_contact_list_message">Eksporterer til %s.</string>
      <string name="exporting_contact_list_progress" formatted="false">%s av %s kontakter</string>
@@ -595,8 +592,7 @@ Kontaktkort er slått av"</string>
      <string name="in_call_show_filter_process_error">En feil oppsto, vennligst prøv igjen.</string>
      <string name="in_call_show_filter_processing">Behandler...</string>
      <string name="in_call_show_filter_vivid">Levende</string>
-     <string name="in_call_show_guide_intro">"Ta opp en profilvideo
- som vil bli spilt på andre MIUI-brukere sine enheter når du ringer"</string>
+     <string name="in_call_show_guide_intro">"Ta opp en profilvideo som vil bli spilt på andre MIUI-brukere sine enheter når du ringer"</string>
      <string name="in_call_show_guide_start_recording">Ta opp nå</string>
      <string name="in_call_show_guide_title">Profilvideo</string>
      <string name="in_call_show_long_press_to_record">Trykk og hold for å ta opp</string>
@@ -734,6 +730,10 @@ Kontaktkort er slått av"</string>
      <string name="miprofile_error_not_set">"Ditt kontaktkort har ikke blitt synkronisert til serveren"</string>
      <string name="miprofile_error_unknown">Ukjent feil</string>
      <string name="miprofile_name">Min profil</string>
+     <string name="miprofile_nick_name_divider">"  |  "</string>
+     <string name="miprofile_nick_name_edit_dialog_hint">Skriv kallenavn</string>
+     <string name="miprofile_nick_name_edit_dialog_message">Kallenavn vil bli vist i anropshistorikk og detalj</string>
+     <string name="miprofile_nick_name_edit_dialog_title">Skriv kallenavn</string>
      <string name="miprofile_notice_text">"Trykk for å vise kontaktens profilbilde"</string>
      <string name="miprofile_request_agenda_date">%1$s vil utveksle kontaktkort</string>
      <string name="miprofile_request_agenda_today">%1$s vil utveksle kontaktkort</string>
@@ -795,33 +795,18 @@ Kontaktkort er slått av"</string>
      <string name="noContactHelpTextAccountsInfo">Synk Google, Exchange kontakter.</string>
      <string name="noContactHelpTextImportXiaomiAccountInfo">Gjenopprett kontaktdata ved bruk av Mi Konto</string>
      <string name="noContacts">Ingen kontakter</string>
-     <string name="noContactsHelpText">"Du har ingen kontakter å vise.
-
-for å legge til kontakter, trykk på "</string>
+     <string name="noContactsHelpText">"Du har ingen kontakter å vise.for å legge til kontakter, trykk på "</string>
      <string name="noContactsHelpTextForCreateShortcut">"Du har ingen kontakter å vise."</string>
-     <string name="noContactsHelpTextWithSync">"Ingen kontakter å vise. (Hvis du nettopp har lagt til en konto, kan det ta et par minutter å synkronisere.)
-
-for å legge til kontakter, trykk på "</string>
+     <string name="noContactsHelpTextWithSync">"Ingen kontakter å vise. (Hvis du nettopp har lagt til en konto, kan det ta et par minutter å synkronisere.)for å legge til kontakter, trykk på "</string>
      <string name="noContactsHelpTextWithSyncForCreateShortcut">"Du har ingen kontakter å vise. (Hvis du nettopp har lagt til en konto, kan det ta et par minutter å synkronisere kontakter.)"</string>
-     <string name="noContactsNoSimHelpText">"Du har ingen kontakter å vise.
-
-for å legge til kontakter, trykk på "</string>
-     <string name="noContactsNoSimHelpTextWithSync">"Ingen kontakter å vise. (Hvis du nettopp har lagt til en konto, kan det ta et par minutter å synkronisere.)
-
-for å legge til kontakter, trykk på "</string>
+     <string name="noContactsNoSimHelpText">"Du har ingen kontakter å vise.for å legge til kontakter, trykk på "</string>
+     <string name="noContactsNoSimHelpTextWithSync">"Ingen kontakter å vise. (Hvis du nettopp har lagt til en konto, kan det ta et par minutter å synkronisere.)for å legge til kontakter, trykk på "</string>
      <string name="noContactsWithPhoneNumbers">Ingen kontakter med telefonnumre</string>
-     <string name="noFavoritesHelpText">"Du har ingen favoritter.
-
-for å legge til kontakt til favoritter:
-
-"</string>
+     <string name="noFavoritesHelpText">"Du har ingen favoritter.for å legge til kontakt til favoritter:"</string>
      <string name="noGroups">Ingen grupper</string>
      <string name="noMatchingContacts">Ingen matchende kontakt funnet</string>
      <string name="noRecentContacts">Ingen nylige kontakter</string>
-     <string name="no_account_prompt">"Folk jobber bedre med en Google-konto.
-
-• Tilgang fra en hvilken som helst nettleser.
-• Sikkerhetskopier dine kontakter sikkert. "</string>
+     <string name="no_account_prompt">"Folk jobber bedre med en Google-konto.• Tilgang fra en hvilken som helst nettleser.• Sikkerhetskopier dine kontakter sikkert. "</string>
      <string name="no_contact_details">ingen ytterlige opplysninger på denne kontaktpersonen</string>
      <string name="no_contact_in_other_phone">Ingen kontakter detektert</string>
      <string name="no_contacts_dialog_message">"Kontakter kan være lagret på ditt SIM-kort. Prøv å importere kontakter fra ditt SIM-kort til din telefonens interne lager og prøv igjen."</string>
@@ -863,6 +848,7 @@ for å legge til kontakt til favoritter:
      <string name="phoneLabelsGroup">Telefon</string>
      <string name="phone_call_type_voip">Mi-tale</string>
      <string name="phone_info_divider">"  |  "</string>
+     <string name="phone_number_too_long_toast">Nummeret er for langt</string>
      <string name="phone_primary">Primær</string>
      <string name="photoPickerNotFoundText">Ingen bilder er tilgjengelige</string>
      <string name="photo_fragment">Bilde</string>
@@ -990,9 +976,7 @@ for å legge til kontakt til favoritter:
      <string name="remove_blacklist">Fjern blokkering</string>
      <string name="remove_blacklist_dialog_message">Avblokker dette nummeret?</string>
      <string name="remove_blacklist_dialog_title">Fjern fra blokkeringsliste</string>
-     <string name="remove_duplicate">"MIUI hjelper deg med å finne og flette dupliserte kontakter.
-
- Trykk på flette-ikonet i bunnen for å starte."</string>
+     <string name="remove_duplicate">"MIUI hjelper deg med å finne og flette dupliserte kontakter. Trykk på flette-ikonet i bunnen for å starte."</string>
      <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen senere.</string>
      <string name="resource_account_fail_to_add">"Kan ikke legge til konto"</string>
      <string name="resource_account_login">Logg inn</string>
@@ -1162,15 +1146,13 @@ for å legge til kontakt til favoritter:
      <string name="resource_trial_fail_message">Sørg for at systemklokka er satt til korrekt tid.</string>
      <string name="resource_trial_fail_title">"Kunne ikke sette opp prøvesesjon"</string>
      <string name="resource_trial_time">（prøvd i %1$d minutter）</string>
-     <string name="resource_unable_to_access">""Vi beklager
-innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"</string>
+     <string name="resource_unable_to_access">""Vi beklagerinnholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"</string>
      <string name="resource_unknow_error">Ukjent feil oppsto.</string>
      <string name="resource_update">Oppdater</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Venter på nedlastning...</string>
      <string name="restore_nickname">Gjenopprett</string>
-     <string name="ret_sign">"
-"</string>
+     <string name="ret_sign">""</string>
      <string name="returnCall">Ring tilbake</string>
      <string name="ringLabelsGroup">Ringetone</string>
      <string name="save_photo_progress">Lagrer bilde...</string>
@@ -1184,8 +1166,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="scanning">Skanner etter Enheter…</string>
      <string name="scanning_sdcard_failed_message">Kan ikke bruke SD-kort (årsak: \"%s\")</string>
      <string name="scanning_sdcard_failed_title">"Lagringen kunne ikke bli skannet"</string>
-     <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
-"</string>
+     <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå."</string>
      <string name="sdcard_not_mounted_dialog_title">SD-kort ikke detektert</string>
      <string name="searchHint">Søk i kontakter</string>
      <string name="search_results_searching">Søker ...</string>
@@ -1331,11 +1312,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”"<
      <string name="unknown_contact_name">ukjent kontakt</string>
      <string name="untitled_event">(Aktivitet uten navn)</string>
      <string name="upgrade_in_progress">Kontakt listen blir oppdatert.</string>
-     <string name="upgrade_out_of_memory">"Kontaktpersoner er i ferd med å bli oppgradert.
-
- Oppgraderingen krever ca %s MB plass.
-
- Velg en av følgende muligheter:"</string>
+     <string name="upgrade_out_of_memory">"Kontaktpersoner er i ferd med å bli oppgradert. Oppgraderingen krever ca %s MB plass. Velg en av følgende muligheter:"</string>
      <string name="upgrade_out_of_memory_retry">Prøv oppgradering igen</string>
      <string name="upgrade_out_of_memory_uninstall">Avinstaller noen programmer</string>
      <string name="use_photo_as_primary">Bruk dette bilde</string>

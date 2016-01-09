@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
@@ -74,6 +74,7 @@
      <string name="cleaning">Rydder...</string>
      <string name="close">Lukk</string>
      <string name="compress_fail">"Kunne ikke komprimere. En fil med det samme navnet eksisterer allerede."</string>
+     <string name="compress_fail_unknown">"Kunne ikke komprimere. Ikke nok lagringsplass eller ukjent feil oppsto."</string>
      <string name="compress_message">Komprimer til:</string>
      <string name="compress_title">Komprimer</string>
      <string name="confirm">OK</string>
@@ -104,7 +105,7 @@
      <string name="decompress_confirm">Dekomprimer?</string>
      <string name="decompress_destination_error">Kan ikke pakke ut filer til denne plasseringen</string>
      <string name="decompress_encrypted_rar_not_supported">Krypterte rar-filer er ikke støttet.</string>
-     <string name="decompress_fail">"Kunne ikke pakke ut filer. En fil med det samme navnet eksisterer eller arkivet er korrupt."</string>
+     <string name="decompress_fail">"Kunne ikke pakke ut filer. Ikke nok lagringsplass eller ukjent feil oppsto."</string>
      <string name="decompress_input_password">Skriv passord</string>
      <string name="decompress_password_error">Passordet du skrev er ikke korrekt.</string>
      <string name="decompress_success">Utpakking fullført</string>
@@ -217,21 +218,22 @@
      <string name="kuaipan_photo_locate">Lokalisert %1$s</string>
      <string name="kuaipan_photo_more_folder_count">%1$s</string>
      <string name="kuaipan_prompt">Varsel</string>
-     <string name="kuaipan_prompt_message">"
-Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
-"</string>
+     <string name="kuaipan_prompt_message">"Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…"</string>
      <string name="kuaipan_root_fooder">Hjem</string>
      <string name="kuaipan_tech_support">Teknisk support tilbudt av Kingsoft Kuaipan</string>
      <string name="load_err">Innlasting mislyktes</string>
      <string name="load_more">Vis mer</string>
      <string name="loading">Laster inn</string>
      <string name="local_image">Bilder</string>
-     <string name="local_music">Musikk</string>
+     <string name="local_music">Lydfiler</string>
      <string name="local_sticker_str">Offline</string>
      <string name="local_video">Video</string>
      <string name="login_reg_content">Oppbevar filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">Bruk Kuaipan fra hvorsomhelst.</string>
      <string name="make_private">Skjul</string>
+     <string name="make_private_msg_1">Skjul denne filen?</string>
+     <string name="make_private_msg_2">Skjul disse filene?</string>
+     <string name="make_private_msg_3">Alle filene i denne mappen vil bli skjult.</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Filopprydding</string>
      <string name="menu_item_ftp">FTP</string>
@@ -251,7 +253,9 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="mobile_photo_desc" />
      <string name="month_day_format">MMM dd</string>
      <string name="move_failed">Flytting mislyktes</string>
+     <string name="move_icon_to_desktop_hint">Opprett en hjemskjerm-snarvei for Utforsker for å håndtere filer mer effektivt.</string>
      <string name="move_to">Flytt til…</string>
+     <string name="move_to_confirm">Ioorett</string>
      <string name="msg_set_password">Sett passord først</string>
      <string name="multi_select_title">%1$s valgt</string>
      <string name="my_app">App data</string>
@@ -291,11 +295,8 @@ Serveren vår er nede for øyeblikket. Vennligst prøv igjen senere…
      <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
      <string name="new_folder_name">Ny mappe</string>
      <string name="new_function">Skjule mapper</string>
-     <string name="new_function_info">"For å opprette en skjult mappe, dra ned til bunnen av skjermen
-fra den første linja med ikoner på startskjermen."</string>
-     <string name="new_function_str">"WeChat-klistremerker kan nå hentes automatisk.
-Last dem når du vil
-og aldri glipp av de kule nye!"</string>
+     <string name="new_function_info">"For å opprette en skjult mappe, dra ned til bunnen av skjermenfra den første linja med ikoner på startskjermen."</string>
+     <string name="new_function_str">"WeChat-klistremerker kan nå hentes automatisk.Last dem når du vilog aldri glipp av de kule nye!"</string>
      <string name="new_function_title_str">Om WeChat-klistremerker</string>
      <string name="no">Nei</string>
      <string name="no_app_tags">Tom</string>
@@ -317,6 +318,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
+     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Når %1$s oppretter en fil</string>
@@ -329,9 +331,7 @@ og aldri glipp av de kule nye!"</string>
      <string name="notify_private_folder_msg">Trykk for å lære mer.</string>
      <string name="notify_private_folder_title">Opprett skjult mappe</string>
      <string name="online_not_support">"Kunne ikke vise denne filen på nettet for øyeblikket."</string>
-     <string name="open_changed_file_message">"Filen du prøver å endre har blitt modifisert,  du kan:
-1. Laste ned (oppdatere den lokale filen)
-2. Laste opp (oppdatere den eksterne filen)"</string>
+     <string name="open_changed_file_message">"Filen du prøver å endre har blitt modifisert,  du kan:1. Laste ned (oppdatere den lokale filen)2. Laste opp (oppdatere den eksterne filen)"</string>
      <string name="open_changed_file_title">Fil modifisert</string>
      <string name="open_file_failed">Åpning av fil feilet</string>
      <string name="open_private_folder">Oppretter en privat mappe…</string>
@@ -450,9 +450,9 @@ og aldri glipp av de kule nye!"</string>
      <string name="search_title">Søk</string>
      <string name="search_title_hint">Søk</string>
      <string name="select_dest_folder">Select folder</string>
-     <string name="select_image">Velg bilder</string>
-     <string name="select_music">Velg sanger</string>
-     <string name="select_video">Velg videoer</string>
+     <string name="select_image">Bilder</string>
+     <string name="select_music">Lydfiler</string>
+     <string name="select_video">Videofiler</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Denne filtypen støttes ikke</string>
      <string name="send_to_qq">Send til QQ</string>
@@ -468,15 +468,13 @@ og aldri glipp av de kule nye!"</string>
      <string name="shared_sticker_page_no_file">"Kunne ikke koble til nettverket. Kontroller nettverkstilkoblingen og prøv igjen."</string>
      <string name="shared_sticker_str">Delt av Mi fans</string>
      <string name="shared_sticker_suffix">Klistremerke %s</string>
-     <string name="shared_sticker_use_tip">"Du kan sende klistremerkene du lagrer i WeChat-dialoger akkurat som du sender bilder.
-(GIFer kan bli lagt til i Egendefinert i WeChat-klistremekrer)."</string>
+     <string name="shared_sticker_use_tip">"Du kan sende klistremerkene du lagrer i WeChat-dialoger akkurat som du sender bilder.(GIFer kan bli lagt til i Egendefinert i WeChat-klistremekrer)."</string>
      <string name="shared_sticker_use_tip_title">Hvordan bruke klistremerker</string>
      <string name="shared_str">Delt av %s</string>
      <string name="show_message">Fil kan ikke åpnes uten å bli lastet ned</string>
      <string name="sign_description">Logger inn...</string>
      <string name="signin_error">Nettverk utilgjengelig, vennligst prøv igjen</string>
-     <string name="signin_success">"Innlogging fullført!
-+Få gratis diskplass %1$s"</string>
+     <string name="signin_success">"Innlogging fullført!+Få gratis diskplass %1$s"</string>
      <string name="smb_loading">Bare et sekund…</string>
      <string name="space_info">Lagringsplass: %1$s tilgjengelig， totalt: %2$s</string>
      <string name="space_usage">Forbruk</string>

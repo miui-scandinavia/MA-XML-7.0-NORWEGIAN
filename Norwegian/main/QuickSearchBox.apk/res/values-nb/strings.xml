@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Søk</string>
      <string name="apps_search_activity" />
@@ -21,6 +21,7 @@
      <string name="cta_declaration_negative_text">Avslutt</string>
      <string name="cta_declaration_positive_text">Tillat</string>
      <string name="cta_declaration_title">Tjenestevilkår</string>
+     <string name="default_hint">Søk Apper, Musikk, Video, bøker...</string>
      <string name="default_search_domain">.google.no</string>
      <string name="device_settings_category_title">Fjern snarveier</string>
      <string name="distance_unit_kilometer">km</string>
@@ -60,8 +61,8 @@
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Prøv å si "</string>
-     <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-     <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
+     <string name="xiaomi_hint"></string>
+     <string name="xiaomi_hot_query"></string>
      <string name="xiaomi_search_label">Resultater</string>
-     <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v2/sug</string>
+     <string name="xiaomi_suggest_base"></string>
 </resources>

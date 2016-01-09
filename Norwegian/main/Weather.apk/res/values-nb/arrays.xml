@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="indices_car_wash">
+        <item>Passende</item>
+        <item>Upassende</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Passende</item>
+        <item>Upassende</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Svak</item>
+        <item>Mellomnivå</item>
+        <item>Sterk</item>
+     </string-array>
      <string-array name="moon_desc">
         <item>Nymåne</item>
         <item>Voksende halvmåne</item>
@@ -46,16 +59,31 @@
         <item>Støv</item>
         <item>Disig</item>
         <item>Frysende regn</item>
-        <item>Ingen data</item>
+        <item></item>
      </string-array>
      <string-array name="wind_direction">
-        <item>Vind N</item>
-        <item>Vind NE</item>
-        <item>Vind E</item>
-        <item>Vind SE</item>
-        <item>Vind S</item>
-        <item>Vind SW</item>
-        <item>Vind W</item>
-        <item>Vind NW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>Vind NV</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
      </string-array>
 </resources>

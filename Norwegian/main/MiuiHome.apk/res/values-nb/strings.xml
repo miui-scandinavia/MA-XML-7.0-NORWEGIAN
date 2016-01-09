@@ -26,6 +26,7 @@
      <string name="apply_as_lock_screen">Låseskjerm</string>
      <string name="apply_as_lock_wallpaper">Bruk</string>
      <string name="apply_as_lock_wallpaper_message">Bruk bakgrunnen på låseskjermen også?</string>
+     <string name="apply_as_lockwallpaper_action">Låseskjerm</string>
      <string name="apply_as_wallpaper">Hjemskjerm</string>
      <string name="apply_both">Sett begge</string>
      <string name="apply_negative_action">"Ikke bruk"</string>

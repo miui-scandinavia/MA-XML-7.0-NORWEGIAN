@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Aktiver</string>
@@ -22,6 +22,7 @@
      <string name="activate_phone_success_notif_title_msim">SIM-kort %s aktivert</string>
      <string name="activate_popup_confirm_all_gateway_failed_query_info">Prøv på nytt</string>
      <string name="activate_popup_confirm_all_gateway_failed_send_sms">Prøv på nytt</string>
+     <string name="activate_popup_confirm_error_device_id">Prøv på nytt</string>
      <string name="activate_popup_confirm_failed_phone_error">Prøv på nytt</string>
      <string name="activate_popup_confirm_failed_query_info">Send på nytt</string>
      <string name="activate_popup_confirm_failed_receive_sms">Prøv på nytt</string>
@@ -30,10 +31,9 @@
      <string name="activate_popup_confirm_upload_diagnosis_info">Rapporter</string>
      <string name="activate_popup_desc_2_intl_sim_cards">Operatøren din kan belaste deg for de 2 internasjonale SMS-meldingene brukt for å aktivere %s.</string>
      <string name="activate_popup_desc_2_sim_cards">>Operatøren din kan belaste deg for de 2 SMS-meldingene brukt for å aktivere %s.</string>
-     <string name="activate_popup_desc_all_gateway_failed_query_info">"Kan ikke finne telefonnummeret. Sørg for at SIM-kortet har blitt aktivert.
-Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</string>
-     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Kunne ikke sende aktiveringsmelding. Sørg for at SIM-kortet har blitt aktivert.
-Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</string>
+     <string name="activate_popup_desc_all_gateway_failed_query_info">"Kan ikke finne telefonnummeret. Sørg for at SIM-kortet har blitt aktivert.Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</string>
+     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Kunne ikke sende aktiveringsmelding. Sørg for at SIM-kortet har blitt aktivert.Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</string>
+     <string name="activate_popup_desc_error_device_id">Ring *#06# for å sjekke IMEI</string>
      <string name="activate_popup_desc_failed_phone_error">Telefonnummeret du skrev er ugyldig.</string>
      <string name="activate_popup_desc_failed_query_info">"Kan ikke finne telefonnummeret ditt. Sørg for at SIM-kortet ditt er aktivert."</string>
      <string name="activate_popup_desc_failed_receive_sms">Vær sikker på at telefonnummeret du skrev er korrekt og at SIM-kortet ditt er aktivert.</string>
@@ -60,6 +60,7 @@ Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</
      <string name="activate_popup_title_all_gateway_failed_query_info">"Kunne ikke finne nummer"</string>
      <string name="activate_popup_title_all_gateway_failed_send_sms">"Kunne ikke sende tekstmelding"</string>
      <string name="activate_popup_title_diagnosis_detail">Diagnostikk-info</string>
+     <string name="activate_popup_title_error_device_id">Ugyldig IMEI</string>
      <string name="activate_popup_title_failed_phone_error">Ugyldig telefonnummer</string>
      <string name="activate_popup_title_failed_query_info">"Kan ikke finne nummer"</string>
      <string name="activate_popup_title_failed_receive_sms">"Fikk ikke svar fra serveren"</string>
@@ -76,6 +77,7 @@ Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</
      <string name="activate_status_desc_checking_xiaomi_account">Sjekker etter Mi-konto…</string>
      <string name="activate_status_desc_checking_xiaomi_account_server_error">serverfeil oppsto under sjekking av Mi-konto</string>
      <string name="activate_status_desc_completed_with_sms_sent">Sendt SMS for å aktivere SIM</string>
+     <string name="activate_status_desc_device_id_error">Ugyldig IMEI</string>
      <string name="activate_status_desc_failed_getting_gateway">"Kunne ikke hente SMS-gateway"</string>
      <string name="activate_status_desc_getting_gateway">Henter SMS-gateway…</string>
      <string name="activate_status_desc_getting_sim_info">Henter SIM-kort-info</string>
@@ -104,8 +106,7 @@ Skriv telefonnummeret assosiert med ditt SIM-kort for å aktivere %s på nytt"</
      <string name="activate_status_title_activating">Aktiverer SIM-kortet ditt…</string>
      <string name="activate_status_title_activating_msim">Aktiverer SIM-kortet ditt %s</string>
      <string name="app_name">Xiaomi-tjenesterammeverk</string>
-     <string name="error_device_id_message">"Ugyldig Enhet-ID: %s
-Enhet-ID må være en gyldig IMEI eller MAC-addresse. Uten en Enhet-ID vil noen noen konto- og skytjenester være utilgjengelige."</string>
+     <string name="error_device_id_message">"Ugyldig Enhet-ID: %sEnhet-ID må være en gyldig IMEI eller MAC-addresse. Uten en Enhet-ID vil noen noen konto- og skytjenester være utilgjengelige."</string>
      <string name="error_device_id_title">"Kan ikke hente gyldig Enhet-ID"</string>
      <string name="sim_unactivated_title">"SIM-kortet ditt er ikke aktivert"</string>
      <string name="sync_notification_title_format">Element som synkroniseres nå: %1$s</string>

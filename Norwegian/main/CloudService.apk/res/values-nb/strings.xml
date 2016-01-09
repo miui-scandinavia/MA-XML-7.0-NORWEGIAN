@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Adgang nektet</string>
      <string name="account">Konto</string>
@@ -17,10 +17,8 @@
      <string name="bad_authentication">Ugyldig konto eller passord</string>
      <string name="btn_return">Tilbake</string>
      <string name="button_cancel">Avbryt</string>
-     <string name="buy_more_space_b_class">""Logg inn på mi.com/micloud for å få mer lagringsplass.
-Du trenger et Mainland Kina-bankkort for å kjøpe mer lagringsplass."</string>
-     <string name="buy_more_space_c_class">"Denne funksjonen krever et Mainland Kina-bankkort.
-For å få mer lagringsplass, besøk mi.com/micloud."</string>
+     <string name="buy_more_space_b_class">""Logg inn på mi.com/micloud for å få mer lagringsplass.Du trenger et Mainland Kina-bankkort for å kjøpe mer lagringsplass."</string>
+     <string name="buy_more_space_c_class">"Denne funksjonen krever et Mainland Kina-bankkort.For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="buy_space_expire">Kjøpt plass vil utløpe den %s</string>
      <string name="buy_space_expire_concat">%1$s den %2$s</string>
      <string name="buy_space_sulotion_auto_renew">Forny automatisk</string>
@@ -48,13 +46,16 @@ For å få mer lagringsplass, besøk mi.com/micloud."</string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">1 time</string>
      <string name="cloud_back_up_network_unavailable">"Kunne ikke fjerne. Koble til Wi-Fi og prøv igjen."</string>
-     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi hver %1$s når tilkoblet Wi-Fi
-Siste sikkerhetskopi den: %2$s"</string>
+     <string name="cloud_back_up_open_info">"Ta sikkerhetskopi hver %1$s når tilkoblet Wi-FiSiste sikkerhetskopi den: %2$s"</string>
      <string name="cloud_back_up_open_info_no_backuptime">Ta sikkerhetskopi hver %1$s når tilkoblet Wi-Fi</string>
      <string name="cloud_back_up_remove_success">Sikkerhetskopi slettet</string>
+     <string name="cloud_back_up_summary">Sikkerhetskopiér når tilkoblet Wi-Fi</string>
      <string name="cloud_back_up_title">Sikkerhetskopier apper</string>
      <string name="cloud_backup_dialog_title">Sikkerhetskopier med Mi Cloud</string>
+     <string name="cloud_backup_have_data">Fant sikkerhetskopi i Mi Cloud</string>
+     <string name="cloud_backup_select_recover">Velg sikkerhetskopi fra Mi Cloud</string>
      <string name="cloud_find_device">Finn enhet</string>
+     <string name="cloud_restore_title">Gjenopprett fra sikkerhetskopi</string>
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Kunne ikke hente lagringsinfo"</string>
      <string name="cloud_space_upgrade_title">Mer plass til Mi Cloud</string>
@@ -90,8 +91,7 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="find_device_disabled_title">Finn enhet er av</string>
      <string name="find_device_disabling">Skrur av…</string>
      <string name="find_device_dspt">Finn, lås, eller tilbakestill din enhet fra hvorsomhelst.</string>
-     <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til %s for å finne, låse og tilbakestille den. Du kan skru denne funksjonen av og på når-som-helst i Innstillinger.
- "</string>
+     <string name="find_device_dspt_provision">"Hvis du mister enheten din, kan du gå til %s for å finne, låse og tilbakestille den. Du kan skru denne funksjonen av og på når-som-helst i Innstillinger. "</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
@@ -104,8 +104,7 @@ Siste sikkerhetskopi den: %2$s"</string>
      <string name="find_device_noise_title">Finn enhetslyd</string>
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
-     <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.
-Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
+     <string name="find_device_notice_p3">"for å finne, låse eller gjenopprette din telefon.Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å aktivere denne funksjonen."</string>
      <string name="find_device_reading_status">Laster status…</string>
      <string name="find_device_reading_status_failure">"Kunne ikke laste status."</string>
      <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen.</string>
@@ -125,7 +124,10 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="google_cloud">Google Drive</string>
      <string name="google_cloud_eng">Google Drive</string>
      <string name="google_cloud_price">Rundt RMB 143 i året</string>
+     <string name="header_cloud_backup_settings">Sikkerhetskopiér og gjenopprett</string>
+     <string name="header_cloud_restore_summary">Reinstaller apper og gjenopprett hjemskjerm-oppsett og systeminnstillinger fra en sikkerhetskopi i Mi Cloud</string>
      <string name="header_data_and_synchronization">Data &amp; synk</string>
+     <string name="header_find_device_settings">Finn enhet</string>
      <string name="header_other_settings">Flere innstillinger</string>
      <string name="i_know">OK</string>
      <string name="input_password_hint">Skriv passord</string>
@@ -149,11 +151,9 @@ Hvis du bytter SIM-kort, vil en ny aktiverings-SMS bli sendt automatisk for å a
      <string name="micloud_battery_low_notification_message">Koble til lader for synk</string>
      <string name="micloud_battery_low_notification_title">Lavt batterinivå</string>
      <string name="micloud_buy_member">Konto</string>
-     <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg inn
-på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
+     <string name="micloud_check_sim_notify_text">"Ser ut til at du har byttet SIM-kort. Logg innpå din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_check_sim_notify_title">Aktiver Mi Cloud på nytt</string>
-     <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg inn
-på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
+     <string name="micloud_check_sim_title">"Ser ut til at du har byttet SIM-kort. Logg innpå din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_confusion_account_hint">"Endringene du gjør på denne enheten vil bli synkronisert med alle enhetene dine. For å beskytte kontoen din, anbefaler vi at du slår av synkronisering for andre enheter når du ikke bruker dem."</string>
      <string name="micloud_confusion_account_name">"Mi-konto ID: "</string>
      <string name="micloud_confusion_account_notify_text">Din Mi-konto har blitt endret fra en annen enhet.</string>
@@ -202,8 +202,7 @@ på din Mi-konto for å aktivere Mi Cloud på nytt."</string>
      <string name="micloud_dspt_provision">Bruk Mi Cloud for å synke innhold, finne din enhet, og dele ting med venner.</string>
      <string name="micloud_find_device_finish">Ferdig</string>
      <string name="micloud_find_device_guide_button">Skru på Finn enhet</string>
-     <string name="micloud_find_device_guide_content">"Når du bytter SIM-kort, vil meldingen bli sendt automatisk
-for å reaktivere denne funksjonen."</string>
+     <string name="micloud_find_device_guide_content">"Når du bytter SIM-kort, vil meldingen bli sendt automatiskfor å reaktivere denne funksjonen."</string>
      <string name="micloud_find_device_guide_fail_reopen">Skru på Finn enhet i Mi Cloud</string>
      <string name="micloud_find_device_guide_fail_sub_net">Sjekk din nettverksforbindelse og prøv igjen.</string>
      <string name="micloud_find_device_guide_fail_sub_timeout">Forbindelse tidsavbrutt. Prøv igjen senere.</string>
@@ -214,8 +213,7 @@ for å reaktivere denne funksjonen."</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Skru på Finn enhet for å sikre dine WeChat-data</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Skru på Finn enhet for å sikre dine Alipay-data</string>
      <string name="micloud_find_device_guide_progress">Skrur på Finn enhet…</string>
-     <string name="micloud_find_device_guide_title">"Logg inn til %s for å plassere, låse,
-eller slette enheten din."</string>
+     <string name="micloud_find_device_guide_title">"Logg inn til %s for å plassere, låse,eller slette enheten din."</string>
      <string name="micloud_find_device_open_fail">"Kunne ikke skru på Finn enhet"</string>
      <string name="micloud_find_device_opened">Finn enheten på</string>
      <string name="micloud_find_device_opened_content">Finn enheten din på %s</string>
@@ -223,17 +221,10 @@ eller slette enheten din."</string>
      <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />
-     <string name="micloud_full_influence_dspt">"Alle dine bilder, videoer, notater og apper vil bli sikkerhetskopiert i skyen.
-
-På denne måten, hvis du mister eller skader din telefon, vil dine data fortsatt dataene dine være trygge.
-
-Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt nytt innhold du legger til (f.eks bilder, video, notater og apper) ikke bli sikkerhetskopiert.
-
-For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
+     <string name="micloud_full_influence_dspt">"Alle dine bilder, videoer, notater og apper vil bli sikkerhetskopiert i skyen.På denne måten, hvis du mister eller skader din telefon, vil dine data fortsatt dataene dine være trygge.Når skyen din er full, vil dine gamle data ikke gå noen sted. Derimot, vil alt nytt innhold du legger til (f.eks bilder, video, notater og apper) ikke bli sikkerhetskopiert.For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyere, eller du kan kjøpe ekstra lagringsplass."</string>
      <string name="micloud_full_influence_title">Når din MiCloud er full…</string>
      <string name="micloud_main_battery_low">Ikke nok batteri for å synke</string>
-     <string name="micloud_main_battery_message">"Koble til enheten din til en strømkilde for å synke
-%d elementer"</string>
+     <string name="micloud_main_battery_message">"Koble til enheten din til en strømkilde for å synke%d elementer"</string>
      <string name="micloud_main_clear_now">Tøm</string>
      <string name="micloud_main_data_unsynced">%d venter på synk</string>
      <string name="micloud_main_detail">Vis detaljer</string>
@@ -249,8 +240,7 @@ For å fikse dette, kan du enten fjerne gamle filer for å gjøre plass til nyer
      <string name="micloud_main_space_risk">%d elementer synket.</string>
      <string name="micloud_main_stop_sync">Stopp synk</string>
      <string name="micloud_main_suggest_master_sync">"Kunne ikke synke alt"</string>
-     <string name="micloud_main_suggest_setting">"Venter på en Wi-Fi-tilkobing for å synke
-Trykk på Synk innstillinger-knappen for å vise flere valg"</string>
+     <string name="micloud_main_suggest_setting">"Venter på en Wi-Fi-tilkobing for å synkeTrykk på Synk innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_main_suggest_sync">"Kunne ikke synke alt"</string>
      <string name="micloud_main_sync_exception">Synkfeil</string>
      <string name="micloud_main_sync_init">Henter info</string>
@@ -271,9 +261,7 @@ Trykk på Synk innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_main_wlan_sync_data_count">"%d elementer venter på synk"</string>
      <string name="micloud_member">Mi Cloud-medlemskap</string>
      <string name="micloud_member_advantage">Få mer lagringsplass.</string>
-     <string name="micloud_member_buy_content" formatted="false">"Gyldig for %s-%s-%s
-
-%s Mi Credits"</string>
+     <string name="micloud_member_buy_content" formatted="false">"Gyldig for %s-%s-%s%s Mi Credits"</string>
      <string name="micloud_member_buy_title">Bekreft ordre</string>
      <string name="micloud_member_net_error_alert_message">"Du har ikke en internettforbindelse."</string>
      <string name="micloud_member_net_error_alert_title">"Kan ikke koble til nettverket"</string>
@@ -317,8 +305,7 @@ Trykk på Synk innstillinger-knappen for å vise flere valg"</string>
      <string name="micloud_sync_alert_dialog_negative">Avbryt</string>
      <string name="micloud_sync_alert_dialog_positive">OK</string>
      <string name="micloud_sync_alert_dialog_title">Bruk Mi Cloud</string>
-     <string name="micloud_title_dspt" formatted="false">"Total plass %s
-brukt %s | gjenværende %s"</string>
+     <string name="micloud_title_dspt" formatted="false">"Total plass %sbrukt %s | gjenværende %s"</string>
      <string name="micloud_title_dspt_remain">%s igjen</string>
      <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense"</string>
      <string name="micloud_unlogin_for_time_summary" />
@@ -340,19 +327,11 @@ brukt %s | gjenværende %s"</string>
      <string name="microsoft_cloud_price">Rundt RMB 80 i året</string>
      <string name="more_activity_in_upgrade_space">Lær mer hos <a href="http://i.mi.com">http://i.mi.com</a></string>
      <string name="mx_dspt">Mi-melding</string>
-     <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.
-
-Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
-     <string name="mx_dspt_provision_privacy">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
-Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
-     <string name="mx_dspt_provision_privacy_2_sim">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for de to SMS-meldingene brukt for å aktivere denne tjenesten.
-
-Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
-     <string name="mx_dspt_provision_privacy_no_sim">"Denne funksjonen kan kreve ditt telefonnummer. Hvis et SIM-kort oppdages, kan operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.
-
-Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
-     <string name="mx_dspt_provision_with_voip">"Ring andre MIUI-brukere gratis ved hjelp av din internett-tilkobling. Du kan skru denne funksjonen av og på når som helst i Innstillinger. VOIP tilbys av Weihui
-     Vis Weihui sin personvernspolitikk"</string>
+     <string name="mx_dspt_provision">"Mi-melding lar deg sende meldinger til andre MIUI-brukere uten å pådra deg SMS-kostnader.Du kan skru funksjonen av og på når som helst i Innstilinger."</string>
+     <string name="mx_dspt_provision_privacy">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
+     <string name="mx_dspt_provision_privacy_2_sim">"Denne funksjonen kan kreve ditt telefonnummer. Operatøren din kan belaste deg for de to SMS-meldingene brukt for å aktivere denne tjenesten.Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
+     <string name="mx_dspt_provision_privacy_no_sim">"Denne funksjonen kan kreve ditt telefonnummer. Hvis et SIM-kort oppdages, kan operatøren din kan belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten.Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</string>
+     <string name="mx_dspt_provision_with_voip">"Ring andre MIUI-brukere gratis ved hjelp av din internett-tilkobling. Du kan skru denne funksjonen av og på når som helst i Innstillinger. VOIP tilbys av Weihui     Vis Weihui sin personvernspolitikk"</string>
      <string name="mx_dspt_provision_with_voip2">Personvernspolitikk</string>
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="mx_sub_dspt_provision_with_voip">Internett-ringing</string>
@@ -412,8 +391,7 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="sync_dspt_provision">"Synkroniserer dine bilder, kontakter, notater, og mer på tvers av alle dine Mi-enheter eller få tilgang til dem på "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-     <string name="sync_dspt_provision3">". Du kan skru funksjonen av og på når som helst i Innstillinger.
-"</string>
+     <string name="sync_dspt_provision3">". Du kan skru funksjonen av og på når som helst i Innstillinger."</string>
      <string name="sync_dspt_provision_header">Synk</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Synk logger av anrop gjort og mottatt på denne telefonen</string>
@@ -444,8 +422,7 @@ Denne funksjonen krypterer og laster på enhetens ID til Mi sine servere."</stri
      <string name="upgrade_space_successful_total">%sGB tilgjengelig</string>
      <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Brukerbetingelser</string>
-     <string name="user_agreement_p5">"
-"</string>
+     <string name="user_agreement_p5">""</string>
      <string name="user_agreement_p6">"Ved å bruke denne tjenesten, godkjenner du "</string>
      <string name="user_agreement_p7">"Mi Cloud sine vilkår for bruk"</string>
      <string name="user_agreement_p8">.</string>

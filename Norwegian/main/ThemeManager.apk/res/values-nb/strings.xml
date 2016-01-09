@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_id_not_login">Trykk for å logge inn</string>
      <string name="account_info">Mi-konto</string>
@@ -51,8 +51,7 @@
      <string name="gift_present">Gi</string>
      <string name="gift_present_dlg_anonymous">Anonyme gaver</string>
      <string name="gift_present_dlg_input_hint">Mi-konto ID/Telefon</string>
-     <string name="gift_present_dlg_no_fee">"Du vil ikke bli belastet av mobiloperatøren din for å sende gaver
-"</string>
+     <string name="gift_present_dlg_no_fee">"Du vil ikke bli belastet av mobiloperatøren din for å sende gaver"</string>
      <string name="gift_present_dlg_present_max_limit">"Tema kan ikke bli gitt som gave mer enn %1$s ganger."</string>
      <string name="gift_present_dlg_share">Opprett kode og gaver</string>
      <string name="gift_present_fail_dlg_content">"Kunne ikke sende denne gaven. "</string>
@@ -284,6 +283,7 @@
      <string name="resource_trial_end_purchase">Kjøp</string>
      <string name="resource_trial_end_restore">Fullfør prøveperiode</string>
      <string name="resource_trial_end_time">(prøve til %1$s)</string>
+     <string name="resource_trial_end_time_format">hh:mma MMM d</string>
      <string name="resource_trial_end_title">Prøveperiode utløpt</string>
      <string name="resource_trial_fail_cancel">OK</string>
      <string name="resource_trial_fail_go_settings">Innstillinger</string>

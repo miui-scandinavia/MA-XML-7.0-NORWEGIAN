@@ -16,7 +16,7 @@
      <string name="experimental_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
      <string name="find_device_turn_off_flight_mode">Skru av flymodus</string>
      <string name="fingerprint_not_identified_msg">For å låse opp enheten, skriv ditt passord.</string>
-     <string name="fingerprint_not_identified_title">"Kan ikke lese fingeravtrykk"</string>
+     <string name="fingerprint_not_identified_title">Skriv passord</string>
      <string name="fingerprint_try_again_text">Prøv igjen</string>
      <string name="forget_password_string">Glemt passord</string>
      <string name="incorrect_pincode">Ukorrekt PIN-kode</string>
@@ -27,6 +27,8 @@
      <string name="input_pin_code">Skriv PIN</string>
      <string name="input_puk_code">Skriv PUK</string>
      <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
+     <string name="invalid_sim_pin_hint">PIN bør inneholde mellom 4 og 8 tall</string>
+     <string name="invalid_sim_puk_hint">PUK bør innholde minst 8 tall</string>
      <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
      <string name="lock_screen_date_12">EEEE, MMMM d</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>

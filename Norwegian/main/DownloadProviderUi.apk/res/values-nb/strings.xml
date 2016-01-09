@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="DOWNLOAD_UNIT_BIT">B</string>
      <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -141,8 +141,7 @@
      <string name="no_downloads">Ingen nedlastinger.</string>
      <string name="no_file_hint">Nedlastningsoppgave for denne filen eksisterer allerede</string>
      <string name="no_vip_info">Hent Xunlei-medlemskap for å gjøre nedlastninger raskere</string>
-     <string name="no_vip_show_info">"Gjør nedlastninger raskere
-på tvers av dine enheter med Xunlei"</string>
+     <string name="no_vip_show_info">"Gjør nedlastninger raskerepå tvers av dine enheter med Xunlei"</string>
      <string name="one_month">En måned</string>
      <string name="only_support_torrent">Bare torrent-filer er støttet</string>
      <string name="open">Åpne</string>
@@ -214,6 +213,7 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="setting_debug_fail">"Kunne ikke gå inn i feilsøkingsmodus"</string>
      <string name="setting_open_debug">Feilsøkingsmodus skrudd på. Trykk her 6 ganger for å skru av feilsøkingsmodus.</string>
      <string name="show_more">Vis %s mer</string>
+     <string name="sniff_associate_text">Trykk på nøkkelordet nedenfor for å finne flere kilder</string>
      <string name="sniff_bt_text">Torrent-fil</string>
      <string name="sniff_btn_text">Finn kilde</string>
      <string name="sniff_connect_error_page_tips">"Kunne ikke åpne URL"</string>
@@ -224,6 +224,7 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="sniff_find_some_suffix">elementer</string>
      <string name="sniff_finding_resource_prompt">Leter etter kilde…</string>
      <string name="sniff_no_network_tip">Sjekk din nettverksforbindelse og prøv igjen</string>
+     <string name="sniff_no_result_text">Ingen resultater funnet</string>
      <string name="sniff_result_empty_prompt">"Kunne ikke finne kilde"</string>
      <string name="sniff_result_num_prefix">Funnet</string>
      <string name="sniff_result_num_video_suffix">elementer</string>
@@ -278,12 +279,9 @@ på tvers av dine enheter med Xunlei"</string>
      <string name="valid_in_this_month">bare gyldig i denne måneden</string>
      <string name="version">Versjon %s</string>
      <string name="vip_auto_speedup">Xunlei-nedlastningsakselerator er på</string>
-     <string name="vip_expire_show_info">"Xunlei-medlemskap utløpt.
-Forny nå og få 5% rabatt."</string>
-     <string name="vip_expire_today_show_info">"Xunlei-medlemskap utløpt.
-Forny nå og få 5% rabatt."</string>
-     <string name="vip_show_info">"5 millioner meldemmer.
-Akselerer nedlastninger på tvers av dine enheter."</string>
+     <string name="vip_expire_show_info">"Xunlei-medlemskap utløpt.Forny nå og få 5% rabatt."</string>
+     <string name="vip_expire_today_show_info">"Xunlei-medlemskap utløpt.Forny nå og få 5% rabatt."</string>
+     <string name="vip_show_info">"5 millioner meldemmer.Akselerer nedlastninger på tvers av dine enheter."</string>
      <string name="web_dialog_cancel">Cancel</string>
      <string name="web_dialog_confirm">OK</string>
      <string name="xiaomi_account_not_exist_message">"Denne Mi-kontoen eksisterer ikke"</string>

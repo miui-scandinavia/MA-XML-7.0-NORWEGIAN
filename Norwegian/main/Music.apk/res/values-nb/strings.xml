@@ -79,7 +79,9 @@
      <string name="close_music_time">"Minutter: "</string>
      <string name="cloud_enable">Synk musikk med Mi Cloud</string>
      <string name="cloud_settings">Synk innstillinger</string>
-     <string name="confirm_download">Download</string>
+     <string name="cloud_space_full">Ikke nok lagringsplass igjen</string>
+     <string name="cloud_space_full_message">Ikke nok plass i din Mi Cloud til å legge til flere sanger. For å få mer plass, oppgrader din Mi-konto.</string>
+     <string name="confirm_download">Last ned</string>
      <string name="confirm_to_renew">Forny</string>
      <string name="cp_info_first">Strømmetjeneste er tilbudt av  Ultimate Inc.</string>
      <string name="cp_info_second">service1@ultimobi.com</string>
@@ -115,6 +117,7 @@
      <string name="disable_auto_payment_success">Skrudd av</string>
      <string name="disable_auto_payment_success_message">"Skrudde av automatisk fornying. Etter at ditt gjeldende abonnement utløper, vil du være nødt til å abonnere på nytt for å late ned sanger."</string>
      <string name="disallow_add_to_personal_radio">Personlig radio er kun lesbar</string>
+     <string name="do_not_remind_again">"Ikke vis igjen"</string>
      <string name="done">Ferdig</string>
      <string name="download">Hent</string>
      <string name="download_all_song">Last ned alle</string>
@@ -347,6 +350,7 @@
      <string name="no_song_downloaded">Sang kan ikke lastes ned</string>
      <string name="normal_quality">Normal kvalitet</string>
      <string name="not_login">Logg inn</string>
+     <string name="not_now">Ikke nå</string>
      <string name="not_selected">Vennligst velg en sang</string>
      <string name="nowplaying_menu_item_delete">Slett</string>
      <string name="ok">OK</string>
@@ -509,8 +513,9 @@
      <string name="upgrade">Oppgrader:</string>
      <string name="upgrade_force">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
      <string name="upgrade_immediate">Oppdater når</string>
+     <string name="upgrade_membership">Få mer plass</string>
      <string name="upgrade_nobeta">"Vi avvikler vår nåværende strømmetjeneste mens vi løser rettighetsproblemer. Beklager bryet :("</string>
-     <string name="upgrade_remind">Oppdateruing tilgjengelig</string>
+     <string name="upgrade_remind">Oppdatering tilgjengelig</string>
      <string name="upgrade_services">Oppdater</string>
      <string name="upgrade_suggest">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
      <string name="upgrade_to">Oppgrader til</string>

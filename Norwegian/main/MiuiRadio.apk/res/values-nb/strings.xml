@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_history">Historikk</string>
      <string name="action_item_delete">Slett</string>
@@ -92,12 +92,14 @@
      <string name="priority_storage">Bruk eksternt SD-kort</string>
      <string name="priority_storage_summary">Automatisk last ned til eksternt SD-kort hvis tilgjengelig</string>
      <string name="project_device">Mi-telefon</string>
+     <string name="qingting_logo"> | %1$s </string>
      <string name="remaining_time">"Tid gjenstående: "</string>
      <string name="search_hint">Søk</string>
      <string name="section">utvalg</string>
      <string name="select_device">Velg enhet</string>
      <string name="share">Del</string>
      <string name="share_button">Del</string>
+     <string name="share_in_development" />
      <string name="share_text">fra Xiaomi Radio [%1$s]</string>
      <string name="share_text_other">Hør på %1$s den %2$s.</string>
      <string name="similar_programs">Lignende programmer</string>

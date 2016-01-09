@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Result_title">SIM-kort kontakt</string>
      <string name="active_phone_fail_nochoice">"Kan ikke verifisere SIM-kort"</string>
@@ -152,7 +152,9 @@
      <string name="call_remove_exception_numbers_confirm">%d numre vil bli slettet.</string>
      <string name="call_settings">Telefon</string>
      <string name="call_settings_category">Anrop</string>
+     <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
      <string name="call_settings_title_font_family">sans-serif-light</string>
+     <string name="call_settings_with_label">Call settings (%s)</string>
      <string name="call_type">CallType</string>
      <string name="call_waiting_summary">Under en samtale, varsle meg om andre innkommende samtaler</string>
      <string name="call_waiting_title">Samtale venter</string>
@@ -168,6 +170,7 @@
      <string name="callind_multi_sim">Abonnement-innstillinger</string>
      <string name="calling_via_template">Ringer via %s</string>
      <string name="callwait_open_hint">\"Samtale venter\"-funksjonen er tilbudt av operatøren din. Hvis du mottar et feilvarsel, kontakt operatøren din og forsikre deg om at denne funksjonen er støttet.</string>
+     <string name="can_not_call_self">"Kan ikke ringe eget nummer"</string>
      <string name="can_not_use_for_not_data_sim">"(Kan ikke bruke: Må være satt som standard data-SIM)"</string>
      <string name="cancel">Avbrutt</string>
      <string name="cancel_call">Avbryt</string>
@@ -222,6 +225,8 @@
      <string name="cell_bc_sms_enable">Kringkastings-SMS er på</string>
      <string name="cell_broadcast_settings">Emergency broadcasts</string>
      <string name="cell_broadcast_sms">Kringkastings-SMS</string>
+     <string name="cellular_only">Bare cellulær</string>
+     <string name="cellular_preferred">Cellulær foretrukket</string>
      <string name="cfb_title">Viderekoble når opptatt</string>
      <string name="cfnrc_title">Viderekoble når utilgjengelig</string>
      <string name="cfnrc_title_cta">Videresånde når ikke nåbar</string>
@@ -238,21 +243,22 @@
      <string name="china_mobile">China Mobile</string>
      <string name="china_telecom">China Telecom</string>
      <string name="china_unicom">China Unicom</string>
-     <string name="chose_product_summary">Call cheaper</string>
-     <string name="chose_product_title">Top-up package</string>
+     <string name="chose_product_summary">Ring billigere</string>
+     <string name="chose_product_title">Oppfyllingspakke</string>
      <string name="clir_choices_hide_number">Skjul nummer</string>
      <string name="clir_choices_network_default">Nettverk standard</string>
      <string name="clir_choices_show_number">Vis nummer</string>
-     <string name="close">Close</string>
+     <string name="close">Lukk</string>
      <string name="close_dialog">OK</string>
      <string name="close_profile">Lukk</string>
      <string name="cloud_antispam_title">Identifiser ukjente numre</string>
+     <string name="cmcc_ut_data_enable_prompt">"Kunne ikke koble til VoLTE-nettverk. Skru på mobildataforbindelse nå."</string>
      <string name="command_error_fdn_failure">Du må skru av FDN først</string>
      <string name="config_default_data_sim">Innstillinger</string>
      <string name="config_dialing_emergency_number_suffix" />
      <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
      <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
-     <string name="confirm_change_default_data">Change</string>
+     <string name="confirm_change_default_data">Endre</string>
      <string name="confirm_password_label">Bekreft nytt passord</string>
      <string name="confirm_pin2_label">Bekreft ny PIN2</string>
      <string name="confirm_pin_label">Bekreft ny PIN</string>
@@ -319,7 +325,7 @@
      <string name="dialog_network_priority_title">Prioritet</string>
      <string name="dialog_no">Nei</string>
      <string name="dialog_purchase">Fyll opp</string>
-     <string name="dialog_yes">Yes</string>
+     <string name="dialog_yes">Ja</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_0_number">0</string>
      <string name="dialpad_1_letters" />
@@ -414,6 +420,8 @@
      <string name="enable_video_calling_dialog_msg">For å slå på videosamtaler må du aktivere modusen for forbedret 4G LTE i systeminnstillingene.</string>
      <string name="enable_video_calling_dialog_settings">Nettverksinnstillinger</string>
      <string name="enable_video_calling_title">Slå på videosamtaler</string>
+     <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
+     <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
      <string name="enhanced_4g_lte_mode_summary">Use LTE services to improve voice and other communications (recommended)</string>
      <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
      <string name="ensure_info">Ja</string>
@@ -426,14 +434,14 @@
      <string name="entertainment_news_settings">Underholdningsnyheter</string>
      <string name="eo_disable">Jobbmuligheter er av</string>
      <string name="eo_enable">Jobbmuligheter er på</string>
-     <string name="error_type_account_201">IKke nok midler</string>
+     <string name="error_type_account_201">Ikke nok midler</string>
      <string name="error_type_account_202">"Kan ikke fullføre samtalen"</string>
      <string name="error_type_account_203">"Typen nummer du ringte støttes ikke"</string>
      <string name="error_type_account_208">"Kan ikke fullføre anropet til dette nummeret"</string>
      <string name="error_type_account_301">Koden du skrev er ikke korrekt</string>
      <string name="error_type_account_302">Koden du skrev er allerede brukt</string>
      <string name="error_type_account_500">"Kunne ikke koble til mobilnettverket"</string>
-     <string name="error_type_account_inner">Internal error</string>
+     <string name="error_type_account_inner">Intern feil</string>
      <string name="error_type_network">Nettverksfeil</string>
      <string name="error_type_unknown">Ukjent feil</string>
      <string name="error_updating_title">Feil ved samtaleinnstillinger</string>
@@ -467,10 +475,8 @@
      <string name="feedback">Tilbakemelding</string>
      <string name="flash_when_ring_summary">Blink varsellys for innkommende anrop</string>
      <string name="flash_when_ring_title">Blink under ringing</string>
-     <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.
-Kontakt operatøren hvis dette problemet vedvarer."</string>
-     <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.
-Vil du likevel bytte til den nye leverandøren?"</string>
+     <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.Kontakt operatøren hvis dette problemet vedvarer."</string>
+     <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="general_news_settings">Generelle nyheter</string>
      <string name="general_setting">Innstillinger</string>
      <string name="get_pin2">Skriv inn PIN2</string>
@@ -502,6 +508,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="ims_menu_save">Lagre</string>
      <string name="ims_service_capability">Aktiver/deaktiver tjenesteevne</string>
      <string name="ims_service_capability_title">Aktiver/deaktiver IMS-tjenesteevne</string>
+     <string name="ims_set_wifi_calling_preference_failed">Failed to set wifi calling preference</string>
      <string name="ims_vt_call_quality">VtCallQuality</string>
      <string name="ims_vt_call_quality_high">High</string>
      <string name="ims_vt_call_quality_low">Low</string>
@@ -531,7 +538,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="international_dial_complete_intention">Spar penger på internasjonale samtaler.</string>
      <string name="international_dial_complete_no">IKke nå</string>
      <string name="international_dial_complete_summary">Fyll opp med MIUI for å få rabatter på internasjonale samtaler.</string>
-     <string name="international_dial_complete_yes">Bruk Mi-stemme</string>
+     <string name="international_dial_complete_yes">Bruk Mi-tale</string>
      <string name="international_disable">Verdensnyheter er av</string>
      <string name="international_enable">Verdensnyheter er på</string>
      <string name="international_roaming_setting">Internasjonal roaming</string>
@@ -595,62 +602,61 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="list_language_dtitle">Språk</string>
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
-     <string name="livetalk_about">About</string>
-     <string name="livetalk_about_info">About</string>
-     <string name="livetalk_about_info_content">"V0.9 beta (Service number short codes aren't supported at the moment. You need to connect to the internet to use this feature. Each call uses 1Kb of mobile data. Turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.)"</string>
-     <string name="livetalk_activate">Activate top-up package</string>
-     <string name="livetalk_activate_number">Verify SIM card</string>
-     <string name="livetalk_activate_number_1">Verify SIM 1</string>
-     <string name="livetalk_activate_number_2">Verify SIM 2</string>
-     <string name="livetalk_activate_sim_card">Activate</string>
-     <string name="livetalk_activate_summary">Your carrier may charge for an SMS message used to verify this service.</string>
-     <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
-     <string name="livetalk_avaiable_minute">%1$s minutes remaining</string>
-     <string name="livetalk_before_provision">"I've read and accepted"</string>
-     <string name="livetalk_charge_now">Top up</string>
-     <string name="livetalk_complete">Done</string>
-     <string name="livetalk_complete_domestic_phone">Make domestic calls using top-up package.</string>
-     <string name="livetalk_complete_international_phone">Make international calls using top-up package.</string>
-     <string name="livetalk_complete_introduction">Top-up package has been added to your Mi Account and will be used on your next call.</string>
-     <string name="livetalk_complete_name">Switch to top-up package</string>
-     <string name="livetalk_complete_title">Call to complete top-up</string>
-     <string name="livetalk_continue_button">Continue</string>
-     <string name="livetalk_continue_button_creat_account">Create account</string>
-     <string name="livetalk_creat_account_fialed">Account error</string>
+     <string name="livetalk_about">Om</string>
+     <string name="livetalk_about_info">Om</string>
+     <string name="livetalk_about_info_content">"V0.9 beta (Korte koder for tjenestenummer er ikke støttet for øyeblikket. Du trenger å koble til internett for å bruke denne funksjonen. Hvert anrop bruker 1Kb med mobildata. Skru på Gratis lytting for å bruke denne tjenesten, ellers kan operatøren belaste deg når du roamer.)"</string>
+     <string name="livetalk_activate">Aktiver oppfyllingspakke</string>
+     <string name="livetalk_activate_number">Verifiser SIM-kort</string>
+     <string name="livetalk_activate_number_1">Verifiser SIM 1</string>
+     <string name="livetalk_activate_number_2">Verifiser SIM 2</string>
+     <string name="livetalk_activate_sim_card">Aktiver</string>
+     <string name="livetalk_activate_summary">Operatøren din kan belaste deg for SMS-meldingen brukt for å bekrefte denne tjenesten.</string>
+     <string name="livetalk_add_white_list_info">Legg til telefonnummer å ringe direkte.</string>
+     <string name="livetalk_avaiable_minute">%1$s minutter gjenstår</string>
+     <string name="livetalk_before_provision">"Jeg har lest og akseptert"</string>
+     <string name="livetalk_charge_now">Fyll opp</string>
+     <string name="livetalk_complete">Ferdig</string>
+     <string name="livetalk_complete_domestic_phone">Utfør innenlandssamtaler ved hjelp av oppfyllingspakke.</string>
+     <string name="livetalk_complete_international_phone">Utfør internasjonale samtaler ved hjelp av oppfyllingspakke.</string>
+     <string name="livetalk_complete_introduction">Oppfyllingspakken har blitt lagt til i din Mi-konto og vil bli brukt i neste samtale.</string>
+     <string name="livetalk_complete_name">Bytt til oppfyllingspakke</string>
+     <string name="livetalk_complete_title">Ring for å fullføre oppfylling</string>
+     <string name="livetalk_continue_button">Fortsett</string>
+     <string name="livetalk_continue_button_creat_account">Opprett konto</string>
+     <string name="livetalk_creat_account_fialed">Kontofeil</string>
      <string name="livetalk_dial_direct">Ring direkte</string>
      <string name="livetalk_experience_button">Prøv nå</string>
-     <string name="livetalk_introduction_text">Low cost international calls</string>
-     <string name="livetalk_last_step">Back</string>
-     <string name="livetalk_login_experience_button">Sign in</string>
-     <string name="livetalk_name">Top-up package</string>
+     <string name="livetalk_introduction_text">Lavkostnads internasjonale samtaler</string>
+     <string name="livetalk_last_step">Tilbake</string>
+     <string name="livetalk_login_experience_button">Logg inn</string>
+     <string name="livetalk_name">Oppfyllingspakke</string>
      <string name="livetalk_network_confirm">OK</string>
-     <string name="livetalk_network_confirm_summary">Top-up packages use about 1KB of mobile data each time a call is connected.</string>
-     <string name="livetalk_next_step">Next</string>
-     <string name="livetalk_niece_price_arrow">This feature is available in 13 countries and regions</string>
-     <string name="livetalk_niece_price_summary">See international rates for more info</string>
-     <string name="livetalk_niece_price_title">"This feature isn't available yet"</string>
-     <string name="livetalk_nsufficient_balance">Insufficient balance</string>
-     <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
-     <string name="livetalk_package_name">Top up balance</string>
-     <string name="livetalk_provider">Provided by %1$s</string>
+     <string name="livetalk_network_confirm_summary">Oppfyllingspakker bruker ca. 1KB med mobildata hver gang en samtale utføres.</string>
+     <string name="livetalk_network_unavailable">Nettverk utilgjengelig</string>
+     <string name="livetalk_next_step">Neste</string>
+     <string name="livetalk_niece_price_arrow">Denne funksjonen er tilgjengelig i 13 land og regioner</string>
+     <string name="livetalk_niece_price_summary">Se internasjonale priser for mer info</string>
+     <string name="livetalk_niece_price_title">"Denne funksjonen er ikke tilgjengelig enda"</string>
+     <string name="livetalk_nsufficient_balance">Utilstrekkelig balanse</string>
+     <string name="livetalk_package_introduction_text">Eksklusiv rabatt for MIUI-brukere. Mindre databruk og lavere priser.</string>
+     <string name="livetalk_package_name">Oppfyllingsbalanse</string>
+     <string name="livetalk_provider">Tilbudt av %1$s</string>
      <string name="livetalk_provision">Vilkår for bruk</string>
-     <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
-     <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
-     <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
-     <string name="livetalk_setting">Top up settings</string>
-     <string name="livetalk_sim_card_not_activated">"This card isn't activated"</string>
-     <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
+     <string name="livetalk_provision_checkbox">Aksepter tjenestevilkår</string>
+     <string name="livetalk_provision_second">, og trenger å koble til Internett for å fungere normalt.</string>
+     <string name="livetalk_service_and_short_number_not_support">Tjenestenumre og korte tall støttes ikke.string>
+     <string name="livetalk_setting">Innstillinger for oppfylling</string>
+     <string name="livetalk_sim_card_not_activated">"Dette kortet er ikke aktivert"</string>
+     <string name="livetalk_unavaiable_info">Denne tjenesten er utilgjengelig</string>
      <string name="livetalk_user_config_title">Aktiver SIM-kort</string>
-     <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
-     <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minute for domestic calls and ¥ 0.3 for international.
-• Call any phone in the world, there are no carrier restrictions.
-• Top up and start calling, there are no complicated settings."</string>
-     <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
+     <string name="livetalk_version">Oppfyllingspakke versjon 0.9 | Beta</string>
+     <string name="livetalk_welcome_description_text">"• Spar 70% på ringeutgifter"</string>
+     <string name="livetalk_welcome_notes_text">"OBS: Hvert anrop krever 1KB med mobildata; Tjeneste- og korte numre støttes ikke, Hvis du betaler for innkommende samtaler, vil du bli belastet av operatøren når roaming er aktiver. Din operatør kan belaste deg for SMSen som blir brukt for å verifisere dette telefonnummeret."</string>
      <string name="livetalk_white_list_number_title">Ring direkte uten å bruke oppfyllingspakke</string>
      <string name="load_networks_progress">Søker…</string>
      <string name="load_rates_failed">"Kunne ikke laste"</string>
      <string name="loading">Baree et sekund…</string>
-     <string name="loading_product">Just a sec…</string>
+     <string name="loading_product">Bare et sekund…</string>
      <string name="loading_recent_failed">"Kunne ikke laste"</string>
      <string name="local_disable">Lokalnyheter er av</string>
      <string name="local_enable">Lokalnyheter er på</string>
@@ -658,14 +664,14 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="local_weather_enable">Lokalt vær er på</string>
      <string name="lodgings_disable">Losji er av</string>
      <string name="lodgings_enable">Losji er på</string>
-     <string name="lte_checkbox_text">Set mobile data to the selected SIM card once default 4G/3G SIM card is changed</string>
-     <string name="lte_recognition_title">SIM card recognition</string>
-     <string name="lte_recognize_summary">Two 4G/3G SIM cards are detected,you need to set the default 4G/3G SIM card:</string>
-     <string name="lte_select_summary">The selected subscription will be recognized as a 4G/3G card and the other one as a 2G card.</string>
-     <string name="lte_select_title">Default 4G/3G SIM card</string>
-     <string name="lte_set">Set</string>
-     <string name="lte_setting">Default 4G/3G SIM card is being set</string>
-     <string name="lte_switch_unavailable">4G/3G SIM cards switcher is unavailable</string>
+     <string name="lte_checkbox_text">Sett mobildata til den valgte SIM-kortet når standard 4G/3G SIM-kort er endret</string>
+     <string name="lte_recognition_title">SIM-kortgjenkjenning</string>
+     <string name="lte_recognize_summary">To 4G/3G SIM-kort er detektert, du må sette et standard 4G/3G SIM-kort:</string>
+     <string name="lte_select_summary">Standard abonnementet vil bli gjenkjent som et 4G/3G-kort og den andre som et 2G-kort.</string>
+     <string name="lte_select_title">Standard 4G/3G SIM-kort</string>
+     <string name="lte_set">Sett</string>
+     <string name="lte_setting">Standard 4G/3G SIM-kort er satt</string>
+     <string name="lte_switch_unavailable">4G/3G SIM-kortbytter er utilgjengelig</string>
      <string name="maintenance_disable">Vedlikehold er av</string>
      <string name="maintenance_enable">Vedlikehold er på</string>
      <string name="manageConferenceLabel">Administrer konferansesamtale</string>
@@ -750,6 +756,8 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="network_3G">3G</string>
      <string name="network_4G">4G (anbefales)</string>
      <string name="network_error_message">"Kan ikke koble til nettverket"</string>
+     <string name="network_error_message_livetalk">Prøv å utfør et normalt anrop. Du vil bli belastet av operatøren.</string>
+     <string name="network_error_title">Nettverksfeil</string>
      <string name="network_forbidden">%s (forbudt)</string>
      <string name="network_global">Global</string>
      <string name="network_id">Nettverks-ID</string>
@@ -767,8 +775,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="network_settings_next">Neste</string>
      <string name="network_settings_query_failed_message">"Kunne ikke søke etter nettverk. Trykk Avbryt for å bruke ditt foretrukne nettverk eller trykk OK for å prøve igjen."</string>
      <string name="network_settings_sel_sub">SUBS-innstillinger</string>
-     <string name="network_settings_select_automatic_hint">"Kan ikke registeres på nettverket du valgte.
-Vil bruke foretrukket nettverk istedet."</string>
+     <string name="network_settings_select_automatic_hint">"Kan ikke registeres på nettverket du valgte.Vil bruke foretrukket nettverk istedet."</string>
      <string name="network_settings_turn_off">av</string>
      <string name="network_settings_warn_message">"Enheten din vil brare koble til nettverk du velger manuelt."</string>
      <string name="network_unlock">Lås opp</string>
@@ -780,8 +787,10 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="new_pin2_label">Ny PIN2</string>
      <string name="new_pin_label">Ny PIN</string>
      <string name="new_sim_detected">Nytt SIM-kort detektert:</string>
+     <string name="no_balance_message">Ikke nok penger i oppfyllingspakken. Du kan prøve et normalt anrop istedet.</string>
+     <string name="no_balance_title">Ikke nok penger</string>
      <string name="no_change">Ingen endringer ble utført.</string>
-     <string name="no_data">Ingen</string>
+     <string name="no_data">Ingen data</string>
      <string name="no_internet_available">Kontroller Internett-tilkoblingen før du foretar et Internett-anrop.</string>
      <string name="no_internet_available_title">Ingen Internett-tilkobling</string>
      <string name="no_more">Ikke flere</string>
@@ -797,13 +806,15 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="no_wifi_available">Du må være koblet til et Wi-Fi-nettverk for å foreta Internett-anrop (gå til innstillingene Trådløst og nettverk).</string>
      <string name="no_wifi_available_title">Ingen Wi-Fi-tilkobling</string>
      <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534.</string>
-     <string name="not_activate_sim_card_content">"Refueling Package hasn't been activated for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-     <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
+     <string name="not_activate_sim_card_content">"Oppfyllingspakke har ikke blitt aktivert for SIM-kortet du valgte. Prøv å bruk normal SIM for å utføre dette anropet istedet. Operatøren din vil belaste deg for dette anropet"</string>
+     <string name="not_activate_sim_card_content_title">"Telefonnummeret har ikke blitt verifisert"</string>
      <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
      <string name="not_change_default_data">"Ikke endre"</string>
      <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
      <string name="not_sufficient_funds_content_title">Insufficient funds</string>
+     <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
+     <string name="not_support_title">"Number isn't supported"</string>
      <string name="not_supported_number_content">"Top-up package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
      <string name="not_supported_number_content_title">Ikke støttet</string>
      <string name="not_voice_capable">Taleanrop støttes ikke</string>
@@ -851,16 +862,14 @@ Vil bruke foretrukket nettverk istedet."</string>
      <string name="order_by_recent">Frekvens</string>
      <string name="order_id">Ordre-ID: %1$s</string>
      <string name="order_price">¥ %1$s</string>
-     <string name="order_status_fail">Order status: failed</string>
-     <string name="order_status_successful">Order status: complete</string>
+     <string name="order_status_fail">Order-status: feilet</string>
+     <string name="order_status_successful">Order-status: fullført</string>
      <string name="order_time">%1$s min</string>
      <string name="order_unit_price">¥ %1$s/min</string>
      <string name="ota_activate">Aktiver</string>
      <string name="ota_call_end">Tilbake</string>
      <string name="ota_failure">Programmeringen mislyktes</string>
-     <string name="ota_hfa_activation_dialog_message">"Telefonen aktiverer mobildatatjenesten din.
-
-Dette kan ta inntil fem minutter."</string>
+     <string name="ota_hfa_activation_dialog_message">"Telefonen aktiverer mobildatatjenesten din.Dette kan ta inntil fem minutter."</string>
      <string name="ota_hfa_activation_title">Aktiverer…</string>
      <string name="ota_listen">Følg taleinstruksjonene inntil du får beskjed om at aktiveringen er fullført.</string>
      <string name="ota_next">Neste</string>
@@ -874,14 +883,9 @@ Dette kan ta inntil fem minutter."</string>
      <string name="ota_title_activate">Aktiver telefonen din</string>
      <string name="ota_title_activate_success">Telefonen er aktivert.</string>
      <string name="ota_title_problem_with_activation">Problemer med aktivering</string>
-     <string name="ota_touch_activate">"Det må foretas en spesifikk oppringning for at telefontjenesten skal aktiveres.
-
-Trykk «Aktiver», og lytt deretter til instruksjonene for å aktivere telefonen."</string>
+     <string name="ota_touch_activate">"Det må foretas en spesifikk oppringning for at telefontjenesten skal aktiveres.Trykk «Aktiver», og lytt deretter til instruksjonene for å aktivere telefonen."</string>
      <string name="ota_try_again">Prøv igjen</string>
-     <string name="ota_unsuccessful">"Telefonen ble ikke aktivert.
-Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).
-
-Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
+     <string name="ota_unsuccessful">"Telefonen ble ikke aktivert. Prøv å finne et område med bedre dekning (ved et vindu eller utendørs). Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
      <string name="other">Andre</string>
      <string name="other_countries_and_regions">Andre land</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
@@ -891,13 +895,12 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="password_changed">Passord endret</string>
      <string name="password_title">Passord</string>
      <string name="pause_prompt_no">Nei</string>
-     <string name="pause_prompt_str">"Sendetoner
-"</string>
+     <string name="pause_prompt_str">"Sendetoner"</string>
      <string name="pause_prompt_yes">Ja</string>
      <string name="payphone">Telefonkiosk</string>
      <string name="phoneAppLabel">Telefon</string>
      <string name="phoneIconLabel">Telefon</string>
-     <string name="phone_account_settings">Phone account settings</string>
+     <string name="phone_account_settings">Innstillinger for telefonkonto</string>
      <string name="phone_account_wifi_calling">Wi-Fi-ringing</string>
      <string name="phone_accounts">Kontoinnstillinger for telefonen</string>
      <string name="phone_accounts_accounts_header">Kontoer</string>
@@ -915,21 +918,17 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="phone_numbers">Skriv telefonnumre</string>
      <string name="pick_outgoing_call_phone_type">Foreta anrop</string>
      <string name="pick_outgoing_sip_phone">Bruk konto for Internett-anrop:</string>
-     <string name="pin2_attempts">"
-Det er %d forsøk igjen."</string>
+     <string name="pin2_attempts">"Det er %d forsøk igjen."</string>
      <string name="pin2_changed">Personlig kode (PIN2) er endret</string>
      <string name="pin2_invalid">FDN er ikke oppdatert fordi du skrev inn feil PIN-kode.</string>
      <string name="pin2_invalid_or_name_is_too_long">Du har tastet inn en feil PIN2-kode eller navnet er for langt.</string>
-     <string name="pin2_lock_warning">"
-PIN2 related functions will be locked after another failed attempt"</string>
+     <string name="pin2_lock_warning">"PIN2 related functions will be locked after another failed attempt"</string>
      <string name="pin2_or_fdn_invalid">Fast nummer ble ikke oppdatert. PIN2 var feil, eller telefonnummeret ble avvist.</string>
      <string name="pin2_unblocked">Sperring av PIN2 er opphevet</string>
-     <string name="pin_attempts">"
-Du har %d forsøk igjen."</string>
+     <string name="pin_attempts">"Du har %d forsøk igjen."</string>
      <string name="pin_changed">Personlig kode for SIM-kort er endret.</string>
      <string name="pin_failed">Den personlige koden du skrev inn, er feil.</string>
-     <string name="pin_lock_warning">"
-Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
+     <string name="pin_lock_warning">"Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="pin_progress_change_pin">Endrer PIN…</string>
      <string name="pin_progress_change_pin2">Endrer PIN2…</string>
      <string name="pin_progress_set_fdn_lock">Setter FDN låstilstand…</string>
@@ -1037,28 +1036,25 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="puk_unlock_success">PUK ble opplåst.</string>
      <string name="puk_unlocked">SIM-kortet er blitt avblokkert. Telefonen låses opp…</string>
      <string name="purchase">Purchase</string>
-     <string name="purchase_confirm">Purchase</string>
-     <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
-- No conflicts with your current plan.
-- Top up and start calling.
-- There are no complicated settings."</string>
-     <string name="purchase_description_title">About</string>
-     <string name="purchase_limit">You reached the top up limit</string>
-     <string name="purchase_list">Purchase history</string>
-     <string name="purchase_notes">"Note: It can be used for international calls. Top-up package allows you to pay the same amount of money for 50 minutes of calls as you would've paid for 8 minutes without using this service."</string>
+     <string name="purchase_confirm">Kjøp</string>
+     <string name="purchase_description_summary">"- Ring hvilken som helst telefon i verden, det er ingen operatørbegrensinger.- Ingen konflikter med ditt gjeldende abonnement.- Fyll opp og begynn å ring.- Det er ingen kompliserte innstillinger."</string>
+     <string name="purchase_description_title">Om</string>
+     <string name="purchase_limit">Du hr nådd oppfyllingsgrensen</string>
+     <string name="purchase_list">Kjøpshistorikk</string>
+     <string name="purchase_notes">"OBS: Du kan ringe internasjonalt. Beløpet for 1 minutt med internasjonalt anrop tilsvarer beløpet for 6 min nasjonalt.""</string>
      <string name="purchase_notification">"Prices above are for domestic calls. For international calls see the "</string>
-     <string name="purchase_notification_title">Check supported regions</string>
-     <string name="purchase_rates_title">Rates</string>
-     <string name="query">Query</string>
-     <string name="quickly_verify">Verify</string>
+     <string name="purchase_notification_title">Sjekk støttede regioner</string>
+     <string name="purchase_rates_title">Priser</string>
+     <string name="query">Spørr</string>
+     <string name="quickly_verify">Verifiser</string>
      <string name="radio_off_error">Slå på radioen før du ser på disse innstillingene.</string>
      <string name="rates_correspond">Corresponding rates.</string>
-     <string name="rc_unlock_failed">RUIM Erhverv opplåsingsforespørsel mislykket.</string>
+     <string name="rc_unlock_failed">RUIM-exchange opplåsingsforespørsel mislykket.</string>
      <string name="rc_unlock_success">UIM-bedrift ble opplåst</string>
      <string name="reading_settings">Leser innstillinger…</string>
-     <string name="refueling_package_a">Package A</string>
-     <string name="refueling_package_b">Package B</string>
-     <string name="refueling_package_c">Package C</string>
+     <string name="refueling_package_a">Pakke A</string>
+     <string name="refueling_package_b">Pakke B</string>
+     <string name="refueling_package_c">Pakke C</string>
      <string name="reg_failed">Registrering feilet</string>
      <string name="reg_failed_msg">Standard 4G/3G SIM-kort-registrering feilet, %1$s vil bli gjenkjent som et 2G SIM-kort.</string>
      <string name="reg_suc">Registrering fullført</string>
@@ -1082,8 +1078,8 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="reject_via_sms_summary">Endre forhåndsinnstillte SMS-meldinger</string>
      <string name="reject_via_sms_title">Hurtigsvar</string>
      <string name="remain_mins_divider">or</string>
-     <string name="remain_mins_domestic">Remaining (domestic)</string>
-     <string name="remain_mins_international">Remaining (international)</string>
+     <string name="remain_mins_domestic">Gjenstående (nasjonalt)</string>
+     <string name="remain_mins_international">Gjenstående (international)</string>
      <string name="remain_mins_unit">min</string>
      <string name="remember_my_choice">Standardvalg for Internett-anrop</string>
      <string name="remind_another_time">"Ikke vis igjen"</string>
@@ -1150,42 +1146,43 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="send_button">Send</string>
      <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Send hold-aktiv-meldinger</string>
-     <string name="send_order_failed">"Couldn't send order"</string>
+     <string name="send_order_failed">"Kunne ikke sende ordre"</string>
      <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Brukt til utgående anrop</string>
      <string name="set_primary_title">Angi som hovedkonto</string>
      <string name="set_smsc_address_error">"Kunne ikke sette nummer"</string>
-     <string name="set_smsc_address_timeout">Time-out ved innstilling av SMS senter nummer, prøv igjen senere.</string>
-     <string name="set_smsc_address_title">Set SMS center number</string>
+     <string name="set_smsc_address_timeout">Tidsavbrudd ved innstilling av SMS senter nummer, prøv igjen senere.</string>
+     <string name="set_smsc_address_title">Sett SMS-senternummer</string>
      <string name="set_subscription">Velg abonnement</string>
-     <string name="setting_activate_domestic_title">Top up (domestic calls)</string>
-     <string name="setting_activate_international_title">Top up (international calls)</string>
-     <string name="setting_duration_other_prompt">"For international calling rates check "</string>
-     <string name="setting_duration_title">Remaining time</string>
+     <string name="setting_activate_domestic_title">Fyll opp (nasjonale samtaler)</string>
+     <string name="setting_activate_international_title">Fyll opp (internasjonale samtaler)</string>
+     <string name="setting_duration_other_prompt">"For internasjonale ringepriser, sjekk "</string>
+     <string name="setting_duration_title">Tid gjenstående</string>
      <string name="settings_label">Nettverksinnstillinger</string>
-     <string name="sim1_activated">SIM card 1</string>
-     <string name="sim1_no_activated">SIM 1 verified</string>
-     <string name="sim2_activated">, SIM card 2</string>
-     <string name="sim2_no_activated">, SIM 2 not verified</string>
+     <string name="sim1_activated">SIM-kort 1</string>
+     <string name="sim1_no_activated">SIM 1 verifisert</string>
+     <string name="sim2_activated">, SIM-kort 2</string>
+     <string name="sim2_no_activated">, SIM 2 ikke verifisert</string>
      <string name="simContacts_airplaneMode">Du må slå av flymodus før du kan importere kontakter fra SIM-kortet.</string>
      <string name="simContacts_empty">Ingen kontakter på SIM-kortet.</string>
      <string name="simContacts_emptyLoading">Leser fra SIM-kort…</string>
      <string name="simContacts_title">Velg kontakter som skal importeres</string>
-     <string name="sim_absent">Absent</string>
-     <string name="sim_activated">Verified</string>
-     <string name="sim_card_activate">Current SIM card</string>
+     <string name="sim_absent">Fraværende</string>
+     <string name="sim_activated">Verifisert</string>
+     <string name="sim_card_activate">Gjeldende SIM-kort</string>
+     <string name="sim_card_num">SIM%s</string>
      <string name="sim_cards_network_mode_changed_summary">Trykk for å vise SMS- og anropsinnstillinger.</string>
      <string name="sim_cards_network_mode_changed_title">Nytt SIM-kort oppdaget</string>
      <string name="sim_contact_name">Name</string>
      <string name="sim_contact_number">Number</string>
      <string name="sim_description_default">SIM card, slot: %s</string>
-     <string name="sim_description_emergency_calls">Emergency calling only</string>
-     <string name="sim_info">SIM card info</string>
-     <string name="sim_label_emergency_calls">Emergency calls</string>
+     <string name="sim_description_emergency_calls">Bare nødanrop</string>
+     <string name="sim_info">SIM-kortinfo</string>
+     <string name="sim_label_emergency_calls">Nødandrop</string>
      <string name="sim_ndp_dismiss_text">Skjul</string>
      <string name="sim_ndp_unlock_text">Lås opp</string>
-     <string name="sim_no_activated">Not verified</string>
-     <string name="sim_unknown">Unknown</string>
+     <string name="sim_no_activated">Ikke verifisert</string>
+     <string name="sim_unknown">Ukjent</string>
      <string name="sim_unlock_failed">SIM SIM opplåsningsforespørsel feilet.</string>
      <string name="sim_unlock_success">SIM SIM opplåsning vellykket.</string>
      <string name="sip_account_list">SIP-kontoer</string>
@@ -1286,19 +1283,16 @@ Telefonen din vil bli låst automatiskY etter 1 feil forsøk til"</string>
      <string name="telocation_show_settings">Innstillinger for visning</string>
      <string name="third_party_account_summary">Denne kontoen er for øyeblikket i bruk av appen %s.</string>
      <string name="throttle_current_usage">Data som er brukt i inneværende periode</string>
-     <string name="throttle_data_rate_reduced_subtext">"%1$s har overskredet maksimumsgrensen
-Datahastigheten er redusert til %2$d Kb/s"</string>
+     <string name="throttle_data_rate_reduced_subtext">"%1$s har overskredet maksimumsgrensenDatahastigheten er redusert til %2$d Kb/s"</string>
      <string name="throttle_data_usage">Databruk</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
      <string name="throttle_help">Les mer</string>
      <string name="throttle_help_subtext">Mer informasjon om mobiloperatørens retningslinjer for bruk av nettverksdata</string>
      <string name="throttle_rate">Retningslinjer for datahastighet</string>
      <string name="throttle_rate_subtext">Datahastigheten reduseres til %1$d Kb/s hvis databruken overskrider grenseverdien</string>
-     <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s period maksimum
-Neste periode starter om %4$d dager (%5$s)"</string>
+     <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s period maksimumNeste periode starter om %4$d dager (%5$s)"</string>
      <string name="throttle_time_frame">Databrukperiode</string>
-     <string name="throttle_time_frame_subtext">"%1$d٪ av syklus brukt
-Neste periode starter om %2$d dager (%3$s)"</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ av syklus bruktNeste periode starter om %2$d dager (%3$s)"</string>
      <string name="time_statistic">%1$d minutter av nettverkstid spart</string>
      <string name="title_country">Land</string>
      <string name="title_duration">Varighet</string>
@@ -1343,8 +1337,7 @@ Neste periode starter om %2$d dager (%3$s)"</string>
      <string name="verify_fialed">"Kunne ikke verifisere"</string>
      <string name="verifying">Verifiserer</string>
      <string name="vibrate_on_ring_title">Vibrering når det ringer</string>
-     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.
-Kontakt operatøren din hvis dette problemet vedvarer."</string>
+     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="vm_changed">Telefonsvarernummeret ble endret.</string>
      <string name="voice_privacy">Talepersonvern</string>
      <string name="voice_privacy_summary">Aktiver forbedret personvern</string>
@@ -1365,18 +1358,28 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="voicemail_settings_number_label">Mobilsvar-nummer</string>
      <string name="voicemail_settings_number_title">Telefonsvarer nummer</string>
      <string name="voip_setting">VOIP-innstillinger</string>
-     <string name="wait_prompt_str">"Send disse tonene?
-"</string>
+     <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
+     <string name="volte_switch_title">VoLTE enabled</string>
+     <string name="wait_prompt_str">"Send disse tonene?"</string>
+     <string name="wifi_call_setting">Wifi Call Settings</string>
      <string name="wifi_calling_call_assistant">Ringeassistent</string>
      <string name="wifi_calling_call_assistant_configure">Konfigurer</string>
      <string name="wifi_calling_call_assistant_configure_no_selection">Ringeassistent av</string>
      <string name="wifi_calling_call_assistant_none">Ingen</string>
      <string name="wifi_calling_do_not_use">Ikke bruke Wi-Fi-anrop</string>
      <string name="wifi_calling_do_not_use_call_assistant">Ikke bruk ringeassistent</string>
+     <string name="wifi_calling_preference_dialog_title">Wifi Calling Preference</string>
+     <string name="wifi_calling_preference_summary">Change the wifi calling preference</string>
+     <string name="wifi_calling_preference_title">Wifi Calling Preference</string>
      <string name="wifi_calling_select_call_assistant">Velg ringeassistent</string>
      <string name="wifi_calling_select_call_assistant_summary">Velg en app eller tjeneste for å adminstrere nettverkene brukt for ringing</string>
+     <string name="wifi_calling_summary">Enable Wifi Calling and Select Wifi Preference for Wifi Calling</string>
+     <string name="wifi_calling_title">Wifi Calling</string>
      <string name="wifi_calling_use_call_assistant">Bruk ringeassistent</string>
      <string name="wifi_calling_use_call_assistant_summary">La apper eller tjenester håndtere nettverk brukt for ringing</string>
+     <string name="wifi_only">Wifi Only</string>
+     <string name="wifi_pref_none">No Preference Selected</string>
+     <string name="wifi_preferred">Wifi Preferred</string>
      <string name="wild_prompt_str">Erstatt jokertegn med</string>
      <string name="wrong_password">Passordet du skrev er feil</string>
      <string name="xdivert_button">X-Divert-innstilling</string>

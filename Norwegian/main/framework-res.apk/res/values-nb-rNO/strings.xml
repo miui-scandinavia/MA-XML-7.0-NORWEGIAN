@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Samtaleblokkering</string>
      <string name="CLIRDefaultOffNextCallOff">Nummervisning er ikke begrenset som standard. Neste anrop: Ikke begrenset</string>
@@ -68,22 +68,17 @@
      <string name="allow">Tillat</string>
      <string name="alternate_eri_file">/data/eri.xml</string>
      <string name="alwaysUse">Bruk som standardvalg.</string>
+     <string name="android_start_title">Android is starting…</string>
      <string name="android_system_label">Android-system</string>
      <string name="android_upgrading_apk">Optimaliserer app %1$d av %2$d.</string>
      <string name="android_upgrading_complete">Ferdigstiller oppstart.</string>
      <string name="android_upgrading_fstrim">Optimizing storage.</string>
      <string name="android_upgrading_starting_apps">Starter apper.</string>
      <string name="android_upgrading_title">Android oppgraderes …</string>
-     <string name="anr_activity_application">"%2$s svarer ikke.
-
-Vil du lukke appen?"</string>
-     <string name="anr_activity_process">"Aktiviteten %1$s svarer ikke.
-
-Vil du lukke den?"</string>
+     <string name="anr_activity_application">"%2$s svarer ikke.Vil du lukke appen?"</string>
+     <string name="anr_activity_process">"Aktiviteten %1$s svarer ikke.Vil du lukke den?"</string>
      <string name="anr_application_process">%1$s svarer ikke. Vil du lukke appen?</string>
-     <string name="anr_process">"Prosessen %1$s svarer ikke.
-
-Vil du lukke den?"</string>
+     <string name="anr_process">"Prosessen %1$s svarer ikke.Vil du lukke den?"</string>
      <string name="anr_title" />
      <string name="app_no_restricted_accounts">Denne appen støtter ikke kontoer for begrensede profiler</string>
      <string name="app_not_found">Finner ingen apper som kan utføre denne handlingen</string>
@@ -150,9 +145,7 @@ Vil du lukke den?"</string>
      <string name="back_button_label">Tilbake</string>
      <string name="badPin">Den gamle PIN-koden du har skrevet inn er ikke riktig.</string>
      <string name="badPuk">PUK-koden du har skrevet inn er ikke riktig.</string>
-     <string name="battery_saver_description">"Batterisparing reduserer enhetens ytelse og begrenser vibrering og de fleste bakgrunnsdata for å forbedre batterilevetiden. Det kan hende E-post, Meldinger og andre apper som er avhengige av synkronisering, ikke oppdateres med mindre du åpner dem.
-
-Batterisparing slås automatisk av når enheten lades."</string>
+     <string name="battery_saver_description">"Batterisparing reduserer enhetens ytelse og begrenser vibrering og de fleste bakgrunnsdata for å forbedre batterilevetiden. Det kan hende E-post, Meldinger og andre apper som er avhengige av synkronisering, ikke oppdateres med mindre du åpner dem.Batterisparing slås automatisk av når enheten lades."</string>
      <string name="beforeOneMonthDurationPast">For over en måned siden</string>
      <string name="bluetooth_a2dp_audio_route_name">Bluetooth-lyd</string>
      <string name="bugreport_message">Informasjon om den nåværende tilstanden til enheten din samles inn og sendes som en e-post. Det tar litt tid fra du starter feilrapporten til e-posten er klar, så vær tålmodig.</string>
@@ -209,6 +202,8 @@ Batterisparing slås automatisk av når enheten lades."</string>
      <string name="config_isoImagePath" />
      <string name="config_mms_user_agent">Android-Mms/2.0</string>
      <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+     <string name="config_mobile_hotspot_provision_app_no_ui" />
+     <string name="config_mobile_hotspot_provision_response" />
      <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
      <string name="config_ntpServer">2.android.pool.ntp.org</string>
      <string name="config_partial_segment_expire_age">2592000000</string>
@@ -221,6 +216,7 @@ Batterisparing slås automatisk av når enheten lades."</string>
      <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
      <string name="config_wifi_random_mac_oui">DA-A1-19</string>
      <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
+     <string name="config_wifi_tether_enable">com.android.settings/.TetherService</string>
      <string name="config_wimaxManagerClassname" />
      <string name="config_wimaxNativeLibLocation" />
      <string name="config_wimaxServiceClassname" />
@@ -234,8 +230,7 @@ Batterisparing slås automatisk av når enheten lades."</string>
      <string name="continue_to_enable_accessibility">Fortsett å holde nede to fingre for å aktivere tilgjengelighet.</string>
      <string name="copy">Kopier</string>
      <string name="copyUrl">Kopier URL</string>
-     <string name="create_contact_using">"Lag kontakt
-med nummeret %s"</string>
+     <string name="create_contact_using">"Lag kontaktmed nummeret %s"</string>
      <string name="cut">Klipp ut</string>
      <string name="data_usage_3g_limit_snoozed_title">Grense på 2G-3G data overskredet</string>
      <string name="data_usage_3g_limit_title">2G–3G-data er deaktivert</string>
@@ -302,8 +297,7 @@ med nummeret %s"</string>
      <string name="description_target_soundon">Lyd på</string>
      <string name="description_target_unlock">Lås opp</string>
      <string name="description_target_unlock_tablet">Sveip for å låse opp.</string>
-     <string name="dial_number_using">"Ring nummeret
-%s"</string>
+     <string name="dial_number_using">"Ring nummeret%s"</string>
      <string name="dialog_alert_title">Merk</string>
      <string name="display_manager_built_in_display_name">Innebygd skjerm</string>
      <string name="display_manager_hdmi_display_name">HDMI-skjerm</string>
@@ -316,6 +310,7 @@ med nummeret %s"</string>
      <string name="dlg_ok">OK</string>
      <string name="done_label">Ferdig</string>
      <string name="double_tap_toast">Tips: Dobbelttrykk for å zoome inn og ut.</string>
+     <string name="downtime_condition_line_one">Until your downtime ends</string>
      <string name="downtime_condition_summary">Til hviletiden din ender kl. %1$s</string>
      <string name="durationDayHour">%1$d dag %2$d t</string>
      <string name="durationDayHours">%1$d dag %2$d t</string>
@@ -323,6 +318,7 @@ med nummeret %s"</string>
      <string name="durationHourMinute">%1$d t %2$d min</string>
      <string name="durationHourMinutes">%1$d t %2$d min</string>
      <string name="durationHours">%1$d t</string>
+     <string name="durationMinute">%1$d min</string>
      <string name="durationMinuteSecond">%1$d min %2$d sek</string>
      <string name="durationMinuteSeconds">%1$d min %2$d sek</string>
      <string name="durationMinutes">%1$d min</string>
@@ -369,6 +365,8 @@ med nummeret %s"</string>
      <string name="extmedia_format_title">Formatere USB-lagr.?</string>
      <string name="extract_edit_menu_button">Rediger</string>
      <string name="faceunlock_multiple_failures">Du har overskredet grensen for opplåsingsforsøk med Ansiktslås</string>
+     <string name="factory_reset_message">"The admin app is missing components or corrupted, and can't be used. Your device will now be erased. Contact your administrator for assistance."</string>
+     <string name="factory_reset_warning">Your device will be erased</string>
      <string name="factorytest_failed">Fabrikktesten feilet</string>
      <string name="factorytest_no_action">No package was found that provides the FACTORY_TEST action.</string>
      <string name="factorytest_not_system">The FACTORY_TEST action is only supported for packages installed in /system/app.</string>
@@ -486,9 +484,7 @@ med nummeret %s"</string>
      <string name="issued_on">Utstedt den:</string>
      <string name="issued_to">Utstedt til:</string>
      <string name="item_is_selected">%1$s er valgt</string>
-     <string name="js_dialog_before_unload">"%s
-
-Er du sikker på at du vil navigere bort fra denne siden?"</string>
+     <string name="js_dialog_before_unload">"%sEr du sikker på at du vil navigere bort fra denne siden?"</string>
      <string name="js_dialog_before_unload_negative_button">Bli værende på denne siden</string>
      <string name="js_dialog_before_unload_positive_button">Forlat denne siden</string>
      <string name="js_dialog_before_unload_title">Bekreft navigasjon</string>
@@ -535,9 +531,7 @@ Er du sikker på at du vil navigere bort fra denne siden?"</string>
      <string name="keyguard_password_wrong_pin_code">Feil personlig kode.</string>
      <string name="kg_emergency_call_label">Nødnummer</string>
      <string name="kg_enter_confirm_pin_hint">Bekreft ønsket PIN-kode</string>
-     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har tegnet opplåsningsmønsteret feil %d ganger. Etter ytterligere %d gale forsøk, blir du bedt om å låse opp telefonen via en e-postkonto.
-
- Prøv på nytt om %d sekunder."</string>
+     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har tegnet opplåsningsmønsteret feil %d ganger. Etter ytterligere %d gale forsøk, blir du bedt om å låse opp telefonen via en e-postkonto. Prøv på nytt om %d sekunder."</string>
      <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har oppgitt feil opplåsningspassord for telefonen %d ganger. Etter ytterligere %d gale forsøk, tilbakestilles telefonen til fabrikkstandard og all data går tapt.</string>
      <string name="kg_failed_attempts_now_wiping">Du har oppgitt feil opplåsningspassord for telefonen %d ganger. Telefonen tilbakestilles nå til fabrikkstandard.</string>
      <string name="kg_forgot_pattern_button_text">Har du glemt mønsteret?</string>
@@ -545,8 +539,7 @@ Er du sikker på at du vil navigere bort fra denne siden?"</string>
      <string name="kg_invalid_puk">Skriv inn den korrekte PUK-koden på nytt. Gjentatte forsøk kommer til å deaktivere SIM-kortet.</string>
      <string name="kg_invalid_sim_pin_hint">Skriv inn en PIN-kode på fire til åtte sifre.</string>
      <string name="kg_invalid_sim_puk_hint">PUK-koden skal være på åtte eller flere siffer.</string>
-     <string name="kg_login_account_recovery_hint">""Har du glemt brukernavnet eller passordet?
-Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+     <string name="kg_login_account_recovery_hint">""Har du glemt brukernavnet eller passordet?Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
      <string name="kg_login_checking_password">Sjekker kontoen ...</string>
      <string name="kg_login_instructions">Logg på med Google-kontoen din for å låse opp.</string>
      <string name="kg_login_invalid_input">Ugyldig brukernavn eller passord.</string>
@@ -565,15 +558,9 @@ Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
      <string name="kg_sim_unlock_progress_dialog_message">Låser opp SIM-kortet ...</string>
      <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_attempts_countdown">Prøv på nytt om %1$d sekunder.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har tastet inn passordet ditt feil %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
-     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet opplåsningsmønsteret ditt feil %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har oppgitt feil PIN-kode %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
+     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har tastet inn passordet ditt feil %d ganger.Prøv på nytt om %d sekunder."</string>
+     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet opplåsningsmønsteret ditt feil %d ganger.Prøv på nytt om %d sekunder."</string>
+     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har oppgitt feil PIN-kode %d ganger.Prøv på nytt om %d sekunder."</string>
      <string name="kg_wrong_password">Feil passord</string>
      <string name="kg_wrong_pattern">Feil mønster</string>
      <string name="kg_wrong_pin">Feil PIN-kode</string>
@@ -588,12 +575,8 @@ Prøv på nytt om %d sekunder."</string>
      <string name="locale_codes" />
      <string name="locale_replacement" />
      <string name="lock_pattern_view_aspect">square</string>
-     <string name="lock_to_app_description">"Én-appsmodus låser skjermen til én bestemt side.
-
-Hvis du vil avslutte modusen, trykker og holder du på Tilbake og Oversikt samtidig."</string>
-     <string name="lock_to_app_description_accessible">"Én-appsmodus låser skjermen til én bestemt side.
-
-Hvis du vil avslutte modusen, trykker og holder du på Oversikt."</string>
+     <string name="lock_to_app_description">"Én-appsmodus låser skjermen til én bestemt side.Hvis du vil avslutte modusen, trykker og holder du på Tilbake og Oversikt samtidig."</string>
+     <string name="lock_to_app_description_accessible">"Én-appsmodus låser skjermen til én bestemt side.Hvis du vil avslutte modusen, trykker og holder du på Oversikt."</string>
      <string name="lock_to_app_exit">Skjermen er løsnet</string>
      <string name="lock_to_app_negative">NEI TAKK</string>
      <string name="lock_to_app_positive">START</string>
@@ -615,13 +598,10 @@ Hvis du vil avslutte modusen, trykker og holder du på Oversikt."</string>
      <string name="lockscreen_charged">Oppladet</string>
      <string name="lockscreen_emergency_call">Nødanrop</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har foretatt %d mislykkede opplåsinger av telefonen. Etter %d flere mislykkede forsøk, blir telefonen tilbakestilt til fabrikkinnstillingene, og alle brukerdata går tapt.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har tegnet inn feil opplåsingsmønster %d ganger. Etter ytterligere %d mislykkede forsøk, blir du bedt om å låse opp telefonen ved hjelp av Google-påloggingsinformasjonen din.
-
-Prøv på nytt om %d sekunder."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har tegnet inn feil opplåsingsmønster %d ganger. Etter ytterligere %d mislykkede forsøk, blir du bedt om å låse opp telefonen ved hjelp av Google-påloggingsinformasjonen din.Prøv på nytt om %d sekunder."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Du har foretatt %d mislykkede opplåsinger av telefonen. Telefonen blir nå tilbakestilt til fabrikkinnstillingene.</string>
      <string name="lockscreen_forgot_pattern_button_text">Glemt mønsteret?</string>
-     <string name="lockscreen_glogin_account_recovery_hint">""Har du glemt brukernavnet eller passordet ditt?
-Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+     <string name="lockscreen_glogin_account_recovery_hint">""Har du glemt brukernavnet eller passordet ditt?Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
      <string name="lockscreen_glogin_checking_password">Kontrollerer …</string>
      <string name="lockscreen_glogin_forgot_pattern">Opplåsing av konto</string>
      <string name="lockscreen_glogin_instructions">Logg på med Google-kontoen din for å låse opp.</string>
@@ -642,8 +622,7 @@ Gå til "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
      <string name="lockscreen_pattern_correct">Riktig!</string>
      <string name="lockscreen_pattern_instructions">Tegn mønster for å låse opp</string>
      <string name="lockscreen_pattern_wrong">Prøv på nytt</string>
-     <string name="lockscreen_permanent_disabled_sim_instructions">"SIM-kortet er deaktivert permanent.
-Ta kontakt med leverandøren av trådløstjenesten for å få et nytt SIM-kort."</string>
+     <string name="lockscreen_permanent_disabled_sim_instructions">"SIM-kortet er deaktivert permanent.Ta kontakt med leverandøren av trådløstjenesten for å få et nytt SIM-kort."</string>
      <string name="lockscreen_permanent_disabled_sim_message_short">Ubrukelige SIM-kort.</string>
      <string name="lockscreen_plugged_in">Lader, %d%%</string>
      <string name="lockscreen_return_to_call">Tilbake til samtale</string>
@@ -656,15 +635,9 @@ Ta kontakt med leverandøren av trådløstjenesten for å få et nytt SIM-kort."
      <string name="lockscreen_sound_off_label">Lyd av</string>
      <string name="lockscreen_sound_on_label">Lyd på</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Prøv igjen om %d sekunder.</string>
-     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Du har oppgitt feil opplåsingsmønster %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
-     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har skrevet inn feil passord %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
-     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har skrevet inn feil PIN-kode %d ganger.
-
-Prøv på nytt om %d sekunder."</string>
+     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Du har oppgitt feil opplåsingsmønster %d ganger.Prøv på nytt om %d sekunder."</string>
+     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har skrevet inn feil passord %d ganger.Prøv på nytt om %d sekunder."</string>
+     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har skrevet inn feil PIN-kode %d ganger.Prøv på nytt om %d sekunder."</string>
      <string name="lockscreen_transport_ffw_description">Fremoverspoling</string>
      <string name="lockscreen_transport_next_description">Knapp for neste sang</string>
      <string name="lockscreen_transport_pause_description">Pause-knappen</string>
@@ -797,6 +770,7 @@ Prøv på nytt om %d sekunder."</string>
      <string name="mobile_redirected_provisioning_url">http://google.com</string>
      <string name="month_day_year" formatted="false">%-e. %B %Y</string>
      <string name="more_item_label">Mer</string>
+     <string name="muted_by">Muted by %1$s</string>
      <string name="needPuk">SIM-kortet ditt er PUK-låst. Skriv inn PUK-koden for å låse det opp.</string>
      <string name="needPuk2">Skriv inn PUK2 for å låse opp SIM-kortet.</string>
      <string name="network_available_sign_in">Logg på nettverket</string>
@@ -835,6 +809,10 @@ Prøv på nytt om %d sekunder."</string>
      <string name="password_keyboard_label_alt_key">ALT</string>
      <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Lim inn</string>
+     <string name="peerTtyModeFull">Peer requested TTY Mode FULL</string>
+     <string name="peerTtyModeHco">Peer requested TTY Mode HCO</string>
+     <string name="peerTtyModeOff">Peer requested TTY Mode OFF</string>
+     <string name="peerTtyModeVco">Peer requested TTY Mode VCO</string>
      <string name="perm_costs_money">dette kan koste deg penger</string>
      <string name="permdesc_accessCoarseLocation">Lar appen se den omtrentlige posisjonen din. Denne posisjonen hentes fra posisjonstjenester som benytter posisjonskilder som for eksempel basestasjoner og Wi-Fi. Disse posisjonstjenestene må være slått på og tilgjengelig for enheten din, for at appen skal kunne bruke dem. Apper kan bruke dette til å finne ut omtrent hvor du er.</string>
      <string name="permdesc_accessContentProvidersExternally">Lar innehaveren gå til innholdsleverandører fra kommandovinduet. Skal aldri være nødvendig for vanlige apper.</string>
@@ -863,6 +841,7 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permdesc_backup">Lar appen kontrollere systemets mekanisme for sikkerhetskopiering og gjenoppretting. Ikke beregnet på vanlige apper.</string>
      <string name="permdesc_batteryStats">Lar apper lese gjeldende data på lavt nivå om batteribruk. Kan også la appen finne ut detaljert informasjon om hvilke apper du bruker.</string>
      <string name="permdesc_bindAccessibilityService">Gir innehaveren tillatelse til å bindes til det øverste nivået av grensesnittet for en tilgjengelighetstjeneste. Skal aldri være nødvendig for vanlige apper.</string>
+     <string name="permdesc_bindCarrierMessagingService">Allows the holder to bind to the top-level interface of a carrier messaging service. Should never be needed for normal apps.</string>
      <string name="permdesc_bindConditionProviderService">Gir innehaveren tillatelse til å binde til toppnivået av brukergrensesnittet for en leverandørtjeneste for betingelser. Dette skal ikke være nødvendig for vanlige apper.</string>
      <string name="permdesc_bindDeviceAdmin">Lar innehaveren sende hensikter til en enhetsadministrator. Skal aldri være nødvendig for normale apper.</string>
      <string name="permdesc_bindDreamService">Tillater eieren å binde seg til det øverste nivået av grensesnittet til en drømmetjeneste. Kreves aldri for vanlige apper.</string>
@@ -891,6 +870,7 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permdesc_bluetoothPriv">Lar appen koble til eksterne enheter uten medvirkning fra brukeren.</string>
      <string name="permdesc_bodySensors">Gir appen tillatelse til å bruke data fra sensorer du bruker til å måle det som skjer i kroppen din, som f.eks. pulsen.</string>
      <string name="permdesc_brick">Lar appen deaktivere hele telefonen permanent. Dette er svært risikabelt.</string>
+     <string name="permdesc_broadcastNetworkPrivileged">Allows the app to send privileged network broadcasts. Never needed for normal apps.</string>
      <string name="permdesc_broadcastPackageRemoved">Lar appen kringkaste et varsel om at en app-pakke har blitt fjernet. Ondsinnede apper kan bruke dette til å avslutte alle andre apper som kjører.</string>
      <string name="permdesc_broadcastScoreNetworks">Allows the app to broadcast a notification that networks need to be scored. Never needed for normal apps.</string>
      <string name="permdesc_broadcastSmsReceived">Lar appen kringkaste et varsel om at en SMS-melding er mottatt. Ondsinnede apper kan bruke dette til å forfalske innkommende SMS-meldinger.</string>
@@ -918,6 +898,8 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permdesc_clearAppUserData">Lar appen fjerne brukerdata.</string>
      <string name="permdesc_configureWifiDisplay">Tillater appen å konfigurere og koble til Wi-Fi-skjermer.</string>
      <string name="permdesc_confirm_full_backup">Lar appen starte det fullstendige grensesnittet for bekreftelse av sikkerhetskopiering. Skal ikke måtte brukes av noen apper.</string>
+     <string name="permdesc_connection_manager">Allows the app to manage telecom connections.</string>
+     <string name="permdesc_controlVpn">Allows the app to control low-level features of Virtual Private Networks.</string>
      <string name="permdesc_controlWifiDisplay">Tillater appen å kontrollere lavnivåfunksjoner i Wi-Fi-skjermer.</string>
      <string name="permdesc_control_incall_experience">Lar appen levere en brukeropplevelse for innkommende anrop.</string>
      <string name="permdesc_control_keyguard">Tillater at en app kontrollerer tastelåsen.</string>
@@ -934,6 +916,7 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permdesc_factoryTest">Kjøre som en lavnivås produsenttest, med full tilgang til telefonens maskinvare. Kun tilgjengelig når telefonen kjører i produsenttestmodus.</string>
      <string name="permdesc_filter_events">Lar appen registrere et inndatafilter som filtrerer strømmen for alle brukerhendelser før de sendes ut. Skadelige apper kan kontrollere brukergrensesnittet for systemet uten at brukeren gjør noe.</string>
      <string name="permdesc_flashlight">Lar appen kontrollere lommelykten.</string>
+     <string name="permdesc_fm">Allows the app to access FM radio to listen to programs.</string>
      <string name="permdesc_forceBack">Lar appen tvinge alle aktiviteter som kjører i forgrunnen til å lukkes og flyttes til bakgrunnen. Skal aldri være nødvendig for vanlige apper.</string>
      <string name="permdesc_forceStopPackages">Lar appen tvinge andre apper til å stoppe.</string>
      <string name="permdesc_frameStats">Gir appen tillatelse til å samle inn bildestatistikk. Skadelige apper kan observere bildestatistikken til vinduer i andre apper.</string>
@@ -1017,6 +1000,8 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permdesc_receiveWapPush">Lar appen motta og behandle WAP-meldinger. Dette betyr at appen kan overvåke eller slette meldinger som er sendt til deg uten at du har sett dem.</string>
      <string name="permdesc_recordAudio">Lar appen ta opp lyd med mikrofonen. Dette betyr at appen kan ta opp lyd når som helst uten at du har bedt om det.</string>
      <string name="permdesc_recovery">Tillater en app å samhandle med gjenopprettingsssystemet og systemoppdateringer.</string>
+     <string name="permdesc_register_call_provider">Allows the app to register new telecom connections.</string>
+     <string name="permdesc_register_sim_subscription">Allows the app to register new telecom SIM connections.</string>
      <string name="permdesc_removeDrmCertificates">Gir en app tillatelse til å fjerne sertifikater for digital rettighetsadministrasjon. Skal ikke være nødvendig for vanlige apper.</string>
      <string name="permdesc_removeTasks">Lar appen fjerne oppgaver og avslutte apper. Ondsinnede apper kan forstyrre atferden til andre apper.</string>
      <string name="permdesc_reorderTasks">Lar appen flytte oppgaver til forgrunnen eller bakgrunnen. Appen kan gjøre dette uten instruksjoner fra deg.</string>
@@ -1150,8 +1135,7 @@ Prøv på nytt om %d sekunder."</string>
      <string name="permission">Permission</string>
      <string name="permission_remember_choice">Remember</string>
      <string name="permission_request_notification_title">Tillatelse forespurt</string>
-     <string name="permission_request_notification_with_subtitle">"Tillatelse forespurt
-for kontoen %s."</string>
+     <string name="permission_request_notification_with_subtitle">"Tillatelse forespurtfor kontoen %s."</string>
      <string name="permlab_accessCoarseLocation">omtrentlig posisjon (nettverksbasert)</string>
      <string name="permlab_accessContentProvidersExternally">gå til innholdsleverandører eksternt</string>
      <string name="permlab_accessDrmCertificates">tilgang til DRM-sertifikater</string>
@@ -1179,6 +1163,7 @@ for kontoen %s."</string>
      <string name="permlab_backup">kontrollere sikkerhetskopiering og gjenoppretting</string>
      <string name="permlab_batteryStats">lese batteristatistikk</string>
      <string name="permlab_bindAccessibilityService">binde seg til en tilgjengelighetstjeneste</string>
+     <string name="permlab_bindCarrierMessagingService">bind to a carrier messaging service</string>
      <string name="permlab_bindConditionProviderService">binde seg til en leverandørtjeneste for betingelser</string>
      <string name="permlab_bindDeviceAdmin">kommunisere med enhetsadministrator</string>
      <string name="permlab_bindDreamService">binde til en drømmetjeneste</string>
@@ -1207,6 +1192,7 @@ for kontoen %s."</string>
      <string name="permlab_bluetoothPriv">tillate Bluetooth-sammenkobling av appen</string>
      <string name="permlab_bodySensors">kroppssensorer (som pulsmålere)</string>
      <string name="permlab_brick">deaktivere telefonen permanent</string>
+     <string name="permlab_broadcastNetworkPrivileged">send privileged network broadcasts</string>
      <string name="permlab_broadcastPackageRemoved">kringkaste melding om fjernet pakke</string>
      <string name="permlab_broadcastScoreNetworks">send score networks broadcast</string>
      <string name="permlab_broadcastSmsReceived">kringkaste melding om mottatt SMS</string>
@@ -1234,6 +1220,8 @@ for kontoen %s."</string>
      <string name="permlab_clearAppUserData">slette dataene til andre apper</string>
      <string name="permlab_configureWifiDisplay">konfigurere Wi-Fi-skjermer</string>
      <string name="permlab_confirm_full_backup">bekrefte en fullstendig sikkerhetskopi, eller gjenopprette driften</string>
+     <string name="permlab_connection_manager">manage telecom connections</string>
+     <string name="permlab_controlVpn">control Virtual Private Networks</string>
      <string name="permlab_controlWifiDisplay">kontrollere Wi-Fi-skjermer</string>
      <string name="permlab_control_incall_experience">levere en brukeropplevelse for innkommende anrop</string>
      <string name="permlab_control_keyguard">Kontrollér om tastelåsen er skjult eller vist</string>
@@ -1250,6 +1238,7 @@ for kontoen %s."</string>
      <string name="permlab_factoryTest">kjøre i fabrikktestmodus</string>
      <string name="permlab_filter_events">filtrere hendelser</string>
      <string name="permlab_flashlight">kontrollere lommelykten</string>
+     <string name="permlab_fm">access FM radio</string>
      <string name="permlab_forceBack">tvinge appen til å lukkes</string>
      <string name="permlab_forceStopPackages">tvinge andre apper til å stoppe</string>
      <string name="permlab_frameStats">hente bildestatistikk</string>
@@ -1333,6 +1322,8 @@ for kontoen %s."</string>
      <string name="permlab_receiveWapPush">motta tekstmeldinger (WAP)</string>
      <string name="permlab_recordAudio">ta opp lyd</string>
      <string name="permlab_recovery">Samhandling med oppdateringer og gjenopprettingssystem</string>
+     <string name="permlab_register_call_provider">register new telecom connections</string>
+     <string name="permlab_register_sim_subscription">register new telecom SIM connections</string>
      <string name="permlab_removeDrmCertificates">fjern sertifikater for digital rettighetsadministrasjon</string>
      <string name="permlab_removeTasks">avslutte apper som kjører</string>
      <string name="permlab_reorderTasks">Endre rekkefølge på apper som kjører</string>
@@ -1425,8 +1416,7 @@ for kontoen %s."</string>
      <string name="phoneTypeWork">Arbeid</string>
      <string name="phoneTypeWorkMobile">Mobil arbeid</string>
      <string name="phoneTypeWorkPager">Personsøker arbeid</string>
-     <string name="pinpuk_attempts">"
-Attempts Remaining :"</string>
+     <string name="pinpuk_attempts">"Attempts Remaining :"</string>
      <string name="policydesc_disableCamera">Hindre bruk av alle kameraer på enheten.</string>
      <string name="policydesc_disableKeyguardFeatures">Forhindre bruk av enkelte funksjoner når tastelåsen er på.</string>
      <string name="policydesc_encryptedStorage">Krev at lagrede appdata krypteres.</string>
@@ -1462,6 +1452,7 @@ Attempts Remaining :"</string>
      <string name="progress_erasing">Sletter USB-lagring …</string>
      <string name="progress_nomediapresent">No removable media present…</string>
      <string name="progress_unmounting">Kobler fra USB-lagringen …</string>
+     <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
      <string name="quick_contacts_not_available">Du har ingen apper som kan åpne denne kontakten.</string>
      <string name="radial_numbers_typeface">sans-serif</string>
      <string name="reason_service_unavailable">Utskriftstjenesten er ikke aktivert</string>
@@ -1522,8 +1513,7 @@ Attempts Remaining :"</string>
      <string name="roamingText9">Roaming – full tjenestefunksjonalitet</string>
      <string name="roamingTextSearching">Leter etter tjeneste</string>
      <string name="safeMode">Sikkermodus</string>
-     <string name="safe_media_volume_warning">"Vil du øke lydnivået over det anbefalte nivået?
-Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
+     <string name="safe_media_volume_warning">"Vil du øke lydnivået over det anbefalte nivået?Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="sans_serif">sans-serif</string>
      <string name="save_password_label">Bekreft</string>
      <string name="save_password_message">Ønsker du at nettleseren skal huske dette passordet?</string>
@@ -1535,6 +1525,7 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="screen_compat_mode_show">Vis alltid</string>
      <string name="screen_lock">Lås skjermen</string>
      <string name="search_go">Søk</string>
+     <string name="search_hint">Search…</string>
      <string name="searchview_description_clear">Slett søket</string>
      <string name="searchview_description_query">Søkeord</string>
      <string name="searchview_description_search">Søk</string>
@@ -1610,6 +1601,7 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="sms_short_code_remember_undo_instruction">Du kan endre dette senere i Innstillinger &gt; Apper</string>
      <string name="smv_application">Appen %1$s (prosessen %2$s) har brutt de selvpålagte StrictMode-retningslinjene.</string>
      <string name="smv_process">Prosessen%1$s har brutt de selvpålagte StrictMode-retningslinjene.</string>
+     <string name="ssl_ca_cert_noti_by_administrator">By your work profile administrator</string>
      <string name="ssl_ca_cert_noti_by_unknown">Av en ukjent tredjepart</string>
      <string name="ssl_ca_cert_noti_managed">Av %s</string>
      <string name="ssl_ca_cert_warning">Nettverket blir muligens overvåket</string>
@@ -1633,6 +1625,8 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="sync_too_many_deletes">Slettegrense overskredet</string>
      <string name="sync_too_many_deletes_desc">Det fins %1$d slettede elementer for %2$s for kontoen %3$s. Hva ønsker du å gjøre?</string>
      <string name="sync_undo_deletes">Opphev slettingene</string>
+     <string name="system_error_manufacturer">"There's an internal problem with your device. Contact your manufacturer for details."</string>
+     <string name="system_error_wipe_data">"There's an internal problem with your device, and it may be unstable until you factory data reset."</string>
      <string name="terabyteShort">TB</string>
      <string name="tethered_notification_message">Trykk for å konfigurere.</string>
      <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
@@ -1666,6 +1660,7 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="timepicker_text_size_multiplier_outer">0.11</string>
      <string name="timepicker_transition_end_radius_multiplier">1.3</string>
      <string name="timepicker_transition_mid_radius_multiplier">0.95</string>
+     <string name="toolbar_collapse_description">Collapse</string>
      <string name="transient_navigation_confirmation_long">Swipe from edge of screen to reveal system bar</string>
      <string name="turn_off_radio">Slå av trådløst nett</string>
      <string name="turn_on_radio">Slå på trådløst nett</string>
@@ -1725,9 +1720,7 @@ Et høyt lydnivå i lengre perioder kan skade hørselen din."</string>
      <string name="wallpaper_binding_label">Bakgrunnsbilde</string>
      <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
      <string name="web_user_agent_target_content">"Mobile "</string>
-     <string name="webpage_unresponsive">"Siden svarer ikke.
-
-Vil du lukke den?"</string>
+     <string name="webpage_unresponsive">"Siden svarer ikke.Vil du lukke den?"</string>
      <string name="websearch">Nettsøk</string>
      <string name="webviewchromium_accessibility_content_view">Nettvisning</string>
      <string name="webviewchromium_accessibility_date_picker_month">Måned</string>
@@ -1819,6 +1812,9 @@ Vil du lukke den?"</string>
      <string name="wifi_watchdog_network_disabled">Kan ikke koble til Wi-Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" har en dårlig Internett-tilkobling."</string>
      <string name="wireless_display_route_description">Trådløs skjerm</string>
+     <string name="work_profile_deleted">Work profile deleted</string>
+     <string name="work_profile_deleted_description">Work profile deleted due to missing admin app.</string>
+     <string name="work_profile_deleted_details">The work profile admin app is either missing or corrupted. As a result, your work profile and related data have been deleted. Contact your administrator for assistance.</string>
      <string name="write_fail_reason_cancelled">Kansellert</string>
      <string name="write_fail_reason_cannot_write">Feil under skriving av innhold</string>
      <string name="year">år</string>
@@ -1826,4 +1822,7 @@ Vil du lukke den?"</string>
      <string name="years">år</string>
      <string name="yes">OK</string>
      <string name="zen_mode_forever">På ubestemt tid</string>
+     <string name="zen_mode_next_alarm_line_one">Until next alarm</string>
+     <string name="zen_mode_next_alarm_summary">Until next alarm at %1$s</string>
+     <string name="zen_mode_until">Until %1$s</string>
 </resources>

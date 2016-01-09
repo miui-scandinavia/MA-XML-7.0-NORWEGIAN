@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_to_recover">Bare et sekund…</string>
-     <string name="app_name">Sikkerhetskopi av hjemskjerm</string>
+     <string name="app_name">Mi Cloud-sikkerhetskopi</string>
+     <string name="as_new_device">Bytt forrige hjemskjerm og innstillinger</string>
+     <string name="as_new_device_summary">Fjern forrige Mi Cloud-sikkerhetskopier</string>
      <string name="back_up_task_in_process">tar sikkerhetskopi</string>
      <string name="back_up_task_unfinished">sikkerhetskopi uferdig</string>
      <string name="backing_up_to_micloud">Tar sikkerhetskopi…</string>
-     <string name="backup_fail">Feil ved sikkerhetskopi av hjemskjerm-apper</string>
+     <string name="backup_fail">"Kunne ikke sikkerhetskopiere"</string>
      <string name="backup_size">Størrelse: %s</string>
      <string name="backup_success">Sikkerhetskopi av hjemskjerm-apper fullført</string>
      <string name="backup_to_cloud">Sikkerhetskopier app</string>
@@ -15,11 +17,11 @@
      <string name="button_next">Neste</string>
      <string name="cancel_recover_settings">&lt;u&gt;Avbryt&lt;/u&gt;</string>
      <string name="click_try_to_restore_again">Trykk for å prøve igjen</string>
-     <string name="cloud_app_backup_success">App-sikkerhetskopi ferdig</string>
+     <string name="cloud_app_backup_success">Sikkerhetskopiering fullført</string>
      <string name="cloud_app_check_data">Snakker med Mi Cloud…</string>
      <string name="cloud_app_current_device">Gjeldende enhet</string>
      <string name="cloud_app_dont_restore">"Ikke gjenopprett"</string>
-     <string name="cloud_app_no_data">Ingen hjemskjerm og apper</string>
+     <string name="cloud_app_no_data">Ingen sikkerhetskopier</string>
      <string name="cloud_app_no_network">"Kunne ikke koble til nettverket"</string>
      <string name="cloud_app_other_devices">Andre enheter</string>
      <string name="cloud_app_restore_app_and_data">Gjenopprett skrivebordslayout og apper</string>
@@ -27,10 +29,33 @@
      <string name="cloud_app_restore_error">"Kunne ikke gjenopprette"</string>
      <string name="cloud_app_restore_success">Apper gjenopprettet</string>
      <string name="cloud_app_restore_wifi_prompt">For å gjenopprette dine apper, koble til et Wi-Fi-nettverk.</string>
+     <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
+     <string name="cloud_back_up_detail_discription">"Disse elmentene vil bli sikkerhetskopiert til Mi Cloud når enheten er tilkoblet Wi-Fi: *\u0009\u0009\u0009\u0009Apps, Hjemskjerm-layout, bakgrunner, *\u0009\u0009\u0009\u0009alarmer, klokke- og tidsinnstillinger, *\u0009\u0009\u0009\u0009Varslingsinnstillinger *\u0009\u0009\u0009\u0009MIUI og systeminnstillinger Notat: Data for apper du har installert vil ikke bli sikkerhetskopiert til Mi Cloud."</string>
+     <string name="cloud_back_up_frequence_choice_title">Tidsplan for sikkerhetskopiering</string>
+     <string name="cloud_back_up_frequence_long">Hver 7. dag</string>
+     <string name="cloud_back_up_frequence_short">Hver dag </string>
+     <string name="cloud_back_up_interval_long">7 dager</string>
+     <string name="cloud_back_up_interval_short">Hver dag</string>
+     <string name="cloud_back_up_no_network_warn">"Kan ikke koble til nettverket"</string>
+     <string name="cloud_back_up_ok_btn">OK</string>
+     <string name="cloud_back_up_opening">Bare et sekund…</string>
+     <string name="cloud_back_up_share_activity_confirm">Oppgrader</string>
+     <string name="cloud_back_up_share_activity_discription">Få mer lagringsplass, daglige sikkerhetskopier og mer.</string>
+     <string name="cloud_back_up_share_activity_title">Oppgrader Mi-konto</string>
      <string name="cloud_back_up_task">sikkerhetskopier</string>
+     <string name="cloud_backup_detail_frequence">Tidsplan for sikkerhetskopi</string>
+     <string name="cloud_backup_detail_frequence_day">%1$s sikkerhetskopiér en gang</string>
+     <string name="cloud_backup_detail_manage">Håndter sikkerhetskopier</string>
+     <string name="cloud_backup_detail_manage_summary">%1$s sikkerhetskopier, størrelse: %2$s</string>
+     <string name="cloud_backup_detail_state">Mi Cloud-sikkerhetskopi</string>
+     <string name="cloud_backup_detail_state_summary">Apper, hjemskjerm og system-innstillinger</string>
+     <string name="cloud_backup_detail_time">, sikkerhetskopitid:%1$s</string>
      <string name="cloud_restore_from_other_device">Gjenoppretting av %s pågår, sletting av sikkerhetskopien av denne vil avbryte oppgaven. Er du sikker på at du vil gjøre dette?</string>
      <string name="cloud_restore_task">gjenopprett</string>
      <string name="cloud_task_in_process">Det er en %s-oppgave kjørende! Sletting av sikkerhetskopi av gjeldende enhet vil avbryte denne oppgaven. Er du sikker på at du vil gjøre dette?</string>
+     <string name="confirm_restore">Restore</string>
+     <string name="confirm_restore_summary">Hjem-skjermen vil starte på nytt og apper vil bli lastet ned automatisk når du er koblet til Wi-Fi</string>
+     <string name="confirm_restore_title">Gjenopprett</string>
      <string name="customization">&lt;u&gt;Tilpass&lt;/u&gt;</string>
      <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
      <string name="deskclock_backup">Alarmklokke</string>
@@ -58,6 +83,9 @@
      <string name="open_wifi_description">Koble til et Wi-Fi-nettverk for å gjenopprette app</string>
      <string name="open_wifi_setting">Wi-Fi-innstillinger</string>
      <string name="process_whole_recovery">Gjenoppretter \"%s\"</string>
+     <string name="query_restore_back_view">Mi Cloud-sikkerhetskopi</string>
+     <string name="query_restore_description">Gjenopprett hjemskjerm-apper og innstillinger med denne sikkerhetskopien. Dette vil overskrive app-data for dupliserte apper som allerede er installert på denne enheten. Apper ikke inkludert i sikkerhetskopien vil bli flyttet til den siste hjemskjermen.</string>
+     <string name="query_restore_summary">Fant en Mi Cloud-backup for denne enheten. Gjenopprett hjemskjerm-apper og innstillinger eller bruk den som en ny enhet og fjern tidligere sikkerhetskopier fra Mi Cloud?</string>
      <string name="recover_from_micloud">Gjenopprett med Mi Cloud</string>
      <string name="recover_home_settings">Gjenopprett hjemskjerm-innstillinger</string>
      <string name="recover_miui_settings">Gjenopprett MIUI-systeminnstililnger</string>
@@ -65,14 +93,18 @@
      <string name="recover_settings_description">Hold enheten skrudd på</string>
      <string name="recovering">Gjenoppretter %s</string>
      <string name="remove_task_in_process">fjerner</string>
-     <string name="remove_task_unfinished">remove unfinished</string>
+     <string name="remove_task_unfinished">Fjerning uferdig</string>
+     <string name="restore_data_summary">Denne funksjonen krever en internett-forbindelse.</string>
      <string name="restore_from_cloud">Gjenopprett fra Mi Cloud</string>
+     <string name="restore_from_this_device">Gjenopprett fra denne sikkerhetskopien</string>
+     <string name="restore_home_screen_apps">Gjenopprett fra Mi Cloud-sikkerhetskopi</string>
      <string name="restoreing_file_tile">Gjenoppretter %d filer</string>
      <string name="retry">Prøv igjen</string>
      <string name="self_phone">Denne telefonen</string>
      <string name="settings_backup">Systeminnstillinger</string>
      <string name="start_backup_to_micloud">Sikkerhetskopier apper til Mi Cloud</string>
      <string name="start_recover">Gjenopprett %s</string>
+     <string name="success_open_cloudbackup">Slått på sikkerhetskopier for hjemskjerm-apper</string>
      <string name="wait_icon_download">Later ned app-ikon</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

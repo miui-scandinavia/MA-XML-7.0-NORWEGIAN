@@ -17,8 +17,8 @@
      <string name="copy">Kopier</string>
      <string name="cut">Kutt</string>
      <string name="default_name">Standard</string>
-     <string name="enable_livetalk_summary">¥ 0.05 per minutt for nasjonale samtaler</string>
-     <string name="enable_livetalk_title">Turn on Top-up package</string>
+     <string name="enable_livetalk_summary">Spar 70% på ringeutgifter</string>
+     <string name="enable_livetalk_title">Skru på oppfyllingspakke</string>
      <string name="fc_dialog_body">Send feilrapport til Mi for analyse? Denne rapportern kan inneholde personlig identifiserbar informasjon. Rapporten vil bli brukt til å hjelpe fiksing av denne feilen og vil ikke bli delt i noen kommersiell sammenheng.</string>
      <string name="fc_dialog_jump_to_preview">Vis sammendraget</string>
      <string name="first_back_long_press_message">"Trykk og hold Tilbake-knappen for å drepe den gjeldende prosessen og dens bakgrunnstjenester.

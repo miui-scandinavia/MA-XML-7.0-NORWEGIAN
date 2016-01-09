@@ -163,8 +163,6 @@
      <string name="cache_title_system_cache">System-mellomlagring</string>
      <string name="call_and_contact">Anrop og kontakter</string>
      <string name="cancel">Avbryt</string>
-     <string name="category_key_power_usage_details">key_power_usage_details</string>
-     <string name="category_key_power_usage_packages">key_power_usage_packages</string>
      <string name="clean_content_all">Alt</string>
      <string name="clean_content_one">%s</string>
      <string name="clean_content_three">Hopp over %s</string>
@@ -175,6 +173,7 @@
      <string name="cmcc_app_check_dialog_positive">Omstart nå</string>
      <string name="cmcc_app_check_dialog_title">System reparert</string>
      <string name="confirm_auto_cleaner">OK</string>
+     <string name="confirm_reject_all_permission">Forhindre alle apper fra å bruke denne funksjonen?</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Avbryt</string>
      <string name="cta_checkbox_title">"Ikke vis igjen"</string>
@@ -649,6 +648,7 @@
      <string name="protection_category_dangerous_title">Riskoer (%d)</string>
      <string name="protection_category_recommend_title">Anbefalte endringer (%d)</string>
      <string name="protection_category_security_title">Tøm (%d)</string>
+     <string name="reject_all">Forhindre alle</string>
      <string name="risk_list_header_title">%d mistenkelige apper oppdaget</string>
      <string name="root_apply_step_1">Gi %s rottilgang?</string>
      <string name="root_apply_step_2">Å gi apper rottilgang kan gjøre enheten din ustabil.</string>

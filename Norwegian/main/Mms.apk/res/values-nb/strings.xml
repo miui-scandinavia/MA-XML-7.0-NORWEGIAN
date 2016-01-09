@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_phone">Bare telefon (usynkronisert)</string>
      <string name="action_firewall_setting">Blokkeringliste</string>
@@ -295,8 +295,7 @@
      <string name="expand_collapse_name_fields_description">Vis eller skjul navnefelt</string>
      <string name="expire_on">Utløper: %s</string>
      <string name="export_to_sdcard">Eksporter til lagring</string>
-     <string name="exporting_contact_failed_message">"Kontaktdataene ble ikke eksportert.
-Årsak: %s"</string>
+     <string name="exporting_contact_failed_message">"Kontaktdataene ble ikke eksportert.Årsak: %s"</string>
      <string name="exporting_contact_failed_title">Eksporten mislyktes</string>
      <string name="exporting_contact_list_message">Kontaktdataene dine eksporteres til: %s.</string>
      <string name="exporting_contact_list_title">Eksporterer kontaktdata</string>
@@ -769,7 +768,7 @@
      <string name="search_show_more_results">Vis flere</string>
      <string name="searching_vcard_message">Søker etter vCard-data i lagringsenheten …</string>
      <string name="secs">sek</string>
-     <string name="security_alert_desc"><u><font color="red">Denne avsenderen finnes ikke i din kontakter.</font></u></string>
+     <string name="security_alert_desc">&lt;u&gt;&lt;font color="red"&gt;Denne avsenderen finnes ikke i din kontakter.&lt;/font&gt;&lt;/u&gt;</string>
      <string name="security_alert_desc_highlight">Rapportér dette nummeret</string>
      <string name="security_alert_dialog_desc">Send dette nummeret (%s) og meldingen til Xiaomi for godkjennelse.</string>
      <string name="security_alert_dialog_title">Rapporter</string>
@@ -781,6 +780,7 @@
      <string name="select_link_title">Velg handling</string>
      <string name="select_local_audio">Velg lokal lydfil</string>
      <string name="select_local_video">Velg lokal video</string>
+     <string name="select_message_send_sim">Velg SIM-kort</string>
      <string name="select_recipient">Velg mottaker</string>
      <string name="select_top_text">Tekst på toppen</string>
      <string name="select_vcard_title">Velg vCard-fil</string>

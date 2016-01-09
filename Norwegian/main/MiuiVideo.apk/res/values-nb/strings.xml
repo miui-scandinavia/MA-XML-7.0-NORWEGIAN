@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Om</string>
      <string name="about_app_name">Videoavspiller</string>
@@ -48,6 +48,7 @@
      <string name="app_plugin_ready">%1$s-komponent er klar</string>
      <string name="app_recommend">Utvalgte</string>
      <string name="app_update_background">Oppdater programmet i bakgrunnen</string>
+     <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
      <string name="app_upgrade_title">Mi Video er alleeredeo oppgradert til nyeste versjon.</string>
      <string name="app_upgrade_version">Ny versjon</string>
      <string name="app_version">Programversjon</string>
@@ -134,11 +135,7 @@
      <string name="debug_mode_desc">Kjøper app i feilsøkingsmodus og vis video-ID i venstre hjørne på toppen av skjermen.</string>
      <string name="declaration">Vilkår for bruk</string>
      <string name="declaration_allow">Godkjenn</string>
-     <string name="declaration_content">"1. Ved å bruke denne tjenesten, godkjenner du Sohu Video, iQiyi og andre tjenestetilbydere sine "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt;
-     2. Hjelpe til med å forbedre denne tjenesten, ved å automatisk sende diagnostikk og bruksdata til Xiaomi.
-     3. Vårt tillegg for HD-video vil bli automatisk installert.
-     4. Denne tjenesten krever en internettforbindelse for å fungere skikkelig.
-     "</string>
+     <string name="declaration_content">"1. Ved å bruke denne tjenesten, godkjenner du Sohu Video, iQiyi og andre tjenestetilbydere sine "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Vilkår for bruk&lt;/a&gt;     2. Hjelpe til med å forbedre denne tjenesten, ved å automatisk sende diagnostikk og bruksdata til Xiaomi.     3. Vårt tillegg for HD-video vil bli automatisk installert.     4. Denne tjenesten krever en internettforbindelse for å fungere skikkelig.     "</string>
      <string name="declaration_content_td_custom">Tillater du at vi kobler til internettet når du bruker video?</string>
      <string name="defaults">Standard</string>
      <string name="delete">Slett</string>
@@ -181,6 +178,7 @@
      <string name="download_start_message">%1$s-komponent vil bli lastet ned og installert</string>
      <string name="download_task_with">%d oppgaver</string>
      <string name="download_url_waiting">Venter på henting av url</string>
+     <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
      <string name="download_with">Laster ned %1$s/%2$s</string>
      <string name="downloading_app_plugin">Laster ned %1$s-komponent</string>
      <string name="edit">Endre</string>
@@ -399,6 +397,8 @@
      <string name="search_result_empty_text">"Kan ikke finne noenting"</string>
      <string name="search_result_hint">%s  resultater</string>
      <string name="search_result_input_hint">Søk</string>
+     <string name="search_snack_more">Mer informasjon</string>
+     <string name="search_snack_sniff">Sniffing Download</string>
      <string name="second"> Sekund</string>
      <string name="see_all">Se alle</string>
      <string name="see_all_count_comment">%d fler kommentarer</string>
@@ -419,6 +419,7 @@
      <string name="share_device">Delt enhet</string>
      <string name="similar">Lignende</string>
      <string name="sina">Sina</string>
+     <string name="sniff">Sniff</string>
      <string name="souhu">Souhu</string>
      <string name="source_error">"Kan ikke finne kilde"</string>
      <string name="star1">1 stjerne</string>
@@ -529,6 +530,7 @@
      <string name="vp_download_apk_from_video_ad">Installer</string>
      <string name="vp_download_connect_fail">"Kunne ikke finne URL. Sjekk datatilkoblingen og prøv igjen</string>
      <string name="vp_download_file_fail">"Kunne ikke laste ned fil. Vær sikker på at du har nok lagringsplass på enhetens internlager eller SD-kort."</string>
+     <string name="vp_downloading_apk_title">Laster ned %1$s</string>
      <string name="vp_exit">Avslutt</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_full_screen">Fullskjermsavspilning</string>
@@ -560,6 +562,7 @@
      <string name="vp_mplayer_error_timed_out">Operasjon tidsavbrutt</string>
      <string name="vp_newest_ep">Seneste</string>
      <string name="vp_next_ci">Neste</string>
+     <string name="vp_notify_apk_installed">Programmet %1$s ble installert</string>
      <string name="vp_offline">Offline</string>
      <string name="vp_offline_status_done">Ferdig</string>
      <string name="vp_offline_status_dowloading">Laster ned</string>

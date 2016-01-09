@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept_modify_call_request_prompt">Aksepter forspørrsel om anropsmodifisering?</string>
      <string name="accessibility_bluetooth_headset_selected">Bluetooth headset selected</string>
@@ -101,23 +101,27 @@
      <string name="cancel">Avbryt</string>
      <string name="cancel_call">Legg på</string>
      <string name="card_title_call_ended">Anrop avsluttet</string>
-     <string name="card_title_callback_number">"Ditt nummer for tilbakeringing
- %1$s"</string>
-     <string name="card_title_callback_number_emergency">"Ditt nødnummer for tilbakeringing
- %1$s"</string>
+     <string name="card_title_callback_number">"Ditt nummer for tilbakeringing %1$s"</string>
+     <string name="card_title_callback_number_emergency">"Ditt nødnummer for tilbakeringing %1$s"</string>
      <string name="card_title_conf_call">Konferanseanrop</string>
      <string name="card_title_dialing">Ringer</string>
      <string name="card_title_hanging_up">"Legger på "</string>
      <string name="card_title_in_call">I samtale </string>
      <string name="card_title_in_call_short">I samtale</string>
      <string name="card_title_incoming_call">Innkommende anrop</string>
+     <string name="card_title_incoming_conference_call">Incoming conference call</string>
      <string name="card_title_my_phone_number">Mitt nummer er %s</string>
      <string name="card_title_on_hold">"På vent "</string>
      <string name="card_title_redialing">Prøver igjen</string>
      <string name="card_title_threeway_call">Three-way call</string>
+     <string name="card_title_upgrade_video_call_error">"Couldn't update video"</string>
+     <string name="card_title_upgrade_video_call_rejected_by_remote">"Couldn't update video"</string>
+     <string name="card_title_upgrade_video_call_requesting">Requesting video</string>
+     <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
      <string name="card_title_video_call">Video call</string>
      <string name="card_title_video_call_connecting">Kobler til video</string>
      <string name="card_title_video_call_error">Kan ikke koble til videoanrop</string>
+     <string name="card_title_video_call_paused">Video paused</string>
      <string name="card_title_video_call_requesting">Ber om video</string>
      <string name="cb_sms_settings">Innstillinger for kringkastings-SMS</string>
      <string name="cdma_activate_device">Aktiver enhet</string>
@@ -140,6 +144,8 @@
      <string name="confCall">Konferanseanrop</string>
      <string name="conference_call_description" formatted="false">%s,%s etc. totalt %s</string>
      <string name="conference_call_number">%s personer</string>
+     <string name="conference_caller_info_name">"%1$s's conference call"</string>
+     <string name="conference_caller_name_me">Me</string>
      <string name="confirmPin2Label">Bekreft ny PIN2</string>
      <string name="confirmPinLabel">Bekreft ny PIN</string>
      <string name="connect_later">Kan ikke koble til dette nettverket akkurat nå. Prøv på nytt senere.</string>
@@ -276,10 +282,8 @@
      <string name="fraud_call_answer">Besvar</string>
      <string name="fraud_call_decline">Avslå</string>
      <string name="fraud_call_waring">Vær forsiktig: Du bør alltid sjekke identiteten til dine kontakter via telefon eller video før du utgir personlig informasjon.</string>
-     <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.
-Kontakt operatøren hvis dette problemet vedvarer."</string>
-     <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.
-Vil du likevel bytte til den nye leverandøren?"</string>
+     <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.Kontakt operatøren hvis dette problemet vedvarer."</string>
+     <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="general_news_settings">Generelle nyheter</string>
      <string name="get_pin2">Skriv inn PIN2</string>
      <string name="goPrivate">go private</string>
@@ -306,6 +310,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
      <string name="incall_error_supp_service_unknown">Ustøttet tjeneste.</string>
      <string name="incall_status_dialed_mmi">Begynner MMI-sekvens…</string>
+     <string name="incoming_answer_voice_text">Voice answer</string>
      <string name="incoming_call_forwarded_title">Viderekobl innkommende samtaler</string>
      <string name="incoming_via_template">Innkommende via %s</string>
      <string name="international_disable">Verdensnyheter deaktivert</string>
@@ -346,7 +351,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="list_language_dtitle">Språk</string>
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
-     <string name="livetalk_dial">Using Refueling Package</string>
+     <string name="livetalk_dial">Bruker oppfyllingspakke</string>
      <string name="livetalk_left_minute">%s min gjenstående</string>
      <string name="livetalk_provider_info">Tilbudt av %s</string>
      <string name="livetalk_waiting">Venter…</string>
@@ -374,8 +379,7 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="mismatchPin">"PIN-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mismatchPin2">"PIN2-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
-     <string name="modify_call_failure_str">"Modify Call request failed
-"</string>
+     <string name="modify_call_failure_str">"Modify Call request failed"</string>
      <string name="modify_call_option_title">Type anrop??</string>
      <string name="modify_call_option_voice">Kun stemme</string>
      <string name="modify_call_option_vt">VT</string>
@@ -473,6 +477,9 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="onscreen_audio_mode_speaker">Høyttaler</string>
      <string name="onscreen_audio_switch_mode">Bytt lyd</string>
      <string name="onscreen_call_record">Ta opp</string>
+     <string name="onscreen_change_to_video">Video call</string>
+     <string name="onscreen_change_to_voice">Voice call</string>
+     <string name="onscreen_close_preview_camera">Close camera</string>
      <string name="onscreen_dialer">Tastatur</string>
      <string name="onscreen_end_call_text">Legg på</string>
      <string name="onscreen_hold_text">Vent</string>
@@ -480,9 +487,11 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="onscreen_merge_calls_text">Flett anrop</string>
      <string name="onscreen_mute_text">Demp</string>
      <string name="onscreen_note_text">Notis</string>
+     <string name="onscreen_rcs_text">Messages</string>
      <string name="onscreen_send_flash_text">Flash</string>
      <string name="onscreen_speaker_text">Høyttaler</string>
      <string name="onscreen_swap_calls_text">Bytt</string>
+     <string name="onscreen_switch_camera">Switch camera</string>
      <string name="onscreen_tools_off">Verktøy</string>
      <string name="onscreen_tools_on">Verktøy</string>
      <string name="optional_summary">&lt;Valgfritt&gt;</string>
@@ -501,14 +510,9 @@ Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="ota_title_activate">Aktiver telefonen din</string>
      <string name="ota_title_activate_success">Telefonen er aktivert.</string>
      <string name="ota_title_problem_with_activation">Problemer med aktivering</string>
-     <string name="ota_touch_activate">"Det må foretas en spesifikk oppringning for at telefontjenesten skal aktiveres.
-
-Trykk «Aktiver», og lytt deretter til instruksjonene for å aktivere telefonen."</string>
+     <string name="ota_touch_activate">"Det må foretas en spesifikk oppringning for at telefontjenesten skal aktiveres.Trykk «Aktiver», og lytt deretter til instruksjonene for å aktivere telefonen."</string>
      <string name="ota_try_again">Prøv igjen</string>
-     <string name="ota_unsuccessful">"Telefonen ble ikke aktivert.
-Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).
-
-Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
+     <string name="ota_unsuccessful">"Telefonen ble ikke aktivert.Prøv å finne et område med bedre dekning (ved et vindu eller utendørs).Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
      <string name="overflowAddMenuItemText">Add call</string>
      <string name="overflowHoldMenuItemText">Hold call</string>
@@ -518,8 +522,7 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="password">Password</string>
      <string name="password_title">Passord</string>
      <string name="pause_prompt_no">Nei</string>
-     <string name="pause_prompt_str">"Sender toner
-"</string>
+     <string name="pause_prompt_str">"Sender toner"</string>
      <string name="pause_prompt_yes">Ja</string>
      <string name="payphone">Telefonkiosk</string>
      <string name="phoneAppLabel">Telefon</string>
@@ -529,6 +532,7 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="phone_info_divider">" ｜ "</string>
      <string name="pick_outgoing_call_phone_type">Foreta anrop</string>
      <string name="pick_outgoing_sip_phone">Bruk konto for Internett-anrop:</string>
+     <string name="picking_participant">Getting contact info…</string>
      <string name="pin2_changed">Personlig kode (PIN2) er endret</string>
      <string name="pin2_invalid">FDN er ikke oppdatert fordi du skrev inn feil PIN-kode.</string>
      <string name="pin2_or_fdn_invalid">"FDN er ikke oppdaterrt. PIN2 var feil eller telefonnummeret ble avlsått."</string>
@@ -693,19 +697,16 @@ Prøv på nytt, eller ring kundetjenesten for å få flere alternativer."</strin
      <string name="technology_news_enable">Teknologinyheter aktivert</string>
      <string name="third_party_account_summary">Denne kontoen er for øyeblikket i bruk av appen %s.</string>
      <string name="throttle_current_usage">Data som er brukt i inneværende periode</string>
-     <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded
-Data rate reduced to %2$d Kb/s"</string>
+     <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceededData rate reduced to %2$d Kb/s"</string>
      <string name="throttle_data_usage">Databruk</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) av %3$s periodens maksimum</string>
      <string name="throttle_help">Les mer</string>
      <string name="throttle_help_subtext">"Mer informasjon om nettverksleverandørens politikk på bruk av mobildata"</string>
      <string name="throttle_rate">Retningslinjer for datahastighet</string>
      <string name="throttle_rate_subtext">Datahastigjet reduseres til %1$d Kb/s om databruken overskrides</string>
-     <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s periodens maksimum
-Neste periode starter om %4$d dager (%5$s)"</string>
+     <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s periodens maksimumNeste periode starter om %4$d dager (%5$s)"</string>
      <string name="throttle_time_frame">Databrukperiode</string>
-     <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)"</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsedNext period starts in %2$d days (%3$s)"</string>
      <string name="transport">Protocol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
@@ -722,8 +723,9 @@ Next period starts in %2$d days (%3$s)"</string>
      <string name="username">UserName</string>
      <string name="username_title">Brukernavn</string>
      <string name="vibrate_on_ring_title">Vibrering når det ringer</string>
-     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.
-Kontakt operatøren din hvis dette problemet vedvarer."</string>
+     <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
+     <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
+     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="vm_changed">Telefonsvarernummeret ble endret.</string>
      <string name="voice_privacy">Personvern for Google Voice</string>
      <string name="voice_privacy_summary">Aktiver forbedret personvern</string>
@@ -737,10 +739,8 @@ Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="voicemail_provider">Tjeneste</string>
      <string name="voicemail_settings">Konfigurering</string>
      <string name="voicemail_settings_number_label">Mobilsvar-nummer</string>
-     <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
-"</string>
-     <string name="wait_prompt_str">"Sende følgende toner?
-"</string>
+     <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE"</string>
+     <string name="wait_prompt_str">"Sende følgende toner?"</string>
      <string name="waiting_close_airplane_mode">Bare et sekund…</string>
      <string name="wild_prompt_str">Bytt ut stjerne med</string>
 </resources>

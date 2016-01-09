@@ -3,9 +3,9 @@
 <resources>
      <string-array name="apk_clean_menu">
         <item>Rydd opp</item>
-        <item>Fil</item>
-        <item>Unntak</item>
-        <item>Installer</item>
+        <item>"Vis APKens plassering"</item>
+        <item>Legg til i unntak</item>
+        <item>Installer denne APKen</item>
      </string-array>
      <string-array name="app_clean_menu">
         <item>Avinstaller</item>
@@ -38,8 +38,8 @@
         <item>Vis etter</item>
      </string-array>
      <string-array name="cache_clean_menu">
-        <item>Rydd opp</item>
-        <item>Fil</item>
+        <item>Rydd opp denne filen</item>
+        <item>"Vis filens plassering"</item>
         <item>Legg fil i unntak</item>
         <item>Legg app i unntak</item>
      </string-array>
@@ -59,8 +59,8 @@
         <item>Navn</item>
      </string-array>
      <string-array name="trash_clean_menu">
-        <item>Rydd opp</item>
-        <item>Fil</item>
+        <item>Rydd opp denne filen</item>
+        <item>"Vis filens plassering"</item>
         <item>Legg fil i unntak</item>
      </string-array>
 </resources>

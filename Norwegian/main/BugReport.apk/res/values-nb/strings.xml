@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Avbryt</string>
      <string name="action_confirm">Velg</string>
@@ -63,6 +63,7 @@
      <string name="loading_apps">Laster liste…</string>
      <string name="loading_hot_problem">Laster…</string>
      <string name="loading_problem_list">Laster liste…</string>
+     <string name="logo_title">Feilrapport-senter</string>
      <string name="menu_attach_screenshot">Legg ved skjermbilde</string>
      <string name="menu_copy">Kopier</string>
      <string name="menu_discard">Slett</string>
