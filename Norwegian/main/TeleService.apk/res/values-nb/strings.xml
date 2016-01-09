@@ -644,7 +644,7 @@
      <string name="livetalk_provision">Vilkår for bruk</string>
      <string name="livetalk_provision_checkbox">Aksepter tjenestevilkår</string>
      <string name="livetalk_provision_second">, og trenger å koble til Internett for å fungere normalt.</string>
-     <string name="livetalk_service_and_short_number_not_support">Tjenestenumre og korte tall støttes ikke.string>
+     <string name="livetalk_service_and_short_number_not_support">Tjenestenumre og korte tall støttes ikke.</string>
      <string name="livetalk_setting">Innstillinger for oppfylling</string>
      <string name="livetalk_sim_card_not_activated">"Dette kortet er ikke aktivert"</string>
      <string name="livetalk_unavaiable_info">Denne tjenesten er utilgjengelig</string>
