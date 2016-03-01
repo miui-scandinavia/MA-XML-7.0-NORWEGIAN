@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="accept_modify_call_request_prompt">Aksepter forspørrsel om anropsmodifisering?</string>
      <string name="accessibility_bluetooth_headset_selected">Bluetooth headset selected</string>
      <string name="accessibility_call_muted">Samtalelyd er kuttet.</string>
-     <string name="accessibility_call_put_on_hold">Call put on hold.</string>
-     <string name="accessibility_call_removed_from_hold">Call removed from hold.</string>
-     <string name="accessibility_call_unmuted">Call unmuted.</string>
+     <string name="accessibility_call_put_on_hold">Samtale satt på vent.</string>
+     <string name="accessibility_call_removed_from_hold">Samtale fjernet fra vent.</string>
+     <string name="accessibility_call_unmuted">Samtalelyd ikke dempet.</string>
      <string name="accessibility_earpiece_selected">Earpiece selected</string>
      <string name="accessibility_speakerphone_enabled">Høyttaler er aktivert.</string>
-     <string name="accessibility_speakerphone_selected">Speakerphone selected</string>
-     <string name="accessibility_wired_headset_selected">Wired headset selected</string>
+     <string name="accessibility_speakerphone_selected">Høyttaler valgt</string>
+     <string name="accessibility_wired_headset_selected">Kablet headset er valgt</string>
      <string name="add_fdn_contact">Legg til programmert telefonnummer</string>
      <string name="add_sip_account">Legg til konto</string>
      <string name="add_vm_number_str">Legg til nummer</string>
@@ -31,7 +31,7 @@
      <string name="alert_dialog_no">Nei</string>
      <string name="alert_dialog_ok">OK</string>
      <string name="alert_dialog_yes">Ja</string>
-     <string name="antispam_marked_count">Rapportert avy %1$d MIUI brukere</string>
+     <string name="antispam_marked_count">Rapportert av %1$d MIUI brukere</string>
      <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Ukjent nummer</string>
      <string name="antispam_provider">Identifisert av %s</string>
@@ -109,16 +109,16 @@
      <string name="card_title_in_call">I samtale </string>
      <string name="card_title_in_call_short">I samtale</string>
      <string name="card_title_incoming_call">Innkommende anrop</string>
-     <string name="card_title_incoming_conference_call">Incoming conference call</string>
+     <string name="card_title_incoming_conference_call">Innkommende konferanseanrop</string>
      <string name="card_title_my_phone_number">Mitt nummer er %s</string>
      <string name="card_title_on_hold">"På vent "</string>
      <string name="card_title_redialing">Prøver igjen</string>
-     <string name="card_title_threeway_call">Three-way call</string>
-     <string name="card_title_upgrade_video_call_error">"Couldn't update video"</string>
-     <string name="card_title_upgrade_video_call_rejected_by_remote">"Couldn't update video"</string>
-     <string name="card_title_upgrade_video_call_requesting">Requesting video</string>
-     <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
-     <string name="card_title_video_call">Video call</string>
+     <string name="card_title_threeway_call">Tre-veis samtale</string>
+     <string name="card_title_upgrade_video_call_error">"Kunne ikke oppdatere video"</string>
+     <string name="card_title_upgrade_video_call_rejected_by_remote">"Kunne ikke oppdatere video"</string>
+     <string name="card_title_upgrade_video_call_requesting">Henter video …</string>
+     <string name="card_title_upgrade_video_call_timed_out">"Kunne ikke oppdatere video"</string>
+     <string name="card_title_video_call">Videoanrop</string>
      <string name="card_title_video_call_connecting">Kobler til video</string>
      <string name="card_title_video_call_error">Kan ikke koble til videoanrop</string>
      <string name="card_title_video_call_paused">Video paused</string>
@@ -142,9 +142,10 @@
      <string name="close_dialog">OK</string>
      <string name="close_profile">Lukk</string>
      <string name="confCall">Konferanseanrop</string>
-     <string name="conference_call_description" formatted="false">%s,%s etc. totalt %s</string>
+     <string name="conference_call_description" formatted="false">%s,%s osv. totalt %s</string>
      <string name="conference_call_number">%s personer</string>
-     <string name="conference_caller_info_name">"%1$s's conference call"</string>
+     <string name="conference_call_single_description" formatted="false">%s osv. totalt %s</string>
+     <string name="conference_caller_info_name">"%1$s sitt konferanseanrop"</string>
      <string name="conference_caller_name_me">Me</string>
      <string name="confirmPin2Label">Bekreft ny PIN2</string>
      <string name="confirmPinLabel">Bekreft ny PIN</string>
@@ -477,9 +478,9 @@
      <string name="onscreen_audio_mode_speaker">Høyttaler</string>
      <string name="onscreen_audio_switch_mode">Bytt lyd</string>
      <string name="onscreen_call_record">Ta opp</string>
-     <string name="onscreen_change_to_video">Video call</string>
-     <string name="onscreen_change_to_voice">Voice call</string>
-     <string name="onscreen_close_preview_camera">Close camera</string>
+     <string name="onscreen_change_to_video">Videosamtale</string>
+     <string name="onscreen_change_to_voice">Talesamtale</string>
+     <string name="onscreen_close_preview_camera">Lukk Kamera</string>
      <string name="onscreen_dialer">Tastatur</string>
      <string name="onscreen_end_call_text">Legg på</string>
      <string name="onscreen_hold_text">Vent</string>
@@ -620,8 +621,9 @@
      <string name="saving_account">Lagrer konto …</string>
      <string name="search_networks">Søk i nettverk</string>
      <string name="selectContact">velg kontakt</string>
-     <string name="select_account_dialog_title">Select Account</string>
+     <string name="select_account_dialog_title">Velg konto</string>
      <string name="select_automatically">Velg automatisk</string>
+     <string name="select_sim_hint">"Kan ikke bruke SIM %2$d, når SIM %1$d er i bruk."</string>
      <string name="select_voice_call_sim">Velg SIM-kort</string>
      <string name="send_button">Send</string>
      <string name="send_keepalive">SendKeepAlive</string>
@@ -706,8 +708,8 @@
      <string name="throttle_rate_subtext">Datahastigjet reduseres til %1$d Kb/s om databruken overskrides</string>
      <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s periodens maksimumNeste periode starter om %4$d dager (%5$s)"</string>
      <string name="throttle_time_frame">Databrukperiode</string>
-     <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsedNext period starts in %2$d days (%3$s)"</string>
-     <string name="transport">Protocol</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ av syklus brukt. Neste periode starter om %2$d dager (%3$s)"</string>
+     <string name="transport">Porotkol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>
@@ -723,9 +725,9 @@
      <string name="username">UserName</string>
      <string name="username_title">Brukernavn</string>
      <string name="vibrate_on_ring_title">Vibrering når det ringer</string>
-     <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
-     <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
-     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret.Kontakt operatøren din hvis dette problemet vedvarer."</string>
+     <string name="video_call_not_allowed_if_tty_enabled">Skru av TTY-modus først</string>
+     <string name="video_switch_to_voice_call_prompt">Bytt til taleanrop</string>
+     <string name="vm_change_failed">"Kan ikke endre mobilsvarnummeret. Kontakt operatøren din hvis dette problemet vedvarer."</string>
      <string name="vm_changed">Telefonsvarernummeret ble endret.</string>
      <string name="voice_privacy">Personvern for Google Voice</string>
      <string name="voice_privacy_summary">Aktiver forbedret personvern</string>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
      <string name="action_mode_select_all">Velg alle</string>
+     <string name="ad_download">Last ned</string>
+     <string name="ad_downloading">Laster ned…</string>
      <string name="add_private">Skjul filer nå</string>
      <string name="add_private_files">Legg til filer</string>
      <string name="add_task">Legg til oppgaver</string>
@@ -65,6 +67,7 @@
      <string name="category_type_other">Andre</string>
      <string name="category_video">Video</string>
      <string name="category_zip">Arkiv</string>
+     <string name="change_sticker">Velg annen</string>
      <string name="choose_send_type">Velg forsendelsetype</string>
      <string name="choose_upload_location">Velg opplastingsplassering</string>
      <string name="clean_hint">Trykk for å frigjøre plass</string>
@@ -81,6 +84,7 @@
      <string name="confirm_clean">Rydd opp</string>
      <string name="confirm_know">OK</string>
      <string name="connect_network_setting_des">Påminn meg når jeg bruker nettverk</string>
+     <string name="connecting">Kobler til…</string>
      <string name="connection_error">"Kunne ikke koble til"</string>
      <string name="copy_failed">"Kunne ikke kopiere, det ser ut til at lagringsplassen er full"</string>
      <string name="copy_file_to_kuaipan">Kopier filer til Kuaipan</string>
@@ -135,6 +139,7 @@
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Tom mappe</string>
      <string name="dlg_error_unmount_text">"Kunne ikke koble fra USB-lagring. Prøv igjen senere."</string>
+     <string name="download">Last ned</string>
      <string name="download_current_progress">%1$d/100</string>
      <string name="download_failed">Nedlasting mislyktes</string>
      <string name="download_link_completed">Jeg har delt %1$s via KuaiPan. Klikk på linken under for å se: </string>
@@ -193,8 +198,10 @@
      <string name="group_title_extra_backup">Sikkerhetskopier</string>
      <string name="group_title_extra_expire">I ferd med å utløpe</string>
      <string name="group_title_extra_new">Ny</string>
+     <string name="has_installed">Installert</string>
      <string name="if_cancel">Avbryt denne handlingen?</string>
      <string name="image_loading_error">"Kunne ikke laste bilde"</string>
+     <string name="installing">Installerer…</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
      <string name="just_now">Akkurat nå</string>
@@ -223,11 +230,12 @@
      <string name="kuaipan_tech_support">Teknisk support tilbudt av Kingsoft Kuaipan</string>
      <string name="load_err">Innlasting mislyktes</string>
      <string name="load_more">Vis mer</string>
+     <string name="load_sticker_fail">"Kunne ikke laste, prøv igjen"</string>
      <string name="loading">Laster inn</string>
      <string name="local_image">Bilder</string>
      <string name="local_music">Lydfiler</string>
      <string name="local_sticker_str">Offline</string>
-     <string name="local_video">Video</string>
+     <string name="local_video">Videofiler</string>
      <string name="login_reg_content">Oppbevar filer og synkronisere dem mellom flere enheter.</string>
      <string name="login_reg_content0">Bruk Kuaipan fra hvorsomhelst.</string>
      <string name="make_private">Skjul</string>
@@ -308,6 +316,7 @@
      <string name="no_local_sticker_tip">"Kunne ikke finne nedlastede klistremerker. Sjekk ut klistremerker delt av Mi fans."</string>
      <string name="no_more_space">Ikke mer plass</string>
      <string name="no_network_str">"unne ikke koble til nettverket. Sjekk nettverkstilkoblingen, og prøv igjen."</string>
+     <string name="no_network_tip">"Kan ikke koble til nettverket. Sjekk tilkobling og prøv igjen."</string>
      <string name="no_recent_files">Ingen nylige filer</string>
      <string name="no_tasks">Ingen oppgaver</string>
      <string name="no_wifi">Wi-Fi ikke koblet til</string>
@@ -318,7 +327,6 @@
      <string name="notification_dialog_confirm">OK</string>
      <string name="notification_dialog_content">Automatisk varsle og organisere når filer blir lagt til eller endret i %1$s.</string>
      <string name="notification_dialog_title">Varsler</string>
-     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Varsler</string>
      <string name="notification_summary">"%1$s støtter ikke denne funksjonen enda"</string>
      <string name="notification_title">Når %1$s oppretter en fil</string>
@@ -453,6 +461,7 @@
      <string name="select_image">Bilder</string>
      <string name="select_music">Lydfiler</string>
      <string name="select_video">Videofiler</string>
+     <string name="send_sticker">Send klistremerke</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Denne filtypen støttes ikke</string>
      <string name="send_to_qq">Send til QQ</string>
@@ -543,6 +552,7 @@
      <string name="user_not_login">Logg inn først</string>
      <string name="utf8_summary">Standard-koding</string>
      <string name="utf8_title">UTF-8</string>
+     <string name="view_more_sticker">View more stickers</string>
      <string name="wait_net">Venter på nettverk</string>
      <string name="wait_sdcard">Venter på SD-kort montert</string>
      <string name="wait_wifi">Venter på Wi-Fi</string>

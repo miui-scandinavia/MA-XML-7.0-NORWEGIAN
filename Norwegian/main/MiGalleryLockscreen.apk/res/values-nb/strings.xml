@@ -1,25 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-  <string name="app_name">galleri</string>
-  <string name="cancel">Avslutt</string>
-  <string name="change_time">Byttefrekvens</string>
-  <string name="day">1 dag</string>
-  <string name="declaration">"Ved å bruke denne tjenesten, godtar du våre <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Brukervilkår</a> and <a href='http://www.miui.com/res/doc/privacy/en.html'>Personvernspolitikk</a>. Denne appen trenger å koble til Internett for å fungere normalt."</string>
-  <string name="declaration_title">Vilkår for bruk</string>
-  <string name="hour_1">1 time</string>
-  <string name="hour_3">3 timer</string>
-  <string name="lockscreen_magazine_subscribe">%1$s følgere</string>
-  <string name="lockscreen_magazine_summary">Få bakgrunnsbilder levert rett til låseskjermen hver dag.</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s bakgrunnsbilder</string>
-  <string name="lockscreen_magazine_system_title">Standard</string>
-  <string name="lockscreen_magazine_title">Daglige bakgrunnsbilder</string>
-  <string name="no_long_show">"Ikke vis igjen"</string>
-  <string name="ok">OK</string>
-  <string name="resource_apply">Bruk</string>
-  <string name="resource_no_network_text">"Kunne ikke koble til nettverket."</string>
-  <string name="setting_head">Innstillinger</string>
-  <string name="theme_apply_failured">"Kan ikke bruke bakgrunnsbilde på låseskjerm"</string>
-  <string name="theme_apply_success">Låseskjerm brukt</string>
-  <string name="theme_applying">Bruker…</string>
-  <string name="wlan_download">Bare Wi-Fi</string>
+     <string name="app_name">Galleri</string>
+     <string name="at_least_one">Vennligst velg minst en kategori</string>
+     <string name="cancel">Avslutt</string>
+     <string name="change_time">Byttefrekvens</string>
+     <string name="day">1 dag</string>
+     <string name="declaration">"Aksepter våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukevilkår&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Personvernvilkår&lt;/a&gt; for å starte. Internett-tilkobling kreves.​"</string>
+     <string name="declaration_lockscreen_title">Aktiver daglig låseskjermer</string>
+     <string name="declaration_title">Vilkår for bruk</string>
+     <string name="hour_1">1 time</string>
+     <string name="hour_3">3 timer</string>
+     <string name="lockscreen_magazine_subscribe">%1$s følgere</string>
+     <string name="lockscreen_magazine_summary">Få bakgrunnsbilder levert rett til låseskjermen hver dag.</string>
+     <string name="lockscreen_magazine_system_subscribe">%1$s bakgrunnsbilder</string>
+     <string name="lockscreen_magazine_system_title">Standard</string>
+     <string name="lockscreen_magazine_title">Daglige bakgrunnsbilder</string>
+     <string name="no_long_show">"Ikke vis igjen"</string>
+     <string name="ok">OK</string>
+     <string name="ok_lockscreen">OK</string>
+     <string name="ok_network">Samtykk og aktiver daglige låseskjermer</string>
+     <string name="resource_apply">Bruk</string>
+     <string name="resource_no_network_text">"Kunne ikke koble til nettverket."</string>
+     <string name="setting_head">Innstillinger</string>
+     <string name="theme_apply_failured">"Kan ikke bruke bakgrunnsbilde på låseskjerm"</string>
+     <string name="theme_apply_success">Låseskjerm brukt</string>
+     <string name="theme_applying">Bruker…</string>
+     <string name="wlan_download">Bare Wi-Fi</string>
 </resources>

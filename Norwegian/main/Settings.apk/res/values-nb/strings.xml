@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="Accounts_settings_title">Kontoer</string>
      <string name="about_settings">Om enheten</string>
@@ -339,6 +339,7 @@
      <string name="battery_info_voltage_label">Batterispenning:</string>
      <string name="battery_info_voltage_units">mV</string>
      <string name="battery_level_title">Batterinivå</string>
+     <string name="battery_light_title">Batterilys</string>
      <string name="battery_msg_unaccounted">Batteribruken er anslått, og inkluderer ikke hver kilde som bruker batteriet. Forskjellen mellom den anslåtte batteribruken og den registrerte batteribruken, føres opp under annen batteribruk.</string>
      <string name="battery_saver">Batterisparing</string>
      <string name="battery_saver_turn_on_automatically_never">Aldri</string>
@@ -517,7 +518,7 @@
      <string name="bluetooth_profile_pan_nap">Deling av Internett-tilkobling</string>
      <string name="bluetooth_profile_pbap">Kontaktdeling</string>
      <string name="bluetooth_profile_pbap_summary">Bruk til kontaktdeling</string>
-     <string name="bluetooth_profile_sap">SIM Access</string>
+     <string name="bluetooth_profile_sap">SIM-tilgang</string>
      <string name="bluetooth_quick_toggle_summary">Slå på Bluetooth</string>
      <string name="bluetooth_quick_toggle_title">Bluetooth</string>
      <string name="bluetooth_remember_choice">Ikke spør igjen</string>
@@ -675,6 +676,8 @@
      <string name="clear_failed_dlg_title">Tilbakestill data</string>
      <string name="clear_user_data_text">Fjern data</string>
      <string name="close_dialog">OK</string>
+     <string name="close_miui_optimization_title">Skru av MIUI-optimalisering</string>
+     <string name="close_miui_optimization_warning_message">Enheten vil starte på nytt for å bruke denne endringen. Merk: Å skru av denne funksjonen vil gjøre store endringer i oppsett og andre elementer i brukergrensesnittet.</string>
      <string name="cmcc_dm_settings_disable_summary">Deaktiver autostart</string>
      <string name="cmcc_dm_settings_enable_summary">Aktiver autostart</string>
      <string name="cmcc_dm_settings_title">Tillatelse for enhetshåndtering</string>
@@ -717,6 +720,7 @@
      <string name="contributors_title">Medvirkende</string>
      <string name="controls_label">Kontroller</string>
      <string name="controls_subtitle">Juster strømforbruk</string>
+     <string name="convenience_key_category_title">Snarveier</string>
      <string name="copyright_title">Opphavsrett</string>
      <string name="country_name">%s (system)</string>
      <string name="create">Opprett</string>
@@ -1224,6 +1228,7 @@
      <string name="fingerprint_and_password_entrance_title">Passord &amp; fingeravtrykk</string>
      <string name="fingerprint_identificating_msg">Skanner fingeravtrykk…</string>
      <string name="fingerprint_identify_input_password_msg">Skriv passord</string>
+     <string name="fingerprint_identify_msg">Skanner fingeravtrykk…</string>
      <string name="fingerprint_identify_try_again_msg">"Kunne ikke skanne, prøv igjen"</string>
      <string name="fingerprint_list_title">Fingeravtrykk</string>
      <string name="finish_application">Tving avslutning</string>
@@ -1263,15 +1268,16 @@
      <string name="forget_password_button_text">&lt;u&gt;Glemt passord&lt;/u&gt;</string>
      <string name="forget_wifi_message">Din enhet vil slutte å koble til dette nettverket automatisk.</string>
      <string name="found_new_version">Fant ny versjon</string>
+     <string name="fp_nav_center_back_to_home_title">Trykk Hjem-knappen for å gi tilbake til hjemskjermen</string>
      <string name="free_wifi_agreement_remind_never">"Ikke vis igjen"</string>
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Koble til</string>
      <string name="free_wifi_connect_dialog_summary">%1$s tilbudt av %2$s.</string>
-     <string name="free_wifi_connect_dialog_title">WLAN tilgjengelig</string>
+     <string name="free_wifi_connect_dialog_title">Wi-Fi tilgjengelig</string>
      <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk. Vennligst sjekk din dataforbindelse og prøv igjen"</string>
      <string name="free_wifi_connect_fail2">"Kunne ikke logge inn. Vent et minutt eller to og prøv igjen."</string>
      <string name="free_wifi_connect_summary">Trykk for å koble til %1$s.</string>
-     <string name="free_wifi_connect_title">WLAN tilgjengelig</string>
+     <string name="free_wifi_connect_title">Wi-Fi tilgjengelig</string>
      <string name="free_wifi_connected">Koblet til gratis Wi-Fi</string>
      <string name="free_wifi_connected_count">%1$s brukere tilkoblet</string>
      <string name="free_wifi_connected_time">Varighet: %1$s</string>
@@ -1284,6 +1290,7 @@
      <string name="free_wifi_user_agreement_allow">Godta</string>
      <string name="free_wifi_user_agreement_title">Advarsel om personvern</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
+     <string name="free_xiaomi_wifi_connect_summary">Trykk for å koble til %1$s.</string>
      <string name="frequently_fragment_delete">Fjern</string>
      <string name="frequently_fragment_tempty">Ofte brukte elementer vil dukke opp her</string>
      <string name="gadget_bluetooth">Bluetooth</string>
@@ -1814,6 +1821,7 @@
      <string name="miui_allow_vibrate">tillat vibrering</string>
      <string name="miui_data_usage_menu_metered">Mobilt aksesspunkt</string>
      <string name="miui_disturb_title">aktiver forstyrrelse-modus</string>
+     <string name="miui_experience_optimization">Skru på MIUI-optimalisering</string>
      <string name="miui_screensaver_show_time">Varighet</string>
      <string name="miui_screensaver_show_time_select_title">Sett lysbildevarighet</string>
      <string name="miui_screensaver_state_off">Av</string>
@@ -2011,13 +2019,18 @@
      <string name="oldman_mode_settings_caption">Innstillinger for forenklet modus</string>
      <string name="oldman_mode_summary">Bruk forenklet startskjerm og menyer</string>
      <string name="oldman_mode_summary_cta">Lite-modus krever tilkobling til internett og tilgang til å lese dine kontakter, meldinger og plasseringsinformasjon for å fungere normalt.</string>
-     <string name="onekey_migrate">Overfør</string>
+     <string name="onekey_migrate">Mi Mover</string>
      <string name="online_resource_entry">Nettressurser</string>
      <string name="only_one_home_message">Startsideinnstillingene skjules inntil du installerer en annen startsideapp.</string>
      <string name="only_when_charging">Bruk bare under lading</string>
      <string name="onscreen_keyboard_settings_summary">Innstillinger for skjermtastatur</string>
+     <string name="open_miui_optimization_title">Skru på MIUI-optimalisering</string>
+     <string name="open_miui_optimization_warning_message">Enheten din vil starte på nytt for å utføre denne endringen</string>
      <string name="open_wifi_connect_summary">Trykk for å håndtere</string>
      <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
+     <string name="optimization_cancel">Avbryt</string>
+     <string name="optimization_close">Skru av &amp; start på nytt</string>
+     <string name="optimization_open">Skru</string>
      <string name="other_advanced_settings">Flere innstillinger</string>
      <string name="other_personal_settings">Personlige innstillinger</string>
      <string name="other_relative">Andre</string>

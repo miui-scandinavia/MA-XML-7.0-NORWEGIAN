@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="about_card_title">Info</string>
      <string name="accessibility_calllog_detail">Detaljer om anropshistorikk</string>
@@ -49,6 +49,7 @@
      <string name="audio_chat">Lyd chat</string>
      <string name="auto_nickname">Auto</string>
      <string name="auto_set_nickname">Auto</string>
+     <string name="back_view_description">Trykk for å gå tilbake</string>
      <string name="batch_delete">Slett flere kontakter</string>
      <string name="batch_delete_msg">"Slette %d kontakter?</string>
      <string name="blacklist">Blokker</string>
@@ -331,15 +332,19 @@
      <string name="description_dial_phone_number">Ring til %1$s</string>
      <string name="description_dialpad_overflow">Flere alternativer</string>
      <string name="description_digits_edittext">nummer å ringe til</string>
-     <string name="description_download">Downloaded:</string>
+     <string name="description_download">Last ned:</string>
+     <string name="description_image_button_comma">Komma</string>
+     <string name="description_image_button_dial">Ring</string>
      <string name="description_image_button_eight">åtte</string>
      <string name="description_image_button_five">fem</string>
      <string name="description_image_button_four">fire</string>
      <string name="description_image_button_nine">ni</string>
      <string name="description_image_button_one">en</string>
-     <string name="description_image_button_plus">pluss</string>
+     <string name="description_image_button_plus">Pluss</string>
      <string name="description_image_button_pound">​​pund</string>
      <string name="description_image_button_seven">syv</string>
+     <string name="description_image_button_sim1_dial">Ring med SIM1</string>
+     <string name="description_image_button_sim2_dial">Ring med SIM2</string>
      <string name="description_image_button_six">seks</string>
      <string name="description_image_button_star">stjerne</string>
      <string name="description_image_button_three">tre</string>
@@ -394,6 +399,7 @@
      <string name="dialer_empty_text_loading">Laster ...</string>
      <string name="dialer_empty_text_no_call_log">Ingen anrop</string>
      <string name="dialer_empty_text_no_search_result">Ingen kontakter funnet</string>
+     <string name="dialer_menu_description">Trykk for å vise ringing</string>
      <string name="dialer_returnToInCallScreen">Gå tilbake til gjeldende anrop</string>
      <string name="dialer_useDtmfDialpad">Bruk tastatur</string>
      <string name="dialog_import">Importer kontakter</string>
@@ -508,6 +514,7 @@
      <string name="group_create_fail_toast">Kunne ikke opprette gruppe</string>
      <string name="group_create_success_toast">Gruppe opprett</string>
      <string name="group_delete_success_toast">Gruppe slettet</string>
+     <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Gruppens navn</string>
      <string name="group_member_remove_toast">Kontakt fjernet fra gruppe</string>
      <string name="group_name">Mine grupper</string>
@@ -552,7 +559,7 @@
      <string name="import_from_sim_number">Importér fra SIM-kort nr.%d</string>
      <string name="import_multiple_vcard_string">Importer flere vCard filer</string>
      <string name="import_name">Navn</string>
-     <string name="import_one_vcard_string">Importer en vCard fil</string>
+     <string name="import_one_vcard_string">Importer 1 vCard-fil</string>
      <string name="import_percent">0%</string>
      <string name="import_selected_sim_entries_miui">Importer valgte kontakter</string>
      <string name="import_sim_entries_finish">Import av SIM-kontakter fullført</string>
@@ -692,7 +699,8 @@
      <string name="menu_help">hjelp</string>
      <string name="menu_import_export">Importer/Eksporter</string>
      <string name="menu_joinAggregate">Flett</string>
-     <string name="menu_newContact">Ny kontakt</string>
+     <string name="menu_newContact">Legg til ny kontakt</string>
+     <string name="menu_newContactButton">Legg til</string>
      <string name="menu_new_contact_action_bar">Ny</string>
      <string name="menu_new_favorite_action_bar">Legg til i favoritter</string>
      <string name="menu_new_group_action_bar">Ny</string>
@@ -723,31 +731,46 @@
      <string name="miprofile_bind_account_alertdialog_message">"Du må legge til enhetens telefonnummer til din Mi-konto for å bruke denne funksjonen."</string>
      <string name="miprofile_bind_account_alertdialog_positive">Legg til nummer</string>
      <string name="miprofile_bind_account_alertdialog_title">Legg til telefonnummer</string>
+     <string name="miprofile_contact_add">Legg til</string>
+     <string name="miprofile_contact_added">Lagt til</string>
+     <string name="miprofile_contact_header">Kontakter med kontaktkort</string>
+     <string name="miprofile_contact_meaasge">Lokale kontakter</string>
+     <string name="miprofile_contact_verifying">Verifiser</string>
      <string name="miprofile_edit_title">Endre profil</string>
      <string name="miprofile_error_accept_self">"Kan ikke utveksle ditt eget kontaktkort"</string>
      <string name="miprofile_error_no_miaccount">Logg inn til din Mi-konto</string>
      <string name="miprofile_error_not_opened">Skru av kontaktkort</string>
      <string name="miprofile_error_not_set">"Ditt kontaktkort har ikke blitt synkronisert til serveren"</string>
      <string name="miprofile_error_unknown">Ukjent feil</string>
+     <string name="miprofile_find_miprofile_title">Legg til profil</string>
+     <string name="miprofile_find_profile_batch_add">Legg til alle profiler</string>
+     <string name="miprofile_find_profile_batch_finish">Ferdig</string>
+     <string name="miprofile_find_profile_batch_request_failed">"Kunne ikke legge til profil"</string>
+     <string name="miprofile_find_profile_loading">Laster…</string>
+     <string name="miprofile_find_profile_no_recommend">Ingen anbefalte profiler</string>
+     <string name="miprofile_find_profile_subtitle">Legg til for å vise bilde og annen info</string>
+     <string name="miprofile_finding_label">Finn kontaktkort</string>
      <string name="miprofile_name">Min profil</string>
      <string name="miprofile_nick_name_divider">"  |  "</string>
      <string name="miprofile_nick_name_edit_dialog_hint">Skriv kallenavn</string>
-     <string name="miprofile_nick_name_edit_dialog_message">Kallenavn vil bli vist i anropshistorikk og detalj</string>
-     <string name="miprofile_nick_name_edit_dialog_title">Skriv kallenavn</string>
+     <string name="miprofile_nick_name_edit_dialog_message">Kallenavn vil bli vist i anropshistorikk og profilinfo</string>
+     <string name="miprofile_nick_name_edit_dialog_title">Endre kallenavn</string>
      <string name="miprofile_notice_text">"Trykk for å vise kontaktens profilbilde"</string>
-     <string name="miprofile_request_agenda_date">%1$s vil utveksle kontaktkort</string>
-     <string name="miprofile_request_agenda_today">%1$s vil utveksle kontaktkort</string>
-     <string name="miprofile_request_agenda_yesterday">%1$s vil utveksle kontaktkort</string>
+     <string name="miprofile_request_agenda_date">Denne personen vil utveksle kort [%1$s]<</string>
+     <string name="miprofile_request_agenda_today">Denne personen vil utveksle kort [I dag %1$s]</string>
+     <string name="miprofile_request_agenda_yesterday">Denne personen vil utveksle kort [I går%1$s]</string>
      <string name="miprofile_request_agree">Aksepter</string>
      <string name="miprofile_request_agree_exchange_profile">Utvekslede kontaktkort</string>
-     <string name="miprofile_request_agreed">%1$s aksepterte å dele kontaktkort med meg</string>
+     <string name="miprofile_request_agreed">%1$s aksepterte å dele kontaktkort</string>
      <string name="miprofile_request_alertdialog_message">Kortet ditt vil bli sendt automatisk etter at personen aksepterer.</string>
      <string name="miprofile_request_alertdialog_title">Utveksle kontaktkort</string>
      <string name="miprofile_request_clear_alertdialog_message">Tøm historikken for utveksling av kontaktkort?</string>
      <string name="miprofile_request_clear_alertdialog_title">Tøm historikk</string>
      <string name="miprofile_request_deleted">Kort slettet</string>
+     <string name="miprofile_request_deleted_or_not_added">Kort slettet eller ikke lagt til</string>
      <string name="miprofile_request_empty_request">Ingen utvekslingsforespørsler</string>
      <string name="miprofile_request_exchange_title">Spørr om kontaktkort</string>
+     <string name="miprofile_request_header">Utvekslingsforespørsler (utløper automatisk om en uke)</string>
      <string name="miprofile_request_menu_clear_request">Tøm historikk</string>
      <string name="miprofile_request_message">%1$s folk vil utveksle kontaktkort</string>
      <string name="miprofile_request_notification_message">Aksepter visning av dette profilbildet og annen info</string>
@@ -814,7 +837,7 @@
      <string name="no_contacts_selected">Ingen kontakter funnet.</string>
      <string name="no_sdcard_message">Ingen lagring funnet.</string>
      <string name="no_voip_contacts">Ingen Mi-tale kontakter</string>
-     <string name="non_phone_add_to_contacts">Legg til kontaktpersoner</string>
+     <string name="non_phone_add_to_contacts">Legg til eksisterende kontakt</string>
      <string name="non_phone_caption">Telefonnummer</string>
      <string name="non_phone_close">Lukk</string>
      <string name="none_found">Ingen enheter funnet</string>
@@ -956,7 +979,7 @@
      <string name="rebuild_t9_index_dialog_message">Gjenoppbygger T9 indeks data…</string>
      <string name="recent">Nylige</string>
      <string name="recentCallsIconLabel">Anropshistorikk</string>
-     <string name="recentCalls_addToContact">Legg til i kontakter</string>
+     <string name="recentCalls_addToContact">Legg til eksisterende kontakt</string>
      <string name="recentCalls_callNumber">Ring til %s</string>
      <string name="recentCalls_deleteAll">Rydd anropshistorikker</string>
      <string name="recentCalls_editNumberBeforeCall">Rediger nummer, før anrop</string>
@@ -1346,12 +1369,14 @@
      <string name="voicemail_status_configure_voicemail">Konfigurer din telefonsvarer.</string>
      <string name="voicemail_status_messages_waiting">Kan ikke opprette forbindelse med telefonsvareren. Nye voicemails venter.</string>
      <string name="voicemail_status_voicemail_not_available">Kan ikke opprette forbindelse med telefonsvareren.</string>
+     <string name="voip_audio_description">Trykk for å utføre VoIP-anrop</string>
      <string name="voip_contact_label">Mi-tale</string>
      <string name="voip_contacts_entry">Mi-tale</string>
      <string name="voip_loading_contact">Bare et sekund…</string>
      <string name="voip_name">Mi-tale</string>
      <string name="voip_recommend_msg">Trykk for å bruke Mi-tale</string>
      <string name="voip_shortcut_name">Mi-tale</string>
+     <string name="voip_video_description">Trykk for å utføre VoIP-videoanrop</string>
      <string name="websiteLabelsGroup">Hjemmeside</string>
      <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Slett kontakter</string>

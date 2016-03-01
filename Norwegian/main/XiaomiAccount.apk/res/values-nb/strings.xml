@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="about_device_info">Vis enhetdetaljer</string>
      <string name="access_denied">Tilgang nektet</string>
@@ -53,9 +53,11 @@
      <string name="account_user_using_facebook_avatar">Bruk Facebook profilbilde</string>
      <string name="account_user_using_qq_avatar">Bruk QQ profilbilde</string>
      <string name="account_user_using_weibo_avatar">Bruk Sina Weibo profilbilder</string>
+     <string name="account_vip_achievements">Oppnåelser</string>
      <string name="account_vip_level">Konto</string>
      <string name="account_vip_task">Fremgang</string>
      <string name="account_xiaomi_service">Tjenester</string>
+     <string name="activate_email_notice">Sørg for at du aktiverer kontoen din innen 24 timer</string>
      <string name="activating">Aktiverer…</string>
      <string name="add_account">Koble til konto</string>
      <string name="alert_title_remove_account">"Fjern konto?"</string>
@@ -77,6 +79,7 @@
      <string name="button_unbind">Koble fra</string>
      <string name="captcha">Skriv inn kode</string>
      <string name="change_account">&lt;u&gt;Bytt konto&lt;/u&gt;</string>
+     <string name="change_activate_email">Endre e-post-adresse</string>
      <string name="change_email_address">Endre e-post-adresse</string>
      <string name="change_password">Endre passord</string>
      <string name="change_phone_number">Endre telefonnummer</string>
@@ -91,6 +94,7 @@
      <string name="cloud_service_dspt">Synk dine bilder, kontakter, notater, apper og mer på tvers av enheter.</string>
      <string name="completed">Alt klart</string>
      <string name="confirm">OK</string>
+     <string name="confirm_activate_email">Verifisert</string>
      <string name="confirm_email_address_dialog_message">Bekreftelseskode vil bli sendt til: %s.</string>
      <string name="confirm_email_address_dialog_title">Bekreft e-post-adresse</string>
      <string name="confirm_phone_number_dialog_message">Bekreftelseskode vil bli sendt til: %s.</string>
@@ -154,6 +158,7 @@
      <string name="hide_mibi_info">Informasjon om Mi Kreditt har blitt skjult</string>
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Skriv inn koden</string>
+     <string name="input_email_address_notice">"Vi vil bruke denne e-posten for å verifisere din konto"</string>
      <string name="input_password_hint">Skriv inn passord</string>
      <string name="input_phone_hint">Skriv inn telefonnummer</string>
      <string name="input_vcode_hint">Skriv inn verifikasjonskoden</string>
@@ -251,7 +256,7 @@
      <string name="opening_page">Åpner…</string>
      <string name="other_devices">Andre enheter</string>
      <string name="passport_access_denied">Tilgang nektet</string>
-     <string name="passport_account_hint_text">E-post eller telefonnummer</string>
+     <string name="passport_account_hint_text">E-post-adresse eller Mi konto-ID</string>
      <string name="passport_account_identity_title">Verifiser din identitet</string>
      <string name="passport_account_name">Konto: %1$s</string>
      <string name="passport_account_not_activated">"Kontoen har ikke blitt aktivert"</string>
@@ -455,12 +460,17 @@
      <string name="removing_account">Logger ut…</string>
      <string name="rename_current_device">"Endre enhetens navn"</string>
      <string name="replace_binded_phone">Bytt telefon</string>
+     <string name="resend_active_email">Resend</string>
+     <string name="resend_email_reach_limit_message">"Du har bedt om for mange verifiseringseposter. Sjekk at verifiseringseposten ikke ligger i innboksen sin spam-mappe."</string>
+     <string name="resend_email_reach_limit_title">"Kan ikke sende e-post"</string>
+     <string name="resend_email_success">E-post sendt på nytt</string>
      <string name="restart_action">Start på nytt</string>
      <string name="restart_email_bind_message">En e-post med en verifikasjonskode vil bli sendt til denne adressen.</string>
      <string name="restart_email_bind_title">Endre e-post-adresse for gjennoppretting</string>
      <string name="restart_phone_bind_message">En tekstmelding med en verifikasjonskode vil bli sendt til dette nummeret.</string>
      <string name="restart_phone_bind_title">Endre telefonnummer for gjenoppretting</string>
      <string name="scan_barcode_title">Scan QR-koden for å logge inn på din Mi-konto</string>
+     <string name="send_email_activate_message">Verifiseringsepost sendt</string>
      <string name="service_error">Tjenestefeil</string>
      <string name="show_password">Vis passord</string>
      <string name="sim_changed_notification_content">"SIM-kort har ikke blitt aktivert"</string>

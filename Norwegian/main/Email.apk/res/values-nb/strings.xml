@@ -120,20 +120,26 @@
      <string name="account_setup_failed_dlg_auth_message">Brukernavn eller passord er ugyldig.</string>
      <string name="account_setup_failed_dlg_auth_message_fmt">"Brukernavn eller passord er ugyldig.
 (%s)"</string>
+     <string name="account_setup_failed_dlg_bar_title">Ways to sign in to %s</string>
      <string name="account_setup_failed_dlg_certificate_message">Kan ikke koble sikkert til server.</string>
      <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan ikke koble sikkert til server.
 (%s)"</string>
      <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
      <string name="account_setup_failed_dlg_edit_details_action">Rediger detaljer</string>
+     <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
      <string name="account_setup_failed_dlg_server_message">Kan ikke koble til server.</string>
      <string name="account_setup_failed_dlg_server_message_fmt">"Kan ikke koble til serveren.
 (%s)"</string>
      <string name="account_setup_failed_dlg_title">Oppsettningen kunne ikke avslutte</string>
+     <string name="account_setup_failed_dlg_todo1">Set account as shown below or try signing in with EXCHANGE.</string>
+     <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
+     <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
      <string name="account_setup_failed_ioerror">Ikke i stand til at åpne kobling til server.</string>
      <string name="account_setup_failed_protocol_unsupported">"Du tastet en ugyldig serveradresse eller serveren krever en protokolversion som Epost ikke støtter."</string>
      <string name="account_setup_failed_security">Ikke i stand til å opprette kobling til server pga. sikkerhetsproblemer.</string>
      <string name="account_setup_failed_security_policies_unsupported">Serveren krever sikkerhetsinnstillinger som din telefon ikke støtter, inklusiv: %s.</string>
      <string name="account_setup_failed_tls_required">TLS påkrevd men ikke støttet av serveren.</string>
+     <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
      <string name="account_setup_incoming_delete_policy_delete_label">Når jeg sletter fra inboksen</string>
      <string name="account_setup_incoming_delete_policy_label">Slett epost fra server</string>
      <string name="account_setup_incoming_delete_policy_never_label">Aldri</string>
@@ -184,6 +190,7 @@
      <string name="account_setup_options_mail_window_auto">Automatisk</string>
      <string name="account_setup_options_mail_window_default">"Bruk kontoens standard"</string>
      <string name="account_setup_options_mail_window_label">Mengde å synkronisere</string>
+     <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
      <string name="account_setup_options_notify_label">Gi meg beskjed når epost mottas.</string>
      <string name="account_setup_options_sync_calendar_label">Synk. kalender fra denne kontoen.</string>
      <string name="account_setup_options_sync_contacts_label">Synk. kontakter fra denne kontoen.</string>
@@ -243,6 +250,7 @@
      <string name="archive">Arkiv</string>
      <string name="archived">Arkiverte</string>
      <string name="att_download_failed_content">"Kunne ikke laste ned vedlegget i denne meldingen"</string>
+     <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
      <string name="att_download_failed_title">"Kan ikke laste ned vedlegg"</string>
      <string name="att_file_not_exists">Kunne ikke finne %s!</string>
      <string name="att_mgr_no_attachment">Tom</string>
@@ -262,9 +270,12 @@
      <string name="attachment_decoding">Pakker ut vedlegg.</string>
      <string name="attachment_download_all">Last ned alle</string>
      <string name="attachment_image">Bilde</string>
+     <string name="attachment_list_search_hint">Search attachments</string>
      <string name="attachment_mgr_name">Vedlegg</string>
      <string name="attachment_not_exists">Dette vedlegget er ikke tilgjengelig!</string>
      <string name="attachment_not_found">"Kunne ikke hente vedlegg."</string>
+     <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
+     <string name="attachment_open_SecurityException_title">"Can't open file"</string>
      <string name="attachment_stop_all">Stopp</string>
      <string name="attachment_text">Tekst</string>
      <string name="attachment_type_blocked">"Du kan dessverre ikke lagre eller åpne denne typen vedlegg."</string>
@@ -292,6 +303,8 @@
      <string name="bottom_bar_more_unread">Merk som ulest</string>
      <string name="bottom_bar_no_quickreply_toast">Ingen hurtigsvar</string>
      <string name="bytes">%s B</string>
+     <string name="calendar_remind_dialog_title">Reminder</string>
+     <string name="calendar_remind_gridview_pick_date">Pick date</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_action">Avbryt</string>
      <string name="cancel_attachment">Avbryt</string>
@@ -331,7 +344,9 @@
      <string name="collapse_recipient_details">Slå sammen mottaker-detaljer</string>
      <string name="colon">:</string>
      <string name="compose">Skriv</string>
+     <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
      <string name="compose_help_context">skriv</string>
+     <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
      <string name="compose_send">Send</string>
      <string name="compose_sent">Sendt</string>
      <string name="confirm">OK</string>
@@ -348,15 +363,19 @@
      <string name="confirm_send_title">Send melding?</string>
      <string name="contact_content_provider">Kontakt innholdsleverandør</string>
      <string name="contact_edit_set_black_list">Set blocklist</string>
+     <string name="contact_edit_set_black_list_filtering">Filtering…</string>
      <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
      <string name="contact_edit_set_black_list_receive">Delete mail with this recipient</string>
      <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
+     <string name="contact_edit_set_black_list_title">Add to blocklist</string>
      <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
      <string name="contact_edit_set_pop_up_tips">Pop-up tips</string>
      <string name="contact_edit_set_unread_top">Show unread emails first</string>
      <string name="contact_edit_set_vip">Set VIP</string>
      <string name="contact_edit_title_permission">Contacts permissions</string>
      <string name="contact_edit_title_phone_contact">Phone contacts list</string>
+     <string name="contact_in_filter_call_phone_str">Call from %s</string>
+     <string name="contact_in_filter_title">Sender</string>
      <string name="contact_info_string">Vis kontaktinformasjon for %1$s</string>
      <string name="contact_info_string_default">Vis kontaktinformasjon</string>
      <string name="contact_list_add_btn">Legg til</string>
@@ -421,6 +440,7 @@
      <string name="default_pop3">POP3</string>
      <string name="default_setup">STANDARD INNSTILLINGER</string>
      <string name="default_signature">Sendt fra min Mi-telefon</string>
+     <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
      <string name="delete">Slett</string>
      <string name="delete_conversation_hint_message">%1$d %2$s har blitt slettet</string>
      <string name="deleted">Slettet</string>
@@ -434,6 +454,7 @@
      <string name="dialog_account_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
      <string name="dialog_auto_download_failed">"Kan ikke fullføre auto-nedlasting, prøv manuell nedlastning."</string>
      <string name="dialog_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
+     <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
      <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
      <string name="dialog_insufficient_space_for_single_account_on_internal">Ikke nok plass til %s.</string>
      <string name="dialog_insufficient_space_on_external">"Kan ikke fullføre nedlasting. Ikke nok plass på ekstern lagring."</string>
@@ -444,6 +465,7 @@
      <string name="discard_drafts">Forkast utkast</string>
      <string name="discard_failed">Forkasting mislyktes</string>
      <string name="dismiss_tip_hover_text">Gjem tips</string>
+     <string name="disturb_switch">Do not disturb</string>
      <string name="done">Tilbake</string>
      <string name="done_action">Ferdig</string>
      <string name="done_label">Ferdig</string>
@@ -481,7 +503,10 @@
      <string name="elided_padding_token"> </string>
      <string name="email_confirmation_label">E-postadresse:</string>
      <string name="email_feedback_uri" />
+     <string name="email_netease">NetEase Mail</string>
      <string name="email_package_name">com.android.email</string>
+     <string name="email_qq">QQ Mail</string>
+     <string name="email_sina">Sina Mail</string>
      <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="eml_loader_error_toast">Kan ikke åpne denne filen</string>
      <string name="empty_account_tip">"Can't find account"</string>
@@ -503,6 +528,7 @@
      <string name="exchange_name">Exchange eller annen</string>
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="expand_recipient_details">Expand recipient details</string>
+     <string name="fail_get_email_message">Get message failed.</string>
      <string name="failed">"Couldn't load image"</string>
      <string name="feedback">Send tilbakemelding</string>
      <string name="feedback_body">Melding</string>
@@ -528,8 +554,12 @@
      <string name="folder_icon_desc">Folder icon</string>
      <string name="folder_junk_name_cn0">垃圾邮件</string>
      <string name="folder_junk_name_cn1">垃圾箱</string>
+     <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
      <string name="folder_junk_name_en0">Junk</string>
      <string name="folder_junk_name_en1">Bulk Mail</string>
+     <string name="folder_junk_name_en2">Junk Mail</string>
+     <string name="folder_junk_name_en3">Junk E-Mail</string>
+     <string name="folder_junk_name_en4">Junk</string>
      <string name="folder_list_display_all">Display all folders</string>
      <string name="folder_list_display_only_import">Only display important folders</string>
      <string name="folder_picker_title">Velg mapper</string>
@@ -581,8 +611,10 @@
      <string name="getting_messages">Henter e-posten din …</string>
      <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
      <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
+     <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
      <string name="gmail_login_verify">Add Gmail Account</string>
      <string name="gmail_name">Gmail</string>
+     <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
      <string name="gmail_web_login_go">OK</string>
      <string name="gmail_web_login_required_message">Sign in to Gmail</string>
      <string name="head_only_enable_dialog_message">Only the title (instead of the whole email) is downloaded without click under traffic.</string>
@@ -809,6 +841,9 @@ CC: %4$s
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
      <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
+     <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
+     <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+     <string name="outbox_alert_description_fail_network">"Couldn't connect to the network."</string>
      <string name="outbox_alert_description_http_error">Server provision error while syncing outbox.</string>
      <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
      <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
@@ -940,6 +975,15 @@ CC: %4$s
      <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
      <string name="push_wps_confirm_title">Try WPS Office</string>
      <string name="push_wps_no_response_app">No application found to handle this action</string>
+     <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
+     <string name="questionnair_confirm_delete">Remove</string>
+     <string name="questionnair_instability">Crashes frequently</string>
+     <string name="questionnair_not_send">"Can't send mail"</string>
+     <string name="questionnair_not_sync">Unstable sync</string>
+     <string name="questionnair_other_reasons">Other</string>
+     <string name="questionnair_title">Remove account?</string>
+     <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
+     <string name="questionnair_waste_resource">Not enough storage space</string>
      <string name="quick_1">Thanks!</string>
      <string name="quick_2">Sounds good to me!</string>
      <string name="quick_3">"I'll read this later and get back to you."</string>
@@ -1003,6 +1047,7 @@ CC: %4$s
      <string name="remove_folder">Remove from %1$s</string>
      <string name="remove_star">Unstar</string>
      <string name="reply">Reply</string>
+     <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
      <string name="reply_all">Reply all</string>
      <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
      <string name="reply_choice_frowning_face">:(</string>
@@ -1080,8 +1125,16 @@ CC: %4$s
      <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
 \u0009 (Check whether the setting is 'Auto sync time')"</string>
      <string name="ser_resp_err_map_nouser">No such user</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 2
+	%s: 0 Original: 2
+	%d: 0 Original: 0 -->
+     <!-- Original string: %1$s or %2$s -->
      <string name="ser_resp_err_map_or">or</string>
      <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: %s server closed -->
      <string name="ser_resp_err_map_serclosed">server closed</string>
      <string name="ser_resp_err_map_serclosed_url_tag">How to solve?</string>
      <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
@@ -1163,6 +1216,7 @@ CC: %4$s
      <string name="trigger_refresh_char">u</string>
      <string name="trigger_save_char">s</string>
      <string name="trigger_y_char">y</string>
+     <string name="try_exchange_login">Sign in with EXCHANGE</string>
      <string name="tryrefreshing">Refreshing…</string>
      <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
      <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="account">Konto</string>
      <string name="account_and_cloud">Konto</string>
@@ -39,7 +39,7 @@
      <string name="all_tracks">Alle sanger</string>
      <string name="all_tracks_short">Alle sanger</string>
      <string name="already_download">Laster ned…</string>
-     <string name="already_favorited">Allerede i favoritter</string>
+     <string name="already_favorited">Allerede favoritert</string>
      <string name="artist">Artister</string>
      <string name="artist_is_empty">Artistnavn kan ikke være tomt.</string>
      <string name="artist_name">Artist</string>
@@ -56,7 +56,7 @@
      <string name="available_playlist_name_format">Ny spilleliste %d</string>
      <string name="avoid_to_use_traffic_summary">"Ikke bruk mobilt nettverk for å strømme musikk"</string>
      <string name="avoid_to_use_traffic_title">Bruk bare Wi-Fi for å strømme musikk</string>
-     <string name="back_confirm">Trykk igjen for å avslutte</string>
+     <string name="back_confirm">Trykk igjen for å legge i bakgrunnen</string>
      <string name="baidu_music">Baidu-musikk</string>
      <string name="being_disable_auto_payment">Skrur av…</string>
      <string name="being_enable_auto_payment">Skrur på…</string>
@@ -88,6 +88,7 @@
      <string name="create_playlist">Lag spilleliste</string>
      <string name="create_playlist_failure">"Kunne ikke opprette spilleliste"</string>
      <string name="current_services">Gjeldende</string>
+     <string name="current_version">Gjeldende versjon</string>
      <string name="data_usage_warning">Databrukadvarsel!</string>
      <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til strømming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
      <string name="delete">Slett</string>
@@ -116,13 +117,14 @@
      <string name="disable_auto_payment_fail_message">"Kunne ikke skru av automatisk fornying"</string>
      <string name="disable_auto_payment_success">Skrudd av</string>
      <string name="disable_auto_payment_success_message">"Skrudde av automatisk fornying. Etter at ditt gjeldende abonnement utløper, vil du være nødt til å abonnere på nytt for å late ned sanger."</string>
-     <string name="disallow_add_to_personal_radio">Personlig radio er kun lesbar</string>
+     <string name="disallow_add_to_fm">"Kan ikke legge sang til FM-radio"</string>
+     <string name="disallow_add_to_personal_radio">"Kan ikke legge sand til Personlig radio"</string>
      <string name="do_not_remind_again">"Ikke vis igjen"</string>
      <string name="done">Ferdig</string>
      <string name="download">Hent</string>
      <string name="download_all_song">Last ned alle</string>
-     <string name="download_auto_after_favorite_no_vip_summary">Automatisk last ned sanger du legger til i favoritter (unntatt  betalt innhold)</string>
-     <string name="download_auto_after_favorite_summary">"Automatisk last ned sangene du har som favoritt"</string>
+     <string name="download_auto_after_favorite_no_vip_summary">Automatisk last ned sanger du favoriterer (unntatt  betalt innhold)</string>
+     <string name="download_auto_after_favorite_summary">"Automatisk last ned sangene du favoriterer</string>
      <string name="download_auto_after_favorite_title">Last ned favoritter</string>
      <string name="download_auto_cancel">Nedlasting av favoritter er skrudd av</string>
      <string name="download_auto_default_quality">Musikk-kvalitet</string>
@@ -147,7 +149,7 @@
      <string name="download_quality">Nedlastningskvalitet</string>
      <string name="download_quality_summary">Ekstra innstillinger for sanger du laster ned</string>
      <string name="download_start">Starter nedlastning…</string>
-     <string name="download_while_playing_no_vip_summary">Automatisk last ned sangene du hører på (unntatt betalt innhold)</string>
+     <string name="download_while_playing_no_vip_summary">Automatisk last ned sangene du strømmer fra nett (unntatt betalt innhold)</string>
      <string name="download_while_playing_summary">"Automatisk last ned sanger du hører på nettet"</string>
      <string name="download_while_playing_title">Hør på under nedlastning</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -316,6 +318,8 @@
      <string name="music_filter">Filtrer lydfiler</string>
      <string name="music_quality">Musikk-kvalitet</string>
      <string name="music_settings">Musikk</string>
+     <string name="music_traffic">Musikk-dataabonnement</string>
+     <string name="music_traffic_summary">Hør på og last ned sanger uten å bruke datatrafikk</string>
      <string name="my_account">Mi-konto</string>
      <string name="my_music">Min musikk</string>
      <string name="my_music_empty">Spillelisten er tom.</string>
@@ -352,6 +356,12 @@
      <string name="not_login">Logg inn</string>
      <string name="not_now">Ikke nå</string>
      <string name="not_selected">Vennligst velg en sang</string>
+     <string name="notification_des_next_song">Neste sang: %s</string>
+     <string name="notification_des_no_song">Mi Musikk. Nytt hver dag.</string>
+     <string name="notification_headset_custom">Avvis</string>
+     <string name="notification_headset_info">Trykk for å vise innstillinger.</string>
+     <string name="notification_headset_settings">Hodetelefoner tilkoblet</string>
+     <string name="notification_title_no_song">"Sjekk hva alle andre hører på!"</string>
      <string name="nowplaying_menu_item_delete">Slett</string>
      <string name="ok">OK</string>
      <string name="one_month">1 måned</string>
@@ -428,6 +438,8 @@
      <string name="set_lyric_successful">Sangtekst lagret</string>
      <string name="set_ringtones_failed">Kunne ikke sette ringetoner.</string>
      <string name="set_ringtones_successful">%s satt som ringetone</string>
+     <string name="settings_notification_text">Vis avspiller-widget i varselskyggen</string>
+     <string name="settings_notification_title">Varselskygge-widget</string>
      <string name="share_append_text">Fra @MIUI</string>
      <string name="share_chooser_title">Del via</string>
      <string name="share_description">Fra Mi Musikk</string>
@@ -444,7 +456,7 @@
      <string name="song_is_empty">Sang navn kan ikke være tom.</string>
      <string name="song_name">Sang</string>
      <string name="song_not_find">"Kunne ikke finne sang. Sjekk nettverkstilkoblingen og prøv igjen"</string>
-     <string name="song_offline">Denne sangen er ikke lenger tilgjengelig.</string>
+     <string name="song_offline">Beklager, men denne sangen er ikke lenger tilgjengelig.</string>
      <string name="song_unit">elementer</string>
      <string name="sort_by_language">Språk</string>
      <string name="sort_by_name">Navn</string>
@@ -485,6 +497,7 @@
      <string name="toast_cancel_download">Nedlastning feilet</string>
      <string name="toast_download_error_by_count_limit">"Du har nådd grensen for nedlastninger denne måneden."</string>
      <string name="toast_download_error_by_vip_required">Få Premium-abonnement for å laste ned denne sangen.</string>
+     <string name="toast_download_in_process">Nedlastning pågår</string>
      <string name="toast_normal_songs_for_download">Nedlastningskvalitet satt til standard</string>
      <string name="toast_normal_songs_for_stream">Strømmekvalitet satt til standard</string>
      <string name="toast_stream_normal">Spiller av sanger i standardkvalitet. Få Premium-abonnement for å høre på høykvalitetslyd.</string>
@@ -504,6 +517,7 @@
      <string name="track_main_fragment_tab_track">Sanger</string>
      <string name="track_search_title">Spor</string>
      <string name="track_view">Sang</string>
+     <string name="traffic_free_to_play">Bruk musikk-dataabonnement</string>
      <string name="trigger_to_scan_media_library_finish">Oppdatert</string>
      <string name="trigger_to_scan_media_library_processing">Oppdaterer fortsatt…</string>
      <string name="trigger_to_scan_media_library_start">Oppdaterer…</string>
@@ -522,6 +536,7 @@
      <string name="upgrade_vip">Oppgrader til Premium</string>
      <string name="upgrade_waringing">"Du vil bare ha mulighet til å høre på musikk lagret offline."</string>
      <string name="valid_period">"Gyldig: %s"</string>
+     <string name="version_info">Versjon</string>
      <string name="vip_auto_renew_message">Ditt Musikk-abonnement vil bli fornyet automatisk denne kvelden. Sørg for at du har nok Mi-kreditter i kontoen din for å fullføre denne betalingen.</string>
      <string name="vip_auto_renew_notification_message">Legg til Mi-kreditter for å forenye ditt Musikk-abonnement.</string>
      <string name="vip_auto_renew_notification_title">Betaling av abonnement</string>

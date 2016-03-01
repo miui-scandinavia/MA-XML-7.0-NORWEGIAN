@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="alarm_repeat_type">
-        <item>Hverdager</item>
-        <item>Ukedager</item>
-        <item>Egendefinert</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Hverdager</item>
-        <item>Ukedager</item>
-        <item>Egendefinert</item>
-    </string-array>
      <string-array name="agps_network_entries">
         <item>Hjemmenettverk</item>
         <item>Alle nettverk</item>
@@ -23,6 +13,16 @@
      <string-array name="agps_si_mode_entries">
         <item>MSB</item>
         <item>MSA</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Hverdager</item>
+        <item>Ukedager</item>
+        <item>Egendefinert</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Hverdager</item>
+        <item>Ukedager</item>
+        <item>Egendefinert</item>
      </string-array>
      <string-array name="animator_duration_scale_entries">
         <item>Animasjon deaktivert</item>
@@ -110,6 +110,11 @@
         <item>Hold aktiv</item>
         <item>Posisjon</item>
         <item>Sted</item>
+     </string-array>
+     <string-array name="app_ops_permissions">
+        <item>Tillat</item>
+        <item>Ignorert</item>
+        <item>Alltid spørr</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>anslått posisjon</item>
@@ -220,6 +225,10 @@
         <item>PIN</item>
         <item>Passord</item>
      </string-array>
+     <string-array name="common_password_business_names">
+        <item>Skjermlås</item>
+        <item>Barnemodus</item>
+     </string-array>
      <string-array name="data_usage_data_range">
         <item>De siste 30 dagene</item>
         <item>Angi brukssyklus</item>
@@ -251,13 +260,13 @@
         <item>Systrace (grafikk)</item>
         <item>Ring stabel på glGetError</item>
      </string-array>
-    <!-- <string-array name="entries_font_size">
+     <string-array name="entries_font_size">
         <item>Liten</item>
         <item>Normal</item>
         <item>Stor</item>
         <item>Veldig stor</item>
         <item>Mega</item>
-     </string-array>-->
+     </string-array>
      <string-array name="entries_zen_mode">
         <item>Av</item>
         <item>Begrensede forstyrrelser</item>
@@ -356,16 +365,6 @@
         <item>Middels</item>
         <item>Lang</item>
      </string-array>
-     <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-     </string-array>
-     <string-array name="media_feedback_level_entries">
-        <item>Svak</item>
-        <item>Medium</item>
-        <item>Kraftig</item>
-     </string-array>
      <string-array name="mi1_led_color_entries">
         <item>Blå</item>
         <item>Rød</item>
@@ -415,12 +414,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-     </string-array>
-     <string-array name="mvno_type_values">
-        <item></item>
-        <item>spn</item>
-        <item>imsi</item>
-        <item>gid</item>
      </string-array>
      <string-array name="network_speed_slow_summary">
         <item>Nettverket er tregt på grunn av for mye trafikk</item>
@@ -547,6 +540,10 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Økt kontrast</item>
         <item>Standard</item>
      </string-array>
+     <string-array name="screen_resolution_entries">
+        <item>Ultrahøy (2K)</item>
+        <item>Normal (720p)</item>
+     </string-array>
      <string-array name="screen_saturation_title">
         <item>Strålende</item>
         <item>Standard</item>
@@ -664,13 +661,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Høy</item>
         <item>Svært høy</item>
      </string-array>
-     <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
-     </string-array>
      <string-array name="tts_rate_entries">
         <item>Svært langsom</item>
         <item>Langsom</item>
@@ -681,17 +671,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Rask</item>
         <item>Veldig rask</item>
         <item>Raskest</item>
-     </string-array>
-     <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
      </string-array>
      <string-array name="tts_rate_xunfei_entries">
         <item>Veldig sakte</item>
@@ -767,20 +746,10 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Middel</item>
         <item>Høy</item>
      </string-array>
-     <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa</item>
-        <item>@string/wifi_security_wpa2</item>
-     </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Koble til automatisk</item>
         <item>Koble til manuelt</item>
         <item>Spør alltid</item>
-     </string-array>
-     <string-array name="wifi_connect_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -793,18 +762,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>TLS</item>
         <item>TTLS</item>
         <item>Passord</item>
-     </string-array>
-     <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-     </string-array>
-     <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Automatisk</item>
@@ -864,6 +821,10 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Bare når tilkoblet strøm</item>
         <item>Aldri</item>
      </string-array>
+     <string-array name="wifi_ssid_type_entries">
+        <item>Automatisk tilkobling</item>
+        <item>Manuell tilkobling</item>
+     </string-array>
      <string-array name="wifi_status">
         <item></item>
         <item>Skanner…</item>
@@ -905,8 +866,4 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Animasjonsskala 5 x</item>
         <item>Animasjonsskala 10 x</item>
      </string-array>
-    <string-array name="common_password_business_names">
-        <item>Skjermlås</item>
-        <item>Barnemodus</item>
-    </string-array>
 </resources>

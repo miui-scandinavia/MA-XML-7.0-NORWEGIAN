@@ -27,6 +27,10 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="fm_record_smaple_prefix_miui">FM-opptak</string>
      <string name="force_exit_message">Tvunget avslutting av %1$s</string>
      <string name="force_exit_skip_message">"Kan ikke lukke %1$s fordi den kreves av systemet."</string>
+     <string name="fp_nav_center_action_choose_dlg_msg">Du kan gå tilbake til din hjemskjerm ved å trykke Hjem-kanappen. Men du kan velge hva du vil gjøre med kun et trykk. Skreddersy din Hjem-knapp i Innstillinger &gt; Flere innstillinger &gt; Knapper.</string>
+     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nei tak</string>
+     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Skreddersy</string>
+     <string name="fp_nav_center_action_choose_dlg_title">Skreddersy Hjem-knapp</string>
      <string name="global_actions_airplane_mode">Flymodus</string>
      <string name="global_actions_reboot">Omstart</string>
      <string name="global_actions_shutdown">Skru av</string>

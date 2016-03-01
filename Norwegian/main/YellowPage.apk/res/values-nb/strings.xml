@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_fraud_num_online_identification">Om identifisering av phishing-numre</string>
+     <string name="about_fraud_num_online_identification">Om denne funksjonen</string>
      <string name="about_phone_event">Om tjenestemeldinger</string>
-     <string name="about_smart_antispam_summary">Om Inteligent nummeridentifisering</string>
-     <string name="about_telephone_fraud">Om telefonsvindel</string>
+     <string name="about_smart_antispam_summary">Om denne funksjonen</string>
+     <string name="about_telephone_fraud">Beskytt deg selv mot svindel</string>
      <string name="account_address">Adresser</string>
      <string name="account_order">Ordrehistorikk</string>
      <string name="account_title">Profil</string>
@@ -184,7 +184,7 @@
      <string name="express_select_sender">Fra</string>
      <string name="express_send">Send</string>
      <string name="express_send_mms">Send</string>
-     <string name="express_send_mms_format">En pakke har blitt levert til deg av %1$s, trackingnummer er %2$s.</string>
+     <string name="express_send_mms_format">En pakke levert av %1$s | Trackingnummer: %2$s</string>
      <string name="express_send_notice">Forbudte ting</string>
      <string name="express_sender_info">Avsender info</string>
      <string name="express_sender_name">Navn på avsender</string>
@@ -243,15 +243,15 @@
      <string name="login_before_use">Vennligst logg inn før bruk.</string>
      <string name="login_ok">Logg inn</string>
      <string name="mark_number_custom_dialog_maintitle">Samtykk eller korrige merke</string>
-     <string name="mark_number_custom_mark_deleted">Merke fjernet.</string>
-     <string name="mark_number_dialog_maintitle">Marker som spam nummer og last opp</string>
-     <string name="mark_number_dialog_subtitle">Merket av %2$d folk som %1$s.</string>
+     <string name="mark_number_custom_mark_deleted">Merke fjernet</string>
+     <string name="mark_number_dialog_maintitle">Rapporter dette nummeret</string>
+     <string name="mark_number_dialog_subtitle">Rapportert av %2$d folk som %1$s.</string>
      <string name="mark_number_feedback">Rapporter</string>
-     <string name="mark_number_feedback_hint">Skriv din tilbakemelding</string>
-     <string name="mark_number_feedback_invalid_hint">Skriv en gyldig tilbakemelding</string>
-     <string name="mark_number_feedback_success">Tilbakemelding ble sendt, nummeret vil bli verifisert.</string>
-     <string name="mark_number_marked_maintitle">Modifiser</string>
-     <string name="mark_number_marked_subtitle">Jeg merket som %s</string>
+     <string name="mark_number_feedback_hint">Skriv tilbakemelding</string>
+     <string name="mark_number_feedback_invalid_hint">Skriv din tilbakemelding</string>
+     <string name="mark_number_feedback_success">Tilbakemelding ble sendt</string>
+     <string name="mark_number_marked_maintitle">Endringsrapport for dette nummeret</string>
+     <string name="mark_number_marked_subtitle">Du har rapportert dette nummeret som %s</string>
      <string name="mark_number_remove">Fjern merke</string>
      <string name="mark_title_null_hint">Inndata kan ikke være tom</string>
      <string name="menu_add_black_list">Legg til i svarteliste</string>
@@ -269,6 +269,22 @@
      <string name="menu_unfollow_yellow_page">Avfølg</string>
      <string name="minimum_price">Fra %d RMB</string>
      <string name="mishop_web_payment_title">MiStore-utsjekking</string>
+     <string name="miuishare_account_activate_confirmation">Aktivering kreves</string>
+     <string name="miuishare_account_activate_ok">Aktiver</string>
+     <string name="miuishare_account_login_cancel">Avbryt</string>
+     <string name="miuishare_account_login_confirmation">Innlogging kreves</string>
+     <string name="miuishare_account_login_ok">Logg inn</string>
+     <string name="miuishare_account_need_activate">Weibo-deling krever at din Weibo-konto er koblet til din Xiaomi-konto, som ikke er aktivert. Aktiver din konto?</string>
+     <string name="miuishare_account_need_login">Weibo-deling krever at din Weibo-konto er koblet til din Xiaomi-konto, som du er logget inn med. Logg inn for å dele nå?</string>
+     <string name="miuishare_app_name">MiuiShare</string>
+     <string name="miuishare_no_network">Ingen nettverk for deling</string>
+     <string name="miuishare_publish">Del</string>
+     <string name="miuishare_share_done">Innholdet er delt.</string>
+     <string name="miuishare_share_editor_title">Del</string>
+     <string name="miuishare_title_more">Mer</string>
+     <string name="miuishare_title_share">Del</string>
+     <string name="miuishare_wechat_timeline_title">Wechat-tidslinje</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="more_coupons">Alle kuponger</string>
      <string name="navigation_search_all_cities">Alle byer</string>
      <string name="navigation_search_automatically_positioned_city">Gjeldende by</string>
@@ -319,7 +335,7 @@
      <string name="payment_failed_common_problems">Et problem oppstod under betaling.</string>
      <string name="payment_unknown_status_summary">Kontroller nettverkstilkoblingen og prøv på nytt.</string>
      <string name="payment_unknown_status_title">"Kunne ikke bekreft betalingsstatus"</string>
-     <string name="phone_event_setting_notice_text">"Identifisering av ukjente numre hjelper deg med å forstå hvilke tjenestetilbydere som ringer eller tekster deg. En melding som inneholder informasjon om tjenestetilbyderens informasjon vil bli sendt til din telefon etter at den har blitt verifisert av Xiaomi. Du bør lese og godkjenne %1$s og %2$s for å bruke denne funksjonen"</string>
+     <string name="phone_event_setting_notice_text">"Ved å bruke denne funksjonen godkjenner du våre %1$s og %2$s."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d totalt</string>
      <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
@@ -362,8 +378,8 @@
      <string name="remember_preference">Husk foretrukket valg</string>
      <string name="remind_another_time">"Ikke påminn meg"</string>
      <string name="remind_user_confirm">OK</string>
-     <string name="remind_user_suspect_number_message">"Kriminelle kan stjele andres identiteter for svindel, hvis du er i tvil, kan du ringe tilbake for å kontrollere den som ringer. Banker, e-handelselskaper og budtjenesteselskaper vil ikke be om passordet ditt eller bankkortinformasjon.</string>
-     <string name="remind_user_suspect_number_title">Pass opp for uredelige samtaler</string>
+     <string name="remind_user_suspect_number_message">Vær forsiktig: Alltid bekreft identiteten til innringeren via telefon eller video før du deler personlig informasjon.</string>
+     <string name="remind_user_suspect_number_title">Mistenkelig nummer</string>
      <string name="resource_account_abnormal_state">Kontofeil. Vent et minutt eller to og prøv igjen.</string>
      <string name="resource_account_fail_to_add">"Kunne ikke legge til konto"</string>
      <string name="resource_account_login">Logg inn</string>
@@ -527,6 +543,7 @@
      <string name="send_shortcut_success">Plassert på hjemskjermen</string>
      <string name="sending_shortcut">Sending…</string>
      <string name="service_unavailiable">Ditt nåværende nettverket er ikke bra, prøv igjen senere</string>
+     <string name="share">Del</string>
      <string name="shop_recommendation_format" formatted="false">%s: %s</string>
      <string name="sim1">SIM 1</string>
      <string name="sim2">SIM 2</string>
@@ -543,15 +560,15 @@
      <string name="toast_finish_delete_call_log">Anropshistorikk er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>
      <string name="try_again">Prøv igjen</string>
-     <string name="turn_off_hint_title">Hint</string>
-     <string name="turn_off_phone_event_hint">"Hvis du skrur av denne funksjonen, vil du ikke kunne bruke den etter at du legger på."</string>
-     <string name="turn_off_smart_antispam_hint">Skru av beskyttelse mot anrop fra ukjente?</string>
+     <string name="turn_off_hint_title">"Ikke identifiser ukjente numre?"</string>
+     <string name="turn_off_phone_event_hint">"Du vil ikke kunne se informasjon om ukjente numre."</string>
+     <string name="turn_off_smart_antispam_hint">Skru av beskyttelse mot anrop fra ukjente numre?</string>
      <string name="turn_on_phone_event_dialog_title">Oppdater nummeridentifikasjondatabase</string>
      <string name="turn_on_phone_event_summary">Last opp telefonstatus med tjenestenumre</string>
      <string name="turn_on_phone_event_title">Motta tjenesteinfo</string>
-     <string name="turn_on_smart_antispam_hint">Etter aktivering, vil numrene bli identifisert. Hvis ikke identifisert, kan du merke den for å identifisere falske samtaler.</string>
+     <string name="turn_on_smart_antispam_hint">Identifiser anropf ra ukjente numre ved hjelp av online database.</string>
      <string name="turn_on_smart_antispam_summary_off">Bare les de lokale forhåndsinnstillte nummerene</string>
-     <string name="turn_on_smart_antispam_summary_on">Identifiser ukjente numre og laste opp dine spam nummere</string>
+     <string name="turn_on_smart_antispam_summary_on">Last opp og identifiser ukjente numre fra nropshistorikk og tekstmeldinger</string>
      <string name="turn_on_smart_antispam_title">Identifiser ukjente nummer</string>
      <string name="turn_on_yellowpage_service_title">Bruk Gule Sider</string>
      <string name="upload_and_verify_fraud_num_off">Del informasjon om uønskede anrop</string>
@@ -559,14 +576,15 @@
      <string name="uploads_disabled">Filopplastninger er deaktivert</string>
      <string name="user_agreement2">" Brukerbetingelser"</string>
      <string name="user_agreement4">Erklæring om personvenr</string>
-     <string name="user_notice_identify_summary_format">Identifisering av ukjente nummer er en online tjeneste，vennligst les %1$s og %2$s før du bruker den.</string>
-     <string name="user_notice_identify_summary_format_cta">"Telefonen din vil bruke MIUI sin  database for å blokkere uønskede samtaler når tilkoblet Wi-Fi. Ved å trykke \"Samytkk\" godtar du Xiaomi sine %1$s og %2$s."</string>
+     <string name="user_notice_identify_summary_format">"Telefonen din vil bruke MIUI sin database for å blokkere ukjente anrop når tilkoblet Wi-Fi. Ved å bruke denne funksjonen godkjenner du våre %1$s og %2$s."</string>
+     <string name="user_notice_identify_summary_format_cta">"Telefonen din vil bruke MIUI sin database for å blokkere uønskede samtaler når tilkoblet Wi-Fi. Ved å bruke denne tjensten, godtar du vår %1$s og %2$s."</string>
      <string name="user_notice_title">Brukervarsel</string>
-     <string name="user_notice_yp_detail_summary_format">Den delvise info på denne gulesiden må oppdateres på nettet, vennligst les %1$s og %2$s, klikk \"Samtykk\", som betyr at du godtar innholdet ovenfor og bør adlyde avtalen, klikk \ "Avbryt \" for å bare vise den mellomlagrede info</string>
-     <string name="user_notice_yp_detail_summary_format_cta">"En del av kataloginfoen er utdatert. Vil du oppdatere den? Ved å trykke \"Samtykke\" godtar du Xiaomi sine %1$s og %2$s."</string>
+     <string name="user_notice_yp_detail_summary_format">En del av kataloginfoen er utdatert. Vil du oppdatere den? Ved å bruke denne funksjonen godkjenner du våre %1$s og %2$s.</string>
+     <string name="user_notice_yp_detail_summary_format_cta">"En del av kataloginfoen er utdatert. Vil du oppdatere den? Ved å bruke denne funksjonen godkjenner du våre %1$s og %2$s."</string>
      <string name="view_orders">Vis ordre</string>
      <string name="voicemail">Mobilsvar</string>
      <string name="web_permission_message">%1$s trenger å se din %2$s for å fungere normalt.</string>
+     <string name="yellow_page_details">Enterprise details</string>
      <string name="yellow_page_website">Offisielt nettsted</string>
      <string name="yellowpage_navigation_network_location_enable">Tillat</string>
      <string name="yellowpage_navigation_network_location_enable_later">Ikke nå</string>

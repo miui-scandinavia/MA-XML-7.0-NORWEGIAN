@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
-     <string name="activity_title_ad">Reklamer</string>
+     <string name="activity_title_ad">Reklame</string>
      <string name="activity_title_apk">Pakker</string>
      <string name="activity_title_brightness_image">Under- og overeksponert</string>
      <string name="activity_title_cache">Mellomlager</string>
      <string name="activity_title_cache_data">App data</string>
+     <string name="activity_title_deep_apk">Slett APKer</string>
      <string name="activity_title_deep_clean">Dyprensing</string>
      <string name="activity_title_garbage_cleanup">Opprydder</string>
      <string name="activity_title_ignored_image">Ignorert</string>
@@ -21,6 +22,7 @@
      <string name="activity_title_similar_image_group">Slett duplikater</string>
      <string name="activity_title_tedious_image">Tilfeldige bilcer</string>
      <string name="activity_title_uninstall_apps">Apper</string>
+     <string name="activity_title_video">Slett videoer</string>
      <string name="activity_title_white_list">Unntak</string>
      <string name="apk_status_damage">Skadet</string>
      <string name="apk_status_duplicate">Duplikat</string>
@@ -85,7 +87,10 @@
      <string name="confirm_auto_cleaner">OK</string>
      <string name="conn_of_function_safe">Nettverksforbindelse for sikkerhet</string>
      <string name="connecting">Kobler til…</string>
-     <string name="deepclean_app_content">Avinstaller apper du ikke har brukt i 30 dager</string>
+     <string name="deepclean_apk_content">Slett APKer eller unødvendige apper</string>
+     <string name="deepclean_apk_summary_empty">Alt ser bra ut, ingen APKer å slette</string>
+     <string name="deepclean_apk_version_error">Ukjent</string>
+     <string name="deepclean_app_content">Avinstaller apper du ikke har brukt på 30 dager</string>
      <string name="deepclean_app_summary_empty">Alt ser bra ut, ingen apper å slette</string>
      <string name="deepclean_cache_content">Tøm data generert av apper</string>
      <string name="deepclean_cache_header_left">Mellomlagrinsfiler: %d</string>
@@ -106,6 +111,8 @@
      <string name="deepclean_size_summary_normal">Lagringsplass tilgjengelig</string>
      <string name="deepclean_title_large_file">Slett store filer</string>
      <string name="deepclean_title_uninstall_apps">Sjeldent brukte apper</string>
+     <string name="deepclean_video_content">Slett allerede sette eller unødvendige videoer</string>
+     <string name="deepclean_video_summary_empty">Alt ser bra ut</string>
      <string name="default_cache_type">Datafiler</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Slett bilder fra Mi Cloud også</string>
      <string name="dialog_content_delete_image_confirm">Slett %d bilder?</string>
@@ -132,6 +139,7 @@
      <string name="empty_title_installed_apps">Tomt</string>
      <string name="empty_title_large_files">Tomt</string>
      <string name="empty_title_residual">Ingen rester funnet</string>
+     <string name="empty_title_video">Ingen videoer å slette</string>
      <string name="flow_rank_title">Dataforbruk</string>
      <string name="garbage_clean_detail">Detaljer</string>
      <string name="garbage_cleanup_detail">%1$d ganger, ryddet %2$s</string>
@@ -148,6 +156,8 @@
      <string name="hints_apk_version">Versjon %s</string>
      <string name="hints_app_uninstall_residual">Rydd opp rester etter avinstallering?</string>
      <string name="hints_cache_header_left">Mellomlagrede filer</string>
+     <string name="hints_cache_msd_desc">"Sletting av delta-oppdateringer påvirker ikke appbruk"</string>
+     <string name="hints_cache_msd_title">Delta-oppdatering</string>
      <string name="hints_cleanfinish">Ferdig med rydding</string>
      <string name="hints_deepclean_list_item_from">Fra %s</string>
      <string name="hints_deepclean_scanning">Skanner %s</string>
@@ -165,7 +175,10 @@
      <string name="hints_install_apps_new">Aldri åpnet</string>
      <string name="hints_install_apps_risk">Risiko oppdaget</string>
      <string name="hints_install_apps_today">Brukt i dag</string>
-     <string name="hints_install_apps_virus">virus oppdaget</string>
+     <string name="hints_install_apps_virus">Virus oppdaget</string>
+     <string name="hints_installed_app_fewer">Lite brukt</string>
+     <string name="hints_installed_app_near">Brukt nylig</string>
+     <string name="hints_installed_app_never">Aldri brukt</string>
      <string name="hints_installed_apps_header_left">Installerte apper: %d</string>
      <string name="hints_large_file_header_left">Store filer: %d</string>
      <string name="hints_latest_garbage_cleanup_date">Siste opprydning: %d dager siden</string>
@@ -194,6 +207,8 @@
      <string name="hints_storage_free_size">Totalt %1$s, %2$s tilgjengelig</string>
      <string name="hints_storage_news">Sikkerhetsnyheter</string>
      <string name="hints_title_garbage">søppel</string>
+     <string name="hints_video_camera">Video-opptak</string>
+     <string name="hints_video_download">Nedlastede videoer</string>
      <string name="hot">Populært</string>
      <string name="hot_today">Populært i dag</string>
      <string name="installed">Installert</string>
@@ -299,8 +314,10 @@
      <string name="sponsored">Sponset</string>
      <string name="start_install">Installer nå</string>
      <string name="summary_auto_cleaner">Rydd systemet automatisk hver 3. dag?</string>
-     <string name="summary_delete_cache">"Alle dataene til denne appen vil bli sletter permanent (dette inkluderer alle filer, innstillinger og kontoer)."</string>
-     <string name="summary_delete_large_file">"Noen store filer kan være nyttige når du har ikke en internettforbindelse (f.eks. kart, planer osv). Vær sikker på at du ikke trenger denne filen."</string>
+     <string name="summary_delete_apk">Slett valgte APKer permanent?</string>
+     <string name="summary_delete_cache">Tøm mellomlageret til valgte apper?</string>
+     <string name="summary_delete_large_file">Slett store filer permanent?</string>
+     <string name="summary_delete_video">&gt;Slett valgte videoer permanent?</string>
      <string name="summary_optimizer">"Denne funksjonen laster opp mappenavn for å oppdatere Cheetah Mobile sin nettdatabase og krever enhetens ID."</string>
      <string name="text_optimizer">Last opp ukjente mappenavn</string>
      <string name="there_is_no">Alt ser bra ut, kom tilbake senere</string>
@@ -316,9 +333,10 @@
      <string name="tips_of_traffic_pack_threshold">"Kjøp mer data når du er i ferd med å nå trafikkgrensen"</string>
      <string name="tips_of_virus_scan">Skan enheten for virus regelmessig for å holde den sikker</string>
      <string name="title_auto_cleaner">Rydd opp automatisk?</string>
-     <string name="title_delete_cache">Slett mellomlager-data?</string>
+     <string name="title_delete_cache">Tøm mellomlageret til appen+</string>
      <string name="title_delete_clipboard">Innhold i utklippstavle</string>
-     <string name="title_delete_large_file">Slett denne filen?</string>
+     <string name="title_delete_deepclean">Slett</string>
+     <string name="title_delete_large_file">Slett store filer</string>
      <string name="title_of_auto_launch_manage">Auto-start</string>
      <string name="title_of_cloud_service">Skytjenester</string>
      <string name="title_of_garbage_cloud_scan">Skyskann</string>
@@ -356,7 +374,7 @@
      <string name="white_list_ad_header">Reklame-filer: %d</string>
      <string name="white_list_apk_header">Installasjonspakker: %d</string>
      <string name="white_list_cache_header">Mellomlagrede filer: %d</string>
-     <string name="white_list_large_file_header">Store filer: %d</string>
+     <string name="white_list_large_file_header">Store filer og video: %d</string>
      <string name="white_list_residual_header">Rester: %d</string>
      <string name="white_list_title">Unntak</string>
      <string name="year_month_day_format">MMM dd, yyyy</string>

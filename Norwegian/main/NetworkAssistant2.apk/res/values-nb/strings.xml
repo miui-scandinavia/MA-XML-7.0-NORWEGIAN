@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="add_miservice_dialog_content">"%s krever at du legger MIUI-tjenesterammeverk til unntakslista. Du kan motta varsler fra MIUI sine innebygde apper og andre tredjepartsapper."</string>
      <string name="add_miservice_dialog_title">MIUI-tjenesterammeverk</string>
@@ -283,8 +283,8 @@
      <string name="pref_adjust_traffic_data">Sett databruk</string>
      <string name="pref_allow_connect_network_summary">Koble til datatjenester ved internasjonal roaming</string>
      <string name="pref_allow_connect_network_title">Internasjonal data roaming</string>
-     <string name="pref_allow_connect_network_whitelist_summary">Tillat hviteliste for å bruke mobildata</string>
-     <string name="pref_allow_connect_network_whitelist_title">Tillat unntak</string>
+     <string name="pref_allow_connect_network_whitelist_summary">Tillat apper i unntaksliste å bruke mobildata under roaming</string>
+     <string name="pref_allow_connect_network_whitelist_title">Internasjonal dataroaming</string>
      <string name="pref_app_traffic_managent">Begrens databruk etter app</string>
      <string name="pref_auto_adjust_settings">Innstillinger for auto-synk av databrukstatistikk</string>
      <string name="pref_auto_adjust_traffic">Auto-synk databrukstatistikk</string>
@@ -398,6 +398,9 @@
      <string name="show_traffic_dialog_title">Vis bruk i varslingsskyggen</string>
      <string name="signal_exception_summary">"Kan ikke koble til nettverket i dette området"</string>
      <string name="signal_exception_title">Svakt nettverkssignal</string>
+     <string name="sim_location_error_dialog_message">>"SIM-kortet du bruker er fra %1$s. Dette er forskjellig fra plasseringen du satt manuellt  (%2$s). Endre SIM-plassering til %3$s?"</string>
+     <string name="sim_location_error_notify_message">Trykk for å endre SIM-plassering.</string>
+     <string name="sim_location_error_notify_title">Feil med SIM-kort</string>
      <string name="sim_state_exception_summary">SIM-status indikerer at noe kan være galt med ditt SIM-kort.</string>
      <string name="songs_number">18 sanger</string>
      <string name="songs_unit">" sanger"</string>
@@ -462,7 +465,7 @@
      <string name="traffic_config_alert_nomore">"Ikke vis igjen"</string>
      <string name="traffic_config_alert_ok">OK</string>
      <string name="traffic_config_alert_package">"
-Rullet over ekstra data</string>
+Rullet over ekstra data"</string>
      <string name="traffic_config_alert_setted">Innstillinger brukt</string>
      <string name="traffic_config_alert_title">%s korreksjon</string>
      <string name="traffic_correction_failed">"Kan ikke hente info"</string>
@@ -485,7 +488,7 @@ Rullet over ekstra data</string>
      <string name="traffic_protection_summary">Lag alarm for når databruk når et visst nivå</string>
      <string name="traffic_protection_text_hint">Sett databruksgrense for %s</string>
      <string name="traffic_protection_unknown"><u>Sett opp senere</u></string>
-     <string name="traffic_protection_use_data">Data aktivert</string>
+     <string name="traffic_protection_use_data">Mobildata</string>
      <string name="traffic_purchase_body">Spar 50% når du fyller opp nå.</string>
      <string name="traffic_purchse_suggestion">Datagrense overskredet</string>
      <string name="traffic_saving_button_mng">Håndter apper</string>
@@ -505,7 +508,7 @@ Rullet over ekstra data</string>
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>
-     <string name="traffic_saving_mobile_usage">Mobilforbruk</string>
+     <string name="traffic_saving_mobile_usage">Datasparing</string>
      <string name="traffic_saving_msg_month">Spart denne måneden:</string>
      <string name="traffic_saving_msg_not_started">Datasparing er av</string>
      <string name="traffic_saving_msg_today">Data spart i dag:</string>
@@ -538,7 +541,7 @@ Rullet over ekstra data</string>
      <string name="traffic_saving_whitelist_btn_removed">App fjernet fra liste</string>
      <string name="traffic_saving_whitelist_count">"%d apper sitt databruk blir ikke begrenset"</string>
      <string name="traffic_saving_whitelist_no_app">Ingen apper</string>
-     <string name="traffic_saving_wifi_usage">Wi-Fi-forbruk</string>
+     <string name="traffic_saving_wifi_usage">Wi-Fi-sparing</string>
      <string name="traffic_setting_app_count">%d apper</string>
      <string name="traffic_setting_completed">OK</string>
      <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
@@ -552,6 +555,7 @@ Rullet over ekstra data</string>
      <string name="traffic_setting_fragment_button1_text">Avbryt</string>
      <string name="traffic_setting_fragment_button2_text">Lagre</string>
      <string name="traffic_setting_fragment_get_template_falure">"Kan ikke koble til nettverket. Sjekk dataforbindelsen og prøv igjen."</string>
+     <string name="traffic_setting_fragment_loacation_alert_nomore">"Ikke vis igjen"</string>
      <string name="traffic_setting_fragment_loading_text">Henter nettverksinfo…</string>
      <string name="traffic_setting_fragment_no_network">"Kan ikke koble til nettverket"</string>
      <string name="traffic_setting_fragment_null">Tom</string>

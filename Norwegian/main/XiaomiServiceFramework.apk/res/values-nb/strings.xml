@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Aktiver</string>
@@ -14,6 +14,12 @@
      <string name="activate_feature_mx_and_voip">Mi-melding og tale</string>
      <string name="activate_feature_register_xiaomi_account">Oppsett av Mi-konto</string>
      <string name="activate_feature_verify_mx_token">Mi-kontoverifisering</string>
+     <string name="activate_history_cancelled">avbrutt</string>
+     <string name="activate_history_multisim_overview">Aktivering for SIM-kort %3$d %1$s. Det ble utløst av funksjonen \"%2$s\".</string>
+     <string name="activate_history_overview">Aktivering for SIM-kort %1$s. Det ble utløst av funksjonen \"%2$s\".</string>
+     <string name="activate_history_sms">En SMS-melding er sendt under aktiveringa.</string>
+     <string name="activate_history_success">lyktes</string>
+     <string name="activate_history_title">SIM-kort-aktivering</string>
      <string name="activate_phone_cancel_notif_title">Aktivering av SIM-kort avbrutt</string>
      <string name="activate_phone_cancel_notif_title_msim">Aktivering av SIM-kort %s avbrutt</string>
      <string name="activate_phone_failed_notif_title">"Kan ikke aktivere SIM-kort"</string>

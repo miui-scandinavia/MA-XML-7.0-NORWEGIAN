@@ -21,6 +21,7 @@
      <string name="accessibility_data_three_bars">Data tre stolper.</string>
      <string name="accessibility_data_two_bars">Data to stolper.</string>
      <string name="accessibility_home">Hjem</string>
+     <string name="accessibility_managed_profile">Arbeidsprofil</string>
      <string name="accessibility_menu">Meny</string>
      <string name="accessibility_no_data">Ingen data.</string>
      <string name="accessibility_no_phone">Ingen telefon.</string>
@@ -85,7 +86,7 @@
      <string name="description_direction_left">Trekk til venstre for %s.</string>
      <string name="description_direction_up">Trekk opp for %s.</string>
      <string name="description_target_search">Søk</string>
-     <string name="disable_notification_summary">"Skjul apper sine varsler"</string>
+     <string name="disable_notification_summary">Aldri vis varsler fra valgte apper</string>
      <string name="disable_notification_title">Skjul varsler</string>
      <string name="dismount_storage">Nei</string>
      <string name="dlg_confirm_kill_storage_users_text">Hvis du aktiverer USB-lagring, vil pågående applikationer muligens stoppe og/eller bli utilgjengelige, inntil USB-lagring slås av.</string>
@@ -122,6 +123,7 @@
      <string name="label_view">Vis</string>
      <string name="lland">L Land</string>
      <string name="lockscreen_carrier_default">Ingen tjeneste</string>
+     <string name="managed_profile_foreground_toast">"Du bruker din arbeidsprofil"</string>
      <string name="mdb_entering">Starter MDB</string>
      <string name="mdb_restore_cancel">Avbryt</string>
      <string name="mdb_restore_info1">Vil gjenopprette telefonens data</string>

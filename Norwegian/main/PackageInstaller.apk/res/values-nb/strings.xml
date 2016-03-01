@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="Parse_error_dlg_text">Det oppsto et problem under lesing av pakken.</string>
      <string name="Parse_error_dlg_title">Lesefeil</string>
@@ -61,7 +61,7 @@
      <string name="installing">Installerer ...</string>
      <string name="launch">Åpne</string>
      <string name="lift_ban">Tillat</string>
-     <string name="lift_ban_once">Allow once</string>
+     <string name="lift_ban_once">Tillat én gang</string>
      <string name="low_risk_perms">Lavrisiko-tillatelser</string>
      <string name="manage_applications">Administrer apper</string>
      <string name="manage_device_administrators">Administrer enhetsadministratorer</string>
@@ -128,12 +128,15 @@
      <string name="uninstall_update_title">Avinstaller oppdatering</string>
      <string name="uninstalling">Avinstallerer…</string>
      <string name="unknown">Ukjent</string>
-     <string name="unknown_apps_dlg_text">Telefonen din er innstilt til å blokkere installasjon av apper som kommer fra ukjente kilder. Du kan skru av denne funksjonen i Innstillinger &gt; Sikkerhet &gt; Ukjente kilder.</string>
+     <string name="unknown_apps_dlg_text">Telefonen din er innstilt til å blokkere installasjon av apper som kommer fra ukjente kilder. Du kan skru av denne funksjonen i Innstillinger.</string>
+     <string name="unknown_apps_dlg_text1">"Telefonen din er innstilt til å blokkere installasjon av apper som kommer fra ukjente kilder. Du kan skru av denne funksjonen i "</string>
+     <string name="unknown_apps_dlg_text2">\"Innstillinger\"</string>
+     <string name="unknown_apps_dlg_text3">.</string>
      <string name="unknown_apps_dlg_title">Installasjonen er blokkert</string>
      <string name="unknown_installer">Ukjent installeringsverktøy</string>
      <string name="virus_scan_caller_unknown">Ukjent</string>
      <string name="virus_scan_clear">Fjern</string>
-     <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
+     <string name="virus_scan_install">&lt;u&gt;Installer uansett&lt;/u&gt;</string>
      <string name="virus_scan_is_risk">Dette programmet utgjør en risiko!</string>
      <string name="virus_scan_is_virus">Dette programmet er et virus, vennligst fjern det øyeblikkelig!</string>
      <string name="waiting_tip">Dette kan ta en stund, men det er verdt det</string>

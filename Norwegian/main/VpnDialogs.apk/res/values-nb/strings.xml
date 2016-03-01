@@ -9,6 +9,6 @@
   <string name="duration">Varighet:</string>
   <string name="legacy_title">VPN er tilkoblet</string>
   <string name="prompt">%s forsøker å oprette en VPN-forbindelse.</string>
-  <string name="session">Session:</string>
+  <string name="session">Sesjon:</string>
   <string name="warning">Ved å fortsette, gir du applikasjonen tillatelse til å fange opp all nettverkstrafikk. </string>
 </resources>

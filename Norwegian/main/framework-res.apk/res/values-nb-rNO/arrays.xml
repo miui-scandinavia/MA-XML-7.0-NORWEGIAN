@@ -53,6 +53,13 @@
         <item>Prøver å skrive MMS</item>
         <item>Prøver å starte ved oppstart</item>
      </string-array>
+     <string-array name="config_gpsParameters">
+        <item>SUPL_HOST=supl.google.com</item>
+        <item>SUPL_PORT=7275</item>
+        <item>NTP_SERVER=north-america.pool.ntp.org</item>
+        <item>SUPL_VER=0x20000</item>
+        <item>SUPL_MODE=1</item>
+     </string-array>
      <string-array name="emailAddressTypes">
         <item>Hjemme</item>
         <item>Arbeid</item>
@@ -75,10 +82,43 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
+     <string-array name="locale_carrier_names">
+        <item>China_Mobile</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>roamingTextSearching</item>
+     </string-array>
+     <string-array name="no_ems_support_sim_operators">
+        <item>20404;suffix;BAE0000000000000</item>
+     </string-array>
      <string-array name="organizationTypes">
         <item>Arbeid</item>
         <item>Annen</item>
         <item>Egendefinert…</item>
+     </string-array>
+     <string-array name="origin_carrier_names">
+        <item>"CHINA  MOBILE"</item>
+        <item>CMCC</item>
+        <item>CHN-UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>中國移動</item>
+        <item>中國聯通</item>
+        <item>中國電信</item>
+        <item>Searching for Service</item>
      </string-array>
      <string-array name="phoneTypes">
         <item>Hjemmenummer</item>
@@ -96,4 +136,12 @@
         <item>Annen</item>
         <item>Egendefinert…</item>
      </string-array>
+     <array name="sim_colors">
+        <item>@color/Teal_700</item>
+        <item>@color/Blue_700</item>
+        <item>@color/Indigo_700</item>
+        <item>@color/Purple_700</item>
+        <item>@color/Pink_700</item>
+        <item>@color/Red_700</item>
+     </array>
 </resources>

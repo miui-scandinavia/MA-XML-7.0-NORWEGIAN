@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="activate_xiaomi_account">Aktiver denne enheten</string>
      <string name="app_name">Finn enhet</string>
@@ -13,12 +13,13 @@
      <string name="enable_find_device_error">"Kan ikke slå på Fin enhet. %1$s"</string>
      <string name="enable_find_device_success">Finn enhet er på</string>
      <string name="find_device">Finn enhet</string>
+     <string name="find_device_crash">Finn enhet ble uventet lukket</string>
      <string name="find_device_error_account_sys_timeout">"Kunne ikke koble til Mi-konto"</string>
      <string name="find_device_error_network">Sjekk din datatilkobling og prøv igjen.</string>
      <string name="find_device_error_password_changed">Kontopassord har nylig blitt endret.</string>
      <string name="find_device_error_server">Serverfeil</string>
      <string name="find_device_error_unknown">Ukjent feil.</string>
-     <string name="find_device_noise_title">Lokaliser enhet-alarm</string>
+     <string name="find_device_noise_title">Finn enhet-alarm</string>
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, lås, eller gjenopprette telefonen.Hvis du bytter SIM-kort, vil en annen SMS sendes automatisk for å aktivere for denne funksjonen."</string>

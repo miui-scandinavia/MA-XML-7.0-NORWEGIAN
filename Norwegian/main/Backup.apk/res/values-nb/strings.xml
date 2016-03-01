@@ -47,10 +47,11 @@
      <string name="button_backup">Backup</string>
      <string name="button_cancel">Annuller</string>
      <string name="button_continue">Fortsett</string>
-     <string name="button_finish">OK</string>
+     <string name="button_finish">Fullfør</string>
      <string name="button_next">Neste</string>
      <string name="button_ok">OK</string>
      <string name="button_return">Tilbake</string>
+     <string name="button_send">Send</string>
      <string name="call_title">Telefonlister</string>
      <string name="camera_summary">Kamerainnstillinger (inkluderer ikke bilder)</string>
      <string name="cancel">Annuller</string>
@@ -130,9 +131,13 @@
      <string name="local_no_backup">Ingen backups.</string>
      <string name="local_restore_window_title">Lokal gjenoppretting</string>
      <string name="local_select_account_contact">Kontoer / Kontakter</string>
+     <string name="local_select_audio">Lydfiler</string>
+     <string name="local_select_doc">Dokumenter</string>
      <string name="local_select_files">SD-kort</string>
+     <string name="local_select_image">Bilder</string>
      <string name="local_select_sysdata">System</string>
      <string name="local_select_userapp">Programmer</string>
+     <string name="local_select_video">Video</string>
      <string name="menu_patch_delete">Slett backuper</string>
      <string name="miliao_account_guide">"Bruk din Mi-konto for å nyte alle av Xiaomi sine online tjenester"</string>
      <string name="miliao_account_login">Logg inn med Mi Talk</string>
@@ -195,6 +200,10 @@
      <string name="select_storage_location">Velg plassering for sikkerhetskopier</string>
      <string name="service_stoped">Tjeneste stoppet</string>
      <string name="settings_summary">Telefon- og meldingsinnstillinger</string>
+     <string name="size_byte">B</string>
+     <string name="size_giga_byte">GB</string>
+     <string name="size_kilo_byte">KB</string>
+     <string name="size_mega_byte">MB</string>
      <string name="sms_title">SMS-meldinger</string>
      <string name="software_backup_info">Backup apps med data</string>
      <string name="st_antispam_mode_blacklist_state">11112121</string>
@@ -216,7 +225,7 @@
      <string name="task_backup_cancel_progress">Stopper…</string>
      <string name="task_backup_finished_local">"Sikkerhetskopiert "</string>
      <string name="task_canceled">Avbrutt</string>
-     <string name="task_canceled_all_local">Annuller alle oppgaver</string>
+     <string name="task_canceled_all_local">Avbrutt</string>
      <string name="task_canceled_local">Backup uferdig (%s)</string>
      <string name="task_cloud_backup_cancel_dialog">Backup er ikke ferdig. Stopp uansett?</string>
      <string name="task_failed">"Kunne ikke ta backup"</string>
@@ -243,8 +252,8 @@
      <string name="total_num">%d elementer,</string>
      <string name="trans_backingup">Tar sikkerhetskopi …</string>
      <string name="trans_backingup_no_items">Synker…</string>
-     <string name="trans_cancel_confirm">Overføring pågår, avbryt nå?</string>
-     <string name="trans_cancelling">Avbryter</string>
+     <string name="trans_cancel_confirm">Overføring pågår, stopp nå?</string>
+     <string name="trans_cancelling">Avbryter…</string>
      <string name="trans_connect_failed_toast">"Kunne ikke koble til"</string>
      <string name="trans_connecting_toast">Kobler til…</string>
      <string name="trans_detail_category_account">Kontoer og kontakter</string>
@@ -253,32 +262,39 @@
      <string name="trans_detail_category_userdata">Apper</string>
      <string name="trans_device_disconnected">Enhet frakoblet</string>
      <string name="trans_generate_qr_code_failed">"Kunne ikke opprette QR-kode"</string>
-     <string name="trans_main_tutor">Overfør kontakter, anropshistorikk, meldinger, hjemskjerm, apper, innstillinger osv til en ny enhet</string>
+     <string name="trans_main_tutor">Flytt kontakter, anropshistorikk, meldinger, hjemskjerm, apper, innstillinger osv til en ny enhet</string>
      <string name="trans_my_device">Min enhet</string>
-     <string name="trans_one_key_migrate">Overfør</string>
+     <string name="trans_one_key_migrate">Mi Mover</string>
+     <string name="trans_operate_func_one">Metode A</string>
+     <string name="trans_operate_func_two">Metode B</string>
      <string name="trans_operate_new_phone_tips">"Skann QR-kode med ny enhet
-Gå til Innstillinger &gt; Flere innstillinger &gt; Overfør
+Gå til Innstillinger &gt; Flere innstillinger &gt; Mi Mover
  Trykk [Jeg er en mottaker] for å opprette en QR-kode"</string>
-     <string name="trans_operate_old_phone_tips1">"Metode A
-1. Installer Overfør-appen på din gamle enhet
+     <string name="trans_operate_old_phone_tips1">"1. Installer Mi Mover-appen på din gamle enhet
 2. Åpne appen og velg [Jeg er en sender]
 3. Skann QR-koden med din gamle enhet"</string>
-     <string name="trans_operate_old_phone_tips2">"Method B
-Gå til Innstillinger &gt; Flere innstillinger &gt; Overfør
- Velg [Jeg er en sender]"</string>
-     <string name="trans_progress_subdescript_br_receiver">Mottar %s</string>
-     <string name="trans_progress_subdescript_br_sender">Sikkerhetskopierer %s</string>
-     <string name="trans_progress_subdescript_transing_receiver">Mottar %s</string>
-     <string name="trans_progress_subdescript_transing_sender">Sender %s</string>
-     <string name="trans_progress_subdescript_transingsd_receiver">Mottar filer…</string>
-     <string name="trans_progress_subdescript_transingsd_sender">Sender filer…</string>
+     <string name="trans_operate_old_phone_tips2">"Gå til Innstillinger &gt; Flere innstillinger &gt; Mi Mover, Trykk [Jeg er en sender]"</string>
+     <string name="trans_progress_subdescript_br_receiver">Gjenoppretter %1$s, %2$s fullført</string>
+     <string name="trans_progress_subdescript_br_sender">Sikkerhetskopierer %1$s, %2$s fullført</string>
+     <string name="trans_progress_subdescript_transing_receiver">Mottar %1$s, %2$s fullført</string>
+     <string name="trans_progress_subdescript_transing_sender">Sender %1$s, %2$s fullført</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Mottar filer, %s fullført</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Sender filer, %s fullført</string>
      <string name="trans_progress_subdescript_waiting">Venter på å motta %s</string>
      <string name="trans_receiver">"Jeg er en mottaker"</string>
-     <string name="trans_receiving_completed">Data mottatt</string>
+     <string name="trans_receiver_time_remained">"%s gjenstående.
+Ikke skru av Wi-Fi-hotspot.
+Hold enhetene nærme hverandre."</string>
+     <string name="trans_receiving_completed">Overføring fullført</string>
      <string name="trans_restoring">Gjenoppretter…</string>
      <string name="trans_restoring_no_items">Synker elementer</string>
      <string name="trans_scan_invalid_qrcode">Ugyldig QR-kode</string>
      <string name="trans_scan_qr_code_tips">Skann QR-kode med ny enhet</string>
+     <string name="trans_select_data">Velg elementer å sende</string>
+     <string name="trans_select_data_no_space">"%s tilgjengelig på ny enhet
+Velg filer igjen eller lag plass"</string>
+     <string name="trans_select_data_tips">"Velg elementer å overføre
+Lignende filer på samme enheten vil bli overskrevet"</string>
      <string name="trans_select_device_receive">Velg en enhet til å motta data.</string>
      <string name="trans_select_device_send">Velg en enhet til å overføre data.</string>
      <string name="trans_sender">"Jeg er en sender"</string>
@@ -286,18 +302,25 @@ Gå til Innstillinger &gt; Flere innstillinger &gt; Overfør
      <string name="trans_sender_searching">Søker etter eldre enheter</string>
      <string name="trans_sender_searching_ensurance">"Sørg for at gammel enhet er på
 Venter på at den gamle enheten kobler seg til…"</string>
-     <string name="trans_sending_completed">Data sendt</string>
+     <string name="trans_sender_time_remained">"%s gjenstående.
+Ikke skru av Wi-Fi-hotspot.
+Hold enhetene nærme hverandre."</string>
+     <string name="trans_sending_completed">Sending fullført</string>
+     <string name="trans_show_qr_code_label">Koble til gammel enhet</string>
      <string name="trans_show_qr_code_tips">Skann QR-kode med gammel enhet</string>
-     <string name="trans_time_format_second">mindre enn ett minutt</string>
+     <string name="trans_time_format_second">Mindre enn ett minutt</string>
      <string name="trans_time_remained">, klar om</string>
+     <string name="trans_time_spent">"
+Tid brukt: %s"</string>
+     <string name="trans_wait_trans_data">"Koblet til den gamle enheten.
+Venter på overføring…"</string>
      <string name="trans_waiting_ensurance">"Sørg for at gammel enhet er på
-og Overføring er aktivert"</string>
+og Mi Mover er skrudd på"</string>
      <string name="trans_waiting_for_sender">Venter på at den gamle enheten kobler seg til…</string>
      <string name="unit_byte">B</string>
      <string name="unit_piece">" elementer"</string>
      <string name="unknown_hint">Ukjent</string>
      <string name="wifi_title">WiFi-innstillinger</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_router">Mi-ruter</string>
      <string name="xiaomi_router_location">Mi-ruter %s</string>
 </resources>

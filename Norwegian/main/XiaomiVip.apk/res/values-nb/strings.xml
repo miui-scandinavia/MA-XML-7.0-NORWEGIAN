@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="achieve_condition">Belønnet for:</string>
      <string name="achieved">TJENT</string>
@@ -33,6 +33,7 @@
      <string name="device_charge_times">Ganger ladet</string>
      <string name="device_unlock_screen_times">Skjerm låst opp</string>
      <string name="device_usage_data">Statistikk over telefonbruk</string>
+     <string name="download_fail">"Kan ikke laste ned app: %s"</string>
      <string name="download_message">Last ned %s?</string>
      <string name="download_progress">%d%%</string>
      <string name="download_title">Last ned denne appen?</string>

@@ -3,7 +3,7 @@
 <resources>
      <string name="add_account_desc">Notater kan synkroniseres til din Xiaomi-konto. Log inn og synk nå?</string>
      <string name="alarm_bar_title">Påminnelse</string>
-     <string name="alert_action_edit_anyway">Fortsett endring</string>
+     <string name="alert_action_edit_anyway">Endre</string>
      <string name="alert_edit_action_delete">Fjern</string>
      <string name="alert_edit_action_update">Rediger</string>
      <string name="alert_message_delete">Sleet %1$s?</string>
@@ -11,8 +11,8 @@
      <string name="alert_message_delete_folders_notes">Slett %1$sog %2$s?</string>
      <string name="alert_message_delete_note">Er du sikker på du vil slette dette notatet?</string>
      <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s?</string>
-     <string name="alert_message_edit_anyway">Dette notatet har innhold som ikke er støttet, endring av notatet kan føre til datatap.</string>
-     <string name="alert_title_delete">Slett notat</string>
+     <string name="alert_message_edit_anyway">Hvis du endrer dette notatet, kan noe av innholdet bli borte.</string>
+     <string name="alert_title_delete">Slett notat?</string>
      <string name="alert_title_edit_anyway">Bekreft endring av notatet, dette kan føre til datatap, er du sikker?</string>
      <string name="all_terms">%1$s og %2$s</string>
      <string name="app_name">Notater</string>
@@ -20,7 +20,7 @@
      <string name="attachment_camera">Kamera</string>
      <string name="attachment_contact">Kontakter</string>
      <string name="attachment_gallery">Galleri</string>
-     <string name="button_new_note">Nytt notat</string>
+     <string name="button_new_note">Ny</string>
      <string name="call_record_folder_name">Anropsopptak</string>
      <string name="default_folder_name">Notater</string>
      <string name="dlg_delete_message">Sletter…</string>
@@ -33,14 +33,14 @@
      <string name="error_note_empty_for_clock">Beklager, tiden kan ikke innstilles på et tomt notat</string>
      <string name="error_note_empty_for_send_to_desktop">Beklager, kan ikke sende et tomt notat til skrivebordet</string>
      <string name="error_note_not_exist">Notatet eksisterer ikke</string>
-     <string name="error_unsupport_content">Dette notatet har innehold som ikke støttes, klikk for å oppgradere system</string>
+     <string name="error_unsupport_content">Notatet har innhold som ikke er støttet, trykk her for å oppdatere</string>
      <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
      <string name="folder_exist">En mappe med det samme navnet eksisterer allerede</string>
      <string name="format_move_notes_out_folder">Flyttet %1$s ut</string>
      <string name="format_move_notes_to_folder">Flyttet %1$s til %2$s</string>
      <string name="hint_foler_name">Skriv inn navn</string>
      <string name="info_note_enter_desktop">Notat lagt til skrivebord</string>
-     <string name="loading_text">Laster…</string>
+     <string name="loading_text">Bare et sekund…</string>
      <string name="login_sync">Logg inn &amp; synk</string>
      <string name="menu_create_folder">Ny mappe</string>
      <string name="menu_delete">Slett</string>
@@ -50,36 +50,36 @@
      <string name="menu_send_to_desktop">Send til skrivebord</string>
      <string name="menu_send_wechat">Send to WeChat</string>
      <string name="menu_send_weibo">Send to Weibo</string>
-     <string name="menu_source">From: %1$s</string>
+     <string name="menu_source">Fra %1$s</string>
      <string name="menu_stick">Prioriter</string>
      <string name="menu_title_select_folder">Velg mappe</string>
      <string name="menu_unstick">Deprioriter</string>
      <string name="micloud_state_total_count">%1$s</string>
      <string name="not_now">Ikke nå</string>
      <string name="note_alert_expired">Utløpt</string>
-     <string name="note_link_email">Send epost</string>
-     <string name="note_link_other">Åpne kort</string>
+     <string name="note_link_email">Lag epost</string>
+     <string name="note_link_other">Åpne med kart-app</string>
      <string name="note_link_select">Velg tekst</string>
-     <string name="note_link_tel">Ring opp</string>
-     <string name="note_link_web">Søk på internett</string>
-     <string name="notealert_enter">Se notat</string>
+     <string name="note_link_tel">Ring</string>
+     <string name="note_link_web">Vis i nettleser</string>
+     <string name="notealert_enter">Åpne notat</string>
      <string name="notealert_ok">Ignorer</string>
      <string name="notelist_menu_new">Tilføy notat</string>
      <string name="notelist_string_info">...</string>
      <string name="notify_alarm_title">Alarm-påminnelse</string>
-     <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til personlig informasjon.</string>
+     <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til dine personlig data.</string>
      <string name="permlab_accessNote">Få tilgang til notater</string>
-     <string name="pref_desc_alarm_when_silent">Alarmer vil høres i stille modus</string>
-     <string name="pref_title_alarm_when_silent">Alarm i stillemodus</string>
+     <string name="pref_desc_alarm_when_silent">Alarmer for påminnelser vil høres selv i stillemodus</string>
+     <string name="pref_title_alarm_when_silent">Ikke demp påminnelser</string>
      <string name="pref_title_common">Vanlige innstillinger</string>
      <string name="pref_title_font_size">Skriftstørrelse</string>
-     <string name="pref_title_note_style">Notatstil</string>
+     <string name="pref_title_note_style">Stil</string>
      <string name="pref_title_recover_help">Gjenopprett notater</string>
      <string name="redo">Gjør om igjen</string>
      <string name="search">Notater</string>
      <string name="search_hint">Søk i notater</string>
-     <string name="search_label">Søker i notater</string>
-     <string name="search_setting_description">Tekst i dine notater</string>
+     <string name="search_label">Søker…</string>
+     <string name="search_setting_description">Søk tekst i dine notater</string>
      <string name="select_account_prompt">Aktiver notatsynkronisering</string>
      <string name="sina_share_fail">Kunne ikke sende</string>
      <string name="sina_share_fail_content_repeat">"Kunne ikke dele, innhold eksisterer allerede…"</string>
@@ -117,13 +117,8 @@
      <string name="unknown_source">Ukjent kilde</string>
      <string name="welcome_note_for_cm">"Og flere flotte funksjoner!
   - Synk med Mi Cloud
-  - Lagre ved lukking
-  - Sette påminnelser
-
-For å lære mer, besøk
-http://www.miui.com/forum.php?lang=1
-"</string>
-     <string name="widget_content_loading">Laster…</string>
-     <string name="widget_havenot_content">Ingen assosiert notat funnet, klikk for å opprette.</string>
+  - Sette påminnelser"</string>
+     <string name="widget_content_loading">Bare et sekund…</string>
+     <string name="widget_havenot_content">"Kunne ikke finne notat. Trykk for å opprette et nytt notat. For å endre størrelse, trykk og dra i en kant."</string>
      <string name="widget_under_privacy_mode">"Kan ikke vise notater i Gjestemodus"</string>
 </resources>

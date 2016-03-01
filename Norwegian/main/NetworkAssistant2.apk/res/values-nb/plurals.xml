@@ -6,12 +6,12 @@
         <item quantity="one">Brukt i går</item>
      </plurals>
      <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d apper kan ikke bruke mobildata"</item>
-        <item quantity="one">"%d app kan ikke bruke mobildata"</item>
+        <item quantity="other">"%d apper kan ikke bruke dataroaming"</item>
+        <item quantity="one">"%d app kan ikke bruke dataroaming"</item>
      </plurals>
      <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d apper kan bruke mobildata</item>
-        <item quantity="one">%d app kan bruke mobildata</item>
+        <item quantity="other">%d apper kan bruke dataroaming</item>
+        <item quantity="one">%d app kan bruke dataroaming</item>
      </plurals>
      <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apper funnet</item>

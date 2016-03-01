@@ -3,9 +3,9 @@
 <resources>
      <string-array name="apk_clean_menu">
         <item>Rydd opp</item>
-        <item>"Vis APKens plassering"</item>
+        <item>Installer denne appen</item>
+        <item>Vis i mappe</item>
         <item>Legg til i unntak</item>
-        <item>Installer denne APKen</item>
      </string-array>
      <string-array name="app_clean_menu">
         <item>Avinstaller</item>
@@ -61,6 +61,11 @@
      <string-array name="trash_clean_menu">
         <item>Rydd opp denne filen</item>
         <item>"Vis filens plassering"</item>
+        <item>Legg fil i unntak</item>
+     </string-array>
+     <string-array name="video_clean_menu">
+        <item>Rydd opp denne filen</item>
+        <item>Åpne</item>
         <item>Legg fil i unntak</item>
      </string-array>
 </resources>

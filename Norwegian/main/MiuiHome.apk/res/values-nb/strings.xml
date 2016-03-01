@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="activity_not_found">"App ikke installert på din enhet"</string>
+     <string name="add_screen">Legg til skjerm-knapp</string>
      <string name="app_already_exist">App eksisterer allerede</string>
      <string name="app_being_backup_message">"App blir sikkerhetskopiert"</string>
      <string name="app_being_restored_message">App blir gjenopprettet</string>
@@ -22,6 +23,7 @@
      <string name="app_category_tools">Verktøy</string>
      <string name="app_category_travel">Reise</string>
      <string name="application_name">MiuiHome</string>
+     <string name="apply">Bruk</string>
      <string name="apply_action">Bruk</string>
      <string name="apply_as_lock_screen">Låseskjerm</string>
      <string name="apply_as_lock_wallpaper">Bruk</string>
@@ -63,6 +65,7 @@
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="default_theme_name">Standard</string>
      <string name="delete">Slett</string>
+     <string name="delete_screen">Slett skjerm-knapp</string>
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
      <string name="delete_wallpapers_message">Slett %1$d bakgrunner?</string>
      <string name="deselect_all">Avvvelg alle</string>
@@ -148,6 +151,8 @@
      <string name="is_setting_wallpaper_message">Setter bakgrunn…</string>
      <string name="is_setting_wallpaper_toast">Setter bakgrunn…</string>
      <string name="is_system_wallpaper_message">"Kan ikke slette systemressurser"</string>
+     <string name="like">Lik</string>
+     <string name="liked">Likt</string>
      <string name="loading_desktop">Bare et sekund…</string>
      <string name="loading_wallpaper">Bare et sekund…</string>
      <string name="local_wallpaper">Nedlastet</string>
@@ -207,12 +212,15 @@
      <string name="recommend_apps_switch_title">Anbefalte apper</string>
      <string name="recommend_apps_tips">"Denne funksjonen trenger å koble til Internett for å fungere normalt. For å skru av denne funksjonen, trykk på mappens navn."</string>
      <string name="reset_scene_prompt">Layout vil bli nullstilt</string>
+     <string name="screen_number">%d-skjermen</string>
      <string name="scroll_tip_format_when_announce_accessibility">Side %1$d, %2$d programmer</string>
      <string name="select_all">Velg alle</string>
      <string name="select_frame">Ramme</string>
      <string name="select_photo">Bilde</string>
      <string name="setting_wallpaper_tip">Klyp eller sveip for å justere</string>
+     <string name="settings">Innstillinger</string>
      <string name="settings_shortcut">Innstillinger</string>
+     <string name="share">Del</string>
      <string name="sharedUserId" />
      <string name="show_all">Vis alle</string>
      <string name="sort_by_abc">Sorter alfabetisk</string>

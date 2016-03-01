@@ -78,7 +78,7 @@
      <string name="add_folder">Legg til gruppe</string>
      <string name="add_new_bookmark">Legg til bokmerke</string>
      <string name="add_new_quicklink">Legg på startside</string>
-     <string name="add_ql_bm_title">Legg til</string>
+     <string name="add_ql_bm_title">Lagre</string>
      <string name="add_quicklink_to_popular">Legg på startside</string>
      <string name="add_quicklinks">Legg på startside</string>
      <string name="add_to_bookmark">Bokmerker</string>
@@ -393,6 +393,8 @@
      <string name="geolocation_settings_page_summary_not_allowed">"Dette nettstedet kan ikke få tilgang til din plassering"</string>
      <string name="geolocation_settings_page_title">Fjern plasseringstilgang</string>
      <string name="go_home">Startside</string>
+     <string name="go_supermarket_button">Gå</string>
+     <string name="go_supermarket_title">Flere apper, raskere hastighet, og mindre dataforbruk i App-butikken</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="goto_dot">Gå til</string>
      <string name="have_sent_bookmark_to_home_screen">Sendt til skrivebord</string>
@@ -401,7 +403,7 @@
      <string name="history_most_visited">Mest besøkte</string>
      <string name="history_saved_webpage">Lagre side</string>
      <string name="history_track">Historikk</string>
-     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+     <string name="homepage_base">https://www.google.no/webhp?client={CID}&amp;source=android-home</string>
      <string name="homepage_delete_card_menu">Slett</string>
      <string name="homepage_get_location">Hent plassering</string>
      <string name="homepage_get_location_failed">"Kunne ikke hente info, velg by"</string>
@@ -425,6 +427,7 @@
      <string name="import_bookmarks_wizard_next">Neste</string>
      <string name="import_bookmarks_wizard_previous">Forrige</string>
      <string name="in_incognito">Inkognito-modus er aktiv, ingen nettleserhistorikk blir lagret.</string>
+     <string name="in_secureaccess">Nettleser endret til sikkermodus</string>
      <string name="instant_search_label">Google med Instant (Labs)</string>
      <string name="is_first_history_item">Dette er første siden i nettleserhistorikken</string>
      <string name="is_first_tab">Er allerede første fane</string>
@@ -515,12 +518,33 @@ Vil du forlate denne siden?"</string>
      <string name="miui_search_notification_title">Nettleser raskt søk</string>
      <string name="miui_startpage">Startside</string>
      <string name="miuichromium_default_text_encoding">Latin-1</string>
+     <string name="miuichromium_error_page_airplane_mode">Flymodus</string>
+     <string name="miuichromium_error_page_airplane_mode_on">Slå av flymodus for å koble til</string>
+     <string name="miuichromium_error_page_btn_close">Lukk</string>
+     <string name="miuichromium_error_page_btn_refresh">Oppdater</string>
+     <string name="miuichromium_error_page_diagnose">Nettverksdiagnostikk</string>
+     <string name="miuichromium_error_page_diagnose_banner">Nettverksdiagnostikk</string>
+     <string name="miuichromium_error_page_diagnose_certificate">"Kunne ikke bekrefte nettverksprotokoll"</string>
+     <string name="miuichromium_error_page_diagnose_connection">"Kunne ikke koble til nettverket"</string>
+     <string name="miuichromium_error_page_diagnose_dns">Ser ut som nettadressen er feil</string>
+     <string name="miuichromium_error_page_diagnose_protocol">Nettverksprotokoll-feil</string>
+     <string name="miuichromium_error_page_diagnose_success">Dårlig nettverkssignal</string>
+     <string name="miuichromium_error_page_diagnose_timeout">Tilkobling tidsavbrutt</string>
+     <string name="miuichromium_error_page_diagnose_website">Dette nettstedet er nede</string>
+     <string name="miuichromium_error_page_diagnosing">Sjekker nettverk</string>
      <string name="miuichromium_error_page_diagnostic">Nettverksdiagnosering</string>
+     <string name="miuichromium_error_page_homepage">Hjem</string>
      <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
+     <string name="miuichromium_error_page_network_hijack">"Gjeldende nettverk er ikke trygt"</string>
+     <string name="miuichromium_error_page_network_off">Slå på Wi-Fi eller mobildata</string>
+     <string name="miuichromium_error_page_no_network">"Kan ikke koble til nettverket"</string>
      <string name="miuichromium_error_page_reason_network">"Kan ikke koble til nettverket"</string>
      <string name="miuichromium_error_page_reason_server">"Kan ikke laste denne siden"</string>
      <string name="miuichromium_error_page_reload">Last på nytt</string>
+     <string name="miuichromium_error_page_safe_network">Sikkermodus</string>
+     <string name="miuichromium_error_page_server_error">For mange enheter prøver å koble til</string>
      <string name="miuichromium_error_page_title">"Kunne ikke finne denne siden"</string>
+     <string name="miuichromium_error_page_unknown_error">Oops, noe gikk galt</string>
      <string name="miuichromium_error_page_url">"Kan ikke koble til nettverket"</string>
      <string name="miuichromium_error_page_wlan">Wi-Fi-innstillinger</string>
      <string name="miuichromium_save_password_message">Husk dette passordert?</string>
@@ -801,6 +825,9 @@ Vil du forlate denne siden?"</string>
      <string name="profiler_started_toast">Profiler startet</string>
      <string name="profiler_stopped_toast">Profiler ferdig. Resultater lagret i %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Setter bakgrunn...</string>
+     <string name="pull_to_refresh_pull_label">Dra for å oppdatere</string>
+     <string name="pull_to_refresh_refreshing_label">Laster…</string>
+     <string name="pull_to_refresh_release_label">Slipp for å anbefale og oppdatere</string>
      <string name="qr_code_title">QR Code</string>
      <string name="quicklink_bookmark_save">Lagre denne siden til</string>
      <string name="quicklink_not_saved">"Kunne ikke legge på startside"</string>
@@ -890,6 +917,8 @@ Vil du forlate denne siden?"</string>
      <string name="search_yahoo">Yahoo</string>
      <string name="search_yicha">Yicha</string>
      <string name="secure_download_in_xiaomi_market">Last ned i appbutikk</string>
+     <string name="secureaccess">Bytt til sikker modus</string>
+     <string name="secureaccess_cancel">Ignorer</string>
      <string name="security_url_confirm_message">Å skru av denne funksjonen kan forårsake sikkerhetsrisikoer.</string>
      <string name="security_warning">Sikkerhetsadvarsel</string>
      <string name="security_warnings_confirm_message">Å skru av denne funksjonen kan forårsake sikkerhetsrisikoer.</string>
@@ -958,6 +987,8 @@ Vil du forlate denne siden?"</string>
      <string name="suggest_access_item_singer_pop">%d populære sanger</string>
      <string name="suggest_access_music">Mi-musikk</string>
      <string name="suggest_open_app_failed">"Kunne ikke åpne denne appen"</string>
+     <string name="switch_proxy_dialog_msg">"Nettverkskapring oppdaget. Bruk MIUI sin innebygde Sikkerhets-app eller rapporter dette til din mobiloperatør."</string>
+     <string name="switch_proxy_dialog_title">Nettverkskapring</string>
      <string name="sync_item_browser_summary">Synk data til skyen din, for å gjøre bruk av nettleser på flere enheter enklere</string>
      <string name="sync_item_browser_title">Synk nettleser</string>
      <string name="tab_bookmarks">Bokmerker</string>

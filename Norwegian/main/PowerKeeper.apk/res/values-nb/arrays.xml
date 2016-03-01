@@ -52,4 +52,20 @@
         <item>Lesemodus</item>
         <item>Mediamodus</item>
      </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI-skann</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Oppvåkning</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI-skann</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Oppvåkning</item>
+     </string-array>
 </resources>

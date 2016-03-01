@@ -31,6 +31,10 @@
         <item>Stemme</item>
         <item>CSVoice</item>
      </string-array>
+     <string-array name="ims_vt_call_quality_entries">
+        <item>@string/ims_vt_call_quality_low</item>
+        <item>@string/ims_vt_call_quality_high</item>
+     </string-array>
      <string-array name="list_language_entries">
         <item>Engelsk</item>
         <item>Fransk</item>
@@ -46,6 +50,16 @@
         <item>• Krav: Hvert anrop krever 1KB med mobildata;</item>
         <item>• Annet: Fyll opp og start ringing, det er ingen kompliserte innstillinger;</item>
         <item>• Hvis du trenger hjelp, vennligst ring 400-100-5678.</item>
+     </string-array>
+     <string-array name="locale_carrier_names">
+        <item>china_mobile</item>
+        <item>china_unicom</item>
+        <item>china_telecom</item>
+     </string-array>
+     <string-array name="origin_carrier_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
      </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
@@ -72,6 +86,16 @@
         <item>Bare GSM</item>
         <item>GSM/WCDMA foretrukket</item>
      </string-array>
+     <integer-array name="support_networktypes_cdma_master">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+     </integer-array>
+     <integer-array name="support_networktypes_cdma_vice">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+     </integer-array>
      <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -93,5 +117,11 @@
         <item>WCDMA</item>
         <item>LTE</item>
         <item>Trippel modus</item>
+     </string-array>
+     <string-array name="wifi_calling_preference_choices">
+        <item>@string/wifi_preferred</item>
+        <item>@string/wifi_only</item>
+        <item>@string/cellular_preferred</item>
+        <item>@string/cellular_only</item>
      </string-array>
 </resources>

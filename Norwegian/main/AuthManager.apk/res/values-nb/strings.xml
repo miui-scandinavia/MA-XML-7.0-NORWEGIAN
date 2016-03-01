@@ -223,6 +223,10 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_add_voicemail_Desc">Legge til system-talemeldinger</string>
      <string name="HIPS_Perm_get_accounts">Få tilgang til kontoer på enheten</string>
      <string name="HIPS_Perm_get_accounts_Desc">Få tilgang til alle kontoer lagret på enheten</string>
+     <string name="HIPS_Perm_install_shortcut">Hjemskjerm-snarveier</string>
+     <string name="HIPS_Perm_install_shortcut_Desc">Legge til snarveier på hjemskjermen</string>
+     <string name="HIPS_Perm_process_nfc">NFC</string>
+     <string name="HIPS_Perm_process_nfc_Desc">Få tilgang til nærfeltskommunikasjon (NFC)-maskinvare</string>
      <string name="HIPS_Perm_process_outgoing_calls">Få tilgang til telefon-app</string>
      <string name="HIPS_Perm_process_outgoing_calls_Desc">Overvåke og avslutte anrop</string>
      <string name="HIPS_Perm_use_sip">Videotjenester</string>

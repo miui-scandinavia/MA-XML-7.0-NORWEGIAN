@@ -437,7 +437,7 @@
      <string name="permission_with_call_and_contact">Tillatelser relatert til telefonsamtaler, kontaktinformasjon og anropshistorikk.</string>
      <string name="pm_root_success_notification_title">Rottilgang aktivert</string>
      <string name="positive_confirm">OK</string>
-     <string name="power_20s_enter_mode">Ved %1$ds batteri, bytt til %2$s</string>
+     <string name="power_20s_enter_mode">Bytter til %2$s om %1$ds</string>
      <string name="power_20s_shutdown">Enheten vil skru seg av om 20 sekunder</string>
      <string name="power_apply_toast">Byttet til %s</string>
      <string name="power_bluetooth">Bluetooth</string>

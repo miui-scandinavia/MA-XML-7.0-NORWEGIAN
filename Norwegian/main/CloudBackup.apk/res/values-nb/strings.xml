@@ -36,7 +36,7 @@
      <string name="cloud_back_up_frequence_short">Hver dag </string>
      <string name="cloud_back_up_interval_long">7 dager</string>
      <string name="cloud_back_up_interval_short">Hver dag</string>
-     <string name="cloud_back_up_no_network_warn">"Kan ikke koble til nettverket"</string>
+     <string name="cloud_back_up_no_network_warn">"Kan ikke koble til Wi-Fi"</string>
      <string name="cloud_back_up_ok_btn">OK</string>
      <string name="cloud_back_up_opening">Bare et sekund…</string>
      <string name="cloud_back_up_share_activity_confirm">Oppgrader</string>

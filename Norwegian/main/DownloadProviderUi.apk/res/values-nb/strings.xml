@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="DOWNLOAD_UNIT_BIT">B</string>
      <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -9,6 +9,7 @@
      <string name="Only_the_wifi">Bare bruk Wi-Fi</string>
      <string name="about">Om</string>
      <string name="action_settings">Innstillinger</string>
+     <string name="ad_title">Folk laster også ned disse med %1$s </string>
      <string name="add_flow_fail_haveget_msg">Prøveperiod er utløpt.</string>
      <string name="add_flow_fail_vip_msg">Xunlei-nedlastingsakselereator er på</string>
      <string name="add_flow_success_msg">%s lagt til denne måneden</string>
@@ -19,6 +20,7 @@
      <string name="app_downloads">%s nedlastninger</string>
      <string name="app_label">Nedlastinger</string>
      <string name="app_name">Filutforsker</string>
+     <string name="app_size">%1$s</string>
      <string name="auth_activity_title">Xunlei-konto</string>
      <string name="auth_fail">"Kunne ikke godkjenne"</string>
      <string name="bind_xunlei_account">Legg til Xunlei-konto</string>
@@ -80,7 +82,9 @@
      <string name="download_list_open_xl_message">Xunlei-nedlastingsakselerator vil hjelpe deg med å øke nedlastingshastigheten.</string>
      <string name="download_list_open_xl_ok">OK</string>
      <string name="download_list_open_xl_title">Xunlei-nedlastingsakselerator</string>
+     <string name="download_list_title_browser">Nedlastninger</string>
      <string name="download_no_application_title">Kan ikke åpne fil</string>
+     <string name="download_num_size">%1$s folk lastet ned | %2$s</string>
      <string name="download_paused">Nedlasting på pause</string>
      <string name="download_pending">Nedlasting venter</string>
      <string name="download_queued">I kø</string>
@@ -113,6 +117,7 @@
      <string name="free_high_speed_channel">Xunlei-akselerator (gratis)</string>
      <string name="free_speedup_exp">Prøv Xunlei-nedlastningsakselerator (gratis)</string>
      <string name="get_account_dialog_msg">Henter kontoinfo…</string>
+     <string name="get_data_failed">"Kunne ikke hente info, prøv igjen senere"</string>
      <string name="get_order_dialog_msg">Henter ordreinformasjon…</string>
      <string name="get_order_fail_msg">"Kunne ikke opprette ordre"</string>
      <string name="high_speed_channel">Xunlei-akselerator (betalt)</string>
@@ -120,21 +125,27 @@
      <string name="immediately_a_renewal">Forny nå</string>
      <string name="input_valid_address">Velg en filsti</string>
      <string name="install">Installer</string>
+     <string name="install_failed">"Kunne ikke installere %1$s"</string>
      <string name="installing">Installerer…</string>
      <string name="invalid_address">Filstien du skrev er ugyldig</string>
+     <string name="jump_rank_hint">"Ta en titt på dagens nedlastningsrangeringer&gt;"</string>
      <string name="keep_queued_download">Behold</string>
+     <string name="load_finish_hint">Du kan fortsette å se i morgen</string>
+     <string name="loading">Bare et sekund…</string>
      <string name="media_filter">MEDIA</string>
      <string name="member_cost">Årlig</string>
      <string name="menu_all_task_pause">Pause alle</string>
      <string name="menu_all_task_start">Start alle</string>
      <string name="menu_enter_edit_mode">Redigering</string>
      <string name="menu_preferences">Innstillinger</string>
+     <string name="menu_title_fileexplore">Utforsker</string>
      <string name="menu_title_pause_all">Pause alle</string>
      <string name="menu_title_resume_all">Start alle</string>
      <string name="menu_title_settings">Innstillinger</string>
      <string name="mi_money">Mi-kreditt</string>
      <string name="mi_money_">Mi-kreditt</string>
      <string name="missing_title">Ukjent</string>
+     <string name="net_error">"Kan ikke koble til nettverket, prøv igjen"</string>
      <string name="network_error">"Kunne ikke koble til nettverket"</string>
      <string name="new_add">Ny nedlasting</string>
      <string name="new_add_bt">Legg til torrent</string>
@@ -176,6 +187,11 @@
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Bruk Xunlei-akselerator?</string>
      <string name="quit_btn">Avslutt</string>
+     <string name="rank">Rangeringer</string>
+     <string name="rank_data_empty">Ingen rangeringer</string>
+     <string name="rank_guide_confirm">Sjekk det ut</string>
+     <string name="rank_guide_content">Rangeringer oppdateres daglig for å vise de mest populære appene</string>
+     <string name="rank_guide_title">Apper andre installerer</string>
      <string name="rebind_btn">Legg til igjen</string>
      <string name="recommend_downloading">Laster ned…</string>
      <string name="recommend_failed">Feilet</string>
@@ -215,7 +231,7 @@
      <string name="show_more">Vis %s mer</string>
      <string name="sniff_associate_text">Trykk på nøkkelordet nedenfor for å finne flere kilder</string>
      <string name="sniff_bt_text">Torrent-fil</string>
-     <string name="sniff_btn_text">Finn kilde</string>
+     <string name="sniff_btn_text">Kilde</string>
      <string name="sniff_connect_error_page_tips">"Kunne ikke åpne URL"</string>
      <string name="sniff_connect_error_refresh">Last på nytt</string>
      <string name="sniff_download_task_already_exist">Denne nedlastningen eksisterer allerede</string>
@@ -236,6 +252,8 @@
      <string name="sniff_shortcut_cloudconfig_context">Oppdaterer kilde…</string>
      <string name="sniff_shortcut_cloudconfig_title">Bare et sekund…</string>
      <string name="sniff_shortcut_create">Snarvei opprettet</string>
+     <string name="sniff_shortcut_exist">Snarvei finnes allerede</string>
+     <string name="sniff_shortcut_failed">"Kunne ikke opprette snarvei"</string>
      <string name="sniff_shortcut_name">Finn kilde</string>
      <string name="sniff_shortcut_tip">Legg til snarvei for å finne kilder raskere.</string>
      <string name="sniff_shortcut_tip2">Finn kilder for nedlastninger fra din hjemskjerm.</string>

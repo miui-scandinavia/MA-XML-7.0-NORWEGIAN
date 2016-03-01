@@ -4,7 +4,7 @@
      <string name="action_bar_delete">Slett</string>
      <string name="action_settings">Innstillinger</string>
      <string name="activity_title_poweranalyze">Test batteri</string>
-     <string name="activity_title_powerconfigure">Battery-innstillinger</string>
+     <string name="activity_title_powerconfigure">Batteri-innstillinger</string>
      <string name="activity_title_poweroptimize">Batterisparing</string>
      <string name="add_applications">Velg apper</string>
      <string name="add_apps_title">Apper</string>
@@ -62,6 +62,11 @@
      <string name="normal">Standardmodus</string>
      <string name="operation_create_group">Navn</string>
      <string name="operation_create_group_message">Skriv nytt gruppenavn</string>
+     <string name="power_checker_recent_btn_title">Setter ytelse</string>
+     <string name="power_checker_recent_group_title">Seneste</string>
+     <string name="power_checker_running_btn_title">Drept prosess</string>
+     <string name="power_checker_running_group_title">Kjørrer</string>
+     <string name="power_checker_title">PowerChecker</string>
      <string name="power_chooser_user_define_title">Ny modus</string>
      <string name="power_config_alarm_sync_summary">Tillat app-oppvåkningsalarm i bakgrunnen</string>
      <string name="power_config_alarm_sync_title">Alarm-oppvåkning</string>
