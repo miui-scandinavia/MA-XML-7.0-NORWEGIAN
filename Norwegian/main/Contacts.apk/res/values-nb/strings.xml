@@ -756,7 +756,7 @@
      <string name="miprofile_nick_name_edit_dialog_message">Kallenavn vil bli vist i anropshistorikk og profilinfo</string>
      <string name="miprofile_nick_name_edit_dialog_title">Endre kallenavn</string>
      <string name="miprofile_notice_text">"Trykk for å vise kontaktens profilbilde"</string>
-     <string name="miprofile_request_agenda_date">Denne personen vil utveksle kort [%1$s]<</string>
+     <string name="miprofile_request_agenda_date">Denne personen vil utveksle kort [%1$s]</string>
      <string name="miprofile_request_agenda_today">Denne personen vil utveksle kort [I dag %1$s]</string>
      <string name="miprofile_request_agenda_yesterday">Denne personen vil utveksle kort [I går%1$s]</string>
      <string name="miprofile_request_agree">Aksepter</string>
