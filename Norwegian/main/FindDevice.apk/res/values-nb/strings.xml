@@ -15,15 +15,17 @@
      <string name="find_device">Finn enhet</string>
      <string name="find_device_crash">Finn enhet ble uventet lukket</string>
      <string name="find_device_error_account_sys_timeout">"Kunne ikke koble til Mi-konto"</string>
+     <string name="find_device_error_account_unknown_error">Feil med Mi-konto (%s)</string>
      <string name="find_device_error_network">Sjekk din datatilkobling og prøv igjen.</string>
      <string name="find_device_error_password_changed">Kontopassord har nylig blitt endret.</string>
-     <string name="find_device_error_server">Serverfeil</string>
-     <string name="find_device_error_unknown">Ukjent feil.</string>
+     <string name="find_device_error_server">Serverfeil (%s)</string>
+     <string name="find_device_error_unknown">Ukjent feil (%s)</string>
      <string name="find_device_noise_title">Finn enhet-alarm</string>
      <string name="find_device_notice_p1">Gå til</string>
      <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"for å finne, lås, eller gjenopprette telefonen.Hvis du bytter SIM-kort, vil en annen SMS sendes automatisk for å aktivere for denne funksjonen."</string>
      <string name="find_device_stop_noise">Trykk OK for å dempe</string>
+     <string name="find_device_storage_corrupted">Finn enhet-lagring er korrupt. Enheten din er usikker nå.</string>
      <string name="find_device_success_title">Finn enhet</string>
      <string name="i_know">OK</string>
      <string name="lock_msg_phone">Kontaktinformasjon: %s</string>
@@ -43,6 +45,15 @@
      <string name="unlock_error_ssl_hand_shake">"Kunne ikke koble til serveren, prøv å sett dato og tid manuelt."</string>
      <string name="unlock_error_unknown">"Kan ikke logge på"</string>
      <string name="unlock_error_user_name">Ugyldig brukernavn</string>
+     <string name="unlock_help">"Forbli tilkoblet nettverket
+Sørg for at du har satt inn ett fungerende SIM-kort, og at enheten din ikke er tilkoblet et ineffektivt Wi-Fi-nettverk
+
+Glemt passord?
+Gå til id.mi.com for å tilbakestille ditt passord
+
+Andre årsaker
+Logg inn på i.mi.com og prøv å låse opp enheten derfra"</string>
+     <string name="unlock_help_title">Hjelp med opplåsning:</string>
      <string name="unlock_wrong_captcha">Koden du skrev er ikke korrekt</string>
      <string name="unlocking">Aktiverer…</string>
      <string name="verify_password_failed">"Kunne ikke verifisere Mi-konto-ID. %s."</string>

@@ -80,10 +80,10 @@
      <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
      <string name="loading_resource_detail_info">Bare et sekund…</string>
      <string name="lockscreen_magazine_subscribe">%1$s følgere</string>
-     <string name="lockscreen_magazine_summary">Få nye bakgrunner sendt direkte til låseskjermen din hver dag</string>
+     <string name="lockscreen_magazine_summary">Kategorier</string>
      <string name="lockscreen_magazine_system_subscribe">%1$s bakgrunner</string>
-     <string name="lockscreen_magazine_system_title">Standard</string>
-     <string name="lockscreen_magazine_title">Daglige låseskjermer</string>
+     <string name="lockscreen_magazine_system_title">Offline</string>
+     <string name="lockscreen_magazine_title">Låseskjerm-karusell</string>
      <string name="lockscreen_wallpaper">Låseskjerm</string>
      <string name="lockstyle_personal_settings">Tilpasning</string>
      <string name="long_ringtone_resource">Lang (&gt;5sek)</string>

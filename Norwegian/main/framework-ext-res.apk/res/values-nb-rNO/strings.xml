@@ -7,6 +7,13 @@
      <string name="apply_password_action">Sett passord</string>
      <string name="apply_password_confirm_dlg_msg">Krev passord for %s​?</string>
      <string name="apply_password_confirm_dlg_title">Dette passordet vil bli brukt for %s</string>
+     <string name="auto_disable_screenbuttons_disable_toast_text">Skjermknapper deaktivert, dobbelt-trykk en knapp for å avslutte</string>
+     <string name="auto_disable_screenbuttons_enable_toast_text">Skjermknapper aktivert</string>
+     <string name="auto_disable_screenbuttons_float_text">Trykk for å deaktivere skerjmknapper</string>
+     <string name="auto_disable_screenbuttons_prompts_message">Dobbelt-trykk på en knapp for å deaktivere og utføre handlingen til knappen.</string>
+     <string name="auto_disable_screenbuttons_prompts_not_show_again">Ikke vis varselet igjen</string>
+     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
+     <string name="auto_disable_screenbuttons_prompts_title">Automatisk deaktiver skjermknapper</string>
      <string name="auto_start_warning_allow">Tillat</string>
      <string name="auto_start_warning_deny">Nekt</string>
      <string name="auto_start_warning_title">Tillat %s å starte automatisk</string>

@@ -7,7 +7,7 @@
         <item quantity="one">%1$d fil med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
         <item quantity="two">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
         <item quantity="few">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
-        <item quantity="many">%1$dfiler med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="many">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
      </plurals>
      <plurals name="days_ago">
         <item quantity="other">%1$d dager siden</item>
@@ -136,6 +136,14 @@
         <item quantity="two">%1$d valgte</item>
         <item quantity="few">%1$d valgte</item>
         <item quantity="many">%1$d valgte</item>
+     </plurals>
+     <plurals name="remote_video_update">
+        <item quantity="other">Fant %1$d nye videoer</item>
+        <item quantity="zero">Fant %1$d nye videoer</item>
+        <item quantity="one">Fant %1$d ny video</item>
+        <item quantity="two">Fant %1$d nye videoer</item>
+        <item quantity="few">Fant %1$d nye videoer</item>
+        <item quantity="many">Fant %1$d nye videoer</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s relaterte filer (%2$d elementer)</item>

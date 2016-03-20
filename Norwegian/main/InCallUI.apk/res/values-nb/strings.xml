@@ -75,12 +75,14 @@
      <string name="callFailed_unobtainable_number">Ugyldig nummer</string>
      <string name="callFailed_userBusy">Linjen er opptatt</string>
      <string name="callUnanswered_forwarded">Ring ubesvarte og videresendte</string>
+     <string name="call_contacts_deny_permission_msg">"Du nektet tilgang til å leste kontakter, kan ikke vise kontaktinfo."</string>
      <string name="call_description_recording">Tar opp…</string>
      <string name="call_extension_conference_mode">Konferansemodus</string>
      <string name="call_forwarding_settings">Innstillinger for viderekobling</string>
      <string name="call_lost">Anrop har blitt tapt.</string>
      <string name="call_record_button_label">Tar opp %s</string>
      <string name="call_record_wait_label">Venter</string>
+     <string name="call_recording_deny_permission_msg">"Du har nektet tilgang til å ta opp, kan ikke ta opp."</string>
      <string name="call_recording_error_low_storage">Ikke nok plass: SD-kortet er fullt</string>
      <string name="call_recording_error_privacy">"Kan ikke ta opp når du er i Gjestemodus"</string>
      <string name="call_recording_error_sd_access">"Kan ikke få tilgang til SD-kort"</string>
@@ -282,7 +284,7 @@
      <string name="fdn_invalid_number">FDN ble ikke oppdatert fordi tallet ikke kan overstige 20 sifre.</string>
      <string name="fraud_call_answer">Besvar</string>
      <string name="fraud_call_decline">Avslå</string>
-     <string name="fraud_call_waring">Vær forsiktig: Du bør alltid sjekke identiteten til dine kontakter via telefon eller video før du utgir personlig informasjon.</string>
+     <string name="fraud_call_waring">Vær forsiktig: Verifiser alltid identiteten til kontakten via telefon eller video før du deler personlig informasjon.</string>
      <string name="fw_change_failed">"Kunne ikke endre viderekoblingsnummeret.Kontakt operatøren hvis dette problemet vedvarer."</string>
      <string name="fw_get_in_vm_failed">"Kunne ikke hente og lagre gjeldende innstillinger for viderekoblingsnummer.Vil du likevel bytte til den nye leverandøren?"</string>
      <string name="general_news_settings">Generelle nyheter</string>
@@ -376,7 +378,7 @@
      <string name="messageCFU">Alltid bruk dette nummeret</string>
      <string name="mhh_disable">Helse og sykehus deaktivert</string>
      <string name="mhh_enable">Helse og sykehus aktivert</string>
-     <string name="miprofile_stranger_card">Fremmedkort</string>
+     <string name="miprofile_stranger_card">Ukjent</string>
      <string name="mismatchPin">"PIN-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mismatchPin2">"PIN2-kodene du tastet er ikke like, prøv igjen."</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
@@ -450,7 +452,7 @@
      <string name="onHold">På vent</string>
      <string name="online_check_provider_info">Oppdaget av %s</string>
      <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-     <string name="online_check_warning_info_by_cmb">"Du bør alltid sjekke identiteten til dine kontakter via telefon eller video før du utgir personlig økonomi-informasjon."</string>
+     <string name="online_check_warning_info_by_cmb">"Du bør alltid verifisere identiteten til dine kontakter via telefon eller video før du deler personlig informasjon."</string>
      <string name="online_check_warning_type_by_cmb">Spam</string>
      <string name="onscreenAddCallText">Legg til samtale</string>
      <string name="onscreenAddParticipant">Legg til deltaker</string>
@@ -694,7 +696,7 @@
      <string name="sum_select_automatically">Velg foretrukket nettverk automatisk</string>
      <string name="sum_show_caller_id">Vis nummer ved utgående samtaler</string>
      <string name="sum_voicemail_choose_provider">Velg talemeldingsleverandør</string>
-     <string name="suspect_info">"Du bør alltid sjekke identiteten til den du snakker med via telefon eller video før du utgir personlig økonomi-informasjon."</string>
+     <string name="suspect_info">"Vær forsiktig: Verifiser alltid identiteten til den du snakker med via telefon eller video før du deler personlig informasjon."</string>
      <string name="technology_news_disable">Teknologinyheter deaktivert</string>
      <string name="technology_news_enable">Teknologinyheter aktivert</string>
      <string name="third_party_account_summary">Denne kontoen er for øyeblikket i bruk av appen %s.</string>
@@ -719,7 +721,7 @@
      <string name="updating_fdn_contact">Oppdaterer programmert telefonnummer ...</string>
      <string name="updating_settings">Oppdaterer innstillinger…</string>
      <string name="updating_title">Anropsinnstillinger</string>
-     <string name="upgrade_vt_prompt">Vil du oppgradere anropet til et videoanrop?</string>
+     <string name="upgrade_vt_prompt">Bytt til videoanrop?</string>
      <string name="upgrade_vt_rx_prompt">Vil du oppgradere anropet til videomottak?</string>
      <string name="upgrade_vt_tx_prompt">Vil du oppgradere anropet til videosending?</string>
      <string name="username">UserName</string>

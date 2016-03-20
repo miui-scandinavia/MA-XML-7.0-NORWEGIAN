@@ -120,11 +120,13 @@
      <string name="dialog_msg_backup_and_uninstall_apps">Sikkerhetskopier og avinstaller valgte apper?</string>
      <string name="dialog_msg_check_all">Bekreft å velge %1$s som inneholder %2$d elementer</string>
      <string name="dialog_msg_load_cleanup_engine_error">Oppryddningsmotoren er korrupt. Du kan være nødt til å reinstallere programvaren.</string>
+     <string name="dialog_msg_stop_scan">"Stopp søppelskann før den er fullført?"</string>
      <string name="dialog_msg_uninstall_apps">Avinstallere disse appene?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Sikkerhetskopier og avinstaller</string>
      <string name="dialog_title_check_all">Velg alle</string>
      <string name="dialog_title_delete_image">Slett valgte bilder</string>
      <string name="dialog_title_load_cleanup_engine_error">Noe gikk galt</string>
+     <string name="dialog_title_stop_scan">Stop søppelskann</string>
      <string name="dialog_title_uninstall_apps">Avinstaller</string>
      <string name="download">Last ned</string>
      <string name="downloading">Laster ned</string>
@@ -211,6 +213,7 @@
      <string name="hints_video_download">Nedlastede videoer</string>
      <string name="hot">Populært</string>
      <string name="hot_today">Populært i dag</string>
+     <string name="information_setting">Innstillinger for nyhetsfeed</string>
      <string name="installed">Installert</string>
      <string name="installing">Installerer</string>
      <string name="item_title_process_mode">Velg en handling</string>
@@ -218,6 +221,7 @@
      <string name="label_image_list_none">Ingen</string>
      <string name="label_preserve_the_best_image">Lagre de skarpeste bildene</string>
      <string name="last_check_canceled">Forrige skanning ble avbrutt</string>
+     <string name="load_only_under_wlan">Last nyheter når tilkoblet Wi-Fi</string>
      <string name="login_immediately">Logg inn</string>
      <string name="mainbtn_text_quick_cleanup">Rydd opp %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Rydd opp</string>
@@ -284,6 +288,7 @@
      <string name="pref_title_manual_check_cleanup_db_update">Sjekk etter oppdateringer</string>
      <string name="pref_title_open_optimizer_cloud_scan">Last opp filnavn</string>
      <string name="pref_title_open_optimizer_memory_scan">Velg apper automatisk</string>
+     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
      <string name="privacy_app_desc">Kontoer og passord</string>
      <string name="privacy_app_desc_message">Kontoer, passord og meldinger</string>
      <string name="privacy_app_desc_search">Kontoer, passord og søkehistorikk</string>

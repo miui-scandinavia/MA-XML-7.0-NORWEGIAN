@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="about_to_recover">Bare et sekund…</string>
      <string name="app_name">Mi Cloud-sikkerhetskopi</string>
@@ -30,7 +30,12 @@
      <string name="cloud_app_restore_success">Apper gjenopprettet</string>
      <string name="cloud_app_restore_wifi_prompt">For å gjenopprette dine apper, koble til et Wi-Fi-nettverk.</string>
      <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-     <string name="cloud_back_up_detail_discription">"Disse elmentene vil bli sikkerhetskopiert til Mi Cloud når enheten er tilkoblet Wi-Fi: *\u0009\u0009\u0009\u0009Apps, Hjemskjerm-layout, bakgrunner, *\u0009\u0009\u0009\u0009alarmer, klokke- og tidsinnstillinger, *\u0009\u0009\u0009\u0009Varslingsinnstillinger *\u0009\u0009\u0009\u0009MIUI og systeminnstillinger Notat: Data for apper du har installert vil ikke bli sikkerhetskopiert til Mi Cloud."</string>
+     <string name="cloud_back_up_detail_discription">"Disse elmentene vil bli sikkerhetskopiert til Mi Cloud når enheten er tilkoblet Wi-Fi:
+*\u0009\u0009\u0009\u0009Apps, Hjemskjerm-layout, bakgrunner
+*\u0009\u0009\u0009\u0009Alarmer, klokke- og tidsinnstillinger
+*\u0009\u0009\u0009\u0009Varslingsinnstillinger
+*\u0009\u0009\u0009\u0009MIUI og systeminnstillinger
+Notat: Data for apper du har installert vil ikke bli sikkerhetskopiert til Mi Cloud."</string>
      <string name="cloud_back_up_frequence_choice_title">Tidsplan for sikkerhetskopiering</string>
      <string name="cloud_back_up_frequence_long">Hver 7. dag</string>
      <string name="cloud_back_up_frequence_short">Hver dag </string>
@@ -50,6 +55,8 @@
      <string name="cloud_backup_detail_state">Mi Cloud-sikkerhetskopi</string>
      <string name="cloud_backup_detail_state_summary">Apper, hjemskjerm og system-innstillinger</string>
      <string name="cloud_backup_detail_time">, sikkerhetskopitid:%1$s</string>
+     <string name="cloud_backup_have_data">Fant sikkerhetskopi i Mi Cloud</string>
+     <string name="cloud_backup_select_recover">Velg sikkerhetskopi fra Mi Cloud</string>
      <string name="cloud_restore_from_other_device">Gjenoppretting av %s pågår, sletting av sikkerhetskopien av denne vil avbryte oppgaven. Er du sikker på at du vil gjøre dette?</string>
      <string name="cloud_restore_task">gjenopprett</string>
      <string name="cloud_task_in_process">Det er en %s-oppgave kjørende! Sletting av sikkerhetskopi av gjeldende enhet vil avbryte denne oppgaven. Er du sikker på at du vil gjøre dette?</string>

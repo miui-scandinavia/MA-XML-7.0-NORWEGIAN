@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="app_name">Søk</string>
      <string name="apps_search_activity" />
+     <string name="baidu_search_url_from_default">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
+     <string name="baidu_search_url_from_input">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
+     <string name="baidu_search_url_from_launcher">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
+     <string name="baidu_search_url_from_systemui">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
+     <string name="baidu_suggest_base">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
      <string name="clear_history">Tøm historikk</string>
      <string name="clear_shortcuts">Fjern snarveier</string>
      <string name="clear_shortcuts_agree">Fjern snarveier</string>
      <string name="clear_shortcuts_disagree">"Ikke fjern snarveier"</string>
      <string name="clear_shortcuts_prompt">"Dette vil fjerne alle snarveier til siste valgte søkeforslag. (for å fjernde nettleserhistorikk, bruk innstillingene i nettleseren.)"</string>
      <string name="clear_shortcuts_summary">Fjern snarveier til siste valgte søkeforslag</string>
+     <string name="connect_and_retry">Koble til Internett og prøv igjen</string>
      <string name="corpus_description_apps">Navn på installerte apper</string>
      <string name="corpus_description_web">Web-søking, bokmerker og nettleserhistorikk</string>
      <string name="corpus_hint_apps">Søk Apper</string>
@@ -16,7 +22,7 @@
      <string name="corpus_label_global">Alt</string>
      <string name="corpus_label_web">Web</string>
      <string name="corpus_selection_heading">Søk</string>
-     <string name="cta_declaration">Dene funksjonerer er nødt til å koble til internett, få tilgang til enhetens posisjon, og vis din anropshistorikk og kontakter for å fungerere normalt. </string>
+     <string name="cta_declaration">Denne funksjonen krever tilkobling til Internett, få tilgang til enhetens posisjon, og å kunne vise din anropshistorikk og kontakter for å fungerere normalt. </string>
      <string name="cta_declaration_ignore">"Ikke vis igjen"</string>
      <string name="cta_declaration_negative_text">Avslutt</string>
      <string name="cta_declaration_positive_text">Tillat</string>
@@ -38,6 +44,7 @@
      <string name="loading">Bare et sekund…</string>
      <string name="menu_help">Hjelp</string>
      <string name="menu_settings">Søkeinnstillinger</string>
+     <string name="network_unavailable">Ikke tilkoblet Internett</string>
      <string name="recently_shortcut_label">Seneste snarveier</string>
      <string name="remove_from_history">Fjern fra søkehistorikk</string>
      <string name="remove_from_history_failed">"Kunne ikke fjerne fra historikk"</string>
@@ -61,6 +68,7 @@
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Prøv å si "</string>
+     <string name="web_search_results">Søkeresultater fra nett</string>
      <string name="xiaomi_hint"></string>
      <string name="xiaomi_hot_query"></string>
      <string name="xiaomi_search_label">Resultater</string>

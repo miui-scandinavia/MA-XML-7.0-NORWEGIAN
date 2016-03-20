@@ -252,8 +252,13 @@
      <string name="total_num">%d elementer,</string>
      <string name="trans_backingup">Tar sikkerhetskopi …</string>
      <string name="trans_backingup_no_items">Synker…</string>
+     <string name="trans_calculating">Kalkulerer...</string>
+     <string name="trans_calculating_app_sd_size">Kalkulerer datastørrelse å bli sendt, %s skannet</string>
+     <string name="trans_calculating_base_size">"Kalkulerer appens basisstørrelse"</string>
      <string name="trans_cancel_confirm">Overføring pågår, stopp nå?</string>
      <string name="trans_cancelling">Avbryter…</string>
+     <string name="trans_connect_failed_message">"Tilkobling feilet, vennligst prøv på nytt eller restart. På den andre enheten, gå til Innstillinger &gt; Flere innstillinger &gt; Mi Mover, Trykk [Jeg er en sender], eller start Mi Mover på nytt etter rastart"</string>
+     <string name="trans_connect_failed_title">Tilkobling feilet</string>
      <string name="trans_connect_failed_toast">"Kunne ikke koble til"</string>
      <string name="trans_connecting_toast">Kobler til…</string>
      <string name="trans_detail_category_account">Kontoer og kontakter</string>
@@ -264,6 +269,8 @@
      <string name="trans_generate_qr_code_failed">"Kunne ikke opprette QR-kode"</string>
      <string name="trans_main_tutor">Flytt kontakter, anropshistorikk, meldinger, hjemskjerm, apper, innstillinger osv til en ny enhet</string>
      <string name="trans_my_device">Min enhet</string>
+     <string name="trans_native_no_space">"Denne enheten har ikke nok plass
+Vennligst rydd minst %s"</string>
      <string name="trans_one_key_migrate">Mi Mover</string>
      <string name="trans_operate_func_one">Metode A</string>
      <string name="trans_operate_func_two">Metode B</string>
@@ -271,15 +278,18 @@
 Gå til Innstillinger &gt; Flere innstillinger &gt; Mi Mover
  Trykk [Jeg er en mottaker] for å opprette en QR-kode"</string>
      <string name="trans_operate_old_phone_tips1">"1. Installer Mi Mover-appen på din gamle enhet
-2. Åpne appen og velg [Jeg er en sender]
+2. Åpne appen og trykk Start
 3. Skann QR-koden med din gamle enhet"</string>
      <string name="trans_operate_old_phone_tips2">"Gå til Innstillinger &gt; Flere innstillinger &gt; Mi Mover, Trykk [Jeg er en sender]"</string>
+     <string name="trans_please_waiting">Please wait ...</string>
      <string name="trans_progress_subdescript_br_receiver">Gjenoppretter %1$s, %2$s fullført</string>
      <string name="trans_progress_subdescript_br_sender">Sikkerhetskopierer %1$s, %2$s fullført</string>
      <string name="trans_progress_subdescript_transing_receiver">Mottar %1$s, %2$s fullført</string>
      <string name="trans_progress_subdescript_transing_sender">Sender %1$s, %2$s fullført</string>
      <string name="trans_progress_subdescript_transingsd_receiver">Mottar filer, %s fullført</string>
      <string name="trans_progress_subdescript_transingsd_sender">Sender filer, %s fullført</string>
+     <string name="trans_progress_subdescript_transingsddata_receiver">Mottar %1$s SD-kort data, %2$s fullført</string>
+     <string name="trans_progress_subdescript_transingsddata_sender">Sender %1$s SD-kort data, %2$s fullført</string>
      <string name="trans_progress_subdescript_waiting">Venter på å motta %s</string>
      <string name="trans_receiver">"Jeg er en mottaker"</string>
      <string name="trans_receiver_time_remained">"%s gjenstående.
@@ -288,6 +298,7 @@ Hold enhetene nærme hverandre."</string>
      <string name="trans_receiving_completed">Overføring fullført</string>
      <string name="trans_restoring">Gjenoppretter…</string>
      <string name="trans_restoring_no_items">Synker elementer</string>
+     <string name="trans_retry">Prøv på nytt</string>
      <string name="trans_scan_invalid_qrcode">Ugyldig QR-kode</string>
      <string name="trans_scan_qr_code_tips">Skann QR-kode med ny enhet</string>
      <string name="trans_select_data">Velg elementer å sende</string>
@@ -308,6 +319,8 @@ Hold enhetene nærme hverandre."</string>
      <string name="trans_sending_completed">Sending fullført</string>
      <string name="trans_show_qr_code_label">Koble til gammel enhet</string>
      <string name="trans_show_qr_code_tips">Skann QR-kode med gammel enhet</string>
+     <string name="trans_start_failed_message">Start feilet, vennligst prøv på nytt eller restart og prøv igjen</string>
+     <string name="trans_start_failed_title">Start feilet</string>
      <string name="trans_time_format_second">Mindre enn ett minutt</string>
      <string name="trans_time_remained">, klar om</string>
      <string name="trans_time_spent">"
@@ -321,6 +334,7 @@ og Mi Mover er skrudd på"</string>
      <string name="unit_piece">" elementer"</string>
      <string name="unknown_hint">Ukjent</string>
      <string name="wifi_title">WiFi-innstillinger</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_router">Mi-ruter</string>
      <string name="xiaomi_router_location">Mi-ruter %s</string>
 </resources>

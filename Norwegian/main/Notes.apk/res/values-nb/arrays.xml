@@ -16,9 +16,9 @@
      </string-array>
      <string-array name="font_size_names">
         <item>Liten</item>
-        <item>Medium (Standard)</item>
+        <item>Medium</item>
         <item>Stor</item>
-        <item>Super</item>
+        <item>Diger</item>
      </string-array>
      <string-array name="welcome_notes_content">
         <item>"Trykk for å opprette notat
@@ -29,10 +29,6 @@
 "</item>
         <item>"Og andre flotte funksjoner!
   - Synk med Mi Cloud
-  - Angi påminnelser
-
-For å lære mer, besøk
-http://www.miui.com/forum.php?lang=1
-"</item>
+  - Angi påminnelser"</item>
      </string-array>
 </resources>

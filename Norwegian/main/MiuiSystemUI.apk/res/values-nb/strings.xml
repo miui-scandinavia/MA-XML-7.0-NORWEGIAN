@@ -46,6 +46,7 @@
      <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
      <string name="accessibility_wimax_three_bars">WiMAX tre stolper.</string>
      <string name="accessibility_wimax_two_bars">WiMAX to stolper.</string>
+     <string name="account_info">Ikke logget inn</string>
      <string name="activate_usb_message">For å aktivere denne funksjonen, sett inn ditt SIM-kort.</string>
      <string name="activate_usb_title">Aktiver USB</string>
      <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret</string>
@@ -138,6 +139,7 @@
      <string name="mount_storage">Ja</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_notification_tips">Ingen varsler.</string>
+     <string name="notification_header_title">Varsler</string>
      <string name="notification_otg_gamestick_in">Spillkontroller tilkoblet</string>
      <string name="notification_otg_gamestick_out">Spillkontroller frakoblet</string>
      <string name="notification_otg_keyboard_in">Tastatur tilkoblet</string>
@@ -180,14 +182,17 @@
      <string name="settings_toggle_position_divider_page">Aktive knapper: %1$d</string>
      <string name="settings_toggle_position_reset">Nullstil knapper</string>
      <string name="share">Del</string>
-     <string name="status_bar_date_format">M/d E</string>
+     <string name="status_bar_date_format">"EEEE
+d MMMM"</string>
+     <string name="status_bar_date_format_12">"EEEE
+d MMMM"</string>
      <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow">"I dag: %1$s    Gjenstående: %2$s"</string>
      <string name="status_bar_network_flow_content">"I dag: %1$s   Gjenstående: %2$s"</string>
      <string name="status_bar_network_flow_exceed">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Månedlig grense: %4$s</string>
      <string name="status_bar_network_flow_exceed_content">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Abonnement overskredet: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
      <string name="status_bar_network_flow_exceed_to_purchase">I dag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overskredet:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Kjøp &gt;</string>
-     <string name="status_bar_network_flow_limit">"   Månedlig grense: %1$s"</string>
+     <string name="status_bar_network_flow_limit">"   Månedlig grense: %1$s   "</string>
      <string name="status_bar_network_flow_purchase">"   Kjøp &gt;"</string>
      <string name="status_bar_network_flow_today">I dag: %1$s</string>
      <string name="status_bar_network_flow_warning_to_purchase">"I dag: %1$s    Gjenstående: %2$s    Kjøp &gt;"</string>

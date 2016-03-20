@@ -40,6 +40,7 @@
      <string name="all_tracks_short">Alle sanger</string>
      <string name="already_download">Laster ned…</string>
      <string name="already_favorited">Allerede favoritert</string>
+     <string name="android_sdk_too_low">Oppdater Android-versjon først.</string>
      <string name="artist">Artister</string>
      <string name="artist_is_empty">Artistnavn kan ikke være tomt.</string>
      <string name="artist_name">Artist</string>
@@ -64,6 +65,8 @@
      <string name="bluetooth_device">Bluetooth-lydenhet</string>
      <string name="buffering">Bufrer</string>
      <string name="button_add">Legg til</string>
+     <string name="buy_other_flow">Vanlig data</string>
+     <string name="buy_traffic">China Unicom</string>
      <string name="buy_vip">Få Premium-medlemskap</string>
      <string name="can_not_find_resource">"Kan ikke finne ressurser"</string>
      <string name="cancel">Avbryt</string>
@@ -283,6 +286,7 @@
      <string name="metered_disallow">Avbryt</string>
      <string name="metered_play_toast">Strømming via datatilkobling</string>
      <string name="min_sleep_time">1</string>
+     <string name="miui_music">Mi Musikk</string>
      <string name="miuishare_account_activate_confirmation">Aktivering kreves</string>
      <string name="miuishare_account_activate_ok">Aktiver</string>
      <string name="miuishare_account_login_cancel">Avbryt</string>
@@ -313,10 +317,13 @@
      <string name="more_online_release">Mer</string>
      <string name="more_online_song">Mer</string>
      <string name="more_online_suggest">Mer</string>
+     <string name="more_settings">Flere avanserte innstillinger</string>
+     <string name="more_settings_summary">Innstillinger for nedlastning, sovemodus, mobildata, filfiltre osv.</string>
      <string name="multichoice">Velg</string>
      <string name="music_browser_label">Musikk</string>
      <string name="music_filter">Filtrer lydfiler</string>
      <string name="music_quality">Musikk-kvalitet</string>
+     <string name="music_service">Musikktjeneste</string>
      <string name="music_settings">Musikk</string>
      <string name="music_traffic">Musikk-dataabonnement</string>
      <string name="music_traffic_summary">Hør på og last ned sanger uten å bruke datatrafikk</string>
@@ -339,6 +346,7 @@
      <string name="network_request_error">"Kunne ikke koble til nettverket"</string>
      <string name="network_settings_error">"Kunne ikke koble til nettverket"</string>
      <string name="network_traffic">Databruk</string>
+     <string name="next_time">Neste gang</string>
      <string name="no_album_info">Ingen album info</string>
      <string name="no_artist_info">Ingen artist info</string>
      <string name="no_enough_info">Ikke nok sanginfo</string>
@@ -405,6 +413,7 @@
      <string name="renew_period">"Utløper: "</string>
      <string name="repeat_all_notif">Repeterer alle sanger.</string>
      <string name="repeat_current_notif">Repeterer gjeldende sang.</string>
+     <string name="restart_immediate">Start på nytt nå</string>
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
      <string name="search_album">Søk album</string>
@@ -428,6 +437,7 @@
      <string name="send_to">Del</string>
      <string name="send_to_title">Send til (%1$s)</string>
      <string name="server_error">Serverfeil. Vennligst prøv igjen senere</string>
+     <string name="service_and_settings">Tjeneste og innstillinger</string>
      <string name="service_stop">Tjenesten avviklet</string>
      <string name="set_album_successful">Album lagret</string>
      <string name="set_as_ring">Sett som ringetone</string>
@@ -438,6 +448,7 @@
      <string name="set_lyric_successful">Sangtekst lagret</string>
      <string name="set_ringtones_failed">Kunne ikke sette ringetoner.</string>
      <string name="set_ringtones_successful">%s satt som ringetone</string>
+     <string name="settings">Innstillinger</string>
      <string name="settings_notification_text">Vis avspiller-widget i varselskyggen</string>
      <string name="settings_notification_title">Varselskygge-widget</string>
      <string name="share_append_text">Fra @MIUI</string>
@@ -462,11 +473,17 @@
      <string name="sort_by_name">Navn</string>
      <string name="sort_by_time">Dato</string>
      <string name="source_from">Hentet fra: %1$s</string>
+     <string name="start_download_music">Laster ned oppdateringer…</string>
      <string name="start_to_download">Laster ned…</string>
      <string name="start_to_play">Spill av</string>
+     <string name="start_to_use">Åpne app</string>
+     <string name="start_update">Oppgrader til seneste versjon av Musikk-appen.</string>
      <string name="stream_normal">Spill i standardkvalitet</string>
      <string name="stream_quality">Strømmekvalitet</string>
      <string name="streamloadingtext">Kobler til %s</string>
+     <string name="sub_explanation">Dataabonnement for musikk</string>
+     <string name="sub_explanation_message">"Dataabonnement for musikk støttes bare av China Telecom. Nettverksleverandøren din støtter ikke denne funksjonen. Du kan bruke vanlig mobildata."</string>
+     <string name="subed">På</string>
      <string name="suggest_text">Folk som likte dette, likte også</string>
      <string name="support_online_only">Bare strømming</string>
      <string name="sync_only_in_wifi">Bare synk med Wi-Fi</string>
@@ -484,6 +501,9 @@
      <string name="tab_track">Sanger</string>
      <string name="tab_track_list">Sanger</string>
      <string name="take_effect_afater_restart">Du må restarte appen for at denne innstillingen skal trå i kraft.</string>
+     <string name="ticket_summary">Kjøp billetter for forestillinger, konserter, skuespill og andre hendelser</string>
+     <string name="ticket_title">Vis billetter</string>
+     <string name="time_to_upgrade">Oppdater til seneste versjon av Mi Musikk</string>
      <string name="title_online_artist">Populære artister</string>
      <string name="title_online_billboard">Lister</string>
      <string name="title_online_fm">Radio</string>
@@ -524,10 +544,13 @@
      <string name="ultra_high_quality">Høyeste kvalitet</string>
      <string name="unknown_album_name">Ukjent album</string>
      <string name="unknown_artist_name">Ukjent artist</string>
+     <string name="update_now">Oppdater nå</string>
      <string name="upgrade">Oppgrader:</string>
      <string name="upgrade_force">"Vi avvikler vår nåværende strømmetjeneste på grunn av rettighetsproblematikk. Oppdater til nyeste versjon av Musikk-appen for å høre på musikk i høy kvalitet."</string>
      <string name="upgrade_immediate">Oppdater når</string>
      <string name="upgrade_membership">Få mer plass</string>
+     <string name="upgrade_music">Oppdater Musikk</string>
+     <string name="upgrade_music_message">Pakken er klar. Start på nytt for å oppdatere.</string>
      <string name="upgrade_nobeta">"Vi avvikler vår nåværende strømmetjeneste mens vi løser rettighetsproblemer. Beklager bryet :("</string>
      <string name="upgrade_remind">Oppdatering tilgjengelig</string>
      <string name="upgrade_services">Oppdater</string>
@@ -550,4 +573,5 @@
      <string name="vip_renew_title">Abonnement uløpt</string>
      <string name="vip_required">Beklager, VIP er nødvendig</string>
      <string name="vip_required_with_song">"Få Premium-abonnement for å spille av "%s". Vi har hoppet over denne."</string>
+     <string name="welcome_to_new_music">Velkommen til den nye versjonen av Mi Musikk!</string>
 </resources>

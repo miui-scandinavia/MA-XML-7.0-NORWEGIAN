@@ -23,6 +23,7 @@
      <string name="background">Appen kjører i bakgrunn</string>
      <string name="config_custom_description">Hvis det foreslåtte oppsettet ikke møter din krav, bruk en egendefinert oppsett</string>
      <string name="config_custom_title">Egendefinert</string>
+     <string name="config_mode_title">Velg konfig</string>
      <string name="config_suggest_description">Brukt forskjellige strømsparingsoppsett for forskjellige apper</string>
      <string name="config_suggest_title">Forslag</string>
      <string name="disabled">Av</string>

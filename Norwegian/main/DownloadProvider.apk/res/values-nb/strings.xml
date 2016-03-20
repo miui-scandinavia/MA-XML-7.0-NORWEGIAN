@@ -76,4 +76,8 @@
      <string name="wifi_recommended_title">Fil for stor</string>
      <string name="wifi_required_body" formatted="false">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
      <string name="wifi_required_title">Nedlastingen er for stor for telefonnettet</string>
+     <string name="xl_speedup_experience_notify_context">"Hver nedlastning har økt hastighet når du er et Xunlei-medlem"</string>
+     <string name="xl_speedup_experience_notify_title">Xunlei-medlemskap</string>
+     <string name="xl_speedup_notify_button_experience">Prøv gratis</string>
+     <string name="xl_speedup_notify_button_member">Bli medlem</string>
 </resources>

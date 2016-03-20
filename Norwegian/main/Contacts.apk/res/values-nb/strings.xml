@@ -49,7 +49,7 @@
      <string name="audio_chat">Lyd chat</string>
      <string name="auto_nickname">Auto</string>
      <string name="auto_set_nickname">Auto</string>
-     <string name="back_view_description">Trykk for å gå tilbake</string>
+     <string name="back_view_description">Gå tilbake</string>
      <string name="batch_delete">Slett flere kontakter</string>
      <string name="batch_delete_msg">"Slette %d kontakter?</string>
      <string name="blacklist">Blokker</string>
@@ -399,7 +399,7 @@
      <string name="dialer_empty_text_loading">Laster ...</string>
      <string name="dialer_empty_text_no_call_log">Ingen anrop</string>
      <string name="dialer_empty_text_no_search_result">Ingen kontakter funnet</string>
-     <string name="dialer_menu_description">Trykk for å vise ringing</string>
+     <string name="dialer_menu_description">Vis ringing</string>
      <string name="dialer_returnToInCallScreen">Gå tilbake til gjeldende anrop</string>
      <string name="dialer_useDtmfDialpad">Bruk tastatur</string>
      <string name="dialog_import">Importer kontakter</string>
@@ -550,7 +550,7 @@
      <string name="import_all_vcard_string">Importer alle vCard-filer</string>
      <string name="import_contact_card_button">Importer kontakt</string>
      <string name="import_failure_no_vcard_file">Ingen vCard-filer funnet.</string>
-     <string name="import_from_onekey_migrate">Importer med overføring</string>
+     <string name="import_from_onekey_migrate">Importer med Mi Mover</string>
      <string name="import_from_other_phone">Importer fra annen telefon</string>
      <string name="import_from_sdcard">Importer fra lager</string>
      <string name="import_from_sim">Importer fra SIM-kort</string>
@@ -570,6 +570,7 @@
      <string name="import_to_xiaomi_account_progress_title">Importer kontakter til Mi-konto</string>
      <string name="import_to_xiaomi_account_title">Importer til Mi-konto</string>
      <string name="import_vcard_description">"Importer kontakter fra telefonens interne lagring"</string>
+     <string name="import_vcard_dialog_message">Import vCard?</string>
      <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
      <string name="import_weibo_error_no_matched_contacts">Ferdig med å oppdatere kontakter: ingen matchede kontakter</string>
      <string name="import_weibo_error_no_network">Ferdig med å oppdatere kontakter: nettverksproblemer</string>
@@ -779,7 +780,7 @@
      <string name="miprofile_request_time_expired_deleted">Forespørsler eldre enn en uke vil bli automatisk slettet.</string>
      <string name="miprofile_save_alertdialog_message">Kortet vil bli sendt til denne kontakten automatisk.</string>
      <string name="miprofile_save_alertdialog_title">Kontaktkort mottatt</string>
-     <string name="miprofile_switch_off_alertdialog_message">"Du vil ikke være i stand til å utveksle kontaktkort med andre folk. Kontaktene dine vil ikke være i stand til å se din profilbideo."</string>
+     <string name="miprofile_switch_off_alertdialog_message">"Du vil ikke være i stand til å utveksle kontaktkort med andre folk."</string>
      <string name="miprofile_switch_on_alertdialog_message">Utveksle kontaktkort for å se oppdatert profilbildet.</string>
      <string name="miprofile_switch_on_alertdialog_positive">Skru på</string>
      <string name="miprofile_switch_on_alertdialog_title">Oppdater profilbilde</string>
@@ -1369,14 +1370,14 @@
      <string name="voicemail_status_configure_voicemail">Konfigurer din telefonsvarer.</string>
      <string name="voicemail_status_messages_waiting">Kan ikke opprette forbindelse med telefonsvareren. Nye voicemails venter.</string>
      <string name="voicemail_status_voicemail_not_available">Kan ikke opprette forbindelse med telefonsvareren.</string>
-     <string name="voip_audio_description">Trykk for å utføre VoIP-anrop</string>
+     <string name="voip_audio_description">VoIP-anrop</string>
      <string name="voip_contact_label">Mi-tale</string>
      <string name="voip_contacts_entry">Mi-tale</string>
      <string name="voip_loading_contact">Bare et sekund…</string>
      <string name="voip_name">Mi-tale</string>
      <string name="voip_recommend_msg">Trykk for å bruke Mi-tale</string>
      <string name="voip_shortcut_name">Mi-tale</string>
-     <string name="voip_video_description">Trykk for å utføre VoIP-videoanrop</string>
+     <string name="voip_video_description">VoIP-videoanrop</string>
      <string name="websiteLabelsGroup">Hjemmeside</string>
      <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Slett kontakter</string>

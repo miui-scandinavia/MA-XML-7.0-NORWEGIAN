@@ -219,7 +219,7 @@
      <string name="applications_settings_summary">Administrer apper, angi snarveier for hurtigstart</string>
      <string name="apply_fingerprint_to_category_title">Bruk fingeravtrykket for…</string>
      <string name="apply_now_button_text">Oppdater</string>
-     <string name="apply_password_to_category_title">Krev passord</string>
+     <string name="apply_password_to_category_title">Krev opplåsning</string>
      <string name="apply_update_fail">Systemoppdatering feilet.</string>
      <string name="apps_with_restrictions_header">Apper med begrensninger</string>
      <string name="apps_with_restrictions_settings_button">Utvidelsesinnstillinger for appen</string>
@@ -234,6 +234,12 @@
      <string name="auto_brightness_title">Lysstyrken tilpasser seg</string>
      <string name="auto_caps">Automatisk stor forbokstav</string>
      <string name="auto_caps_summary">"Start setninger automatisk  med stor bokstav"</string>
+     <string name="auto_disable_screenbuttons_ask">Trykk for å deaktivere</string>
+     <string name="auto_disable_screenbuttons_auto">Alltid deaktiver</string>
+     <string name="auto_disable_screenbuttons_cancel">Avbryt</string>
+     <string name="auto_disable_screenbuttons_no">Aldri deaktiver</string>
+     <string name="auto_disable_screenbuttons_summary">Automatisk deaktiver navigasjonsknappene ved bruk av utvalgte apper. Dobbelttrykk en av navigasjonsknappene for å aktivere.</string>
+     <string name="auto_disable_screenbuttons_title">Automatisk deaktiver navigasjonsknappene</string>
      <string name="auto_launch_disable_text">Ingen standardvalg satt.</string>
      <string name="auto_launch_enable_text">Du har valgt å starte denne appen som standard for enkelte handlinger.</string>
      <string name="auto_launch_label">Start som standard</string>
@@ -339,7 +345,7 @@
      <string name="battery_info_voltage_label">Batterispenning:</string>
      <string name="battery_info_voltage_units">mV</string>
      <string name="battery_level_title">Batterinivå</string>
-     <string name="battery_light_title">Batterilys</string>
+     <string name="battery_light_title">Lys opp under lading</string>
      <string name="battery_msg_unaccounted">Batteribruken er anslått, og inkluderer ikke hver kilde som bruker batteriet. Forskjellen mellom den anslåtte batteribruken og den registrerte batteribruken, føres opp under annen batteribruk.</string>
      <string name="battery_saver">Batterisparing</string>
      <string name="battery_saver_turn_on_automatically_never">Aldri</string>
@@ -566,9 +572,9 @@
      <string name="bluetooth_untether_blank">%1$s kobles fra.</string>
      <string name="bluetooth_visibility_timeout">Tidsavbrudd for synlighet</string>
      <string name="breathing_light_color_menu_title">Lysfarge</string>
-     <string name="breathing_light_color_summary">LED-farge ved mottak av nye varsler</string>
+     <string name="breathing_light_color_summary">Lysfarge ved mottak av nye varsler</string>
      <string name="breathing_light_freq_summary">Pulser når du får nye varsler</string>
-     <string name="breathing_light_freq_title">LED flash frequency</string>
+     <string name="breathing_light_freq_title">Frekves for pulsering av varslingslys</string>
      <string name="brightness">Lysstyrke</string>
      <string name="brightness_auto_adjust_off">Lysstyrken vil forbli lik i alle omgivelser</string>
      <string name="brightness_auto_adjust_on">Lysstyrken vil variere i relasjon med lyset i dine omgivelser</string>
@@ -588,7 +594,7 @@
      <string name="builtin_keyboard_settings_summary">Innstillinger for fysisk tastatur</string>
      <string name="builtin_keyboard_settings_title">Fysisk tastatur</string>
      <string name="button_disconnect_network">Koble fra nettverk</string>
-     <string name="button_light_timeout">Innstillinger for knappelys</string>
+     <string name="button_light_timeout">Hold knappelys på</string>
      <string name="button_text_login">Logg inn</string>
      <string name="button_text_reboot_now">Omstart</string>
      <string name="cache_header_label">Hurtiglager</string>
@@ -650,7 +656,7 @@
      <string name="cell_broadcast_settings_summary">Velg typen nødmeldinger som skal vises</string>
      <string name="cellular_data_summary">Tillat databruk over mobilnettet</string>
      <string name="cellular_data_title">Mobildata</string>
-     <string name="change_password">Bytt passord</string>
+     <string name="change_password">Bytt skjermlås</string>
      <string name="change_security_lock">Prøv andre måter å låse opp</string>
      <string name="check_find_device_status_failure_confirm">OK</string>
      <string name="check_update">Se etter oppdateringer</string>
@@ -748,11 +754,17 @@
      <string name="credentials_unlock_hint">Skriv inn passordet for legitimasjonslageret.</string>
      <string name="credentials_wrong_password">Feil passord.</string>
      <string name="crypt_keeper_button_text">Krypter telefon</string>
+     <string name="crypt_keeper_conditions">Kryptering tar en time eller mer. Du må starte med fulladet batteri og holde telefonen tilkoblet gjennom hele prosessen. Hvis du avbryter den, vil du miste noe av eller alle dataene dine.</string>
+     <string name="crypt_keeper_conditions_title">Om kryptering av enheten din</string>
      <string name="crypt_keeper_confirm_encrypt">Du må tegne opplåsingsmønsteret ditt for å bekrefte krypteringen av enheten din.</string>
      <string name="crypt_keeper_confirm_title">Vil du kryptere?</string>
+     <string name="crypt_keeper_content">Du kan kryptere kontoer, innstillinger, nedlastede programmer og tilhørende data, media og andre filer.</string>
+     <string name="crypt_keeper_content_title">Krypter enhet</string>
      <string name="crypt_keeper_cooldown">Prøv på nytt om ^1 sekunder.</string>
      <string name="crypt_keeper_data_corrupt_summary">"Passordet du skrev inn er korrekt, men dessverre er dataene dine skadet.Hvis du vil bruke telefonen din, må du tilbakestille den til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, kan du gjenopprette eventuelle data som ble sikkerhetskopiert på Google-kontoen din."</string>
      <string name="crypt_keeper_data_corrupt_title">Dekrypteringen mislyktes</string>
+     <string name="crypt_keeper_decrypt_methods">Etter at du kryptere telefonen, forutsatt at du har satt opp en skjermlås (det vil si en numerisk PIN-kode eller passord), må du låse opp skjermen for å dekryptere telefonen hver gang du slår den på. Den eneste andre måten å dekryptere er å utføre en fabrikktilbakestilling, som vil sletter alle dataene dine.</string>
+     <string name="crypt_keeper_decrypt_methods_title">Dekrypter enheten din</string>
      <string name="crypt_keeper_desc">"Du kan kryptere kontoene dine, innstillinger, nedlastede apper og tilhørende data, mediefiler og andre filer. Når du krypterer telefonen din, må du skrive inn en numerisk PIN-kode eller et passord for å dekryptere telefonen hver gang du slår den på. Du kan ikke fjerne krypteringen av telefonen uten å gjennomføre en tilbakestilling til fabrikkinnstillingene, noe som fører til at alle dataene blir slettet.Det tar minst én time å gjennomføre krypteringen. Du må starte med fulladet batteri og sørge for at telefonen er koblet til et strømuttak helt til krypteringen er fullført. Hvis du avbryter krypteringsprosessen, mister du deler av eller alle dataene dine."</string>
      <string name="crypt_keeper_dialog_need_password_message">Du må angi en PIN-kode eller et passord for skjermlås før du kan starte krypteringen.</string>
      <string name="crypt_keeper_dialog_need_password_title">Ingen personlig kode eller passord for å låse skjermen.</string>
@@ -1023,11 +1035,11 @@
      <string name="dndm_auto_time_turn_on_title">Skru av Ikke forstyrr automatisk</string>
      <string name="dndm_dlg_remove_ok">Slett</string>
      <string name="dndm_dlg_remove_vip">Anrop fra denne personen vil bli dempet når Ikke forstyrr er på.</string>
-     <string name="dndm_menu_add_vip_custom">Legg til unntak</string>
+     <string name="dndm_menu_add_vip_custom">Legg til</string>
      <string name="dndm_mute_all">Anrop og meldinger er dempet.</string>
      <string name="dndm_notification">Ikke forstyrr er på</string>
      <string name="dndm_open">Ikke forstyrr</string>
-     <string name="dndm_repeated_call_setting_title">Gjentatte anrop</string>
+     <string name="dndm_repeated_call_setting_title">Gjentatte innringere</string>
      <string name="dndm_repeated_call_summary_3min">Ring ved mottak av anrop fra samme nummer i løp av 3 minutter</string>
      <string name="dndm_repeated_call_summary_none">Demp gjentatte anrop fra samme nummer</string>
      <string name="dndm_special_call_setting_group">Unntak</string>
@@ -1045,7 +1057,7 @@
      <string name="dndm_vip_list_custom_group">Unntak</string>
      <string name="dndm_vip_list_group">Unntaksliste</string>
      <string name="dndm_vip_user_setting_title">Unntak</string>
-     <string name="dndm_wristband">Mi Band</string>
+     <string name="dndm_wristband">Aktiver med Mi Band</string>
      <string name="dndm_wristband_detailed">"Skru på Ikke forstyrr om Mi Band detekterer at du sover en time før valgte start-tid"</string>
      <string name="dndm_wristband_detailed2">"Skru av Ikke forstyrr om Mi Band detekterer at du våkner en time før valgte slutt-tid</string>
      <string name="do_not_disturb_mode">Ikke forstyrr</string>
@@ -1225,7 +1237,7 @@
      <string name="filter_apps_running">Kjører</string>
      <string name="filter_apps_third_party">Tredjeparts</string>
      <string name="filter_dlg_title">Velg filteralternativer</string>
-     <string name="fingerprint_and_password_entrance_title">Passord &amp; fingeravtrykk</string>
+     <string name="fingerprint_and_password_entrance_title">Skjermlås &amp; fingeravtrykk</string>
      <string name="fingerprint_identificating_msg">Skanner fingeravtrykk…</string>
      <string name="fingerprint_identify_input_password_msg">Skriv passord</string>
      <string name="fingerprint_identify_msg">Skanner fingeravtrykk…</string>
@@ -1388,7 +1400,7 @@
      <string name="ims_reg_required_on">Aktivering av IMS-registrering er påkrevd</string>
      <string name="include_app_data_title">Inkluder appdata</string>
      <string name="incoming_call_breathing_light_color_title">Lysfarge for anrop</string>
-     <string name="incoming_call_breathing_light_freq_title">LED-frekvens for anrop</string>
+     <string name="incoming_call_breathing_light_freq_title">LED-pulseringsfrekvens for anrop</string>
      <string name="incoming_call_volume_title">Ringetone</string>
      <string name="information_dialog_button_text">Skjønner</string>
      <string name="input_method">Inndatametode</string>
@@ -1502,7 +1514,7 @@
      <string name="layout_size_small">XS</string>
      <string name="layout_size_small_text">Veldig liten</string>
      <string name="led_colors_summary">Varslinger</string>
-     <string name="led_frequence_summary">Sett mellomrom mellom LED-blinking</string>
+     <string name="led_frequence_summary">Sett pulseringsinterval</string>
      <string name="led_pulse_summary">Pulser varsellampe når et nytt varsel er mottatt</string>
      <string name="led_settings">Varsellampe</string>
      <string name="legal_information">Juridisk informasjon</string>
@@ -1830,7 +1842,7 @@
      <string name="miui_screensaver_usage">Bilder i skjermspareralbumet vil bli vist 5 sekunder etter at skjermen er skrudd av.</string>
      <string name="miui_silent_title">aktive stillemodus</string>
      <string name="mms_breathing_light_color_title">Lysfarge for meldinger</string>
-     <string name="mms_breathing_light_freq_title">LED-blinkevarighet for meldinger</string>
+     <string name="mms_breathing_light_freq_title">LED-pulseringsfrekvens for meldinger</string>
      <string name="mobile_connect_to_internet">Vennligst koble deg til internett</string>
      <string name="mobile_fconnect_to_internet">Koble deg til Internett</string>
      <string name="mobile_insert_sim_card">Sett inn SIM-kortet og start enheten på nytt</string>
@@ -1931,7 +1943,7 @@
      <string name="music_hifi_summary">Reduser støy og forvrenging og forbedre lydkvaliteten</string>
      <string name="music_hifi_title">Hi-Fi-lyd</string>
      <string name="music_hifi_volume">Hi-Fi-volum</string>
-     <string name="music_mi_effect_summary">Bruk Mi-lydforbedrer ved bruk av hodetelefoner</string>
+     <string name="music_mi_effect_summary">Bruk Mi-lydforbedrer ved bruk av høytalere</string>
      <string name="music_mi_effect_title">Mi-lydforbedrer</string>
      <string name="music_title_dolby_control">DOLBY</string>
      <string name="musicfx_title">Musikkeffekter</string>
@@ -1989,7 +2001,7 @@
      <string name="not_installed">Ikke installert</string>
      <string name="notification_app_settings_button">Varselinnstillinger</string>
      <string name="notification_breathing_light_color_title">Lysfarge for varsler</string>
-     <string name="notification_breathing_light_freq_title">LED-blinkefrekvens for varsler</string>
+     <string name="notification_breathing_light_freq_title">LED-pulseringsfrekvens for varsler</string>
      <string name="notification_listener_security_warning_summary">%1$s kan lese alle varsler lagt inn av systemet eller installerte apper. Dette kan omfatte personlig informasjon, som for eksempel kontaktnavn og innholdet i meldinger som sendes til deg. Den kan også avvise disse varslene, eller trykke på handlingsknapper i dem.</string>
      <string name="notification_listener_security_warning_title">Vil du aktivere %1$s?</string>
      <string name="notification_log_title">Varsellogg</string>
@@ -2091,7 +2103,7 @@
      <string name="page_layout_page2_title">Forhåndsvis</string>
      <string name="page_layout_small_title">Ekstra liten</string>
      <string name="passwordIncorrect">Passordet du skrev er ikke korrekt</string>
-     <string name="password_entrance_title">Passord</string>
+     <string name="password_entrance_title">Skjermlås</string>
      <string name="password_guard">Passord</string>
      <string name="percentage">%d%%</string>
      <string name="performance_category">Ytelse</string>
@@ -2562,7 +2574,7 @@
      <string name="search_wallpaper">bakgrunn</string>
      <string name="search_wifi">wifi</string>
      <string name="search_wifi_display">wifi-skjerm</string>
-     <string name="secure_keyguard_business_title">Passord på låseskjerm</string>
+     <string name="secure_keyguard_business_title">&gt;Sett skjermlås</string>
      <string name="secure_lock_encryption_warning">Fordi du har slått på en tilgjengelighetstjeneste, bruker ikke enheten skjermlåsen til å forbedre datakryptering.</string>
      <string name="security_enable_widgets_disabled_summary">Deaktivert av administratoren</string>
      <string name="security_enable_widgets_title">Aktiver moduler</string>
@@ -2608,6 +2620,7 @@
      <string name="settings_backup">Sikkerhetskopier innstillinger</string>
      <string name="settings_backup_summary">Sikkerhetskopier innstillingene</string>
      <string name="settings_button">Innstillinger</string>
+     <string name="settings_forbidden_message">Denne innstillingen er deaktivert</string>
      <string name="settings_label">Innstillinger</string>
      <string name="settings_label_launcher">Innstillinger</string>
      <string name="settings_license_activity_loading">henter…</string>
@@ -3014,11 +3027,11 @@
      <string name="tts_status_ok">%1$s støttes fullt ut</string>
      <string name="tts_status_requires_network">%1$s krever nettverkstilkobling</string>
      <string name="tts_status_title">Standardspråkstatus</string>
-     <string name="turn_off_common_password_confirm_msg">Passordet vil også bli skrudd av.</string>
+     <string name="turn_off_common_password_confirm_msg">Skjermlås vil også bli skrudd av.</string>
      <string name="turn_off_radio">Slå av radio</string>
      <string name="turn_off_security_lock">Skru av lås</string>
      <string name="turn_on_radio">Slå på radio</string>
-     <string name="turn_on_security_lock">Legg til sikkeretspassord</string>
+     <string name="turn_on_security_lock">Velg skjermlås</string>
      <string name="uicc_eject">Koble fra UICC-lagring</string>
      <string name="uicc_eject_summary">Koble fra UICC-lagringen slik at du trygt kan fjerne det</string>
      <string name="uicc_format">Slett UICC-lagring</string>
@@ -3297,11 +3310,11 @@
      <string name="volume_notification_description">Varslinger</string>
      <string name="volume_notification_mute">Ignorer varsler</string>
      <string name="volume_restore">Tilbakestill nivå</string>
-     <string name="volume_restore_alert">"Når du tilbakestiller volumer til deres standard nivå, vil gjeldende innstillinger for nivå bli slettet."</string>
+     <string name="volume_restore_alert">"Tilbakestill alle volumer til standard nivå?"</string>
      <string name="volume_ring_description">Ringetone og varslinger</string>
      <string name="volume_ring_mute">Ignorer ringetone og varsler</string>
      <string name="volume_system_description">Kameralukker, låseskjerm og andre systemvarslinger</string>
-     <string name="volume_voice_description">Tale</string>
+     <string name="volume_voice_description">Tale i-samtale</string>
      <string name="vpn_cancel">Avbryt</string>
      <string name="vpn_configure">Oppsett</string>
      <string name="vpn_connect">Koble til</string>
@@ -3695,7 +3708,7 @@
      <string name="wifi_verbose_logging">Aktiver detaljert Wi-Fi-loggføring</string>
      <string name="wifi_verbose_logging_summary">Øk Wi-Fi-loggenivå – vis per SSID RSSI i Wi-Fi-velgeren</string>
      <string name="wifi_wapi_as_cert">AS-sertfifikat</string>
-     <string name="wifi_wapi_cert_cancel_button">Cancel</string>
+     <string name="wifi_wapi_cert_cancel_button">Avbryt</string>
      <string name="wifi_wapi_cert_create_subdir">Lag en mappe</string>
      <string name="wifi_wapi_cert_delet_subdir">Velg et passende sertifikat</string>
      <string name="wifi_wapi_cert_install">Installer WAPI-sertifikat</string>
@@ -3706,7 +3719,7 @@
      <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Feil ved oppretting av mappe.</string>
      <string name="wifi_wapi_cert_mgmt_subdir_exist">En mappe med dette navnet eksisterer allerede.</string>
      <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Skriv sertifikatnavn</string>
-     <string name="wifi_wapi_cert_mgmt_titlebar">WAPI-sertifikathåndtering</string>
+     <string name="wifi_wapi_cert_mgmt_titlebar">WAPI-sertifikater</string>
      <string name="wifi_wapi_cert_mgmt_user_dont_exist">Skriv navn på brukersertifikat</string>
      <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Brukersertifikatsformat er feil.</string>
      <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Skriv navn på brukersertifikat</string>
@@ -3743,7 +3756,7 @@
      <string name="work_sim_title">Jobb-SIM-kort</string>
      <string name="wps_category">WPS</string>
      <string name="wps_connect_summary">Vær sikker på at ruteren støtter og har aktivert WPS</string>
-     <string name="wps_connect_title">Koble til WPS</string>
+     <string name="wps_connect_title">WPS-pushknapp</string>
      <string name="write_tag">Skriv</string>
      <string name="wrong_pin_code_pukked">Feil PIN-kode for SIM-kortet. Du må nå kontakte operatøren din for å låse opp enheten.</string>
      <string name="xiaomi_account">Mi-konto</string>

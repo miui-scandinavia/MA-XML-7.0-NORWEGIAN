@@ -911,6 +911,9 @@
      <string name="title_allow_network_access">Oppdater info automatisk</string>
      <string name="title_collapse_sp_messages">Varselgruppe</string>
      <string name="title_date_type">Meldingstidsstempel</string>
+     <string name="title_recv_red_package">Hent rød pakke</string>
+     <string name="title_red_package">Bli rik og få lykke</string>
+     <string name="title_send_red_package">Sjekk rød pakke</string>
      <string name="title_show_blocked_messages">Vis blokkerte SMS</string>
      <string name="title_show_sms_template">Sjekk SMS etter verifikasjonskoder</string>
      <string name="title_show_sms_template_in">Sjekk SMS for OTP</string>

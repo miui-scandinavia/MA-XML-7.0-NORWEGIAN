@@ -617,6 +617,7 @@ Vil du forlate denne siden?"</string>
      <string name="permission_preload_label">Forhåndslast resultater</string>
      <string name="popup_window_attempt">Tillat denne side å åpne et pop-up-vindue?</string>
      <string name="positive_confirm_message">Skru av uansett</string>
+     <string name="pref_accessibility">Tilgjengelighet</string>
      <string name="pref_accessibility_title">Tilgjengelighet</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">Når du skriver inn fra adressefeltet, kan vanlige bokstavkombinasjoner angis med ett tastetrykk</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Rask URL input</string>

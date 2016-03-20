@@ -3,7 +3,7 @@
 <resources>
      <string name="add_account_desc">Notater kan synkroniseres til din Xiaomi-konto. Log inn og synk nå?</string>
      <string name="alarm_bar_title">Påminnelse</string>
-     <string name="alert_action_edit_anyway">Endre</string>
+     <string name="alert_action_edit_anyway">Endre uansett</string>
      <string name="alert_edit_action_delete">Fjern</string>
      <string name="alert_edit_action_update">Rediger</string>
      <string name="alert_message_delete">Sleet %1$s?</string>
@@ -119,6 +119,6 @@
   - Synk med Mi Cloud
   - Sette påminnelser"</string>
      <string name="widget_content_loading">Bare et sekund…</string>
-     <string name="widget_havenot_content">"Kunne ikke finne notat. Trykk for å opprette et nytt notat. For å endre størrelse, trykk og dra i en kant."</string>
+     <string name="widget_havenot_content">Trykk for å opprette et notat. Hold widget for å endre størrelse.</string>
      <string name="widget_under_privacy_mode">"Kan ikke vise notater i Gjestemodus"</string>
 </resources>
