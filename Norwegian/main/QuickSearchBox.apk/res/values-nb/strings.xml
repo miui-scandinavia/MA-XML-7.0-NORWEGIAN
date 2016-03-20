@@ -3,11 +3,11 @@
 <resources>
      <string name="app_name">Søk</string>
      <string name="apps_search_activity" />
-     <string name="baidu_search_url_from_default">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
-     <string name="baidu_search_url_from_input">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
-     <string name="baidu_search_url_from_launcher">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
-     <string name="baidu_search_url_from_systemui">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
-     <string name="baidu_suggest_base">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=%s</string>
+     <string name="baidu_search_url_from_default">https://www.google.no/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_input">https://www.google.no/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_launcher">https://www.google.no/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_systemui">https://www.google.no/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_suggest_base">https://www.google.no/search?q=%s&amp;tn=ins</string>
      <string name="clear_history">Tøm historikk</string>
      <string name="clear_shortcuts">Fjern snarveier</string>
      <string name="clear_shortcuts_agree">Fjern snarveier</string>
