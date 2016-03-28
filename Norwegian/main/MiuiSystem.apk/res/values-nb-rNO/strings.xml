@@ -596,6 +596,7 @@ gå til %s"</string>
      <string name="vernal_equinox" />
      <string name="vip_achievements">Oppnåelser</string>
      <string name="vip_level">LV%d</string>
+     <string name="vip_login">Click to sign in</string>
      <string name="vip_not_login">Ikke logget inn</string>
      <string name="vip_sign">Signatur:</string>
      <string name="volume_alarm">Alarm</string>

@@ -276,11 +276,13 @@
      <string name="micloud_member_webload_fail_toast_5xx">Serverfeil</string>
      <string name="micloud_more">Lær mer</string>
      <string name="micloud_notif_content_battery_low">Batterinivå er lavt.</string>
+     <string name="micloud_notif_content_clipboard_push">Du kan lime inn hvor som helst.</string>
      <string name="micloud_notif_content_depend_wifi">Koble til Wi-Fi for å synke.</string>
      <string name="micloud_notif_content_master_depend_wifi">Koble til Wi-Fi først.</string>
      <string name="micloud_notif_content_memory_low">Ikke nok lagringsplass.</string>
      <string name="micloud_notif_content_sync_with_off">Trykk for å synke enheten din nå.</string>
      <string name="micloud_notif_title_battery_low">"Kan ikke synke med Mi Cloud"</string>
+     <string name="micloud_notif_title_clipboard_push">Innhold kopiert til utklippstavlen</string>
      <string name="micloud_notif_title_depend_wifi">%d venter på synk</string>
      <string name="micloud_notif_title_master_depend_wifi">"Kan ikke synke med Mi Cloud"</string>
      <string name="micloud_notif_title_memory_low">"Kan ikke synke med Mi Cloud"</string>

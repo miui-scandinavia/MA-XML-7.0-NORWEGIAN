@@ -185,4 +185,12 @@
         <item quantity="few">%1$d filer igjen å laste opp</item>
         <item quantity="many">%1$d filer igjen å laste opp</item>
      </plurals>
+     <plurals name="video_ad_download_tip">
+        <item quantity="other"> Downloads</item>
+        <item quantity="zero"> Downloads</item>
+        <item quantity="one"> Download</item>
+        <item quantity="two"> Downloads</item>
+        <item quantity="few"> Downloads</item>
+        <item quantity="many"> Downloads</item>
+     </plurals>
 </resources>

@@ -101,6 +101,7 @@
      <string name="call_other_fax">Ring faksnummer</string>
      <string name="call_pager">Ring personsøkernummer</string>
      <string name="call_radio">Ring radionummer</string>
+     <string name="call_sender">Call sender</string>
      <string name="call_telex">Ring teleksnummer</string>
      <string name="call_tty_tdd">Ring TTY/TDD</string>
      <string name="call_work">Ring arbeidsnummer</string>
@@ -818,6 +819,7 @@
      <string name="share_img">Del</string>
      <string name="share_visible_contacts">Del synlige kontakter</string>
      <string name="show_all_messages">Vis alle meldinger</string>
+     <string name="show_sender">Show sender info</string>
      <string name="silent_ringtone">Stille</string>
      <string name="sim_card1">SIM 1</string>
      <string name="sim_card2">SIM 2</string>

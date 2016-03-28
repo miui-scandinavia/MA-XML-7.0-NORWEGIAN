@@ -786,6 +786,7 @@
      <string name="miprofile_switch_on_alertdialog_title">Oppdater profilbilde</string>
      <string name="missing_app">Kunne ikke finne noen app som kan håndtere denne handlingen.</string>
      <string name="missing_name">ukjent</string>
+     <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
      <string name="more_call_logs">Vis detaljer anropshistorikk på i.mi.com</string>
      <string name="move_and_resize">Flytt og skaler</string>
      <string name="multi_number_menu_call">Ring</string>
@@ -1330,6 +1331,7 @@
      <string name="type_mx_msg">Skymeldinger</string>
      <string name="type_outgoing">Utgående anrop</string>
      <string name="type_voicemail">Voicemail</string>
+     <string name="unable_get_device_id">Unable to get IMEI</string>
      <string name="unknow_phone_number_call_failed">"Kan ikke ringe ukjent nummer"</string>
      <string name="unknow_phone_number_mms_failed">"Kan ikke sende melding til ukjent numer"</string>
      <string name="unknown">ukjent</string>

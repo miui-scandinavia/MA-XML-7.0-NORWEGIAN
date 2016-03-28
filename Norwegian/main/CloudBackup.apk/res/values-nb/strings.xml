@@ -9,6 +9,7 @@
      <string name="back_up_task_unfinished">sikkerhetskopi uferdig</string>
      <string name="backing_up_to_micloud">Tar sikkerhetskopi…</string>
      <string name="backup_fail">"Kunne ikke sikkerhetskopiere"</string>
+     <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
      <string name="backup_size">Størrelse: %s</string>
      <string name="backup_success">Sikkerhetskopi av hjemskjerm-apper fullført</string>
      <string name="backup_to_cloud">Sikkerhetskopier app</string>

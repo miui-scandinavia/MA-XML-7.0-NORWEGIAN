@@ -4,6 +4,7 @@
      <string name="Accounts_settings_title">Kontoer</string>
      <string name="about_settings">Om enheten</string>
      <string name="about_settings_summary">Vis juridisk informasjon, status og programvareversjon</string>
+     <string name="ac_enable_summary">Password will be required to open the app</string>
      <string name="ac_enable_title">Tillatelser</string>
      <string name="ac_privacy_mode_sum">Krev et passord for å skru av Gjestemodus</string>
      <string name="ac_privacy_mode_title">Passord</string>
@@ -2445,6 +2446,7 @@
      <string name="scan_list_label">Skannresultater:</string>
      <string name="screen">Skjerm</string>
      <string name="screen_color_and_optimize">Farger &amp; kontrast</string>
+     <string name="screen_color_and_optimize_disabled">"Kan ikke justere fargetemperatur i Lesemodus"</string>
      <string name="screen_color_temperature">Farger</string>
      <string name="screen_color_temperature_and_saturation">Farger &amp; metning</string>
      <string name="screen_compatibility_label">Skjermkompatibilitet</string>

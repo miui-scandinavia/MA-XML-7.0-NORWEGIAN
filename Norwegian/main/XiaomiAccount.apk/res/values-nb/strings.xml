@@ -321,6 +321,8 @@
      <string name="passport_get_verify_code">Hent kode</string>
      <string name="passport_getting_verify_code">Henter</string>
      <string name="passport_identitfication_expired">Verfikasjonskode utløpt, start på nytt</string>
+     <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identity the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
+     <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
      <string name="passport_input_captcha_hint">Skriv kode</string>
      <string name="passport_input_password_for_login">Dette nummeret er assosiert med en annen konto, skriv ditt passord</string>
      <string name="passport_input_password_hint">Skriv passord</string>

@@ -435,7 +435,7 @@
      <string name="user_notice_button_exit">Avslutt</string>
      <string name="user_notice_button_ok">OK</string>
      <string name="user_notice_declaration_ignore">"Ikke vis igjen"</string>
-     <string name="user_notice_message">"Ved å bruke dette produktet, godkjenner du Xiaomi sine %1$s og %2$s. Noen funksjoner krever en internettforbindelse, plasseringstilgang og kontakttilgang å fungere normalt."</string>
+     <string name="user_notice_message">"Ved å bruke dette produktet, godkjenner du Xiaomi sine %1$s og %2$s. Noen funksjoner krever en internettforbindelse, plasseringstilgang, kontakttilgang og sms-tilgang for å fungere normalt."</string>
      <string name="user_notice_online_agreement">Du er iferd med å få tilgang til en kalender ved hjelp av MIUI, dette er en tjeneste som krever en Internett-tilkobling. Ved å bruke denne tjenesten samtykker du til %1$s og %2$s.</string>
      <string name="user_notice_online_ok">Godta og fortsett</string>
      <string name="user_notice_online_title">Vilkår og betingelser</string>

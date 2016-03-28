@@ -36,6 +36,7 @@
      <string name="antispam_notification_title">Ukjent nummer</string>
      <string name="antispam_provider">Identifisert av %s</string>
      <string name="apn_settings">Navn på aksesspunkt</string>
+     <string name="areacode_set_default">Set as default</string>
      <string name="atr_disable">Lokale trafikkmeldinger deaktivert</string>
      <string name="atr_enable">Lokale trafikkmeldinger aktivert</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -100,6 +101,7 @@
      <string name="call_title_redialing_with_times">Oppringt %d ganger</string>
      <string name="caller_manage_header">Konferanseanrop %s</string>
      <string name="calling_via_template">Ringer via %s</string>
+     <string name="can_not_call_oneself">"Can't complete call to this number"</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_call">Legg på</string>
      <string name="card_title_call_ended">Anrop avsluttet</string>
@@ -158,6 +160,7 @@
      <string name="custom_message_send">Send</string>
      <string name="data_enable_summary">Aktiver datatilgang i mobilnettverk</string>
      <string name="data_enabled">Data aktivert</string>
+     <string name="default_area_code_setting">Default area code</string>
      <string name="default_notification_description">Standard lyd (%1$s)</string>
      <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Ikke angitt&gt;</string>
@@ -208,6 +211,9 @@
      <string name="dial_pad_autocomplete">Autofullf. for talltast.</string>
      <string name="dial_with_gsm_phone">Vanlig samtale</string>
      <string name="dialerKeyboardHintText">Bruk telefontaster for å ringe</string>
+     <string name="dialog_activate_livetalk">Verify number</string>
+     <string name="dialog_call_ordinary_telephone">Regular call</string>
+     <string name="dialog_purchase">Top up</string>
      <string name="disable">Deaktiver</string>
      <string name="disable_cfb_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er opptatt.</string>
      <string name="disable_cfnrc_forbidden">Operatøren støtter ikke deaktivering av viderekobling når telefonen er utenfor dekning.</string>
@@ -219,6 +225,7 @@
      <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Samme som brukernavn&gt;</string>
      <string name="display_name_title">Visningsnavn</string>
+     <string name="do_not_ask">Dont show again</string>
      <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Tjener</string>
      <string name="doneButton">Ferdig</string>
@@ -336,6 +343,7 @@
      <string name="jeejen_end_call_text">Avslutt samtale</string>
      <string name="jeejen_reject_call_text">Avslå anrop</string>
      <string name="jeejen_toggle_dialpad_text">Talltastatur</string>
+     <string name="keep_wait_call_back">Keep waiting</string>
      <string name="labelCDMAMore">Innstillinger for CDMA-samtaler</string>
      <string name="labelCF">Viderekobling</string>
      <string name="labelCFB">Viderekoble når opptatt</string>
@@ -355,6 +363,7 @@
      <string name="list_language_summary">Velg nyhetsspråk</string>
      <string name="list_language_title">Språk</string>
      <string name="livetalk_dial">Bruker oppfyllingspakke</string>
+     <string name="livetalk_hangup">Hang up</string>
      <string name="livetalk_left_minute">%s min gjenstående</string>
      <string name="livetalk_provider_info">Tilbudt av %s</string>
      <string name="livetalk_waiting">Venter…</string>
@@ -405,6 +414,8 @@
      <string name="newPinLabel">Ny PIN</string>
      <string name="no_balance_message">Ikke nok midler i oppfyllingspakken. Du kan prøve å utføre et normalt anrop istedet.</string>
      <string name="no_balance_title">Ikke nok midler</string>
+     <string name="no_call_back_message">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+     <string name="no_call_back_title">Attention</string>
      <string name="no_change">Ingen endringer ble utført.</string>
      <string name="no_internet_available">Kontroller Internett-tilkoblingen før du foretar et Internett-anrop.</string>
      <string name="no_internet_available_title">Ingen Internett-tilkobling</string>
@@ -418,6 +429,9 @@
      <string name="non_ivr_menu_collapse_menu">Slå sammen meny</string>
      <string name="non_ivr_menu_view_menu">Vis meny</string>
      <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534.</string>
+     <string name="not_activate_sim_card_content">Verify your phone number to start using Top up package. You can still make a regular call for which youll be charged by the carrier.</string>
+     <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
+     <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top up package. You can still make a regular call for which youll be charged by the carrier.</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
      <string name="not_support_message">"Oppfyllingspakken støtter foreløpig ikke slike numre. Prøv å utfør et normalt anrpo istedet."</string>
      <string name="not_support_title">"Nummeret er ikke støttet"</string>
@@ -711,6 +725,7 @@
      <string name="throttle_status_subtext">"%1$s (%2$d٪) av %3$s periodens maksimumNeste periode starter om %4$d dager (%5$s)"</string>
      <string name="throttle_time_frame">Databrukperiode</string>
      <string name="throttle_time_frame_subtext">"%1$d٪ av syklus brukt. Neste periode starter om %2$d dager (%3$s)"</string>
+     <string name="time_left_livetalk">(%dS)</string>
      <string name="transport">Porotkol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>

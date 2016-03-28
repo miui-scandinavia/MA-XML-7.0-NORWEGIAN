@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="age_day">
+        <item quantity="other">%d dager</item>
+        <item quantity="one">%d dag</item>
+     </plurals>
+     <plurals name="age_month">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+     </plurals>
+     <plurals name="age_year">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+     </plurals>
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Allerede delt med %d personer</item>
+        <item quantity="one">Allerede delt med %d person</item>
+     </plurals>
+     <plurals name="album_count">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bilde</item>
+     </plurals>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementer| %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+     </plurals>
+     <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementer totalt)</item>
+        <item quantity="one">(%d element totalt)</item>
+     </plurals>
      <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d dager</item>
         <item quantity="one">%1$d dag</item>
@@ -63,8 +91,8 @@
         <item quantity="one">&lt;Data>Slett en video både fra denne enheten og Mi Cloud?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra dette albumet?&lt;/Data></item>
-       <item quantity="one">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video fra dette albumet?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra dette albumet?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video fra dette albumet?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
         <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra Mi Cloud?&lt;/Data></item>
@@ -82,12 +110,24 @@
         <item quantity="one">Slett denne videoen?</item>
      </plurals>
      <plurals name="confirm_delete_image_from_many_albums">
-       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d bilder&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
-       <item quantity="one">&lt;Data>Slett dette bildet fra %2$d album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d bilder&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra %2$d album?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-       <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d videoer&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
-       <item quantity="one">&lt;Data>Slett denne videoen fra %2$d album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d videoer&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett denne videoen fra %2$d album?&lt;/Data></item>
+     </plurals>
+     <plurals name="delete_media_msg_format">
+        <item quantity="other">Slett %1$d elementer %2$s?</item>
+        <item quantity="one">Slett %1$d element %2$s?</item>
+     </plurals>
+     <plurals name="delete_photo_msg_format">
+        <item quantity="other">Slett %1$d bilder %2$s?</item>
+        <item quantity="one">Slett dette bildet %2$s?</item>
+     </plurals>
+     <plurals name="delete_video_msg_format">
+        <item quantity="other">Slett %1$d videoer %2$s?</item>
+        <item quantity="one">Slett denne videoen %2$s?</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d bilder</item>

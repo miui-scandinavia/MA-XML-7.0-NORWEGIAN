@@ -22,6 +22,7 @@
      <string name="action_item_send">Send</string>
      <string name="action_item_share">Del</string>
      <string name="add_music">Legg til sanger</string>
+     <string name="add_to_last_of_playlist">Legg til i enden av spillelisten.</string>
      <string name="alaka_required">"Denne sangen er ikke tilgjengelig."</string>
      <string name="album_name">Album</string>
      <string name="album_search_title">Album</string>
@@ -261,6 +262,7 @@
      <string name="japan_korea_group">Band (Japan/Korea)</string>
      <string name="japan_korea_male">Mannelige artister (Japan/Korea)</string>
      <string name="ktv_playlist">KTV-spilleliste</string>
+     <string name="latest_song">Avspillingshistorikk (%d).</string>
      <string name="like">Lik</string>
      <string name="list_detail_title">Detaljer</string>
      <string name="list_item_play_FM_radio">Trykk for å spille FM-radio</string>
@@ -285,6 +287,7 @@
      <string name="metered_allow">Strøm</string>
      <string name="metered_disallow">Avbryt</string>
      <string name="metered_play_toast">Strømming via datatilkobling</string>
+     <string name="milink_unavaliable_please_update">Milink-funksjonen er ikke tilgjengelig. Oppdater MIUI-system.</string>
      <string name="min_sleep_time">1</string>
      <string name="miui_music">Mi Musikk</string>
      <string name="miuishare_account_activate_confirmation">Aktivering kreves</string>
@@ -389,6 +392,7 @@
      <string name="payment_success">Betaling fullført!</string>
      <string name="period_format">%1$s-%2$s</string>
      <string name="play_all_song">Spill alle</string>
+     <string name="play_next">Spill neste.</string>
      <string name="playback_failed_no_title_by_bad_file">Denne sangens format er ikke støttet eller filen eksisterer ikke.</string>
      <string name="playlist_deleted_message">Spilleliste slettet.</string>
      <string name="playlist_renamed_message">Spilleliste gitt nytt navn.</string>
@@ -404,10 +408,20 @@
      <string name="project_device">Mi-enhet</string>
      <string name="project_device_mobile">Mobil enhet</string>
      <string name="quit_warining">Avspiller vil stoppe avspillning etter %d minutt(er)</string>
+     <string name="radar">ACRCloud</string>
+     <string name="radar_click_to_retry">Trykk for å prøve på nytt</string>
+     <string name="radar_fail">Ingen resultat</string>
+     <string name="radar_fail_by_noise">Kan være for bråkete</string>
+     <string name="radar_listening_state">Gjenkjenning pågår</string>
+     <string name="radar_possible_result">Mulige sanger</string>
+     <string name="radar_retry">Prøv på nytt</string>
+     <string name="radar_searching_state">Søking pågår</string>
+     <string name="radar_support_by">Drevet av ACRCloud</string>
      <string name="really_pay">Betal nå?</string>
      <string name="recommend_fragment_title">Utvalgte</string>
      <string name="remaining">Remaining this month:</string>
      <string name="remove">Fjern</string>
+     <string name="remove_from_nowplaying">Remove from playlist.</string>
      <string name="renew">Forny:</string>
      <string name="renew_1">Forny</string>
      <string name="renew_period">"Utløper: "</string>
@@ -416,6 +430,7 @@
      <string name="restart_immediate">Start på nytt nå</string>
      <string name="retry">Prøv igjen</string>
      <string name="ringtone_not_support">"Sangens format er ikke støttet."</string>
+     <string name="save_to_playlist">Lagre som spilleliste.</string>
      <string name="search_album">Søk album</string>
      <string name="search_for_album">Album</string>
      <string name="search_for_artist">Artist</string>
@@ -425,6 +440,7 @@
      <string name="search_title_album">Album</string>
      <string name="search_title_singer">Artister</string>
      <string name="search_title_song">Sanger</string>
+     <string name="second_symbol">s</string>
      <string name="sel_svc">Velg tjeneste</string>
      <string name="select_album">Velg Album</string>
      <string name="select_all">Velg alle</string>

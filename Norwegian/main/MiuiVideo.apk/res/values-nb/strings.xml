@@ -509,6 +509,7 @@
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Beklager, det valgte videoformatet er ikke gyldig til streaming på denne enhet</string>
      <string name="vp_VideoView_error_text_unknown">Beklager, det valgte video formatet kan ikke spilles av</string>
      <string name="vp_VideoView_error_title">Noe gikk galt…</string>
+     <string name="vp_ad_skip">Hopp over</string>
      <string name="vp_adapt_height">Tilpass høyde</string>
      <string name="vp_adapt_width">Tilpass bredde</string>
      <string name="vp_app_download">Programnedlastning</string>

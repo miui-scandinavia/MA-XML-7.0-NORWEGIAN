@@ -104,6 +104,7 @@
      <string name="aqi_quality_index_moderate">AQI %1$s</string>
      <string name="aqi_quality_index_pure">AQI %1$s</string>
      <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+     <string name="autofill_popup_content_description">Viser autofyll-popup</string>
      <string name="autofill_profile_editor_address_line_1">Adresselinje 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
      <string name="autofill_profile_editor_address_line_2">Adresselinje 2:</string>
@@ -609,6 +610,7 @@ Vil du forlate denne siden?"</string>
      <string name="page_info_address">Adresse:</string>
      <string name="page_info_view">Vis sideinfo</string>
      <string name="password">tilgangskode</string>
+     <string name="password_generation_popup_content_description">Viser passordgenererings-popup</string>
      <string name="pause_download">Pauset</string>
      <string name="paused_queued_for_wifi">Venter på tilkobling…</string>
      <string name="paused_unknown">Pauset</string>
@@ -1049,6 +1051,7 @@ Vil du forlate denne siden?"</string>
      <string name="version_update_file_download_toast">Laster ned</string>
      <string name="version_update_file_not_found">"Kan ikke finne oppdateringer"</string>
      <string name="video_activity_name">Favoritter</string>
+     <string name="video_buffering_percent">"Bufrer "</string>
      <string name="video_buffering_percent_string">"Bufrer "</string>
      <string name="video_collect_cancel">Fjern favoritt</string>
      <string name="video_collect_success">Favorittert</string>
@@ -1078,6 +1081,7 @@ Vil du forlate denne siden?"</string>
      <string name="video_group_noupdates_list">Ingen oppdateringer tilgjengelig</string>
      <string name="video_group_updates_list">Oppdateringer</string>
      <string name="video_history_empty">Ingen historikk</string>
+     <string name="video_play_error">Videoavspillingsfeil</string>
      <string name="video_project_button">Stopp</string>
      <string name="video_project_msg">Video vises på %s</string>
      <string name="video_project_title">Ekstern skjerm</string>

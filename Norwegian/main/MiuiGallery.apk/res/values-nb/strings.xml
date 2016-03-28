@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<!-- Parsed by jbart2a -->
 <resources>
      <string name="Import">Importer</string>
+     <string name="__leak_canary_analysis_failed">Lekkasjeanalyse mislyktes</string>
+     <string name="__leak_canary_class_has_leaked">%s har lekket</string>
+     <string name="__leak_canary_delete">Slett</string>
+     <string name="__leak_canary_delete_all">Slett alle</string>
+     <string name="__leak_canary_display_activity_label">Lekkasjer</string>
+     <string name="__leak_canary_failure_report">"Vennligst rapporter denne feilen til http://github.com/square/leakcanary
+"</string>
+     <string name="__leak_canary_leak_list_title">Lekkasje i %s</string>
+     <string name="__leak_canary_notification_message">Klikk for mer informasjon</string>
+     <string name="__leak_canary_share_heap_dump">Del heap dump</string>
+     <string name="__leak_canary_share_leak">Del info</string>
+     <string name="__leak_canary_share_with">Del med…</string>
+     <string name="__leak_canary_toast_heap_dump">Dumper minne, appen vil fryse. Brrrr.</string>
      <string name="abandon">Avbryt</string>
      <string name="accept">Aksepter</string>
      <string name="accept_or_deny">%1$s delte album %2$s med deg.</string>
@@ -13,6 +26,11 @@
      <string name="add_event">Legg til hendelse</string>
      <string name="add_event_hint">Skriv en merkelapp</string>
      <string name="add_sharer">Legg til i delte</string>
+     <string name="add_to_album">Legg til i album</string>
+     <string name="add_to_album_bulk_result">%d feilet</string>
+     <string name="add_to_album_exist">Bilde finnes allerede i målalbum</string>
+     <string name="add_to_album_failed">Kunne ikke legge til i album</string>
+     <string name="add_to_album_success">Lagt til i album</string>
      <string name="add_to_cloud_album">Legg til</string>
      <string name="add_to_cloud_exceeded_the_size_message">Filstørrelsen er for stor for MiCloud.</string>
      <string name="add_to_cloud_fail_too_many_items">Kunne ikke fullføre handlingen. Muligens for mange valgte elementer.</string>
@@ -27,14 +45,32 @@
      <string name="add_to_cloud_type_not_support_message">"Denne filtypen er ikke støttet".</string>
      <string name="add_to_cloud_unfinished_message_with_count">%1$s elementer er ikke lagt til i skyen</string>
      <string name="add_to_cloud_unknow_reasons">Ukjent feil</string>
+     <string name="add_to_secret_exist">Bilde eksisterer allerede i skjult album</string>
+     <string name="add_to_secret_fail">Kunne ikke legge til i skjult album</string>
      <string name="add_to_secret_failed_message_with_count">"%2$s elementer kan ikke bli lagt til skjult album: %1$s."</string>
+     <string name="add_to_secret_failed_with_reason">"Kan ikke legges til i skjult album. %1$s."</string>
+     <string name="add_to_secret_failed_with_reason_and_count">"%2$s elementer kan ikke legges til i skjult album. %1$s."</string>
+     <string name="add_to_secret_successful">Lagt til i skjult album</string>
      <string name="add_to_secret_successfully_message">Lagt til i skjult album</string>
      <string name="add_to_secret_unfinished_message_with_count">%1$s elementer ble ikke lagt til skjult album.</string>
      <string name="adding_recipients">Legger til mottakere...</string>
+     <string name="adding_to_album">Legger til bilder…</string>
      <string name="adjust">Juster</string>
+     <string name="album_already_exists">Et album med samme navn finnes allerede</string>
+     <string name="album_already_forced_top">Alre top</string>
+     <string name="album_camera_name">Kamera</string>
+     <string name="album_detail_page_empty">Ingen bilder eller video</string>
+     <string name="album_faces_name">Ansikt</string>
      <string name="album_member">Album-medlem %s</string>
      <string name="album_name">Album-navn</string>
+     <string name="album_others_share_baby_info_format">Babyalbum fra %s</string>
+     <string name="album_others_share_info_format">Fra %s</string>
+     <string name="album_owner_share">Mine delinger</string>
+     <string name="album_page_empty">Tom</string>
+     <string name="album_page_label">Album</string>
      <string name="album_quota_fulfiled">"Kan ikke lagre album; antall album nådd grensen.."</string>
+     <string name="album_screenshot_name">Skjermskudd</string>
+     <string name="album_setting_show_in_photo_tab_success">Dette albumet er allerede op hjemmesiden</string>
      <string name="album_share_exit_confirm">Er du sikker på at du vil avslutte det delte albumet?</string>
      <string name="album_share_kicked">Du har blitt fjernet fra %1$s</string>
      <string name="album_share_stat_content">Ny albumdelingsinvitasjon</string>
@@ -46,12 +82,17 @@
      <string name="album_share_subtitle_quitting">Avslutter…</string>
      <string name="album_share_subtitle_requesting">Laster ned albuminfo...</string>
      <string name="album_share_title_new_album">Nytt delt album</string>
+     <string name="album_type_baby">Del album</string>
+     <string name="album_type_share">Baby album</string>
+     <string name="album_type_system">System album</string>
+     <string name="album_videos_name">Videoer</string>
      <string name="albums">Album</string>
      <string name="albumset_page_title_separator"> | </string>
      <string name="alert">Kunngjøring</string>
      <string name="alert_init_merged_message">"Nå vil lokale bilder fra din enhet og bilder du har lagret i Mi Cloud bli vist sammen i Bilder-fanen.</string>
      <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
      <string name="alert_message_open_sync">Synk med din Mi Cloud først.</string>
+     <string name="alert_secret_album_enter">Kjente</string>
      <string name="alert_secret_album_message">Sveip opp i bunnen av dine album for å vise skjulte album.</string>
      <string name="alert_secret_album_set_pattern">Sett opplåsningsmønster</string>
      <string name="alert_secret_album_title">Lagt til i skjulte album</string>
@@ -80,11 +121,15 @@
      <string name="auto_update_off">Av</string>
      <string name="auto_update_on">På</string>
      <string name="auto_upload_album_comfirm_to_share">Dette albumet blir synket opp automatisk.</string>
+     <string name="auto_upload_before_share_message">Dette albumet må sikkerhetskopieres til MiCloud før du deler</string>
+     <string name="auto_upload_before_share_title">Hint</string>
+     <string name="auto_upload_disable_toast">"Bilder og videoer i dette albumet vil ikke bli sikkerhetskopiert automatisk"</string>
+     <string name="auto_upload_enable_toast">Bilder og videoer i dette albumet vil bli sikkerhetskopiert automatisk</string>
      <string name="auto_upload_face">Legg til bilder automatisk</string>
-     <string name="auto_upload_face_summary">Automatiskm match og legg til bilder i babyalbum</string>
+     <string name="auto_upload_face_summary">Automatisk match og legg til bilder i babyalbum</string>
      <string name="auto_upload_face_summary_with_people_name_when_off">Legg til bilder av \"%1$s\" til dette albumet automatisk</string>
      <string name="auto_upload_face_summary_with_people_name_when_on">Legg til bilder av \"%1$s\" til dette albumet automatisk</string>
-     <string name="auto_upload_guide_msssage">" "<Data> Automatisk synk dine bilder fra andre apper til Mi Cloud. Vis innstillinger i &lt;font color=#323232>&lt;b>Galleri > Synk med Mi Cloud > Synk automatisk&lt;/b>&lt;/font>. </Data>" "</string>
+     <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatisk synk dine bilder fra andre apper til Mi Cloud. Vis innstillinger i &lt;font color=#323232>&lt;b>Galleri > Synk med Mi Cloud > Synk automatisk&lt;/b>&lt;/font>. &lt;/Data&gt;" "</string>
      <string name="auto_upload_guide_title">Synk bilder med Mi Cloud</string>
      <string name="auto_upload_tip">Hvis et album med samme navnet allerede eksisterer i din sky, vil albumene automatisk bli slått sammen.</string>
      <string name="auto_upload_title">Synk automatisk</string>
@@ -92,6 +137,8 @@
      <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baby_album">Baby album</string>
+     <string name="baby_album_change_background">Endre bakgrunnsbilde</string>
+     <string name="baby_album_needs_auto_backup_tip">Du kan ikke deaktivere sikkerhetskopiering av babyalbum</string>
      <string name="baby_album_new_photo_page_title">"%1$s sitt album"</string>
      <string name="baby_album_new_photo_remind">Det er nye bilder i ditt babyalbum.</string>
      <string name="baby_album_no_share_user_tip">Ingen følgere foreløpig</string>
@@ -113,17 +160,25 @@
      <string name="baby_nick_name">Kallenavn</string>
      <string name="baby_sexy">Kjønn</string>
      <string name="baby_suffix">baby</string>
+     <string name="backup_automatically_summary">Sikkerhetskopier bilder og videoer for alle enheter til MiCloud. Du kan enkelt bla gjennom, sortere, redigere og dele bilder og videoer for alle enheter.</string>
+     <string name="backup_automatically_title">Sikkerhetskopiér og synk automatisk</string>
+     <string name="backup_only_in_wifi">Bare bruk Wi‑Fi for å sikkerhetskopiere bilder og video</string>
+     <string name="backup_only_in_wifi_summary">Bruk aldri mobildata til sikkerhetskopi av bilder eller videoer</string>
      <string name="baidu_bdmobile_downloads">Baidu-mobil</string>
      <string name="baidu_flyflow_downloads">Baidu-nettleser</string>
      <string name="beautyphone">Skjønhetstelefon</string>
+     <string name="begin_share">Opprett babyalbum \"%s\", og del akkurat nå</string>
+     <string name="begin_share_toast">Systemet vil opprette et baby album basert på dette for å dele, ok?</string>
      <string name="big_screen_alertdialog_title">Projekteringsenhet</string>
      <string name="bigscreen_slide_exit">Avbryt presentasjon</string>
      <string name="bigscreen_slide_fail_cause_loading">Vennligst start presentasjon etter bildet er lastet.</string>
      <string name="bigscreen_slide_playing">Lysbildevisning spiller på enheten: %s</string>
      <string name="bigscreen_video_quit">Trykk for å avslutte</string>
      <string name="black_white">Flat &amp; hvitt</string>
+     <string name="blank_app_name" />
      <string name="brannan">Brannan</string>
      <string name="browse_category">Bla gjennom bilder</string>
+     <string name="browse_category_title">Bla</string>
      <string name="buy_member_tip">Bli medlem.</string>
      <string name="by_email">E-post</string>
      <string name="by_others">Av andre</string>
@@ -136,6 +191,7 @@
      <string name="camera_connected">Kamera tilkoblet.</string>
      <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
      <string name="camera_folder_display_name">Kamerabilder</string>
+     <string name="camera_needs_auto_backup_tip">Kamera-album har blitt sikkerhetskopiert</string>
      <string name="camera_path">/DCIM/Camera</string>
      <string name="camera_setas_wallpaper">Bakgrunn</string>
      <string name="camera_view_none_message">Bilder vil bli vist her.</string>
@@ -153,6 +209,8 @@
      <string name="choose_baby_sexy">Gender</string>
      <string name="choose_cloud_album">Velg album</string>
      <string name="choose_owner_relation">Relasjon</string>
+     <string name="choose_people">Velg ansiktsalbum</string>
+     <string name="choose_some_people">Velg ansiksalbum som er %s</string>
      <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
      <string name="cityname_10">Anshun</string>
      <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -532,6 +590,7 @@
      <string name="clear_thumbnail_cache">Tøm cache for miniaturer</string>
      <string name="clear_thumbnail_cache_confirm">Cache for miniaturer vil bli tømt. Galleri vil skanne mediefiler og gjenopprette miniatyrbilder senere.</string>
      <string name="clear_thumbnail_cache_summary">Visning i Galleri vil opprette miniatyrbilder. Tømming av cachen vil øke plassen.</string>
+     <string name="click_download_gif">Trykk for å laste ned GIF</string>
      <string name="click_to_add_picture">Trykk for å legge til bilder</string>
      <string name="click_top_right">Trykk på ikonet øverst til høyre</string>
      <string name="close">Lukk</string>
@@ -548,11 +607,14 @@
      <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
      <string name="cloud_gallery_space_full_buy_more">"Kan ikke synke nye bilder med din Mi Cloud. For å synke flere bilder, kjøp mer lagringsplass."</string>
      <string name="cloud_gallery_space_full_title">Mi Cloud er full</string>
+     <string name="cloud_guide_auto_backup_title">Velg album som skal sikkerhetskopieres til Mi Cloud</string>
+     <string name="cloud_guide_welcome_title">MiCloud</string>
      <string name="cloud_media_set_set">Sky</string>
      <string name="cloud_owner_album_share_guide">"Del     	dette albumet     	med venner"</string>
      <string name="cloud_screenshots_display_name">Skjermbilder</string>
-     <string name="cloud_share_guide_message">"Du kan dele ditt MiCloud-album medvenner."</string>
-     <string name="cloud_share_guide_title">MiCloud Sharing!</string>
+     <string name="cloud_settings">Mi Cloud</string>
+     <string name="cloud_share_guide_message">"Du kan dele ditt Mi Cloud-album med venner."</string>
+     <string name="cloud_share_guide_title">Mi Cloud-deling!</string>
      <string name="cloud_tab_albums">Album</string>
      <string name="cloud_tab_all">Alle</string>
      <string name="cloud_tab_locations">Steder</string>
@@ -563,6 +625,7 @@
      <string name="cloudfolder_loading_data">Bare et sekund…</string>
      <string name="cloudfolder_name_cannot_empty">Skriv et albumnavn</string>
      <string name="cloudfolder_name_reserved">Albumnavn er reservert</string>
+     <string name="collaps_people">Flere folk</string>
      <string name="comfirm_delete_current_album">Slett dette albumet?</string>
      <string name="comma">, </string>
      <string name="confirm">OK</string>
@@ -587,13 +650,13 @@
      <string name="confirm_face">Match</string>
      <string name="confirm_left_photo_will_move_in">%s er i alle gjenværende bilder?</string>
      <string name="confirm_left_photo_will_move_out">"er ikke %s i noen av de gjenværende bildene?"</string>
-     <string name="confirm_merge_face_albums">" "<Data> Slå sammen dette albumet med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
-     <string name="confirm_merge_many_face_albums">" "<Data> Flett disse albumene med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+     <string name="confirm_merge_face_albums">" "&lt;Data&gt; Slå sammen dette albumet med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? &lt;/Data&gt;" "</string>
+     <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Flett disse albumene med &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? &lt;/Data&gt;" "</string>
      <string name="confirm_not_face">Ingne match</string>
-     <string name="confirm_recommandation_face_is">" "<Data> Er du sikker på at dette er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>? Dette ansiktet vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
-     <string name="confirm_recommandation_face_not">" "<Data> Er du sikker på at dette ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>? Dette ansiktet vil bli flytte til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
-     <string name="confirm_recommandation_multiple_faces_are">" "<Data> Er du sikker på at disse er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
-     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Er du sikker på at disse ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til\"%2$s\"-albumet etter bekreftelse. </Data>" "</string>
+     <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Er du sikker på at dette er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>? Dette ansiktet vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. &lt;/Data&gt;" "</string>
+     <string name="confirm_recommandation_face_not">" &lt;Data&gt; Er du sikker på at dette ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font>?&lt;/Data&gt;" "</string>
+     <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Er du sikker på at disse er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font? Disse ansiktene vil bli flyttet til \"%2$s\"-albumet etter bekreftelse. &lt;/Data&gt;" "</string>
+     <string name="confirm_recommandation_multiple_faces_not">" " &lt;Data&gt; Er du sikker på at disse ikke er &lt;font color=#323232>&lt;b>%1$s&lt;/b>gt;&lt;/font?&lt;/Data&gt;" "</string>
      <string name="contact_photo">Kontaktbilde</string>
      <string name="contact_tip">Kontakter</string>
      <string name="context_menu_add_contact">Legg til i kontakter</string>
@@ -607,6 +670,8 @@
      <string name="create_baby_album">Lag ett baby album</string>
      <string name="create_baby_album_dialog_msg">Lag ett album for \"%s\"?</string>
      <string name="create_baby_album_later_toast">Opprett ett babyalbum når som helst i Innstillinger</string>
+     <string name="create_new_album">Opprett nytt album</string>
+     <string name="create_new_album_failed">Oppretting feilet</string>
      <string name="create_new_cloud_folder">Opprett nytt album</string>
      <string name="create_new_face">Bytt person</string>
      <string name="create_quick_icon_on_desk">Lag snarveier</string>
@@ -627,15 +692,37 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">mobil</string>
      <string name="delete">Slett</string>
+     <string name="delete_album_failed">Album slettet.</string>
+     <string name="delete_album_msg_format">Slett \"%2$s\" album %1$s%3$s?</string>
+     <string name="delete_album_success">Album slettet.</string>
      <string name="delete_file">Er du sikker på at vil slette %1$d valgte fil(er)?</string>
      <string name="delete_files_and_folders">Er du sikker på at vil slette %1$d valgte fil(er) og %2$d valgte mappe(r)?</string>
+     <string name="delete_finish_format">%d slettet</string>
      <string name="delete_folder">Er du sikker at vil slette %1$d valgte mappe(r)?</string>
+     <string name="delete_from_album">fra \"%s\" album på alle enheter</string>
+     <string name="delete_from_album_no_account">fra \"%s\" album</string>
+     <string name="delete_from_all_devices">fra alle enheter</string>
+     <string name="delete_from_devices">Alle enheter som synker automatisk</string>
+     <string name="delete_from_devices_album">Alle enheter som har synket dette albumet</string>
+     <string name="delete_from_homepage_album">Albumene som vises på hjemmesiden</string>
+     <string name="delete_from_web">Web-album</string>
+     <string name="delete_in_album">Når du sletter bilder eller video i album, vil de slettes fra:</string>
+     <string name="delete_in_home_page">Når du sletter bilder eller video i hjemmesiden, vil de slettes fra:</string>
+     <string name="delete_in_process">Sletter</string>
+     <string name="delete_origin">Sletter bilder fra originalalbum</string>
+     <string name="delete_other_shared_images">"Beklager, du kan ikke slette bilder som deles av andre"</string>
+     <string name="delete_owner_and_other_shared_images_format">%1$d slettet, %2$d opprettholdt</string>
      <string name="delete_smb_file_fail">Kunne ikke slette SMB-fil</string>
+     <string name="delete_third_party_photo">Slett dette bildet?</string>
+     <string name="delete_third_party_video">Slett denne videoen?</string>
      <string name="deleting_files">Sletter filer...</string>
      <string name="demo_video_folder_display_name">Demovideo</string>
      <string name="deny">Avvis</string>
      <string name="description">Beskrivelse</string>
      <string name="deselect_all">Avvelg alle</string>
+     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
+     <string name="detail_ms">%1$02d:%2$02d</string>
+     <string name="detail_title">Detaljer</string>
      <string name="details">Detaljer</string>
      <string name="details_hms">%1$d:%2$02d:%3$02d</string>
      <string name="details_ms">%1$02d:%2$02d</string>
@@ -643,6 +730,7 @@
      <string name="details_title">%1$d av %2$d elementer:</string>
      <string name="device_model">Enhet</string>
      <string name="directory_info_divider">"  |  "</string>
+     <string name="do_not_remind_me">"Don't show again"</string>
      <string name="do_not_save">"Ikke lagre"</string>
      <string name="documentary">Dokumenter</string>
      <string name="done">Ferdig</string>
@@ -653,6 +741,7 @@
      <string name="download_fail">Nedlasting feilet!</string>
      <string name="download_fail_confirm_continue">Nedlastinv av %s feilet. Fortsett?</string>
      <string name="download_refocus_data">Last ned refokus data</string>
+     <string name="download_tip">Last ned</string>
      <string name="download_without_wifi_msg">"Bruk av mobildataforbindelse for å laste ned bilder vil øke ditt dataforbruk. Hvis du overskrider abonnementets datagrense, kan operatøren belaste deg ytterlige avgifter."</string>
      <string name="download_without_wifi_title">Advarsel om dataforbruk</string>
      <string name="duotone">Dobbelt-tone</string>
@@ -665,6 +754,9 @@
      <string name="email_picker_title">Legg til delt e-post</string>
      <string name="enable">Skru på</string>
      <string name="enable_cloud_for_sharing">Skru på skyalbum for å vise delte bilder.</string>
+     <string name="enable_face_album_summary">Automatisk sorter bilder etter hvem som er i dem</string>
+     <string name="enable_face_album_title">Sorter etter folk</string>
+     <string name="enable_micloud_service">Begynn å bruke Mi Cloud</string>
      <string name="enabling_face_feature">Bare et sekund…</string>
      <string name="enter_email_hint">"Legg til epost-adresse "</string>
      <string name="error_album_not_exist">"Album eksisterer ikke."</string>
@@ -690,16 +782,22 @@
      <string name="exit_share_failed">Kunne ikke lukke albumet %1$s</string>
      <string name="exit_share_in_process">Prøver å lukke album, vennligst vent...</string>
      <string name="exit_share_successfully">Albumet %1$s lukket</string>
+     <string name="exit_video_play">Avslutt</string>
+     <string name="expand_people">Utvid</string>
      <string name="exposure_time">Eksponeringstid</string>
      <string name="external_sd_card">SD kort</string>
      <string name="external_sdcard_root">Rot-mappe for eksternt SD-kort</string>
      <string name="external_usb_device">USB-enhet</string>
      <string name="external_usb_device_hm">Ekstern USB-lagring</string>
      <string name="face_album">Folk</string>
+     <string name="face_album_detecting_tip">Bare et sekund…</string>
+     <string name="face_album_empty">Tom.</string>
      <string name="face_album_long_tap_tip">For å velge flere folk eller endre gruppeinnstilling, trykk &amp; og hold på et profilbilde</string>
      <string name="face_album_new_name_hint">Nytt navn</string>
      <string name="face_album_not_named">Ikke navngitt</string>
+     <string name="face_album_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
      <string name="face_album_rename_hint">Skriv navn</string>
+     <string name="face_album_use_tip">Automatisk sortér bilder etter hvem som er i dem.</string>
      <string name="face_albumset_detecting_tip">Bare et sekund…</string>
      <string name="face_albumset_empty">Tom.</string>
      <string name="face_albumset_loading_data">Laster data…</string>
@@ -745,7 +843,9 @@
      <string name="free">Lediig</string>
      <string name="gallery_cloud_provider_name">Mi Cloud-bilder</string>
      <string name="gallery_setting">Galleri</string>
+     <string sync feature is not enabled</string>
      <string name="get_album_info_in_process">"Ber om felles-albumets info, vennligst vent..."</string>
+     <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
      <string name="global_setting">Innstillinger</string>
      <string name="go_setting">Vis innstillinger</string>
@@ -758,12 +858,15 @@
      <string name="group_by_tags">Via tags</string>
      <string name="group_by_time">Via tidspunkt</string>
      <string name="has_invalid_recipient">Ugyldige mottaker(e): %1$s</string>
+     <string name="have_known">Kjent</string>
      <string name="height">Høyde</string>
      <string name="hidden_album_display_name">Skjult album</string>
      <string name="highlight">Høydepunkter</string>
      <string name="highlight_abbr">H</string>
      <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
      <string name="home_my_captured_items">Bilder i alt</string>
+     <string name="home_page_empty">Tom</string>
+     <string name="home_page_label">Bilde</string>
      <string name="home_page_tab_cloud">Sky</string>
      <string name="home_page_tab_face">Folk</string>
      <string name="home_page_tab_local">Offline</string>
@@ -771,6 +874,7 @@
      <string name="how_many_pics">%d Bilder</string>
      <string name="how_many_sub_folders">%d Mapper</string>
      <string name="how_many_videos">%d Videoer</string>
+     <string name="how_to_set_relation">Langt trykk  på et album for å stille grupper</string>
      <string name="hue_polymorphism">photoeditor_effect_hue</string>
      <string name="hybrid_check_network">Nettverksinnstillinger</string>
      <string name="hybrid_data_error">En feil oppsto</string>
@@ -811,6 +915,7 @@
      <string name="internal_sd_card">Internt SD-kort</string>
      <string name="internal_sd_card_hm">Telefon-lagring</string>
      <string name="internal_sdcard_root">Rot-mappe for internt SD-kort</string>
+     <string name="introduce">Sikkerhetskopiér bilder og videoer automatisk</string>
      <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
      <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
      <string name="invite_send_sms_tip">Operatøren din kan belaste deg for SMS-meldingen brukt for å sende denne invitasjonen.</string>
@@ -836,13 +941,20 @@
      <string name="last_new_year">Siste nyttår</string>
      <string name="last_valentine_day">Siste valentinsdag</string>
      <string name="last_year_today">1 år siden</string>
+     <string name="limit_height">Høyde bør være &gt; 0</string>
+     <string name="limit_width">Lengde bør være &gt; 0</string>
      <string name="loading">Laster…</string>
+     <string name="loading_fail">Feil under nedlastning</string>
      <string name="loading_failure">Foto kan ikke lastes</string>
+     <string name="loading_gif">Laster ned gif…</string>
+     <string name="loading_gif_thumbnail">Laster ned gif-miniatyr…</string>
      <string name="loading_image">Laster ned bilde…</string>
+     <string name="loading_image_thumbnail">Laster ned minitatyr…</string>
      <string name="loading_members">Laster medlemmer...</string>
      <string name="loading_suspend">Nedlastning pauset: Vil fortsette når WiFi-tilkobling er tilgjengelig</string>
      <string name="loading_thumbnail">Laster miniatyrer...</string>
      <string name="loading_video">Laster ned video…</string>
+     <string name="loading_video_thumbnail">Laster ned videocover…</string>
      <string name="local_albums">Lokale bilder</string>
      <string name="local_time">(Lokal)</string>
      <string name="location">Sted</string>
@@ -854,6 +966,7 @@
      <string name="manual">Manuel</string>
      <string name="me">Meg</string>
      <string name="megabyteShort">MB</string>
+     <string name="menu_album_new_album">Nytt album</string>
      <string name="menu_item_sort">Sorter</string>
      <string name="menu_item_sort_date">Date</string>
      <string name="menu_item_sort_date_asc">Dato stigende</string>
@@ -896,6 +1009,7 @@
      <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
      <string name="must_pick_file">Velg et bilde</string>
      <string name="name_wrong">"Dette er ikke %s"</string>
+     <string name="need_to_log_in_xiaomi_account">Logg inn for å sikkerhetskopiere bilder og videoer til Mi Cloud automatisk</string>
      <string name="need_to_turn_on_network">"Du har ingen internettforbindelse"</string>
      <string name="need_to_turn_on_sync">Skru på synk med Mi Cloud først</string>
      <string name="need_to_turn_on_wlan">Koble til Wi-Fi først</string>
@@ -904,6 +1018,7 @@
      <string name="network_connected_rescan">"Kan ikke koble til nettverket"</string>
      <string name="new_device_tips">"Trykk for å vise enhet"</string>
      <string name="new_feature">Ny funksjon</string>
+     <string name="next">Next</string>
      <string name="no">Nei</string>
      <string name="no_albums_alert">Ingen album tilgjengelige.</string>
      <string name="no_connectivity">"Noen plasseringer kunne ikke identifiseres på grunn av nettverksproblemer."</string>
@@ -932,13 +1047,24 @@
      <string name="open_public_title">Del offentlig</string>
      <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
      <string name="open_sync_title">Synk med Mi Cloud</string>
+     <string name="operation_add_album">Legg til i album</string>
      <string name="operation_add_picture">Legg til elementer</string>
      <string name="operation_add_secret">Legg til i skjult album</string>
      <string name="operation_add_secret_button">Skjul</string>
+     <string name="operation_delete">Delete</string>
      <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slettet på samme tid."</string>
+     <string name="operation_detail">Detaljer</string>
+     <string name="operation_disable_auto_upload">Deaktiver automatisk sikkerhetskopiering</string>
+     <string name="operation_download">Download photo (%s)</string>
+     <string name="operation_edit">Endre</string>
+     <string name="operation_enable_auto_upload">Aktiver automatisk sikkerhetskopiering</string>
      <string name="operation_failed">Operasjon feilet!</string>
+     <string name="operation_force_top">Stick</string>
      <string name="operation_give_name">Navn</string>
+     <string name="operation_hide">Hide</string>
      <string name="operation_in_process">Behandler...</string>
+     <string name="operation_not_show_in_photos_tab">Ikke vis i bildefane</string>
+     <string name="operation_projection">Kast</string>
      <string name="operation_refresh">Oppdater</string>
      <string name="operation_remove_from_face_album">Fjern fra album</string>
      <string name="operation_remove_from_face_album_button">Fjern</string>
@@ -946,15 +1072,25 @@
      <string name="operation_remove_secret_button">Vis</string>
      <string name="operation_rename">Gi nytt navn</string>
      <string name="operation_rename_baby">Skriv navn</string>
+     <string name="operation_save">Lagre</string>
+     <string name="operation_send">Send</string>
      <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
+     <string name="operation_set_contact_photo">Sett som kontaktbilde</string>
+     <string name="operation_set_wallpaper">Sett som bakgrunnsbilde</string>
      <string name="operation_share">Del</string>
+     <string name="operation_show_in_photos_tab">Vis i hjemmeside</string>
+     <string name="operation_show_on_map">Vis på kart</string>
+     <string name="operation_slide_show">Vis lysbildeshow</string>
      <string name="operation_successful">Delt vellykket!</string>
      <string name="operation_too_often">Operasjon overstiger frekvensgrense, prøv igjen etter 1 minutt.</string>
+     <string name="operation_unforce_top">Unstick</string>
+     <string name="operation_unhide">Vis</string>
      <string name="operation_unset_as_screensaver">Avbryt skjermsparer</string>
      <string name="orientation">Orientering</string>
      <string name="original">Original</string>
      <string name="original_scale">Original skala</string>
      <string name="other_category">Andre innstillinger</string>
+     <string name="other_settings">Flere innstillinger</string>
      <string name="owner_album_subtitle">Delt med %1$s folk</string>
      <string name="paint_brush">Malingspensel</string>
      <string name="paint_cancel_context">"Forkast endringene du har gjort med dette bildet?"</string>
@@ -967,9 +1103,12 @@
      <string name="paint_highlight_cancel_title">Forkast endringer</string>
      <string name="path">Sti</string>
      <string name="people">Personer</string>
+     <string name="people_page_label">Ansikt</string>
+     <string name="people_page_unname">Ikke navngitt</string>
      <string name="pet_album_display_name">Dyrebilder</string>
      <string name="petabyteShort">PB</string>
      <string name="phone_number_empty_alert">Legg til telefonnummer</string>
+     <string name="photo">Bilde</string>
      <string name="photo_page_always_rotate">Auto-roter bilder</string>
      <string name="photo_page_detail_show_in_the_map">Vis meg denne plasseringen på kartet</string>
      <string name="photo_page_save_image">Lagre</string>
@@ -987,10 +1126,14 @@
      <string name="pick_too_many_recipients">For mange mottakere</string>
      <string name="pick_too_much_tips">Maks %d elementer.</string>
      <string name="pick_with_limited_upper_bound_title">Du kan velge %d elementer</string>
+     <string name="picker_full_format">%d elementer maks.</string>
      <string name="picker_no_album_selected">Ingen album valgt</string>
      <string name="picker_no_items_selected">Ingen elementer valgt</string>
      <string name="picker_select_album_title_empty">Velg et album</string>
      <string name="picker_tab_photo">Bilde</string>
+     <string name="picker_title_format">du kan velge %d</string>
+     <string name="picker_title_selection_format">%d valgt</string>
+     <string name="picker_title_unlimit">velg bilde</string>
      <string name="pocket_camera_picture">Bilder fra lommekamera</string>
      <string name="pocket_camera_video">Videoer fra lommekamera</string>
      <string name="pocketcamera">Lommekamera</string>
@@ -1002,6 +1145,14 @@
      <string name="priority_storage_summary">Når SD-kort er satt inn, last ned filer til SD-kortet automatisk.</string>
      <string name="project_available_tip">Skjerm oppdaget</string>
      <string name="projection">Projeksjon</string>
+     <string name="projection_checkbox_text">Husk denne skjermen</string>
+     <string name="projection_local_mobile">Mobil</string>
+     <string name="projection_multi_title">Enhetsliste</string>
+     <string name="projection_single_title">Kast til %s</string>
+     <string name="projection_slide_exit">Avslutt lysbildeshow</string>
+     <string name="projection_slide_fail_cause_loading">Restart lysbildeshow etter lasting av bilde</string>
+     <string name="projection_slide_playing">Lysbildeshow spilles av på %s</string>
+     <string name="projection_video_quit">Trykk for å avslutte</string>
      <string name="public_url_descript">Alle kan få tilgang til albumet ved hjelp av denne nettadressen</string>
      <string name="publish_failed">Klarte ikke å publisere.</string>
      <string name="publish_succeeded">Album publisert</string>
@@ -1027,7 +1178,14 @@
      <string name="relation_text_maternal_grandfather">Morfar</string>
      <string name="relation_text_maternal_grandmother">Mormor</string>
      <string name="relation_text_mother">Mor</string>
+     <string name="relation_with_you">Velg et forholdet til deg</string>
+     <string name="remind_shows_in_photo_tab_summary">Vis dette albumet på hjemmesiden?</string>
+     <string name="remind_shows_in_photo_tab_title">Album-innstillinger</string>
+     <string name="remove_from_secret_fail">Fjerning fra skjult album mislyktes</string>
      <string name="remove_from_secret_failed_message_with_count">"%2$s elementer kan ikke bli fjernet fra skjult album: %1$s."</string>
+     <string name="remove_from_secret_failed_with_reason">"Kunne ikke fjernes fra skjult album. %1$s."</string>
+     <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elementer kan ikke fjernes fra skjult album. %1$s."</string>
+     <string name="remove_from_secret_successful">Fjernet fra skjult album</string>
      <string name="remove_from_secret_successfully_message">Fjernet fra skjult album</string>
      <string name="remove_from_secret_unfinished_message_with_count">%1$s elementer ble ikke fjernet fra skjult album,</string>
      <string name="remove_hidden_album">Opphev skjuling</string>
@@ -1037,6 +1195,7 @@
      <string name="rename_fail_msg">"Kunne ikke endre navn"</string>
      <string name="rename_failed">Endring av navn mislykkes</string>
      <string name="rename_failed_duplicated_name">Kunne ikke gi nytt navn, navn eksisterer allerede.</string>
+     <string name="rename_from_contact">Navn fra kontakt</string>
      <string name="renren_image">RenRen</string>
      <string name="request_qr_code_failed">QR-kode henting feilet, trykk for å prøve igjen</string>
      <string name="request_sms_url_failed">Kunne ikke be om URL for deling via SMS</string>
@@ -1073,6 +1232,10 @@
      <string name="sdcard_root">Rotmappe til SD-kortet</string>
      <string name="seconds">sekunder</string>
      <string name="secret_album_display_name">Skjult album</string>
+     <string name="secret_reason_space_full">Skyalbumet er fullt</string>
+     <string name="secret_reason_too_large">Fil er for stor</string>
+     <string name="secret_reason_type_not_support">"Filtypen er ikke støttet"</string>
+     <string name="secret_reason_unknow_reasons">Ukjent feil</string>
      <string name="select_album">Rediger</string>
      <string name="select_all">Velg alle</string>
      <string name="select_auto_upload_albums">Velg album å synke</string>
@@ -1085,12 +1248,18 @@
      <string name="send_invitation_fail">"Kunne ikke sende invitasjon"</string>
      <string name="send_multiple_files_hint_format">Send (%s)</string>
      <string name="send_public_url">Send album-URL</string>
+     <string name="send_too_many_files_error">"Kan ikke sende så mange elementer (maks %d elementer)."</string>
      <string name="sepia">Sepia</string>
      <string name="set_as_baby_lock_wallpaper">Sett som bakgrunn på låseskjerm</string>
      <string name="set_baby_icon_picker_default_title">Sett babyikon</string>
      <string name="set_bg_file_exist_message">Dette elementet eksisterer allerede</string>
      <string name="set_bg_picker_default_title">Sett cover-bilde</string>
      <string name="set_bg_unknow_reasons">Ukjent feil</string>
+     <string name="set_face_group_toast_msg_new_user">Langt-trykk på ansiktscover, ansikt kan slås sammen eller ignoreres.</string>
+     <string name="set_face_group_toast_msg_old_user">Langt-trykk på ansiktscover, ansikt kan bli delt i familie, venner, klassekamerater osv.</string>
+     <string name="set_face_group_toast_title_new_user">Forslag</string>
+     <string name="set_face_group_toast_title_old_user">Ansikt kan deles i grupper</string>
+     <string name="set_group">Sett gruppe</string>
      <string name="set_hidden_album">Skjul</string>
      <string name="set_image">Sett bilde som</string>
      <string name="set_label_all_albums">Alle album</string>
@@ -1109,6 +1278,7 @@
      <string name="shadow">Skygger</string>
      <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share_album">Del album</string>
+     <string name="share_album_needs_auto_upload_tip">Automatisk sikkerhetskoipiering kan ikke deaktiveres i delte album</string>
      <string name="share_album_owner">Eier</string>
      <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
      <string name="share_by_email_start">Prøver å dele %1$s i bakgrunnen</string>
@@ -1116,11 +1286,13 @@
      <string name="share_current_album">Del gjeldende album</string>
      <string name="share_public_url_text">Jeg har delt albumet %1$s. Utforsk %2$s</string>
      <string name="share_title_more">Mer</string>
+     <string name="share_with_family">Del med familie</string>
      <string name="sharer_quota_fulfiled">"Du har allerede delt dette albumet med maksimum mengde folk."</string>
      <string name="sharpen">Gjør skarpere</string>
      <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
      <string name="show_all">Bilder og videoer</string>
      <string name="show_hidden_album">Vis skjulte album</string>
+     <string name="show_hidden_album_title">Vis skjulte album</string>
      <string name="show_hidden_albums">Vis skjulte album</string>
      <string name="show_images_only">Kun bilder</string>
      <string name="show_on_map">Vis på kart</string>
@@ -1139,9 +1311,14 @@
      <string name="slideshow_interval">Lysbilde tidsinterval</string>
      <string name="slideshow_interval_dialog_title">Lysbilde tidsinterval skal være større enn 0 sekunder</string>
      <string name="slideshow_interval_invalid">Ugyldig tidsinterval satt, skal være mellom 1~3600. Fortsetter med standard interval</string>
+     <string name="slideshow_interval_title">Vis hvert lysbilde i</string>
+     <string name="slideshow_interval_value">%1$d sekunder</string>
      <string name="slideshow_repeat_mode">Gjenta</string>
      <string name="slideshow_time_select_title">Velg lysbildeshow-tid</string>
      <string name="slideshow_time_title">Lysbildeshow-tid</string>
+     <string name="slim_after_backuped_summary">Bytt ut bilder med full oppløsning lokalt, med optimaliserte versjoner etter at de har blitt sikkerhetskopierte til Mi Cloud. Bildene med full oppløsning er fortsatt lagret i Mi Cloud. Dette kan spare mye lokal lagringsplass.</string>
+     <string name="slim_after_backuped_summary_with_size">Bytt ut bilder med full oppløsning lokalt, med optimaliserte versjoner etter at de har blitt sikkerhetskopierte til Mi Cloud. Bildene med full oppløsning er fortsatt lagret i Mi Cloud. Dette kan spare %1$s.</string>
+     <string name="slim_after_backuped_title">Optimaliser lokal lagring etter sikkerhetskopiert</string>
      <string name="sports_camera">Sportskamera</string>
      <string name="square">Kvadrat</string>
      <string name="start_slide_show">Start lysbildevisning</string>
@@ -1159,6 +1336,7 @@
      <string name="sync_album_summary">Synk med Mi Cloud</string>
      <string name="sync_battery_low">Lavt batteri</string>
      <string name="sync_cloud_space_full">Ikke nok plass i skyen</string>
+     <string name="sync_diabled_toast">Synkfunksjonen er ikke aktivert</string>
      <string name="sync_history_power_on">Synk kun bilder under ladning</string>
      <string name="sync_in_progress_message">Laster ned album…</string>
      <string name="sync_ok">Synk</string>
@@ -1183,10 +1361,23 @@
      <string name="time_line_view">Tidslinjevisning</string>
      <string name="times">Tidspunkter</string>
      <string name="tint">Tint</string>
+     <string name="tip_capture_location">Plassering:</string>
+     <string name="tip_capture_params">Tatt-parametere:</string>
+     <string name="tip_capture_time">Tatt den:</string>
+     <string name="tip_file_info">Filinfo:</string>
+     <string name="tip_file_path">Lokal sti:</string>
+     <string name="tip_not_download">Ingen lastet ned. Automatisk last ned når du spiller av.</string>
      <string name="title">Tittel</string>
      <string name="title_set_name">Sett navn</string>
+     <string name="title_warn">Advarsel</string>
      <string name="to_count">%d totalt</string>
+     <string name="to_enable_gallery_sync_dialog_message">Først aktiver galleri-synkfunksjonen</string>
+     <string name="to_enable_sync_dialog_message">st aktiver galleri-synkfunksj</string>
+     <string name="to_enable_sync_dialog_positive_button_text">Go</string>
+     <string name="to_enable_sync_dialog_title">Sync</string>
      <string name="too_many_recipients">Melding har for mange mottakere (%1$s), %2$s er mengden mottakere som er godtatt.</string>
+     <string name="trash_bin">Søppelkasse</string>
+     <string name="trash_bin_summary">Bla gjennom sikkerhetskopierte bilder som ble slettet nylig</string>
      <string name="try_to_send">Prøv å sende</string>
      <string name="ubifocus_data_invalid">Noe data for dette bildet er ugyldig</string>
      <string name="ubifocus_data_missing">Noe data er tapt</string>
@@ -1204,14 +1395,20 @@
      <string name="unpublishing">Avlyser publisering, vennligst vent...</string>
      <string name="untagged">Ikke tagget</string>
      <string name="upgrade_micloud_space">Få mer plass</string>
+     <string name="user_agree">Godkjenn</string>
      <string name="user_agreement">" Tjenestevilkår"</string>
+     <string name="user_agreement2">" Tjenestevilkår"</string>
+     <string name="user_agreement4">Personvern</string>
      <string name="user_alias_self">Meg</string>
+     <string name="user_notice_identify_summary_format">"Ved å bruke denne tjenesten, samtykker du til Xiaomi sine %1$s og %2$s."</string>
+     <string name="user_notice_title">Attention</string>
      <string name="user_policy">Personvernspolitikk</string>
      <string name="video_err">"Kan ikke avspille video."</string>
      <string name="video_not_exist">Video eksisterer ikke!</string>
      <string name="videos">Videoer</string>
      <string name="view_baby_album">Vis babyalbum</string>
      <string name="view_baby_info">Edit baby information</string>
+     <string name="view_by_gallery_tip">MIUI-galleri</string>
      <string name="view_face_album">Vis album</string>
      <string name="view_queuing_status">Sjekk status</string>
      <string name="view_sharers">Vis delere</string>
@@ -1225,6 +1422,7 @@
      <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>
+     <string name="welcome">Velkommen til Mi Cloud</string>
      <string name="where_is_barcode">Hvor er QR-koden?</string>
      <string name="white_balance">Hvitbalanse</string>
      <string name="who_is_this">Hvem?</string>
@@ -1234,6 +1432,7 @@
      <string name="widget_type_shuffle">Bland alle bilder</string>
      <string name="width">Bredde</string>
      <string name="wps">WPS</string>
+     <string name="xiaomi_account_not_exists_toast">"Xiaomi konto eksisterer ikke"</string>
      <string name="yellow_page">Katalog</string>
      <string name="yes">Ja</string>
      <string name="you_are" />
