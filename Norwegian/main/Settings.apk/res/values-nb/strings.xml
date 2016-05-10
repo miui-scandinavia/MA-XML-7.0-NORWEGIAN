@@ -1937,7 +1937,7 @@
      <string name="music_headset_calibrate_volume_up">Øk volum</string>
      <string name="music_headset_calibrate_wrong_key">"Det er feil knapp"</string>
      <string name="music_headset_mode_music">Styr musikkavspilling</string>
-     <string name="music_headset_mode_settings">Eksterne hodetelefon-kanpper</string>
+     <string name="music_headset_mode_settings">Eksterne hodetelefon-knapper</string>
      <string name="music_headset_mode_volume">Styr volumstyrke</string>
      <string name="music_headset_no_contected">Ingen hodetelefoner oppdaget</string>
      <string name="music_headset_settings">Hodetelefoner og lydeffekter</string>

@@ -291,9 +291,9 @@
         <item>3.5</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
-        <item>Svak</item>
-        <item>Medium</item>
         <item>Kraftig</item>
+        <item>Medium</item>
+        <item>Svak</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Bruk aldri HDCP-kontroll</item>

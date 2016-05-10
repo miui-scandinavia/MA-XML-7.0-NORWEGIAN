@@ -34,3 +34,4 @@ Thumbs.db
 *.sqlite
 .DS_Store
 Norwegian/main/Mipay.apk/res/values-nb/strings.xml
+Norwegian/crowdin.yaml
